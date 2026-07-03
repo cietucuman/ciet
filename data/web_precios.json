@@ -1,0 +1,4183 @@
+{
+ "fecha": "2026-07-03",
+ "fuente": "Tiendas online (plataforma VTEX), precios geolocalizados en Tucumán (CP 4000).",
+ "cadenas": [
+  "Hipermercado Carrefour",
+  "Vea",
+  "Jumbo"
+ ],
+ "muestra": 250,
+ "hallados": {
+  "Hipermercado Carrefour": 238,
+  "Vea": 225,
+  "Jumbo": 225
+ },
+ "precios": {
+  "7791473001283": {
+   "Hipermercado Carrefour": {
+    "precio": 5990.0,
+    "link": "https://www.carrefour.com.ar/bizcochuelo-redondo-de-vainilla-carrefour-3-capas-370-g-544887/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4552.25,
+    "link": "https://www.vea.com.ar/bizcochuelo-p-3-capas-redondo-vainilla-bonmase-bli-gr-450/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4552.25,
+    "link": "https://www.jumbo.com.ar/bizcochuelo-p-3-capas-redondo-vainilla-bonmase-bli-gr-450/p",
+    "disponible": false
+   },
+   "descripcion": "Bizcochuelo Vainilla redondo 3 capas BSA-370-gr."
+  },
+  "7790070318398": {
+   "Hipermercado Carrefour": {
+    "precio": 1699.0,
+    "link": "https://www.carrefour.com.ar/fideos-dedalitos-lucchetti-500-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1099.0,
+    "link": "https://www.vea.com.ar/fideos-dedalitos-lucchetti-x500-gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1700.0,
+    "link": "https://www.jumbo.com.ar/fideos-dedalitos-lucchetti-x500-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "fideos  LUCCHETTI Dedalitos PAQ-500-gr."
+  },
+  "8445291020047": {
+   "Hipermercado Carrefour": {
+    "precio": 6671.25,
+    "link": "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6599.0,
+    "link": "https://www.vea.com.ar/leche-polvo-extra-calcio-370-grs-svelty/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 9150.0,
+    "link": "https://www.jumbo.com.ar/leche-polvo-extra-calcio-370-grs-svelty/p",
+    "disponible": true
+   },
+   "descripcion": "Leche en Polvo Svelty Extra Calc paq370g sof-370-gr."
+  },
+  "7506306249974": {
+   "Hipermercado Carrefour": {
+    "precio": 6005.0,
+    "link": "https://www.carrefour.com.ar/desodorante-en-aerosol-axe-aqua-citrus-150-cc-739407/p",
+    "disponible": true
+   },
+   "descripcion": "deo AXE aqua citrus 150ml AER-150-ml."
+  },
+  "7791120098888": {
+   "Hipermercado Carrefour": {
+    "precio": 2205.0,
+    "link": "https://www.carrefour.com.ar/arroz-integral-molinos-ala-bolsa-1-kg/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1799.0,
+    "link": "https://www.vea.com.ar/arroz-molinos-ala-integral-x1kg/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2450.0,
+    "link": "https://www.jumbo.com.ar/arroz-molinos-ala-integral-x1kg/p",
+    "disponible": true
+   },
+   "descripcion": "Arroz MOLINOS ALA Integral x1kg PAQ-1000-gr."
+  },
+  "7790250097648": {
+   "Hipermercado Carrefour": {
+    "precio": 2800.0,
+    "link": "https://www.carrefour.com.ar/toallas-femeninas-ladysoft-normal-soft-8-uni-731840/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2815.0,
+    "link": "https://www.vea.com.ar/toallitas-normal-soft-8-un-ladysoft/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2800.0,
+    "link": "https://www.jumbo.com.ar/toallitas-normal-soft-8-un-ladysoft/p",
+    "disponible": true
+   },
+   "descripcion": "toa fem LADYSOFT norm suav alg 8x54 PAQ-8-un."
+  },
+  "7798031470796": {
+   "Hipermercado Carrefour": {
+    "precio": 3499.0,
+    "link": "https://www.carrefour.com.ar/fideos-de-arroz-sin-tacc-wakas-fusilli-con-maiz-300-grs-746946/p",
+    "disponible": true
+   },
+   "descripcion": "Wakas Fusilli multicereaL MAIZx300g BSA-300-gr."
+  },
+  "7790990003121": {
+   "Hipermercado Carrefour": {
+    "precio": 2595.0,
+    "link": "https://www.carrefour.com.ar/detergente-magistral-ultra-marina-en-botella-300-ml-741295/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2299.0,
+    "link": "https://www.vea.com.ar/detergente-magistral-ultra-marina-botella-300-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3450.0,
+    "link": "https://www.jumbo.com.ar/detergente-magistral-ultra-marina-botella-300-ml/p",
+    "disponible": true
+   },
+   "descripcion": "detergente MAGISTRAL ult mar bot 300ml BOT-300-ml."
+  },
+  "7790070431486": {
+   "Hipermercado Carrefour": {
+    "precio": 1959.0,
+    "link": "https://www.carrefour.com.ar/arroz-largo-fino-00000-lucchetti-1-kg-726297/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1699.0,
+    "link": "https://www.vea.com.ar/arroz-largo-fino-luchetti-1-kg/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2100.0,
+    "link": "https://www.jumbo.com.ar/arroz-largo-fino-luchetti-1-kg/p",
+    "disponible": true
+   },
+   "descripcion": "Arroz LUCHETTI Largo Fino x1kg PAQ-1000-gr."
+  },
+  "7790580129972": {
+   "Hipermercado Carrefour": {
+    "precio": 345.0,
+    "link": "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 400.0,
+    "link": "https://www.vea.com.ar/jugo-manzana-roja-7-gr-bc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 450.0,
+    "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
+    "disponible": true
+   },
+   "descripcion": "jugo en polvo BC Manzana Roja 7gr SOB-7.091-gr."
+  },
+  "7790990002827": {
+   "Hipermercado Carrefour": {
+    "precio": 16100.0,
+    "link": "https://www.carrefour.com.ar/jabon-liquido-para-ropa-ariel-limpieza-profunda-pouch-3-lts-741292/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8899.0,
+    "link": "https://www.vea.com.ar/jabon-liquido-ariel-delicados-doypack-3000-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 16045.0,
+    "link": "https://www.jumbo.com.ar/jabon-liquido-ariel-delicados-doypack-3000-ml/p",
+    "disponible": true
+   },
+   "descripcion": "jabon liquido ARIEL delicados dp 3000ml DOY-300-ml."
+  },
+  "7798184581066": {
+   "Hipermercado Carrefour": {
+    "precio": 1949.0,
+    "link": "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-cherry-rinde-5-litros-150-ml-638075/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 1950.0,
+    "link": "https://www.vea.com.ar/limpiador-multiuso-para-diluir-cherry-rinde-5-litros-x-150ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2000.0,
+    "link": "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-cherry-rinde-5-litros-x-150ml/p",
+    "disponible": true
+   },
+   "descripcion": "Limpiador liquido concentrado MULTIMAX SCH-155-ml."
+  },
+  "7790742358608": {
+   "Hipermercado Carrefour": {
+    "precio": 2950.0,
+    "link": "https://www.carrefour.com.ar/leche-protein-la-serenisima-1l-676752/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2843.0,
+    "link": "https://www.vea.com.ar/leche-uat-proteina-1-lts-la-serenisima/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2950.0,
+    "link": "https://www.jumbo.com.ar/leche-uat-proteina-1-lts-la-serenisima/p",
+    "disponible": true
+   },
+   "descripcion": "Leche Uat Proteina La serenisima 1l BOT-1000-ml."
+  },
+  "7790070320292": {
+   "Hipermercado Carrefour": {
+    "precio": 999.0,
+    "link": "https://www.carrefour.com.ar/fideos-tallarines-favorita-500-g/p",
+    "disponible": true
+   },
+   "descripcion": "Favorita Tallarin Plus PAQ-500-gr."
+  },
+  "7792200000319": {
+   "Hipermercado Carrefour": {
+    "precio": 1355.0,
+    "link": "https://www.carrefour.com.ar/bizcochos-9-de-oro-azucarados-210-g/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 1300.0,
+    "link": "https://www.vea.com.ar/bizcochos-dulces-azucarados-9-de-oro-210-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1300.0,
+    "link": "https://www.jumbo.com.ar/bizcochos-dulces-azucarados-9-de-oro-210-gr/p",
+    "disponible": false
+   },
+   "descripcion": "Bizcochos 9 de oro azucarados x 210 gr. PAQ-210-gr."
+  },
+  "7791293047492": {
+   "Hipermercado Carrefour": {
+    "precio": 10185.0,
+    "link": "https://www.carrefour.com.ar/acondicionador-dove-regeneracion-de-reparacion-400-cc-718515/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5399.0,
+    "link": "https://www.vea.com.ar/acondicionador-dove-ritual-de-reparacion-coco-400-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 5399.0,
+    "link": "https://www.jumbo.com.ar/acondicionador-dove-ritual-de-reparacion-coco-400-ml/p",
+    "disponible": false
+   },
+   "descripcion": "acond DOVE ritual de repar coco 400ml BOT-400-ml."
+  },
+  "7791290794122": {
+   "Hipermercado Carrefour": {
+    "precio": 4283.5,
+    "link": "https://www.carrefour.com.ar/detergente-cif-bioactive-lima-750-cc-717851/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 3999.0,
+    "link": "https://www.vea.com.ar/detergente-bioactive-lima-750-ml-botella-cif/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7000.0,
+    "link": "https://www.jumbo.com.ar/detergente-bioactive-lima-750-ml-botella-cif/p",
+    "disponible": true
+   },
+   "descripcion": "lavavajilla CIF bioactive lima 750ml BOT-750-ml."
+  },
+  "7790773007063": {
+   "Hipermercado Carrefour": {
+    "precio": 1735.0,
+    "link": "https://www.carrefour.com.ar/hisopos-q-soft-estuche-x-75-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1750.0,
+    "link": "https://www.vea.com.ar/hisopos-75-un-qsoft-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1850.0,
+    "link": "https://www.jumbo.com.ar/hisopos-75-un-qsoft-2/p",
+    "disponible": true
+   },
+   "descripcion": "hisopos QSOFT PVC-75-un."
+  },
+  "7702018037803": {
+   "Vea": {
+    "precio": 15900.0,
+    "link": "https://www.vea.com.ar/maquina-mach3-sensitive-1-un-gillette-prestobarba/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 17200.0,
+    "link": "https://www.jumbo.com.ar/maquina-mach3-sensitive-1-un-gillette-prestobarba/p",
+    "disponible": true
+   },
+   "descripcion": "maquina GILLETTE mach3 sensitive 1up BLI-1-un."
+  },
+  "7790150150252": {
+   "Hipermercado Carrefour": {
+    "precio": 13579.0,
+    "link": "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-170-g-696403/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 12299.0,
+    "link": "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 14050.0,
+    "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p",
+    "disponible": true
+   },
+   "descripcion": "Café LA VIRGINIA selección tostado x170g FCO-170-gr."
+  },
+  "7790199603856": {
+   "Hipermercado Carrefour": {
+    "precio": 1610.0,
+    "link": "https://www.carrefour.com.ar/harina-de-trigo-integral-morixe-1-kg/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1599.0,
+    "link": "https://www.vea.com.ar/harina-morixe-integral-1kg/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1599.0,
+    "link": "https://www.jumbo.com.ar/harina-morixe-integral-1kg/p",
+    "disponible": false
+   },
+   "descripcion": "Harina MORIXE Integral 1kg BSA-1-Kg"
+  },
+  "7790150360262": {
+   "Hipermercado Carrefour": {
+    "precio": 1860.0,
+    "link": "https://www.carrefour.com.ar/te-mezcla-de-hierbas-en-saquitos-la-virginia-x-25-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2000.0,
+    "link": "https://www.vea.com.ar/hierba-la-virginia-mezcla-de-hierbas-25-saquitos/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2100.0,
+    "link": "https://www.jumbo.com.ar/hierba-la-virginia-mezcla-de-hierbas-25-saquitos/p",
+    "disponible": true
+   },
+   "descripcion": "Hierba La Virginia Mezcla Hirbs Ni20 25s EST-25-gr."
+  },
+  "4005808257669": {
+   "Hipermercado Carrefour": {
+    "precio": 2025.0,
+    "link": "https://www.carrefour.com.ar/desodorante-antitranspirante-femenino-nivea-pearl-y-beauty-roll-on-50-grs-444783/p",
+    "disponible": true
+   },
+   "descripcion": "Desodorante femenino NIVEA Pear&Beaut ROL-50-ml."
+  },
+  "4005900806154": {
+   "Hipermercado Carrefour": {
+    "precio": 16544.25,
+    "link": "https://www.carrefour.com.ar/crema-facial-hidratante-en-gel-nivea-rose-care-para-todo-tipo-de-piel-50-ml-688895/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 22100.0,
+    "link": "https://www.vea.com.ar/crema-facial-hidratante-en-gel-nivea-rose-care-50-ml-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 25100.0,
+    "link": "https://www.jumbo.com.ar/crema-facial-hidratante-en-gel-nivea-rose-care-50-ml-2/p",
+    "disponible": true
+   },
+   "descripcion": "crema de dia ROSE CARE 50ml TRR-50-ml."
+  },
+  "7891024073070": {
+   "Hipermercado Carrefour": {
+    "precio": 4241.25,
+    "link": "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slimsoft-charcoal-1-uni-742695/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6350.0,
+    "link": "https://www.vea.com.ar/cepillo-de-dientes-slim-soft-black-1-un-colgate/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 6350.0,
+    "link": "https://www.jumbo.com.ar/cepillo-de-dientes-slim-soft-black-1-un-colgate/p",
+    "disponible": false
+   },
+   "descripcion": "cepillo dent COLGATE slimsoft charc x1u BLI-1-un."
+  },
+  "7793253003777": {
+   "Hipermercado Carrefour": {
+    "precio": 1574.25,
+    "link": "https://www.carrefour.com.ar/lavandina-ayudin-anti-splash-1-l/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1999.0,
+    "link": "https://www.vea.com.ar/lavandina-ayudin-anti-splash-1-l/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2400.0,
+    "link": "https://www.jumbo.com.ar/lavandina-ayudin-anti-splash-1-l/p",
+    "disponible": true
+   },
+   "descripcion": "Lavandina Ayudin Anti-Splash Tradi 1L BOT-1000-ml."
+  },
+  "7794940000758": {
+   "Hipermercado Carrefour": {
+    "precio": 2643.75,
+    "link": "https://www.carrefour.com.ar/edulcorante-en-sobres-hileret-con-stevia-50-u/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3500.0,
+    "link": "https://www.vea.com.ar/endulzante-hileret-stevia-50-sobrecitos/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3650.0,
+    "link": "https://www.jumbo.com.ar/endulzante-hileret-stevia-50-sobrecitos/p",
+    "disponible": true
+   },
+   "descripcion": "Endulzante Hileret Stevia CJA-40-gr."
+  },
+  "7790199602941": {
+   "Hipermercado Carrefour": {
+    "precio": 2835.0,
+    "link": "https://www.carrefour.com.ar/rebozador-morixe-1-kg/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2950.0,
+    "link": "https://www.vea.com.ar/rebozador-morixe-1-kg/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 3100.0,
+    "link": "https://www.jumbo.com.ar/rebozador-morixe-1-kg/p",
+    "disponible": true
+   },
+   "descripcion": "Rebozador MORIXE PAQ-1000-gr."
+  },
+  "7791813420156": {
+   "Hipermercado Carrefour": {
+    "precio": 2100.0,
+    "link": "https://www.carrefour.com.ar/gaseosa-naranja-mirinda-500-ml-441210/p",
+    "disponible": true
+   },
+   "descripcion": "gaseosa MIRINDA Naranja 500cc PVC-500-ml."
+  },
+  "7790150150573": {
+   "Hipermercado Carrefour": {
+    "precio": 8259.0,
+    "link": "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-100-g-696402/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7599.0,
+    "link": "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 9000.0,
+    "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p",
+    "disponible": true
+   },
+   "descripcion": "Café LA VIRGINIA selección tostado x100g FCO-100-gr."
+  },
+  "7791293050881": {
+   "Hipermercado Carrefour": {
+    "precio": 10285.0,
+    "link": "https://www.carrefour.com.ar/mascara-capilar-dove-hidratacion-300-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 9500.0,
+    "link": "https://www.vea.com.ar/mascara-de-tratamiento-hidratacion-completa-300-grs-dove/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 10850.0,
+    "link": "https://www.jumbo.com.ar/mascara-de-tratamiento-hidratacion-completa-300-grs-dove/p",
+    "disponible": true
+   },
+   "descripcion": "mascarilla DOVE hidratacion 6x300g POT-300-gr."
+  },
+  "7791130683760": {
+   "Hipermercado Carrefour": {
+    "precio": 2730.0,
+    "link": "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-18-l-584263/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4200.0,
+    "link": "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-1-8l/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4450.0,
+    "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-1-8l/p",
+    "disponible": true
+   },
+   "descripcion": "Limp líq PROCENEX Ext Frag Lavanda BOT-1800-ml."
+  },
+  "7793253003913": {
+   "Hipermercado Carrefour": {
+    "precio": 4819.0,
+    "link": "https://www.carrefour.com.ar/toallitas-desinfectantes-ayudin-limon-doypack-x-35-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4350.0,
+    "link": "https://www.vea.com.ar/toallitas-desinfectantes-ayudin-35-u-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4350.0,
+    "link": "https://www.jumbo.com.ar/toallitas-desinfectantes-ayudin-35-u-2/p",
+    "disponible": false
+   },
+   "descripcion": "TOALLITAS DESINFECTANTES AYUDÍN LIMON DOY-280-ml."
+  },
+  "7793253003241": {
+   "Hipermercado Carrefour": {
+    "precio": 3750.0,
+    "link": "https://www.carrefour.com.ar/quitamanchas-ayudin-colores-vivos-650-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4050.0,
+    "link": "https://www.vea.com.ar/quitamanchas-ayudin-colores-vivos-doy-pack-650-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4200.0,
+    "link": "https://www.jumbo.com.ar/quitamanchas-ayudin-colores-vivos-doy-pack-650-ml/p",
+    "disponible": true
+   },
+   "descripcion": "Ayudin Ropa Colores Vivos 650ml DOY-650-ml."
+  },
+  "4005808515592": {
+   "Hipermercado Carrefour": {
+    "precio": 6746.25,
+    "link": "https://www.carrefour.com.ar/crema-hidratante-intensiva-nivea-soft-para-uso-diario-200-ml-477694/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 9000.0,
+    "link": "https://www.vea.com.ar/crema-hidratante-intensiva-soft-200-ml-nivea/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 9450.0,
+    "link": "https://www.jumbo.com.ar/crema-hidratante-intensiva-soft-200-ml-nivea/p",
+    "disponible": false
+   },
+   "descripcion": "crema facial NIVEA hidratante soft 200ml POT-200-ml."
+  },
+  "7790387014617": {
+   "Hipermercado Carrefour": {
+    "precio": 5005.0,
+    "link": "https://www.carrefour.com.ar/yerba-mate-suave-union-4flex-1-kg/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5100.0,
+    "link": "https://www.vea.com.ar/yerba-mate-4flex-union-1-kg/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 5400.0,
+    "link": "https://www.jumbo.com.ar/yerba-mate-4flex-union-1-kg/p",
+    "disponible": true
+   },
+   "descripcion": "Yerba Mate UNIÓN 4FLEX 1kg PAQ-1000-gr."
+  },
+  "7790742373205": {
+   "Hipermercado Carrefour": {
+    "precio": 5475.0,
+    "link": "https://www.carrefour.com.ar/queso-untable-finlandia-pote-290-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5199.0,
+    "link": "https://www.vea.com.ar/queso-untable-finlandia-clasico-290-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6000.0,
+    "link": "https://www.jumbo.com.ar/queso-untable-finlandia-clasico-290-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Q.Procesado Finlandia 290g POT-290-gr."
+  },
+  "7793253003401": {
+   "Hipermercado Carrefour": {
+    "precio": 3679.0,
+    "link": "https://www.carrefour.com.ar/toallitas-desinfectantes-ayudin-fresco-flowpack-x-24-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4800.0,
+    "link": "https://www.vea.com.ar/toallitas-desinfectantes-ayudin-fresco-flowpack-24-un/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4950.0,
+    "link": "https://www.jumbo.com.ar/toallitas-desinfectantes-ayudin-fresco-flowpack-24-un/p",
+    "disponible": true
+   },
+   "descripcion": "Toallitas Desinf. AYUDIN Fresco 24u PCK-24-un."
+  },
+  "7791290792784": {
+   "Hipermercado Carrefour": {
+    "precio": 3309.0,
+    "link": "https://www.carrefour.com.ar/lustramueble-cif-ultra-brillo-citrico-repuesto-380-cc-703589/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3150.0,
+    "link": "https://www.vea.com.ar/limpiador-multisuperficies-citrus-blend-ultra-brillo-380-ml-doypack-cif/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3500.0,
+    "link": "https://www.jumbo.com.ar/limpiador-multisuperficies-citrus-blend-ultra-brillo-380-ml-doypack-cif/p",
+    "disponible": true
+   },
+   "descripcion": "limp CIF ult brillo esen criti DP 380ml DOY-385-ml."
+  },
+  "7794940000536": {
+   "Vea": {
+    "precio": 2750.0,
+    "link": "https://www.vea.com.ar/endulzante-hileret-light-x-500-gr-3/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2800.0,
+    "link": "https://www.jumbo.com.ar/endulzante-hileret-light-x-500-gr-3/p",
+    "disponible": true
+   },
+   "descripcion": "Azucar Light HILERET x 500-gr. BSA-500-gr."
+  },
+  "7791293045948": {
+   "Hipermercado Carrefour": {
+    "precio": 5869.0,
+    "link": "https://www.carrefour.com.ar/acondicionador-sedal-crema-balance-340-cc-715070/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3399.0,
+    "link": "https://www.vea.com.ar/acondicionador-crema-balance-340-ml-sedal/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5900.0,
+    "link": "https://www.jumbo.com.ar/acondicionador-crema-balance-340-ml-sedal/p",
+    "disponible": true
+   },
+   "descripcion": "acondicionador SEDAL crema balance 340ml BOT-340-ml."
+  },
+  "7791120102868": {
+   "Hipermercado Carrefour": {
+    "precio": 2600.0,
+    "link": "https://www.carrefour.com.ar/tostada-de-arroz-molinos-ala-garbanzo-maiz-150-g-736216/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2450.0,
+    "link": "https://www.vea.com.ar/tostadas-veggie-molinos-ala-150-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2600.0,
+    "link": "https://www.jumbo.com.ar/tostadas-veggie-molinos-ala-150-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Tostadas MOLINOS ALA Veggie 150g BSA-150-gr."
+  },
+  "7622201703172": {
+   "Hipermercado Carrefour": {
+    "precio": 529.0,
+    "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-pomelo-rosado-8-grs-711440/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 528.0,
+    "link": "https://www.vea.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 543.0,
+    "link": "https://www.jumbo.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p",
+    "disponible": true
+   },
+   "descripcion": "jugo en polvo CLIGHT Pomelo Rosa 8gr SOB-8-gr."
+  },
+  "7791293048475": {
+   "Hipermercado Carrefour": {
+    "precio": 5809.0,
+    "link": "https://www.carrefour.com.ar/antitranspirante-en-aerosol-dove-pepino-y-te-verde-150-cc-717758/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4799.0,
+    "link": "https://www.vea.com.ar/antitranspirante-fresh-care-pepino-en-aerosol-150-ml-dove/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5800.0,
+    "link": "https://www.jumbo.com.ar/antitranspirante-fresh-care-pepino-en-aerosol-150-ml-dove/p",
+    "disponible": true
+   },
+   "descripcion": "desodorante DOVE AP pepino 150ml AER-150-ml."
+  },
+  "7798139791694": {
+   "Hipermercado Carrefour": {
+    "precio": 6050.0,
+    "link": "https://www.carrefour.com.ar/litera-mediana-pet-s-class-1-u/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 6300.0,
+    "link": "https://www.vea.com.ar/bandeja-para-gatos-pets-class-mediana-1-u/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6600.0,
+    "link": "https://www.jumbo.com.ar/bandeja-para-gatos-pets-class-mediana-1-u/p",
+    "disponible": true
+   },
+   "descripcion": "Acc. p/gatos PETS CLASS Litera Mediana S/E-1-un."
+  },
+  "7791290792012": {
+   "Hipermercado Carrefour": {
+    "precio": 4029.0,
+    "link": "https://www.carrefour.com.ar/jabon-liquido-ala-matic-maxima-blancura-800-ml-695744/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3199.0,
+    "link": "https://www.vea.com.ar/jabon-liquido-ala-matic-maxima-blancura-800-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4250.0,
+    "link": "https://www.jumbo.com.ar/jabon-liquido-ala-matic-maxima-blancura-800-ml/p",
+    "disponible": true
+   },
+   "descripcion": "Jabon Ropa Ala Ropa Ecolavado DP 800ml DOY-820-ml."
+  },
+  "7790045824893": {
+   "Hipermercado Carrefour": {
+    "precio": 2959.0,
+    "link": "https://www.carrefour.com.ar/galletitas-frutigran-avena-y-chips-de-chocolate-255-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3300.0,
+    "link": "https://www.vea.com.ar/galletitas-con-chips-de-chocolate-frutigran-255-gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3500.0,
+    "link": "https://www.jumbo.com.ar/galletitas-con-chips-de-chocolate-frutigran-255-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "gall.GRANIX frutigran con chips chocola PAQ-255-gr."
+  },
+  "7790250015840": {
+   "Hipermercado Carrefour": {
+    "precio": 6779.0,
+    "link": "https://www.carrefour.com.ar/papel-higienico-higienol-max-hoja-simple-100-mts-4-uni-723830/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6099.0,
+    "link": "https://www.vea.com.ar/papel-higienico-max-hoja-simple-100-m-x-4-un-higienol/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7500.0,
+    "link": "https://www.jumbo.com.ar/papel-higienico-max-hoja-simple-100-m-x-4-un-higienol/p",
+    "disponible": true
+   },
+   "descripcion": "papel higieni HIGIENOL h sim aloe 4x100m PAQ-40-m2"
+  },
+  "7790150532300": {
+   "Hipermercado Carrefour": {
+    "precio": 1469.0,
+    "link": "https://www.carrefour.com.ar/mix-especias-alicante-criollo-sobre-25-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1500.0,
+    "link": "https://www.vea.com.ar/mix-criollo-alicante-25g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1550.0,
+    "link": "https://www.jumbo.com.ar/mix-criollo-alicante-25g/p",
+    "disponible": true
+   },
+   "descripcion": "Mix ALICANTE criollo x25g SOB-25-gr."
+  },
+  "7790740000455": {
+   "Hipermercado Carrefour": {
+    "precio": 5989.0,
+    "link": "https://www.carrefour.com.ar/plusbelle-esencia-shampoo-largo-saludable-970-ml-700341/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4999.0,
+    "link": "https://www.vea.com.ar/shampoo-esencia-largo-salud-970-ml-plusbelle/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6350.0,
+    "link": "https://www.jumbo.com.ar/shampoo-esencia-largo-salud-970-ml-plusbelle/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo PLUSBELLE largo salud 970ml BOT-0.97-lt."
+  },
+  "7798085681995": {
+   "Hipermercado Carrefour": {
+    "precio": 5949.0,
+    "link": "https://www.carrefour.com.ar/jugo-de-pomelo-exprimido-citric-en-tetra-1-lt---736684/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5950.0,
+    "link": "https://www.vea.com.ar/jugo-de-pomelo-1-l-citric/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6550.0,
+    "link": "https://www.jumbo.com.ar/jugo-de-pomelo-1-l-citric/p",
+    "disponible": true
+   },
+   "descripcion": "Jugo Citric Pomelo 1L BRK-1000-ml."
+  },
+  "7790895641541": {
+   "Hipermercado Carrefour": {
+    "precio": 1450.0,
+    "link": "https://www.carrefour.com.ar/jugo-cepita-del-valle-durazno-delicioso-300-cc/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 1400.0,
+    "link": "https://www.vea.com.ar/cepita-del-valle-durazno-delicioso-300-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1400.0,
+    "link": "https://www.jumbo.com.ar/cepita-del-valle-durazno-delicioso-300-ml/p",
+    "disponible": false
+   },
+   "descripcion": "jugo listo CEPITA Durazno 300cc PET-300-ml."
+  },
+  "7795711000168": {
+   "Hipermercado Carrefour": {
+    "precio": 3600.0,
+    "link": "https://www.carrefour.com.ar/ravioles-villa-d-agri-cuatro-queso-500-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2999.0,
+    "link": "https://www.vea.com.ar/ravioles-villa-dagri-4-quesos-500g/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 3650.0,
+    "link": "https://www.jumbo.com.ar/ravioles-villa-dagri-4-quesos-500g/p",
+    "disponible": true
+   },
+   "descripcion": "Ravioles c/ 4 Quesos VILLA D´AGRI PAQ-500-gr."
+  },
+  "7791290793545": {
+   "Hipermercado Carrefour": {
+    "precio": 9155.25,
+    "link": "https://www.carrefour.com.ar/jabon-en-polvo-skip-bio-enzimas-baja-espuma-2-5-kg-709352/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 12399.0,
+    "link": "https://www.vea.com.ar/jabon-en-polvo-skip-bio-enzimas-baja-espuma-2-5-kg/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 15250.0,
+    "link": "https://www.jumbo.com.ar/jabon-en-polvo-skip-bio-enzimas-baja-espuma-2-5-kg/p",
+    "disponible": true
+   },
+   "descripcion": "jabon polvo ropa SKIP bio enzimas 2.5kg BSA-2500-gr."
+  },
+  "7791293046990": {
+   "Hipermercado Carrefour": {
+    "precio": 6085.0,
+    "link": "https://www.carrefour.com.ar/shampoo-dove-oleo-nutricion-200-cc-718524/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4499.0,
+    "link": "https://www.vea.com.ar/shampoo-dove-oleo-nutricion-200-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6450.0,
+    "link": "https://www.jumbo.com.ar/shampoo-dove-oleo-nutricion-200-ml/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo DOVE oleo nutricion200ml BOT-200-ml."
+  },
+  "7791728001075": {
+   "Hipermercado Carrefour": {
+    "precio": 26495.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-malbec-zuccardi-q-750-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 26800.0,
+    "link": "https://www.vea.com.ar/vino-tinto-familia-zuccardi-malbec-750-cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 27650.0,
+    "link": "https://www.jumbo.com.ar/vino-tinto-familia-zuccardi-malbec-750-cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino ZUCCARDI Q malbec x 750 cc BOT-750-ml."
+  },
+  "7790520995568": {
+   "Hipermercado Carrefour": {
+    "precio": 4900.0,
+    "link": "https://www.carrefour.com.ar/limpiador-multisuperficies-blem-floral-aerosol-360-ml-688549/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5100.0,
+    "link": "https://www.vea.com.ar/limpiador-multisuperficies-floral-aerosol-360ml-blem/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5200.0,
+    "link": "https://www.jumbo.com.ar/limpiador-multisuperficies-floral-aerosol-360ml-blem/p",
+    "disponible": true
+   },
+   "descripcion": "lustramueble BLEM multi floral 360 AER-360-ml."
+  },
+  "7790387800050": {
+   "Hipermercado Carrefour": {
+    "precio": 1359.0,
+    "link": "https://www.carrefour.com.ar/mate-cocido-saquitos-diamantados-taragui-x-25-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1400.0,
+    "link": "https://www.vea.com.ar/mate-cocido-taragui-75-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1450.0,
+    "link": "https://www.jumbo.com.ar/mate-cocido-taragui-75-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Mate Cocido Taragui s/e F.Diamantadox25u EST-75-gr."
+  },
+  "7791337007666": {
+   "Hipermercado Carrefour": {
+    "precio": 4179.0,
+    "link": "https://www.carrefour.com.ar/yogur-batido-con-cereales-con-miel-ser-166-grs-720835/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4350.0,
+    "link": "https://www.vea.com.ar/yogur-batido-con-cereales-con-miel-166-grs-ser/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4500.0,
+    "link": "https://www.jumbo.com.ar/yogur-batido-con-cereales-con-miel-166-grs-ser/p",
+    "disponible": true
+   },
+   "descripcion": "Yog Ser Cereales c/miel 166g POT-166-gr."
+  },
+  "7791274198045": {
+   "Hipermercado Carrefour": {
+    "precio": 3080.0,
+    "link": "https://www.carrefour.com.ar/talco-corporal-algabo-clasico-180-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3100.0,
+    "link": "https://www.vea.com.ar/talco-desodorante-clasico-180-grs-algabo/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3200.0,
+    "link": "https://www.jumbo.com.ar/talco-desodorante-clasico-180-grs-algabo/p",
+    "disponible": true
+   },
+   "descripcion": "ALGABO CONTROL polvo desodorante talq BOT-180-gr."
+  },
+  "8445291363656": {
+   "Hipermercado Carrefour": {
+    "precio": 15995.0,
+    "link": "https://www.carrefour.com.ar/starbucks-nespresso-house-blend-10-uni-774579/p",
+    "disponible": true
+   },
+   "descripcion": "Capsulas STARBUCKS House Blend 12u CJA-52-gr."
+  },
+  "7792799000011": {
+   "Hipermercado Carrefour": {
+    "precio": 1965.0,
+    "link": "https://www.carrefour.com.ar/agua-mineral-sin-gas-eco-de-los-andes-500-ml-45322/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2050.0,
+    "link": "https://www.vea.com.ar/agua-eco-de-los-andes-sin-gas-botella-500mlx1/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2100.0,
+    "link": "https://www.jumbo.com.ar/agua-eco-de-los-andes-sin-gas-botella-500mlx1/p",
+    "disponible": true
+   },
+   "descripcion": "agua ECO DE LOS ANDES Sin Gas 500cc BOT-500-ml."
+  },
+  "7791728239331": {
+   "Hipermercado Carrefour": {
+    "precio": 2999.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-dulce-santa-julia-lata-269-cc-40142/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3100.0,
+    "link": "https://www.vea.com.ar/vino-dulce-tinto-lata-269-ml-santa-julia/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3200.0,
+    "link": "https://www.jumbo.com.ar/vino-dulce-tinto-lata-269-ml-santa-julia/p",
+    "disponible": true
+   },
+   "descripcion": "Vino SANTA JULIA Dulce Tinto LATA-269cc LAT-270-ml."
+  },
+  "7500435176224": {
+   "Hipermercado Carrefour": {
+    "precio": 18419.0,
+    "link": "https://www.carrefour.com.ar/shampoo-head-y-shoulders-fuerza-de-raiz-650-cc-739839/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 11999.0,
+    "link": "https://www.vea.com.ar/shampoo-fuerza-650-ml-head-shoulders-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 19900.0,
+    "link": "https://www.jumbo.com.ar/shampoo-fuerza-650-ml-head-shoulders-2/p",
+    "disponible": true
+   },
+   "descripcion": "shamp HEAD & SHOULDERS fuerza 650 ml BOT-650-cc."
+  },
+  "7790010002967": {
+   "Hipermercado Carrefour": {
+    "precio": 9819.0,
+    "link": "https://www.carrefour.com.ar/shampoo-para-ninos-johnsons-gotas-de-brillo-400-ml-730754/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8950.0,
+    "link": "https://www.vea.com.ar/shampoo-para-ninos-gotas-de-brillo-400-ml-johnson-baby/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 10650.0,
+    "link": "https://www.jumbo.com.ar/shampoo-para-ninos-gotas-de-brillo-400-ml-johnson-baby/p",
+    "disponible": true
+   },
+   "descripcion": "sham  JOHNSON BABYgot brill 400ml BOT-400-ml."
+  },
+  "7791293048826": {
+   "Hipermercado Carrefour": {
+    "precio": 1810.25,
+    "link": "https://www.carrefour.com.ar/jabon-liquido-lux-rosas-francesas-repuesto-220-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2800.0,
+    "link": "https://www.vea.com.ar/jabon-liquido-botanicals-rosas-francesas-220-ml-lux/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2800.0,
+    "link": "https://www.jumbo.com.ar/jabon-liquido-botanicals-rosas-francesas-220-ml-lux/p",
+    "disponible": false
+   },
+   "descripcion": "jab liq LUX botan rs france doy x220ml DOY-220-ml."
+  },
+  "7790940000019": {
+   "Hipermercado Carrefour": {
+    "precio": 2490.0,
+    "link": "https://www.carrefour.com.ar/apositos-post-parto-doncella-10-u/p",
+    "disponible": true
+   },
+   "descripcion": "Apositos doncella PAQ-10-un."
+  },
+  "7791728247756": {
+   "Hipermercado Carrefour": {
+    "precio": 6649.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-santa-julia-syrah-en-botella-750-cc-730289/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6700.0,
+    "link": "https://www.vea.com.ar/vino-syrah-750-ml-santa-julia/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 6700.0,
+    "link": "https://www.jumbo.com.ar/vino-syrah-750-ml-santa-julia/p",
+    "disponible": false
+   },
+   "descripcion": "Vino SANTA JULIA syrah 750cc BOT-750-ml."
+  },
+  "7791540049767": {
+   "Hipermercado Carrefour": {
+    "precio": 10100.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-reserva-blend-alma-mora-750-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 9950.0,
+    "link": "https://www.vea.com.ar/vino-alma-mora-select-reserve-blend-750-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 10550.0,
+    "link": "https://www.jumbo.com.ar/vino-alma-mora-select-reserve-blend-750-ml/p",
+    "disponible": true
+   },
+   "descripcion": "Vino ALMA MORA Select Reserve  BOT-750-m BOT-750-ml."
+  },
+  "7790895008504": {
+   "Hipermercado Carrefour": {
+    "precio": 3100.0,
+    "link": "https://www.carrefour.com.ar/agua-saborizada-limonada-aquarius-225-lts-396019/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 2600.0,
+    "link": "https://www.vea.com.ar/saborizada-aquarius-limonada-2-25lt/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2600.0,
+    "link": "https://www.jumbo.com.ar/saborizada-aquarius-limonada-2-25lt/p",
+    "disponible": false
+   },
+   "descripcion": "saborizada AQUARIUS Limonada 2.25lt BOT-2250-ml."
+  },
+  "7792900990705": {
+   "Hipermercado Carrefour": {
+    "precio": 4775.0,
+    "link": "https://www.carrefour.com.ar/salsa-caesar-light-sin-tacc-dos-anclas-botella-360-g-695908/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5000.0,
+    "link": "https://www.vea.com.ar/salsa-caesar-light-dos-anclas-360-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5150.0,
+    "link": "https://www.jumbo.com.ar/salsa-caesar-light-dos-anclas-360-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Salsa DOS ANCLAS Caesar Light x360gr BOT-360-gr."
+  },
+  "7798123971903": {
+   "Hipermercado Carrefour": {
+    "precio": 14645.0,
+    "link": "https://www.carrefour.com.ar/espumante-extra-brut-las-perdices-botella-750-cc-696827/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 15400.0,
+    "link": "https://www.vea.com.ar/espumante-las-perdices-extra-brut-champenoise-750-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 15400.0,
+    "link": "https://www.jumbo.com.ar/espumante-las-perdices-extra-brut-champenoise-750-ml/p",
+    "disponible": false
+   },
+   "descripcion": "Espumante LAS PERDICES Champenoise Corto BOT-750-ml."
+  },
+  "7790314005305": {
+   "Hipermercado Carrefour": {
+    "precio": 3989.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-toro-viejo-1125-l/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4150.0,
+    "link": "https://www.vea.com.ar/vino-toro-clasico-tinto-1125cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4300.0,
+    "link": "https://www.jumbo.com.ar/vino-toro-clasico-tinto-1125cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino TORO Clasico Tinto 1125cc BOT-1125-ml."
+  },
+  "7790070760739": {
+   "Hipermercado Carrefour": {
+    "precio": 8400.0,
+    "link": "https://www.carrefour.com.ar/vino-roaso-malbec-dulce-natural-emilia-750-ml-725350/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8850.0,
+    "link": "https://www.vea.com.ar/vino-emilia-dulce-nat-mb-rose-750cc/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 9050.0,
+    "link": "https://www.jumbo.com.ar/vino-emilia-dulce-nat-mb-rose-750cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino EMILIA dulce nat mb-rosé 750cc BOT-750-ml."
+  },
+  "7791813403012": {
+   "Hipermercado Carrefour": {
+    "precio": 2750.0,
+    "link": "https://www.carrefour.com.ar/agua-saborizada-de-pomelo-h2oh-sin-gas-15-lts-694096/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2750.0,
+    "link": "https://www.vea.com.ar/saborizada-pomelo-sin-gas-1-5-l-h2oh-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2750.0,
+    "link": "https://www.jumbo.com.ar/saborizada-pomelo-sin-gas-1-5-l-h2oh-2/p",
+    "disponible": false
+   },
+   "descripcion": "saborizada H2OH Pomelo Sin Gas 1.5lt BOT-1500-ml."
+  },
+  "7500435229531": {
+   "Hipermercado Carrefour": {
+    "precio": 5990.0,
+    "link": "https://www.carrefour.com.ar/always-xtra-doble-proteccion-suave-toallitas-femeninas-16-uni-720101/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6100.0,
+    "link": "https://www.vea.com.ar/toallas-xtra-doble-proteccion-suave-16-un-always/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6350.0,
+    "link": "https://www.jumbo.com.ar/toallas-xtra-doble-proteccion-suave-16-un-always/p",
+    "disponible": true
+   },
+   "descripcion": "toallas femeninas ALWAYS xtra suave 16u PAQ-16-un."
+  },
+  "7790550022210": {
+   "Hipermercado Carrefour": {
+    "precio": 8475.0,
+    "link": "https://www.carrefour.com.ar/cafe-cabrales-molido-tostado-super-125-g-706854/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7199.0,
+    "link": "https://www.vea.com.ar/cafe-cabrales-molido-125g/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 8900.0,
+    "link": "https://www.jumbo.com.ar/cafe-cabrales-molido-125g/p",
+    "disponible": true
+   },
+   "descripcion": "Café CABRALES molido 125g CJA-120-gr."
+  },
+  "7791843009093": {
+   "Hipermercado Carrefour": {
+    "precio": 5019.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-nampe-1125-l/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5250.0,
+    "link": "https://www.vea.com.ar/vino-nampe-cabernet-sauvignon-1125cc-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5350.0,
+    "link": "https://www.jumbo.com.ar/vino-nampe-cabernet-sauvignon-1125cc-2/p",
+    "disponible": true
+   },
+   "descripcion": "vino NAMPE Cabernet Sauvignon 1125cc BOT-1125-ml."
+  },
+  "8445290615961": {
+   "Hipermercado Carrefour": {
+    "precio": 11169.0,
+    "link": "https://www.carrefour.com.ar/nestum-multicereal-500-grs-721283/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 11600.0,
+    "link": "https://www.vea.com.ar/multicereal-500-grs-nestum/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 11650.0,
+    "link": "https://www.jumbo.com.ar/multicereal-500-grs-nestum/p",
+    "disponible": true
+   },
+   "descripcion": "Cereal NESTUM Multi SinAz CaCo3 x500g CJA-500-gr."
+  },
+  "7791290795754": {
+   "Hipermercado Carrefour": {
+    "precio": 2505.0,
+    "link": "https://www.carrefour.com.ar/limpiador-desinfectante-cif-dp-380-cc-738560/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2250.0,
+    "link": "https://www.vea.com.ar/limpiador-liquido-cif-desinfectante-superficies-original-380-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2700.0,
+    "link": "https://www.jumbo.com.ar/limpiador-liquido-cif-desinfectante-superficies-original-380-ml/p",
+    "disponible": true
+   },
+   "descripcion": "desinfectante CIF dp 260g DOY-380-ml."
+  },
+  "7622300844967": {
+   "Hipermercado Carrefour": {
+    "precio": 5689.0,
+    "link": "https://www.carrefour.com.ar/chocolate-milka-relleno-dulce-de-leche-675-g-566564/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6150.0,
+    "link": "https://www.vea.com.ar/chocolate-milka-blanco-relleno-dulce-de-leche-67-5-gr-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 6150.0,
+    "link": "https://www.jumbo.com.ar/chocolate-milka-blanco-relleno-dulce-de-leche-67-5-gr-2/p",
+    "disponible": false
+   },
+   "descripcion": "chocolate MILKA DDL Blanco PAQ-67.5-gr."
+  },
+  "7790010002813": {
+   "Hipermercado Carrefour": {
+    "precio": 2829.0,
+    "link": "https://www.carrefour.com.ar/protectores-diarios-carefree-todos-los-dias-compact-20-uni-723821/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 2900.0,
+    "link": "https://www.vea.com.ar/protectores-diarios-todos-los-dias-compact-20-un-carefree/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3000.0,
+    "link": "https://www.jumbo.com.ar/protectores-diarios-todos-los-dias-compact-20-un-carefree/p",
+    "disponible": true
+   },
+   "descripcion": "prot diario CAREFREE compact 20U BSA-20-un."
+  },
+  "7790250042082": {
+   "Hipermercado Carrefour": {
+    "precio": 15750.0,
+    "link": "https://www.carrefour.com.ar/panales-babysec-ultrasoft-xxg-30-uni-727629/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 10399.99,
+    "link": "https://www.vea.com.ar/panales-ultrasoft-xxg-x-30-un-babysec/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 15850.0,
+    "link": "https://www.jumbo.com.ar/panales-ultrasoft-xxg-x-30-un-babysec/p",
+    "disponible": true
+   },
+   "descripcion": "pañales BABYSEC ultrasoft xxg30/4 PAQ-30-un."
+  },
+  "7702018053469": {
+   "Hipermercado Carrefour": {
+    "precio": 8625.0,
+    "link": "https://www.carrefour.com.ar/espuma-de-afeitar-gillette-foamy-mentol-con-sensacion-refrescante-179-ml-715606/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 9050.0,
+    "link": "https://www.vea.com.ar/espuma-de-afeitar-mentol-175-gr-gilette/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 9300.0,
+    "link": "https://www.jumbo.com.ar/espuma-de-afeitar-mentol-175-gr-gilette/p",
+    "disponible": true
+   },
+   "descripcion": "espuma de afeitar GILLETTE mentol 175gr BAR-175-gr."
+  },
+  "7790742333605": {
+   "Hipermercado Carrefour": {
+    "precio": 2950.0,
+    "link": "https://www.carrefour.com.ar/leche-uat-zero-lactosa-la-serenisima-1l-654827/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2843.0,
+    "link": "https://www.vea.com.ar/leche-la-serenisima-zerolact-bot-1l/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2950.0,
+    "link": "https://www.jumbo.com.ar/leche-la-serenisima-zerolact-bot-1l/p",
+    "disponible": true
+   },
+   "descripcion": "Leche UAT LA SERENISIMA ZeroLact Bot1L BOT-1000-ml."
+  },
+  "7798334803123": {
+   "Hipermercado Carrefour": {
+    "precio": 4299.0,
+    "link": "https://www.carrefour.com.ar/hummus-kyros-clasico-230-g-716490/p",
+    "disponible": true
+   },
+   "descripcion": "Hummus KYROS Clasico 230gr POT-230-gr."
+  },
+  "7790670052548": {
+   "Hipermercado Carrefour": {
+    "precio": 3396.75,
+    "link": "https://www.carrefour.com.ar/mix-primavera-green-life-350-g-731440/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4800.0,
+    "link": "https://www.vea.com.ar/mix-primavera-green-life-350-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4800.0,
+    "link": "https://www.jumbo.com.ar/mix-primavera-green-life-350-gr/p",
+    "disponible": false
+   },
+   "descripcion": "Mix Primavera GREEN LIFE 350g DOY-350-gr."
+  },
+  "7791293045863": {
+   "Hipermercado Carrefour": {
+    "precio": 3929.0,
+    "link": "https://www.carrefour.com.ar/acondicionador-sedal-crema-balance-190-cc-715068/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3499.0,
+    "link": "https://www.vea.com.ar/acondicionador-crema-balance-190-ml-sedal/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4250.0,
+    "link": "https://www.jumbo.com.ar/acondicionador-crema-balance-190-ml-sedal/p",
+    "disponible": true
+   },
+   "descripcion": "acondicionador SEDAL crema balance 190ml BOT-190-ml."
+  },
+  "7793450000128": {
+   "Hipermercado Carrefour": {
+    "precio": 1840.0,
+    "link": "https://www.carrefour.com.ar/galletitas-de-hojaldre-hojalmar-triangulos-150-g-78467/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 1800.0,
+    "link": "https://www.vea.com.ar/galletitas-hojalmar-de-hojaldre-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1500.0,
+    "link": "https://www.jumbo.com.ar/galletitas-hojalmar-de-hojaldre-2/p",
+    "disponible": false
+   },
+   "descripcion": "Galletitas HOJALMAR de hojaldre triangu PAQ-150-gr."
+  },
+  "7798141877058": {
+   "Hipermercado Carrefour": {
+    "precio": 10199.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-malbec-la-celia-reserva-750-cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino LA CELIA Reserva Malbec 750cc BOT-750-ml."
+  },
+  "7790387014143": {
+   "Hipermercado Carrefour": {
+    "precio": 2999.0,
+    "link": "https://www.carrefour.com.ar/yerba-mate-union-liviana-500-g-694893/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3200.0,
+    "link": "https://www.vea.com.ar/yerba-liviana-4flex-union-500-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3250.0,
+    "link": "https://www.jumbo.com.ar/yerba-liviana-4flex-union-500-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Yerba UNION 4Flex Liviana 500g PAQ-500-gr."
+  },
+  "7790580116965": {
+   "Hipermercado Carrefour": {
+    "precio": 815.0,
+    "link": "https://www.carrefour.com.ar/gomitas-mogul-extreme-acidas-35-g-74323/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 800.0,
+    "link": "https://www.vea.com.ar/gomitas-acido-extreme-mogul-35-gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 850.0,
+    "link": "https://www.jumbo.com.ar/gomitas-acido-extreme-mogul-35-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "ROLLO MOGUL ACIDO EXTREME BSA-35-gr."
+  },
+  "7790550019012": {
+   "Hipermercado Carrefour": {
+    "precio": 14350.0,
+    "link": "https://www.carrefour.com.ar/capsulas-de-cafe-cabrales-nesp-peru-10-uni-738870/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 12499.0,
+    "link": "https://www.vea.com.ar/cafe-peru-x-10-capsulas-cabrales/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 14350.0,
+    "link": "https://www.jumbo.com.ar/cafe-peru-x-10-capsulas-cabrales/p",
+    "disponible": true
+   },
+   "descripcion": "Capsulas  CABRALES COMP NESS Peru 55g CJA-57-gr."
+  },
+  "7790070036063": {
+   "Hipermercado Carrefour": {
+    "precio": 7616.25,
+    "link": "https://www.carrefour.com.ar/supremas-de-pollo-granja-del-sol-bolsa-360-g-717203/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 10650.0,
+    "link": "https://www.vea.com.ar/suprema-de-pollo-granja-del-sol-360-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 10900.0,
+    "link": "https://www.jumbo.com.ar/suprema-de-pollo-granja-del-sol-360-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Suprema de pollo GRANJA DEL SOL 360g PAQ-360-gr."
+  },
+  "7790411001958": {
+   "Hipermercado Carrefour": {
+    "precio": 2300.0,
+    "link": "https://www.carrefour.com.ar/yerba-mate-rosamonte-55-aniversario-500-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3050.0,
+    "link": "https://www.vea.com.ar/yerba-55-edicion-con-palo-rosamonte-500-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2450.0,
+    "link": "https://www.jumbo.com.ar/yerba-55-edicion-con-palo-rosamonte-500-gr/p",
+    "disponible": true
+   },
+   "descripcion": "YERBA ROSAMONTE 55Edicion cPalo 500G LAM-500-gr."
+  },
+  "7798422620090": {
+   "Hipermercado Carrefour": {
+    "precio": 3299.0,
+    "link": "https://www.carrefour.com.ar/bebida-energizante-monster-zero-en-lata-473-cc-740271/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3300.0,
+    "link": "https://www.vea.com.ar/energizante-monster-green-zero-473cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3400.0,
+    "link": "https://www.jumbo.com.ar/energizante-monster-green-zero-473cc/p",
+    "disponible": true
+   },
+   "descripcion": "energizante MONSTER Green Zero 473cc LAT-473-ml."
+  },
+  "8445290585042": {
+   "Hipermercado Carrefour": {
+    "precio": 13370.0,
+    "link": "https://www.carrefour.com.ar/alimento-seco-para-gato-gati-carne-y-pollo-3-kg-719036/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 13400.0,
+    "link": "https://www.vea.com.ar/alimento-gati-carne-y-pollo-3-kg/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 14050.0,
+    "link": "https://www.jumbo.com.ar/alimento-gati-carne-y-pollo-3-kg/p",
+    "disponible": true
+   },
+   "descripcion": "Alimento GATI Carne y Pollo x 3KG BSA-3000-gr."
+  },
+  "7790070433251": {
+   "Hipermercado Carrefour": {
+    "precio": 3099.0,
+    "link": "https://www.carrefour.com.ar/rebozador-preferido-crunch-450-g-733218/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3050.0,
+    "link": "https://www.vea.com.ar/rebozador-preferido-crunch-fortificado-x450g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3250.0,
+    "link": "https://www.jumbo.com.ar/rebozador-preferido-crunch-fortificado-x450g/p",
+    "disponible": true
+   },
+   "descripcion": "Rebozador PREFERIDO Crunch x450g PAQ-450-gr."
+  },
+  "7798039599406": {
+   "Hipermercado Carrefour": {
+    "precio": 9499.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-casillero-del-diablo-cabernet-750-cc-696657/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 9500.0,
+    "link": "https://www.vea.com.ar/casillero-del-diablo-cabernet-sauvignon-x-750-cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 9800.0,
+    "link": "https://www.jumbo.com.ar/casillero-del-diablo-cabernet-sauvignon-x-750-cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino CASILLERO DEL DIABLO cabernet sauvi BOT-750-ml."
+  },
+  "7790070433275": {
+   "Vea": {
+    "precio": 1600.0,
+    "link": "https://www.vea.com.ar/pan-rallado-lucchetti-nutrivit-x500g/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1600.0,
+    "link": "https://www.jumbo.com.ar/pan-rallado-lucchetti-nutrivit-x500g/p",
+    "disponible": true
+   },
+   "descripcion": "Pan Rallado LUCCHETTI Nutrivit x500g PET-500-gr."
+  },
+  "7790070036292": {
+   "Hipermercado Carrefour": {
+    "precio": 4789.0,
+    "link": "https://www.carrefour.com.ar/acelga-congelada-granja-de-sol-en-bolsa-500-g-720851/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5050.0,
+    "link": "https://www.vea.com.ar/acelga-granja-del-sol-500-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5150.0,
+    "link": "https://www.jumbo.com.ar/acelga-granja-del-sol-500-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Acelga GRANJA DEL SOL 500g CJA-500-gr."
+  },
+  "7798061190183": {
+   "Hipermercado Carrefour": {
+    "precio": 18999.0,
+    "link": "https://www.carrefour.com.ar/aceite-de-oliva-oliovita-clasico-extra-virgen-500-cc/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 17499.0,
+    "link": "https://www.vea.com.ar/aceite-de-oliva-oliovita-extra-virgen-clasico-500-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 19100.0,
+    "link": "https://www.jumbo.com.ar/aceite-de-oliva-oliovita-extra-virgen-clasico-500-ml/p",
+    "disponible": true
+   },
+   "descripcion": "aceite OLIOVITA De oliva Clasico BOT-500-cc."
+  },
+  "7794000007093": {
+   "Hipermercado Carrefour": {
+    "precio": 1679.0,
+    "link": "https://www.carrefour.com.ar/moyonesa-liviana-hellmanns-doypack-237-g-714824/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1700.0,
+    "link": "https://www.vea.com.ar/mayonesa-hellmann-s-liviana-doypack-237-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1800.0,
+    "link": "https://www.jumbo.com.ar/mayonesa-hellmann-s-liviana-doypack-237-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Mayonesa HELLMANNS Liviana 237G DOY-237-gr."
+  },
+  "7790742625304": {
+   "Hipermercado Carrefour": {
+    "precio": 3860.0,
+    "link": "https://www.carrefour.com.ar/dulce-de-leche-clasico-la-serenisima-400-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3900.0,
+    "link": "https://www.vea.com.ar/dulce-de-leche-la-serenisima-clasico-400g-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4100.0,
+    "link": "https://www.jumbo.com.ar/dulce-de-leche-la-serenisima-clasico-400g-2/p",
+    "disponible": true
+   },
+   "descripcion": "D.Leche La Serenisima Clasico 400g POT-400-gr."
+  },
+  "7500435201285": {
+   "Hipermercado Carrefour": {
+    "precio": 14479.0,
+    "link": "https://www.carrefour.com.ar/suavizante-downy-brisa-intenso-rinde-4-l-perfume-intenso-de-larga-duracion-1-l-727933/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 14861.0,
+    "link": "https://www.vea.com.ar/suavizante-concentrado-brisa-intenso-1-l-downy/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 16050.0,
+    "link": "https://www.jumbo.com.ar/suavizante-concentrado-brisa-intenso-1-l-downy/p",
+    "disponible": true
+   },
+   "descripcion": "suavizante DOWNY conc brisa intenso 1lt BOT-1000-ml."
+  },
+  "7791130003582": {
+   "Hipermercado Carrefour": {
+    "precio": 1729.0,
+    "link": "https://www.carrefour.com.ar/pastilla-para-inodoro-harpic-pino-20-g-614293/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1750.0,
+    "link": "https://www.vea.com.ar/canasta-solida-harpic-pino-20/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1800.0,
+    "link": "https://www.jumbo.com.ar/canasta-solida-harpic-pino-20/p",
+    "disponible": true
+   },
+   "descripcion": "canasta solida HARPIC pino 20 CJA-20-gr."
+  },
+  "7791813434450": {
+   "Hipermercado Carrefour": {
+    "precio": 5300.0,
+    "link": "https://www.carrefour.com.ar/gaseosa-lima-limon-7-up-sin-azucar-2-25-lts-749013/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5266.0,
+    "link": "https://www.vea.com.ar/gaseosa-7-up-sin-azucar-2-25lt/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5200.0,
+    "link": "https://www.jumbo.com.ar/gaseosa-7-up-sin-azucar-2-25lt/p",
+    "disponible": false
+   },
+   "descripcion": "gaseosa 7 UP Sin Azucar 2.25lt PET-2250-ml."
+  },
+  "7622201806552": {
+   "Hipermercado Carrefour": {
+    "precio": 2605.0,
+    "link": "https://www.carrefour.com.ar/galletitas-oreo-golden-sabor-vainilla-rellenas-con-crema-118-grs-679211/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2279.0,
+    "link": "https://www.vea.com.ar/galletitas-oreo-golden-vainilla-rellenas-con-crema-118-gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2400.0,
+    "link": "https://www.jumbo.com.ar/galletitas-oreo-golden-vainilla-rellenas-con-crema-118-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "Galles OREO Golden s/colorantes X118G PAQ-118-gr."
+  },
+  "7790895640476": {
+   "Hipermercado Carrefour": {
+    "precio": 3000.0,
+    "link": "https://www.carrefour.com.ar/agua-saborizada-de-pera-aquarius-15-lts-552110/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2950.0,
+    "link": "https://www.vea.com.ar/saborizada-aquarius-pera-1-5lt/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3050.0,
+    "link": "https://www.jumbo.com.ar/saborizada-aquarius-pera-1-5lt/p",
+    "disponible": true
+   },
+   "descripcion": "saborizada AQUARIUS Pera 1.5lt BOT-1500-ml."
+  },
+  "7790360720115": {
+   "Hipermercado Carrefour": {
+    "precio": 1280.0,
+    "link": "https://www.carrefour.com.ar/picadillo-de-carne-swift-90-g-36054/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1295.0,
+    "link": "https://www.vea.com.ar/picadillo-de-carne-swift-90-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1314.0,
+    "link": "https://www.jumbo.com.ar/picadillo-de-carne-swift-90-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Picadillo SWIFT de carne LAT-90-gr."
+  },
+  "7500435229500": {
+   "Hipermercado Carrefour": {
+    "precio": 4500.0,
+    "link": "https://www.carrefour.com.ar/always-xtra-suave-toallas-nocturnas-8-uni-726075/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4600.0,
+    "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4850.0,
+    "link": "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p",
+    "disponible": true
+   },
+   "descripcion": "toa fem ALWAYS xtra noche suave 8u PAQ-8-un."
+  },
+  "7794218000176": {
+   "Hipermercado Carrefour": {
+    "precio": 2749.0,
+    "link": "https://www.carrefour.com.ar/jabon-de-tocador-st-tropez-brisa-primaveral-x-3-uni-599319/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2950.0,
+    "link": "https://www.vea.com.ar/jabon-tocador-brisa-de-primavera-125-grs-x-3-un-st-tropez/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2450.0,
+    "link": "https://www.jumbo.com.ar/jabon-tocador-brisa-de-primavera-125-grs-x-3-un-st-tropez/p",
+    "disponible": false
+   },
+   "descripcion": "jabón Tocador ST TROPEZ brisa pri 3x125 PAQ-370-gr."
+  },
+  "7500435142564": {
+   "Hipermercado Carrefour": {
+    "precio": 7090.0,
+    "link": "https://www.carrefour.com.ar/shampoo-head-y-shoulders-hidratacion-coco-180-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6999.0,
+    "link": "https://www.vea.com.ar/shampoo-coconut-180-ml-head-shoulders-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7800.0,
+    "link": "https://www.jumbo.com.ar/shampoo-coconut-180-ml-head-shoulders-2/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo H&S coco 180ml PVC-180-ml."
+  },
+  "7791290795297": {
+   "Hipermercado Carrefour": {
+    "precio": 7239.0,
+    "link": "https://www.carrefour.com.ar/detergente-ropa-fina-ala-camellito-matic-dp-900-cc-725773/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6499.0,
+    "link": "https://www.vea.com.ar/jabon-liquido-para-ropa-fina-hipoalergenico-900-ml-doypack-ala-camellito/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7850.0,
+    "link": "https://www.jumbo.com.ar/jabon-liquido-para-ropa-fina-hipoalergenico-900-ml-doypack-ala-camellito/p",
+    "disponible": true
+   },
+   "descripcion": "jabon liqu ALA camellito baja esp 900ml DOY-900-ml."
+  },
+  "7790093521775": {
+   "Hipermercado Carrefour": {
+    "precio": 5879.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-cabernet-cafayate-750-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5900.0,
+    "link": "https://www.vea.com.ar/vino-cabernet-sauvignon-750-cc-cafayate/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 6100.0,
+    "link": "https://www.jumbo.com.ar/vino-cabernet-sauvignon-750-cc-cafayate/p",
+    "disponible": true
+   },
+   "descripcion": "vino CAFAYATE Cabernet Sauvignon 750 BOT-750-ml."
+  },
+  "7891024124628": {
+   "Hipermercado Carrefour": {
+    "precio": 5442.5,
+    "link": "https://www.carrefour.com.ar/pasta-dental-colgate-sensitive-pro-alivio-real-white-110-grs-548213/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7800.0,
+    "link": "https://www.vea.com.ar/pasta-dental-colgate-sensitive-pro-alivio-real-white-110-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 8100.0,
+    "link": "https://www.jumbo.com.ar/pasta-dental-colgate-sensitive-pro-alivio-real-white-110-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Crema dental COLGATE CJA-115-gr."
+  },
+  "7790150090169": {
+   "Hipermercado Carrefour": {
+    "precio": 14600.0,
+    "link": "https://www.carrefour.com.ar/capsulas-de-cafe-dulce-de-leche-la-virginia-x-8-uni-699022/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 13399.0,
+    "link": "https://www.vea.com.ar/capsulas-dulce-de-leche-la-virginia-104-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 15750.0,
+    "link": "https://www.jumbo.com.ar/capsulas-dulce-de-leche-la-virginia-104-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Capsulas LA VIRGINIA DGC DDL x104g CJA-104-gr."
+  },
+  "7790150079904": {
+   "Hipermercado Carrefour": {
+    "precio": 5650.0,
+    "link": "https://www.carrefour.com.ar/cafe-en-saquitos-la-virginia-caja-x-20-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4199.0,
+    "link": "https://www.vea.com.ar/cafe-en-saquito-torrado-la-virginia-100-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5650.0,
+    "link": "https://www.jumbo.com.ar/cafe-en-saquito-torrado-la-virginia-100-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Café LA VIRGINIA en saquito Torrado 100g CJA-100-gr."
+  },
+  "7790740000233": {
+   "Hipermercado Carrefour": {
+    "precio": 5259.0,
+    "link": "https://www.carrefour.com.ar/plusbelle-litro-shampoo-brillo-1-lt-698438/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4399.0,
+    "link": "https://www.vea.com.ar/shampoo-brillo-1000-ml-plusbelle/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5750.0,
+    "link": "https://www.jumbo.com.ar/shampoo-brillo-1000-ml-plusbelle/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo PLUSBELLE brillo 1000ml BOT-1000-ml."
+  },
+  "7790070760814": {
+   "Hipermercado Carrefour": {
+    "precio": 10300.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-cc-721782/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 10800.0,
+    "link": "https://www.vea.com.ar/vino-nieto-senetiner-cabernet-sauvnion-750cc/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 10800.0,
+    "link": "https://www.jumbo.com.ar/vino-nieto-senetiner-cabernet-sauvnion-750cc/p",
+    "disponible": false
+   },
+   "descripcion": "vino NIETO SENETINER cabernet sauv BOT-750-ml."
+  },
+  "7798304841445": {
+   "Hipermercado Carrefour": {
+    "precio": 9739.0,
+    "link": "https://www.carrefour.com.ar/helado-de-agua-torpedo-palito-de-frutilla-en-caja-5-uni-710710/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 9300.0,
+    "link": "https://www.vea.com.ar/helado-torpedo-frutilla-315-gr-frigor/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 10150.0,
+    "link": "https://www.jumbo.com.ar/helado-torpedo-frutilla-315-gr-frigor/p",
+    "disponible": true
+   },
+   "descripcion": "Helado TORPEDO FRIGOR Frutilla CJA-315-gr."
+  },
+  "7798339251134": {
+   "Hipermercado Carrefour": {
+    "precio": 2850.0,
+    "link": "https://www.carrefour.com.ar/cerveza-pampa-brewing-amber-ale-473-ml-668797/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2850.0,
+    "link": "https://www.vea.com.ar/cerveza-pampa-brewing-amber-ale-473-ml-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2936.0,
+    "link": "https://www.jumbo.com.ar/cerveza-pampa-brewing-amber-ale-473-ml-2/p",
+    "disponible": false
+   },
+   "descripcion": "cerveza PAMPA BREWING Amber Ale 473cc LAT-473-cc."
+  },
+  "7793008012771": {
+   "Hipermercado Carrefour": {
+    "precio": 6599.0,
+    "link": "https://www.carrefour.com.ar/kit-de-tintura-permanente-issue-keratina-n-101-platino-1-u/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 6400.0,
+    "link": "https://www.vea.com.ar/coloracion-issue-kit-proteccion-keratina-n-10-1/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 7000.0,
+    "link": "https://www.jumbo.com.ar/coloracion-issue-kit-proteccion-keratina-n-10-1/p",
+    "disponible": true
+   },
+   "descripcion": "col ISSUE kit protec keratina N°10.1 CJA-1-un."
+  },
+  "7790310985458": {
+   "Hipermercado Carrefour": {
+    "precio": 3849.0,
+    "link": "https://www.carrefour.com.ar/papas-fritas-lays-clasicas-85-g-721950/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3850.0,
+    "link": "https://www.vea.com.ar/papas-fritas-lays-clasicas-85-g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3800.0,
+    "link": "https://www.jumbo.com.ar/papas-fritas-lays-clasicas-85-g/p",
+    "disponible": false
+   },
+   "descripcion": "Papas fritas LAYS Clasicas x85g BSA-80-gr."
+  },
+  "7792900990552": {
+   "Hipermercado Carrefour": {
+    "precio": 1999.0,
+    "link": "https://www.carrefour.com.ar/provenzal-dos-anclas-doy-pack-50-g-694751/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2000.0,
+    "link": "https://www.vea.com.ar/provenzal-dos-anclas-x-50gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2100.0,
+    "link": "https://www.jumbo.com.ar/provenzal-dos-anclas-x-50gr-2/p",
+    "disponible": false
+   },
+   "descripcion": "Provenzal DOS ANCLAS x 50gr DOY-50-gr."
+  },
+  "7790770602056": {
+   "Hipermercado Carrefour": {
+    "precio": 5771.35,
+    "link": "https://www.carrefour.com.ar/protector-diario-nosotras-60-uni-725989/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8650.0,
+    "link": "https://www.vea.com.ar/protector-diario-nosotras-multiestilo-con-calendula-x-60-u/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 9150.0,
+    "link": "https://www.jumbo.com.ar/protector-diario-nosotras-multiestilo-con-calendula-x-60-u/p",
+    "disponible": true
+   },
+   "descripcion": "prot diario NOSOTRAS multiestilo 60U PAQ-60-un."
+  },
+  "7790040133587": {
+   "Hipermercado Carrefour": {
+    "precio": 2050.0,
+    "link": "https://www.carrefour.com.ar/alfajor-mini-torta-aguila-69-g-717415/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2000.0,
+    "link": "https://www.vea.com.ar/alfajor-minitorta-clasico-aguila-69-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2050.0,
+    "link": "https://www.jumbo.com.ar/alfajor-minitorta-clasico-aguila-69-gr/p",
+    "disponible": true
+   },
+   "descripcion": "alfajor MINITORTA clasico 69 g PAQ-69-gr."
+  },
+  "7891024116128": {
+   "Hipermercado Carrefour": {
+    "precio": 6805.0,
+    "link": "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-cerdas-multinivel-3-uni-481031/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7100.0,
+    "link": "https://www.vea.com.ar/cepillo-dental-colgate-extra-clean-medio-cerdas-multinivel-3u/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7300.0,
+    "link": "https://www.jumbo.com.ar/cepillo-dental-colgate-extra-clean-medio-cerdas-multinivel-3u/p",
+    "disponible": true
+   },
+   "descripcion": "Cep. Dental COLGATE Extra Clean Mediano  BLI-3-un."
+  },
+  "7793323004932": {
+   "Hipermercado Carrefour": {
+    "precio": 2000.0,
+    "link": "https://www.carrefour.com.ar/polenta-organica-dicomere-paquete-450-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2100.0,
+    "link": "https://www.vea.com.ar/polenta-de-coccion-rapida-sin-tacc-450-gr-dicomere/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2000.0,
+    "link": "https://www.jumbo.com.ar/polenta-de-coccion-rapida-sin-tacc-450-gr-dicomere/p",
+    "disponible": true
+   },
+   "descripcion": "POLENTA COCCION RAPIDA S/ TACC 450G PAQ-450-gr."
+  },
+  "7791540047909": {
+   "Hipermercado Carrefour": {
+    "precio": 5239.0,
+    "link": "https://www.carrefour.com.ar/vino-blanco-dulce-chenin-finca-magnolias-750-ml-709477/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5250.0,
+    "link": "https://www.vea.com.ar/vino-blanco-dulce-750-ml-finca-las-moras-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5500.0,
+    "link": "https://www.jumbo.com.ar/vino-blanco-dulce-750-ml-finca-las-moras-2/p",
+    "disponible": true
+   },
+   "descripcion": "Vino FINCA LAS MORAS Dulce  BOT-750-cc. BOT-750-ml."
+  },
+  "7861002901855": {
+   "Hipermercado Carrefour": {
+    "precio": 2750.0,
+    "link": "https://www.carrefour.com.ar/pastillas-tic-tac-naranja-49-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2850.0,
+    "link": "https://www.vea.com.ar/pastillas-naranja-tic-tac-100-u/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2950.0,
+    "link": "https://www.jumbo.com.ar/pastillas-naranja-tic-tac-100-u/p",
+    "disponible": true
+   },
+   "descripcion": "pastillas TIC TAC T100 Naranja CJA-499-gr."
+  },
+  "7798141877089": {
+   "Hipermercado Carrefour": {
+    "precio": 10199.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-malbec-la-celia-c-franc-res-750-cc-611893/p",
+    "disponible": true
+   },
+   "descripcion": "vino LA CELIA Rsv Mal Cab Franc 750cc BOT-750-ml."
+  },
+  "7791866000510": {
+   "Hipermercado Carrefour": {
+    "precio": 2199.0,
+    "link": "https://www.carrefour.com.ar/mostaza-natura-500-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2200.0,
+    "link": "https://www.vea.com.ar/mostaza-500-gr-natura/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2300.0,
+    "link": "https://www.jumbo.com.ar/mostaza-500-gr-natura/p",
+    "disponible": true
+   },
+   "descripcion": "MOSTAZA NATURA DOY-500-gr."
+  },
+  "7794626011160": {
+   "Hipermercado Carrefour": {
+    "precio": 22999.0,
+    "link": "https://www.carrefour.com.ar/panal-protect-plenitud-talle-g-8-uni-690106/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 23450.0,
+    "link": "https://www.vea.com.ar/panal-adultos-plenitud-protect-g-x8/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 23450.0,
+    "link": "https://www.jumbo.com.ar/panal-adultos-plenitud-protect-g-x8/p",
+    "disponible": false
+   },
+   "descripcion": "pañal adultos PLENITUD protect G x8 BSA-8-un."
+  },
+  "7794000006362": {
+   "Hipermercado Carrefour": {
+    "precio": 3099.0,
+    "link": "https://www.carrefour.com.ar/pure-de-papa-knorr-tradicional-listo-125-g-708050/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3100.0,
+    "link": "https://www.vea.com.ar/pure-de-papas-knorr-listo-x125g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3250.0,
+    "link": "https://www.jumbo.com.ar/pure-de-papas-knorr-listo-x125g/p",
+    "disponible": true
+   },
+   "descripcion": "Pure de papas KNORR listo X125G BSA-125-gr."
+  },
+  "7790070231598": {
+   "Hipermercado Carrefour": {
+    "precio": 6295.0,
+    "link": "https://www.carrefour.com.ar/aceite-mezcla-cocinero-girasol-oliva-pet-900-ml-704972/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5699.0,
+    "link": "https://www.vea.com.ar/aceite-girasol-y-oliva-cocinero-900-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 5699.0,
+    "link": "https://www.jumbo.com.ar/aceite-girasol-y-oliva-cocinero-900-ml/p",
+    "disponible": false
+   },
+   "descripcion": "Aceite COCINERO Girasol y Oliva x900m BOT-900-ml."
+  },
+  "7793147572624": {
+   "Hipermercado Carrefour": {
+    "precio": 4305.0,
+    "link": "https://www.carrefour.com.ar/cerveza-rubia-imperial-golden-710-ml-696992/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4000.0,
+    "link": "https://www.vea.com.ar/cerveza-imperial-golden-710cc/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4300.0,
+    "link": "https://www.jumbo.com.ar/cerveza-imperial-golden-710cc/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza IMPERIAL Golden 710cc LAT-710-ml."
+  },
+  "7791200000565": {
+   "Hipermercado Carrefour": {
+    "precio": 8699.0,
+    "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-campari-450-ml-602834/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8550.0,
+    "link": "https://www.vea.com.ar/aperitivo-campari-450-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 8550.0,
+    "link": "https://www.jumbo.com.ar/aperitivo-campari-450-ml/p",
+    "disponible": false
+   },
+   "descripcion": "Aperitivo CAMPARI Bitter BOT-450-ml. BOT-450-ml."
+  },
+  "7613287225511": {
+   "Hipermercado Carrefour": {
+    "precio": 15290.0,
+    "link": "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-adulto-grande-carne-669887/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 15300.0,
+    "link": "https://www.vea.com.ar/alimento-perros-purina-one-adulto-mediano-grande-carne-2-kg/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 16100.0,
+    "link": "https://www.jumbo.com.ar/alimento-perros-purina-one-adulto-mediano-grande-carne-2-kg/p",
+    "disponible": false
+   },
+   "descripcion": "Alim Purina One Adulto Med Gra Carne 2k BSA-2000-gr."
+  },
+  "7791540053368": {
+   "Hipermercado Carrefour": {
+    "precio": 2259.0,
+    "link": "https://www.carrefour.com.ar/vino-blanco-termidor-2021-1-l-690113/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2250.0,
+    "link": "https://www.vea.com.ar/vino-termidor-blanco-brk/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2350.0,
+    "link": "https://www.jumbo.com.ar/vino-termidor-blanco-brk/p",
+    "disponible": true
+   },
+   "descripcion": "vino TERMIDOR blanco brk BRK-1000-ml."
+  },
+  "7790314080111": {
+   "Hipermercado Carrefour": {
+    "precio": 3409.0,
+    "link": "https://www.carrefour.com.ar/vino-blanco-dulce-blend-canciller-v-en-botella-750-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3200.0,
+    "link": "https://www.vea.com.ar/vino-blanco-dulce-canciller-blend/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 3200.0,
+    "link": "https://www.jumbo.com.ar/vino-blanco-dulce-canciller-blend/p",
+    "disponible": false
+   },
+   "descripcion": "vino CANCILLER Blend Blanco Dulce 5 BOT-750-ml."
+  },
+  "7790310984734": {
+   "Hipermercado Carrefour": {
+    "precio": 8800.0,
+    "link": "https://www.carrefour.com.ar/papas-fritas-lays-clasicas-230-g-721959/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 9000.0,
+    "link": "https://www.vea.com.ar/papas-fritas-lays-clasicas-230-g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 9350.0,
+    "link": "https://www.jumbo.com.ar/papas-fritas-lays-clasicas-230-g/p",
+    "disponible": true
+   },
+   "descripcion": "Papas fritas LAYS Clasicas x230g BSA-230-gr."
+  },
+  "7790895000720": {
+   "Hipermercado Carrefour": {
+    "precio": 1250.0,
+    "link": "https://www.carrefour.com.ar/jugo-cepita-del-valle-manzana-200-cc/p",
+    "disponible": true
+   },
+   "descripcion": "jugo listo CEPITA Manzana 200cc BRK-200-ml."
+  },
+  "7790150110386": {
+   "Hipermercado Carrefour": {
+    "precio": 15350.0,
+    "link": "https://www.carrefour.com.ar/cafe-descafeinado-instantaneo-la-virginia-kalma-170-g-696400-696400/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 13399.0,
+    "link": "https://www.vea.com.ar/cafe-kalma-descafeinado-x170g-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 15350.0,
+    "link": "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p",
+    "disponible": true
+   },
+   "descripcion": "Cafe KALMA descafeinado x170g FCO-170-gr."
+  },
+  "7790010002974": {
+   "Hipermercado Carrefour": {
+    "precio": 6219.0,
+    "link": "https://www.carrefour.com.ar/shampoo-para-ninos-johnsons-hidratacion-intensa-200-ml-730755/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6050.0,
+    "link": "https://www.vea.com.ar/shampoo-para-ninos-hidratacion-intensa-x-200-ml-johnson-s/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 6550.0,
+    "link": "https://www.jumbo.com.ar/shampoo-para-ninos-hidratacion-intensa-x-200-ml-johnson-s/p",
+    "disponible": true
+   },
+   "descripcion": "sham JOHNSON BABY hidra inte 200ml BOT-200-ml."
+  },
+  "7791708001521": {
+   "Hipermercado Carrefour": {
+    "precio": 3450.0,
+    "link": "https://www.carrefour.com.ar/pan-trisalvado-light-dr-cormillot-veneziana-360-g/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 3550.0,
+    "link": "https://www.vea.com.ar/pan-veneziana-light-trisalvado-360-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 3550.0,
+    "link": "https://www.jumbo.com.ar/pan-veneziana-light-trisalvado-360-gr/p",
+    "disponible": false
+   },
+   "descripcion": "Pan VENEZIANA TRISALVADO Light PAQ-360-gr."
+  },
+  "7790895643767": {
+   "Hipermercado Carrefour": {
+    "precio": 1450.0,
+    "link": "https://www.carrefour.com.ar/ades-soja-jugo-de-frutas-tropicales-200-ml-637695/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1350.0,
+    "link": "https://www.vea.com.ar/alimento-soja-jugo-de-frutas-tropicales-200-ml-ades/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1400.0,
+    "link": "https://www.jumbo.com.ar/alimento-soja-jugo-de-frutas-tropicales-200-ml-ades/p",
+    "disponible": true
+   },
+   "descripcion": "ADES TROPICAL MULTI10 BRK-200-ml."
+  },
+  "7790538010253": {
+   "Hipermercado Carrefour": {
+    "precio": 3499.0,
+    "link": "https://www.carrefour.com.ar/nachos-macritas-originales-en-bolsa-150-g-729240/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3500.0,
+    "link": "https://www.vea.com.ar/nachos-originales-macritas-150-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3700.0,
+    "link": "https://www.jumbo.com.ar/nachos-originales-macritas-150-gr/p",
+    "disponible": true
+   },
+   "descripcion": "NACHOS MACRITAS ORIGINALES x150G PAQ-150-gr."
+  },
+  "7790895006029": {
+   "Hipermercado Carrefour": {
+    "precio": 2450.0,
+    "link": "https://www.carrefour.com.ar/bebida-isotonica-powerade-mountain-blast-995-ml-570806/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2250.0,
+    "link": "https://www.vea.com.ar/isotonico-powerade-mountain-blast-995cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2350.0,
+    "link": "https://www.jumbo.com.ar/isotonico-powerade-mountain-blast-995cc/p",
+    "disponible": true
+   },
+   "descripcion": "isotonico POWERADE Mountain Blast 995cc BOT-995-ml."
+  },
+  "7791274005237": {
+   "Hipermercado Carrefour": {
+    "precio": 2300.0,
+    "link": "https://www.carrefour.com.ar/hisopos-algabo-x-100-uni/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2400.0,
+    "link": "https://www.vea.com.ar/hisopos-algodon-100-un-algabo/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2500.0,
+    "link": "https://www.jumbo.com.ar/hisopos-algodon-100-un-algabo/p",
+    "disponible": true
+   },
+   "descripcion": "hisopos ALGABO tubo 100 TBO-100-un."
+  },
+  "7500435203975": {
+   "Hipermercado Carrefour": {
+    "precio": 8189.0,
+    "link": "https://www.carrefour.com.ar/maquina-de-afeitar-venus-intima-2-uni-717211/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8200.0,
+    "link": "https://www.vea.com.ar/venus-intima-maquina-de-afeitar-desechable-2-und/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 8650.0,
+    "link": "https://www.jumbo.com.ar/venus-intima-maquina-de-afeitar-desechable-2-und/p",
+    "disponible": true
+   },
+   "descripcion": "maquina de afeitar VENUS intima 2u BLI-2-un."
+  },
+  "7791728021349": {
+   "Hipermercado Carrefour": {
+    "precio": 16930.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-bonarda-zuccardi-serie-a-750-ml-552035/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 18500.0,
+    "link": "https://www.vea.com.ar/vino-zuccardi-serie-a-bonarda-x-750-cc/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 17950.0,
+    "link": "https://www.jumbo.com.ar/vino-zuccardi-serie-a-bonarda-x-750-cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino ZUCCARDI SERIE A bonarda x 750 cc BOT-750-ml."
+  },
+  "7791293046419": {
+   "Hipermercado Carrefour": {
+    "precio": 9429.0,
+    "link": "https://www.carrefour.com.ar/shampoo-sedal-colageno-vitamina-c-650-ml-715035/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7799.99,
+    "link": "https://www.vea.com.ar/shampoo-colageno-y-vitamina-c-650-ml-sedal/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7799.99,
+    "link": "https://www.jumbo.com.ar/shampoo-colageno-y-vitamina-c-650-ml-sedal/p",
+    "disponible": false
+   },
+   "descripcion": "shampoo SEDAL colageno y vit c 650ml BOT-650-cc."
+  },
+  "7790119010528": {
+   "Hipermercado Carrefour": {
+    "precio": 5950.0,
+    "link": "https://www.carrefour.com.ar/marsala-el-abuelo-750-cc-698916-698916/p",
+    "disponible": true
+   },
+   "descripcion": "marsala EL ABUELO 750cc BOT-750-ml."
+  },
+  "7794520868952": {
+   "Hipermercado Carrefour": {
+    "precio": 1219.0,
+    "link": "https://www.carrefour.com.ar/palitos-salados-krachitos-70-g-717256/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1250.0,
+    "link": "https://www.vea.com.ar/palitos-salados-krachitos-70-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1300.0,
+    "link": "https://www.jumbo.com.ar/palitos-salados-krachitos-70-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Palitos KRACH-ITOS Salados x70g PAQ-70-gr."
+  },
+  "5000281015248": {
+   "Hipermercado Carrefour": {
+    "precio": 29100.0,
+    "link": "https://www.carrefour.com.ar/gin-tanqueray-700-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 38800.0,
+    "link": "https://www.vea.com.ar/gin-tanqueray-dry-700-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 40700.0,
+    "link": "https://www.jumbo.com.ar/gin-tanqueray-dry-700-ml/p",
+    "disponible": true
+   },
+   "descripcion": "gin TANQUERAY dry 700 ml CJA-700-ml."
+  },
+  "7793147573737": {
+   "Hipermercado Carrefour": {
+    "precio": 5040.0,
+    "link": "https://www.carrefour.com.ar/cerveza-rubia-lager-imperial-en-botella-retornable-1-lt-741634/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5050.0,
+    "link": "https://www.vea.com.ar/cerveza-imperial-rubia-1-l/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5050.0,
+    "link": "https://www.jumbo.com.ar/cerveza-imperial-rubia-1-l/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza IMPERIAL Rubia 1lt BOT-1000-ml."
+  },
+  "7798104307967": {
+   "Hipermercado Carrefour": {
+    "precio": 5299.0,
+    "link": "https://www.carrefour.com.ar/te-en-saquitos-inti-zen-mix-8-blends-15-u/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5050.0,
+    "link": "https://www.vea.com.ar/te-inti-zen-8-blends-15-saquitos/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 5500.0,
+    "link": "https://www.jumbo.com.ar/te-inti-zen-8-blends-15-saquitos/p",
+    "disponible": true
+   },
+   "descripcion": "Té INTI ZEN en saq 8 blends x 15 un CJA-30-un."
+  },
+  "7509546070988": {
+   "Hipermercado Carrefour": {
+    "precio": 1728.35,
+    "link": "https://www.carrefour.com.ar/jabon-liquio-para-cuerpo-palmolive-descanso-floral-200-ml-626867/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2700.0,
+    "link": "https://www.vea.com.ar/jabon-liq-palmolive-aromatherapy-descanso-floral-doypack-200ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2800.0,
+    "link": "https://www.jumbo.com.ar/jabon-liq-palmolive-aromatherapy-descanso-floral-doypack-200ml/p",
+    "disponible": true
+   },
+   "descripcion": "jab liq cuerpo PALMOLIVE DP 200ml DOY-200-ml."
+  },
+  "7798079234381": {
+   "Hipermercado Carrefour": {
+    "precio": 2750.0,
+    "link": "https://www.carrefour.com.ar/obleas-santa-maria-sin-tacc-vainilla-90-g-700621/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 2700.0,
+    "link": "https://www.vea.com.ar/obleas-sabor-vainilla-90-gr-santa-maria-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2750.0,
+    "link": "https://www.jumbo.com.ar/obleas-sabor-vainilla-90-gr-santa-maria-2/p",
+    "disponible": true
+   },
+   "descripcion": "oBLEAS SABOR VAINILLA santa maria 90G BSA-90-gr."
+  },
+  "7791203000142": {
+   "Hipermercado Carrefour": {
+    "precio": 32750.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-malbec-luigi-bosca-doc-750-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 32750.0,
+    "link": "https://www.vea.com.ar/vino-tinto-luigi-bosca-malbec-750-cc/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 32750.0,
+    "link": "https://www.jumbo.com.ar/vino-tinto-luigi-bosca-malbec-750-cc/p",
+    "disponible": true
+   },
+   "descripcion": "Vino LUIGI BOSCA malbec doc BOT-750-ml."
+  },
+  "7790710334269": {
+   "Hipermercado Carrefour": {
+    "precio": 3900.0,
+    "link": "https://www.carrefour.com.ar/yerba-mate-cbse-etiqueta-negra-con-hierbas-serranas-500-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3700.0,
+    "link": "https://www.vea.com.ar/yerba-hierbas-serranas-etiqueta-negra-cbse-500-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4150.0,
+    "link": "https://www.jumbo.com.ar/yerba-hierbas-serranas-etiqueta-negra-cbse-500-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Yerba CBSé H. Serranas Etiqueta Negra CJA-500-gr."
+  },
+  "7791004000082": {
+   "Hipermercado Carrefour": {
+    "precio": 2729.0,
+    "link": "https://www.carrefour.com.ar/sal-gruesa-celusal-caja-1-kg/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2800.0,
+    "link": "https://www.vea.com.ar/sal-gruesa-celusal-1-kg-4/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2900.0,
+    "link": "https://www.jumbo.com.ar/sal-gruesa-celusal-1-kg-4/p",
+    "disponible": true
+   },
+   "descripcion": "Sal celusal gruesa CJA-1000-gr."
+  },
+  "7790150160787": {
+   "Hipermercado Carrefour": {
+    "precio": 8800.0,
+    "link": "https://www.carrefour.com.ar/cappuccino-la-virginia-instantaneo-210-g-692792/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7199.0,
+    "link": "https://www.vea.com.ar/mix-cappuccino-la-virginia-tradicional-210g-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 8800.0,
+    "link": "https://www.jumbo.com.ar/mix-cappuccino-la-virginia-tradicional-210g-2/p",
+    "disponible": true
+   },
+   "descripcion": "Mix cappuccino LA VIRGINIA  tradici 210g FCO-210-gr."
+  },
+  "7793147570330": {
+   "Hipermercado Carrefour": {
+    "precio": 5460.0,
+    "link": "https://www.carrefour.com.ar/cerveza-rubia-imperial-ipa-1-lt-623432/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5450.0,
+    "link": "https://www.vea.com.ar/cerveza-imperial-ipa-1lt-ret/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5450.0,
+    "link": "https://www.jumbo.com.ar/cerveza-imperial-ipa-1lt-ret/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza IMPERIAL Ipa 1lt Ret BOT-1000-ml."
+  },
+  "7790520998903": {
+   "Hipermercado Carrefour": {
+    "precio": 4140.0,
+    "link": "https://www.carrefour.com.ar/limpiador-de-cocina-mr-musculo-antigrasa-900-cc-694283/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4300.0,
+    "link": "https://www.vea.com.ar/limpiador-cocina-antigrasa-repuesto-900ml-mr-musculo/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4450.0,
+    "link": "https://www.jumbo.com.ar/limpiador-cocina-antigrasa-repuesto-900ml-mr-musculo/p",
+    "disponible": true
+   },
+   "descripcion": "Limpidor Cocina Doypack900ml DOY-900-ml."
+  },
+  "7792860007963": {
+   "Hipermercado Carrefour": {
+    "precio": 2659.0,
+    "link": "https://www.carrefour.com.ar/caramelos-masticables-pico-dulce-150-g/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 2750.0,
+    "link": "https://www.vea.com.ar/caramelos-pico-dulce-lheritier-150-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2850.0,
+    "link": "https://www.jumbo.com.ar/caramelos-pico-dulce-lheritier-150-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Caramelos masticables PICO DULCE x150gr PAQ-150-gr."
+  },
+  "7790520029560": {
+   "Hipermercado Carrefour": {
+    "precio": 19579.0,
+    "link": "https://www.carrefour.com.ar/aromatizante-ambiental-glade-coco-vibes-aceite-natural-pack-x2-21-ml-748502/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 21150.0,
+    "link": "https://www.vea.com.ar/aromatizante-aceite-natural-coco-pack-x-2u-21ml-glade/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 20950.0,
+    "link": "https://www.jumbo.com.ar/aromatizante-aceite-natural-coco-pack-x-2u-21ml-glade/p",
+    "disponible": true
+   },
+   "descripcion": "desodorante GLADE aceit twinpack coco PVC-21-ml."
+  },
+  "7790117000033": {
+   "Hipermercado Carrefour": {
+    "precio": 7700.0,
+    "link": "https://www.carrefour.com.ar/bolsas-para-residuos-asurin-consorcio-60x100cm-x-10-u-126047/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7450.0,
+    "link": "https://www.vea.com.ar/bolsa-de-residuos-asurin-consorcio-60-x-100-cm-10-u-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7700.0,
+    "link": "https://www.jumbo.com.ar/bolsa-de-residuos-asurin-consorcio-60-x-100-cm-10-u-2/p",
+    "disponible": true
+   },
+   "descripcion": "bolsa plana ASURIN 60X100 10u BSA-10-un."
+  },
+  "7793147001025": {
+   "Hipermercado Carrefour": {
+    "precio": 4410.0,
+    "link": "https://www.carrefour.com.ar/cerveza-rubia-schneider-1-lt-540477/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4400.0,
+    "link": "https://www.vea.com.ar/cerveza-rubia-1000-ml-schneider/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4400.0,
+    "link": "https://www.jumbo.com.ar/cerveza-rubia-1000-ml-schneider/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza SCHNEIDER Lager Rubia 1lt BOT-1000-ml."
+  },
+  "7790040136069": {
+   "Hipermercado Carrefour": {
+    "precio": 1559.0,
+    "link": "https://www.carrefour.com.ar/galletitas-hogarenas-7-semillas-189-g-691473/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1550.0,
+    "link": "https://www.vea.com.ar/galletitas-hogarenas-7-semillas-x189g/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1550.0,
+    "link": "https://www.jumbo.com.ar/galletitas-hogarenas-7-semillas-x189g/p",
+    "disponible": false
+   },
+   "descripcion": "Galletitas HOGAREÑAS 7 semillas x189g PAQ-189-gr."
+  },
+  "7797453000543": {
+   "Hipermercado Carrefour": {
+    "precio": 1399.0,
+    "link": "https://www.carrefour.com.ar/alimento-humedo-para-gato-whiskas-85-g-sardina-512070/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1450.0,
+    "link": "https://www.vea.com.ar/alimento-para-gatos-whiskas-pasta-sardina-85-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1450.0,
+    "link": "https://www.jumbo.com.ar/alimento-para-gatos-whiskas-pasta-sardina-85-gr/p",
+    "disponible": false
+   },
+   "descripcion": "WHISKAS pasta Sardina PCH-85-gr."
+  },
+  "7793890258646": {
+   "Hipermercado Carrefour": {
+    "precio": 7049.0,
+    "link": "https://www.carrefour.com.ar/vainillas-bimbo-36-uni-719198/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7250.0,
+    "link": "https://www.vea.com.ar/vainillas-36-un-444-grs-bimbo/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7500.0,
+    "link": "https://www.jumbo.com.ar/vainillas-36-un-444-grs-bimbo/p",
+    "disponible": true
+   },
+   "descripcion": "Vainillas BIMBO x444g BSA-445-gr."
+  },
+  "7790380015949": {
+   "Hipermercado Carrefour": {
+    "precio": 2935.0,
+    "link": "https://www.carrefour.com.ar/caramelos-masticables-flynn-paff-tutti-frutti-128-g-482773/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2600.0,
+    "link": "https://www.vea.com.ar/caramelos-tutti-frutti-flynn-paff-128-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2750.0,
+    "link": "https://www.jumbo.com.ar/caramelos-tutti-frutti-flynn-paff-128-gr/p",
+    "disponible": true
+   },
+   "descripcion": "caramelos FLYNN PAFF Tutti Frutti BSA-128-gr."
+  },
+  "7790538010291": {
+   "Hipermercado Carrefour": {
+    "precio": 4665.0,
+    "link": "https://www.carrefour.com.ar/nachos-macritas-restaurant-style-250-g-721304/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4650.0,
+    "link": "https://www.vea.com.ar/nachos-macritas-restaurant-style-250gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4850.0,
+    "link": "https://www.jumbo.com.ar/nachos-macritas-restaurant-style-250gr/p",
+    "disponible": true
+   },
+   "descripcion": "Nachos MACRITAS Restaurant style 250gr BSA-250-gr."
+  },
+  "7622201819699": {
+   "Hipermercado Carrefour": {
+    "precio": 1450.0,
+    "link": "https://www.carrefour.com.ar/gelatina-royal-cereza-25-g-714810/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1500.0,
+    "link": "https://www.vea.com.ar/gelatina-royal-cereza-x-25-gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1550.0,
+    "link": "https://www.jumbo.com.ar/gelatina-royal-cereza-x-25-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "Gelatina ROYAL Cereza x25gr PCK-25-gr."
+  },
+  "7798066030835": {
+   "Hipermercado Carrefour": {
+    "precio": 1485.0,
+    "link": "https://www.carrefour.com.ar/trigo-candeal-pelado-la-espanola-en-bolsa-500-grs-547453/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 2100.0,
+    "link": "https://www.vea.com.ar/trigo-pelado-la-espanola-gourmet-500-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2100.0,
+    "link": "https://www.jumbo.com.ar/trigo-pelado-la-espanola-gourmet-500-gr/p",
+    "disponible": false
+   },
+   "descripcion": "trigo LA ESPAÑOLA GOURMET x 500gr PAQ-500-gr."
+  },
+  "7790580136086": {
+   "Hipermercado Carrefour": {
+    "precio": 1479.0,
+    "link": "https://www.carrefour.com.ar/provenzal-la-campagnola-en-sobre-23-g-702037/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1500.0,
+    "link": "https://www.vea.com.ar/provenzal-la-campagnola-23-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1550.0,
+    "link": "https://www.jumbo.com.ar/provenzal-la-campagnola-23-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Provenzal LA CAMPAGNOLA x23gr DOY-23-gr."
+  },
+  "7798181511011": {
+   "Hipermercado Carrefour": {
+    "precio": 4290.0,
+    "link": "https://www.carrefour.com.ar/galletitas-con-chocolate-chocosmams-200-g-719981/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4300.0,
+    "link": "https://www.vea.com.ar/galletitas-choco-sin-gluten-200-gr-smams/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4650.0,
+    "link": "https://www.jumbo.com.ar/galletitas-choco-sin-gluten-200-gr-smams/p",
+    "disponible": true
+   },
+   "descripcion": "Galletitas sin gluten ChocoSMAMS 200gr CJA-200-gr."
+  },
+  "7790040129764": {
+   "Hipermercado Carrefour": {
+    "precio": 3319.0,
+    "link": "https://www.carrefour.com.ar/alfajor-bon-o-bon-de-chocolate-mini-195-g-x-6-uni-701770/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3200.0,
+    "link": "https://www.vea.com.ar/alfajor-mini-bon-o-bon-117-grs/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3350.0,
+    "link": "https://www.jumbo.com.ar/alfajor-mini-bon-o-bon-117-grs/p",
+    "disponible": true
+   },
+   "descripcion": "Alfajor BON O BON mini 117 grs PAQ-117-gr."
+  },
+  "7792180142931": {
+   "Hipermercado Carrefour": {
+    "precio": 3080.0,
+    "link": "https://www.carrefour.com.ar/fideos-con-salsa-bolognesa-box-vaso-64-g-727517/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3300.0,
+    "link": "https://www.vea.com.ar/pasta-menu-box-bolognesa-x64gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 3300.0,
+    "link": "https://www.jumbo.com.ar/pasta-menu-box-bolognesa-x64gr/p",
+    "disponible": false
+   },
+   "descripcion": "Pasta MENU BOX Bolognesa x64gr VAS-64-gr."
+  },
+  "7790310985182": {
+   "Hipermercado Carrefour": {
+    "precio": 3035.0,
+    "link": "https://www.carrefour.com.ar/palitos-salados-sabor-queso-pep-120-g-716939/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3150.0,
+    "link": "https://www.vea.com.ar/palitos-salados-pep-queso-120-g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3350.0,
+    "link": "https://www.jumbo.com.ar/palitos-salados-pep-queso-120-g/p",
+    "disponible": true
+   },
+   "descripcion": "Ramitas PEP Sabor Queso x120g BSA-120-gr."
+  },
+  "7891000360552": {
+   "Hipermercado Carrefour": {
+    "precio": 10909.0,
+    "link": "https://www.carrefour.com.ar/nesquik-cereal-400-grs-721285/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 11000.0,
+    "link": "https://www.vea.com.ar/cereal-400-grs-nesquik/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 11300.0,
+    "link": "https://www.jumbo.com.ar/cereal-400-grs-nesquik/p",
+    "disponible": true
+   },
+   "descripcion": "Cereal NESQUIK Matinal x400g PAQ-400-gr."
+  },
+  "7500435233019": {
+   "Hipermercado Carrefour": {
+    "precio": 3090.0,
+    "link": "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3150.0,
+    "link": "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3300.0,
+    "link": "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p",
+    "disponible": true
+   },
+   "descripcion": "prot diar ALWAYS xtra respirable 15u PAQ-15-un."
+  },
+  "7798147780062": {
+   "Hipermercado Carrefour": {
+    "precio": 8249.0,
+    "link": "https://www.carrefour.com.ar/frambuesas-banadas-en-chocolate-amargo-blanco-franui-pote-150-g/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 7850.0,
+    "link": "https://www.vea.com.ar/bombon-franui-de-frambuesa-black-150-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 8250.0,
+    "link": "https://www.jumbo.com.ar/bombon-franui-de-frambuesa-black-150-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Bombón de frambuesa FRANUI Black  x 150g POT-150-gr."
+  },
+  "7509552902501": {
+   "Hipermercado Carrefour": {
+    "precio": 11189.0,
+    "link": "https://www.carrefour.com.ar/shampoo-2-en-1-elvive-reparacion-total-5-400-cc-726118/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8999.0,
+    "link": "https://www.vea.com.ar/shampoo-elvive-2-en-1-reparacion-total-5-keratin-400-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 11123.0,
+    "link": "https://www.jumbo.com.ar/shampoo-elvive-2-en-1-reparacion-total-5-keratin-400-ml/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo ELVIVE rep total 2en1 400ml BOT-400-ml."
+  },
+  "8445290068682": {
+   "Hipermercado Carrefour": {
+    "precio": 8000.0,
+    "link": "https://www.carrefour.com.ar/alimento-seco-para-gato-cat-chow-adulto-carne-y-pollo-1-kg-693213/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8000.0,
+    "link": "https://www.vea.com.ar/alimento-gatos-cat-chow-adulto-carne-pollo-1-kg/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 8250.0,
+    "link": "https://www.jumbo.com.ar/alimento-gatos-cat-chow-adulto-carne-pollo-1-kg/p",
+    "disponible": true
+   },
+   "descripcion": "alim CAT CHOW Adulto Carne Pollo 1K BSA-1000-gr."
+  },
+  "7791560527948": {
+   "Hipermercado Carrefour": {
+    "precio": 3939.0,
+    "link": "https://www.carrefour.com.ar/espumante-mumm-extra-brut-cuvee-269-cc-697597/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 3950.0,
+    "link": "https://www.vea.com.ar/espumante-mumm-cuvee-extra-brut-269-ml/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4250.0,
+    "link": "https://www.jumbo.com.ar/espumante-mumm-cuvee-extra-brut-269-ml/p",
+    "disponible": true
+   },
+   "descripcion": "espumante MUMM Cuvee Extra Brut 269cc LAT-269-ml."
+  },
+  "7791813402015": {
+   "Hipermercado Carrefour": {
+    "precio": 1800.0,
+    "link": "https://www.carrefour.com.ar/agua-saborizada-de-pomelo-h2oh-sin-gas-500-ml-694095/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1800.0,
+    "link": "https://www.vea.com.ar/saborizada-h2oh-pomelo-sin-gas-500cc-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1800.0,
+    "link": "https://www.jumbo.com.ar/saborizada-h2oh-pomelo-sin-gas-500cc-2/p",
+    "disponible": false
+   },
+   "descripcion": "saborizada H2OH Pomelo Sin Gas 500cc BOT-500-ml."
+  },
+  "7790158229547": {
+   "Hipermercado Carrefour": {
+    "precio": 5230.0,
+    "link": "https://www.carrefour.com.ar/miel-liquida-aleluya-250-grs-39137/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5150.0,
+    "link": "https://www.vea.com.ar/miel-liquida-sin-tacc-aleluya-250-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5300.0,
+    "link": "https://www.jumbo.com.ar/miel-liquida-sin-tacc-aleluya-250-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Miel ALELUYA Liq s/TACC x250g FCO-250-gr."
+  },
+  "7861002900117": {
+   "Hipermercado Carrefour": {
+    "precio": 10735.0,
+    "link": "https://www.carrefour.com.ar/bombones-ferrero-rocher-100-g/p",
+    "disponible": true
+   },
+   "descripcion": "Bombón FERRERO ROCHER choc avell CJA-100-gr."
+  },
+  "7622201818692": {
+   "Hipermercado Carrefour": {
+    "precio": 13650.0,
+    "link": "https://www.carrefour.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-162-g-680435/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 13200.0,
+    "link": "https://www.vea.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-162-gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 14000.0,
+    "link": "https://www.jumbo.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-162-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "chocolate CADBURY YOGHURT FRUTILLA 162g PAQ-162-gr."
+  },
+  "7509552876482": {
+   "Hipermercado Carrefour": {
+    "precio": 11189.0,
+    "link": "https://www.carrefour.com.ar/acondicionador-elvive-pure-400-ml-723032/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 8999.0,
+    "link": "https://www.vea.com.ar/acondicionador-elvive-hialuronico-pure-400-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 12050.0,
+    "link": "https://www.jumbo.com.ar/acondicionador-elvive-hialuronico-pure-400-ml/p",
+    "disponible": true
+   },
+   "descripcion": "acondicionador ELVIVE hialuronico 400ml BOT-0.4-lt."
+  },
+  "8445290559975": {
+   "Hipermercado Carrefour": {
+    "precio": 5437.5,
+    "link": "https://www.carrefour.com.ar/nesquik-original-cacao-en-polvo-menos-azucar-300-grs-719361/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7050.0,
+    "link": "https://www.vea.com.ar/cacao-polvo-menos-azucar-300-grs-nesquik/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7250.0,
+    "link": "https://www.jumbo.com.ar/cacao-polvo-menos-azucar-300-grs-nesquik/p",
+    "disponible": true
+   },
+   "descripcion": "Cacao en Polvo NESQUIK Menos Azucarx300g PAQ-300-gr."
+  },
+  "7790168904434": {
+   "Hipermercado Carrefour": {
+    "precio": 5249.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-colon-cabernet-sauvignon-syrah-en-botella-750-cc_729805/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5250.0,
+    "link": "https://www.vea.com.ar/vino-colon-cabernet-sauvignon-syrah-750-cc-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5450.0,
+    "link": "https://www.jumbo.com.ar/vino-colon-cabernet-sauvignon-syrah-750-cc-2/p",
+    "disponible": true
+   },
+   "descripcion": "vino COLON Cabernet Sauv - Syrah 750 CC BOT-750-ml."
+  },
+  "7500435228763": {
+   "Hipermercado Carrefour": {
+    "precio": 35500.0,
+    "link": "https://www.carrefour.com.ar/panales-talle-xg-pampers-babydry-36-uni-718012/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 29999.0,
+    "link": "https://www.vea.com.ar/panales-babydry-extra-grande-36-un-pampers/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 35550.0,
+    "link": "https://www.jumbo.com.ar/panales-babydry-extra-grande-36-un-pampers/p",
+    "disponible": true
+   },
+   "descripcion": "pañales PAMPERS babydry xg 36u PAQ-36-un."
+  },
+  "7798370550142": {
+   "Hipermercado Carrefour": {
+    "precio": 1470.0,
+    "link": "https://www.carrefour.com.ar/premezcla-natural-pop-sin-tacc-para-faina-210-g-719486/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1700.0,
+    "link": "https://www.vea.com.ar/faina-sin-gluten-210-gr-natural-pop/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1650.0,
+    "link": "https://www.jumbo.com.ar/faina-sin-gluten-210-gr-natural-pop/p",
+    "disponible": true
+   },
+   "descripcion": "faina sin gluten NATURAL POP x210g DOY-210-gr."
+  },
+  "7793890259018": {
+   "Hipermercado Carrefour": {
+    "precio": 5139.0,
+    "link": "https://www.carrefour.com.ar/pan-brioche-para-hamburguesa-bimbo-artesano-4-uni-715677/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5200.0,
+    "link": "https://www.vea.com.ar/pan-brioche-de-hamburguesa-artesano-4-un-240-grs-bimbo/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5400.0,
+    "link": "https://www.jumbo.com.ar/pan-brioche-de-hamburguesa-artesano-4-un-240-grs-bimbo/p",
+    "disponible": true
+   },
+   "descripcion": "Pan hamb ARTESANO Brioche 240g BSA-240-gr."
+  },
+  "8906038788649": {
+   "Hipermercado Carrefour": {
+    "precio": 1839.0,
+    "link": "https://www.carrefour.com.ar/barrita-vegana-laddu-bar-cocochoco-30-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1700.0,
+    "link": "https://www.vea.com.ar/barra-vegana-cocochoco-30-gr-laddu-bar/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1900.0,
+    "link": "https://www.jumbo.com.ar/barra-vegana-cocochoco-30-gr-laddu-bar/p",
+    "disponible": true
+   },
+   "descripcion": "Barra Laddu Bar vegana Cocochoco x 30g CJA-30-gr."
+  },
+  "7791293045658": {
+   "Hipermercado Carrefour": {
+    "precio": 3929.0,
+    "link": "https://www.carrefour.com.ar/shampoo-sedal-ceramidas-190-cc-715053/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2999.0,
+    "link": "https://www.vea.com.ar/shampoo-ceramidas-190-ml-sedal/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4250.0,
+    "link": "https://www.jumbo.com.ar/shampoo-ceramidas-190-ml-sedal/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo SEDAL ceramidas 190ml BOT-190-ml."
+  },
+  "7794000006164": {
+   "Hipermercado Carrefour": {
+    "precio": 4399.0,
+    "link": "https://www.carrefour.com.ar/ketchup-hellmanns-regular-doypack-500-g-710571/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4550.0,
+    "link": "https://www.vea.com.ar/ketchup-hellmann-s-regular-doypack-500-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4700.0,
+    "link": "https://www.jumbo.com.ar/ketchup-hellmann-s-regular-doypack-500-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Ketchup HELLMANNS DPX500G DOY-500-gr."
+  },
+  "8904150127438": {
+   "Hipermercado Carrefour": {
+    "precio": 1839.0,
+    "link": "https://www.carrefour.com.ar/barrita-vegana-laddubar-frutos-rojos-30-grs-704096/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1900.0,
+    "link": "https://www.vea.com.ar/barra-vegana-frutos-rojos-30-gr-laddu-bar/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1950.0,
+    "link": "https://www.jumbo.com.ar/barra-vegana-frutos-rojos-30-gr-laddu-bar/p",
+    "disponible": true
+   },
+   "descripcion": "Barra Laddu Bar vegan Frutos Rojos x 30g CJA-30-gr."
+  },
+  "7798290580090": {
+   "Hipermercado Carrefour": {
+    "precio": 1849.0,
+    "link": "https://www.carrefour.com.ar/jugo-tutti-manzana-tetra-1-l/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1850.0,
+    "link": "https://www.vea.com.ar/jugo-listo-tutti-manzana-1lt/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2050.0,
+    "link": "https://www.jumbo.com.ar/jugo-listo-tutti-manzana-1lt/p",
+    "disponible": true
+   },
+   "descripcion": "jugo listo TUTTI Manzana 1lt BRK-1000-ml."
+  },
+  "7790520028075": {
+   "Hipermercado Carrefour": {
+    "precio": 5849.0,
+    "link": "https://www.carrefour.com.ar/limpiador-inodoro-discos-activos-pato-lavanda-38-grs-733064/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6100.0,
+    "link": "https://www.vea.com.ar/discos-adhesivos-para-inodoro-lavanda-repuesto-38g-pato/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6300.0,
+    "link": "https://www.jumbo.com.ar/discos-adhesivos-para-inodoro-lavanda-repuesto-38g-pato/p",
+    "disponible": true
+   },
+   "descripcion": "disco adh PATO lavanda rep 38 BLI-38-gr."
+  },
+  "7793147572846": {
+   "Hipermercado Carrefour": {
+    "precio": 3990.0,
+    "link": "https://www.carrefour.com.ar/cerveza-grolsch-ipa-473-ml-709079/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4000.0,
+    "link": "https://www.vea.com.ar/cerveza-grolsch-ipa-473cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4000.0,
+    "link": "https://www.jumbo.com.ar/cerveza-grolsch-ipa-473cc/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza GROLSCH Ipa 473cc LAT-473-cc."
+  },
+  "7790070431738": {
+   "Hipermercado Carrefour": {
+    "precio": 4399.0,
+    "link": "https://www.carrefour.com.ar/risotto-a-la-espanola-gallo-en-caja-240-g-727416/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4350.0,
+    "link": "https://www.vea.com.ar/risotto-a-la-espanola-gallo-240-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4500.0,
+    "link": "https://www.jumbo.com.ar/risotto-a-la-espanola-gallo-240-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Risotto GALLO A La Española  x240g PAQ-240-gr."
+  },
+  "7791293046372": {
+   "Hipermercado Carrefour": {
+    "precio": 5870.0,
+    "link": "https://www.carrefour.com.ar/shampoo-sedal-hialuronico-vitamina-a-340-ml-715037/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3399.0,
+    "link": "https://www.vea.com.ar/shampoo-sedal-hialuronico-y-vitamina-a-340-ml-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5900.0,
+    "link": "https://www.jumbo.com.ar/shampoo-sedal-hialuronico-y-vitamina-a-340-ml-2/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo SEDAL hialuronico y vit a 340ml BOT-340-ml."
+  },
+  "8445290977373": {
+   "Hipermercado Carrefour": {
+    "precio": 5499.0,
+    "link": "https://www.carrefour.com.ar/alimento-seco-para-perro-dog-chow-m-l-triple-protein-9-ar-15-kg-752011/p",
+    "disponible": true
+   },
+   "descripcion": "DOG CHOW Adulto M/G x1,5kg BSA-1500-gr."
+  },
+  "7798167047923": {
+   "Hipermercado Carrefour": {
+    "precio": 1676.25,
+    "link": "https://www.carrefour.com.ar/fernet-con-cola-1882-473-cc/p",
+    "disponible": true
+   },
+   "descripcion": "fernet 1882 con Cola 473cc LAT-473-ml."
+  },
+  "7791540047855": {
+   "Hipermercado Carrefour": {
+    "precio": 7739.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-dada-750-cc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7650.0,
+    "link": "https://www.vea.com.ar/vino-dada-art-391-cabernet-750cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 8050.0,
+    "link": "https://www.jumbo.com.ar/vino-dada-art-391-cabernet-750cc/p",
+    "disponible": true
+   },
+   "descripcion": "vino DADA Art 391 Cabernet 750cc BOT-750-ml."
+  },
+  "7509546686042": {
+   "Hipermercado Carrefour": {
+    "precio": 4140.5,
+    "link": "https://www.carrefour.com.ar/pasta-dental-colgate-total-carbon-activado-con-fluor-90-grs-722026/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6650.0,
+    "link": "https://www.vea.com.ar/pasta-dental-total-carbon-activado-con-fluor-90-grs-colgate/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6459.0,
+    "link": "https://www.jumbo.com.ar/pasta-dental-total-carbon-activado-con-fluor-90-grs-colgate/p",
+    "disponible": true
+   },
+   "descripcion": "crema dental COLGATE total carbon 90g PMO-90-gr."
+  },
+  "7509552907759": {
+   "Hipermercado Carrefour": {
+    "precio": 6989.0,
+    "link": "https://www.carrefour.com.ar/shampoo-elvive-protector-color-vive-200-cc-722795/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6699.0,
+    "link": "https://www.vea.com.ar/shampoo-elvive-colorvive-200-ml-3/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7400.0,
+    "link": "https://www.jumbo.com.ar/shampoo-elvive-colorvive-200-ml-3/p",
+    "disponible": true
+   },
+   "descripcion": "shamp ELVIVE color 200ml BOT-200-ml."
+  },
+  "7798060853119": {
+   "Hipermercado Carrefour": {
+    "precio": 2699.0,
+    "link": "https://www.carrefour.com.ar/queso-sabor-cheddar-tonadita-dip-180-g-728483/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2399.0,
+    "link": "https://www.vea.com.ar/dip-untable-cheddar-tonadita-180-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 2399.0,
+    "link": "https://www.jumbo.com.ar/dip-untable-cheddar-tonadita-180-gr/p",
+    "disponible": false
+   },
+   "descripcion": "DIP UNTABLE CHEDDAR TONADITA 180 gr POT-180-gr."
+  },
+  "7798181510021": {
+   "Hipermercado Carrefour": {
+    "precio": 2550.0,
+    "link": "https://www.carrefour.com.ar/galletitas-smams-vainilla-con-relleno-105-g-sin-tacc/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2550.0,
+    "link": "https://www.vea.com.ar/galletitas-rellenas-sabor-vainilla-105-gr-smams-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2650.0,
+    "link": "https://www.jumbo.com.ar/galletitas-rellenas-sabor-vainilla-105-gr-smams-2/p",
+    "disponible": true
+   },
+   "descripcion": "Galletitas rellenas SMAMS Vainilla PAQ-105-gr."
+  },
+  "7790520996961": {
+   "Hipermercado Carrefour": {
+    "precio": 4316.25,
+    "link": "https://www.carrefour.com.ar/desinfectante-de-ambientes-y-elimina-olores-lysoform-original-en-aerosol-495-ml-727089/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6000.0,
+    "link": "https://www.vea.com.ar/desinfectante-de-ambientes-original-aero-495ml-lysoform/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 6050.0,
+    "link": "https://www.jumbo.com.ar/desinfectante-de-ambientes-original-aero-495ml-lysoform/p",
+    "disponible": false
+   },
+   "descripcion": "desinf ambiente LYSOFORM aire mont 495ml AER-495-ml."
+  },
+  "7798140256762": {
+   "Hipermercado Carrefour": {
+    "precio": 11100.0,
+    "link": "https://www.carrefour.com.ar/shampoo-tio-nacho-herbolaria-milenaria-415-ml-707209/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5499.0,
+    "link": "https://www.vea.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 11100.0,
+    "link": "https://www.jumbo.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p",
+    "disponible": true
+   },
+   "descripcion": "shampoo TIO NACHO recic herbolaria 415ml BOT-410-ml."
+  },
+  "7798108834193": {
+   "Hipermercado Carrefour": {
+    "precio": 5670.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-callia-dulce-tardio-en-botella-750-cc-718567/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5800.0,
+    "link": "https://www.vea.com.ar/vino-callia-tardio-tinto-750cc/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5500.0,
+    "link": "https://www.jumbo.com.ar/vino-callia-tardio-tinto-750cc/p",
+    "disponible": false
+   },
+   "descripcion": "vino CALLIA tardio tinto 750cc BOT-750-ml."
+  },
+  "7793913013597": {
+   "Hipermercado Carrefour": {
+    "precio": 3389.0,
+    "link": "https://www.carrefour.com.ar/yogur-descremado-bebible-tregar-de-frutilla-900-g-718166/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3400.0,
+    "link": "https://www.vea.com.ar/yogur-tregar-descremado-frutilla-900g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3300.0,
+    "link": "https://www.jumbo.com.ar/yogur-tregar-descremado-frutilla-900g/p",
+    "disponible": false
+   },
+   "descripcion": "Yogur Des Tregar Frutilla Sachet 900g SCH-900-gr."
+  },
+  "7509552791457": {
+   "Hipermercado Carrefour": {
+    "precio": 6989.0,
+    "link": "https://www.carrefour.com.ar/acondicionador-elvive-oleo-nutricion-cabello-seco-200-cc-714800/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6699.0,
+    "link": "https://www.vea.com.ar/acondicionador-oleo-extraordinario-nutricion-universal-200ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 7450.0,
+    "link": "https://www.jumbo.com.ar/acondicionador-oleo-extraordinario-nutricion-universal-200ml/p",
+    "disponible": true
+   },
+   "descripcion": "acondic ELVIVE oleo extraord 200ml BOT-200-ml."
+  },
+  "7794820902790": {
+   "Hipermercado Carrefour": {
+    "precio": 1520.0,
+    "link": "https://www.carrefour.com.ar/yogur-entero-milkaut-de-frutilla-0-lact-en-pote-120-g-723158/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1550.0,
+    "link": "https://www.vea.com.ar/yogur-milkaut-0lactosa-sabor-a-frutilla-120g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1550.0,
+    "link": "https://www.jumbo.com.ar/yogur-milkaut-0lactosa-sabor-a-frutilla-120g/p",
+    "disponible": true
+   },
+   "descripcion": "Yog Milkaut 0% lactosa Frutilla 120g POT-120-gr."
+  },
+  "7791130683852": {
+   "Hipermercado Carrefour": {
+    "precio": 11785.0,
+    "link": "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-5-l-584288/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 11500.0,
+    "link": "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-5l/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 12250.0,
+    "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-5l/p",
+    "disponible": true
+   },
+   "descripcion": "Limp líq PROCENEX Ext Frag Lavanda BDN-5000-ml."
+  },
+  "7790742223302": {
+   "Hipermercado Carrefour": {
+    "precio": 4029.0,
+    "link": "https://www.carrefour.com.ar/queso-parmesano-rallado-la-serenisima-80-g-719545/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4200.0,
+    "link": "https://www.vea.com.ar/queso-rallado-parmesano-la-serenisima-80-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4400.0,
+    "link": "https://www.jumbo.com.ar/queso-rallado-parmesano-la-serenisima-80-gr/p",
+    "disponible": true
+   },
+   "descripcion": "queso rallado LS PAQ-80-gr."
+  },
+  "7790150101476": {
+   "Hipermercado Carrefour": {
+    "precio": 8050.0,
+    "link": "https://www.carrefour.com.ar/cafe-instantaneo-suave-la-virginia-doy-pack-170-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 7399.0,
+    "link": "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 8750.0,
+    "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p",
+    "disponible": true
+   },
+   "descripcion": "café LA VIRGINIA Suave Espuma DP x170g DOY-170-gr."
+  },
+  "7790250097501": {
+   "Hipermercado Carrefour": {
+    "precio": 4900.0,
+    "link": "https://www.carrefour.com.ar/protectores-diarios-ladysoft-clasicos-56-uni-681687/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4750.0,
+    "link": "https://www.vea.com.ar/protectores-diarios-clasicos-56-un-ladysoft/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4900.0,
+    "link": "https://www.jumbo.com.ar/protectores-diarios-clasicos-56-un-ladysoft/p",
+    "disponible": true
+   },
+   "descripcion": "Prote.Diarios Fem.Ladysoft Tela Suavex56 PAQ-56-un."
+  },
+  "7790975194417": {
+   "Hipermercado Carrefour": {
+    "precio": 46990.0,
+    "link": "https://www.carrefour.com.ar/espumante-baron-b-brut-rose-750-ml-467533/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 47930.0,
+    "link": "https://www.vea.com.ar/espumante-baron-b-rose-750-cc/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 47930.0,
+    "link": "https://www.jumbo.com.ar/espumante-baron-b-rose-750-cc/p",
+    "disponible": false
+   },
+   "descripcion": "espumante BARON B rose 750cc BOT-750-ml."
+  },
+  "7790520010292": {
+   "Hipermercado Carrefour": {
+    "precio": 5509.0,
+    "link": "https://www.carrefour.com.ar/limpiador-inodoro-canasta-liquida-pato-marina-50-ml-579942/p",
+    "disponible": true
+   },
+   "descripcion": "canasta liquida PATO marina rep 50 PET-55-ml."
+  },
+  "7790079021619": {
+   "Hipermercado Carrefour": {
+    "precio": 5090.0,
+    "link": "https://www.carrefour.com.ar/jamon-cocido-paladini-x-150-grs/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 5200.0,
+    "link": "https://www.vea.com.ar/jamon-cocido-linea-permi-paladini-x-150-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5300.0,
+    "link": "https://www.jumbo.com.ar/jamon-cocido-linea-permi-paladini-x-150-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Jamón Cocido linea Permi Paladini BLI-150-gr."
+  },
+  "7790520997654": {
+   "Hipermercado Carrefour": {
+    "precio": 5725.0,
+    "link": "https://www.carrefour.com.ar/mata-cucarachas-exterminador-raid-en-aerosol-360-cc-711067/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 6050.0,
+    "link": "https://www.vea.com.ar/insecticida-essentials-cucarachas-y-hormigas-280gr-raid-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 6050.0,
+    "link": "https://www.jumbo.com.ar/insecticida-essentials-cucarachas-y-hormigas-280gr-raid-2/p",
+    "disponible": true
+   },
+   "descripcion": "insecticida RAID mata cucarachas 360ml AER-360-ml."
+  },
+  "7792360002062": {
+   "Hipermercado Carrefour": {
+    "precio": 14365.0,
+    "link": "https://www.carrefour.com.ar/cafe-molido-torrado-intenso-sensaciones-500-grs-103923/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 11599.0,
+    "link": "https://www.vea.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 14600.0,
+    "link": "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Cafe molido BONAFIDE Intenso PAQ-500-gr."
+  },
+  "7791337060944": {
+   "Hipermercado Carrefour": {
+    "precio": 5195.0,
+    "link": "https://www.carrefour.com.ar/queso-light-sin-sal-agregada-casancrem-290-grs-738732/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 4499.0,
+    "link": "https://www.vea.com.ar/queso-light-sin-sal-agregada-290-gr-casancrem-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 5195.0,
+    "link": "https://www.jumbo.com.ar/queso-light-sin-sal-agregada-290-gr-casancrem-2/p",
+    "disponible": true
+   },
+   "descripcion": "Queso CASANCREM Light sin sal agreg POT-290-gr."
+  },
+  "7792798007387": {
+   "Hipermercado Carrefour": {
+    "precio": 4325.0,
+    "link": "https://www.carrefour.com.ar/cerveza-rubia-clasica-quilmes-1-lt-505983/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 4326.0,
+    "link": "https://www.vea.com.ar/cerveza-quilmes-clasica-1lt-ret/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4413.0,
+    "link": "https://www.jumbo.com.ar/cerveza-quilmes-clasica-1lt-ret/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza QUILMES Clasica 1lt Ret BOT-1000-ml."
+  },
+  "7790975195674": {
+   "Hipermercado Carrefour": {
+    "precio": 18149.0,
+    "link": "https://www.carrefour.com.ar/vino-tinto-terrazas-de-los-andes-reserva-cabernet-franc-750-ml-663890/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 18150.0,
+    "link": "https://www.vea.com.ar/vino-terrazas-reserva-cabernet-franc-750/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 18150.0,
+    "link": "https://www.jumbo.com.ar/vino-terrazas-reserva-cabernet-franc-750/p",
+    "disponible": true
+   },
+   "descripcion": "vino TERRAZAS reserva cabernet franc 750 BOT-0.075-ml."
+  },
+  "7622300742676": {
+   "Vea": {
+    "precio": 1750.0,
+    "link": "https://www.vea.com.ar/galletitas-dulces-lincoln-chocolate-terrabusi-153-gr-2/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1900.0,
+    "link": "https://www.jumbo.com.ar/galletitas-dulces-lincoln-chocolate-terrabusi-153-gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "Lincoln Chocolate Toonix x 153 grs PAQ-153-gr."
+  },
+  "7790072002080": {
+   "Hipermercado Carrefour": {
+    "precio": 1785.0,
+    "link": "https://www.carrefour.com.ar/sal-fina-celusal-caja-500-g-78495/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1800.0,
+    "link": "https://www.vea.com.ar/sal-fina-celusal-500-gr-3/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1900.0,
+    "link": "https://www.jumbo.com.ar/sal-fina-celusal-500-gr-3/p",
+    "disponible": true
+   },
+   "descripcion": "Sal celusal fina CJA-500-gr."
+  },
+  "7790150555446": {
+   "Hipermercado Carrefour": {
+    "precio": 1539.0,
+    "link": "https://www.carrefour.com.ar/pimienta-negra-alicante-molida-sobre-25-g/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1500.0,
+    "link": "https://www.vea.com.ar/pimienta-negra-alicante-molida-x25gr-2/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1550.0,
+    "link": "https://www.jumbo.com.ar/pimienta-negra-alicante-molida-x25gr-2/p",
+    "disponible": true
+   },
+   "descripcion": "Pimienta negra ALICANTE molida x25gr SOB-25-gr."
+  },
+  "7790360026606": {
+   "Hipermercado Carrefour": {
+    "precio": 4665.0,
+    "link": "https://www.carrefour.com.ar/hamburguesa-swift-clasica-2-u/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3699.0,
+    "link": "https://www.vea.com.ar/hamburguesa-swift-de-carne-doble-burger-2-u-160-gr/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 4700.0,
+    "link": "https://www.jumbo.com.ar/hamburguesa-swift-de-carne-doble-burger-2-u-160-gr/p",
+    "disponible": true
+   },
+   "descripcion": "Hamburguesa swift Clasica Doble Plus flo BSA-160-gr."
+  },
+  "7790580136246": {
+   "Hipermercado Carrefour": {
+    "precio": 1300.0,
+    "link": "https://www.carrefour.com.ar/pimenton-la-campagnola-en-sobre-23-g-702042/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 1400.0,
+    "link": "https://www.vea.com.ar/pimenton-la-campagnola-23-gr/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 1400.0,
+    "link": "https://www.jumbo.com.ar/pimenton-la-campagnola-23-gr/p",
+    "disponible": false
+   },
+   "descripcion": "Pimenton LA CAMPAGNOLA x23gr DOY-23-gr."
+  },
+  "7791274192326": {
+   "Hipermercado Carrefour": {
+    "precio": 5299.0,
+    "link": "https://www.carrefour.com.ar/shampoo-algabo-baby-extra-suave-444-cc/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 4650.0,
+    "link": "https://www.vea.com.ar/shampoo-extra-suave-444-ml-baby-algabo/p",
+    "disponible": false
+   },
+   "Jumbo": {
+    "precio": 4650.0,
+    "link": "https://www.jumbo.com.ar/shampoo-extra-suave-444-ml-baby-algabo/p",
+    "disponible": false
+   },
+   "descripcion": "shampoo ALGABO Baby PVC-444-ml."
+  },
+  "7791813888376": {
+   "Hipermercado Carrefour": {
+    "precio": 2005.0,
+    "link": "https://www.carrefour.com.ar/gaseosa-cola-pepsi-regular-en-lata-354-ml-751715/p",
+    "disponible": true
+   },
+   "descripcion": "gaseosa PEPSI Cola 354cc LAT-354-ml."
+  },
+  "7792180140562": {
+   "Hipermercado Carrefour": {
+    "precio": 2089.0,
+    "link": "https://www.carrefour.com.ar/pan-rallado-mama-cocina-con-ajo-y-perejil-500-g-712624/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 2100.0,
+    "link": "https://www.vea.com.ar/pan-rallado-mama-cocina-ajo-y-perejil-500g/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 2200.0,
+    "link": "https://www.jumbo.com.ar/pan-rallado-mama-cocina-ajo-y-perejil-500g/p",
+    "disponible": true
+   },
+   "descripcion": "Pan Rallado MAMA COCINA Ajo Perejil 500g PAQ-500-gr."
+  },
+  "7793147009199": {
+   "Hipermercado Carrefour": {
+    "precio": 3885.0,
+    "link": "https://www.carrefour.com.ar/cerveza-rubia-heineken-473-ml-582180/p",
+    "disponible": true
+   },
+   "Vea": {
+    "precio": 3900.0,
+    "link": "https://www.vea.com.ar/cerveza-heineken-473-ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 3900.0,
+    "link": "https://www.jumbo.com.ar/cerveza-heineken-473-ml/p",
+    "disponible": true
+   },
+   "descripcion": "cerveza HEINEKEN Rubia 473cc LAT-473-cc."
+  },
+  "7798184583015": {
+   "Hipermercado Carrefour": {
+    "precio": 925.0,
+    "link": "https://www.carrefour.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-709108/p",
+    "disponible": false
+   },
+   "Vea": {
+    "precio": 1000.0,
+    "link": "https://www.vea.com.ar/limpiador-concentrado-multimax-cocina-100ml/p",
+    "disponible": true
+   },
+   "Jumbo": {
+    "precio": 1000.0,
+    "link": "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p",
+    "disponible": true
+   },
+   "descripcion": "limpiador concen MULTIMAX cocina 100ml PCH-100-ml."
+  }
+ }
+}

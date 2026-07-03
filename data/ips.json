@@ -6,12 +6,11 @@
  "cadenas_principales": [
   "Jumbo",
   "Vea",
-  "Hipermercado Carrefour",
-  "Market"
+  "Hipermercado Carrefour"
  ],
- "canasta_total_productos": 2904,
- "var_semanal_total_pct": 0.23,
- "pares_comparados": 39561,
+ "canasta_total_productos": 3232,
+ "var_semanal_total_pct": 0.19,
+ "pares_comparados": 29591,
  "cadenas": [
   {
    "cadena": "FULL",
@@ -26,7 +25,7 @@
    "principal": true,
    "sucursales": 1,
    "productos_relevados": 16090,
-   "canasta_costo": 17641165.85,
+   "canasta_costo": 20551816.58,
    "var_semanal_pct": 0.34
   },
   {
@@ -42,15 +41,15 @@
    "principal": true,
    "sucursales": 1,
    "productos_relevados": 6714,
-   "canasta_costo": 18424266.59,
+   "canasta_costo": 21445228.59,
    "var_semanal_pct": 0.32
   },
   {
    "cadena": "Market",
-   "principal": true,
+   "principal": false,
    "sucursales": 3,
    "productos_relevados": 10095,
-   "canasta_costo": 17685167.35,
+   "canasta_costo": null,
    "var_semanal_pct": 0.36
   },
   {
@@ -58,7 +57,7 @@
    "principal": true,
    "sucursales": 11,
    "productos_relevados": 7423,
-   "canasta_costo": 17800470.39,
+   "canasta_costo": 20733714.39,
    "var_semanal_pct": -0.25
   }
  ],
@@ -69,8 +68,7 @@
    "precios": {
     "Jumbo": 12000.0,
     "Vea": 12000.0,
-    "Hipermercado Carrefour": 5990.0,
-    "Market": 5990.0
+    "Hipermercado Carrefour": 5990.0
    }
   },
   {
@@ -79,8 +77,7 @@
    "precios": {
     "Jumbo": 3000.0,
     "Vea": 1700.0,
-    "Hipermercado Carrefour": 2095.0,
-    "Market": 2095.0
+    "Hipermercado Carrefour": 2095.0
    }
   },
   {
@@ -89,8 +86,7 @@
    "precios": {
     "Jumbo": 6300.0,
     "Vea": 3750.0,
-    "Hipermercado Carrefour": 3750.0,
-    "Market": 3750.0
+    "Hipermercado Carrefour": 3750.0
    }
   },
   {
@@ -99,8 +95,7 @@
    "precios": {
     "Jumbo": 1600.0,
     "Vea": 999.0,
-    "Hipermercado Carrefour": 999.0,
-    "Market": 999.0
+    "Hipermercado Carrefour": 999.0
    }
   },
   {
@@ -109,8 +104,16 @@
    "precios": {
     "Jumbo": 1900.0,
     "Vea": 1199.0,
-    "Hipermercado Carrefour": 1229.0,
-    "Market": 1229.0
+    "Hipermercado Carrefour": 1229.0
+   }
+  },
+  {
+   "ean": "7790070318312",
+   "descripcion": "Lucc Nidos Fettuccini. NUTRIVITPLUS 15x5 PAQ-500-gr.",
+   "precios": {
+    "Jumbo": 2650.0,
+    "Vea": 1699.0,
+    "Hipermercado Carrefour": 2509.0
    }
   },
   {
@@ -119,8 +122,16 @@
    "precios": {
     "Jumbo": 2650.0,
     "Vea": 1699.0,
-    "Hipermercado Carrefour": 2509.0,
-    "Market": 2509.0
+    "Hipermercado Carrefour": 2509.0
+   }
+  },
+  {
+   "ean": "7790360965202",
+   "descripcion": "Paté SWIFT de salmón LAT-85-gr.",
+   "precios": {
+    "Jumbo": 1600.0,
+    "Vea": 1950.0,
+    "Hipermercado Carrefour": 2479.0
    }
   },
   {
@@ -129,8 +140,7 @@
    "precios": {
     "Jumbo": 2450.0,
     "Vea": 1599.0,
-    "Hipermercado Carrefour": 2089.0,
-    "Market": 2139.0
+    "Hipermercado Carrefour": 2089.0
    }
   },
   {
@@ -139,18 +149,7 @@
    "precios": {
     "Jumbo": 911.0,
     "Vea": 632.0,
-    "Hipermercado Carrefour": 599.0,
-    "Market": 599.0
-   }
-  },
-  {
-   "ean": "7791120031564",
-   "descripcion": "Arroz MOLINOS ALA grano largo fino BSA-500-gr.",
-   "precios": {
-    "Jumbo": 1100.0,
-    "Vea": 799.0,
-    "Hipermercado Carrefour": 1029.0,
-    "Market": 1209.0
+    "Hipermercado Carrefour": 599.0
    }
   },
   {
@@ -159,8 +158,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -169,8 +167,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -179,8 +176,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -189,8 +185,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -199,8 +194,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -209,8 +203,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -219,8 +212,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -229,8 +221,7 @@
    "precios": {
     "Jumbo": 1650.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
+    "Hipermercado Carrefour": 1279.0
    }
   },
   {
@@ -239,8 +230,7 @@
    "precios": {
     "Jumbo": 5300.0,
     "Vea": 5300.0,
-    "Hipermercado Carrefour": 3549.0,
-    "Market": 3549.0
+    "Hipermercado Carrefour": 3549.0
    }
   },
   {
@@ -249,8 +239,7 @@
    "precios": {
     "Jumbo": 5050.0,
     "Vea": 3599.0,
-    "Hipermercado Carrefour": 3395.0,
-    "Market": 4750.0
+    "Hipermercado Carrefour": 3395.0
    }
   },
   {
@@ -259,8 +248,7 @@
    "precios": {
     "Jumbo": 850.0,
     "Vea": 1050.0,
-    "Hipermercado Carrefour": 719.0,
-    "Market": 719.0
+    "Hipermercado Carrefour": 719.0
    }
   },
   {
@@ -269,8 +257,16 @@
    "precios": {
     "Jumbo": 1450.0,
     "Vea": 999.0,
-    "Hipermercado Carrefour": 1319.0,
-    "Market": 1369.0
+    "Hipermercado Carrefour": 1319.0
+   }
+  },
+  {
+   "ean": "8445291020061",
+   "descripcion": "Leche en Polvo Svelty Extra Calc paq750g CJA-750-gr.",
+   "precios": {
+    "Jumbo": 17850.0,
+    "Vea": 12599.0,
+    "Hipermercado Carrefour": 16400.0
    }
   },
   {
@@ -279,18 +275,7 @@
    "precios": {
     "Jumbo": 2400.0,
     "Vea": 1699.0,
-    "Hipermercado Carrefour": 2239.0,
-    "Market": 2265.0
-   }
-  },
-  {
-   "ean": "7791120031557",
-   "descripcion": "Arroz MOLINOS ALA grano largo fino PAQ-1000-gr.",
-   "precios": {
-    "Jumbo": 1820.0,
-    "Vea": 1399.0,
-    "Hipermercado Carrefour": 1589.0,
-    "Market": 1975.0
+    "Hipermercado Carrefour": 2239.0
    }
   },
   {
@@ -299,45 +284,34 @@
    "precios": {
     "Jumbo": 1550.0,
     "Vea": 1099.0,
-    "Hipermercado Carrefour": 1279.0,
-    "Market": 1279.0
-   }
-  },
-  {
-   "ean": "8445291020047",
-   "descripcion": "Leche en Polvo Svelty Extra Calc paq370g sof-370-gr.",
-   "precios": {
-    "Jumbo": 9300.0,
-    "Vea": 6599.0,
-    "Hipermercado Carrefour": 8900.0,
-    "Market": 8900.0
+    "Hipermercado Carrefour": 1279.0
    }
   }
  ],
  "histograma_brechas": [
   {
    "rango": "<5%",
-   "cantidad": 1356
+   "cantidad": 1518
   },
   {
    "rango": "5-10%",
-   "cantidad": 858
+   "cantidad": 968
   },
   {
    "rango": "10-20%",
-   "cantidad": 462
+   "cantidad": 493
   },
   {
    "rango": "20-35%",
-   "cantidad": 185
+   "cantidad": 206
   },
   {
    "rango": "35-50%",
-   "cantidad": 26
+   "cantidad": 29
   },
   {
    "rango": "50-100%",
-   "cantidad": 16
+   "cantidad": 17
   },
   {
    "rango": ">100%",
@@ -347,19 +321,15 @@
  "mas_barato": [
   {
    "cadena": "Jumbo",
-   "productos": 346
+   "productos": 379
   },
   {
    "cadena": "Vea",
-   "productos": 1422
+   "productos": 1584
   },
   {
    "cadena": "Hipermercado Carrefour",
-   "productos": 2185
-  },
-  {
-   "cadena": "Market",
-   "productos": 2069
+   "productos": 2455
   }
  ]
 }

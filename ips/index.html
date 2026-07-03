@@ -3,259 +3,448 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IPS — Índice de Precios de Supermercados de Tucumán | CIET</title>
-<meta name="description" content="Índice de Precios de Supermercados de Tucumán (IPS-CIET): seguimiento de precios por cadena a partir de datos abiertos SEPA.">
+<title>Índice de Precios de Supermercados de Tucumán — CIET</title>
+<meta name="description" content="IPS-CIET: variación de precios, comparación entre cadenas, catálogo completo y contraste con las tiendas online. Datos abiertos SEPA.">
 <style>
   :root {
-    --bg: #0f1420;
-    --panel: #1a2233;
-    --panel-2: #212c42;
-    --text: #e8ecf4;
-    --muted: #93a0b8;
-    --accent: #ef5350;
-    --green: #66bb6a;
-    --border: #2c3a55;
+    --bg: #ffffff; --surface: #f6f8fb; --border: #e3e9f1;
+    --navy: #0b3d68; --blue: #1c6fb8; --blue-soft: #eaf2fb;
+    --text: #17232f; --muted: #5d6b7a; --up: #b3261e; --down: #12795a;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: var(--bg); color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    min-height: 100vh; padding: 20px; line-height: 1.6;
-  }
-  .wrap { max-width: 900px; margin: 0 auto; }
-  nav a { color: var(--muted); font-size: 0.8rem; text-decoration: none; }
-  header { padding: 18px 0 22px; }
-  h1 { font-size: 1.6rem; font-weight: 800; letter-spacing: -0.01em; }
-  h1 span { color: var(--accent); }
-  .subtitle { color: var(--muted); font-size: 0.95rem; margin-top: 6px; max-width: 640px; }
-  h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 30px 0 12px; }
-  .headline {
-    background: linear-gradient(135deg, var(--panel), var(--panel-2));
-    border: 1px solid var(--border); border-radius: 14px; padding: 24px;
-    display: flex; flex-wrap: wrap; gap: 24px; align-items: baseline;
-  }
-  .headline .big { font-size: 2.6rem; font-weight: 800; color: var(--accent); font-variant-numeric: tabular-nums; }
-  .headline .what { color: var(--muted); font-size: 0.9rem; max-width: 420px; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
-  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; }
-  .card h4 { font-size: 1rem; }
-  .card .tag { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
-  .card .precio { font-size: 1.5rem; font-weight: 800; margin-top: 6px; font-variant-numeric: tabular-nums; }
-  .card .meta { font-size: 0.78rem; color: var(--muted); margin-top: 6px; }
-  .card .var { font-weight: 700; }
-  .var.up { color: var(--accent); }
-  .var.down { color: var(--green); }
-  .mejor { border-color: var(--green); }
-  .mejor .badge { display: inline-block; font-size: 0.68rem; background: rgba(102,187,106,0.15); color: var(--green); border-radius: 12px; padding: 2px 9px; margin-top: 8px; font-weight: 700; }
-  table { width: 100%; border-collapse: collapse; font-size: 0.83rem; }
-  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
-  th { color: var(--muted); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; }
-  td.num { text-align: right; font-variant-numeric: tabular-nums; }
-  th.num { text-align: right; }
-  td .gap { color: var(--accent); font-weight: 700; }
-  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 18px; overflow-x: auto; }
+  body { background: var(--bg); color: var(--text); font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+  a { color: var(--blue); }
+
+  .topbar { border-bottom: 2px solid var(--navy); }
+  .topbar .inner { max-width: 960px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; gap: 12px; }
+  .logo { width: 32px; height: 32px; border-radius: 6px; background: var(--navy); color: #fff; display: grid; place-items: center; font-weight: 800; font-size: 0.9rem; }
+  .brand-t { font-weight: 700; color: var(--navy); font-size: 0.92rem; }
+  .brand-s { font-size: 0.74rem; color: var(--muted); }
+  .brand-s a { text-decoration: none; }
+
+  header.page { padding: 30px 0 8px; }
+  header.page .kicker { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--blue); font-weight: 700; }
+  header.page h1 { font-size: 1.7rem; font-weight: 800; color: var(--navy); margin-top: 6px; letter-spacing: -0.01em; }
+  header.page .src { font-size: 0.82rem; color: var(--muted); margin-top: 8px; }
+
+  .tabs { display: flex; flex-wrap: wrap; gap: 2px; border-bottom: 1px solid var(--border); margin: 20px 0 26px; }
+  .tab { padding: 11px 16px; font-size: 0.9rem; font-weight: 600; color: var(--muted); background: none; border: none; border-bottom: 3px solid transparent; cursor: pointer; }
+  .tab:hover { color: var(--navy); }
+  .tab.active { color: var(--navy); border-bottom-color: var(--blue); }
+  .panel-tab { display: none; }
+  .panel-tab.active { display: block; }
+
+  .headline { border: 1px solid var(--border); border-radius: 8px; padding: 26px; display: flex; flex-wrap: wrap; gap: 26px; align-items: center; background: var(--surface); }
+  .headline .big { font-size: 3rem; font-weight: 800; color: var(--navy); font-variant-numeric: tabular-nums; line-height: 1; }
+  .headline .big.up { color: var(--up); } .headline .big.down { color: var(--down); }
+  .headline .what { color: var(--muted); font-size: 0.92rem; max-width: 460px; }
+
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-top: 16px; }
+  .kpi { border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
+  .kpi .label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+  .kpi .value { font-size: 1.3rem; font-weight: 800; color: var(--navy); margin-top: 4px; font-variant-numeric: tabular-nums; }
+
+  h2.sec { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--blue); font-weight: 700; margin: 30px 0 14px; }
+  .note { font-size: 0.84rem; color: var(--muted); margin-bottom: 14px; }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+  .card { border: 1px solid var(--border); border-radius: 8px; padding: 18px; }
+  .card.best { border-color: var(--down); border-width: 1.5px; }
+  .card .tag { font-size: 0.72rem; color: var(--muted); }
+  .card h4 { font-size: 1.05rem; color: var(--navy); margin: 4px 0 8px; }
+  .card .precio { font-size: 1.5rem; font-weight: 800; color: var(--navy); font-variant-numeric: tabular-nums; }
+  .card .meta { font-size: 0.8rem; color: var(--muted); margin-top: 6px; }
+  .badge { display: inline-block; font-size: 0.68rem; background: #e4f3ec; color: var(--down); border-radius: 12px; padding: 2px 10px; margin-top: 10px; font-weight: 700; }
+  .var.up { color: var(--up); font-weight: 700; } .var.down { color: var(--down); font-weight: 700; }
+
   .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
   @media (max-width: 640px) { .charts { grid-template-columns: 1fr; } }
-  .chart-title { font-size: 0.9rem; font-weight: 600; margin-bottom: 12px; }
-  .chart-note { font-size: 0.75rem; color: var(--muted); margin-top: 10px; }
-  .bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 0.8rem; }
-  .bar-row .lbl { width: 110px; flex-shrink: 0; color: var(--muted); text-align: right; }
-  .bar-row .track { flex: 1; background: var(--panel-2); border-radius: 4px; overflow: hidden; height: 22px; }
-  .bar-row .fill { height: 100%; border-radius: 4px; background: var(--accent); display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.72rem; font-weight: 700; color: #08111c; }
-  .bar-row .fill.green { background: var(--green); }
+  .chart { border: 1px solid var(--border); border-radius: 8px; padding: 18px; }
+  .chart-title { font-size: 0.92rem; font-weight: 700; color: var(--navy); margin-bottom: 14px; }
+  .chart-note { font-size: 0.76rem; color: var(--muted); margin-top: 12px; }
+  .bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 9px; font-size: 0.8rem; }
+  .bar-row .lbl { width: 96px; flex-shrink: 0; color: var(--muted); text-align: right; }
+  .bar-row .track { flex: 1; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; overflow: hidden; height: 22px; }
+  .bar-row .fill { height: 100%; background: var(--blue); display: flex; align-items: center; justify-content: flex-end; padding-right: 7px; font-size: 0.72rem; font-weight: 700; color: #fff; white-space: nowrap; }
+  .bar-row .fill.best { background: var(--down); }
   .hist { display: flex; align-items: flex-end; gap: 6px; height: 150px; padding-top: 10px; }
   .hist .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 4px; }
-  .hist .colbar { width: 100%; background: var(--accent); border-radius: 4px 4px 0 0; min-height: 2px; }
-  .hist .colval { font-size: 0.7rem; font-weight: 700; }
+  .hist .colbar { width: 100%; background: var(--blue); border-radius: 3px 3px 0 0; min-height: 2px; }
+  .hist .colval { font-size: 0.7rem; font-weight: 700; color: var(--navy); }
   .hist .collbl { font-size: 0.66rem; color: var(--muted); text-align: center; }
-  .verlink { display: inline-block; margin-top: 14px; color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
-  .verlink:hover { text-decoration: underline; }
-  .metodo { font-size: 0.85rem; color: var(--muted); }
-  .metodo strong { color: var(--text); }
-  .metodo ol { margin: 8px 0 0 20px; }
-  .metodo li { margin-bottom: 4px; }
-  footer { margin: 34px 0 12px; color: var(--muted); font-size: 0.78rem; }
-  #estado { color: var(--muted); padding: 30px 0; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 4px 0 12px; }
+  input[type=search] { flex: 1; min-width: 200px; background: #fff; border: 1px solid var(--border); border-radius: 6px; color: var(--text); padding: 10px 12px; font-size: 0.9rem; }
+  select { background: #fff; border: 1px solid var(--border); border-radius: 6px; color: var(--text); padding: 10px 12px; font-size: 0.85rem; }
+  .count { font-size: 0.8rem; color: var(--muted); margin-bottom: 10px; }
+  .tablewrap { border: 1px solid var(--border); border-radius: 8px; overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.83rem; }
+  th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.04em; background: var(--surface); position: sticky; top: 0; }
+  th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  td.desc { white-space: normal; min-width: 210px; }
+  tr:last-child td { border-bottom: none; }
+  td.min { color: var(--down); font-weight: 700; }
+  td.max { color: var(--up); }
+  .gap { color: var(--navy); font-weight: 700; }
+  .more { text-align: center; padding: 14px; }
+  .more button, .linkbtn { background: #fff; border: 1px solid var(--border); color: var(--navy); border-radius: 6px; padding: 9px 18px; cursor: pointer; font-size: 0.85rem; font-weight: 600; }
+  .more button:hover { border-color: var(--blue); }
+  .prod-link { text-decoration: none; font-weight: 700; }
+
+  .metodo p { font-size: 0.9rem; margin-bottom: 10px; }
+  .metodo p strong { color: var(--navy); }
+  .metodo ol { margin: 6px 0 10px 20px; font-size: 0.9rem; }
+  .metodo li { margin-bottom: 5px; }
+  .callout { border: 1px solid var(--border); border-left: 4px solid var(--blue); border-radius: 6px; padding: 16px 18px; background: var(--surface); }
+
+  .loading { color: var(--muted); padding: 30px 0; }
+  footer { border-top: 1px solid var(--border); margin-top: 40px; }
+  footer .wrap { padding: 20px 24px; color: var(--muted); font-size: 0.77rem; }
 </style>
 </head>
 <body>
+
+<div class="topbar">
+  <div class="inner">
+    <a href="../" style="text-decoration:none"><div class="logo">CIET</div></a>
+    <div>
+      <div class="brand-t">Centro de Investigación Económica de Tucumán</div>
+      <div class="brand-s"><a href="../">Inicio</a> · Índice de Precios de Supermercados</div>
+    </div>
+  </div>
+</div>
+
 <div class="wrap">
-
-  <nav><a href="../">← CIET — Centro de Investigación Económica de Tucumán</a></nav>
-
-  <header>
-    <h1>Índice de Precios de <span>Supermercados de Tucumán</span></h1>
-    <p class="subtitle">Relevamiento sobre los precios que las cadenas informan, sucursal por sucursal, al sistema oficial SEPA. Solo sucursales de la provincia de Tucumán.</p>
+  <header class="page">
+    <div class="kicker">Índice de precios · IPS</div>
+    <h1>Precios de supermercados en Tucumán</h1>
+    <div class="src" id="src">Cargando datos…</div>
   </header>
 
-  <div id="estado">Cargando datos…</div>
-  <div id="contenido" style="display:none">
-
-    <div class="headline">
-      <div>
-        <div class="tag" style="font-size:0.7rem;text-transform:uppercase;color:var(--muted)">Variación semanal de precios</div>
-        <div class="big" id="h-var">—</div>
-      </div>
-      <div class="what" id="h-detalle"></div>
-    </div>
-
-    <h2>La canasta, cadena por cadena</h2>
-    <p style="font-size:0.85rem;color:var(--muted);margin-bottom:12px" id="canasta-desc"></p>
-    <div class="grid" id="cadenas"></div>
-
-    <h2>Panorama en gráficos</h2>
-    <div class="charts">
-      <div class="panel chart">
-        <div class="chart-title">Cuánto más cara es la canasta que la más barata</div>
-        <div id="chart-costo"></div>
-        <p class="chart-note">Sobreprecio de cada cadena respecto de la más barata, valuando la misma canasta completa en todas.</p>
-      </div>
-      <div class="panel chart">
-        <div class="chart-title">¿Quién tiene el precio más bajo?</div>
-        <div id="chart-barato"></div>
-        <p class="chart-note">En cuántos de los productos de la canasta cada cadena ofrece el precio mínimo (o empatado).</p>
-      </div>
-      <div class="panel chart" style="grid-column:1/-1">
-        <div class="chart-title">Dispersión de precios: cuánto varía el mismo producto entre cadenas</div>
-        <div id="chart-hist"></div>
-        <p class="chart-note">Distribución de la brecha (precio máximo ÷ mínimo) entre cadenas, producto por producto.</p>
-      </div>
-    </div>
-
-    <h2>Mayores brechas de precio entre cadenas (mismo producto, mismo día)</h2>
-    <div class="panel">
-      <table id="tabla">
-        <thead></thead>
-        <tbody></tbody>
-      </table>
-    </div>
-    <a class="verlink" href="productos.html" id="verlink">Ver el catálogo completo de productos →</a>
-
-    <h2>Metodología</h2>
-    <div class="panel metodo" id="metodo">
-      <p><strong>Fuente:</strong> dataset abierto SEPA (Sistema Electrónico de Publicidad de Precios Argentinos, Secretaría de Comercio), que publica a diario los precios que los supermercados están obligados a informar por sucursal (Res. 678/2020). Licencia CC-BY 4.0.</p>
-      <ol>
-        <li>Se toman únicamente las sucursales con provincia <strong>AR-T (Tucumán)</strong>.</li>
-        <li>El precio de un producto en una cadena es la <strong>mediana</strong> de su precio de lista entre las sucursales tucumanas de esa cadena.</li>
-        <li>La canasta comparativa es la <strong>intersección exacta de productos (mismo código EAN)</strong> entre las cadenas con catálogo completo — se comparan productos idénticos, no similares.</li>
-        <li>La variación temporal se calcula con un <strong>índice de Jevons</strong> (media geométrica de relativos de precio) sobre los pares cadena-producto presentes en ambas fechas, el método estándar para datos de scanner.</li>
-      </ol>
-      <p style="margin-top:10px" id="metodo-detalle"></p>
-      <p style="margin-top:14px"><strong>Por qué la mediana y no el promedio.</strong> Dentro de una misma cadena las sucursales suelen tener precios casi idénticos, pero un error de carga puntual (un cero de más) distorsiona el promedio. La mediana es robusta a esos valores atípicos.</p>
-      <p style="margin-top:10px"><strong>Por qué el índice de Jevons.</strong> Para medir la variación temporal se compara cada par cadena-producto consigo mismo entre dos fechas y se promedian los cambios en forma geométrica. Es el estándar internacional para datos de <em>scanner</em> (millones de precios) porque no exige ponderaciones de consumo —que no tenemos— y es simétrico ante subas y bajas. No es un IPC: mide la variación del precio de lista de una canasta fija de góndola, no el costo de vida de un hogar representativo.</p>
-      <p style="margin-top:10px"><strong>Qué cadenas entran.</strong> Se consideran "principales" las que informan un catálogo amplio (más de 1.000 productos) en sus sucursales tucumanas; sobre ellas se calcula la canasta comparable. Las que reportan de forma incompleta un día dado se listan aparte, sin costo de canasta, para no ensuciar la comparación.</p>
-      <p style="margin-top:10px"><strong>Limitaciones.</strong> Los precios son los que las cadenas declaran al regulador: precio de lista, sin descuentos por medio de pago, día de la semana ni programas de fidelización. Cubren solo supermercados obligados a reportar a SEPA, no comercios de barrio ni mayoristas. La cobertura de EAN varía entre cadenas, por eso se compara únicamente la intersección exacta de productos.</p>
-      <p style="margin-top:10px"><strong>Reproducibilidad.</strong> Todo el procesamiento es un script abierto que parte del dump público de SEPA; cualquiera puede reejecutarlo y obtener los mismos números. El código y los datos procesados están en el repositorio del proyecto.</p>
-    </div>
-
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-tab="resumen">Resumen</button>
+    <button class="tab" data-tab="cadenas">Cadenas</button>
+    <button class="tab" data-tab="productos">Productos</button>
+    <button class="tab" data-tab="web">Precios web</button>
+    <button class="tab" data-tab="metodo">Metodología</button>
   </div>
 
-  <footer>
-    CIET — Centro de Investigación Económica de Tucumán · Datos: SEPA (CC-BY 4.0) · Elaboración propia. Uso libre citando la fuente.
-  </footer>
+  <!-- RESUMEN -->
+  <section class="panel-tab active" id="tab-resumen">
+    <div id="resumen-loading" class="loading">Cargando…</div>
+    <div id="resumen-cont" style="display:none">
+      <div class="headline">
+        <div>
+          <div style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--muted)">Variación semanal de precios</div>
+          <div class="big" id="h-var">—</div>
+        </div>
+        <div class="what" id="h-detalle"></div>
+      </div>
+      <div class="kpis" id="kpis"></div>
 
+      <h2 class="sec">Panorama en gráficos</h2>
+      <div class="charts">
+        <div class="chart">
+          <div class="chart-title">Cuánto más cara es la canasta que la más barata</div>
+          <div id="chart-costo"></div>
+          <p class="chart-note">Sobreprecio de cada cadena respecto de la más barata, valuando la misma canasta en todas.</p>
+        </div>
+        <div class="chart">
+          <div class="chart-title">¿Quién tiene el precio más bajo?</div>
+          <div id="chart-barato"></div>
+          <p class="chart-note">En cuántos productos de la canasta cada cadena ofrece el precio mínimo (o empatado).</p>
+        </div>
+        <div class="chart" style="grid-column:1/-1">
+          <div class="chart-title">Dispersión: cuánto varía el mismo producto entre cadenas</div>
+          <div id="chart-hist"></div>
+          <p class="chart-note">Distribución de la brecha (precio máximo ÷ mínimo) entre cadenas, producto por producto.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CADENAS -->
+  <section class="panel-tab" id="tab-cadenas">
+    <p class="note" id="cadenas-desc"></p>
+    <div class="cards" id="cadenas"></div>
+    <h2 class="sec">Mayores brechas de precio (mismo producto, mismo día)</h2>
+    <div class="tablewrap"><table id="tabla-brechas"><thead></thead><tbody></tbody></table></div>
+  </section>
+
+  <!-- PRODUCTOS -->
+  <section class="panel-tab" id="tab-productos">
+    <div id="prod-loading" class="loading">Cargando catálogo…</div>
+    <div id="prod-cont" style="display:none">
+      <div class="controls">
+        <input type="search" id="q" placeholder="Buscar producto (ej: leche, aceite, fideos)…">
+        <select id="orden">
+          <option value="brecha">Ordenar: mayor brecha</option>
+          <option value="max">Mayor precio</option>
+          <option value="min">Menor precio</option>
+          <option value="var">Mayor suba semanal</option>
+          <option value="alfa">Alfabético</option>
+        </select>
+      </div>
+      <div class="count" id="prod-count"></div>
+      <div class="tablewrap"><table id="tabla-prod"><thead></thead><tbody></tbody></table></div>
+      <div class="more" id="prod-more" style="display:none"><button id="btn-more">Mostrar más productos</button></div>
+    </div>
+  </section>
+
+  <!-- PRECIOS WEB -->
+  <section class="panel-tab" id="tab-web">
+    <div id="web-loading" class="loading">Cargando comparación con tiendas online…</div>
+    <div id="web-cont" style="display:none">
+      <p class="note" id="web-desc"></p>
+      <div class="kpis" id="web-kpis"></div>
+      <h2 class="sec">SEPA vs. tienda online, producto por producto</h2>
+      <p class="note">Cada fila compara el precio que la cadena informa al Estado (SEPA) con el publicado en su web. El enlace lleva al producto en la tienda online.</p>
+      <div class="controls">
+        <input type="search" id="wq" placeholder="Buscar producto…">
+        <select id="worden">
+          <option value="dif">Ordenar: mayor diferencia</option>
+          <option value="alfa">Alfabético</option>
+        </select>
+      </div>
+      <div class="count" id="web-count"></div>
+      <div class="tablewrap"><table id="tabla-web"><thead></thead><tbody></tbody></table></div>
+    </div>
+    <div id="web-vacio" style="display:none" class="callout">La comparación con tiendas online se está preparando. Vuelve pronto.</div>
+  </section>
+
+  <!-- METODOLOGÍA -->
+  <section class="panel-tab metodo" id="tab-metodo">
+    <div class="callout" style="margin-bottom:16px">
+      <strong>En una línea.</strong> Medimos el precio de una canasta fija de productos idénticos en las tres grandes cadenas de Tucumán, usando los datos que ellas mismas están obligadas a publicar, y lo contrastamos con sus tiendas online.
+    </div>
+    <p><strong>Fuente.</strong> Dataset abierto <strong>SEPA</strong> (Sistema Electrónico de Publicidad de Precios Argentinos, Secretaría de Comercio), que publica a diario los precios que los supermercados están obligados a informar por sucursal (Res. 678/2020). Licencia CC-BY 4.0. Complementariamente, las tiendas online de cada cadena.</p>
+    <ol>
+      <li>Se consideran solo las sucursales de la provincia de <strong>Tucumán (AR-T)</strong>.</li>
+      <li>El precio de un producto en una cadena es la <strong>mediana</strong> de su precio de lista entre las sucursales tucumanas de esa cadena (robusta ante errores de carga).</li>
+      <li>La canasta es la <strong>intersección exacta de productos (mismo código EAN)</strong> entre las tres cadenas: se comparan productos idénticos, no similares.</li>
+      <li>La variación temporal usa un <strong>índice de Jevons</strong> (media geométrica de relativos de precio) sobre los pares cadena-producto presentes en ambas fechas: el estándar internacional para datos de <em>scanner</em>.</li>
+    </ol>
+    <p id="metodo-detalle"></p>
+    <p><strong>Cadenas.</strong> El índice cubre <strong>Carrefour, Vea y Jumbo</strong>, las de mayor presencia en Tucumán. Otras cadenas informan a SEPA de forma marginal en la provincia y quedan fuera del cálculo.</p>
+    <p><strong>Precios web.</strong> Se consultan las tiendas online de cada cadena por código EAN. En Carrefour el precio se geolocaliza en Tucumán; Vea y Jumbo publican un precio online único. Es un contraste sobre una muestra de la canasta, no un censo.</p>
+    <p><strong>Limitaciones.</strong> Los precios SEPA son de lista, sin descuentos por medio de pago ni promociones. Cubren solo cadenas obligadas a reportar, no comercios de cercanía. No es un IPC: mide precios de góndola de una canasta fija, no el costo de vida de un hogar.</p>
+    <p><strong>Reproducibilidad.</strong> Todo el procesamiento son scripts abiertos que parten de fuentes públicas. Código y datos: <a href="https://github.com/augustoucciardello1-sys/ciet" target="_blank" rel="noopener">repositorio del proyecto</a>.</p>
+  </section>
 </div>
+
+<footer>
+  <div class="wrap">CIET — Centro de Investigación Económica de Tucumán · Datos: <a href="https://datos.produccion.gob.ar/dataset/sepa-precios" target="_blank" rel="noopener">SEPA</a> (CC-BY 4.0) y tiendas online · Elaboración propia. Uso libre citando la fuente.</div>
+</footer>
 
 <script>
 const $ = id => document.getElementById(id);
-const peso = v => '$' + v.toLocaleString('es-AR', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
-const pct = v => (v > 0 ? '+' : '') + v.toLocaleString('es-AR', { maximumFractionDigits: 2 }) + '%';
+const peso = v => '$' + Math.round(v).toLocaleString('es-AR');
+const pct = v => (v > 0 ? '+' : '') + v.toLocaleString('es-AR', { maximumFractionDigits: 1 }) + '%';
 const fechaLarga = iso => new Date(iso + 'T12:00:00').toLocaleDateString('es-AR', { day: 'numeric', month: 'long', year: 'numeric' });
+const SEPA_URL = 'https://datos.produccion.gob.ar/dataset/sepa-precios';
 
-fetch('../data/ips.json')
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(d => {
-    $('estado').style.display = 'none';
-    $('contenido').style.display = 'block';
+// ---- tabs ----
+$('tabs').addEventListener('click', e => {
+  const b = e.target.closest('.tab'); if (!b) return;
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t === b));
+  const id = b.dataset.tab;
+  document.querySelectorAll('.panel-tab').forEach(p => p.classList.toggle('active', p.id === 'tab-' + id));
+  if (id === 'productos') cargarCatalogo();
+  if (id === 'web') cargarWeb();
+});
 
-    // titular
-    if (d.var_semanal_total_pct !== null && d.var_semanal_total_pct !== undefined) {
-      $('h-var').textContent = pct(d.var_semanal_total_pct);
-      $('h-detalle').textContent = `Variación de precios en supermercados de Tucumán entre el ${fechaLarga(d.fecha_base)} y el ${fechaLarga(d.fecha)}, sobre ${d.pares_comparados.toLocaleString('es-AR')} pares cadena-producto comparados (índice de Jevons).`;
-    } else {
-      $('h-var').textContent = '—';
-      $('h-detalle').textContent = `Primer relevamiento: ${fechaLarga(d.fecha)}. La variación aparecerá cuando haya dos fechas comparables.`;
-    }
+// ---- resumen + cadenas (ips.json) ----
+let D = null, principales = [], nombres = [], minCosto = 0;
 
-    // cadenas
-    const principales = d.cadenas.filter(c => c.principal);
-    const costos = principales.map(c => c.canasta_costo);
-    const minCosto = Math.min(...costos);
-    $('canasta-desc').textContent = `Canasta de ${d.canasta_total_productos.toLocaleString('es-AR')} productos idénticos (mismo EAN) disponibles en todas las cadenas principales, valuada al ${fechaLarga(d.fecha)}. Las cadenas con reporte incompleto ese día se muestran sin costo de canasta.`;
-    const cont = $('cadenas');
-    for (const c of d.cadenas.sort((a, b) => (a.canasta_costo ?? 1e15) - (b.canasta_costo ?? 1e15))) {
-      const div = document.createElement('div');
-      div.className = 'card' + (c.canasta_costo === minCosto ? ' mejor' : '');
-      const varHtml = c.var_semanal_pct !== null && c.var_semanal_pct !== undefined
-        ? `<span class="var ${c.var_semanal_pct >= 0 ? 'up' : 'down'}">${pct(c.var_semanal_pct)}</span> vs. semana previa`
-        : 'sin comparación semanal';
-      const relHtml = c.canasta_costo && c.canasta_costo !== minCosto
-        ? `<div class="meta">canasta <span class="var up">${pct((c.canasta_costo / minCosto - 1) * 100)}</span> más cara que la más barata</div>`
-        : '';
-      div.innerHTML = `
-        <div class="tag">${c.sucursales} sucursal${c.sucursales === 1 ? '' : 'es'} en Tucumán · ${c.productos_relevados.toLocaleString('es-AR')} productos relevados</div>
-        <h4>${c.cadena}</h4>
-        <div class="precio">${c.canasta_costo ? peso(c.canasta_costo) : 'reporte incompleto'}</div>
-        <div class="meta">${varHtml}</div>
-        ${relHtml}
-        ${c.canasta_costo === minCosto ? '<span class="badge">CANASTA MÁS BARATA</span>' : ''}`;
-      cont.appendChild(div);
-    }
+fetch('../data/ips.json').then(r => r.json()).then(d => {
+  D = d;
+  principales = d.cadenas.filter(c => c.principal);
+  nombres = principales.map(c => c.cadena);
+  minCosto = Math.min(...principales.map(c => c.canasta_costo));
 
-    // tabla de brechas
-    const nombres = principales.map(c => c.cadena);
-    $('tabla').querySelector('thead').innerHTML =
-      '<tr><th>Producto</th>' + nombres.map(n => `<th class="num">${n}</th>`).join('') + '<th class="num">Brecha</th></tr>';
-    const tb = $('tabla').querySelector('tbody');
-    for (const p of d.tabla.slice(0, 15)) {
-      const vals = nombres.map(n => p.precios[n]);
-      const brecha = Math.max(...vals) / Math.min(...vals);
-      const tr = document.createElement('tr');
-      tr.innerHTML = `<td>${p.descripcion}</td>` +
-        vals.map(v => `<td class="num">${v ? peso(v) : '—'}</td>`).join('') +
-        `<td class="num"><span class="gap">×${brecha.toLocaleString('es-AR', { maximumFractionDigits: 1 })}</span></td>`;
-      tb.appendChild(tr);
-    }
+  $('src').innerHTML = `Fuente: <a href="${SEPA_URL}" target="_blank" rel="noopener">SEPA</a> · datos al <strong>${fechaLarga(d.fecha)}</strong>` +
+    (d.fecha_base ? ` (comparado con ${fechaLarga(d.fecha_base)})` : '');
 
-    $('metodo-detalle').innerHTML = `<strong>Este relevamiento:</strong> ${d.metodo} Cadenas principales: ${d.cadenas_principales.join(', ')}.`;
-    $('verlink').textContent = `Ver el catálogo completo de ${d.canasta_total_productos.toLocaleString('es-AR')} productos →`;
+  // headline
+  $('resumen-loading').style.display = 'none';
+  $('resumen-cont').style.display = 'block';
+  if (d.var_semanal_total_pct != null) {
+    $('h-var').textContent = pct(d.var_semanal_total_pct);
+    $('h-var').classList.add(d.var_semanal_total_pct >= 0 ? 'up' : 'down');
+    $('h-detalle').textContent = `Variación entre el ${fechaLarga(d.fecha_base)} y el ${fechaLarga(d.fecha)}, sobre ${d.pares_comparados.toLocaleString('es-AR')} pares cadena-producto (índice de Jevons).`;
+  } else {
+    $('h-var').textContent = '—';
+    $('h-detalle').textContent = `Primer relevamiento: ${fechaLarga(d.fecha)}.`;
+  }
 
-    // gráfico: sobreprecio de cada cadena respecto de la más barata
-    const maxPremium = Math.max(...costos.map(c => c / minCosto - 1));
-    $('chart-costo').innerHTML = principales
-      .slice().sort((a, b) => a.canasta_costo - b.canasta_costo)
-      .map(c => {
-        const premium = c.canasta_costo / minCosto - 1;
-        const esMin = premium < 1e-9;
-        const w = esMin ? 100 : Math.max((premium / maxPremium) * 100, 14);
-        const extra = esMin ? 'más barata' : '+' + (premium * 100).toFixed(1) + '%';
-        return `<div class="bar-row"><span class="lbl">${c.cadena}</span>
-          <span class="track"><span class="fill ${esMin ? 'green' : ''}" style="width:${w}%">${extra}</span></span></div>`;
-      }).join('');
+  // kpis
+  const barata = principales.slice().sort((a, b) => a.canasta_costo - b.canasta_costo)[0];
+  $('kpis').innerHTML = [
+    ['Cadenas en el índice', principales.length],
+    ['Productos en la canasta', d.canasta_total_productos.toLocaleString('es-AR')],
+    ['Canasta más barata', barata.cadena],
+    ['Pares comparados', d.pares_comparados.toLocaleString('es-AR')],
+  ].map(([l, v]) => `<div class="kpi"><div class="label">${l}</div><div class="value">${v}</div></div>`).join('');
 
-    // gráfico: quién es más barato (cantidad de productos)
-    const mb = d.mas_barato.slice().sort((a, b) => b.productos - a.productos);
-    const maxMb = Math.max(...mb.map(x => x.productos));
-    $('chart-barato').innerHTML = mb.map(x => {
-      const w = (x.productos / maxMb) * 100;
-      const p = ((x.productos / d.canasta_total_productos) * 100).toFixed(0);
-      return `<div class="bar-row"><span class="lbl">${x.cadena}</span>
-        <span class="track"><span class="fill" style="width:${w}%">${x.productos} · ${p}%</span></span></div>`;
+  // metodo detalle
+  $('metodo-detalle').innerHTML = `<strong>Este relevamiento.</strong> ${d.metodo} Cadenas: ${nombres.join(', ')}.`;
+
+  renderCadenas();
+  renderCharts();
+}).catch(e => { $('resumen-loading').textContent = 'No se pudieron cargar los datos (' + e.message + ').'; });
+
+function renderCadenas() {
+  const d = D;
+  $('cadenas-desc').textContent = `Canasta de ${d.canasta_total_productos.toLocaleString('es-AR')} productos idénticos valuada al ${fechaLarga(d.fecha)}, en las tres cadenas de mayor presencia en Tucumán.`;
+  $('cadenas').innerHTML = d.cadenas.filter(c => c.principal).slice().sort((a, b) => (a.canasta_costo ?? 1e15) - (b.canasta_costo ?? 1e15)).map(c => {
+    const varHtml = c.var_semanal_pct != null ? `<span class="var ${c.var_semanal_pct >= 0 ? 'up' : 'down'}">${pct(c.var_semanal_pct)}</span> vs. semana previa` : 'sin comparación semanal';
+    const rel = c.canasta_costo && c.canasta_costo !== minCosto ? `<div class="meta">canasta <span class="var up">${pct((c.canasta_costo / minCosto - 1) * 100)}</span> más cara que la más barata</div>` : '';
+    return `<div class="card ${c.canasta_costo === minCosto ? 'best' : ''}">
+      <div class="tag">${c.sucursales} sucursal${c.sucursales === 1 ? '' : 'es'} · ${c.productos_relevados.toLocaleString('es-AR')} productos</div>
+      <h4>${c.cadena}</h4>
+      <div class="precio">${c.canasta_costo ? peso(c.canasta_costo) : 'reporte incompleto'}</div>
+      <div class="meta">${varHtml}</div>${rel}
+      ${c.canasta_costo === minCosto ? '<span class="badge">CANASTA MÁS BARATA</span>' : ''}</div>`;
+  }).join('');
+
+  $('tabla-brechas').querySelector('thead').innerHTML = '<tr><th>Producto</th>' + nombres.map(n => `<th class="num">${n}</th>`).join('') + '<th class="num">Brecha</th></tr>';
+  $('tabla-brechas').querySelector('tbody').innerHTML = d.tabla.slice(0, 15).map(p => {
+    const vals = nombres.map(n => p.precios[n]);
+    const brecha = Math.max(...vals) / Math.min(...vals);
+    return `<tr><td class="desc">${p.descripcion}</td>` + vals.map(v => `<td class="num">${v ? peso(v) : '—'}</td>`).join('') + `<td class="num"><span class="gap">×${brecha.toLocaleString('es-AR', { maximumFractionDigits: 1 })}</span></td></tr>`;
+  }).join('');
+}
+
+function renderCharts() {
+  const d = D, costos = principales.map(c => c.canasta_costo);
+  const maxPremium = Math.max(...costos.map(c => c / minCosto - 1));
+  $('chart-costo').innerHTML = principales.slice().sort((a, b) => a.canasta_costo - b.canasta_costo).map(c => {
+    const premium = c.canasta_costo / minCosto - 1, esMin = premium < 1e-9;
+    const w = esMin ? 100 : Math.max((premium / maxPremium) * 100, 16);
+    return `<div class="bar-row"><span class="lbl">${c.cadena}</span><span class="track"><span class="fill ${esMin ? 'best' : ''}" style="width:${w}%">${esMin ? 'más barata' : '+' + (premium * 100).toFixed(1) + '%'}</span></span></div>`;
+  }).join('');
+
+  const mb = d.mas_barato.slice().sort((a, b) => b.productos - a.productos), maxMb = Math.max(...mb.map(x => x.productos));
+  $('chart-barato').innerHTML = mb.map(x => {
+    const w = (x.productos / maxMb) * 100, p = ((x.productos / d.canasta_total_productos) * 100).toFixed(0);
+    return `<div class="bar-row"><span class="lbl">${x.cadena}</span><span class="track"><span class="fill" style="width:${Math.max(w, 12)}%">${x.productos} · ${p}%</span></span></div>`;
+  }).join('');
+
+  const h = d.histograma_brechas, maxH = Math.max(...h.map(x => x.cantidad));
+  $('chart-hist').innerHTML = '<div class="hist">' + h.map(x =>
+    `<div class="col"><span class="colval">${x.cantidad}</span><div class="colbar" style="height:${(x.cantidad / maxH) * 110}px"></div><span class="collbl">${x.rango}</span></div>`
+  ).join('') + '</div>';
+}
+
+// ---- catálogo (productos.json, lazy) ----
+let PROD = null, filtrados = [], mostrados = 0; const PAGINA = 50;
+function cargarCatalogo() {
+  if (PROD) return;
+  fetch('../data/productos.json').then(r => r.json()).then(d => {
+    PROD = d.productos;
+    $('prod-loading').style.display = 'none';
+    $('prod-cont').style.display = 'block';
+    $('tabla-prod').querySelector('thead').innerHTML = '<tr><th>Producto</th>' + d.cadenas_principales.map(c => `<th class="num">${c}</th>`).join('') + '<th class="num">Brecha</th><th class="num">Sem.</th></tr>';
+    $('q').addEventListener('input', aplicarProd);
+    $('orden').addEventListener('change', aplicarProd);
+    $('btn-more').addEventListener('click', () => { mostrados += PAGINA; pintarProd(); });
+    aplicarProd();
+  }).catch(e => { $('prod-loading').textContent = 'No se pudo cargar el catálogo (' + e.message + ').'; });
+}
+function aplicarProd() {
+  const q = $('q').value.trim().toLowerCase();
+  filtrados = q ? PROD.filter(p => p.descripcion.toLowerCase().includes(q)) : PROD.slice();
+  const cmp = { brecha: (a, b) => b.brecha - a.brecha, max: (a, b) => b.max - a.max, min: (a, b) => a.min - b.min, var: (a, b) => (b.var_pct ?? -1e9) - (a.var_pct ?? -1e9), alfa: (a, b) => a.descripcion.localeCompare(b.descripcion, 'es') }[$('orden').value];
+  filtrados.sort(cmp); mostrados = PAGINA; pintarProd();
+}
+function pintarProd() {
+  const cad = PROD_CAD();
+  $('tabla-prod').querySelector('tbody').innerHTML = filtrados.slice(0, mostrados).map(p => {
+    const celdas = cad.map(c => { const v = p.precios[c]; const cls = v === p.min ? 'num min' : (v === p.max ? 'num max' : 'num'); return `<td class="${cls}">${peso(v)}</td>`; }).join('');
+    const vh = p.var_pct == null ? '<td class="num">—</td>' : `<td class="num"><span class="var ${p.var_pct >= 0 ? 'up' : 'down'}">${pct(p.var_pct)}</span></td>`;
+    return `<tr><td class="desc">${p.descripcion}</td>${celdas}<td class="num"><span class="gap">×${p.brecha.toLocaleString('es-AR', { maximumFractionDigits: 1 })}</span></td>${vh}</tr>`;
+  }).join('');
+  $('prod-count').textContent = `${filtrados.length.toLocaleString('es-AR')} producto${filtrados.length === 1 ? '' : 's'}` + (filtrados.length > mostrados ? ` · mostrando ${mostrados}` : '');
+  $('prod-more').style.display = filtrados.length > mostrados ? 'block' : 'none';
+}
+function PROD_CAD() { return (PROD && PROD.length && Object.keys(PROD[0].precios)) || nombres; }
+
+// ---- precios web (web_precios.json, lazy) ----
+let WEB = null, webRows = [], webFiltrados = [];
+function cargarWeb() {
+  if (WEB !== null) return;
+  fetch('../data/web_precios.json').then(r => { if (!r.ok) throw new Error('nofile'); return r.json(); }).then(d => {
+    WEB = d;
+    // unir con SEPA por EAN (necesitamos catálogo)
+    const build = () => {
+      const sepa = {}; PROD.forEach(p => sepa[p.ean] = p);
+      webRows = [];
+      for (const [ean, f] of Object.entries(d.precios)) {
+        const s = sepa[ean]; if (!s) continue;
+        const row = { ean, descripcion: f.descripcion || s.descripcion, sepa: {}, web: {}, link: null };
+        for (const n of nombres) {
+          row.sepa[n] = s.precios[n] ?? null;
+          if (f[n] && f[n].precio) { row.web[n] = f[n].precio; if (!row.link && f[n].link) row.link = f[n].link; }
+          else row.web[n] = null;
+        }
+        webRows.push(row);
+      }
+      renderWeb();
+    };
+    if (PROD) build(); else fetch('../data/productos.json').then(r => r.json()).then(pd => { PROD = pd.productos; build(); });
+  }).catch(() => { $('web-loading').style.display = 'none'; $('web-vacio').style.display = 'block'; });
+}
+function difPct(row) {
+  const rs = [];
+  for (const n of nombres) if (row.sepa[n] && row.web[n]) rs.push(row.web[n] / row.sepa[n] - 1);
+  if (!rs.length) return null;
+  return rs.reduce((a, b) => a + b, 0) / rs.length * 100;
+}
+function renderWeb() {
+  const d = WEB;
+  $('web-loading').style.display = 'none';
+  $('web-cont').style.display = 'block';
+  $('web-desc').innerHTML = `${d.fuente} Muestra de ${Object.keys(d.precios).length.toLocaleString('es-AR')} productos, relevada el ${fechaLarga(d.fecha)}.`;
+
+  // índice web: canasta sobre productos con precio web y SEPA en las 3 cadenas
+  const comunes = webRows.filter(r => nombres.every(n => r.sepa[n] && r.web[n]));
+  const kpis = [];
+  for (const n of nombres) {
+    const sepaB = comunes.reduce((a, r) => a + r.sepa[n], 0);
+    const webB = comunes.reduce((a, r) => a + r.web[n], 0);
+    const dif = (webB / sepaB - 1) * 100;
+    kpis.push(`<div class="kpi"><div class="label">${n} · web vs. SEPA</div><div class="value ${dif >= 0 ? '' : ''}">${pct(dif)}</div></div>`);
+  }
+  $('web-kpis').innerHTML = `<div class="kpi"><div class="label">Canasta comparable</div><div class="value">${comunes.length}</div></div>` + kpis.join('');
+
+  $('tabla-web').querySelector('thead').innerHTML = '<tr><th>Producto</th>' + nombres.map(n => `<th class="num">${n}<br><span style="font-weight:400;text-transform:none">SEPA / web</span></th>`).join('') + '<th class="num">Dif.</th><th>Ver</th></tr>';
+  $('wq').addEventListener('input', aplicarWeb);
+  $('worden').addEventListener('change', aplicarWeb);
+  aplicarWeb();
+}
+function aplicarWeb() {
+  const q = $('wq').value.trim().toLowerCase();
+  webFiltrados = q ? webRows.filter(r => r.descripcion.toLowerCase().includes(q)) : webRows.slice();
+  if ($('worden').value === 'dif') webFiltrados.sort((a, b) => Math.abs(difPct(b) ?? 0) - Math.abs(difPct(a) ?? 0));
+  else webFiltrados.sort((a, b) => a.descripcion.localeCompare(b.descripcion, 'es'));
+  pintarWeb();
+}
+function pintarWeb() {
+  $('tabla-web').querySelector('tbody').innerHTML = webFiltrados.slice(0, 80).map(r => {
+    const celdas = nombres.map(n => {
+      const s = r.sepa[n], w = r.web[n];
+      const cmp = (s && w) ? (w > s ? 'up' : (w < s ? 'down' : '')) : '';
+      return `<td class="num">${s ? peso(s) : '—'} <span style="color:var(--muted)">/</span> <span class="var ${cmp}">${w ? peso(w) : '—'}</span></td>`;
     }).join('');
-
-    // histograma de brechas
-    const h = d.histograma_brechas;
-    const maxH = Math.max(...h.map(x => x.cantidad));
-    $('chart-hist').innerHTML = '<div class="hist">' + h.map(x => {
-      const alto = (x.cantidad / maxH) * 110;
-      return `<div class="col"><span class="colval">${x.cantidad}</span>
-        <div class="colbar" style="height:${alto}px"></div>
-        <span class="collbl">${x.rango}</span></div>`;
-    }).join('') + '</div>';
-  })
-  .catch(err => {
-    $('estado').textContent = 'No se pudieron cargar los datos del índice (' + err.message + ').';
-  });
+    const dp = difPct(r);
+    const difc = dp == null ? '<td class="num">—</td>' : `<td class="num"><span class="var ${dp >= 0 ? 'up' : 'down'}">${pct(dp)}</span></td>`;
+    const link = r.link ? `<td><a class="prod-link" href="${r.link}" target="_blank" rel="noopener">web →</a></td>` : '<td>—</td>';
+    return `<tr><td class="desc">${r.descripcion}</td>${celdas}${difc}${link}</tr>`;
+  }).join('');
+  $('web-count').textContent = `${webFiltrados.length.toLocaleString('es-AR')} productos con precio web y SEPA` + (webFiltrados.length > 80 ? ' · mostrando 80' : '');
+}
 </script>
 </body>
 </html>

@@ -33,6 +33,9 @@ from pathlib import Path
 PROVINCIA = "AR-T"
 MIN_PRODUCTOS = 1000     # una cadena es "principal" si releva >= este catálogo
 TABLA_EJEMPLOS = 25      # productos mostrados en la tabla del sitio
+# Cadenas que integran el índice. Las demás (con reporte parcial o marginal en
+# Tucumán) se listan aparte pero no entran en la canasta ni en el titular.
+CADENAS_OBJETIVO = {"Hipermercado Carrefour", "Vea", "Jumbo"}
 
 
 def leer_csv(zf, nombre):
@@ -137,11 +140,16 @@ def main():
     if not hoy:
         sys.exit("Ninguna cadena con sucursales en Tucumán.")
 
-    # cadenas principales: catálogo completo; la canasta es la intersección
-    # exacta de sus EANs, para que el costo sea directamente comparable
-    principales = [n for n, d in hoy.items() if len(d["precios"]) >= MIN_PRODUCTOS]
+    # cadenas principales: las de la lista objetivo con catálogo completo; la
+    # canasta es la intersección exacta de sus EANs, para que el costo sea
+    # directamente comparable
+    principales = [
+        n for n, d in hoy.items()
+        if len(d["precios"]) >= MIN_PRODUCTOS
+        and (not CADENAS_OBJETIVO or n in CADENAS_OBJETIVO)
+    ]
     if len(principales) < 2:
-        sys.exit("Menos de dos cadenas con catálogo completo en Tucumán.")
+        sys.exit("Menos de dos cadenas objetivo con catálogo completo en Tucumán.")
     canasta = set(hoy[principales[0]]["precios"])
     for n in principales[1:]:
         canasta &= set(hoy[n]["precios"])
