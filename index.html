@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CIET — Centro de Investigación Económica de Tucumán</title>
+<meta name="description" content="Centro de Investigación Económica de Tucumán: divulgación económica con modelos interactivos y análisis de la economía tucumana.">
+<style>
+  :root {
+    --bg: #0f1420;
+    --panel: #1a2233;
+    --panel-2: #212c42;
+    --text: #e8ecf4;
+    --muted: #93a0b8;
+    --accent: #ef5350;
+    --green: #66bb6a;
+    --border: #2c3a55;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    min-height: 100vh;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  .wrap { max-width: 900px; margin: 0 auto; }
+  header { padding: 36px 0 28px; }
+  h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.01em; }
+  h1 span { color: var(--accent); }
+  .tagline { color: var(--muted); font-size: 1.05rem; margin-top: 10px; max-width: 640px; }
+  h2 {
+    font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--muted); margin: 34px 0 14px;
+  }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 18px; display: block; color: inherit; text-decoration: none;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  a.card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .card .area { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); }
+  .card h3 { font-size: 1.05rem; margin: 6px 0 6px; }
+  .card p { font-size: 0.85rem; color: var(--muted); }
+  .card .status { display: inline-block; margin-top: 12px; font-size: 0.72rem; padding: 3px 9px; border-radius: 20px; }
+  .status.live { background: rgba(102,187,106,0.15); color: var(--green); }
+  .status.soon { background: var(--panel-2); color: var(--muted); }
+  .card.soon { opacity: 0.65; }
+  .about {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 20px 22px; font-size: 0.92rem; color: var(--muted);
+  }
+  .about strong { color: var(--text); }
+  footer { margin: 36px 0 12px; color: var(--muted); font-size: 0.78rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1><span>CIET</span></h1>
+    <p style="font-size:1.05rem;font-weight:600;margin-top:2px">Centro de Investigación Económica de Tucumán</p>
+    <p class="tagline">Divulgación y análisis económico. Modelos canónicos de la literatura presentados de forma interactiva — mover un parámetro y ver la economía responder enseña más que diez páginas de derivaciones — y, próximamente, análisis aplicado de la economía tucumana.</p>
+  </header>
+
+  <h2>Modelos disponibles</h2>
+  <div class="grid">
+    <a class="card" href="solow/">
+      <div class="area">Crecimiento económico</div>
+      <h3>Modelo de Solow</h3>
+      <p>¿Por qué ahorrar más eleva el nivel de ingreso pero no su crecimiento de largo plazo? Estado estacionario, regla de oro y convergencia.</p>
+      <span class="status live">● Disponible</span>
+    </a>
+    <div class="card soon">
+      <div class="area">Macroeconomía de corto plazo</div>
+      <h3>IS-LM</h3>
+      <p>Política fiscal y monetaria en el mercado de bienes y de dinero. Crowding out, trampa de liquidez.</p>
+      <span class="status soon">Próximamente</span>
+    </div>
+    <div class="card soon">
+      <div class="area">Microeconomía</div>
+      <h3>Oferta y demanda</h3>
+      <p>Equilibrio competitivo, excedentes, impuestos y controles de precios: quién gana, quién pierde y cuánto se pierde.</p>
+      <span class="status soon">Próximamente</span>
+    </div>
+    <div class="card soon">
+      <div class="area">Comercio internacional</div>
+      <h3>Ventaja comparativa</h3>
+      <p>El modelo ricardiano: por qué conviene comerciar incluso cuando un país es peor produciendo todo.</p>
+      <span class="status soon">Próximamente</span>
+    </div>
+  </div>
+
+  <h2>Economía de Tucumán</h2>
+  <div class="grid">
+    <div class="card soon">
+      <div class="area">Análisis regional</div>
+      <h3>Informes de coyuntura y estructura productiva</h3>
+      <p>Análisis en profundidad de la economía tucumana: empleo, actividad, sector azucarero y citrícola, finanzas provinciales.</p>
+      <span class="status soon">En preparación</span>
+    </div>
+  </div>
+
+  <h2>Sobre el CIET</h2>
+  <div class="about">
+    <p>El <strong>Centro de Investigación Económica de Tucumán (CIET)</strong> es un proyecto educativo y de divulgación sin fines comerciales, con dos líneas de trabajo: modelos económicos canónicos presentados de forma interactiva — con sus ecuaciones, supuestos y referencias explícitas — y análisis aplicado de la economía tucumana. Los modelos son simplificaciones deliberadas: su valor no está en predecir, sino en aislar mecanismos.</p>
+  </div>
+
+  <footer>
+    CIET — Centro de Investigación Económica de Tucumán. Los simuladores son de uso libre para docencia citando la fuente.
+  </footer>
+
+</div>
+</body>
+</html>
