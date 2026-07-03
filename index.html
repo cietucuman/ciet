@@ -4,52 +4,47 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CIET — Centro de Investigación Económica de Tucumán</title>
-<meta name="description" content="Centro de Investigación Económica de Tucumán: Índice de Precios de Supermercados de Tucumán (IPS) con datos abiertos SEPA y precios de las tiendas online.">
+<meta name="description" content="Centro de Investigación Económica de Tucumán: investigación y divulgación económica con datos abiertos y metodología replicable.">
 <style>
   :root {
-    --bg: #ffffff;
-    --surface: #f6f8fb;
-    --border: #e3e9f1;
-    --navy: #0b3d68;
-    --blue: #1c6fb8;
-    --blue-soft: #eaf2fb;
-    --text: #17232f;
-    --muted: #5d6b7a;
-    --up: #b3261e;
-    --down: #12795a;
+    --bg: #ffffff; --surface: #f6f8fb; --border: #e3e9f1;
+    --navy: #0b3d68; --blue: #1c6fb8; --blue-soft: #eaf2fb;
+    --text: #17232f; --muted: #5d6b7a;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: var(--bg); color: var(--text);
-    font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6; -webkit-font-smoothing: antialiased;
-  }
-  .topbar { border-bottom: 2px solid var(--navy); }
-  .topbar .inner { max-width: 960px; margin: 0 auto; padding: 16px 24px; display: flex; align-items: center; gap: 12px; }
-  .logo { width: 34px; height: 34px; border-radius: 6px; background: var(--navy); color: #fff; display: grid; place-items: center; font-weight: 800; font-size: 0.95rem; letter-spacing: -0.02em; }
-  .brand-t { font-weight: 700; color: var(--navy); font-size: 0.98rem; }
+  body { background: var(--bg); color: var(--text); font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 940px; margin: 0 auto; padding: 0 24px; }
+  a { color: var(--blue); }
+
+  .topbar { border-bottom: 3px solid var(--navy); }
+  .topbar .inner { max-width: 940px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; gap: 13px; }
+  .mark { width: 42px; height: 42px; flex-shrink: 0; }
+  .brand-t { font-weight: 800; color: var(--navy); font-size: 1.05rem; letter-spacing: 0.02em; }
   .brand-s { font-size: 0.75rem; color: var(--muted); }
-  .wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
-  .hero-band { background: var(--navy); color: #fff; }
-  .hero-band .wrap { padding: 46px 24px; }
-  .hero-band .kicker { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.14em; color: #9dc4e6; font-weight: 600; }
-  .hero-band h1 { font-size: 2.05rem; font-weight: 800; margin-top: 10px; letter-spacing: -0.015em; line-height: 1.2; }
-  .hero-band p { color: #cfe0f0; font-size: 1.02rem; margin-top: 14px; max-width: 640px; }
-  h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--blue); font-weight: 700; margin: 40px 0 16px; }
-  .feature { border: 1px solid var(--border); border-left: 4px solid var(--blue); border-radius: 6px; padding: 22px 24px; display: block; text-decoration: none; color: inherit; transition: box-shadow .15s, border-color .15s; }
-  .feature:hover { box-shadow: 0 6px 22px rgba(11,61,104,.10); border-left-color: var(--navy); }
-  .feature .area { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
-  .feature h3 { font-size: 1.3rem; color: var(--navy); margin: 6px 0 8px; }
-  .feature p { color: var(--muted); font-size: 0.93rem; }
-  .feature .cta { display: inline-block; margin-top: 14px; color: var(--blue); font-weight: 700; font-size: 0.9rem; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
-  .mini { border: 1px solid var(--border); border-radius: 6px; padding: 16px 18px; background: var(--surface); }
-  .mini .n { font-size: 1.5rem; font-weight: 800; color: var(--navy); }
-  .mini h4 { font-size: 0.9rem; margin: 4px 0 4px; color: var(--text); }
-  .mini p { font-size: 0.8rem; color: var(--muted); }
-  .about { border: 1px solid var(--border); border-radius: 6px; padding: 22px 24px; font-size: 0.93rem; color: var(--muted); background: var(--surface); }
+
+  .hero { background: var(--navy); color: #fff; }
+  .hero .wrap { padding: 56px 24px; display: flex; gap: 30px; align-items: center; flex-wrap: wrap; }
+  .hero .mark-lg { width: 96px; height: 96px; flex-shrink: 0; }
+  .hero h1 { font-size: 1.95rem; font-weight: 800; letter-spacing: -0.01em; line-height: 1.15; }
+  .hero .lead { color: #cfe0f0; font-size: 1.05rem; margin-top: 12px; max-width: 560px; }
+
+  h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--blue); font-weight: 700; margin: 42px 0 16px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+  .card { border: 1px solid var(--border); border-radius: 8px; padding: 22px; display: flex; flex-direction: column; text-decoration: none; color: inherit; }
+  .card.live { border-left: 4px solid var(--blue); }
+  .card.live:hover { box-shadow: 0 6px 22px rgba(11,61,104,.10); border-left-color: var(--navy); }
+  .card.soon { opacity: 0.85; background: var(--surface); }
+  .card .area { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); font-weight: 700; }
+  .card h3 { font-size: 1.2rem; color: var(--navy); margin: 6px 0 8px; }
+  .card p { color: var(--muted); font-size: 0.9rem; flex: 1; }
+  .card .cta { display: inline-block; margin-top: 14px; color: var(--blue); font-weight: 700; font-size: 0.9rem; }
+  .card .chip { align-self: flex-start; margin-top: 14px; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 700; padding: 3px 10px; border-radius: 20px; }
+  .chip.g { background: #e4f3ec; color: #12795a; }
+  .chip.s { background: #eef1f6; color: var(--muted); }
+
+  .about { border: 1px solid var(--border); border-radius: 8px; padding: 22px 24px; font-size: 0.93rem; color: var(--muted); background: var(--surface); }
   .about strong { color: var(--text); }
-  footer { border-top: 1px solid var(--border); margin-top: 46px; }
+  footer { border-top: 1px solid var(--border); margin-top: 48px; }
   footer .wrap { padding: 22px 24px; color: var(--muted); font-size: 0.78rem; }
 </style>
 </head>
@@ -57,47 +52,65 @@
 
 <div class="topbar">
   <div class="inner">
-    <div class="logo">CIET</div>
+    <!-- LOGO: emblema con silueta de Tucumán -->
+    <svg class="mark" viewBox="0 0 44 44" role="img" aria-label="CIET">
+      <rect x="0" y="0" width="44" height="44" rx="8" fill="#0b3d68"/>
+      <path d="M15.5 8.5 L30 8 Q33 8 33.2 11 L32 17 Q35 20 32.5 23 L34 27.5 Q34.3 30 31 31.5 L24.5 36.5 Q22 38.4 20 35.8 L14.5 27 Q12.6 24 15 21.5 L12.2 15.5 Q11 12.6 14 11 Z" fill="#ffffff"/>
+      <circle cx="21.5" cy="20.5" r="2.1" fill="#1c6fb8"/>
+    </svg>
     <div>
-      <div class="brand-t">Centro de Investigación Económica de Tucumán</div>
-      <div class="brand-s">Investigación y divulgación económica · datos abiertos</div>
+      <div class="brand-t">CIET</div>
+      <div class="brand-s">Centro de Investigación Económica de Tucumán</div>
     </div>
   </div>
 </div>
 
-<div class="hero-band">
+<div class="hero">
   <div class="wrap">
-    <div class="kicker">Producto insignia</div>
-    <h1>Índice de Precios de Supermercados de Tucumán</h1>
-    <p>Seguimiento sistemático de los precios de las cadenas de supermercados con sucursales en Tucumán, a partir de datos oficiales abiertos y de las tiendas online. Metodología pública y replicable.</p>
+    <svg class="mark-lg" viewBox="0 0 44 44" role="img" aria-label="CIET">
+      <rect x="0" y="0" width="44" height="44" rx="8" fill="#0f4a7d"/>
+      <path d="M15.5 8.5 L30 8 Q33 8 33.2 11 L32 17 Q35 20 32.5 23 L34 27.5 Q34.3 30 31 31.5 L24.5 36.5 Q22 38.4 20 35.8 L14.5 27 Q12.6 24 15 21.5 L12.2 15.5 Q11 12.6 14 11 Z" fill="#ffffff"/>
+      <circle cx="21.5" cy="20.5" r="2.1" fill="#1c6fb8"/>
+    </svg>
+    <div>
+      <h1>Centro de Investigación Económica de Tucumán</h1>
+      <p class="lead">Investigación y divulgación económica sobre la provincia de Tucumán, con fuentes de datos abiertas y metodología pública y replicable.</p>
+    </div>
   </div>
 </div>
 
 <div class="wrap">
-  <h2>Acceder</h2>
-  <a class="feature" href="ips/">
-    <div class="area">Índice de precios · IPS</div>
-    <h3>Ver el relevamiento</h3>
-    <p>Variación de precios, comparación entre cadenas, catálogo completo de productos y contraste con las tiendas online.</p>
-    <span class="cta">Abrir el tablero →</span>
-  </a>
-
-  <h2>Qué mide</h2>
-  <div class="grid">
-    <div class="mini"><div class="n">3</div><h4>Cadenas</h4><p>Carrefour, Vea y Jumbo, las de mayor presencia en la provincia.</p></div>
-    <div class="mini"><div class="n">SEPA</div><h4>Fuente oficial</h4><p>Precios que los súper informan al Estado, por sucursal, a diario.</p></div>
-    <div class="mini"><div class="n">Web</div><h4>Tiendas online</h4><p>Contraste con el precio publicado en las páginas de cada cadena.</p></div>
-    <div class="mini"><div class="n">AR-T</div><h4>Solo Tucumán</h4><p>Únicamente sucursales de la provincia, no promedios nacionales.</p></div>
+  <h2>Publicaciones y datos</h2>
+  <div class="cards">
+    <a class="card live" href="ips/">
+      <div class="area">Índice de precios</div>
+      <h3>Precios de supermercados (IPS)</h3>
+      <p>Seguimiento de los precios de las cadenas de supermercados en Tucumán, a partir de datos oficiales y de las tiendas online.</p>
+      <span class="chip g">Disponible</span>
+      <span class="cta">Abrir el tablero →</span>
+    </a>
+    <div class="card soon">
+      <div class="area">Coyuntura</div>
+      <h3>Actividad y empleo</h3>
+      <p>Indicadores de la economía tucumana: actividad, empleo registrado y sectores clave (azúcar, citrus, limón).</p>
+      <span class="chip s">En preparación</span>
+    </div>
+    <div class="card soon">
+      <div class="area">Sector público</div>
+      <h3>Finanzas provinciales</h3>
+      <p>Ingresos, gasto y deuda de la Provincia y los municipios, con series comparables en el tiempo.</p>
+      <span class="chip s">En preparación</span>
+    </div>
   </div>
 
   <h2>Sobre el CIET</h2>
   <div class="about">
-    <p>El <strong>Centro de Investigación Económica de Tucumán</strong> es un proyecto independiente de investigación y divulgación económica centrado en la provincia. Trabaja con fuentes públicas y metodologías abiertas: cada número puede verificarse y reproducirse. Sin fines comerciales.</p>
+    <p>El <strong>Centro de Investigación Económica de Tucumán</strong> es un proyecto independiente de investigación y divulgación económica centrado en la provincia. Trabaja exclusivamente con fuentes públicas y metodologías abiertas: cada número puede verificarse y reproducirse. Sin fines comerciales.</p>
   </div>
 </div>
 
 <footer>
-  <div class="wrap">CIET — Centro de Investigación Económica de Tucumán · Datos: SEPA (Secretaría de Comercio, CC-BY 4.0) y tiendas online · Uso libre citando la fuente.</div>
+  <div class="wrap">CIET — Centro de Investigación Económica de Tucumán · Datos abiertos · Uso libre citando la fuente.</div>
 </footer>
 
 </body>

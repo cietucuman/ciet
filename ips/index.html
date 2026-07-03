@@ -18,7 +18,7 @@
 
   .topbar { border-bottom: 2px solid var(--navy); }
   .topbar .inner { max-width: 960px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; gap: 12px; }
-  .logo { width: 32px; height: 32px; border-radius: 6px; background: var(--navy); color: #fff; display: grid; place-items: center; font-weight: 800; font-size: 0.9rem; }
+  .mark { width: 38px; height: 38px; flex-shrink: 0; display: block; }
   .brand-t { font-weight: 700; color: var(--navy); font-size: 0.92rem; }
   .brand-s { font-size: 0.74rem; color: var(--muted); }
   .brand-s a { text-decoration: none; }
@@ -68,6 +68,7 @@
   .bar-row .track { flex: 1; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; overflow: hidden; height: 22px; }
   .bar-row .fill { height: 100%; background: var(--blue); display: flex; align-items: center; justify-content: flex-end; padding-right: 7px; font-size: 0.72rem; font-weight: 700; color: #fff; white-space: nowrap; }
   .bar-row .fill.best { background: var(--down); }
+  .bar-row .val { flex-shrink: 0; min-width: 46px; font-weight: 700; color: var(--navy); font-size: 0.8rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
   .hist { display: flex; align-items: flex-end; gap: 6px; height: 150px; padding-top: 10px; }
   .hist .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 4px; }
   .hist .colbar { width: 100%; background: var(--blue); border-radius: 3px 3px 0 0; min-height: 2px; }
@@ -95,8 +96,16 @@
 
   .metodo p { font-size: 0.9rem; margin-bottom: 10px; }
   .metodo p strong { color: var(--navy); }
-  .metodo ol { margin: 6px 0 10px 20px; font-size: 0.9rem; }
-  .metodo li { margin-bottom: 5px; }
+  .metodo h3 { font-size: 1.05rem; color: var(--navy); margin: 26px 0 8px; }
+  .metodo ol, .metodo ul { margin: 6px 0 10px 20px; font-size: 0.9rem; }
+  .metodo li { margin-bottom: 6px; }
+  .metodo .formula { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; font-size: 0.9rem; margin: 8px 0; text-align: center; }
+  .metodo .gloss { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; margin-top: 8px; }
+  .metodo .gloss div { display: grid; grid-template-columns: 160px 1fr; gap: 0; border-bottom: 1px solid var(--border); font-size: 0.86rem; }
+  .metodo .gloss div:last-child { border-bottom: none; }
+  .metodo .gloss dt { padding: 9px 12px; font-weight: 700; color: var(--navy); background: var(--surface); }
+  .metodo .gloss dd { padding: 9px 12px; color: var(--muted); }
+  @media (max-width: 560px) { .metodo .gloss div { grid-template-columns: 1fr; } .metodo .gloss dt { border-bottom: 1px solid var(--border); } }
   .callout { border: 1px solid var(--border); border-left: 4px solid var(--blue); border-radius: 6px; padding: 16px 18px; background: var(--surface); }
 
   .loading { color: var(--muted); padding: 30px 0; }
@@ -108,7 +117,13 @@
 
 <div class="topbar">
   <div class="inner">
-    <a href="../" style="text-decoration:none"><div class="logo">CIET</div></a>
+    <a href="../" style="text-decoration:none">
+      <svg class="mark" viewBox="0 0 44 44" role="img" aria-label="CIET">
+        <rect x="0" y="0" width="44" height="44" rx="8" fill="#0b3d68"/>
+        <path d="M15.5 8.5 L30 8 Q33 8 33.2 11 L32 17 Q35 20 32.5 23 L34 27.5 Q34.3 30 31 31.5 L24.5 36.5 Q22 38.4 20 35.8 L14.5 27 Q12.6 24 15 21.5 L12.2 15.5 Q11 12.6 14 11 Z" fill="#ffffff"/>
+        <circle cx="21.5" cy="20.5" r="2.1" fill="#1c6fb8"/>
+      </svg>
+    </a>
     <div>
       <div class="brand-t">Centro de Investigación Económica de Tucumán</div>
       <div class="brand-s"><a href="../">Inicio</a> · Índice de Precios de Supermercados</div>
@@ -147,19 +162,20 @@
       <h2 class="sec">Panorama en gráficos</h2>
       <div class="charts">
         <div class="chart">
-          <div class="chart-title">Cuánto más cara es la canasta que la más barata</div>
+          <div class="chart-title">¿Cuál es la cadena más cara?</div>
           <div id="chart-costo"></div>
-          <p class="chart-note">Sobreprecio de cada cadena respecto de la más barata, valuando la misma canasta en todas.</p>
+          <p class="chart-note">Si comprás toda la canasta en cada cadena, cuánto más pagás respecto de la más barata. Ejemplo: “+4,3%” significa que esa canasta sale 4,3% más cara que en la cadena más económica.</p>
         </div>
         <div class="chart">
-          <div class="chart-title">¿Quién tiene el precio más bajo?</div>
+          <div class="chart-title">¿Qué cadena tiene más seguido el precio más bajo?</div>
           <div id="chart-barato"></div>
-          <p class="chart-note">En cuántos productos de la canasta cada cadena ofrece el precio mínimo (o empatado).</p>
+          <p class="chart-note">De los productos de la canasta, en qué porcentaje cada cadena tiene el precio más barato (o empata en el más barato). Como muchos productos cuestan lo mismo en dos cadenas, los porcentajes se superponen y suman más de 100%.</p>
         </div>
         <div class="chart" style="grid-column:1/-1">
-          <div class="chart-title">Dispersión: cuánto varía el mismo producto entre cadenas</div>
+          <div class="chart-title">¿Cuánta diferencia de precio hay entre cadenas para un mismo producto?</div>
+          <div style="font-size:0.72rem;color:var(--muted);margin-bottom:4px">Cantidad de productos según la diferencia entre la cadena más cara y la más barata</div>
           <div id="chart-hist"></div>
-          <p class="chart-note">Distribución de la brecha (precio máximo ÷ mínimo) entre cadenas, producto por producto.</p>
+          <p class="chart-note">Para cada producto miramos cuánto más caro está en la cadena más cara frente a la más barata. La mayoría varía poco (menos de 5%), pero hay productos que cuestan bastante más en una cadena que en otra. Ejemplo: una barra en “50-100%” cuenta los productos que en la cadena más cara cuestan entre 1,5 y 2 veces lo que valen en la más barata.</p>
         </div>
       </div>
     </div>
@@ -217,20 +233,52 @@
   <!-- METODOLOGÍA -->
   <section class="panel-tab metodo" id="tab-metodo">
     <div class="callout" style="margin-bottom:16px">
-      <strong>En una línea.</strong> Medimos el precio de una canasta fija de productos idénticos en las tres grandes cadenas de Tucumán, usando los datos que ellas mismas están obligadas a publicar, y lo contrastamos con sus tiendas online.
+      <strong>En una línea.</strong> Medimos el precio de una canasta fija de productos idénticos en las tres grandes cadenas de supermercados de Tucumán, usando los datos que ellas mismas están obligadas a publicar por ley, y lo contrastamos con lo que cobran en sus tiendas online.
     </div>
-    <p><strong>Fuente.</strong> Dataset abierto <strong>SEPA</strong> (Sistema Electrónico de Publicidad de Precios Argentinos, Secretaría de Comercio), que publica a diario los precios que los supermercados están obligados a informar por sucursal (Res. 678/2020). Licencia CC-BY 4.0. Complementariamente, las tiendas online de cada cadena.</p>
-    <ol>
-      <li>Se consideran solo las sucursales de la provincia de <strong>Tucumán (AR-T)</strong>.</li>
-      <li>El precio de un producto en una cadena es la <strong>mediana</strong> de su precio de lista entre las sucursales tucumanas de esa cadena (robusta ante errores de carga).</li>
-      <li>La canasta es la <strong>intersección exacta de productos (mismo código EAN)</strong> entre las tres cadenas: se comparan productos idénticos, no similares.</li>
-      <li>La variación temporal usa un <strong>índice de Jevons</strong> (media geométrica de relativos de precio) sobre los pares cadena-producto presentes en ambas fechas: el estándar internacional para datos de <em>scanner</em>.</li>
-    </ol>
+
+    <h3>1. La fuente: qué es SEPA</h3>
+    <p><strong>SEPA</strong> (Sistema Electrónico de Publicidad de Precios Argentinos) es el sistema oficial creado por la Resolución 678/2020 de la Secretaría de Comercio. Obliga a las grandes cadenas de supermercados a informar <strong>todos los días</strong> el precio de cada producto en cada una de sus sucursales. Esa base es pública y abierta (licencia Creative Commons CC-BY 4.0) y se descarga desde el <a href="https://datos.produccion.gob.ar/dataset/sepa-precios" target="_blank" rel="noopener">portal de datos abiertos del Estado</a>. Cada archivo diario incluye, por cadena, tres tablas: comercios, sucursales (con su provincia) y productos (con código de barras EAN y precio de lista).</p>
+
+    <h3>2. Recorte geográfico: solo Tucumán</h3>
+    <p>De ese universo nacional nos quedamos únicamente con las <strong>sucursales ubicadas en la provincia de Tucumán</strong> (código <span style="font-family:monospace">AR-T</span>). No usamos promedios nacionales: lo que se publica acá son precios efectivamente informados para góndolas tucumanas.</p>
+
+    <h3>3. Precio de cada producto en cada cadena</h3>
+    <p>Una cadena puede tener varias sucursales en la provincia, con precios levemente distintos. Tomamos la <strong>mediana</strong> (el valor del medio) de esas sucursales, no el promedio. ¿Por qué? Porque la mediana no se deja arrastrar por un error de carga puntual: si una sucursal cargó un cero de más, el promedio se dispara, pero la mediana no se mueve.</p>
+
+    <h3>4. La canasta: comparar peras con peras</h3>
+    <p>Para que la comparación entre cadenas sea justa, la canasta es la <strong>intersección exacta de productos</strong>: nos quedamos solo con los artículos que tienen <strong>el mismo código de barras (EAN)</strong> en las tres cadenas. Así comparamos el mismo producto —misma marca, mismo tamaño—, no productos “parecidos”. Hoy la canasta tiene <span id="m-canasta">—</span> productos.</p>
+
+    <h3>5. La variación de precios: índice de Jevons</h3>
+    <p>Para medir cuánto cambiaron los precios entre dos fechas usamos el <strong>índice de Jevons</strong>, el estándar internacional para datos masivos de precios (<em>scanner data</em>). En vez de promediar los precios, promedia los <em>cambios</em> de precio de cada producto de forma geométrica:</p>
+    <div class="formula">variación = media geométrica de (precio&nbsp;hoy ÷ precio&nbsp;antes), sobre cada par cadena-producto</div>
+    <p>Se usa la media geométrica porque trata igual a subas y bajas (un +50% y un −33% se cancelan, como debe ser) y no necesita saber cuánto consume cada hogar de cada producto —un dato que no tenemos—. <strong>Importante:</strong> esto <em>no es el IPC</em>. El IPC mide el costo de vida de un hogar típico con una canasta ponderada por consumo; nosotros medimos la variación del precio de lista de una canasta fija de góndola.</p>
+
+    <h3>6. Precios de las tiendas online</h3>
+    <p>Aparte de SEPA, consultamos las <strong>páginas web</strong> de cada cadena para ver si el precio que declaran al Estado coincide con el que cobran online. Buscamos cada producto por su código de barras en la tienda de cada cadena. En <strong>Carrefour</strong> el precio se geolocaliza en Tucumán; <strong>Vea</strong> y <strong>Jumbo</strong> (grupo Cencosud) publican un precio online único, así que ahí comparamos web nacional contra SEPA-Tucumán. Es un <strong>contraste sobre una muestra</strong> de la canasta, no sobre todos los productos.</p>
+
+    <h3>7. Qué cadenas entran</h3>
+    <p>El índice cubre <strong>Carrefour, Vea y Jumbo</strong>, las de mayor presencia en la provincia. Otras cadenas informan a SEPA de forma marginal en Tucumán (pocas sucursales o catálogos incompletos) y quedan fuera del cálculo para no distorsionar la comparación.</p>
+
+    <h3>8. Limitaciones honestas</h3>
+    <ul>
+      <li>Son <strong>precios de lista</strong>: no incluyen descuentos por medio de pago, días de la semana ni programas de fidelización.</li>
+      <li>Cubren solo cadenas obligadas a reportar a SEPA; quedan afuera los comercios de cercanía y mayoristas.</li>
+      <li>La calidad depende de lo que cada cadena carga: un dato mal informado por la cadena entra tal cual (mitigamos con la mediana y comparando solo EAN idénticos).</li>
+      <li>El contraste con la web es una muestra, no un censo de todos los productos.</li>
+    </ul>
+
+    <h3>9. Glosario</h3>
+    <div class="gloss">
+      <div><dt>EAN</dt><dd>Código de barras del producto. Garantiza que comparamos exactamente el mismo artículo entre cadenas.</dd></div>
+      <div><dt>Canasta</dt><dd>Conjunto fijo de productos idénticos presentes en las tres cadenas, que seguimos en el tiempo.</dd></div>
+      <div><dt>Mediana</dt><dd>El valor del medio de un conjunto. Más robusta que el promedio ante valores atípicos.</dd></div>
+      <div><dt>Índice de Jevons</dt><dd>Media geométrica de los cambios de precio. Estándar para medir inflación con muchos precios.</dd></div>
+      <div><dt>Brecha</dt><dd>Cuántas veces más caro está un producto en la cadena más cara respecto de la más barata.</dd></div>
+    </div>
+
+    <h3>10. Reproducibilidad y actualización</h3>
     <p id="metodo-detalle"></p>
-    <p><strong>Cadenas.</strong> El índice cubre <strong>Carrefour, Vea y Jumbo</strong>, las de mayor presencia en Tucumán. Otras cadenas informan a SEPA de forma marginal en la provincia y quedan fuera del cálculo.</p>
-    <p><strong>Precios web.</strong> Se consultan las tiendas online de cada cadena por código EAN. En Carrefour el precio se geolocaliza en Tucumán; Vea y Jumbo publican un precio online único. Es un contraste sobre una muestra de la canasta, no un censo.</p>
-    <p><strong>Limitaciones.</strong> Los precios SEPA son de lista, sin descuentos por medio de pago ni promociones. Cubren solo cadenas obligadas a reportar, no comercios de cercanía. No es un IPC: mide precios de góndola de una canasta fija, no el costo de vida de un hogar.</p>
-    <p><strong>Reproducibilidad.</strong> Todo el procesamiento son scripts abiertos que parten de fuentes públicas. Código y datos: <a href="https://github.com/augustoucciardello1-sys/ciet" target="_blank" rel="noopener">repositorio del proyecto</a>.</p>
+    <p>Todo el procesamiento son <strong>scripts abiertos</strong> que parten de fuentes públicas: cualquiera puede reejecutarlos y obtener los mismos números. Código y datos: <a href="https://github.com/augustoucciardello1-sys/ciet" target="_blank" rel="noopener">repositorio del proyecto</a>. El relevamiento se irá actualizando para construir una serie histórica.</p>
   </section>
 </div>
 
@@ -290,6 +338,7 @@ fetch('../data/ips.json').then(r => r.json()).then(d => {
 
   // metodo detalle
   $('metodo-detalle').innerHTML = `<strong>Este relevamiento.</strong> ${d.metodo} Cadenas: ${nombres.join(', ')}.`;
+  if ($('m-canasta')) $('m-canasta').textContent = d.canasta_total_productos.toLocaleString('es-AR');
 
   renderCadenas();
   renderCharts();
@@ -322,14 +371,15 @@ function renderCharts() {
   const maxPremium = Math.max(...costos.map(c => c / minCosto - 1));
   $('chart-costo').innerHTML = principales.slice().sort((a, b) => a.canasta_costo - b.canasta_costo).map(c => {
     const premium = c.canasta_costo / minCosto - 1, esMin = premium < 1e-9;
-    const w = esMin ? 100 : Math.max((premium / maxPremium) * 100, 16);
-    return `<div class="bar-row"><span class="lbl">${c.cadena}</span><span class="track"><span class="fill ${esMin ? 'best' : ''}" style="width:${w}%">${esMin ? 'más barata' : '+' + (premium * 100).toFixed(1) + '%'}</span></span></div>`;
+    const w = esMin ? 100 : Math.max((premium / maxPremium) * 100, 3);
+    const val = esMin ? '<span class="val" style="color:var(--down)">más barata</span>' : `<span class="val">+${(premium * 100).toFixed(1)}%</span>`;
+    return `<div class="bar-row"><span class="lbl">${c.cadena}</span><span class="track"><span class="fill ${esMin ? 'best' : ''}" style="width:${w}%"></span></span>${val}</div>`;
   }).join('');
 
   const mb = d.mas_barato.slice().sort((a, b) => b.productos - a.productos), maxMb = Math.max(...mb.map(x => x.productos));
   $('chart-barato').innerHTML = mb.map(x => {
-    const w = (x.productos / maxMb) * 100, p = ((x.productos / d.canasta_total_productos) * 100).toFixed(0);
-    return `<div class="bar-row"><span class="lbl">${x.cadena}</span><span class="track"><span class="fill" style="width:${Math.max(w, 12)}%">${x.productos} · ${p}%</span></span></div>`;
+    const w = (x.productos / maxMb) * 100, p = Math.round((x.productos / d.canasta_total_productos) * 100);
+    return `<div class="bar-row"><span class="lbl">${x.cadena}</span><span class="track"><span class="fill" style="width:${Math.max(w, 3)}%"></span></span><span class="val">${p}%</span></div>`;
   }).join('');
 
   const h = d.histograma_brechas, maxH = Math.max(...h.map(x => x.cantidad));
