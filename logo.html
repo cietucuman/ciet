@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CIET — Kit de marca (logo y banner)</title>
+<style>
+  body { background:#f6f8fb; color:#17232f; font-family:"Segoe UI",-apple-system,Roboto,sans-serif; margin:0; padding:30px; line-height:1.5; }
+  .wrap { max-width:900px; margin:0 auto; }
+  h1 { color:#0b3d68; }
+  h2 { color:#1c6fb8; font-size:.85rem; text-transform:uppercase; letter-spacing:.1em; margin-top:32px; }
+  .card { background:#fff; border:1px solid #e3e9f1; border-radius:10px; padding:20px; margin-bottom:16px; }
+  .preview { display:flex; gap:20px; flex-wrap:wrap; align-items:center; }
+  button { background:#0b3d68; color:#fff; border:none; border-radius:8px; padding:11px 18px; font-weight:600; cursor:pointer; font-size:.9rem; }
+  button:hover { background:#1c6fb8; }
+  .note { font-size:.85rem; color:#5d6b7a; }
+  svg.prof { width:180px; height:180px; border-radius:16px; }
+  svg.ban { width:100%; max-width:600px; height:auto; border:1px solid #e3e9f1; border-radius:8px; }
+  code { background:#eef1f6; padding:2px 6px; border-radius:4px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Kit de marca — CIET</h1>
+  <p class="note">Descargá las imágenes y subilas a X. La foto de perfil es cuadrada (512×512) y el banner es 1500×500 (el tamaño exacto del encabezado de X).</p>
+
+  <h2>Foto de perfil (512 × 512)</h2>
+  <div class="card">
+    <div class="preview">
+      <div id="prof-holder"></div>
+      <div>
+        <button onclick="descargar('prof', 512, 512, 'ciet-perfil.png')">Descargar PNG</button>
+        <p class="note">Para la foto de perfil de X / Instagram.</p>
+      </div>
+    </div>
+  </div>
+
+  <h2>Banner / Portada (1500 × 500)</h2>
+  <div class="card">
+    <div id="ban-holder"></div>
+    <div style="margin-top:14px">
+      <button onclick="descargar('ban', 1500, 500, 'ciet-banner.png')">Descargar PNG</button>
+      <p class="note">Para el encabezado de tu perfil de X.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+const MAPA = 'M40.3,112.1 L37.8,114.1 L36.8,114.8 L36.0,116.5 L35.2,117.6 L34.7,118.4 L33.8,119.5 L32.4,119.2 L31.6,119.0 L31.0,118.6 L30.8,117.5 L30.3,117.3 L27.7,115.6 L26.3,111.3 L26.2,109.0 L23.2,104.9 L20.9,106.7 L20.5,107.9 L19.8,108.3 L19.4,109.6 L18.1,103.8 L14.0,97.4 L11.2,87.5 L11.7,80.1 L6.9,75.9 L4.7,71.1 L10.7,63.9 L14.8,57.1 L12.0,49.3 L15.6,40.1 L0.5,30.3 L0.0,25.0 L1.3,19.6 L2.9,13.3 L24.9,14.5 L25.3,11.7 L25.6,8.5 L26.4,6.2 L29.1,3.4 L32.1,3.4 L34.8,2.0 L36.7,2.1 L38.3,2.3 L40.2,2.9 L42.3,2.1 L43.4,1.5 L44.0,0.5 L45.0,0.1 L46.2,0.5 L47.4,1.5 L48.0,2.0 L48.5,3.7 L48.9,4.8 L49.2,5.9 L66.1,9.9 L67.9,14.7 L68.3,14.6 L68.7,14.5 L69.4,14.3 L70.0,13.6 L70.8,13.8 L71.6,13.0 L72.2,11.9 L73.8,11.1 L74.7,10.6 L75.9,10.2 L77.2,10.2 L78.1,10.8 L79.1,11.2 L79.9,11.0 L81.2,11.0 L82.0,11.1 L82.8,11.3 L83.6,11.1 L84.1,10.8 L84.8,10.7 L85.4,10.3 L85.7,10.7 L86.5,10.4 L86.9,10.0 L87.8,10.0 L88.5,10.2 L89.1,10.4 L89.5,10.0 L90.4,10.2 L91.4,9.9 L91.9,11.7 L90.3,23.2 L90.7,28.7 L78.3,54.3 L65.6,87.0 L63.0,104.1 L44.5,109.8 L40.3,112.1 Z';
+
+// mapa escalado a un cuadro de lado L, centrado, con la capital
+function mapaSVG(cx, cy, L) {
+  const s = (L * 0.72) / 120;            // el mapa mide 120 de alto
+  const w = 93 * s, h = 120 * s;
+  const tx = cx - w / 2 - 0.5 * s, ty = cy - h / 2;
+  const dot = `<circle cx="${tx + 52.4 * s}" cy="${ty + 46.9 * s}" r="${L * 0.028}" fill="#1c6fb8"/>`;
+  return `<path transform="translate(${tx},${ty}) scale(${s})" fill="#fff" d="${MAPA}"/>${dot}`;
+}
+
+const profSVG = `<svg class="prof" id="prof" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#0b3d68"/>${mapaSVG(256, 256, 512)}</svg>`;
+
+const banSVG = `<svg class="ban" id="ban" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="500" fill="#0b3d68"/>
+  <rect x="90" y="110" width="280" height="280" rx="52" fill="#0f4a7d"/>
+  ${mapaSVG(230, 250, 280)}
+  <text x="440" y="215" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="120" letter-spacing="4">CIET</text>
+  <text x="446" y="285" fill="#cfe0f0" font-family="Segoe UI,Arial,sans-serif" font-size="40">Centro de Investigación Económica de Tucumán</text>
+  <text x="446" y="345" fill="#9dc4e6" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="600">Índice de Precios de Supermercados · datos abiertos</text>
+</svg>`;
+
+document.getElementById('prof-holder').innerHTML = profSVG;
+document.getElementById('ban-holder').innerHTML = banSVG;
+
+function descargar(id, w, h, nombre) {
+  const svg = document.getElementById(id);
+  const xml = new XMLSerializer().serializeToString(svg);
+  const img = new Image();
+  img.onload = () => {
+    const c = document.createElement('canvas');
+    c.width = w; c.height = h;
+    const ctx = c.getContext('2d');
+    ctx.drawImage(img, 0, 0, w, h);
+    c.toBlob(b => {
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(b); a.download = nombre; a.click();
+    }, 'image/png');
+  };
+  img.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(xml)));
+}
+</script>
+</body>
+</html>
