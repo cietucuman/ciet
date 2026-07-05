@@ -44,6 +44,9 @@
 
   .about { border: 1px solid var(--border); border-radius: 8px; padding: 22px 24px; font-size: 0.93rem; color: var(--muted); background: var(--surface); }
   .about strong { color: var(--text); }
+  .contacto { display: flex; flex-wrap: wrap; gap: 10px; }
+  .cbtn { border: 1px solid var(--border); border-radius: 8px; padding: 11px 16px; text-decoration: none; color: var(--navy); font-weight: 600; font-size: 0.9rem; transition: border-color .15s, background .15s; }
+  .cbtn:hover { border-color: var(--blue); background: var(--blue-soft); }
   footer { border-top: 1px solid var(--border); margin-top: 48px; }
   footer .wrap { padding: 22px 24px; color: var(--muted); font-size: 0.78rem; }
 </style>
@@ -106,6 +109,13 @@
   <h2>Sobre el CIET</h2>
   <div class="about">
     <p>El <strong>Centro de Investigación Económica de Tucumán</strong> es un proyecto independiente de investigación y divulgación económica centrado en la provincia. Trabaja exclusivamente con fuentes públicas y metodologías abiertas: cada número puede verificarse y reproducirse. Sin fines comerciales.</p>
+  </div>
+
+  <h2>Contacto</h2>
+  <div class="contacto">
+    <a class="cbtn" href="https://x.com/ciettucuman" target="_blank" rel="noopener">𝕏 @ciettucuman</a>
+    <a class="cbtn" href="mailto:ciet.tucuman@gmail.com">✉ ciet.tucuman@gmail.com</a>
+    <a class="cbtn" href="https://github.com/cietucuman/ciet" target="_blank" rel="noopener">⌥ Código abierto</a>
   </div>
 </div>
 
