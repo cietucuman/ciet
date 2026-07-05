@@ -76,6 +76,11 @@
   .hist .collbl { font-size: 0.66rem; color: var(--muted); text-align: center; }
 
   .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 4px 0 12px; }
+  .segmented { display: inline-flex; flex-wrap: wrap; gap: 0; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; margin-bottom: 16px; }
+  .segmented .seg { background: #fff; border: none; border-right: 1px solid var(--border); padding: 9px 18px; font-size: 0.88rem; font-weight: 600; color: var(--muted); cursor: pointer; }
+  .segmented .seg:last-child { border-right: none; }
+  .segmented .seg:hover { background: var(--surface); color: var(--navy); }
+  .segmented .seg.active { background: var(--navy); color: #fff; }
   input[type=search] { flex: 1; min-width: 200px; background: #fff; border: 1px solid var(--border); border-radius: 6px; color: var(--text); padding: 10px 12px; font-size: 0.9rem; }
   select { background: #fff; border: 1px solid var(--border); border-radius: 6px; color: var(--text); padding: 10px 12px; font-size: 0.85rem; }
   .count { font-size: 0.8rem; color: var(--muted); margin-bottom: 10px; }
@@ -186,13 +191,12 @@
     <div id="serie-vacio" style="display:none" class="callout">La serie temporal se está construyendo (se acumula día a día a partir de los últimos dumps de SEPA). Vuelve pronto.</div>
     <div id="serie-cont" style="display:none">
       <p class="note" id="serie-desc"></p>
-      <div class="controls">
-        <span style="font-size:0.82rem;color:var(--muted)">Frecuencia:</span>
-        <select id="serie-freq">
-          <option value="dia">Diaria</option>
-          <option value="semana">Semanal</option>
-          <option value="mes">Mensual</option>
-        </select>
+      <div style="font-size:0.8rem;color:var(--muted);margin-bottom:6px;font-weight:600">Ver los datos por período:</div>
+      <div class="segmented" id="serie-freq">
+        <button class="seg active" data-freq="dia">Diario</button>
+        <button class="seg" data-freq="semana">Semanal</button>
+        <button class="seg" data-freq="mes">Mensual</button>
+        <button class="seg" data-freq="anio">Anual</button>
       </div>
       <div class="chart"><div class="chart-title">Índice de precios en el tiempo (base 100)</div>
         <div id="chart-serie"></div>
@@ -436,14 +440,18 @@ function cargarSerie() {
     if (!d.puntos || d.puntos.length < 1) { $('serie-vacio').style.display = 'block'; return; }
     $('serie-cont').style.display = 'block';
     $('serie-desc').innerHTML = `Índice encadenado de precios (Jevons por tramo) sobre ${d.cadenas.map(disp).join(', ')}. Base 100 en el primer día registrado. Actualizado al ${fechaLarga(d.actualizado)}.`;
-    $('serie-freq').addEventListener('change', pintarSerie);
+    $('serie-freq').addEventListener('click', e => {
+      const b = e.target.closest('.seg'); if (!b) return;
+      document.querySelectorAll('#serie-freq .seg').forEach(s => s.classList.toggle('active', s === b));
+      pintarSerie();
+    });
     pintarSerie();
   }).catch(() => { $('serie-loading').style.display = 'none'; $('serie-vacio').style.display = 'block'; });
 }
 function isoSemana(f) { const dt = new Date(f + 'T12:00:00'); const on = new Date(Date.UTC(dt.getFullYear(), dt.getMonth(), dt.getDate())); const dn = on.getUTCDay() || 7; on.setUTCDate(on.getUTCDate() + 4 - dn); const ys = new Date(Date.UTC(on.getUTCFullYear(), 0, 1)); const wk = Math.ceil((((on - ys) / 86400000) + 1) / 7); return on.getUTCFullYear() + '-S' + String(wk).padStart(2, '0'); }
 function agrupar(puntos, freq) {
   if (freq === 'dia') return puntos.slice();
-  const key = freq === 'semana' ? isoSemana : (f => f.slice(0, 7));
+  const key = freq === 'semana' ? isoSemana : (freq === 'anio' ? (f => f.slice(0, 4)) : (f => f.slice(0, 7)));
   const grupos = {};
   for (const p of puntos) { const k = key(p.fecha); (grupos[k] = grupos[k] || []).push(p); }
   return Object.entries(grupos).sort().map(([k, arr]) => {
@@ -453,7 +461,7 @@ function agrupar(puntos, freq) {
   });
 }
 function pintarSerie() {
-  const freq = $('serie-freq').value;
+  const freq = (document.querySelector('#serie-freq .seg.active') || {}).dataset?.freq || 'dia';
   const pts = agrupar(SERIE.puntos, freq);
   // variación punto a punto del índice agregado
   for (let i = 0; i < pts.length; i++) pts[i].var = i === 0 ? null : (pts[i].indice / pts[i - 1].indice - 1) * 100;
