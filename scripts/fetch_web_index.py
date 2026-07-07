@@ -40,10 +40,13 @@ TIENDAS = {
 PRINCIPALES = ["Carrefour", "Vea", "Jumbo", "Comodín", "ChangoMás"]
 
 
-def get(url, intentos=2):
+def get(url, intentos=2, cookie=None):
     for i in range(intentos):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            h = {"User-Agent": UA}
+            if cookie:
+                h["Cookie"] = f"vtex_segment={cookie}"
+            req = urllib.request.Request(url, headers=h)
             with urllib.request.urlopen(req, timeout=12) as r:
                 return json.load(r)
         except Exception:
@@ -60,12 +63,34 @@ def region_id(dominio):
     return None
 
 
-def precio_por_ean(dominio, ean, region):
+def segmento_tucuman(dominio):
+    """Cencosud (Vea/Jumbo) no expone /regions; su precio de Tucumán se obtiene
+    con la cookie vtex_segment que setea la API de sesión al fijar el CP 4000."""
+    import http.cookiejar
+    cj = http.cookiejar.CookieJar()
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    body = json.dumps({"public": {"country": {"value": "ARG"},
+                                  "postalCode": {"value": CP_TUCUMAN}}}).encode()
+    for url in (f"https://{dominio}/api/sessions",
+                f"https://{dominio}/api/sessions?items=checkout.regionId"):
+        try:
+            req = urllib.request.Request(url, data=body, method="POST",
+                                         headers={"User-Agent": UA, "Content-Type": "application/json"})
+            op.open(req, timeout=12)
+        except Exception:
+            pass
+    for c in cj:
+        if c.name == "vtex_segment":
+            return c.value
+    return None
+
+
+def precio_por_ean(dominio, ean, region, cookie=None):
     q = urllib.parse.quote(f"alternateIds_Ean:{ean}")
     url = f"https://{dominio}/api/catalog_system/pub/products/search?fq={q}"
     if region:
         url += f"&regionId={urllib.parse.quote(region)}"
-    d = get(url)
+    d = get(url, cookie=cookie)
     if not isinstance(d, list) or not d:
         return None
     prod = d[0]
@@ -131,13 +156,16 @@ def main():
     else:
         muestra = productos
 
-    print("Resolviendo regiones (Tucumán)…", file=sys.stderr)
-    regiones, geoloc = {}, {}
+    print("Resolviendo contexto Tucumán…", file=sys.stderr)
+    regiones, segmentos, geoloc = {}, {}, {}
     for n, dom in TIENDAS.items():
         r = region_id(dom)
+        seg = segmento_tucuman(dom) if not r else None
         regiones[n] = r
-        geoloc[n] = bool(r)
-        print(f"  {n}: {'Tucumán' if r else 'precio online nacional'}", file=sys.stderr)
+        segmentos[n] = seg
+        geoloc[n] = bool(r or seg)
+        modo = "Tucumán (región)" if r else ("Tucumán (segmento)" if seg else "nacional")
+        print(f"  {n}: {modo}", file=sys.stderr)
 
     # precios por cadena por EAN
     precios = defaultdict(dict)   # cadena -> ean -> precio
@@ -149,7 +177,7 @@ def main():
         ean = p["ean"]
         desc[ean] = p["descripcion"]
         for n, dom in TIENDAS.items():
-            res = precio_por_ean(dom, ean, regiones[n])
+            res = precio_por_ean(dom, ean, regiones[n], cookie=segmentos[n])
             if res:
                 precios[n][ean] = res["precio"]
                 links[n][ean] = res["link"]

@@ -105,16 +105,40 @@ TERMINOS = [
 ]
 
 
-def get(url, intentos=2):
+def get(url, intentos=2, cookie=None):
     for i in range(intentos):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            h = {"User-Agent": UA}
+            if cookie:
+                h["Cookie"] = f"vtex_segment={cookie}"
+            req = urllib.request.Request(url, headers=h)
             with urllib.request.urlopen(req, timeout=12) as r:
                 return json.load(r)
         except Exception:
             if i == intentos - 1:
                 return None
             time.sleep(0.6)
+    return None
+
+
+def segmento_tucuman(dom):
+    """Cencosud (Vea/Jumbo): precio de Tucumán vía la cookie vtex_segment que
+    setea la API de sesión con el CP 4000 (su /regions no funciona)."""
+    import http.cookiejar
+    cj = http.cookiejar.CookieJar()
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    body = json.dumps({"public": {"country": {"value": "ARG"},
+                                  "postalCode": {"value": CP}}}).encode()
+    for u in (f"https://{dom}/api/sessions",
+              f"https://{dom}/api/sessions?items=checkout.regionId"):
+        try:
+            op.open(urllib.request.Request(u, data=body, method="POST",
+                    headers={"User-Agent": UA, "Content-Type": "application/json"}), timeout=12)
+        except Exception:
+            pass
+    for c in cj:
+        if c.name == "vtex_segment":
+            return c.value
     return None
 
 
@@ -167,7 +191,7 @@ def limpiar_nombre(n):
     return n[:90]
 
 
-def productos_termino(dom, termino, region, tope):
+def productos_termino(dom, termino, region, tope, cookie=None):
     out, frm = [], 0
     ft = urllib.parse.quote(termino)
     while frm < tope:
@@ -175,7 +199,7 @@ def productos_termino(dom, termino, region, tope):
                f"?ft={ft}&_from={frm}&_to={frm+49}")
         if region:
             url += f"&regionId={urllib.parse.quote(region)}"
-        d = get(url)
+        d = get(url, cookie=cookie)
         if not isinstance(d, list) or not d:
             break
         for p in d:
@@ -223,12 +247,14 @@ def main():
     geoloc = {}
     for nombre, dom in TIENDAS.items():
         region = region_id(dom)
-        geoloc[nombre] = bool(region)
-        print(f"{nombre}: geoloc={'sí' if region else 'no'}", file=sys.stderr)
+        seg = segmento_tucuman(dom) if not region else None
+        geoloc[nombre] = bool(region or seg)
+        modo = "región" if region else ("segmento" if seg else "nacional")
+        print(f"{nombre}: geoloc={modo}", file=sys.stderr)
         # 1) juntar los productos de la cadena (dedup por clave)
         chain = {}
         for i, term in enumerate(TERMINOS, 1):
-            for pr in productos_termino(dom, term, region, args.tope):
+            for pr in productos_termino(dom, term, region, args.tope, cookie=seg):
                 clave = pr["e"] or pr["l"]
                 if clave and clave not in chain:
                     chain[clave] = pr
