@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-07-08",
+ "actualizado": "2026-07-09",
  "base": "índice de precios online encadenado (Jevons), base 100 en el primer día",
  "cadenas": [
   "Carrefour",
@@ -22,6 +22,13 @@
    "var_pct": -1.003,
    "canasta_n": 55,
    "pares": 270
+  },
+  {
+   "fecha": "2026-07-09",
+   "indice": 98.56,
+   "var_pct": -0.44,
+   "canasta_n": 53,
+   "pares": 265
   }
  ]
 }
