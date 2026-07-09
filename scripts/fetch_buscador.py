@@ -10,6 +10,7 @@ Uso:
     python3 fetch_buscador.py [--tope 150] [-o data/buscador.json]
 """
 import argparse
+import base64
 import json
 import re
 import statistics
@@ -256,6 +257,72 @@ def limpiar_nombre(n):
     return n[:90]
 
 
+def trade_policy(seg):
+    """Canal de ventas (trade policy) que viene codificado en el segmento de
+    Cencosud; lo necesita la intelligent-search para dar la vista de Tucumán."""
+    try:
+        dec = json.loads(base64.b64decode(seg + "==").decode("utf-8", "ignore"))
+        return str(dec.get("channel") or "1")
+    except Exception:
+        return "1"
+
+
+def productos_is(dom, termino, tp, tope, cookie=None):
+    """Cencosud (Vea/Jumbo): usa la intelligent-search, que es lo que ve el
+    cliente en la web. Sólo devuelve productos REALMENTE disponibles en la
+    región, así que evita los listados fantasma con precios viejos que el
+    catálogo marca como disponibles (p. ej. una Coca 310cc que no se vende)."""
+    out, frm = [], 0
+    q = urllib.parse.quote(termino)
+    while frm < tope:
+        url = (f"https://{dom}/api/io/_v/api/intelligent-search/product_search/"
+               f"trade-policy/{tp}?query={q}&from={frm}&to={frm+49}")
+        d = get(url, cookie=cookie)
+        prods = d.get("products") if isinstance(d, dict) else None
+        if not prods:
+            break
+        for p in prods:
+            try:
+                item = p["items"][0]
+                # sólo la ficha del vendedor TITULAR (sellerDefault): es la que la
+                # web trata como comprable. Los listados fantasma (Coca 310cc, o
+                # con precios falsos tipo $0/$50) figuran con seller no-titular.
+                seller = next((s for s in item.get("sellers", [])
+                               if s.get("sellerDefault")), None)
+                if not seller:
+                    continue
+                o = seller["commertialOffer"]
+                precio = o.get("Price")
+                if not precio or precio < 100 or (o.get("AvailableQuantity") or 0) <= 0:
+                    continue
+                eans = [it.get("ean") for it in p.get("items", []) if it.get("ean")]
+                link = p.get("link") or ""
+                if link.startswith("/"):
+                    link = f"https://{dom}{link}"
+                prod = {
+                    "n": limpiar_nombre(p.get("productName", "")),
+                    "m": (p.get("brand") or "")[:28],
+                    "e": item.get("ean") or "",
+                    "eans": eans,
+                    "p": round(precio, 2),
+                    "l": link,
+                    "i": (item.get("images") or [{}])[0].get("imageUrl") or "",
+                    "sku": item.get("itemId"),
+                    "sel": seller.get("sellerId"),
+                }
+                lista = o.get("ListPrice") or 0
+                if precio * 1.03 < lista <= precio * 2.5:
+                    prod["op"] = round(lista, 2)
+                out.append(prod)
+            except Exception:
+                continue
+        if len(prods) < 50:
+            break
+        frm += 50
+        time.sleep(0.07)
+    return out
+
+
 def productos_termino(dom, termino, region, tope, cookie=None):
     out, frm = [], 0
     ft = urllib.parse.quote(termino)
@@ -319,13 +386,19 @@ def main():
     for nombre, dom in TIENDAS.items():
         region = region_id(dom)
         seg = segmento_tucuman(dom) if not region else None
+        tp = trade_policy(seg) if seg else None
         geoloc[nombre] = bool(region or seg)
-        modo = "región" if region else ("segmento" if seg else "nacional")
+        modo = "región" if region else ("intelligent-search" if seg else "nacional")
         print(f"{nombre}: geoloc={modo}", file=sys.stderr)
-        # 1) juntar los productos de la cadena (dedup por clave)
+        # 1) juntar los productos de la cadena (dedup por clave).
+        # Cencosud (Vea/Jumbo) via intelligent-search: sólo disponibles reales.
         chain = {}
         for i, term in enumerate(TERMINOS, 1):
-            for pr in productos_termino(dom, term, region, args.tope, cookie=seg):
+            if seg:
+                prods = productos_is(dom, term, tp, args.tope, cookie=seg)
+            else:
+                prods = productos_termino(dom, term, region, args.tope)
+            for pr in prods:
                 clave = pr["e"] or pr["l"]
                 if clave and clave not in chain:
                     chain[clave] = pr
