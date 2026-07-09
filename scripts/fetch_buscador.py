@@ -64,6 +64,47 @@ def clave_fuzzy(nombre, marca):
     toks = [t for t in toks if (t not in STOP and len(t) > 1) or t.isdigit()]
     return " ".join(sorted(set(toks)))
 
+
+def _absorber(f, g):
+    """Vuelca el grupo g dentro de f (precio mínimo por cadena, une EAN/imagen)."""
+    gsize, fsize = len(g["pr"]), len(f["pr"])
+    for cad, o in g["pr"].items():
+        if cad not in f["pr"] or o[0] < f["pr"][cad][0]:
+            f["pr"][cad] = o
+    f.setdefault("eans", set()).update(g.get("eans") or ())
+    if not f.get("i") and g.get("i"):
+        f["i"] = g["i"]
+    if gsize > fsize:            # muestra el nombre de la cadena que aparece en más súper
+        f["n"], f["m"] = g["n"], g["m"]
+
+
+def fusion_por_ean(grupos):
+    """Une grupos que comparten CUALQUIER código de barras: identidad garantizada
+    (dos cadenas cargan el mismo artículo con varios EAN). Union-find sobre los EAN."""
+    parent = list(range(len(grupos)))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    ean2idx = {}
+    for i, g in enumerate(grupos):
+        for e in g.get("eans") or ():
+            if e in ean2idx:
+                parent[find(i)] = find(ean2idx[e])
+            else:
+                ean2idx[e] = i
+    reps = {}
+    for i, g in enumerate(grupos):
+        r = find(i)
+        if r not in reps:
+            reps[r] = g
+        else:
+            _absorber(reps[r], g)
+    return list(reps.values())
+
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126 Safari/537.36")
 CP = "4000"
@@ -237,10 +278,14 @@ def productos_termino(dom, termino, region, tope, cookie=None):
                 disponible = o.get("IsAvailable") and (o.get("AvailableQuantity") or 0) >= 3
                 if not precio or precio < 100 or not disponible:
                     continue
+                # todos los códigos de barras del producto (cada cadena carga el
+                # mismo artículo con varios EAN; compartir uno = mismo producto)
+                eans = [it.get("ean") for it in p.get("items", []) if it.get("ean")]
                 prod = {
                     "n": limpiar_nombre(p.get("productName", "")),
                     "m": (p.get("brand") or "")[:28],
                     "e": item.get("ean") or "",
+                    "eans": eans,
                     "p": round(precio, 2),
                     "l": p.get("link") or "",
                     "i": (item.get("images") or [{}])[0].get("imageUrl") or "",
@@ -305,7 +350,9 @@ def main():
             clave = pr["e"] or pr["l"]
             g = grupos.get(clave)
             if g is None:
-                g = grupos[clave] = {"n": pr["n"], "m": pr["m"], "i": pr.get("i", ""), "pr": {}}
+                g = grupos[clave] = {"n": pr["n"], "m": pr["m"], "i": pr.get("i", ""),
+                                     "pr": {}, "eans": set()}
+            g["eans"].update(pr.get("eans") or [])
             if not g["i"] and pr.get("i"):
                 g["i"] = pr["i"]
             oferta = [pr["p"], pr["l"]]
@@ -314,9 +361,14 @@ def main():
             g["pr"][nombre] = oferta
         print(f"  {nombre}: {len(chain)} productos", file=sys.stderr)
 
+    # 1.5) fusión por EAN COMPARTIDO (identidad garantizada): si dos grupos
+    # comparten cualquier código de barras, son el mismo producto. Más confiable
+    # que el nombre; resuelve casos como "Monster VR" == "Monster Rossi".
+    grupos = fusion_por_ean(list(grupos.values()))
+
     # 2º agrupado: unir productos idénticos con distinto EAN (por nombre normalizado)
     fusion = {}
-    for g in grupos.values():
+    for g in grupos:
         k = clave_fuzzy(g["n"], g["m"])
         f = fusion.get(k)
         if f is None:
