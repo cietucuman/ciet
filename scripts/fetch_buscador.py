@@ -11,6 +11,7 @@ Uso:
 """
 import argparse
 import base64
+import concurrent.futures
 import json
 import re
 import statistics
@@ -208,17 +209,22 @@ def segmento_tucuman(dom):
     return None
 
 
-def region_id(dom):
-    d = get(f"https://{dom}/api/checkout/pub/regions/?country=ARG&postalCode={CP}")
+def region_id(dom, sc=None, cookie=None):
+    url = f"https://{dom}/api/checkout/pub/regions/?country=ARG&postalCode={CP}"
+    if sc:                       # Cencosud necesita el canal de ventas y el segmento
+        url += f"&sc={sc}"
+    d = get(url, cookie=cookie)
     return d[0].get("id") if isinstance(d, list) and d else None
 
 
-def post_json(url, body, intentos=2):
+def post_json(url, body, intentos=2, cookie=None):
     data = json.dumps(body).encode()
     for i in range(intentos):
         try:
-            req = urllib.request.Request(url, data=data, method="POST",
-                                         headers={"User-Agent": UA, "Content-Type": "application/json"})
+            h = {"User-Agent": UA, "Content-Type": "application/json"}
+            if cookie:
+                h["Cookie"] = f"vtex_segment={cookie}"
+            req = urllib.request.Request(url, data=data, method="POST", headers=h)
             with urllib.request.urlopen(req, timeout=12) as r:
                 return json.load(r)
         except Exception:
@@ -228,24 +234,64 @@ def post_json(url, body, intentos=2):
     return None
 
 
-def precios_tucuman(dom, region, items):
-    """Precio REAL de entrega en Tucumán vía simulación de checkout (sin login).
-    items: lista de (sku, seller). Devuelve {sku: precio}."""
+def precios_tucuman(dom, region, items, sc=None, cookie=None):
+    """Simulación de checkout (sin login): la prueba real de si un producto se
+    puede comprar y recibir en Tucumán. items: [(sku, seller)].
+    Devuelve {sku: (precio, entregable)} — 'entregable' viene del propio checkout
+    (availability='available'); lo demás es cannotBeDelivered/withoutStock/etc."""
     if not region or not items:
         return {}
     url = f"https://{dom}/api/checkout/pub/orderForms/simulation?RnbBehavior=0&regionId={urllib.parse.quote(region)}"
+    if sc:
+        url += f"&sc={sc}"
     out = {}
     for i in range(0, len(items), 40):
         body = {"items": [{"id": s, "quantity": 1, "seller": v} for s, v in items[i:i + 40]],
                 "country": "ARG", "postalCode": CP}
-        d = post_json(url, body)
+        d = post_json(url, body, cookie=cookie)
         if d and d.get("items"):
             for it in d["items"]:
+                sid = str(it.get("id") or "")
+                if not sid:
+                    continue
                 sp = it.get("sellingPrice")
-                if sp and it.get("id"):
-                    out[str(it["id"])] = round(sp / 100, 2)
+                out[sid] = (round(sp / 100, 2) if sp else None,
+                            it.get("availability") == "available")
         time.sleep(0.2)
     return out
+
+
+def _entregable_cencosud(dom, region, sku, sel, sc, cookie):
+    """¿Se puede comprar y recibir en Tucumán? (simulación de 1 solo ítem).
+    Devuelve True/False, o None si no hubo respuesta (no se descarta ante error)."""
+    url = (f"https://{dom}/api/checkout/pub/orderForms/simulation?RnbBehavior=0"
+           f"&sc={sc}&regionId={urllib.parse.quote(region)}")
+    body = {"items": [{"id": sku, "quantity": 1, "seller": sel}],
+            "country": "ARG", "postalCode": CP}
+    d = post_json(url, body, cookie=cookie)
+    if not d or not d.get("items"):
+        return None
+    return d["items"][0].get("availability") == "available"
+
+
+def disponibles_cencosud(dom, region, items, sc, cookie, workers=6):
+    """Set de SKUs entregables en Tucumán. Se consulta de a 1 (el checkout
+    batchea por peso y falsea la disponibilidad si el carrito es grande);
+    se paraleliza con un pool chico para que sea rápido y a la vez cortés."""
+    if not region or not items:
+        return set(), 0
+    disp, sin_rpta = set(), 0
+
+    def check(it):
+        return it[0], _entregable_cencosud(dom, region, it[0], it[1], sc, cookie)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
+        for sku, ent in ex.map(check, items):
+            if ent is None:          # error de red: se conserva (no borrar por las dudas)
+                disp.add(sku); sin_rpta += 1
+            elif ent:
+                disp.add(sku)
+    return disp, sin_rpta
 
 
 def limpiar_nombre(n):
@@ -268,15 +314,16 @@ def trade_policy(seg):
 
 
 def productos_is(dom, termino, tp, tope, cookie=None):
-    """Cencosud (Vea/Jumbo): usa la intelligent-search, que es lo que ve el
-    cliente en la web. Sólo devuelve productos REALMENTE disponibles en la
-    región, así que evita los listados fantasma con precios viejos que el
-    catálogo marca como disponibles (p. ej. una Coca 310cc que no se vende)."""
+    """Cencosud (Vea/Jumbo): usa la intelligent-search (lo que ve el cliente en
+    la web) con hideUnavailableItems para descartar fantasmas de precio ($0, $50,
+    productos discontinuados). La entrega real a Tucumán la confirma después la
+    simulación de checkout, que es la que distingue lo que se puede comprar."""
     out, frm = [], 0
     q = urllib.parse.quote(termino)
     while frm < tope:
         url = (f"https://{dom}/api/io/_v/api/intelligent-search/product_search/"
-               f"trade-policy/{tp}?query={q}&from={frm}&to={frm+49}")
+               f"trade-policy/{tp}?query={q}&from={frm}&to={frm+49}"
+               f"&hideUnavailableItems=true")
         d = get(url, cookie=cookie)
         prods = d.get("products") if isinstance(d, dict) else None
         if not prods:
@@ -284,13 +331,8 @@ def productos_is(dom, termino, tp, tope, cookie=None):
         for p in prods:
             try:
                 item = p["items"][0]
-                # sólo la ficha del vendedor TITULAR (sellerDefault): es la que la
-                # web trata como comprable. Los listados fantasma (Coca 310cc, o
-                # con precios falsos tipo $0/$50) figuran con seller no-titular.
                 seller = next((s for s in item.get("sellers", [])
-                               if s.get("sellerDefault")), None)
-                if not seller:
-                    continue
+                               if s.get("sellerDefault")), None) or item["sellers"][0]
                 o = seller["commertialOffer"]
                 precio = o.get("Price")
                 if not precio or precio < 100 or (o.get("AvailableQuantity") or 0) <= 0:
@@ -387,6 +429,9 @@ def main():
         region = region_id(dom)
         seg = segmento_tucuman(dom) if not region else None
         tp = trade_policy(seg) if seg else None
+        # región de checkout para la simulación: directa en las de región; para
+        # Cencosud (Vea/Jumbo) hace falta el canal de ventas (sc) y el segmento.
+        region_sim = region or (region_id(dom, sc=tp, cookie=seg) if seg else None)
         geoloc[nombre] = bool(region or seg)
         modo = "región" if region else ("intelligent-search" if seg else "nacional")
         print(f"{nombre}: geoloc={modo}", file=sys.stderr)
@@ -404,20 +449,29 @@ def main():
                     chain[clave] = pr
             if i % 30 == 0:
                 print(f"  {nombre}: {i}/{len(TERMINOS)} términos · {len(chain)} productos", file=sys.stderr)
-        # 2) precio REAL de entrega en Tucumán (simulación de checkout, sin login)
+        # 2) simulación de checkout (sin login)
+        porsku = {}
+        for pr in chain.values():
+            if pr.get("sku"):
+                porsku.setdefault(pr["sku"], (pr["sel"], []))[1].append(pr)
+        items = [(sku, sel) for sku, (sel, _) in porsku.items()]
         if region:
-            porsku = {}
-            for pr in chain.values():
-                if pr.get("sku"):
-                    porsku.setdefault(pr["sku"], (pr["sel"], []))[1].append(pr)
-            items = [(sku, sel) for sku, (sel, _) in porsku.items()]
+            # cadenas de región: el precio real de Tucumán es el simulado (batch OK)
             sim = precios_tucuman(dom, region, items)
             for sku, (_, prs) in porsku.items():
-                if sku in sim:
+                info = sim.get(sku)
+                if info and info[0]:
                     for pr in prs:
-                        pr["p"] = sim[sku]
+                        pr["p"] = info[0]
                         pr.pop("op", None)  # el precio simulado ya es el efectivo
             print(f"  {nombre}: precio Tucumán aplicado a {len(sim)}/{len(items)}", file=sys.stderr)
+        elif seg and region_sim and items:
+            # Cencosud (Vea/Jumbo): descarta lo NO entregable a Tucumán (de a 1).
+            disp, sin_rpta = disponibles_cencosud(dom, region_sim, items, tp, seg)
+            chain = {k: pr for k, pr in chain.items()
+                     if not pr.get("sku") or pr["sku"] in disp}
+            print(f"  {nombre}: {len(chain)} entregables · {len(items) - len(disp)} descartados "
+                  f"(no-comprables) · {sin_rpta} sin respuesta", file=sys.stderr)
         # 3) volcar al agrupado global
         for pr in chain.values():
             clave = pr["e"] or pr["l"]
