@@ -52,6 +52,24 @@ def _norm(s):
                    if unicodedata.category(c) != "Mn")
 
 
+# LISTA NEGRA: productos que NO se venden en Tucumán aunque las webs de Cencosud
+# (Vea/Jumbo) los listen como "disponibles" y su carrito recién avise "no
+# disponible" al final. Como ninguna API expone ese estado, se excluyen a mano.
+# Cada entrada es un conjunto de palabras que deben aparecer TODAS en el nombre.
+# Para sumar un caso nuevo, agregá otra tupla. (Verificado: Coca Cola Light /
+# "sabor liviano" / Life están discontinuadas en Tucumán.)
+LISTA_NEGRA = [
+    ("coca", "light"),
+    ("coca", "liviano"),
+    ("coca", "life"),
+]
+
+
+def en_lista_negra(nombre, marca=""):
+    s = _norm(nombre + " " + marca)
+    return any(all(pal in s for pal in grupo) for grupo in LISTA_NEGRA)
+
+
 def clave_fuzzy(nombre, marca):
     """Firma normalizada de un producto, para unir el mismo artículo aunque
     distintas cadenas usen otro código de barras, idioma o nombre distinto."""
@@ -557,6 +575,11 @@ def main():
         finales = [g for g in finales if not (set(g.get("eans") or ()) & descartar)]
     print(f"Discontinuados (sin stock en región): {antes - len(finales)} productos descartados",
           file=sys.stderr)
+
+    # lista negra: casos conocidos que ninguna API delata (Coca Light, etc.)
+    antes = len(finales)
+    finales = [g for g in finales if not en_lista_negra(g["n"], g.get("m", ""))]
+    print(f"Lista negra: {antes - len(finales)} productos descartados", file=sys.stderr)
 
     cadenas_meta = {n: {"geolocalizado": geoloc[n],
                         "productos": sum(1 for g in finales if n in g["pr"])}
