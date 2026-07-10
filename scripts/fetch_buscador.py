@@ -52,6 +52,10 @@ SINONIMOS = {
 ALIAS_CADENAS = {
     "monster rossi": "monster vr",
     "golsch": "grolsch",          # typo de una cadena (cerveza Grolsch)
+    # Monster en lata: Tuchanguito llama "Energy" al verde (regular) y "Ultra Zero"
+    # al negro sin azúcar; las otras cadenas dicen "green" y "sin azúcar/zero".
+    "monster green": "monster energy",     # el verde regular == "Monster Energy"
+    "monster ultra zero": "monster zero",  # el sin azúcar de lata
 }
 
 # traducciones/variantes palabra->canónico (inglés->español, formas alternativas).
