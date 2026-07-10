@@ -36,6 +36,16 @@ SINONIMOS = {
     "peachy keen": "peachy", "mango loco": "mango", "energy vr": "vr",
 }
 
+# EQUIVALENCIAS ENTRE CADENAS (curadas): el MISMO producto que una cadena nombra
+# distinto (o carga con otro código de barras). Se define una vez y queda
+# emparejado para siempre. Sólo agrupa —nunca esconde— así que es seguro.
+# Formato: "como lo escribe una cadena" -> "forma canónica (como las demás)".
+# Ej.: Comodín llama "Monster Rossi" al Monster que las otras llaman "Energy VR".
+# Para sumar un caso: agregá una línea acá.
+ALIAS_CADENAS = {
+    "monster rossi": "monster vr",
+}
+
 # traducciones/variantes palabra->canónico (inglés->español, formas alternativas).
 # Es 1:1: nunca fusiona productos distintos, sólo unifica el idioma/la variante.
 TRAD = {
@@ -57,6 +67,8 @@ def clave_fuzzy(nombre, marca):
     """Firma normalizada de un producto, para unir el mismo artículo aunque
     distintas cadenas usen otro código de barras, idioma o nombre distinto."""
     s = _norm(nombre + " " + marca).replace(",", ".")
+    for frase, canon in ALIAS_CADENAS.items():   # "monster rossi" -> "monster vr"
+        s = s.replace(frase, canon)
     for frase, canon in SINONIMOS.items():   # "white pineapple" -> "anana"
         s = s.replace(frase, canon)
     s = re.sub(r"(\d)([a-z])", r"\1 \2", s)   # separa "2.25l" -> "2.25 l"
