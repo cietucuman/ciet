@@ -12,6 +12,7 @@ Uso:
 import argparse
 import base64
 import concurrent.futures
+import html as _html
 import json
 import re
 import statistics
@@ -421,6 +422,71 @@ def productos_termino(dom, termino, region, tope, cookie=None):
     return out
 
 
+TUCHANGUITO = "www.tuchanguito.com.ar"
+
+
+def _precio_ar(s):
+    """'$3.333,32' -> 3333.32"""
+    try:
+        return round(float(s.replace(".", "").replace(",", ".")), 2)
+    except Exception:
+        return 0
+
+
+def get_html(url, intentos=2):
+    for i in range(intentos):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=15) as r:
+                return r.read().decode("utf-8", "ignore")
+        except Exception:
+            if i == intentos - 1:
+                return ""
+            time.sleep(0.6)
+    return ""
+
+
+def productos_tuchanguito(termino, paginas=5):
+    """Tuchanguito (Tiendanube, cadena LOCAL de Tucumán → stock preciso). Parsea
+    las tarjetas del buscador; descarta las agotadas (etiqueta de stock visible).
+    No expone código de barras, así que se agrupa por nombre."""
+    out = {}
+    q = urllib.parse.quote(termino)
+    for pg in range(1, paginas + 1):
+        h = get_html(f"https://{TUCHANGUITO}/search?q={q}&page={pg}")
+        if not h:
+            break
+        anclas = [(m.group(1), m.start())
+                  for m in re.finditer(r"product-item-image-(\d+)", h)]
+        if not anclas:
+            break
+        n0 = len(out)
+        for i, (pid, pos) in enumerate(anclas):
+            card = h[pos:(anclas[i + 1][1] if i + 1 < len(anclas) else pos + 3000)]
+            nm = re.search(r'/productos/[^"]+"\s+title="([^"]+)"', card)
+            pr = re.search(r"js-price-display[^>]*>\s*\$([\d.,]+)", card)
+            if not nm or not pr:
+                continue
+            sl = re.search(r"<[^>]*js-stock-label[^>]*>", card)
+            if sl and "display:none" not in sl.group(0).replace(" ", ""):
+                continue                       # etiqueta de stock visible = agotado
+            precio = _precio_ar(pr.group(1))
+            if precio < 100 or pid in out:
+                continue
+            lk = re.search(r'href="(https://www\.tuchanguito\.com\.ar/productos/[^"]+)"', card)
+            im = re.search(r'data-srcset="([^"]+)"', card)
+            img = ""
+            if im:
+                webps = re.findall(r"(//acdn[^ ]+\.webp)", im.group(1))
+                img = ("https:" + webps[-1]) if webps else ""
+            out[pid] = {"n": _html.unescape(nm.group(1)), "m": "",
+                        "p": precio, "l": lk.group(1) if lk else "", "i": img}
+        if len(anclas) < 10 or len(out) == n0:
+            break
+        time.sleep(0.1)
+    return list(out.values())
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tope", type=int, default=150, help="máx productos por término")
@@ -512,6 +578,27 @@ def main():
             g["pr"][nombre] = oferta
         print(f"  {nombre}: {len(chain)} productos", file=sys.stderr)
 
+    # --- Tuchanguito (Tiendanube, cadena local de Tucumán, stock preciso) ---
+    geoloc["Tuchanguito"] = True
+    cadenas_confiables.add("Tuchanguito")     # local → habilita productos por sí sola
+    print("Tuchanguito: cadena local (Tiendanube)", file=sys.stderr)
+    tchain = {}
+    for i, term in enumerate(TERMINOS, 1):
+        for pr in productos_tuchanguito(term):
+            if pr["l"] and pr["l"] not in tchain:
+                tchain[pr["l"]] = pr
+        if i % 30 == 0:
+            print(f"  Tuchanguito: {i}/{len(TERMINOS)} términos · {len(tchain)} productos", file=sys.stderr)
+    for pr in tchain.values():
+        g = grupos.get(pr["l"])
+        if g is None:
+            g = grupos[pr["l"]] = {"n": pr["n"], "m": "", "i": pr.get("i", ""),
+                                   "pr": {}, "eans": set()}
+        if not g["i"] and pr.get("i"):
+            g["i"] = pr["i"]
+        g["pr"]["Tuchanguito"] = [pr["p"], pr["l"]]
+    print(f"  Tuchanguito: {len(tchain)} productos", file=sys.stderr)
+
     # 1.5) fusión por EAN COMPARTIDO (identidad garantizada): si dos grupos
     # comparten cualquier código de barras, son el mismo producto. Más confiable
     # que el nombre; resuelve casos como "Monster VR" == "Monster Rossi".
@@ -556,9 +643,10 @@ def main():
     print(f"Regla cadena confiable: {antes - len(finales)} productos descartados "
           f"(sólo en Vea/Jumbo)", file=sys.stderr)
 
-    cadenas_meta = {n: {"geolocalizado": geoloc[n],
+    todas_cadenas = list(TIENDAS) + ["Tuchanguito"]
+    cadenas_meta = {n: {"geolocalizado": geoloc.get(n, False),
                         "productos": sum(1 for g in finales if n in g["pr"])}
-                    for n in TIENDAS}
+                    for n in todas_cadenas}
     productos = [{"n": g["n"], "m": g["m"], "i": g["i"], "pr": g["pr"]} for g in finales]
     en_varias = sum(1 for g in finales if len(g["pr"]) > 1)
     out = {
