@@ -27,7 +27,7 @@ from pathlib import Path
 STOP = {"gaseosa", "bebida", "lt", "lts", "l", "ml", "cc", "cm3", "grs", "gr", "g",
         "kg", "un", "u", "x", "de", "pack", "bot", "pet", "botella", "lata", "sabor",
         "the", "el", "la", "doypack", "sachet", "pouch",
-        "energizante", "energy", "sin", "azucar", "en", "con",
+        "energizante", "energy", "en", "con",
         "tableta", "para", "unidad", "unidades"}
 
 # sinónimos multi-palabra: se reemplazan ANTES de tokenizar (frase -> canónico).
@@ -35,6 +35,10 @@ STOP = {"gaseosa", "bebida", "lt", "lts", "l", "ml", "cc", "cm3", "grs", "gr", "
 SINONIMOS = {
     "white pineapple": "anana", "pipeline punch": "pipeline",
     "peachy keen": "peachy", "mango loco": "mango", "energy vr": "vr",
+    # "sin azúcar" NO es ruido: es la variante zero (Monster/Coca sin azúcar ≠ la
+    # regular). Se canoniza a "zero" para que ambas escrituras se unan entre sí
+    # y NUNCA con la versión regular.
+    "sin azucar": "zero",
 }
 
 # EQUIVALENCIAS ENTRE CADENAS (curadas): el MISMO producto que una cadena nombra
@@ -82,7 +86,12 @@ def clave_fuzzy(nombre, marca):
     toks = [t[:-1] if (len(t) > 3 and t.endswith("s") and not any(ch.isdigit() for ch in t)) else t
             for t in toks]
     toks = [t for t in toks if (t not in STOP and len(t) > 1) or t.isdigit()]
-    return " ".join(sorted(set(toks)))
+    toks = set(toks)
+    # la línea Monster "Ultra" es toda sin azúcar: algunas cadenas lo aclaran en
+    # el nombre y otras no. Con "ultra" presente, "zero" es redundante.
+    if "ultra" in toks:
+        toks.discard("zero")
+    return " ".join(sorted(toks))
 
 
 def _absorber(f, g):
