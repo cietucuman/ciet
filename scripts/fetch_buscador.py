@@ -26,9 +26,11 @@ from pathlib import Path
 # palabras "ruido" que se ignoran al emparejar productos por nombre
 STOP = {"gaseosa", "bebida", "lt", "lts", "l", "ml", "cc", "cm3", "grs", "gr", "g",
         "kg", "un", "u", "x", "de", "pack", "bot", "pet", "botella", "lata", "sabor",
-        "the", "el", "la", "doypack", "sachet", "pouch",
+        "the", "el", "la", "del", "doypack", "sachet", "pouch",
         "energizante", "energy", "en", "con",
-        "tableta", "para", "unidad", "unidades"}
+        "tableta", "para", "unidad", "unidades",
+        # relleno confirmado (revisión manual): no distinguen producto
+        "pureza", "dp", "litro", "saborizada", "valle", "clasica", "clasico"}
 
 # sinónimos multi-palabra: se reemplazan ANTES de tokenizar (frase -> canónico).
 # Unifican el mismo producto cuando cada cadena usa otra denominación.
