@@ -206,27 +206,9 @@ def get(url, intentos=2, cookie=None):
     return None
 
 
-# Cencosud: el precio/stock dependen de la SUCURSAL. El código postal solo
-# resuelve una región de 15 tiendas de todo el país y da precios de otra
-# sucursal. Acá fijamos la sucursal REAL de Tucumán (descubierta mirando el
-# segmento de una sesión con dirección en San Miguel de Tucumán), y armamos el
-# segmento a mano. Así el precio coincide con el que ve un tucumano.
-CENCOSUD_TUCUMAN = {
-    "www.vea.com.ar": ("jumboargentinav125sarmientotucuman", "34"),
-}
-
-
 def segmento_tucuman(dom):
-    """Cookie vtex_segment con la sucursal de Tucumán, para precio/stock reales."""
-    conf = CENCOSUD_TUCUMAN.get(dom)
-    if conf:
-        store, canal = conf
-        rid = base64.b64encode(("SW#" + store).encode()).decode()
-        seg = {"channel": canal, "regionId": rid, "currencyCode": "ARS",
-               "currencySymbol": "$", "countryCode": "ARG", "cultureInfo": "es-AR",
-               "channelPrivacy": "public"}
-        return base64.b64encode(json.dumps(seg).encode()).decode()
-    # fallback (Jumbo u otros sin sucursal fija): región por código postal
+    """Cencosud (Vea/Jumbo): precio de Tucumán vía la cookie vtex_segment que
+    setea la API de sesión con el CP 4000 (su /regions no funciona)."""
     import http.cookiejar
     cj = http.cookiejar.CookieJar()
     op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
