@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-10",
- "fecha_base": "2026-07-04",
+ "fecha": "2026-07-11",
+ "fecha_base": "2026-07-05",
  "provincia": "Tucumán",
  "metodo": "Mediana por cadena entre sucursales AR-T; canasta = intersección exacta de EANs de las cadenas con catálogo completo (>=1000 productos); variación por índice de Jevons.",
  "cadenas_principales": [
@@ -8,9 +8,9 @@
   "Vea",
   "Hipermercado Carrefour"
  ],
- "canasta_total_productos": 3163,
- "var_semanal_total_pct": 0.17,
- "pares_comparados": 29352,
+ "canasta_total_productos": 3164,
+ "var_semanal_total_pct": 0.2,
+ "pares_comparados": 29610,
  "cadenas": [
   {
    "cadena": "FULL",
@@ -18,15 +18,15 @@
    "sucursales": 5,
    "productos_relevados": 204,
    "canasta_costo": null,
-   "var_semanal_pct": 0.48
+   "var_semanal_pct": 0.19
   },
   {
    "cadena": "Hipermercado Carrefour",
    "principal": true,
    "sucursales": 1,
-   "productos_relevados": 15983,
-   "canasta_costo": 19672854.85,
-   "var_semanal_pct": -0.24
+   "productos_relevados": 16028,
+   "canasta_costo": 19513707.85,
+   "var_semanal_pct": -0.23
   },
   {
    "cadena": "Hipermercado Libertad",
@@ -40,23 +40,23 @@
    "cadena": "Jumbo",
    "principal": true,
    "sucursales": 1,
-   "productos_relevados": 6696,
-   "canasta_costo": 20772871.59,
-   "var_semanal_pct": 0.5
+   "productos_relevados": 6622,
+   "canasta_costo": 20609527.59,
+   "var_semanal_pct": 0.52
   },
   {
    "cadena": "La Anonima",
    "principal": false,
    "sucursales": 2,
-   "productos_relevados": 7148,
+   "productos_relevados": 7158,
    "canasta_costo": null,
-   "var_semanal_pct": -0.21
+   "var_semanal_pct": -0.23
   },
   {
    "cadena": "Market",
    "principal": false,
    "sucursales": 3,
-   "productos_relevados": 10108,
+   "productos_relevados": 10092,
    "canasta_costo": null,
    "var_semanal_pct": -0.41
   },
@@ -64,9 +64,9 @@
    "cadena": "Vea",
    "principal": true,
    "sucursales": 11,
-   "productos_relevados": 7408,
-   "canasta_costo": 19574674.39,
-   "var_semanal_pct": 0.75
+   "productos_relevados": 7400,
+   "canasta_costo": 19444064.39,
+   "var_semanal_pct": 0.83
   }
  ],
  "tabla": [
@@ -98,48 +98,12 @@
    }
   },
   {
-   "ean": "7791290795129",
-   "descripcion": "jabon polvo GRANBY bicarbon limon dp 3lt DOY-3000-ml.",
-   "precios": {
-    "Jumbo": 11350.0,
-    "Vea": 6499.0,
-    "Hipermercado Carrefour": 9600.0
-   }
-  },
-  {
-   "ean": "7791290795136",
-   "descripcion": "jabon  GRANBY bicarbon rosas dp 3lt DOY-3000-ml.",
-   "precios": {
-    "Jumbo": 11350.0,
-    "Vea": 6499.0,
-    "Hipermercado Carrefour": 9600.0
-   }
-  },
-  {
    "ean": "7790250026129",
    "descripcion": "papel higienic ELITE h sim clásic 4x80m PAQ-32-m2",
    "precios": {
     "Jumbo": 8300.0,
     "Vea": 4899.0,
     "Hipermercado Carrefour": 6630.0
-   }
-  },
-  {
-   "ean": "7791290795112",
-   "descripcion": "jabon polvo GRANBY bicarb limon dp 800ml DOY-800-ml.",
-   "precios": {
-    "Jumbo": 3200.0,
-    "Vea": 1899.0,
-    "Hipermercado Carrefour": 2750.0
-   }
-  },
-  {
-   "ean": "7791290795143",
-   "descripcion": "jabon Liquido GRANBY bicarb rosas dp 800 DOY-800-ml.",
-   "precios": {
-    "Jumbo": 3200.0,
-    "Vea": 1899.0,
-    "Hipermercado Carrefour": 2750.0
    }
   },
   {
@@ -176,33 +140,6 @@
     "Jumbo": 950.0,
     "Vea": 900.0,
     "Hipermercado Carrefour": 1495.0
-   }
-  },
-  {
-   "ean": "7791290794078",
-   "descripcion": "lavavajilla CIF bioactive limon 750ml BOT-750-ml.",
-   "precios": {
-    "Jumbo": 6600.0,
-    "Vea": 3999.0,
-    "Hipermercado Carrefour": 5900.0
-   }
-  },
-  {
-   "ean": "7791290794122",
-   "descripcion": "lavavajilla CIF bioactive lima 750ml BOT-750-ml.",
-   "precios": {
-    "Jumbo": 6600.0,
-    "Vea": 3999.0,
-    "Hipermercado Carrefour": 5900.0
-   }
-  },
-  {
-   "ean": "7790990002827",
-   "descripcion": "jabon liquido ARIEL delicados dp 3000ml DOY-300-ml.",
-   "precios": {
-    "Jumbo": 14658.0,
-    "Vea": 8899.0,
-    "Hipermercado Carrefour": 13730.0
    }
   },
   {
@@ -294,32 +231,95 @@
     "Vea": 1099.0,
     "Hipermercado Carrefour": 1099.0
    }
+  },
+  {
+   "ean": "7790070336385",
+   "descripcion": "Fideos LUCCHETTI Spaghetti N7 x500g PAQ-500-gr.",
+   "precios": {
+    "Jumbo": 1750.0,
+    "Vea": 1099.0,
+    "Hipermercado Carrefour": 1099.0
+   }
+  },
+  {
+   "ean": "7790199000051",
+   "descripcion": "Harina morixe leudante PAQ-1000-gr.",
+   "precios": {
+    "Jumbo": 1900.0,
+    "Vea": 1199.0,
+    "Hipermercado Carrefour": 1199.0
+   }
+  },
+  {
+   "ean": "7790070318312",
+   "descripcion": "Lucc Nidos Fettuccini. NUTRIVITPLUS 15x5 PAQ-500-gr.",
+   "precios": {
+    "Jumbo": 2650.0,
+    "Vea": 1699.0,
+    "Hipermercado Carrefour": 2129.0
+   }
+  },
+  {
+   "ean": "7791828000046",
+   "descripcion": "Papel Higienico FELPITA Hoj Simple 4x30 PAQ-30-mt.",
+   "precios": {
+    "Jumbo": 2650.0,
+    "Vea": 1699.0,
+    "Hipermercado Carrefour": 2650.0
+   }
+  },
+  {
+   "ean": "7790625006879",
+   "descripcion": "Mortadela Bologna LARIO PZA-300-gr.",
+   "precios": {
+    "Jumbo": 5450.0,
+    "Vea": 5450.0,
+    "Hipermercado Carrefour": 3549.0
+   }
+  },
+  {
+   "ean": "7790070933638",
+   "descripcion": "Café ARLISTAN Suave Mas Aroma x170g FCO-170-gr.",
+   "precios": {
+    "Jumbo": 11000.0,
+    "Vea": 7199.0,
+    "Hipermercado Carrefour": 8140.0
+   }
+  },
+  {
+   "ean": "7791293045757",
+   "descripcion": "sh SEDAL liso perfecto 340ML BOT-340-ml.",
+   "precios": {
+    "Jumbo": 6050.0,
+    "Vea": 3990.0,
+    "Hipermercado Carrefour": 5460.0
+   }
   }
  ],
  "histograma_brechas": [
   {
    "rango": "<5%",
-   "cantidad": 1339
+   "cantidad": 1340
   },
   {
    "rango": "5-10%",
-   "cantidad": 828
+   "cantidad": 832
   },
   {
    "rango": "10-20%",
-   "cantidad": 589
+   "cantidad": 585
   },
   {
    "rango": "20-35%",
-   "cantidad": 281
+   "cantidad": 296
   },
   {
    "rango": "35-50%",
-   "cantidad": 83
+   "cantidad": 80
   },
   {
    "rango": "50-100%",
-   "cantidad": 42
+   "cantidad": 30
   },
   {
    "rango": ">100%",
@@ -329,15 +329,15 @@
  "mas_barato": [
   {
    "cadena": "Jumbo",
-   "productos": 322
+   "productos": 305
   },
   {
    "cadena": "Vea",
-   "productos": 1728
+   "productos": 1718
   },
   {
    "cadena": "Hipermercado Carrefour",
-   "productos": 2284
+   "productos": 2306
   }
  ]
 }

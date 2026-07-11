@@ -98,10 +98,10 @@
   {
    "fecha": "2026-07-09",
    "indice": 99.95,
-   "var_pct": 0.1,
+   "var_pct": 0.031,
    "canasta_n": 3155,
-   "se_mantienen": 3095,
-   "pares": 29939
+   "se_mantienen": 3120,
+   "pares": 30015
   },
   {
    "fecha": "2026-07-10",
@@ -110,6 +110,14 @@
    "canasta_n": 3163,
    "se_mantienen": 3100,
    "pares": 29919
+  },
+  {
+   "fecha": "2026-07-11",
+   "indice": 100.06,
+   "var_pct": 0.025,
+   "canasta_n": 3164,
+   "se_mantienen": 3122,
+   "pares": 29891
   }
  ]
 }
