@@ -468,9 +468,15 @@ def trade_policy(seg):
 
 def productos_is(dom, termino, tp, tope, cookie=None):
     """Cencosud (Vea/Jumbo): usa la intelligent-search (lo que ve el cliente en
-    la web) con hideUnavailableItems para descartar fantasmas de precio ($0, $50,
-    productos discontinuados). La entrega real a Tucumán la confirma después la
-    simulación de checkout, que es la que distingue lo que se puede comprar."""
+    la web) con hideUnavailableItems para descartar fantasmas de precio ($0, $50).
+
+    FILTRO CLAVE — vendedor default: la API sigue devolviendo SKUs discontinuados
+    (viejos duplicados que no están en la web) con precio basura. La señal exacta de
+    "se puede comprar" es que el producto tenga un vendedor con sellerDefault=True:
+    verificado en vivo, esos son los que muestran el botón "Agregar al carrito" en la
+    tienda; los que no lo tienen no aparecen cuando una persona busca. Si no hay
+    vendedor default, se descarta (antes se caía a sellers[0] y entraban fantasmas
+    como el "Atún 120g" con el EAN del 170g a $1400)."""
     out, frm = [], 0
     q = urllib.parse.quote(termino)
     while frm < tope:
@@ -485,7 +491,9 @@ def productos_is(dom, termino, tp, tope, cookie=None):
             try:
                 item = p["items"][0]
                 seller = next((s for s in item.get("sellers", [])
-                               if s.get("sellerDefault")), None) or item["sellers"][0]
+                               if s.get("sellerDefault")), None)
+                if seller is None:       # sin vendedor default = no se puede comprar
+                    continue             # (fantasma discontinuado que la web no muestra)
                 o = seller["commertialOffer"]
                 precio = o.get("Price")
                 if not precio or precio < 100 or (o.get("AvailableQuantity") or 0) <= 0:
@@ -643,12 +651,6 @@ def main():
     # cada grupo junta el precio de todas las cadenas que lo tienen.
     grupos = {}
     geoloc = {}
-    # cadenas con stock de Tucumán CONFIABLE (las de región: Carrefour/Comodín/
-    # ChangoMás). Cencosud (Vea/Jumbo) marca "disponible" cosas que no se venden en
-    # Tucumán y su stock real no está en ninguna API. Por eso sólo se muestra un
-    # producto si alguna cadena confiable lo tiene; los precios de Vea/Jumbo se
-    # muestran al lado, para comparar, pero no habilitan por sí solos un producto.
-    cadenas_confiables = set()
     for nombre, dom in TIENDAS.items():
         region = region_id(dom)
         seg = segmento_tucuman(dom) if not region else None
@@ -656,8 +658,6 @@ def main():
         # región de checkout para la simulación: directa en las de región; para
         # Cencosud (Vea/Jumbo) hace falta el canal de ventas (sc) y el segmento.
         region_sim = region or (region_id(dom, sc=tp, cookie=seg) if seg else None)
-        if region:                       # las de región tienen stock de Tucumán fiable
-            cadenas_confiables.add(nombre)
         geoloc[nombre] = bool(region or seg)
         modo = "región" if region else ("intelligent-search" if seg else "nacional")
         print(f"{nombre}: geoloc={modo}", file=sys.stderr)
@@ -744,7 +744,6 @@ def main():
 
     # --- Tuchanguito (Tiendanube, cadena local de Tucumán, stock preciso) ---
     geoloc["Tuchanguito"] = True
-    cadenas_confiables.add("Tuchanguito")     # local → habilita productos por sí sola
     print("Tuchanguito: cadena local (Tiendanube)", file=sys.stderr)
     tchain = {}
     for i, term in enumerate(TERMINOS, 1):
@@ -797,35 +796,11 @@ def main():
                 del g["pr"][c]
     finales = [g for g in finales if g["pr"]]
 
-    # ANCLA CONFIABLE (caza fantasmas de precio de Vea/Jumbo en grupos de 2 cadenas):
-    # Cencosud a veces carga un producto con el EAN de OTRA variante (p. ej. un
-    # "120 gr" con el código del 170 gr) y un precio basura que TODAS sus APIs dan
-    # como disponible —ni la simulación de checkout lo caza—. El merge por EAN lo une
-    # al producto real de una confiable y ese precio irracional aparece como el más
-    # barato (verde). Las confiables SÍ tienen precio real de Tucumán (verificado por
-    # simulación), así que son el ancla: si una cadena NO confiable queda por debajo de
-    # la mitad del precio confiable del MISMO grupo, es dato erróneo → se le saca ese
-    # precio (el producto queda con las confiables). Cubre el caso de 2 cadenas, que el
-    # filtro por mediana (requiere >=3) no toca.
-    for g in finales:
-        anclas = [o[0] for c, o in g["pr"].items() if c in cadenas_confiables]
-        if not anclas:
-            continue
-        ancla = min(anclas)
-        for c in list(g["pr"]):
-            if c not in cadenas_confiables and g["pr"][c][0] < 0.5 * ancla:
-                del g["pr"][c]
-    finales = [g for g in finales if g["pr"]]
-
-    # REGLA DE CADENA CONFIABLE: sólo se muestra un producto si alguna cadena con
-    # stock de Tucumán fiable (Carrefour/Comodín/ChangoMás) lo tiene disponible.
-    # Así no aparecen fantasmas exclusivos de Vea/Jumbo (que su API da como
-    # "disponibles" aunque no se vendan). Los precios de Vea/Jumbo igual se muestran
-    # al lado, para comparar, cuando el producto ya está habilitado por una confiable.
-    antes = len(finales)
-    finales = [g for g in finales if set(g["pr"]) & cadenas_confiables]
-    print(f"Regla cadena confiable: {antes - len(finales)} productos descartados "
-          f"(sólo en Vea/Jumbo)", file=sys.stderr)
+    # Vea/Jumbo se muestran ENTEROS, aunque el producto no esté en ninguna otra
+    # cadena. Los fantasmas de Cencosud (SKUs discontinuados que no se pueden comprar)
+    # ya se cortan EN LA FUENTE en productos_is, exigiendo vendedor default (= el que
+    # muestra el botón "Agregar al carrito" en la web). Por eso acá ya NO se descartan
+    # productos "sólo en Vea/Jumbo" ni se borran precios bajos por ancla confiable.
 
     todas_cadenas = list(TIENDAS) + ["Tuchanguito"]
     cadenas_meta = {n: {"geolocalizado": geoloc.get(n, False),
