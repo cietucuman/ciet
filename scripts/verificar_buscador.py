@@ -123,25 +123,18 @@ def producto_vivo(dom, link, cookie=None):
 
 
 def precio_real_tucuman(dom, viv):
-    """Reconstruye el precio que un tucumano ve HOY para ese producto, por el mismo
-    camino que el scrape. Devuelve (precio, nota) — precio None si no se pudo."""
+    """Reconstruye el precio que un tucumano paga HOY por ese producto, por el mismo
+    camino que el scrape: SIMULACIÓN de checkout para todas las cadenas (Cencosud de a
+    1, que es lo que da el precio real; región en lote). Devuelve (precio, nota)."""
     c = ctx(dom)
-    if dom in CENCOSUD:
-        # nacional × promo del día
-        base = viv["price"]
-        if not base:
-            return None, "sin precio catálogo"
-        promo = fb.promos_cencosud(dom, [viv["sku"]], cookie=c["seg"])
-        info = promo.get(str(viv["sku"]))
-        if info:
-            tipo, val = info
-            base = val if tipo == "fixed" else round(base * (1 - val), 2)
-        return base, ("con promo" if info else "sin promo")
-    # cadenas de región: simulación de checkout (lo que paga en Tucumán)
     if not c["region_sim"]:
         return viv["price"], "sin región (fallback catálogo)"
-    sim = fb.precios_tucuman(dom, c["region_sim"], [(viv["sku"], viv["seller"])], sc=c["sc"],
-                             cookie=c["seg"])
+    if dom in CENCOSUD:
+        sim = fb.precios_cencosud(dom, c["region_sim"], [(viv["sku"], viv["seller"])],
+                                  sc=c["sc"], cookie=c["seg"])
+    else:
+        sim = fb.precios_tucuman(dom, c["region_sim"], [(viv["sku"], viv["seller"])],
+                                 sc=c["sc"], cookie=c["seg"])
     precio, avail = sim.get(str(viv["sku"]), (None, None))
     if avail and avail != "available":
         return None, f"no disponible ({avail})"

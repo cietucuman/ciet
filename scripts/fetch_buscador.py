@@ -30,7 +30,10 @@ STOP = {"gaseosa", "bebida", "lt", "lts", "l", "ml", "cc", "cm3", "grs", "gr", "
         "energizante", "energy", "en", "con",
         "tableta", "para", "unidad", "unidades",
         # relleno confirmado (revisión manual): no distinguen producto
-        "pureza", "dp", "litro", "saborizada", "valle", "clasica", "clasico"}
+        "pureza", "dp", "litro", "saborizada", "valle", "clasica", "clasico",
+        # descriptores de categoría que cada cadena escribe distinto para el MISMO
+        # producto (Suerox "isotónica" en una cadena, "hidratante" en otra).
+        "isotonica", "isotonico", "hidratante", "hidratacion", "rehidratante"}
 
 # sinónimos multi-palabra: se reemplazan ANTES de tokenizar (frase -> canónico).
 # Unifican el mismo producto cuando cada cadena usa otra denominación.
@@ -414,6 +417,48 @@ def precios_tucuman(dom, region, items, sc=None, cookie=None, workers=6):
     return out
 
 
+def precios_cencosud(dom, region, items, sc=None, cookie=None, workers=6):
+    """Precio REAL + disponibilidad de Tucumán para Vea/Jumbo por simulación de checkout,
+    igual estándar que las cadenas de región. Resuelve DOS problemas de Cencosud a la vez:
+      1) el índice de búsqueda trae precios DESACTUALIZADOS (más baratos que la góndola);
+         el precio efectivo es el `sellingPrice` del checkout.
+      2) distingue lo comprable/entregable en Tucumán: los fantasmas (SKUs viejos que no
+         se venden) dan availability='cannotBeDelivered' al CP 4000 (verificado: el atún
+         120g fantasma da cannotBeDelivered; la Veneziana real da 'available').
+    OJO: el checkout de Cencosud FALSEA el precio y la disponibilidad si el carrito tiene
+    3+ ítems (devuelve datos viejos cacheados). Verificado que con <=2 ítems da lo real
+    (Powerade en lote>=3 = $2250 viejo vs de a 2 = $3699 real). Por eso se simula DE A 2,
+    en paralelo (pool chico) → ~10-15 min para Vea+Jumbo, sin throttling a workers=6.
+    NO se hace el rescate sin código postal (haría 'available' hasta a los fantasmas).
+    items: [(sku, seller)]. Devuelve {sku: (precio, availability)}."""
+    if not region or not items:
+        return {}
+    url = f"https://{dom}/api/checkout/pub/orderForms/simulation?RnbBehavior=0&regionId={urllib.parse.quote(region)}"
+    if sc:
+        url += f"&sc={sc}"
+
+    def sim_par(par):
+        body = {"items": [{"id": s, "quantity": 1, "seller": v} for s, v in par],
+                "country": "ARG", "postalCode": CP}
+        d = post_json(url, body, cookie=cookie)
+        res = {}
+        if d and d.get("items"):
+            for it in d["items"]:
+                sid = str(it.get("id") or "")
+                if not sid:
+                    continue
+                sp = it.get("sellingPrice")
+                res[sid] = (round(sp / 100, 2) if sp else None, it.get("availability"))
+        return res
+
+    pares = [items[i:i + 2] for i in range(0, len(items), 2)]   # de a 2 (3+ falsea)
+    out = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
+        for r in ex.map(sim_par, pares):
+            out.update(r)
+    return out
+
+
 def _entregable_cencosud(dom, region, sku, sel, sc, cookie):
     """¿Se puede comprar y recibir en Tucumán? (simulación de 1 solo ítem).
     Devuelve True/False, o None si no hubo respuesta (no se descarta ante error)."""
@@ -470,13 +515,12 @@ def productos_is(dom, termino, tp, tope, cookie=None):
     """Cencosud (Vea/Jumbo): usa la intelligent-search (lo que ve el cliente en
     la web) con hideUnavailableItems para descartar fantasmas de precio ($0, $50).
 
-    FILTRO CLAVE — vendedor default: la API sigue devolviendo SKUs discontinuados
-    (viejos duplicados que no están en la web) con precio basura. La señal exacta de
-    "se puede comprar" es que el producto tenga un vendedor con sellerDefault=True:
-    verificado en vivo, esos son los que muestran el botón "Agregar al carrito" en la
-    tienda; los que no lo tienen no aparecen cuando una persona busca. Si no hay
-    vendedor default, se descarta (antes se caía a sellers[0] y entraban fantasmas
-    como el "Atún 120g" con el EAN del 170g a $1400)."""
+    NO se usa 'sellerDefault' como filtro: en la intelligent-search ese campo es
+    POCO FIABLE (marca sellerDefault=False a productos REALES y comprables, p. ej. la
+    Veneziana integral de Vea que sí tiene botón "Agregar" → daba falsos negativos y
+    faltaban productos). El precio real y si se puede comprar/entregar en Tucumán los
+    resuelve DESPUÉS la simulación de checkout individual (precios_cencosud), igual que
+    en las cadenas de región."""
     out, frm = [], 0
     q = urllib.parse.quote(termino)
     while frm < tope:
@@ -491,9 +535,7 @@ def productos_is(dom, termino, tp, tope, cookie=None):
             try:
                 item = p["items"][0]
                 seller = next((s for s in item.get("sellers", [])
-                               if s.get("sellerDefault")), None)
-                if seller is None:       # sin vendedor default = no se puede comprar
-                    continue             # (fantasma discontinuado que la web no muestra)
+                               if s.get("sellerDefault")), None) or item["sellers"][0]
                 o = seller["commertialOffer"]
                 precio = o.get("Price")
                 if not precio or precio < 100 or (o.get("AvailableQuantity") or 0) <= 0:
@@ -701,31 +743,36 @@ def main():
             chain = {k: pr for k, pr in chain.items() if pr.get("sku") not in no_entregable}
             print(f"  {nombre}: {len(chain)} entregables · {len(no_entregable)} descartados "
                   f"(sin stock / no entregable)", file=sys.stderr)
-        # Cencosud (Vea/Jumbo): NO se filtra por simulación de checkout. La
-        # intelligent-search ya trae sólo lo disponible (hideUnavailableItems = lo que
-        # ve el cliente) y la regla de cadena confiable valida el producto. La
-        # simulación daba FALSOS NEGATIVOS —tiraba productos reales (varias Monster de
-        # Vea)— y era el paso más lento (miles de consultas de a una). El disclaimer ya
-        # aclara que el precio de Vea/Jumbo es para comparar y puede no estar en Tucumán.
-        # 2.5) PROMOS DEL DÍA (Vea/Jumbo): el precio con descuento no viene en la API
-        # (lo calcula el front). Se pide a search-promotions y se aplica como precio.
-        if seg and dom in SEARCH_PROMO_SELLER:
-            skus_promo = [pr["sku"] for pr in chain.values() if pr.get("sku")]
-            promos = promos_cencosud(dom, skus_promo, cookie=seg)
-            n_promo = 0
-            for pr in chain.values():
-                info = promos.get(str(pr.get("sku")))
-                if not info:
-                    continue
-                tipo, val = info
-                nuevo = val if tipo == "fixed" else round(pr["p"] * (1 - val), 2)
-                # el precio con oferta ES el precio: se reemplaza directo, sin cartel
-                # (sin "op"), como las demás cadenas. Sólo si realmente abarata.
-                if nuevo and nuevo < pr["p"]:
-                    pr["p"] = nuevo
-                    n_promo += 1
-            print(f"  {nombre}: {n_promo} con promo del día (search-promotions)",
-                  file=sys.stderr)
+        # Cencosud (Vea/Jumbo): el precio del ÍNDICE de búsqueda viene DESACTUALIZADO
+        # (verificado: Powerade índice $2250 vs real $3699; ~10 de 11 diferían). El
+        # precio correcto es el de la SIMULACIÓN de checkout —lo que realmente se cobra
+        # en Tucumán—, igual que en las cadenas de región (que por eso salían bien).
+        # Se usa la simulación SÓLO para el precio: NO se filtra por disponibilidad (para
+        # Cencosud daba falsos negativos y tiraba productos reales); si no responde para
+        # un SKU se conserva el precio del índice como fallback. Reemplaza al viejo paso
+        # de promos (search-promotions), que aplicaba el descuento sobre el precio VIEJO
+        # y daba doblemente mal; la simulación ya trae el efectivo (incluidas nxm).
+        elif seg and region_sim:
+            # Cencosud: simulación de a 2 (3+ ítems falsea) → precio real + disponibilidad.
+            # Se descarta lo no entregable a Tucumán (fantasmas incluidos), MISMO estándar
+            # que las cadenas de región. Si la simulación no responde para un SKU, se
+            # conserva con el precio del índice (fallback ante error de red).
+            sim = precios_cencosud(dom, region_sim, items, sc=tp, cookie=seg)
+            no_entregable = set()
+            for sku, (_, prs) in porsku.items():
+                info = sim.get(str(sku))
+                if info is None:
+                    continue                # sin respuesta (error de red): se conserva
+                precio_sim, avail = info
+                if avail != "available":
+                    no_entregable.add(sku)
+                elif precio_sim:
+                    for pr in prs:
+                        pr["p"] = precio_sim
+                        pr.pop("op", None)  # el precio simulado ya es el efectivo
+            chain = {k: pr for k, pr in chain.items() if pr.get("sku") not in no_entregable}
+            print(f"  {nombre}: {len(chain)} entregables · {len(no_entregable)} descartados "
+                  f"(no entregable a Tucumán / fantasma)", file=sys.stderr)
         # 3) volcar al agrupado global
         for pr in chain.values():
             clave = pr["e"] or pr["l"]

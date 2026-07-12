@@ -128,6 +128,13 @@
 const $ = id => document.getElementById(id);
 const peso = v => '$' + Math.round(v).toLocaleString('es-AR');
 const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+// número escrito → dígito (para unir "seven up" con "7 Up", "dos litros" con "2 l").
+const NUM = { dos:'2', tres:'3', cuatro:'4', cinco:'5', seis:'6', siete:'7', ocho:'8', nueve:'9', diez:'10', seven:'7' };
+const numify = s => norm(s).replace(/\b(dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|seven)\b/g, m => NUM[m]);
+// artículos/nexos que la gente escribe pero no están en el nombre ("la veneziana").
+const STOPW = new Set(['la', 'el', 'los', 'las', 'de', 'del', 'un', 'una', 'y']);
+// tokens de la búsqueda: número→dígito y sin artículos.
+const qtoks = s => numify(s).split(/[^a-z0-9]+/).filter(t => t && !STOPW.has(t));
 
 let DATA = [], cadenasActivas = new Set(), timer = null;
 
@@ -135,7 +142,7 @@ fetch('https://raw.githubusercontent.com/cietucuman/ciet/datos/buscador.json')
   .then(r => { if (!r.ok) throw new Error('nofile'); return r.json(); })
   .then(d => {
     DATA = d.productos;
-    DATA.forEach(p => p._idx = norm(p.n + ' ' + (p.m || '')));
+    DATA.forEach(p => p._words = numify(p.n + ' ' + (p.m || '')).split(/[^a-z0-9]+/).filter(Boolean));
     const cadenas = Object.keys(d.cadenas);
     cadenasActivas = new Set(cadenas);
     $('estado').style.display = 'none';
@@ -162,13 +169,16 @@ fetch('https://raw.githubusercontent.com/cietucuman/ciet/datos/buscador.json')
 window.setBusqueda = t => { $('q').value = t; buscar(); };
 
 function buscar() {
-  const q = norm($('q').value.trim());
+  const raw = $('q').value.trim();
   const cont = $('resultados');
-  if (q.length < 2) { cont.innerHTML = ''; $('meta').style.display = 'block'; return; }
-  const toks = q.split(/\s+/);
+  if (raw.length < 2) { cont.innerHTML = ''; $('meta').style.display = 'block'; return; }
+  const toks = qtoks(raw);
+  if (!toks.length) { cont.innerHTML = ''; $('meta').style.display = 'block'; return; }
   const res = [];
   for (const p of DATA) {
-    if (!toks.every(t => p._idx.includes(t))) continue;
+    // cada palabra buscada debe ser prefijo de alguna palabra del producto
+    // (más preciso que substring: "up" matchea "up" pero no "cups"; "7" no matchea "17").
+    if (!toks.every(t => p._words.some(w => w.startsWith(t)))) continue;
     const entradas = Object.entries(p.pr).filter(([c]) => cadenasActivas.has(c));
     if (!entradas.length) continue;
     const min = Math.min(...entradas.map(([, o]) => o[0]));
