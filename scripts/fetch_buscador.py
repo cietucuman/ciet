@@ -571,6 +571,66 @@ def productos_is(dom, termino, tp, tope, cookie=None):
     return out
 
 
+def completar_por_ean(dom, region, eans, cookie=None, workers=6):
+    """Busca una lista de códigos de barras en el catálogo de una cadena, de a ~40 por
+    consulta (OR de alternateIds_Ean). Sirve para COMPLETAR la comparación entre súper:
+    si un producto ya está en el buscador pero falta en esta cadena, se busca su EAN acá
+    y se agrega el precio. Devuelve [productos] (formato productos_termino), con precio
+    de CATÁLOGO — el caller aplica simulación (región) o promo (Cencosud)."""
+    if not eans:
+        return []
+    lotes = [eans[i:i + 40] for i in range(0, len(eans), 40)]
+
+    def pedir(lote):
+        q = "&".join(f"fq=alternateIds_Ean:{e}" for e in lote)
+        url = f"https://{dom}/api/catalog_system/pub/products/search?{q}&_from=0&_to=49"
+        if region:
+            url += f"&regionId={urllib.parse.quote(region)}"
+        d = get(url, cookie=cookie)
+        res = []
+        if not isinstance(d, list):
+            return res
+        for p in d:
+            try:
+                item = p["items"][0]
+                o = item["sellers"][0]["commertialOffer"]
+                precio = o.get("Price")
+                # NO se filtra por IsAvailable/qty del catálogo: miente (marca False a
+                # productos que la simulación confirma comprables, p. ej. el pan de mesa
+                # de Carrefour). La disponibilidad real la decide la simulación (región) o,
+                # en Cencosud, el guard de nombre + que el producto ya es real en otra cadena.
+                if not precio or precio < 100:
+                    continue
+                res.append({
+                    "n": limpiar_nombre(p.get("productName", "")),
+                    "m": (p.get("brand") or "")[:28],
+                    "e": item.get("ean") or "",
+                    "eans": [it.get("ean") for it in p.get("items", []) if it.get("ean")],
+                    "p": round(precio, 2),
+                    "l": p.get("link") or "",
+                    "i": (item.get("images") or [{}])[0].get("imageUrl") or "",
+                    "sku": item.get("itemId"),
+                    "sel": item["sellers"][0].get("sellerId"),
+                    "disp": bool(o.get("IsAvailable")) and (o.get("AvailableQuantity") or 0) >= 3,
+                })
+            except Exception:
+                continue
+        return res
+
+    out = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
+        for r in ex.map(pedir, lotes):
+            out.extend(r)
+    return out
+
+
+def _solape_nombre(a_toks, b_toks):
+    """Coeficiente de solape entre dos conjuntos de tokens (0..1)."""
+    if not a_toks or not b_toks:
+        return 0.0
+    return len(a_toks & b_toks) / min(len(a_toks), len(b_toks))
+
+
 def productos_termino(dom, termino, region, tope, cookie=None):
     out, frm = [], 0
     ft = urllib.parse.quote(termino)
@@ -696,6 +756,7 @@ def main():
     # cada grupo junta el precio de todas las cadenas que lo tienen.
     grupos = {}
     geoloc = {}
+    chaincfg = {}
     for nombre, dom in TIENDAS.items():
         region = region_id(dom)
         seg = segmento_tucuman(dom) if not region else None
@@ -704,6 +765,8 @@ def main():
         # Cencosud (Vea/Jumbo) hace falta el canal de ventas (sc) y el segmento.
         region_sim = region or (region_id(dom, sc=tp, cookie=seg) if seg else None)
         geoloc[nombre] = bool(region or seg)
+        chaincfg[nombre] = {"dom": dom, "region": region, "seg": seg, "tp": tp,
+                            "region_sim": region_sim}
         modo = "región" if region else ("intelligent-search" if seg else "nacional")
         print(f"{nombre}: geoloc={modo}", file=sys.stderr)
         # 1) juntar los productos de la cadena (dedup por clave).
@@ -826,6 +889,69 @@ def main():
         if len(g["pr"]) > len(f["pr"]):   # nombre del que aparece en más cadenas
             f["n"], f["m"] = g["n"], g["m"]
     finales = list(fusion.values())
+
+    # === COMPLETAR LA COMPARACIÓN entre súper ===
+    # Si un producto (por código de barras) está en unas cadenas y le falta otra que SÍ
+    # lo tiene, se busca su EAN en esa cadena y se agrega el precio → el mismo producto
+    # aparece en TODAS las cadenas que lo venden (que es lo que hace útil comparar). Es
+    # ACOTADO: sólo completa productos ya capturados, buscando por EAN de a 40 por
+    # consulta; NO crawlea el catálogo entero.
+    def _nums(toks):
+        return {t for t in toks if any(c.isdigit() for c in t)}
+    ean2g = {}
+    for g in finales:
+        g["_toks"] = set(clave_fuzzy(g["n"], g.get("m", "")).split())
+        for e in (g.get("eans") or ()):
+            ean2g.setdefault(e, g)
+    for nombre, cfg in chaincfg.items():
+        faltan = list({e for e, g in ean2g.items() if nombre not in g["pr"]})
+        if not faltan:
+            continue
+        hallados = completar_por_ean(cfg["dom"], cfg["region"], faltan, cookie=cfg["seg"])
+        if cfg["region"]:                    # región: precio real Tucumán + disponibilidad
+            items = [(pr["sku"], pr["sel"]) for pr in hallados if pr.get("sku")]
+            sim = precios_tucuman(cfg["dom"], cfg["region_sim"], items)
+            for pr in hallados:
+                info = sim.get(str(pr.get("sku")))
+                if not info or info[1] != "available" or not info[0]:
+                    pr["_drop"] = True
+                else:
+                    pr["p"] = info[0]
+        elif cfg["seg"]:                     # Cencosud: NO hay simulación que valide, así que
+            # se exige IsAvailable del catálogo (el desmenuzado fantasma da False → afuera;
+            # el atún 120g con EAN del 170g lo caza el guard de tamaño). Precio índice × promo.
+            promos = promos_cencosud(cfg["dom"], [pr["sku"] for pr in hallados
+                                                  if pr.get("sku") and pr.get("disp")],
+                                     cookie=cfg["seg"])
+            for pr in hallados:
+                if not pr.get("disp"):
+                    pr["_drop"] = True
+                    continue
+                info = promos.get(str(pr.get("sku")))
+                if info:
+                    t, v = info
+                    nuevo = v if t == "fixed" else round(pr["p"] * (1 - v), 2)
+                    if nuevo and nuevo < pr["p"]:
+                        pr["p"] = nuevo
+        n_add = 0
+        for pr in hallados:
+            if pr.get("_drop"):
+                continue
+            g = next((ean2g[e] for e in (pr.get("eans") or ()) if e in ean2g), None)
+            if g is None or nombre in g["pr"]:
+                continue
+            ptoks = set(clave_fuzzy(pr["n"], pr.get("m", "")).split())
+            gn, pn = _nums(g["_toks"]), _nums(ptoks)
+            if gn and pn and not (gn & pn):          # tamaños distintos = EAN mal cargado
+                continue                             # (atún 120g con EAN del 170g)
+            if _solape_nombre(ptoks, g["_toks"]) < 0.4:
+                continue
+            g["pr"][nombre] = [pr["p"], pr["l"]]
+            n_add += 1
+        print(f"  completar {nombre}: +{n_add} precios por EAN "
+              f"({len(faltan)} EAN buscados)", file=sys.stderr)
+    for g in finales:
+        g.pop("_toks", None)
 
     # descartar precios absurdos por producto: si una cadena queda muy por debajo
     # de la mediana del mismo artículo en las demás, es un dato erróneo (no existe).
