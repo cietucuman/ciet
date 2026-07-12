@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-11",
- "fecha_base": "2026-07-05",
+ "fecha": "2026-07-12",
+ "fecha_base": "2026-07-06",
  "provincia": "Tucumán",
  "metodo": "Mediana por cadena entre sucursales AR-T; canasta = intersección exacta de EANs de las cadenas con catálogo completo (>=1000 productos); variación por índice de Jevons.",
  "cadenas_principales": [
@@ -8,9 +8,9 @@
   "Vea",
   "Hipermercado Carrefour"
  ],
- "canasta_total_productos": 3164,
- "var_semanal_total_pct": 0.2,
- "pares_comparados": 29610,
+ "canasta_total_productos": 3156,
+ "var_semanal_total_pct": 0.25,
+ "pares_comparados": 29353,
  "cadenas": [
   {
    "cadena": "FULL",
@@ -18,14 +18,14 @@
    "sucursales": 5,
    "productos_relevados": 204,
    "canasta_costo": null,
-   "var_semanal_pct": 0.19
+   "var_semanal_pct": 0.02
   },
   {
    "cadena": "Hipermercado Carrefour",
    "principal": true,
    "sucursales": 1,
-   "productos_relevados": 16028,
-   "canasta_costo": 19513707.85,
+   "productos_relevados": 15907,
+   "canasta_costo": 19518600.85,
    "var_semanal_pct": -0.23
   },
   {
@@ -40,23 +40,23 @@
    "cadena": "Jumbo",
    "principal": true,
    "sucursales": 1,
-   "productos_relevados": 6622,
-   "canasta_costo": 20609527.59,
+   "productos_relevados": 6653,
+   "canasta_costo": 20597513.59,
    "var_semanal_pct": 0.52
   },
   {
    "cadena": "La Anonima",
    "principal": false,
    "sucursales": 2,
-   "productos_relevados": 7158,
+   "productos_relevados": 7221,
    "canasta_costo": null,
-   "var_semanal_pct": -0.23
+   "var_semanal_pct": -0.4
   },
   {
    "cadena": "Market",
    "principal": false,
    "sucursales": 3,
-   "productos_relevados": 10092,
+   "productos_relevados": 10137,
    "canasta_costo": null,
    "var_semanal_pct": -0.41
   },
@@ -64,9 +64,9 @@
    "cadena": "Vea",
    "principal": true,
    "sucursales": 11,
-   "productos_relevados": 7400,
-   "canasta_costo": 19444064.39,
-   "var_semanal_pct": 0.83
+   "productos_relevados": 7390,
+   "canasta_costo": 19445473.39,
+   "var_semanal_pct": 1.02
   }
  ],
  "tabla": [
@@ -104,6 +104,15 @@
     "Jumbo": 8300.0,
     "Vea": 4899.0,
     "Hipermercado Carrefour": 6630.0
+   }
+  },
+  {
+   "ean": "7790380023401",
+   "descripcion": "cacao TODDY original 180g BSA-180-gr.",
+   "precios": {
+    "Jumbo": 2200.0,
+    "Vea": 1299.0,
+    "Hipermercado Carrefour": 1299.0
    }
   },
   {
@@ -161,21 +170,21 @@
    }
   },
   {
+   "ean": "7790199000020",
+   "descripcion": "Harina morixe 0000 1kg PAQ-1000-gr.",
+   "precios": {
+    "Jumbo": 1600.0,
+    "Vea": 999.0,
+    "Hipermercado Carrefour": 999.0
+   }
+  },
+  {
    "ean": "7791070005615",
    "descripcion": "rollo cocina CAMPANITA prac 1x200p BSA-200-un.",
    "precios": {
     "Jumbo": 3050.0,
     "Vea": 1999.0,
     "Hipermercado Carrefour": 3200.0
-   }
-  },
-  {
-   "ean": "7791070005103",
-   "descripcion": "papel higienic CAMPANITA sof h sim 4x80m PAQ-32-m2",
-   "precios": {
-    "Jumbo": 5100.0,
-    "Vea": 3199.0,
-    "Hipermercado Carrefour": 4379.0
    }
   },
   {
@@ -285,33 +294,24 @@
     "Vea": 7199.0,
     "Hipermercado Carrefour": 8140.0
    }
-  },
-  {
-   "ean": "7791293045757",
-   "descripcion": "sh SEDAL liso perfecto 340ML BOT-340-ml.",
-   "precios": {
-    "Jumbo": 6050.0,
-    "Vea": 3990.0,
-    "Hipermercado Carrefour": 5460.0
-   }
   }
  ],
  "histograma_brechas": [
   {
    "rango": "<5%",
-   "cantidad": 1340
+   "cantidad": 1345
   },
   {
    "rango": "5-10%",
-   "cantidad": 832
+   "cantidad": 828
   },
   {
    "rango": "10-20%",
-   "cantidad": 585
+   "cantidad": 577
   },
   {
    "rango": "20-35%",
-   "cantidad": 296
+   "cantidad": 294
   },
   {
    "rango": "35-50%",
@@ -319,7 +319,7 @@
   },
   {
    "rango": "50-100%",
-   "cantidad": 30
+   "cantidad": 31
   },
   {
    "rango": ">100%",
@@ -333,11 +333,11 @@
   },
   {
    "cadena": "Vea",
-   "productos": 1718
+   "productos": 1714
   },
   {
    "cadena": "Hipermercado Carrefour",
-   "productos": 2306
+   "productos": 2300
   }
  ]
 }
