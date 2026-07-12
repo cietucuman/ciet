@@ -818,6 +818,17 @@ def main():
         # sobre el precio del índice: "fixed" = precio de oferta; "pct" = base*(1-desc).
         # Ej.: Monster índice $3400 → promo fija $2600.
         elif seg and dom in SEARCH_PROMO_SELLER:
+            # FILTRO DE FANTASMAS por DISPONIBILIDAD REAL (no por precio): se simula cada
+            # producto DE A 2 (en lote falsea) y se descarta lo que NO se puede recibir en
+            # Tucumán (availability != 'available') — la señal de "no se puede añadir al
+            # carrito para Tucumán", mismo estándar que las cadenas de región. Verificado:
+            # atún 120g fantasma = cannotBeDelivered; Veneziana real = available. El PRECIO
+            # NO cambia (sigue siendo índice × promo); la simulación se usa SÓLO para filtrar.
+            disp = precios_cencosud(dom, region_sim, items, sc=tp, cookie=seg)
+            no_ent = {sku for sku in porsku
+                      if disp.get(str(sku)) is not None and disp[str(sku)][1] != "available"}
+            chain = {k: pr for k, pr in chain.items() if pr.get("sku") not in no_ent}
+            # PRECIO: índice × promo del día (search-promotions), sin tocar
             promos = promos_cencosud(dom, [pr["sku"] for pr in chain.values() if pr.get("sku")],
                                      cookie=seg)
             n_promo = 0
@@ -830,8 +841,8 @@ def main():
                 if nuevo and nuevo < pr["p"]:   # el precio con oferta ES el precio
                     pr["p"] = nuevo
                     n_promo += 1
-            print(f"  {nombre}: {len(chain)} productos · {n_promo} con promo del día",
-                  file=sys.stderr)
+            print(f"  {nombre}: {len(chain)} entregables · {len(no_ent)} descartados "
+                  f"(fantasma/no entregable) · {n_promo} con promo", file=sys.stderr)
         # 3) volcar al agrupado global
         for pr in chain.values():
             clave = pr["e"] or pr["l"]
