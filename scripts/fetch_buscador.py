@@ -31,6 +31,9 @@ STOP = {"gaseosa", "bebida", "lt", "lts", "l", "ml", "cc", "cm3", "grs", "gr", "
         "tableta", "para", "unidad", "unidades",
         # relleno confirmado (revisión manual): no distinguen producto
         "pureza", "dp", "litro", "saborizada", "valle", "clasica", "clasico",
+        # co-marcas/líneas que una cadena agrega y otra no, para el MISMO producto
+        # (Tuchanguito "Grisines … Veneziana Cormillot" == Vea "Grisines Veneziana …").
+        "cormillot",
         # descriptores de categoría que cada cadena escribe distinto para el MISMO
         # producto (Suerox "isotónica" en una cadena, "hidratante" en otra).
         "isotonica", "isotonico", "hidratante", "hidratacion", "rehidratante"}
