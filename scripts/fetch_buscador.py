@@ -826,15 +826,18 @@ def main():
                 info = sim.get(str(sku))
                 if info is None:
                     continue                        # sin respuesta (red): se conserva con índice
-                precio_sim, avail = info
+                _, avail = info                        # sólo interesa la disponibilidad
                 if avail != "available":
                     no_ent.add(sku)
                     continue
-                # precio de LISTA = el mayor entre simulación e índice: el que está viejo
-                # suele ser el más bajo (inflación), el fresco es el mayor y es el que
-                # muestra la página. Verificado: Pan max(sim 4822, idx 3454)=4822=página;
-                # Powerade max(sim 2350, idx 3750)=3750 (×promo 0.75 = $2813 = página).
-                precio = max(precio_sim, prs[0]["p"]) if precio_sim else prs[0]["p"]
+                # precio de LISTA = el ÍNDICE (== 'Price' de intelligent-search == el precio
+                # regular que muestra la página). La simulación de checkout SÓLO sirve acá
+                # para la señal de disponibilidad (fantasmas): su precio a veces INFLA por
+                # regionalización y no coincide con la página. Verificado contra la web:
+                # Leche 4x3 idx 2423×0.75=$1817 (sim 2670 daba $2002, mal); Pan idx 4500×0.65
+                # =$2925; Powerade idx 3750×0.75=$2813; Monster fixed $2600. La promo pública
+                # (search-promotions) se aplica sobre este índice.
+                precio = prs[0]["p"]
                 pinfo = promos.get(str(sku))
                 if pinfo:      # aplica la promo que MÁS abarate (cada una sobre la base, sin apilar)
                     mejor = min([val if t == "fixed" else round(precio * (1 - val), 2)
