@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-12",
- "fecha_base": "2026-07-06",
+ "fecha": "2026-07-13",
+ "fecha_base": "2026-07-07",
  "provincia": "Tucumán",
  "metodo": "Mediana por cadena entre sucursales AR-T; canasta = intersección exacta de EANs de las cadenas con catálogo completo (>=1000 productos); variación por índice de Jevons.",
  "cadenas_principales": [
@@ -8,9 +8,9 @@
   "Vea",
   "Hipermercado Carrefour"
  ],
- "canasta_total_productos": 3156,
- "var_semanal_total_pct": 0.25,
- "pares_comparados": 29353,
+ "canasta_total_productos": 3109,
+ "var_semanal_total_pct": 0.26,
+ "pares_comparados": 29298,
  "cadenas": [
   {
    "cadena": "FULL",
@@ -24,9 +24,9 @@
    "cadena": "Hipermercado Carrefour",
    "principal": true,
    "sucursales": 1,
-   "productos_relevados": 15907,
-   "canasta_costo": 19518600.85,
-   "var_semanal_pct": -0.23
+   "productos_relevados": 15831,
+   "canasta_costo": 19246591.85,
+   "var_semanal_pct": -0.26
   },
   {
    "cadena": "Hipermercado Libertad",
@@ -40,45 +40,36 @@
    "cadena": "Jumbo",
    "principal": true,
    "sucursales": 1,
-   "productos_relevados": 6653,
-   "canasta_costo": 20597513.59,
-   "var_semanal_pct": 0.52
+   "productos_relevados": 6612,
+   "canasta_costo": 20328524.59,
+   "var_semanal_pct": 0.59
   },
   {
    "cadena": "La Anonima",
    "principal": false,
    "sucursales": 2,
-   "productos_relevados": 7221,
+   "productos_relevados": 7227,
    "canasta_costo": null,
-   "var_semanal_pct": -0.4
+   "var_semanal_pct": 1.89
   },
   {
    "cadena": "Market",
    "principal": false,
    "sucursales": 3,
-   "productos_relevados": 10137,
+   "productos_relevados": 10129,
    "canasta_costo": null,
-   "var_semanal_pct": -0.41
+   "var_semanal_pct": -0.46
   },
   {
    "cadena": "Vea",
    "principal": true,
    "sucursales": 11,
-   "productos_relevados": 7390,
-   "canasta_costo": 19445473.39,
-   "var_semanal_pct": 1.02
+   "productos_relevados": 7389,
+   "canasta_costo": 19189579.39,
+   "var_semanal_pct": 1.09
   }
  ],
  "tabla": [
-  {
-   "ean": "7790250015857",
-   "descripcion": "papel higienic HIGIENOL h sim aloe 4x80m PAQ-4-un.",
-   "precios": {
-    "Jumbo": 6650.0,
-    "Vea": 3299.0,
-    "Hipermercado Carrefour": 4560.0
-   }
-  },
   {
    "ean": "7790360026002",
    "descripcion": "Salchichas la blanca x 190 grs PAQ-190-gr.",
@@ -98,30 +89,12 @@
    }
   },
   {
-   "ean": "7790250026129",
-   "descripcion": "papel higienic ELITE h sim clásic 4x80m PAQ-32-m2",
-   "precios": {
-    "Jumbo": 8300.0,
-    "Vea": 4899.0,
-    "Hipermercado Carrefour": 6630.0
-   }
-  },
-  {
    "ean": "7790380023401",
    "descripcion": "cacao TODDY original 180g BSA-180-gr.",
    "precios": {
     "Jumbo": 2200.0,
     "Vea": 1299.0,
     "Hipermercado Carrefour": 1299.0
-   }
-  },
-  {
-   "ean": "7791708001422",
-   "descripcion": "pan VENEZIANA TRISALVADO Diet PAQ-620-gr.",
-   "precios": {
-    "Jumbo": 6300.0,
-    "Vea": 3750.0,
-    "Hipermercado Carrefour": 3750.0
    }
   },
   {
@@ -176,15 +149,6 @@
     "Jumbo": 1600.0,
     "Vea": 999.0,
     "Hipermercado Carrefour": 999.0
-   }
-  },
-  {
-   "ean": "7791070005615",
-   "descripcion": "rollo cocina CAMPANITA prac 1x200p BSA-200-un.",
-   "precios": {
-    "Jumbo": 3050.0,
-    "Vea": 1999.0,
-    "Hipermercado Carrefour": 3200.0
    }
   },
   {
@@ -260,21 +224,21 @@
    }
   },
   {
+   "ean": "7793344009237",
+   "descripcion": "rollo cocina ELEGANTE dobl h 3x120 paños LAM-360-un.",
+   "precios": {
+    "Jumbo": 6250.0,
+    "Vea": 3990.0,
+    "Hipermercado Carrefour": 5849.0
+   }
+  },
+  {
    "ean": "7790070318312",
    "descripcion": "Lucc Nidos Fettuccini. NUTRIVITPLUS 15x5 PAQ-500-gr.",
    "precios": {
     "Jumbo": 2650.0,
     "Vea": 1699.0,
     "Hipermercado Carrefour": 2129.0
-   }
-  },
-  {
-   "ean": "7791828000046",
-   "descripcion": "Papel Higienico FELPITA Hoj Simple 4x30 PAQ-30-mt.",
-   "precios": {
-    "Jumbo": 2650.0,
-    "Vea": 1699.0,
-    "Hipermercado Carrefour": 2650.0
    }
   },
   {
@@ -294,50 +258,86 @@
     "Vea": 7199.0,
     "Hipermercado Carrefour": 8140.0
    }
+  },
+  {
+   "ean": "7791293045757",
+   "descripcion": "sh SEDAL liso perfecto 340ML BOT-340-ml.",
+   "precios": {
+    "Jumbo": 6050.0,
+    "Vea": 3990.0,
+    "Hipermercado Carrefour": 5460.0
+   }
+  },
+  {
+   "ean": "7791293046402",
+   "descripcion": "shampoo SEDAL colageno y vit c 340ml BOT-340-ml.",
+   "precios": {
+    "Jumbo": 6050.0,
+    "Vea": 3990.0,
+    "Hipermercado Carrefour": 5460.0
+   }
+  },
+  {
+   "ean": "7790150100486",
+   "descripcion": "café LA VIRGINIA Clasico Espuma x170G FCO-170-gr.",
+   "precios": {
+    "Jumbo": 10250.0,
+    "Vea": 6799.0,
+    "Hipermercado Carrefour": 7089.0
+   }
+  },
+  {
+   "ean": "0190679000187",
+   "descripcion": "acondHERBAL ESSENCESargan400ml PVC-400-ml.",
+   "precios": {
+    "Jumbo": 18050.0,
+    "Vea": 11990.0,
+    "Hipermercado Carrefour": 15299.0
+   }
   }
  ],
  "histograma_brechas": [
   {
    "rango": "<5%",
-   "cantidad": 1345
+   "cantidad": 1300
   },
   {
    "rango": "5-10%",
-   "cantidad": 828
+   "cantidad": 813
   },
   {
    "rango": "10-20%",
-   "cantidad": 577
+   "cantidad": 596
   },
   {
    "rango": "20-35%",
-   "cantidad": 294
+   "cantidad": 296
   },
   {
    "rango": "35-50%",
-   "cantidad": 80
+   "cantidad": 77
   },
   {
    "rango": "50-100%",
-   "cantidad": 31
+   "cantidad": 27
   },
   {
    "rango": ">100%",
-   "cantidad": 1
+   "cantidad": 0
   }
  ],
  "mas_barato": [
   {
    "cadena": "Jumbo",
-   "productos": 305
+   "productos": 294
   },
   {
    "cadena": "Vea",
-   "productos": 1714
+   "productos": 1658
   },
   {
    "cadena": "Hipermercado Carrefour",
-   "productos": 2300
+   "productos": 2273
   }
  ]
 }
