@@ -337,10 +337,19 @@ def promos_cencosud(dom, skus, cookie=None, workers=6):
                     valor = float(pr.get("value") or 0)
                 except (TypeError, ValueError):
                     valor = 0
+                # Promos NxM (6x5, 4x3, 3x2…): el effectiveDiscount viene REDONDEADO a 2
+                # decimales (6x5 → "0.17" en vez de 1-5/6=0.16667), lo que desfasa el precio
+                # ($1577 vs $1583.33 de la página). El descuento EXACTO se saca del code "NxM":
+                # precio/u al llevar N = base*M/N → desc = 1-M/N.
+                m = re.match(r"^\s*(\d+)x(\d+)\s*$", str(pr.get("code") or ""))
+                if pr.get("categoryType") == "nxm" and m:
+                    n_lleva, n_paga = int(m.group(1)), int(m.group(2))
+                    if 0 < n_paga < n_lleva:
+                        desc = 1 - n_paga / n_lleva
                 if pr.get("discountType") == "fixed_price" and valor > 0:
                     res.setdefault(str(sku), []).append(("fixed", round(valor, 2)))
                 elif 0 < desc < 0.95:      # descuento realista (evita datos absurdos)
-                    res.setdefault(str(sku), []).append(("pct", desc))
+                    res.setdefault(str(sku), []).append(("pct", round(desc, 5)))
         return res
 
     out = {}
@@ -379,7 +388,10 @@ def precios_tucuman(dom, region, items, sc=None, cookie=None, workers=6):
                 sid = str(it.get("id") or "")
                 if sid:
                     sp = it.get("sellingPrice")
-                    res[sid] = (round(sp / 100, 2) if sp else None, it.get("availability"))
+                    # productos por PESO (queso/fiambre, unitMultiplier<1): el sellingPrice es
+                    # el de 1 ítem (ej. 0.5 kg); la página muestra el de la unidad → sp/um.
+                    um = it.get("unitMultiplier") or 1
+                    res[sid] = (round(sp / 100 / um, 2) if sp else None, it.get("availability"))
         return res
 
     def correr(its, qty, con_cp):
@@ -460,6 +472,47 @@ def precios_cencosud(dom, region, items, sc=None, cookie=None, workers=6):
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
         for r in ex.map(lambda p: sim_par(p, 1), pares):
             out.update(r)
+    return out
+
+
+def checkout_individual(dom, region, items, sc=None, cookie=None, workers=6, seller=None):
+    """Checkout de a UN ítem (qty1) para Cencosud: precio real (sellingPrice) + disponibilidad.
+    A diferencia de `precios_cencosud` (que simula de a pares y a escala NULEA/falsea SKUs,
+    provocando fallback al índice viejo), acá cada SKU tiene su propia respuesta limpia →
+    confiable para el precio. Más requests, pero es el precio que se paga en Tucumán.
+
+    CLAVE: hay que simular con el SELLER de la sucursal real de Tucumán (`seller`, ej.
+    'jumboargentinav125sarmientotucuman'), NO con el genérico '1'. El seller '1' devuelve
+    otra tabla de precios y otra disponibilidad — falsos (Cool Citrus '1'→$2299 vs sucursal
+    →$1999 = la página; Suerox '1'→available vs sucursal→withoutStock = fantasma real).
+
+    items: [(sku, seller_del_item)]. Devuelve {sku: (sellingPrice, availability)}; (None, None)
+    si no hubo respuesta (para NO descartar por error de red)."""
+    if not region or not items:
+        return {}
+    url = f"https://{dom}/api/checkout/pub/orderForms/simulation?RnbBehavior=0&regionId={urllib.parse.quote(region)}"
+    if sc:
+        url += f"&sc={sc}"
+
+    def sim1(item):
+        s, v = item
+        body = {"items": [{"id": s, "quantity": 1, "seller": str(seller or v)}],
+                "country": "ARG", "postalCode": CP}
+        d = post_json(url, body, cookie=cookie)
+        if d and d.get("items"):
+            it = d["items"][0]
+            sp = it.get("sellingPrice")
+            # unitMultiplier < 1 = producto por PESO (queso/fiambre): el checkout da el precio
+            # de 1 ítem (ej. 0.1 kg); la página muestra el de la unidad completa = sp/um.
+            um = it.get("unitMultiplier") or 1
+            precio = round(sp / 100 / um, 2) if sp else None
+            return str(s), (precio, it.get("availability"))
+        return str(s), (None, None)
+
+    out = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
+        for sid, val in ex.map(sim1, items):
+            out[sid] = val
     return out
 
 
@@ -751,7 +804,25 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tope", type=int, default=150, help="máx productos por término")
     ap.add_argument("-o", "--salida", default="data/buscador.json")
+    ap.add_argument("--solo", action="append", default=None,
+                    help="scrapear SÓLO estas cadenas (repetible: --solo Vea --solo Jumbo). "
+                         "Modo auditoría: sin completación cruzada; salida acotada a esas cadenas.")
+    ap.add_argument("--terminos",
+                    help="términos separados por coma (en vez de la lista completa), para pruebas rápidas")
     args = ap.parse_args()
+
+    solo = set(args.solo) if args.solo else None
+    if solo:
+        validas = set(TIENDAS) | {"Tuchanguito"}
+        desconocidas = solo - validas
+        if desconocidas:
+            ap.error(f"cadena(s) desconocida(s): {desconocidas}. Válidas: {sorted(validas)}")
+        print(f"[modo AUDITORÍA] sólo cadenas: {sorted(solo)} (sin completación cruzada)",
+              file=sys.stderr)
+    global TERMINOS
+    if args.terminos:
+        TERMINOS = [t.strip() for t in args.terminos.split(",") if t.strip()]
+        print(f"[términos acotados] {len(TERMINOS)}: {TERMINOS}", file=sys.stderr)
 
     # agrupar por producto: clave = código de barras (o link si no tiene).
     # cada grupo junta el precio de todas las cadenas que lo tienen.
@@ -759,6 +830,8 @@ def main():
     geoloc = {}
     chaincfg = {}
     for nombre, dom in TIENDAS.items():
+        if solo and nombre not in solo:
+            continue
         region = region_id(dom)
         seg = segmento_tucuman(dom) if not region else None
         tp = trade_policy(seg) if seg else None
@@ -810,34 +883,32 @@ def main():
             chain = {k: pr for k, pr in chain.items() if pr.get("sku") not in no_entregable}
             print(f"  {nombre}: {len(chain)} entregables · {len(no_entregable)} descartados "
                   f"(sin stock / no entregable)", file=sys.stderr)
-        # Cencosud (Vea/Jumbo): PRECIO = simulación de checkout qty1 (precio base REAL de
-        # Tucumán = lo que muestra la página; el índice estaba VIEJO —Pan $3454 vs real
-        # $4822—) con la PROMO del día aplicada si abarata (fija/%: Monster $2600). Se toma
-        # el menor. VISIBILIDAD: se descarta lo NO entregable a Tucumán (fantasma =
-        # cannotBeDelivered; la Veneziana real = available). LIMITACIÓN conocida: las promos
-        # de CANTIDAD (2do al 70%, 4x3) de Cencosud NO se capturan (su checkout no escala la
-        # cantidad y search-promotions/teasers vienen vacíos); sólo se ven en la web al llevar 2+.
+        # Cencosud (Vea/Jumbo): PRECIO = base (Vea→checkout, Jumbo→índice; ver más abajo) ×
+        # PROMO pública del día si abarata. La disponibilidad decide qué se descarta
+        # (fantasma = cannotBeDelivered/no available → afuera). Las promos de CANTIDAD
+        # (2do al 70%, 4x3) se capturan por search-promotions (buckets generic + jumbo_prime).
         elif seg and dom in SEARCH_PROMO_SELLER:
-            sim = precios_cencosud(dom, region_sim, items, sc=tp, cookie=seg)  # {sku:(precio,avail)}
+            # Vea Y Jumbo → checkout INDIVIDUAL con el SELLER de la sucursal de Tucumán
+            # (precio y disponibilidad reales de la página). Verificado en ambas: el seller
+            # genérico '1' falsea (Jumbo leche '1'→2670 vs sucursal→2423=página).
+            sim = checkout_individual(dom, region_sim, items, sc=tp, cookie=seg,
+                                      seller=SEARCH_PROMO_SELLER.get(dom))
             promos = promos_cencosud(dom, [pr["sku"] for pr in chain.values() if pr.get("sku")],
                                      cookie=seg)
             no_ent, n_promo = set(), 0
             for sku, (_, prs) in porsku.items():
                 info = sim.get(str(sku))
-                if info is None:
+                if not info or info[1] is None:
                     continue                        # sin respuesta (red): se conserva con índice
-                _, avail = info                        # sólo interesa la disponibilidad
+                precio_sim, avail = info
                 if avail != "available":
                     no_ent.add(sku)
                     continue
-                # precio de LISTA = el ÍNDICE (== 'Price' de intelligent-search == el precio
-                # regular que muestra la página). La simulación de checkout SÓLO sirve acá
-                # para la señal de disponibilidad (fantasmas): su precio a veces INFLA por
-                # regionalización y no coincide con la página. Verificado contra la web:
-                # Leche 4x3 idx 2423×0.75=$1817 (sim 2670 daba $2002, mal); Pan idx 4500×0.65
-                # =$2925; Powerade idx 3750×0.75=$2813; Monster fixed $2600. La promo pública
-                # (search-promotions) se aplica sobre este índice.
-                precio = prs[0]["p"]
+                # BASE de precio = sellingPrice del CHECKOUT con el seller de la sucursal
+                # (el precio real de la página en Tucumán, ya con unitMultiplier aplicado en
+                # checkout_individual). El índice sólo como fallback si no hubo precio.
+                # La promo pública (search-promotions) se aplica sobre esta base si abarata.
+                precio = precio_sim if precio_sim else prs[0]["p"]
                 pinfo = promos.get(str(sku))
                 if pinfo:      # aplica la promo que MÁS abarate (cada una sobre la base, sin apilar)
                     mejor = min([val if t == "fixed" else round(precio * (1 - val), 2)
@@ -868,24 +939,25 @@ def main():
         print(f"  {nombre}: {len(chain)} productos", file=sys.stderr)
 
     # --- Tuchanguito (Tiendanube, cadena local de Tucumán, stock preciso) ---
-    geoloc["Tuchanguito"] = True
-    print("Tuchanguito: cadena local (Tiendanube)", file=sys.stderr)
-    tchain = {}
-    for i, term in enumerate(TERMINOS, 1):
-        for pr in productos_tuchanguito(term):
-            if pr["l"] and pr["l"] not in tchain:
-                tchain[pr["l"]] = pr
-        if i % 30 == 0:
-            print(f"  Tuchanguito: {i}/{len(TERMINOS)} términos · {len(tchain)} productos", file=sys.stderr)
-    for pr in tchain.values():
-        g = grupos.get(pr["l"])
-        if g is None:
-            g = grupos[pr["l"]] = {"n": pr["n"], "m": "", "i": pr.get("i", ""),
-                                   "pr": {}, "eans": set()}
-        if not g["i"] and pr.get("i"):
-            g["i"] = pr["i"]
-        g["pr"]["Tuchanguito"] = [pr["p"], pr["l"]]
-    print(f"  Tuchanguito: {len(tchain)} productos", file=sys.stderr)
+    if not solo or "Tuchanguito" in solo:
+        geoloc["Tuchanguito"] = True
+        print("Tuchanguito: cadena local (Tiendanube)", file=sys.stderr)
+        tchain = {}
+        for i, term in enumerate(TERMINOS, 1):
+            for pr in productos_tuchanguito(term):
+                if pr["l"] and pr["l"] not in tchain:
+                    tchain[pr["l"]] = pr
+            if i % 30 == 0:
+                print(f"  Tuchanguito: {i}/{len(TERMINOS)} términos · {len(tchain)} productos", file=sys.stderr)
+        for pr in tchain.values():
+            g = grupos.get(pr["l"])
+            if g is None:
+                g = grupos[pr["l"]] = {"n": pr["n"], "m": "", "i": pr.get("i", ""),
+                                       "pr": {}, "eans": set()}
+            if not g["i"] and pr.get("i"):
+                g["i"] = pr["i"]
+            g["pr"]["Tuchanguito"] = [pr["p"], pr["l"]]
+        print(f"  Tuchanguito: {len(tchain)} productos", file=sys.stderr)
 
     # 1.5) fusión por EAN COMPARTIDO (identidad garantizada): si dos grupos
     # comparten cualquier código de barras, son el mismo producto. Más confiable
@@ -922,7 +994,7 @@ def main():
         g["_toks"] = set(clave_fuzzy(g["n"], g.get("m", "")).split())
         for e in (g.get("eans") or ()):
             ean2g.setdefault(e, g)
-    for nombre, cfg in chaincfg.items():
+    for nombre, cfg in ({} if solo else chaincfg).items():   # sin completación en modo auditoría
         # SÓLO se completan las cadenas de REGIÓN (Carrefour/Comodín/ChangoMás): la
         # simulación de checkout confirma precio real + disponibilidad. Cencosud NO se
         # completa por catálogo: trae precios VIEJOS de listados que ni aparecen en la
