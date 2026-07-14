@@ -12,11 +12,11 @@ Con QUÉ compara (clave, aprendido a los golpes):
   región) o el nacional con la PROMO del día aplicada (Vea/Jumbo). NO es el «Price»
   de catálogo nacional — de hecho en Tucumán muchas veces es MÁS caro que el nacional
   (regionalización). Por eso comparar contra el catálogo nacional da falsas alarmas.
-  Acá se reconstruye el precio real por el MISMO camino público que la web:
-    - Carrefour / Comodín / ChangoMás: simulación de checkout a CP 4000 (lo que paga
-      un tucumano). Se compara guardado vs simulado (tolerancia ~15%, por variación
-      intradía).
-    - Vea / Jumbo (Cencosud): precio de catálogo nacional × (1 - promo del día).
+  Acá se reconstruye el precio real por el MISMO camino público que el scrape:
+    - Carrefour / Comodín / ChangoMás: simulación de checkout a CP 4000, precio de 1
+      unidad (lo que paga un tucumano). Guardado vs simulado, tolerancia ~15% (intradía).
+    - Vea / Jumbo (Cencosud): checkout con el SELLER de la sucursal de Tucumán (no el
+      genérico) × la mejor promo pública del día (search-promotions).
   Además chequea que el link lleve al MISMO producto (solape de palabras del nombre),
   lo que caza links/agrupaciones equivocadas.
 
