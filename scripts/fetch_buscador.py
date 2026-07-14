@@ -435,12 +435,13 @@ def precios_tucuman(dom, region, items, sc=None, cookie=None, workers=6):
     """Simulación de checkout (sin login): prueba real de si un producto se puede
     comprar en Tucumán, y a qué precio. items: [(sku, seller)].
     Devuelve {sku: (precio, availability)}.
-      - Disponibilidad y precio base: simulación a cantidad 1.
-      - Promos de cantidad (2do al X%, 4x3, 3x2…): se simula además a cantidad 4 y se
-        toma el MENOR precio por unidad. A qty 4 tanto "2do al X%" como "4x3" dan su
-        precio unitario correcto; cubre las dos cadenas (ChangoMás no expone teasers).
+      - Precio = el de 1 UNIDAD (precio de góndola; ya trae los descuentos de unidad
+        simple). NO se simula a cantidad 4: eso capturaba promos de CANTIDAD (3x2, 4x3)
+        y mostraba el precio por-3 como si fuera el de góndola (engañoso e inestable
+        cuando la promo termina). Mismo criterio que Cencosud.
       - 'cannotBeDelivered' se reintenta SIN postalCode (cadenas que dejaron de enviar
         al CP pero venden en Tucumán, p. ej. Comodín).
+      - unitMultiplier<1 (queso/fiambre por peso): precio de la unidad = sellingPrice/um.
     Los lotes se corren en paralelo (pool chico) para que sea rápido."""
     if not region or not items:
         return {}
@@ -486,22 +487,16 @@ def precios_tucuman(dom, region, items, sc=None, cookie=None, workers=6):
     if resc_skus:
         q1.update(correr([it for it in items if str(it[0]) in resc_skus], 1, False))
 
-    # --- qty 4: precio con promo de cantidad (sólo los disponibles) ---
-    disp = [it for it in items if q1.get(str(it[0]), (None, None))[1] == "available"]
-    disp_cp = [it for it in disp if str(it[0]) not in resc_skus]
-    disp_sincp = [it for it in disp if str(it[0]) in resc_skus]
-    q4 = correr(disp_cp, 4, True) if disp_cp else {}
-    if disp_sincp:
-        q4.update(correr(disp_sincp, 4, False))
-
-    # combinar: precio = menor por unidad entre qty1 y qty4 (captura la promo)
+    # PRECIO = el de 1 UNIDAD (precio de góndola que ve el cliente; ya incluye los
+    # descuentos de unidad simple). NO se simula a cantidad 4: eso capturaba promos de
+    # CANTIDAD (3x2, 4x3) y mostraba el precio por-3-unidades como si fuera el de góndola
+    # —engañoso y encima inestable cuando la promo termina (Barra NotProtein: qty1 $2250
+    # real vs min(qty1,qty4) $1500 de un 3x2 ya vencido)—. Igual criterio que Vea/Jumbo.
     out = {}
     for it in items:
         sid = str(it[0])
         p1, av = q1.get(sid, (None, None))
-        p4 = q4.get(sid, (None, None))[0]
-        precio = min(p1, p4) if (p1 and p4) else (p1 or p4)
-        out[sid] = (precio, av)
+        out[sid] = (p1, av)
     return out
 
 
