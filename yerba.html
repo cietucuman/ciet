@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Índice de Precios de la Yerba de Tucumán | CIET</title>
+<title>Índice de Precios de la Yerba en Tucumán | CIET</title>
 <link rel="icon" type="image/svg+xml" href="/ciet/favicon.svg">
-<meta name="description" content="Índice de precios de la yerba mate de 1 kg en Tucumán: evolución del precio, ranking de marcas y comparación entre supermercados. Metodología abierta (Jevons encadenado).">
+<meta name="description" content="Índice de precios de la yerba mate de 1 kg en Tucumán: evolución diaria, semanal y mensual, ranking de marcas y comparación entre supermercados. Metodología abierta (Jevons encadenado).">
 <link rel="canonical" href="https://cietucuman.github.io/ciet/yerba.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="CIET — Centro de Investigación Económica de Tucumán">
-<meta property="og:title" content="Índice de Precios de la Yerba de Tucumán | CIET">
+<meta property="og:title" content="Índice de Precios de la Yerba en Tucumán | CIET">
 <meta property="og:description" content="Cuánto y cómo se mueve el precio de la yerba de 1 kg en Tucumán. Todas las marcas, todos los supermercados, metodología abierta.">
 <meta property="og:url" content="https://cietucuman.github.io/ciet/yerba.html">
 <meta property="og:image" content="https://cietucuman.github.io/ciet/og-banner.png">
@@ -43,32 +43,47 @@
   .brand-t { font-family:var(--serif); font-weight:600; color:var(--ink); font-size:.95rem; letter-spacing:-0.01em; }
   .brand-s { font-size:.74rem; color:var(--muted); margin-top:2px; }
   .brand-s a { text-decoration:none; }
-  header.page { padding:40px 0 6px; }
+  header.page { padding:36px 0 8px; }
   header.page h1 { font-family:var(--serif); font-size:clamp(1.7rem,4vw,2.4rem); font-weight:400; letter-spacing:-0.02em; line-height:1.12; color:var(--ink); }
-  header.page p { color:var(--muted); font-size:1rem; margin-top:14px; max-width:62ch; line-height:1.6; }
+  header.page p { color:var(--muted); font-size:1rem; margin-top:12px; max-width:62ch; line-height:1.6; }
 
-  /* Hero: número del índice + variación */
-  .hero { display:flex; flex-wrap:wrap; gap:26px; align-items:flex-end; margin:26px 0 6px; padding:22px 24px; background:var(--card); border:1px solid var(--line); border-radius:16px; }
-  .hero .big { font-family:var(--serif); font-size:clamp(2.6rem,8vw,3.6rem); font-weight:500; line-height:1; letter-spacing:-0.02em; font-variant-numeric:tabular-nums; }
-  .hero .lbl { font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); font-weight:600; margin-bottom:8px; }
-  .hero .var { font-size:1.05rem; font-weight:700; font-variant-numeric:tabular-nums; }
+  /* Pestañas */
+  .tabs { position:sticky; top:65px; z-index:15; display:flex; gap:4px; background:var(--paper); border-bottom:1px solid var(--line); margin-top:20px; }
+  .tab { appearance:none; background:none; border:0; font-family:var(--sans); font-size:.92rem; font-weight:600; color:var(--muted); padding:13px 16px; cursor:pointer; border-bottom:2.5px solid transparent; margin-bottom:-1px; transition:color .15s; }
+  .tab:hover { color:var(--ink); }
+  .tab.on { color:var(--accent); border-bottom-color:var(--accent); }
+  .tabpane { padding-top:22px; }
+  .tabpane[hidden] { display:none; }
+
+  /* Hero */
+  .hero { display:flex; flex-wrap:wrap; gap:26px 34px; align-items:flex-end; padding:22px 24px; background:var(--card); border:1px solid var(--line); border-radius:16px; }
+  .hero .big { font-family:var(--serif); font-size:clamp(2.5rem,7vw,3.4rem); font-weight:500; line-height:1; letter-spacing:-0.02em; font-variant-numeric:tabular-nums; }
+  .hero .lbl { font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); font-weight:600; margin-bottom:8px; }
+  .hero .var { font-size:1rem; font-weight:700; font-variant-numeric:tabular-nums; margin-top:8px; }
   .hero .var.pos { color:var(--up); } .hero .var.neg { color:var(--down); }
-  .hero .sub { font-size:.8rem; color:var(--muted); margin-top:5px; }
-  .hero .col { min-width:120px; }
+  .hero .sub { font-size:.78rem; color:var(--muted); margin-top:5px; }
   .hero .col .num { font-family:var(--serif); font-size:1.7rem; font-weight:500; font-variant-numeric:tabular-nums; }
 
   .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px 22px; margin:16px 0; }
-  .card h2 { font-family:var(--serif); font-weight:500; font-size:1.25rem; letter-spacing:-0.01em; margin-bottom:4px; }
+  .card h2 { font-family:var(--serif); font-weight:500; font-size:1.2rem; letter-spacing:-0.01em; margin-bottom:3px; }
   .card .hint { font-size:.8rem; color:var(--muted); margin-bottom:14px; }
   svg.chart { width:100%; height:auto; display:block; overflow:visible; }
   svg.chart text { font-family:var(--sans); fill:var(--muted); }
-  .chart-empty { color:var(--muted); font-size:.9rem; padding:22px 0; text-align:center; }
+  .chart-empty { color:var(--muted); font-size:.9rem; padding:26px 4px; text-align:center; line-height:1.6; }
 
-  .meta { font-size:.8rem; color:var(--muted); margin:16px 0 6px; }
-  .meta .actu { display:block; font-size:.92rem; color:var(--ink); font-weight:600; }
-  .estado { color:var(--muted); padding:30px 0; text-align:center; }
+  /* Selector de temporalidad (segmentado) */
+  .seg { display:inline-flex; border:1px solid var(--line-strong); border-radius:10px; overflow:hidden; margin-bottom:6px; }
+  .segbtn { appearance:none; background:var(--card); border:0; border-right:1px solid var(--line); font-family:var(--sans); font-size:.82rem; font-weight:600; color:var(--muted); padding:8px 16px; cursor:pointer; transition:all .15s; }
+  .segbtn:last-child { border-right:0; }
+  .segbtn:hover { color:var(--accent); }
+  .segbtn.on { background:var(--accent); color:#fff; }
+  .cap-note { font-size:.78rem; color:var(--muted); margin-top:12px; }
 
-  .sort { display:flex; gap:7px; flex-wrap:wrap; margin:4px 0 14px; }
+  .meta { font-size:.8rem; color:var(--muted); margin:14px 2px 0; }
+  .meta .actu { font-weight:600; color:var(--ink); }
+  .estado { color:var(--muted); padding:40px 0; text-align:center; }
+
+  .sort { display:flex; gap:7px; flex-wrap:wrap; margin:0 0 16px; }
   .chip { font-size:.76rem; padding:6px 13px; border-radius:20px; border:1px solid var(--line-strong); background:var(--card); color:var(--muted); cursor:pointer; user-select:none; transition:all .18s ease-out; }
   .chip:hover { border-color:var(--accent); color:var(--accent); }
   .chip.on { background:var(--accent); color:#fff; border-color:var(--accent); }
@@ -76,40 +91,46 @@
   .yrow { border:1px solid var(--line); border-radius:14px; margin-bottom:11px; background:var(--card); overflow:hidden; transition:border-color .18s ease-out, box-shadow .18s ease-out; }
   .yrow:hover { border-color:var(--line-strong); box-shadow:0 10px 26px -16px rgba(20,57,95,.28); }
   .yhead { display:flex; gap:14px; padding:14px 16px; cursor:pointer; align-items:center; }
-  .yhead .foto { width:60px; height:60px; flex-shrink:0; border:1px solid var(--line); border-radius:10px; background:#fff; display:flex; align-items:center; justify-content:center; overflow:hidden; }
+  .yhead .foto { width:58px; height:58px; flex-shrink:0; border:1px solid var(--line); border-radius:10px; background:#fff; display:flex; align-items:center; justify-content:center; overflow:hidden; }
   .yhead .foto img { max-width:100%; max-height:100%; object-fit:contain; }
   .yhead .foto.sinfoto { color:var(--muted); font-size:.55rem; text-align:center; }
   .yhead .cuerpo { flex:1; min-width:0; }
   .yhead .pn { font-size:.98rem; font-weight:600; }
   .yhead .pm { font-size:.74rem; color:var(--muted); }
-  .yhead .prices { display:flex; gap:14px; margin-top:6px; flex-wrap:wrap; }
+  .yhead .prices { display:flex; gap:12px; margin-top:6px; flex-wrap:wrap; }
   .yhead .pmin { text-align:right; }
-  .yhead .pmin .v { font-size:1.15rem; font-weight:700; font-variant-numeric:tabular-nums; color:var(--down); }
-  .yhead .pmin .k { font-size:.66rem; color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
-  .yhead .caret { color:var(--muted); font-size:.9rem; transition:transform .2s; }
+  .yhead .pmin .v { font-size:1.12rem; font-weight:700; font-variant-numeric:tabular-nums; color:var(--down); }
+  .yhead .pmin .k { font-size:.64rem; color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
+  .yhead .caret { color:var(--muted); font-size:.85rem; transition:transform .2s; margin-left:2px; }
   .yrow.open .caret { transform:rotate(90deg); }
-  .cadprice { font-size:.78rem; color:var(--muted); font-variant-numeric:tabular-nums; }
+  .cadprice { font-size:.77rem; color:var(--muted); font-variant-numeric:tabular-nums; }
   .cadprice b { color:var(--ink); font-weight:600; }
   .cadprice.min b { color:var(--down); }
 
-  .ydetail { display:none; padding:2px 16px 18px; border-top:1px solid var(--line); }
+  .ydetail { display:none; padding:6px 16px 18px; border-top:1px solid var(--line); }
   .yrow.open .ydetail { display:block; }
-  .ydetail .dt-title { font-size:.78rem; color:var(--muted); margin:14px 0 8px; text-transform:uppercase; letter-spacing:.04em; font-weight:600; }
+  .dt-title { font-size:.74rem; color:var(--muted); margin:16px 0 8px; text-transform:uppercase; letter-spacing:.04em; font-weight:600; }
+  .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:.74rem; color:var(--muted); margin-top:8px; }
+  .legend span { display:inline-flex; align-items:center; gap:5px; }
+  .legend i { width:12px; height:3px; border-radius:2px; display:inline-block; }
   table.evo { width:100%; border-collapse:collapse; font-size:.82rem; font-variant-numeric:tabular-nums; }
   table.evo th, table.evo td { text-align:right; padding:5px 8px; border-bottom:1px solid var(--line); white-space:nowrap; }
   table.evo th:first-child, table.evo td:first-child { text-align:left; }
   table.evo thead th { color:var(--muted); font-weight:600; font-size:.72rem; }
   table.evo .na { color:var(--line-strong); }
-  .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:.74rem; color:var(--muted); margin-top:10px; }
-  .legend span { display:inline-flex; align-items:center; gap:5px; }
-  .legend i { width:11px; height:3px; border-radius:2px; display:inline-block; }
+
+  /* Metodología */
+  .method h3 { font-family:var(--serif); font-weight:500; font-size:1.15rem; margin:26px 0 8px; letter-spacing:-0.01em; }
+  .method h3:first-child { margin-top:4px; }
+  .method p { color:#3a362f; font-size:.93rem; line-height:1.7; margin-bottom:10px; }
+  .method b { color:var(--ink); }
+  .method ul { margin:6px 0 12px 18px; }
+  .method li { font-size:.93rem; line-height:1.65; color:#3a362f; margin-bottom:5px; }
+  .method .formula { background:var(--surface); border:1px solid var(--line); border-radius:10px; padding:12px 16px; font-family:var(--serif); font-size:1rem; margin:10px 0; text-align:center; }
+  .method .box { background:var(--accent-soft); border-left:3px solid var(--accent); border-radius:0 10px 10px 0; padding:12px 16px; font-size:.9rem; line-height:1.6; margin:12px 0; color:#2a3a4a; }
 
   footer { border-top:1px solid var(--line); margin-top:40px; }
   footer .wrap { padding:26px 22px; color:var(--muted); font-size:.78rem; line-height:1.6; }
-  details.method { margin:16px 0; }
-  details.method summary { cursor:pointer; font-weight:600; color:var(--accent); font-size:.9rem; }
-  details.method .body { font-size:.85rem; color:var(--muted); line-height:1.65; margin-top:10px; }
-  details.method .body b { color:var(--ink); }
 </style>
 </head>
 <body>
@@ -132,204 +153,232 @@
 
 <div class="wrap">
   <header class="page">
-    <h1>El precio de la yerba en Tucumán</h1>
-    <p>Seguimos el precio de la yerba mate de 1&nbsp;kg en los supermercados de Tucumán —todas las marcas, todos los días— y armamos un índice para ver cómo se mueve. Metodología abierta y datos desglosables hasta el último producto.</p>
+    <h1>Índice de precios de la yerba en Tucumán</h1>
+    <p>El precio de la yerba mate de 1&nbsp;kg —todas las marcas, todos los días— en los supermercados de Tucumán, con el desglose de cada yerba en cada cadena.</p>
   </header>
 
   <div id="estado" class="estado">Cargando índice…</div>
 
   <div id="app" style="display:none">
-    <!-- HERO -->
-    <div class="hero">
-      <div class="col">
-        <div class="lbl">Índice de la yerba · base 100</div>
-        <div class="big" id="h-indice">—</div>
-        <div class="var" id="h-var"></div>
-        <div class="sub" id="h-base"></div>
-      </div>
-      <div class="col">
-        <div class="lbl">Mediana hoy · yerba 1&nbsp;kg</div>
-        <div class="num" id="h-mediana">—</div>
-        <div class="sub" id="h-rango"></div>
-      </div>
-      <div class="col">
-        <div class="lbl">En seguimiento</div>
-        <div class="num" id="h-cuenta">—</div>
-        <div class="sub" id="h-cadenas"></div>
-      </div>
-    </div>
-    <div class="meta"><span class="actu" id="actu"></span></div>
+    <nav class="tabs" id="tabs">
+      <button class="tab on" data-t="indice">Índice</button>
+      <button class="tab" data-t="yerbas">Las yerbas</button>
+      <button class="tab" data-t="metodo">Metodología</button>
+    </nav>
 
-    <!-- GRÁFICO DEL ÍNDICE -->
-    <div class="card">
-      <h2>Evolución del índice</h2>
-      <div class="hint">Media geométrica de las variaciones de cada yerba en cada cadena (Jevons encadenado). Base 100 el primer día.</div>
-      <div id="chart-wrap"></div>
-    </div>
+    <!-- ============ PESTAÑA ÍNDICE ============ -->
+    <section class="tabpane" id="pane-indice">
+      <div class="hero">
+        <div class="col">
+          <div class="lbl">Índice · base 100</div>
+          <div class="big" id="h-indice">—</div>
+          <div class="var" id="h-var"></div>
+          <div class="sub" id="h-base"></div>
+        </div>
+        <div class="col">
+          <div class="lbl">Mediana hoy · yerba 1&nbsp;kg</div>
+          <div class="num" id="h-mediana">—</div>
+          <div class="sub" id="h-rango"></div>
+        </div>
+        <div class="col">
+          <div class="lbl">En seguimiento</div>
+          <div class="num" id="h-cuenta">—</div>
+          <div class="sub" id="h-cadenas"></div>
+        </div>
+      </div>
 
-    <!-- RANKING DEL DÍA + DRILL-DOWN -->
-    <div class="card">
-      <h2>Cada yerba, hoy</h2>
-      <div class="hint">Tocá una yerba para ver su precio en cada cadena y su evolución día a día. El precio grande es la mejor oferta disponible hoy.</div>
-      <div class="sort" id="sort"></div>
-      <div id="lista"></div>
-    </div>
+      <div class="card">
+        <h2>Evolución del índice</h2>
+        <div class="hint">Media geométrica de las variaciones de cada yerba en cada cadena (Jevons encadenado). Base 100 el primer día.</div>
+        <div class="seg" id="freq">
+          <button class="segbtn on" data-f="diaria">Diaria</button>
+          <button class="segbtn" data-f="semanal">Semanal</button>
+          <button class="segbtn" data-f="mensual">Mensual</button>
+        </div>
+        <div id="chart-wrap"></div>
+        <div class="cap-note" id="cap-note"></div>
+      </div>
+    </section>
 
-    <details class="method">
-      <summary>Cómo se calcula (metodología)</summary>
-      <div class="body" id="method-body"></div>
-    </details>
+    <!-- ============ PESTAÑA LAS YERBAS ============ -->
+    <section class="tabpane" id="pane-yerbas" hidden>
+      <div class="card">
+        <h2>Cada yerba, hoy</h2>
+        <div class="hint">Tocá una yerba para ver su gráfico y su precio en cada cadena, día a día. El precio grande es la mejor oferta disponible hoy.</div>
+        <div class="sort" id="sort"></div>
+        <div id="lista"></div>
+      </div>
+    </section>
+
+    <!-- ============ PESTAÑA METODOLOGÍA ============ -->
+    <section class="tabpane method" id="pane-metodo" hidden>
+      <div class="card" id="method-body"></div>
+    </section>
   </div>
 </div>
 
 <footer>
   <div class="wrap">
     <div style="margin-bottom:8px"><a href="https://x.com/ciettucuman" target="_blank" rel="noopener">𝕏 @ciettucuman</a> · <a href="mailto:ciet.tucuman@gmail.com">ciet.tucuman@gmail.com</a></div>
-    CIET · Índice de precios de la yerba mate de 1&nbsp;kg en los supermercados online de Tucumán (Carrefour, Vea, Jumbo, Comodín, ChangoMás y Tuchanguito). Precios de góndola online tomados una vez por día; pueden diferir del local físico. No incluye descuentos por medio de pago.
+    CIET · Índice de precios de la yerba mate de 1&nbsp;kg en los supermercados online de Tucumán (Carrefour, Vea, Jumbo, Comodín, ChangoMás y Tuchanguito). Precio de góndola online tomado una vez por día (~10&nbsp;h); puede diferir del local físico. No incluye descuentos por medio de pago.
   </div>
 </footer>
 
 <script>
 const $ = id => document.getElementById(id);
 const peso = v => '$' + Math.round(v).toLocaleString('es-AR');
-const fmtFecha = f => new Date(f + 'T12:00:00').toLocaleDateString('es-AR', { day:'numeric', month:'short' });
-const fmtFechaLarga = f => new Date(f + 'T12:00:00').toLocaleDateString('es-AR', { day:'numeric', month:'long', year:'numeric' });
-// colores estables por cadena para las tablas/leyenda
+const fmtCorta = f => new Date(f + 'T12:00:00').toLocaleDateString('es-AR', { day:'numeric', month:'short' });
+const fmtLarga = f => new Date(f + 'T12:00:00').toLocaleDateString('es-AR', { day:'numeric', month:'long', year:'numeric' });
 const COLOR = { Carrefour:'#1c507f', Vea:'#c0392b', Jumbo:'#27865a', 'Comodín':'#b8791f', 'ChangoMás':'#7b4fa3', Tuchanguito:'#127c8a' };
 const colCad = c => COLOR[c] || '#6a655c';
 
-let D = null, orden = 'precio';
+let D = null, orden = 'precio', freq = 'diaria';
 
 fetch('https://raw.githubusercontent.com/cietucuman/ciet/yerba-datos/indice.json')
   .then(r => { if (!r.ok) throw new Error('nofile'); return r.json(); })
   .then(d => { D = d; render(); })
   .catch(() => { $('estado').textContent = 'El índice se está preparando. Volvé pronto.'; });
 
-// último valor no nulo de una serie
 const ultimo = s => { for (let i = s.length - 1; i >= 0; i--) if (s[i] != null) return s[i]; return null; };
+
+// --- resampleo temporal: del índice diario a fin de semana / fin de mes ---
+function claveSemana(f) {
+  const d = new Date(f + 'T12:00:00');
+  const t = new Date(d); t.setDate(t.getDate() + 4 - (t.getDay() || 7));
+  const y0 = new Date(t.getFullYear(), 0, 1);
+  const w = Math.ceil((((t - y0) / 86400000) + 1) / 7);
+  return t.getFullYear() + '-S' + String(w).padStart(2, '0');
+}
+const claveMes = f => f.slice(0, 7);
+function resample(fechas, valores, frecuencia) {
+  if (frecuencia === 'diaria') return { fechas: fechas.slice(), valores: valores.slice() };
+  const keyf = frecuencia === 'semanal' ? claveSemana : claveMes;
+  const ultPorClave = new Map();               // clave -> {fecha, valor} (última observación del período)
+  fechas.forEach((f, i) => { if (valores[i] != null) ultPorClave.set(keyf(f), { fecha: f, valor: valores[i] }); });
+  const e = [...ultPorClave.values()];
+  return { fechas: e.map(x => x.fecha), valores: e.map(x => x.valor) };
+}
 
 function render() {
   $('estado').style.display = 'none';
   $('app').style.display = 'block';
 
-  const n = D.fechas.length;
-  const idx = D.indice[n - 1];
-  const varPct = idx - 100;
+  // tabs
+  $('tabs').onclick = e => {
+    const b = e.target.closest('.tab'); if (!b) return;
+    document.querySelectorAll('.tab').forEach(t => t.classList.toggle('on', t === b));
+    ['indice', 'yerbas', 'metodo'].forEach(k => $('pane-' + k).hidden = (k !== b.dataset.t));
+  };
+  // selector de temporalidad
+  $('freq').onclick = e => {
+    const b = e.target.closest('.segbtn'); if (!b) return;
+    freq = b.dataset.f;
+    document.querySelectorAll('.segbtn').forEach(s => s.classList.toggle('on', s === b));
+    dibujarIndice();
+  };
+  $('sort').onclick = e => { const c = e.target.closest('.chip'); if (!c) return; orden = c.dataset.o; renderLista(); };
+
+  renderHero();
+  dibujarIndice();
+  $('method-body').innerHTML = metodologia();
+  $('sort').innerHTML = [['precio', 'Más barata'], ['nombre', 'Nombre'], ['suba', 'Más aumentó']]
+    .map(([k, t]) => `<span class="chip ${k === orden ? 'on' : ''}" data-o="${k}">${t}</span>`).join('');
+  renderLista();
+}
+
+function renderHero() {
+  const n = D.fechas.length, idx = D.indice[n - 1], v = idx - 100;
   $('h-indice').textContent = idx.toFixed(1);
   const vEl = $('h-var');
-  if (n > 1) {
-    vEl.textContent = (varPct >= 0 ? '▲ +' : '▼ ') + varPct.toFixed(1) + '% desde el inicio';
-    vEl.className = 'var ' + (varPct >= 0 ? 'pos' : 'neg');
-  } else {
-    vEl.textContent = 'Primer día de medición';
-    vEl.className = 'var';
-  }
-  $('h-base').textContent = 'Base 100 · ' + fmtFechaLarga(D.base);
-
+  if (n > 1) { vEl.textContent = (v >= 0 ? '▲ +' : '▼ ') + v.toFixed(1) + '% desde el inicio'; vEl.className = 'var ' + (v >= 0 ? 'pos' : 'neg'); }
+  else { vEl.textContent = 'Primer día de medición'; vEl.className = 'var'; }
+  $('h-base').textContent = 'Base 100 · ' + fmtLarga(D.base);
   const st = D.stats[n - 1];
   $('h-mediana').textContent = peso(st.mediana);
   $('h-rango').textContent = 'entre ' + peso(st.min) + ' y ' + peso(st.max);
   $('h-cuenta').textContent = st.n_productos + ' yerbas';
   $('h-cadenas').textContent = D.cadenas.length + ' cadenas · ' + st.n_items + ' precios';
-  $('actu').textContent = 'Actualizado: ' + fmtFechaLarga(D.actualizado);
-
-  $('chart-wrap').innerHTML = chartIndice();
-  $('method-body').innerHTML = metodologia();
-
-  $('sort').innerHTML = [['precio','Más barata'],['nombre','Nombre'],['suba','Más aumentó']]
-    .map(([k, t]) => `<span class="chip ${k===orden?'on':''}" data-o="${k}">${t}</span>`).join('');
-  $('sort').onclick = e => { const c = e.target.closest('.chip'); if (!c) return; orden = c.dataset.o; render(); };
-
-  renderLista();
+  $('cap-note').innerHTML = 'Actualizado: <span class="actu">' + fmtLarga(D.actualizado) + '</span>. El precio se toma una vez por día, ~10&nbsp;h de Tucumán.';
 }
 
-// --- gráfico de líneas del índice (SVG puro) ---
-function chartIndice() {
-  const f = D.fechas, y = D.indice;
-  if (f.length < 2) {
-    return `<div class="chart-empty">El índice arrancó el ${fmtFechaLarga(D.base)}. La curva aparece a partir del segundo día de medición.<br>Hoy el índice está en <b>${y[0].toFixed(1)}</b> (base).</div>`;
+function dibujarIndice() {
+  const r = resample(D.fechas, D.indice, freq);
+  const etiqueta = { diaria: 'día', semanal: 'semana', mensual: 'mes' }[freq];
+  if (r.fechas.length < 2) {
+    $('chart-wrap').innerHTML = `<div class="chart-empty">Todavía hay datos de <b>un solo ${etiqueta === 'día' ? 'día' : etiqueta}</b>. La curva aparece cuando haya al menos dos.<br>Hoy el índice está en <b>${D.indice[D.indice.length - 1].toFixed(1)}</b> (base 100 = ${fmtLarga(D.base)}).</div>`;
+    return;
   }
-  const W = 820, H = 260, ML = 44, MR = 16, MT = 16, MB = 28;
+  $('chart-wrap').innerHTML = lineChart(r.fechas, [{ valores: r.valores, color: '#14395f', width: 2.2, dots: true }], { base100: true });
+}
+
+// --- gráfico de líneas genérico (SVG puro). series: [{valores, color, width, dots}] ---
+function lineChart(fechas, series, opts = {}) {
+  const W = 820, H = opts.height || 250, ML = 46, MR = 14, MT = 14, MB = 26;
   const iw = W - ML - MR, ih = H - MT - MB;
-  let lo = Math.min(...y), hi = Math.max(...y);
-  const pad = Math.max((hi - lo) * 0.15, 1.5); lo -= pad; hi += pad;
-  const X = i => ML + (f.length === 1 ? iw / 2 : iw * i / (f.length - 1));
+  const vals = series.flatMap(s => s.valores).filter(v => v != null);
+  let lo = Math.min(...vals), hi = Math.max(...vals);
+  if (opts.base100) { lo = Math.min(lo, 100); hi = Math.max(hi, 100); }
+  const pad = Math.max((hi - lo) * 0.15, opts.base100 ? 1.5 : Math.max(hi * 0.04, 1));
+  lo -= pad; hi += pad; if (hi === lo) { hi += 1; lo -= 1; }
+  const X = i => ML + (fechas.length === 1 ? iw / 2 : iw * i / (fechas.length - 1));
   const Y = v => MT + ih * (1 - (v - lo) / (hi - lo));
-  // grilla horizontal (4 líneas)
-  let grid = '', ticks = 4;
-  for (let t = 0; t <= ticks; t++) {
-    const v = lo + (hi - lo) * t / ticks, yy = Y(v);
-    grid += `<line x1="${ML}" y1="${yy.toFixed(1)}" x2="${W-MR}" y2="${yy.toFixed(1)}" stroke="#e6e1d6"/>`;
-    grid += `<text x="${ML-8}" y="${(yy+3).toFixed(1)}" text-anchor="end" font-size="10">${v.toFixed(0)}</text>`;
+  const fmtY = opts.base100 ? (v => v.toFixed(0)) : (v => '$' + Math.round(v).toLocaleString('es-AR'));
+  let grid = '';
+  for (let t = 0; t <= 4; t++) {
+    const val = lo + (hi - lo) * t / 4, yy = Y(val);
+    grid += `<line x1="${ML}" y1="${yy.toFixed(1)}" x2="${W - MR}" y2="${yy.toFixed(1)}" stroke="#e6e1d6"/>`;
+    grid += `<text x="${ML - 8}" y="${(yy + 3).toFixed(1)}" text-anchor="end" font-size="10">${fmtY(val)}</text>`;
   }
-  // línea base 100
-  const y100 = Y(100);
-  const base100 = (100 >= lo && 100 <= hi)
-    ? `<line x1="${ML}" y1="${y100.toFixed(1)}" x2="${W-MR}" y2="${y100.toFixed(1)}" stroke="#d7d1c3" stroke-dasharray="4 4"/>`
-    : '';
-  const pts = y.map((v, i) => `${X(i).toFixed(1)},${Y(v).toFixed(1)}`).join(' ');
-  const area = `M${X(0).toFixed(1)},${(MT+ih).toFixed(1)} L` + y.map((v, i) => `${X(i).toFixed(1)},${Y(v).toFixed(1)}`).join(' L') + ` L${X(f.length-1).toFixed(1)},${(MT+ih).toFixed(1)} Z`;
-  // etiquetas de fecha: primera, última y algunas del medio
+  let base = '';
+  if (opts.base100 && 100 >= lo && 100 <= hi) { const y1 = Y(100); base = `<line x1="${ML}" y1="${y1.toFixed(1)}" x2="${W - MR}" y2="${y1.toFixed(1)}" stroke="#d7d1c3" stroke-dasharray="4 4"/>`; }
+  let lines = '';
+  for (const s of series) {
+    const pts = [];
+    s.valores.forEach((v, i) => { if (v != null) pts.push(`${X(i).toFixed(1)},${Y(v).toFixed(1)}`); });
+    if (!pts.length) continue;
+    lines += `<polyline points="${pts.join(' ')}" fill="none" stroke="${s.color}" stroke-width="${s.width || 2}" stroke-linejoin="round" stroke-linecap="round"/>`;
+    if (s.dots) s.valores.forEach((v, i) => { if (v != null) lines += `<circle cx="${X(i).toFixed(1)}" cy="${Y(v).toFixed(1)}" r="${i === s.valores.length - 1 ? 3.4 : 2}" fill="${s.color}"/>`; });
+  }
   let xlab = '';
-  const step = Math.max(1, Math.ceil(f.length / 6));
-  for (let i = 0; i < f.length; i += step) xlab += `<text x="${X(i).toFixed(1)}" y="${H-8}" text-anchor="middle" font-size="10">${fmtFecha(f[i])}</text>`;
-  xlab += `<text x="${X(f.length-1).toFixed(1)}" y="${H-8}" text-anchor="middle" font-size="10">${fmtFecha(f[f.length-1])}</text>`;
-  const dots = y.map((v, i) => `<circle cx="${X(i).toFixed(1)}" cy="${Y(v).toFixed(1)}" r="${i===y.length-1?3.5:2}" fill="#14395f"/>`).join('');
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
-    ${grid}${base100}
-    <path d="${area}" fill="#eaf0f6" opacity="0.7"/>
-    <polyline points="${pts}" fill="none" stroke="#14395f" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
-    ${dots}${xlab}
-  </svg>`;
+  const step = Math.max(1, Math.ceil(fechas.length / 6));
+  for (let i = 0; i < fechas.length; i += step) xlab += `<text x="${X(i).toFixed(1)}" y="${H - 7}" text-anchor="middle" font-size="10">${fmtCorta(fechas[i])}</text>`;
+  xlab += `<text x="${X(fechas.length - 1).toFixed(1)}" y="${H - 7}" text-anchor="middle" font-size="10">${fmtCorta(fechas[fechas.length - 1])}</text>`;
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">${grid}${base}${lines}${xlab}</svg>`;
 }
 
 function renderLista() {
-  const f = D.fechas, n = f.length;
-  // arma vista por producto con precio mínimo de hoy
+  const n = D.fechas.length;
   const items = D.productos.map(p => {
-    const hoy = {};
-    let min = Infinity, minCad = null;
+    const hoy = {}; let min = Infinity, minCad = null;
     for (const cad of D.cadenas) {
       const s = p.series[cad]; if (!s) continue;
       const v = ultimo(s); if (v == null) continue;
       hoy[cad] = v; if (v < min) { min = v; minCad = cad; }
     }
-    const varProd = p.indice[n - 1] - 100;
-    return { p, hoy, min: min === Infinity ? null : min, minCad, varProd };
+    return { p, hoy, min: min === Infinity ? null : min, minCad, varProd: p.indice[n - 1] - 100 };
   }).filter(x => x.min != null);
 
   if (orden === 'precio') items.sort((a, b) => a.min - b.min);
   else if (orden === 'nombre') items.sort((a, b) => a.p.nombre.localeCompare(b.p.nombre, 'es'));
   else if (orden === 'suba') items.sort((a, b) => b.varProd - a.varProd);
 
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c.dataset.o === orden));
+
   $('lista').innerHTML = items.map(({ p, hoy, min, minCad, varProd }) => {
-    const cads = D.cadenas.filter(c => hoy[c] != null)
-      .sort((a, b) => hoy[a] - hoy[b])
-      .map(c => `<span class="cadprice ${c===minCad?'min':''}">${c} <b>${peso(hoy[c])}</b></span>`).join('');
-    const foto = p.img
-      ? `<div class="foto"><img src="${p.img}" loading="lazy" onerror="this.parentNode.classList.add('sinfoto');this.remove();"></div>`
-      : '<div class="foto sinfoto">sin foto</div>';
-    const vtxt = n > 1 ? `<span class="cadprice">${varProd>=0?'+':''}${varProd.toFixed(1)}% desde inicio</span>` : '';
+    const cads = D.cadenas.filter(c => hoy[c] != null).sort((a, b) => hoy[a] - hoy[b])
+      .map(c => `<span class="cadprice ${c === minCad ? 'min' : ''}">${c} <b>${peso(hoy[c])}</b></span>`).join('');
+    const foto = p.img ? `<div class="foto"><img src="${p.img}" loading="lazy" onerror="this.parentNode.classList.add('sinfoto');this.remove();"></div>` : '<div class="foto sinfoto">sin foto</div>';
+    const vtxt = n > 1 ? `<span class="cadprice">${varProd >= 0 ? '+' : ''}${varProd.toFixed(1)}% desde inicio</span>` : '';
     return `<div class="yrow" data-id="${encodeURIComponent(p.id)}">
-      <div class="yhead">
-        ${foto}
-        <div class="cuerpo">
-          <div class="pn">${p.nombre}</div>
-          <div class="pm">${p.marca || ''}</div>
-          <div class="prices">${cads}</div>
-        </div>
-        <div class="pmin">
-          <div class="v">${peso(min)}</div>
-          <div class="k">${minCad}</div>
-          ${vtxt}
-        </div>
+      <div class="yhead">${foto}
+        <div class="cuerpo"><div class="pn">${p.nombre}</div><div class="pm">${p.marca || ''}</div><div class="prices">${cads}</div></div>
+        <div class="pmin"><div class="v">${peso(min)}</div><div class="k">${minCad}</div>${vtxt}</div>
         <div class="caret">▶</div>
       </div>
       <div class="ydetail"></div>
     </div>`;
   }).join('') || '<div class="estado">Sin datos todavía.</div>';
 
-  // acordeón
   document.querySelectorAll('.yrow').forEach(row => {
     row.querySelector('.yhead').onclick = () => {
       const abrir = !row.classList.contains('open');
@@ -342,34 +391,69 @@ function renderLista() {
   });
 }
 
-// tabla de evolución por cadena de un producto
+// drill-down de un producto: gráfico por cadena + tabla
 function detalle(p) {
   const f = D.fechas;
-  const cadsConDato = D.cadenas.filter(c => p.series[c]);
-  const leyenda = cadsConDato.map(c => `<span><i style="background:${colCad(c)}"></i>${c}</span>`).join('');
-  // filas: una por fecha; columnas: cada cadena
+  const cads = D.cadenas.filter(c => p.series[c]);
+  const series = cads.map(c => ({ valores: p.series[c], color: colCad(c), width: 1.8, dots: true }));
+  const grafico = f.length < 2
+    ? `<div class="chart-empty">El gráfico de esta yerba aparece a partir del segundo día de medición.</div>`
+    : lineChart(f, series, { height: 210 });
+  const leyenda = cads.map(c => `<span><i style="background:${colCad(c)}"></i>${c}</span>`).join('');
   let filas = '';
   for (let i = f.length - 1; i >= 0; i--) {
     let celdas = '';
-    for (const c of cadsConDato) {
-      const v = p.series[c][i];
-      celdas += v != null ? `<td>${peso(v)}</td>` : `<td class="na">—</td>`;
-    }
-    filas += `<tr><td>${fmtFecha(f[i])}</td>${celdas}<td><b>${p.indice[i].toFixed(1)}</b></td></tr>`;
+    for (const c of cads) { const v = p.series[c][i]; celdas += v != null ? `<td>${peso(v)}</td>` : `<td class="na">—</td>`; }
+    filas += `<tr><td>${fmtCorta(f[i])}</td>${celdas}<td><b>${p.indice[i].toFixed(1)}</b></td></tr>`;
   }
-  const heads = cadsConDato.map(c => `<th style="color:${colCad(c)}">${c}</th>`).join('');
-  return `<div class="dt-title">Precio por cadena · día a día</div>
-    <div style="overflow-x:auto"><table class="evo">
-      <thead><tr><th>Fecha</th>${heads}<th>Índice</th></tr></thead>
-      <tbody>${filas}</tbody>
-    </table></div>
-    <div class="legend">${leyenda}<span><i style="background:#14395f"></i>Índice del producto (base 100)</span></div>`;
+  const heads = cads.map(c => `<th style="color:${colCad(c)}">${c}</th>`).join('');
+  return `<div class="dt-title">Precio por cadena en el tiempo</div>${grafico}
+    <div class="legend">${leyenda}</div>
+    <div class="dt-title">Detalle día a día</div>
+    <div style="overflow-x:auto"><table class="evo"><thead><tr><th>Fecha</th>${heads}<th>Índice</th></tr></thead><tbody>${filas}</tbody></table></div>`;
 }
 
 function metodologia() {
-  return `Seguimos <b>todas las yerbas de 1&nbsp;kg</b> que se venden online en los supermercados de Tucumán. Cada día, a la misma hora, tomamos el precio de góndola de cada una en cada cadena.
-  <br><br>El índice es un <b>Jevons encadenado</b>, el método que usan los institutos de estadística con precios web: para cada par de días consecutivos calculamos cuánto cambió el precio de <b>cada yerba en cada cadena por separado</b> (solo las que aparecen los dos días) y promediamos esas variaciones con media geométrica. Las yerbas que entran o salen del muestreo no ensucian el índice —eso es lo que un promedio simple hace mal—. Base 100 = ${fmtFechaLarga(D.base)}.
-  <br><br>No se pondera por ventas (no tenemos ese dato): cada yerba pesa igual y lo decimos abierto. Se incluyen precios de oferta (es el precio real disponible al público) y se descartan saltos absurdos de un día para otro (probables errores de dato). Todo el desglose —cada yerba, cada cadena, cada día— está arriba, para que cualquiera revise el número.`;
+  const base = fmtLarga(D.base);
+  return `
+  <h3>Qué mide</h3>
+  <p>Este índice sigue <b>cómo cambia en el tiempo el precio de la yerba mate de 1&nbsp;kg</b> en los supermercados de Tucumán. No es un promedio de precios: es un número, con base 100 el primer día (${base}), que sube o baja según cuánto se movieron los precios. Un valor de 110 significa que la yerba, en conjunto, está 10% más cara que el día base.</p>
+
+  <h3>Qué entra</h3>
+  <ul>
+    <li><b>Todas las marcas</b> de yerba que se venden online en Tucumán, en paquete de <b>1&nbsp;kg exacto</b> (no medios kilos ni packs). Al ser todas del mismo tamaño, el precio es directamente comparable, sin normalizar por gramaje.</li>
+    <li>Las cadenas: Carrefour, Vea, Jumbo, Comodín, ChangoMás y Tuchanguito.</li>
+    <li>Se incluye el <b>precio de oferta</b> cuando lo hay: es el precio real de góndola que paga la gente ese día (así lo hacen los índices oficiales).</li>
+  </ul>
+
+  <h3>Cómo se calcula: Jevons encadenado</h3>
+  <p>Es el método que usan los institutos de estadística con precios relevados por web. La idea central: <b>se compara cada yerba contra sí misma</b>, en cada cadena por separado. "Playadito en Vea" es una serie; "Playadito en Jumbo" es otra distinta.</p>
+  <p>Para cada par de días consecutivos, se calcula cuánto cambió el precio de cada yerba en cada cadena (la <i>relativa</i> = precio de hoy ÷ precio de ayer), <b>usando sólo las que aparecen los dos días</b>. Después se promedian esas variaciones con <b>media geométrica</b>:</p>
+  <div class="formula">Índice<sub>hoy</sub> = Índice<sub>ayer</sub> × media geométrica( precio<sub>hoy</sub> ÷ precio<sub>ayer</sub> )</div>
+  <div class="box">Las yerbas que <b>entran o salen</b> del muestreo no ensucian el índice, porque una variación necesita que el producto esté los dos días. Eso es lo que un promedio simple hace mal: si aparece una yerba premium nueva, el promedio salta aunque ningún precio haya cambiado. Acá no.</div>
+  <p><b>No se pondera por ventas</b> (no tenemos ese dato público): cada yerba pesa igual, y lo decimos abierto. Como el índice combina más de 100 series, una oferta puntual en una sola yerba mueve el número general apenas ~0,2% — el índice sólo se mueve fuerte cuando se mueven muchos precios a la vez.</p>
+
+  <h3>Diaria, semanal y mensual</h3>
+  <p>El índice se calcula <b>diariamente</b>. Las vistas semanal y mensual son el mismo índice observado al <b>cierre de cada semana / mes</b>: como es un índice encadenado, el valor de fin de período ya acumula todas las variaciones diarias del período, así que la variación semana a semana (o mes a mes) es exacta. Sirven para ver la tendencia con menos ruido de promociones diarias.</p>
+
+  <h3>Cuándo se toma el precio</h3>
+  <p>Una sola captura por día, <b>a la misma hora (~10&nbsp;h de Tucumán)</b>. Tomar siempre a la misma hora hace que la serie sea comparable día a día y evita el ruido de promos que prenden y apagan durante el día.</p>
+
+  <h3>Control de calidad</h3>
+  <ul>
+    <li>La identidad de cada producto entre cadenas y entre días se define con una firma normalizada del nombre y la marca (une "ROSAMONTE" con "Rosamonte", etc.).</li>
+    <li>Se descarta cualquier variación de precio absurda de un día para otro (fuera del rango 0,5×–2×): casi siempre es un error de carga de la tienda, no inflación real.</li>
+  </ul>
+
+  <h3>Datos abiertos</h3>
+  <p>Todo el desglose está en la pestaña <b>Las yerbas</b>: cada yerba, cada cadena, cada día, con su gráfico. Los datos crudos de cada día se guardan y quedan versionados, así el índice siempre se puede recalcular o revisar. Trabajamos sólo con precios públicos de las tiendas online; no usamos cuentas ni credenciales.</p>
+
+  <h3>Límites</h3>
+  <ul>
+    <li>Es el precio <b>online</b> de góndola; puede diferir del local físico y no incluye descuentos por medio de pago.</li>
+    <li>Vea y Jumbo (Cencosud) no exponen precio geolocalizado sin login, así que para esas dos el precio es el online nacional.</li>
+    <li>La serie <b>arranca el ${base}</b> y se acumula hacia adelante: no hay histórico previo posible.</li>
+  </ul>`;
 }
 </script>
 </body>
