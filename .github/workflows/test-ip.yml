@@ -1,0 +1,19 @@
+name: Test IP (conectividad supermercados)
+
+# Sólo se corre a mano (no en cada push). Sirve para probar si las APIs de los
+# supermercados responden desde la IP de GitHub Actions (datacenter) antes de decidir
+# migrar la automatización a la nube.
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test de conectividad por cadena
+        run: python3 scripts/test_ip.py
