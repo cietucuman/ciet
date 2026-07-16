@@ -29,7 +29,25 @@
    "precio_2da": 8300.0,
    "baja_pct": 50.0,
    "brecha_pct": 51.2,
-   "score": 2560
+   "score": 2560,
+   "pr": {
+    "Carrefour": [
+     8300.0,
+     "https://www.carrefour.com.ar/miel-untable-aleluya-500-g-39141/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p"
+    ],
+    "Jumbo": [
+     4050.0,
+     "https://www.jumbo.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p"
+    ],
+    "Comodín": [
+     9165.59,
+     "https://www.comodinencasa.com.ar/miel-aleluya-untable-pet-x-500-gr/p"
+    ]
+   }
   },
   {
    "n": "Jugo natural manzana Del Valle 1 l.",
@@ -42,7 +60,21 @@
    "precio_2da": 2000.0,
    "baja_pct": 50.0,
    "brecha_pct": 50.0,
-   "score": 2500
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     2000.0,
+     "https://www.carrefour.com.ar/jugo-natural-manzana-del-valle-1-l/p"
+    ],
+    "Vea": [
+     2000.0,
+     "https://www.vea.com.ar/jugo-del-valle-manzana-1-l/p"
+    ],
+    "Jumbo": [
+     1000.0,
+     "https://www.jumbo.com.ar/jugo-del-valle-manzana-1-l/p"
+    ]
+   }
   },
   {
    "n": "Cereal Sabor Frutas 195 Grs Froot Loops",
@@ -55,7 +87,21 @@
    "precio_2da": 4299.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.8,
-   "score": 2441
+   "score": 2441,
+   "pr": {
+    "Vea": [
+     4300.0,
+     "https://www.vea.com.ar/cereal-froot-loops-x195g/p"
+    ],
+    "Jumbo": [
+     2200.0,
+     "https://www.jumbo.com.ar/cereal-froot-loops-x195g/p"
+    ],
+    "Carrefour": [
+     4299.0,
+     "https://www.carrefour.com.ar/aros-de-cereal-frutado-kellogs-froot-loops-en-bolsa-195-g-733171/p"
+    ]
+   }
   },
   {
    "n": "Chocolate Aguila Para Taza 100 Gr",
@@ -68,7 +114,25 @@
    "precio_2da": 5944.69,
    "baja_pct": 50.0,
    "brecha_pct": 48.7,
-   "score": 2435
+   "score": 2435,
+   "pr": {
+    "Jumbo": [
+     3050.0,
+     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-100-gr/p"
+    ],
+    "Comodín": [
+     5944.69,
+     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-100gr/p"
+    ],
+    "ChangoMás": [
+     6399.0,
+     "https://www.masonline.com.ar/chocolate-taza-aguila-100-gr-2/p"
+    ],
+    "Carrefour": [
+     6400.0,
+     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-100-g-16788/p"
+    ]
+   }
   },
   {
    "n": "Miel Liquida Sin Tacc Aleluya 500 Gr",
@@ -81,7 +145,21 @@
    "precio_2da": 7500.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.7,
-   "score": 2433
+   "score": 2433,
+   "pr": {
+    "Vea": [
+     7500.0,
+     "https://www.vea.com.ar/miel-liquida-sin-tacc-aleluya-500-gr/p"
+    ],
+    "Jumbo": [
+     3850.0,
+     "https://www.jumbo.com.ar/miel-liquida-sin-tacc-aleluya-500-gr/p"
+    ],
+    "ChangoMás": [
+     8109.0,
+     "https://www.masonline.com.ar/miel-frasco-sin-tacc-aleluya-500gr-2/p"
+    ]
+   }
   },
   {
    "n": "Mermelada Frutilla Light 400 Gr El Brocal",
@@ -94,7 +172,21 @@
    "precio_2da": 8150.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.5,
-   "score": 2423
+   "score": 2423,
+   "pr": {
+    "Vea": [
+     8150.0,
+     "https://www.vea.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p"
+    ],
+    "Jumbo": [
+     4200.0,
+     "https://www.jumbo.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p"
+    ],
+    "Carrefour": [
+     8150.0,
+     "https://www.carrefour.com.ar/mermelada-el-brocal-de-frutilla-light-400-g-609937/p"
+    ]
+   }
   },
   {
    "n": "Miel extra white Beepure en frasco 500 grs",
@@ -107,7 +199,21 @@
    "precio_2da": 10200.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.3,
-   "score": 2414
+   "score": 2414,
+   "pr": {
+    "Carrefour": [
+     10200.0,
+     "https://www.carrefour.com.ar/miel-extra-white-beepure-en-frasco-500-grs-764448/p"
+    ],
+    "Vea": [
+     10200.0,
+     "https://www.vea.com.ar/miel-cremosa-extra-white-frasco-x-500-gr-beepure/p"
+    ],
+    "Jumbo": [
+     5275.0,
+     "https://www.jumbo.com.ar/miel-cremosa-extra-white-frasco-x-500-gr-beepure/p"
+    ]
+   }
   },
   {
    "n": "Dulce de frambuesa light Masseube patagónico sin azúcar 260 g.",
@@ -120,7 +226,21 @@
    "precio_2da": 8300.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.2,
-   "score": 2410
+   "score": 2410,
+   "pr": {
+    "Carrefour": [
+     8300.0,
+     "https://www.carrefour.com.ar/dulce-de-frambuesa-light-masseube-patagonico-sin-azucar-260-g/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/mermelada-diet-frambuesa-260-gr-masseube/p"
+    ],
+    "Jumbo": [
+     4300.0,
+     "https://www.jumbo.com.ar/mermelada-diet-frambuesa-260-gr-masseube/p"
+    ]
+   }
   },
   {
    "n": "Mermelada de damasco Schwartau en frasco 340 g.",
@@ -133,7 +253,21 @@
    "precio_2da": 6900.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.2,
-   "score": 2409
+   "score": 2409,
+   "pr": {
+    "Carrefour": [
+     7890.0,
+     "https://www.carrefour.com.ar/mermelada-de-damasco-schwartau-en-frasco-340-g-743717/p"
+    ],
+    "Vea": [
+     6900.0,
+     "https://www.vea.com.ar/mermelada-schwartau-artesanal-2/p"
+    ],
+    "Jumbo": [
+     3575.0,
+     "https://www.jumbo.com.ar/mermelada-schwartau-artesanal-2/p"
+    ]
+   }
   },
   {
    "n": "Mermelada El Brocal de durazno frasco 420 g.",
@@ -146,7 +280,21 @@
    "precio_2da": 6750.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.1,
-   "score": 2407
+   "score": 2407,
+   "pr": {
+    "Carrefour": [
+     6750.0,
+     "https://www.carrefour.com.ar/mermelada-el-brocal-de-durazno-frasco-420-g-281415/p"
+    ],
+    "Vea": [
+     6750.0,
+     "https://www.vea.com.ar/mermelada-de-durazno-420-gr-el-brocal/p"
+    ],
+    "Jumbo": [
+     3500.0,
+     "https://www.jumbo.com.ar/mermelada-de-durazno-420-gr-el-brocal/p"
+    ]
+   }
   },
   {
    "n": "Mermelada De Frutilla 420 Gr El Brocal",
@@ -159,7 +307,21 @@
    "precio_2da": 7550.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.0,
-   "score": 2401
+   "score": 2401,
+   "pr": {
+    "Vea": [
+     7550.0,
+     "https://www.vea.com.ar/mermelada-de-frutilla-420-gr-el-brocal/p"
+    ],
+    "Jumbo": [
+     3925.0,
+     "https://www.jumbo.com.ar/mermelada-de-frutilla-420-gr-el-brocal/p"
+    ],
+    "Carrefour": [
+     7550.0,
+     "https://www.carrefour.com.ar/mermelada-de-frutilla-el-brocal-frasco-420-g/p"
+    ]
+   }
   },
   {
    "n": "Mermelada de frutos rojos El Brocal 420 g.",
@@ -172,7 +334,21 @@
    "precio_2da": 8400.0,
    "baja_pct": 50.0,
    "brecha_pct": 47.9,
-   "score": 2396
+   "score": 2396,
+   "pr": {
+    "Carrefour": [
+     8400.0,
+     "https://www.carrefour.com.ar/mermelada-de-frutos-rojos-el-brocal-420-g/p"
+    ],
+    "Vea": [
+     8400.0,
+     "https://www.vea.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
+    ],
+    "Jumbo": [
+     4375.0,
+     "https://www.jumbo.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
+    ]
+   }
   },
   {
    "n": "Mermelada El Brocal Higo 420 Gr",
@@ -185,7 +361,21 @@
    "precio_2da": 6750.0,
    "baja_pct": 50.0,
    "brecha_pct": 47.4,
-   "score": 2370
+   "score": 2370,
+   "pr": {
+    "Vea": [
+     6750.0,
+     "https://www.vea.com.ar/mermelada-el-brocal-higo-420-gr/p"
+    ],
+    "Jumbo": [
+     3550.0,
+     "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p"
+    ],
+    "Carrefour": [
+     6750.0,
+     "https://www.carrefour.com.ar/mermelada-de-higo-el-brocal-frasco-420-g/p"
+    ]
+   }
   },
   {
    "n": "Mermelada Light Sabor Durazno 390 Grs Cormillot",
@@ -198,7 +388,21 @@
    "precio_2da": 2956.69,
    "baja_pct": 50.0,
    "brecha_pct": 46.7,
-   "score": 2337
+   "score": 2337,
+   "pr": {
+    "Jumbo": [
+     1575.0,
+     "https://www.jumbo.com.ar/mermelada-light-cormillot-durazno-390-gr/p"
+    ],
+    "Comodín": [
+     2956.69,
+     "https://www.comodinencasa.com.ar/mermelada-cormillot-light-duraz-x-390-g/p"
+    ],
+    "ChangoMás": [
+     3239.0,
+     "https://www.masonline.com.ar/mermelada-cormillot-durazno-light-390-gr-2/p"
+    ]
+   }
   },
   {
    "n": "Mermelada Light Cormillot Frutilla 390 Gr",
@@ -211,7 +415,21 @@
    "precio_2da": 3778.19,
    "baja_pct": 50.0,
    "brecha_pct": 46.4,
-   "score": 2320
+   "score": 2320,
+   "pr": {
+    "Vea": [
+     4050.0,
+     "https://www.vea.com.ar/mermelada-light-cormillot-frutilla-390-gr/p"
+    ],
+    "Jumbo": [
+     2025.0,
+     "https://www.jumbo.com.ar/mermelada-light-cormillot-frutilla-390-gr/p"
+    ],
+    "Comodín": [
+     3778.19,
+     "https://www.comodinencasa.com.ar/mermelada-cormillot-light-frut-x-390-gr/p"
+    ]
+   }
   },
   {
    "n": "Mermelada Arcor de durazno 454 g.",
@@ -224,7 +442,29 @@
    "precio_2da": 3015.99,
    "baja_pct": 50.0,
    "brecha_pct": 45.3,
-   "score": 2265
+   "score": 2265,
+   "pr": {
+    "Carrefour": [
+     3129.0,
+     "https://www.carrefour.com.ar/mermelada-arcor-de-durazno-454-g/p"
+    ],
+    "Vea": [
+     3127.0,
+     "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p"
+    ],
+    "Jumbo": [
+     1650.0,
+     "https://www.jumbo.com.ar/mermeladas-arcor-durazno-454gr/p"
+    ],
+    "Comodín": [
+     3015.99,
+     "https://www.comodinencasa.com.ar/mermelada-arcor-durazno-f-454-gr/p"
+    ],
+    "Tuchanguito": [
+     3099.0,
+     "https://www.tuchanguito.com.ar/productos/merm-arcor-durazno-454-gr/"
+    ]
+   }
   },
   {
    "n": "Mermelada Extra Sabor Frutilla 340 Grs Schwartau",
@@ -237,7 +477,21 @@
    "precio_2da": 7890.0,
    "baja_pct": 50.0,
    "brecha_pct": 44.9,
-   "score": 2243
+   "score": 2243,
+   "pr": {
+    "Vea": [
+     8350.0,
+     "https://www.vea.com.ar/mermelada-schwartau-artesanal-6/p"
+    ],
+    "Jumbo": [
+     4350.0,
+     "https://www.jumbo.com.ar/mermelada-schwartau-artesanal-6/p"
+    ],
+    "Carrefour": [
+     7890.0,
+     "https://www.carrefour.com.ar/mermelada-de-frutilla-schawartau-en-frasco-340-g-743718/p"
+    ]
+   }
   },
   {
    "n": "Mermeladas Light Arcor Ciruela 390gr",
@@ -250,7 +504,29 @@
    "precio_2da": 3119.99,
    "baja_pct": 50.0,
    "brecha_pct": 43.9,
-   "score": 2196
+   "score": 2196,
+   "pr": {
+    "Vea": [
+     3312.0,
+     "https://www.vea.com.ar/mermeladas-light-arcor-ciruela-390gr/p"
+    ],
+    "Jumbo": [
+     1750.0,
+     "https://www.jumbo.com.ar/mermeladas-light-arcor-ciruela-390gr/p"
+    ],
+    "Comodín": [
+     3119.99,
+     "https://www.comodinencasa.com.ar/mermelada-arcor-ciruela-light-f-390-gr/p"
+    ],
+    "ChangoMás": [
+     3519.0,
+     "https://www.masonline.com.ar/mermelada-arcor-light-de-ciruela-390gr-2/p"
+    ],
+    "Carrefour": [
+     3309.0,
+     "https://www.carrefour.com.ar/mermelada-arcor-ciruela-light-390-g/p"
+    ]
+   }
   },
   {
    "n": "Jugo Del Valle Naranja 1 L",
@@ -263,7 +539,29 @@
    "precio_2da": 1763.89,
    "baja_pct": 50.0,
    "brecha_pct": 41.9,
-   "score": 2094
+   "score": 2094,
+   "pr": {
+    "Vea": [
+     2000.0,
+     "https://www.vea.com.ar/jugo-del-valle-naranja-1-l/p"
+    ],
+    "Jumbo": [
+     1025.0,
+     "https://www.jumbo.com.ar/jugo-del-valle-naranja-1-l/p"
+    ],
+    "Comodín": [
+     1763.89,
+     "https://www.comodinencasa.com.ar/bebida-del-valle-naranja-sin-alcohol-x1l/p"
+    ],
+    "ChangoMás": [
+     2119.0,
+     "https://www.masonline.com.ar/jugo-naranja-del-valle-1000-cc-2/p"
+    ],
+    "Carrefour": [
+     2000.0,
+     "https://www.carrefour.com.ar/jugo-natural-del-valle-de-naranja-1-l/p"
+    ]
+   }
   },
   {
    "n": "Jugo Listo Sabor Multifruta 1 Lts Del Valle",
@@ -276,7 +574,29 @@
    "precio_2da": 1763.89,
    "baja_pct": 50.0,
    "brecha_pct": 41.9,
-   "score": 2094
+   "score": 2094,
+   "pr": {
+    "Vea": [
+     2000.0,
+     "https://www.vea.com.ar/jugo-del-valle-multifruta-1lt/p"
+    ],
+    "Jumbo": [
+     1025.0,
+     "https://www.jumbo.com.ar/jugo-del-valle-multifruta-1lt/p"
+    ],
+    "ChangoMás": [
+     2119.0,
+     "https://www.masonline.com.ar/jugo-multifruta-del-valle-1000-cc-2/p"
+    ],
+    "Carrefour": [
+     2000.0,
+     "https://www.carrefour.com.ar/jugo-natural-del-valle-de-multifruta-1-l/p"
+    ],
+    "Comodín": [
+     1763.89,
+     "https://www.comodinencasa.com.ar/bebida-del-valle-multifr-sin-alcohol-x1l/p"
+    ]
+   }
   },
   {
    "n": "Mermelada \"dulcor\" Frutilla X 500 Gr.",
@@ -289,7 +609,21 @@
    "precio_2da": 2110.0,
    "baja_pct": 50.0,
    "brecha_pct": 39.6,
-   "score": 1979
+   "score": 1979,
+   "pr": {
+    "Jumbo": [
+     1275.0,
+     "https://www.jumbo.com.ar/mermelada-dulcor-frutilla-x-500-gr/p"
+    ],
+    "Comodín": [
+     2210.79,
+     "https://www.comodinencasa.com.ar/mermelada-dulcor-frutilla-x-500-gr/p"
+    ],
+    "Tuchanguito": [
+     2110.0,
+     "https://www.tuchanguito.com.ar/productos/mermelada-dulcor-frutilla-500gr/"
+    ]
+   }
   },
   {
    "n": "Mermelada Dulcor Damasco 500 Gr",
@@ -302,7 +636,21 @@
    "precio_2da": 1693.74,
    "baja_pct": 50.0,
    "brecha_pct": 39.5,
-   "score": 1974
+   "score": 1974,
+   "pr": {
+    "Vea": [
+     2050.0,
+     "https://www.vea.com.ar/mermelada-dulcor-4/p"
+    ],
+    "Jumbo": [
+     1025.0,
+     "https://www.jumbo.com.ar/mermelada-dulcor-4/p"
+    ],
+    "Tuchanguito": [
+     1693.74,
+     "https://www.tuchanguito.com.ar/productos/mermelada-dulcor-damasco-500gr/"
+    ]
+   }
   },
   {
    "n": "Jugo Sabor Multifruta 200 Ml Del Valle",
@@ -315,7 +663,29 @@
    "precio_2da": 650.0,
    "baja_pct": 50.0,
    "brecha_pct": 38.5,
-   "score": 1923
+   "score": 1923,
+   "pr": {
+    "Carrefour": [
+     1199.0,
+     "https://www.carrefour.com.ar/jugo-cepita-del-valle-multifruta-200-ml-467824/p"
+    ],
+    "Comodín": [
+     1196.0,
+     "https://www.comodinencasa.com.ar/jugo-cepita-multifrutal-x-200-cc/p"
+    ],
+    "Vea": [
+     650.0,
+     "https://www.vea.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p"
+    ],
+    "Jumbo": [
+     400.0,
+     "https://www.jumbo.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p"
+    ],
+    "ChangoMás": [
+     729.0,
+     "https://www.masonline.com.ar/jugo-del-valle-multifruta-200ml-2/p"
+    ]
+   }
   },
   {
    "n": "Jugo natural Del Valle de naranja 200 cc.",
@@ -328,7 +698,25 @@
    "precio_2da": 650.0,
    "baja_pct": 50.0,
    "brecha_pct": 38.5,
-   "score": 1923
+   "score": 1923,
+   "pr": {
+    "Carrefour": [
+     650.0,
+     "https://www.carrefour.com.ar/jugo-natural-del-valle-de-naranja-200-cc/p"
+    ],
+    "Vea": [
+     650.0,
+     "https://www.vea.com.ar/jugo-listo-del-valle-naranja-200cc-2/p"
+    ],
+    "Jumbo": [
+     400.0,
+     "https://www.jumbo.com.ar/jugo-listo-del-valle-naranja-200cc-2/p"
+    ],
+    "ChangoMás": [
+     729.0,
+     "https://www.masonline.com.ar/jugo-naranja-del-valle-200-cc-2/p"
+    ]
+   }
   },
   {
    "n": "Jugo Sabor Manzana 200 Ml Del Valle",
@@ -341,7 +729,25 @@
    "precio_2da": 650.0,
    "baja_pct": 50.0,
    "brecha_pct": 38.5,
-   "score": 1923
+   "score": 1923,
+   "pr": {
+    "Vea": [
+     650.0,
+     "https://www.vea.com.ar/jugo-listo-del-valle-manzana-200cc-2/p"
+    ],
+    "Jumbo": [
+     400.0,
+     "https://www.jumbo.com.ar/jugo-listo-del-valle-manzana-200cc-2/p"
+    ],
+    "ChangoMás": [
+     789.0,
+     "https://www.masonline.com.ar/jugo-del-valle-de-manzana-200-ml-2/p"
+    ],
+    "Carrefour": [
+     650.0,
+     "https://www.carrefour.com.ar/jugo-natural-del-valle-de-manzana-200-cc-679157-679157/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo Arcor de limonada 15 grs",
@@ -354,7 +760,25 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
+    ],
+    "Vea": [
+     450.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
+    ],
+    "ChangoMás": [
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo Arcor de multifruta 15 grs",
@@ -367,7 +791,25 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
+    ],
+    "Vea": [
+     450.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
+    ],
+    "ChangoMás": [
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-multifruta-15-g/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo Arcor de naranja 15 grs",
@@ -380,7 +822,25 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+    ],
+    "Vea": [
+     450.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-15-g/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo Arcor de manzana 15 grs",
@@ -393,7 +853,25 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
+    ],
+    "Vea": [
+     450.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+    ],
+    "ChangoMás": [
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo Arcor de durazno 15 grs",
@@ -406,7 +884,21 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
+    ],
+    "Vea": [
+     450.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo Arcor de naranja dulce 15 grs",
@@ -419,7 +911,21 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+    ],
+    "Vea": [
+     450.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo BC La Campagnola naranja 7 g.",
@@ -432,7 +938,25 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-7-g/p"
+    ],
+    "Vea": [
+     400.0,
+     "https://www.vea.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-bc-7-gr-2/p"
+    ]
+   }
   },
   {
    "n": "Jugo en Polvo Sabor Manzana 7 Grs Bc",
@@ -445,7 +969,21 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Vea": [
+     400.0,
+     "https://www.vea.com.ar/jugo-manzana-roja-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
+    ],
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p"
+    ]
+   }
   },
   {
    "n": "Jugo En Polvo De Anana 7 Gr Bc",
@@ -458,7 +996,21 @@
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
-   "score": 1866
+   "score": 1866,
+   "pr": {
+    "Vea": [
+     400.0,
+     "https://www.vea.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-anana-bc-7-gr-2/p"
+    ]
+   }
   },
   {
    "n": "Mermelada Light Arcor Damasco 390gr",
@@ -471,7 +1023,21 @@
    "precio_2da": 2779.92,
    "baja_pct": 50.0,
    "brecha_pct": 37.0,
-   "score": 1852
+   "score": 1852,
+   "pr": {
+    "Vea": [
+     3312.0,
+     "https://www.vea.com.ar/mermelada-light-arcor-damasco-390gr/p"
+    ],
+    "Jumbo": [
+     1750.0,
+     "https://www.jumbo.com.ar/mermelada-light-arcor-damasco-390gr/p"
+    ],
+    "Tuchanguito": [
+     2779.92,
+     "https://www.tuchanguito.com.ar/productos/mermelada-arcor-light-frasco-duraz-x390g/"
+    ]
+   }
   },
   {
    "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
@@ -484,7 +1050,25 @@
    "precio_2da": 352.59,
    "baja_pct": 50.0,
    "brecha_pct": 36.2,
-   "score": 1809
+   "score": 1809,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
+    ],
+    "Vea": [
+     400.0,
+     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
+    "Comodín": [
+     352.59,
+     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
+    ]
+   }
   },
   {
    "n": "Arvejas Seca Arcor X300gr",
@@ -497,7 +1081,25 @@
    "precio_2da": 1077.7,
    "baja_pct": 39.1,
    "brecha_pct": 45.4,
-   "score": 1777
+   "score": 1777,
+   "pr": {
+    "Vea": [
+     1250.0,
+     "https://www.vea.com.ar/arvejas-seca-arcor-x300gr-2/p"
+    ],
+    "Jumbo": [
+     588.0,
+     "https://www.jumbo.com.ar/arvejas-seca-arcor-x300gr-2/p"
+    ],
+    "Tuchanguito": [
+     1187.99,
+     "https://www.tuchanguito.com.ar/productos/arveja-seca-arcor-300-gr/"
+    ],
+    "Comodín": [
+     1077.7,
+     "https://www.comodinencasa.com.ar/arvejas-arcor-secas-remojadas-300-gr/p"
+    ]
+   }
   },
   {
    "n": "Galletitas Oreo Rellenas con crema sabor original 354 g.",
@@ -510,7 +1112,21 @@
    "precio_2da": 6249.0,
    "baja_pct": 40.0,
    "brecha_pct": 41.0,
-   "score": 1638
+   "score": 1638,
+   "pr": {
+    "Carrefour": [
+     6249.0,
+     "https://www.carrefour.com.ar/galletitas-oreo-rellenas-con-crema-sabor-original-354-g-715951/p"
+    ],
+    "Vea": [
+     6421.0,
+     "https://www.vea.com.ar/galletitas-rellenas-con-crema-sabor-original-354-gr-x-3-un-oreo/p"
+    ],
+    "Jumbo": [
+     3690.0,
+     "https://www.jumbo.com.ar/galletitas-rellenas-con-crema-sabor-original-354-gr-x-3-un-oreo/p"
+    ]
+   }
   },
   {
    "n": "Nesfit Cereal Sin Azúcar 220 grs",
@@ -523,7 +1139,21 @@
    "precio_2da": 5200.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.2,
-   "score": 1607
+   "score": 1607,
+   "pr": {
+    "Carrefour": [
+     3111.0,
+     "https://www.carrefour.com.ar/nesfit-cereal-sin-azucar-220-grs-690360/p"
+    ],
+    "Vea": [
+     5200.0,
+     "https://www.vea.com.ar/cereal-sin-azucar-220-grs-nesfit/p"
+    ],
+    "Jumbo": [
+     5350.0,
+     "https://www.jumbo.com.ar/cereal-sin-azucar-220-grs-nesfit/p"
+    ]
+   }
   },
   {
    "n": "Escoba Virulana multiuso 1 u.",
@@ -536,7 +1166,25 @@
    "precio_2da": 8819.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1600
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     8819.0,
+     "https://www.carrefour.com.ar/escoba-virulana-multiuso-1-u/p"
+    ],
+    "Vea": [
+     8850.0,
+     "https://www.vea.com.ar/escoba-multiuso-virulana-2/p"
+    ],
+    "Jumbo": [
+     9200.0,
+     "https://www.jumbo.com.ar/escoba-multiuso-virulana-2/p"
+    ],
+    "ChangoMás": [
+     5291.4,
+     "https://www.masonline.com.ar/escoba-multiusos-virulana-1-u-2/p"
+    ]
+   }
   },
   {
    "n": "Jabón Líquido Hidrata y Purifica Jengibre 200 Ml Vn",
@@ -549,7 +1197,21 @@
    "precio_2da": 2250.0,
    "baja_pct": 33.3,
    "brecha_pct": 47.8,
-   "score": 1593
+   "score": 1593,
+   "pr": {
+    "Vea": [
+     2250.0,
+     "https://www.vea.com.ar/jabon-liquido-jengibre-hidrata-purifica-doypack-200-ml-villeneuve/p"
+    ],
+    "Jumbo": [
+     1175.0,
+     "https://www.jumbo.com.ar/jabon-liquido-jengibre-hidrata-purifica-doypack-200-ml-villeneuve/p"
+    ],
+    "ChangoMás": [
+     2259.0,
+     "https://www.masonline.com.ar/jabon-liquido-vn-hidrata-y-purifica-200ml/p"
+    ]
+   }
   },
   {
    "n": "Whisky Chivas Extra 13 700 Ml",
@@ -562,7 +1224,21 @@
    "precio_2da": 88039.0,
    "baja_pct": 40.0,
    "brecha_pct": 38.2,
-   "score": 1527
+   "score": 1527,
+   "pr": {
+    "Vea": [
+     88050.0,
+     "https://www.vea.com.ar/whisky-chivas-extra-13-700-ml/p"
+    ],
+    "Jumbo": [
+     54420.0,
+     "https://www.jumbo.com.ar/whisky-chivas-extra-13-700-ml/p"
+    ],
+    "ChangoMás": [
+     88039.0,
+     "https://www.masonline.com.ar/tequila-chivas-extra-13yo-700ml-2/p"
+    ]
+   }
   },
   {
    "n": "Mermelada de naranja La Campagnola 454 g.",
@@ -575,7 +1251,25 @@
    "precio_2da": 2699.0,
    "baja_pct": 50.0,
    "brecha_pct": 30.5,
-   "score": 1526
+   "score": 1526,
+   "pr": {
+    "Carrefour": [
+     3729.0,
+     "https://www.carrefour.com.ar/mermelada-de-naranja-la-campagnola-454-g-79188/p"
+    ],
+    "Vea": [
+     3750.0,
+     "https://www.vea.com.ar/mermelada-la-campagnola-naranja-454gr/p"
+    ],
+    "Jumbo": [
+     1875.0,
+     "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p"
+    ],
+    "Comodín": [
+     2699.0,
+     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-naranja-x-454-g/p"
+    ]
+   }
   }
  ]
 }
