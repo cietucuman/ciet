@@ -82,7 +82,7 @@
   #mega { margin-top:34px; }
   #mega h2 { font-family:var(--serif); font-size:1.35rem; font-weight:500; letter-spacing:-0.01em; }
   #mega .sub { font-size:.8rem; color:var(--muted); margin:4px 0 16px; max-width:62ch; }
-  .mega-baja { font-size:.62rem; background:var(--down); color:#fff; font-weight:700; padding:2px 7px; border-radius:5px; letter-spacing:.02em; }
+  .mega-baja { font-size:.62rem; background:var(--down); color:#fff; font-weight:700; padding:2px 6px; border-radius:5px; letter-spacing:.02em; vertical-align:2px; }
   .vertodas { display:block; width:100%; text-align:center; font-size:.82rem; color:var(--accent); background:none; border:1px dashed var(--line-strong); border-radius:10px; padding:10px; cursor:pointer; font-family:var(--sans); margin-top:4px; }
   .vertodas:hover { border-color:var(--accent); }
 
@@ -204,13 +204,12 @@ function renderMega(lista) {
         const esMega = c === o.cadena;
         return `<a class="ch ${esMega ? 'min' : ''}" href="${v[1]}" target="_blank" rel="noopener">
           <span class="chn">${c}</span>
-          <span class="chp">${peso(v[0])}</span>
+          <span class="chp">${peso(v[0])}${esMega ? ` <span class="mega-baja">−${Math.round(o.baja_pct)}%</span>` : ''}</span>
           ${esMega ? `<span class="tacha">antes ${peso(o.referencia)}</span>` : ''}</a>`;
       }).join('');
     return `<div class="pcard">${foto}<div class="cuerpo">
       <div class="pn">${o.n}</div><div class="pm">${o.m || ''}</div>
-      <div class="precios">${precios}
-      <span style="align-self:center"><span class="mega-baja">−${Math.round(o.baja_pct)}%</span></span></div>
+      <div class="precios">${precios}</div>
     </div></div>`;
   }).join('');
   if (MEGA.length > lista.length)
