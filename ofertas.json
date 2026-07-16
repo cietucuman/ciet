@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-15",
- "actualizado": "2026-07-15 12:43",
+ "actualizado": "2026-07-15 17:35",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -16,7 +16,7 @@
   "2026-07-14",
   "2026-07-15"
  ],
- "total": 47,
+ "total": 43,
  "ofertas": [
   {
    "n": "Miel untable Aleluya 500 g.",
@@ -201,32 +201,6 @@
    "score": 2337
   },
   {
-   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-manzana-gatorade-1-25-lt-2/p",
-   "referencia": 3861.75,
-   "precio_2da": 3862.5,
-   "baja_pct": 48.2,
-   "brecha_pct": 48.2,
-   "score": 2327
-  },
-  {
-   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p",
-   "referencia": 3861.75,
-   "precio_2da": 3862.5,
-   "baja_pct": 48.2,
-   "brecha_pct": 48.2,
-   "score": 2327
-  },
-  {
    "n": "Mermelada Light Cormillot Frutilla 390 Gr",
    "m": "CORMILLOT",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/339859/Mermelada-Light-Cormillot-Frutilla-390-Gr-1-13488.jpg?v=636439395664670000",
@@ -331,17 +305,17 @@
    "score": 1974
   },
   {
-   "n": "Acondicionador Fructis Oil Control 200 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/863678/7790033342934_01.jpg?v=639135021297630000",
-   "cadena": "Carrefour",
-   "precio": 2193.75,
-   "link": "https://www.carrefour.com.ar/acondicionador-fructis-oil-control-200-ml-778486/p",
-   "referencia": 3375.0,
-   "precio_2da": 4990.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 56.0,
-   "score": 1961
+   "n": "Jugo Sabor Multifruta 200 Ml Del Valle",
+   "m": "DEL VALLE",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/902188/7790895000737_01.jpg?v=639196520181430000",
+   "cadena": "Jumbo",
+   "precio": 400.0,
+   "link": "https://www.jumbo.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p",
+   "referencia": 800.0,
+   "precio_2da": 650.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.5,
+   "score": 1923
   },
   {
    "n": "Jugo natural Del Valle de naranja 200 cc.",
@@ -370,17 +344,17 @@
    "score": 1923
   },
   {
-   "n": "Jugo Sabor Multifruta 200 Ml Del Valle",
-   "m": "DEL VALLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/797120/Jugo-Del-Valle-Multifruta-200-Ml-1-875077.jpg?v=638327434541870000",
+   "n": "Jugo en polvo Arcor de limonada 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
    "cadena": "Jumbo",
-   "precio": 400.0,
-   "link": "https://www.jumbo.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p",
-   "referencia": 800.0,
-   "precio_2da": 650.0,
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
+   "referencia": 450.0,
+   "precio_2da": 359.0,
    "baja_pct": 50.0,
-   "brecha_pct": 38.5,
-   "score": 1923
+   "brecha_pct": 37.3,
+   "score": 1866
   },
   {
    "n": "Jugo en polvo Arcor de multifruta 15 grs",
@@ -389,19 +363,6 @@
    "cadena": "Jumbo",
    "precio": 225.0,
    "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
-   "referencia": 450.0,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866
-  },
-  {
-   "n": "Jugo en polvo Arcor de limonada 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
    "referencia": 450.0,
    "precio_2da": 359.0,
    "baja_pct": 50.0,
@@ -448,19 +409,6 @@
    "score": 1866
   },
   {
-   "n": "Jugo en polvo BC La Campagnola naranja 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822078/7790580132774_02.jpg?v=639083181662900000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866
-  },
-  {
    "n": "Jugo en polvo Arcor de naranja dulce 15 grs",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817838/7790580143008_E02.jpg?v=639082513859870000",
@@ -468,6 +416,19 @@
    "precio": 225.0,
    "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
    "referencia": 450,
+   "precio_2da": 359.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.3,
+   "score": 1866
+  },
+  {
+   "n": "Jugo en polvo BC La Campagnola naranja 7 g.",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822078/7790580132774_02.jpg?v=639083181662900000",
+   "cadena": "Jumbo",
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p",
+   "referencia": 450.0,
    "precio_2da": 359.0,
    "baja_pct": 50.0,
    "brecha_pct": 37.3,
@@ -589,19 +550,6 @@
    "baja_pct": 33.3,
    "brecha_pct": 47.8,
    "score": 1593
-  },
-  {
-   "n": "Whisky Old parr 12 años botella 750 ml",
-   "m": "Genérico",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823518/5000281003160_02.jpg?v=639083182070200000",
-   "cadena": "Jumbo",
-   "precio": 38910.0,
-   "link": "https://www.jumbo.com.ar/whisky-old-parr-12-anos-botella-750ml/p",
-   "referencia": 64850.0,
-   "precio_2da": 62950.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1528
   },
   {
    "n": "Whisky Chivas Extra 13 700 Ml",
