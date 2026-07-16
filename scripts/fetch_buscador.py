@@ -31,6 +31,9 @@ STOP = {"gaseosa", "bebida", "lt", "lts", "l", "ml", "cc", "cm3", "grs", "gr", "
         "tableta", "para", "unidad", "unidades",
         # relleno confirmado (revisión manual): no distinguen producto
         "pureza", "dp", "litro", "saborizada", "clasica", "clasico",
+        # "4flex" es el ENVASE de las yerbas Las Marías (Taragüi/Unión/Mañanita),
+        # presente en todas sus variantes: no distingue producto ("4" se va solo).
+        "flex",
         # co-marcas/líneas que una cadena agrega y otra no, para el MISMO producto
         # (Tuchanguito "Grisines … Veneziana Cormillot" == Vea "Grisines Veneziana …").
         "cormillot",
@@ -51,6 +54,12 @@ SINONIMOS = {
     # regular). Se canoniza a "zero" para que ambas escrituras se unan entre sí
     # y NUNCA con la versión regular.
     "sin azucar": "zero",
+    # Yerba: "con palo" ≡ "tradicional" en TODA la industria (el paquete dice
+    # "elaborada con palo" y la línea se llama Tradicional: Amanda, Taragüi,
+    # Playadito…). OJO: "sin palo" NO se toca (es la despalada, otra variante).
+    "con palo": "tradicional",
+    # la marca Verdeflor aparece también escrita "Verde Flor" (ChangoMás)
+    "verde flor": "verdeflor",
 }
 
 # EQUIVALENCIAS ENTRE CADENAS (curadas): el MISMO producto que una cadena nombra
@@ -123,9 +132,106 @@ def _absorber(f, g):
         f["n"], f["m"] = g["n"], g["m"]
 
 
+def _conflicto_variante(a, b):
+    """Mismo EAN pero la evidencia dice que son productos DISTINTOS → NO unir.
+    Caso real: la página de Vea/Jumbo se llama «Yerba Mate con Palo 1 Kg Nobleza
+    Gaucha» pero su URL dice «...seleccion-nobleza-gaucha-1-kg»: la página se llamaba
+    Selección, la RECICLARON para vender la Tradicional y el EAN quedó viejo — por eso
+    comparte código con la Selección de Carrefour siendo otra yerba (fotos lo confirman).
+
+    Señales (sólo si cada lado tiene una palabra distintiva que el otro no tiene):
+      · FOTO propia trae la palabra del otro → MISMO producto, nombres descuidados
+        (el listado «Amanda Con Palo» cuya foto es "...Amanda-Suave-C-palo..." ES la
+        suave) → se une normal.
+      · SLUG (URL) de un lado trae la palabra distintiva del OTRO, que su propio
+        nombre ya no tiene → página reciclada, EAN viejo → CONFLICTO, no unir.
+      · Sin evidencia → manda el EAN (se une normal)."""
+    ta = set(clave_fuzzy(a["n"], a.get("m", "")).split())
+    tb = set(clave_fuzzy(b["n"], b.get("m", "")).split())
+    solo_a = {t for t in ta - tb if not any(c.isdigit() for c in t)}
+    solo_b = {t for t in tb - ta if not any(c.isdigit() for c in t)}
+    # una escritura PEGADA no es palabra distinta: "conPeperina" (Comodín) contiene
+    # "peperina" → es la misma palabra escrita distinto, no una variante.
+    solo_a = {t for t in solo_a
+              if not any(len(t) >= 4 and len(u) >= 4 and (t in u or u in t) for u in tb)}
+    solo_b = {t for t in solo_b
+              if not any(len(t) >= 4 and len(u) >= 4 and (t in u or u in t) for u in ta)}
+    if not (solo_a and solo_b):
+        return False
+
+    def _img_toks(g):
+        arch = (g.get("i") or "").rsplit("/", 1)[-1]
+        return set(clave_fuzzy(re.sub(r"[^a-z0-9]+", " ", _norm(arch)), "").split())
+
+    if (solo_a & _img_toks(b)) or (solo_b & _img_toks(a)):
+        return False
+
+    def _links_fosil(g, solo_otro):
+        """Links de g cuyo SLUG contiene una palabra distintiva del otro lado."""
+        out = []
+        for o in g["pr"].values():
+            try:
+                slug = o[1].split("/", 4)[3]
+            except (IndexError, AttributeError, TypeError):
+                continue
+            if solo_otro & set(clave_fuzzy(slug.replace("-", " "), "").split()):
+                out.append(o[1])
+        return out
+
+    # fósil en el slug de un lado → veredicto con la PÁGINA DE CATÁLOGO de ese lado:
+    # si su nombre actual o su foto todavía dicen la palabra del otro, es el mismo
+    # producto con el título reescrito (Unión «Suave Original» cuya foto dice 4flex);
+    # si ya no la dicen en ningún lado, la página fue reciclada a OTRA variante y el
+    # EAN quedó viejo (NG «con Palo» con slug y EAN de la Selección) → conflicto.
+    for g, solo_otro in ((b, solo_a), (a, solo_b)):
+        for link in _links_fosil(g, solo_otro):
+            if not (solo_otro & _pagina_catalogo(link)):
+                return True
+    return False
+
+
+_PAGINA_CACHE = {}
+
+
+def _pagina_catalogo(link):
+    """Tokens del nombre ACTUAL + archivo de foto de una página (catálogo por slug).
+    Sólo se consulta para los casos fósil (raros); cacheado y con reintentos."""
+    if link in _PAGINA_CACHE:
+        return _PAGINA_CACHE[link]
+    toks = set()
+    try:
+        dom, slug = link.split("/")[2], link.split("/")[3]
+        d = None
+        for i in range(3):
+            d = get(f"https://{dom}/api/catalog_system/pub/products/search/"
+                    f"{urllib.parse.quote(slug)}/p")
+            if d:
+                break
+            time.sleep(0.6 * (i + 1))
+        if isinstance(d, list) and d:
+            p = d[0]
+            toks |= set(clave_fuzzy(p.get("productName", ""), p.get("brand") or "").split())
+            img = ((p["items"][0].get("images") or [{}])[0].get("imageUrl") or "")
+            toks |= set(clave_fuzzy(
+                re.sub(r"[^a-z0-9]+", " ", _norm(img.rsplit("/", 1)[-1])), "").split())
+    except Exception:
+        pass
+    if toks:                     # un fallo de red NO se cachea (se reintenta si vuelve)
+        _PAGINA_CACHE[link] = toks
+    return toks
+
+
 def fusion_por_ean(grupos):
     """Une grupos que comparten CUALQUIER código de barras: identidad garantizada
-    (dos cadenas cargan el mismo artículo con varios EAN). Union-find sobre los EAN."""
+    (dos cadenas cargan el mismo artículo con varios EAN). Union-find sobre los EAN.
+
+    GUARDAS (un EAN mal cargado no debe mezclar variantes — caso Nobleza Gaucha
+    Selección/Tradicional 1kg con el mismo código):
+      1. tamaños distintos (números sin intersección) → NO unir (mate cocido 50
+         saquitos vs yerba 125 g compartían EAN);
+      2. cadena en común → NO unir (si un súper los vende como DOS listados, son
+         dos cosas; misma guarda que la fusión por similitud);
+      3. página reciclada con EAN viejo (_conflicto_variante) → NO unir."""
     parent = list(range(len(grupos)))
 
     def find(x):
@@ -134,11 +240,28 @@ def fusion_por_ean(grupos):
             x = parent[x]
         return x
 
+    # cadenas y números de tamaño ACUMULADOS por raíz (se van sumando al unir)
+    cadenas = [set(g["pr"]) for g in grupos]
+    nums = [{t for t in clave_fuzzy(g["n"], g.get("m", "")).split()
+             if any(c.isdigit() for c in t)} for g in grupos]
     ean2idx = {}
     for i, g in enumerate(grupos):
         for e in g.get("eans") or ():
             if e in ean2idx:
-                parent[find(i)] = find(ean2idx[e])
+                ri, rj = find(i), find(ean2idx[e])
+                if ri == rj:
+                    continue
+                if nums[ri] and nums[rj] and not (nums[ri] & nums[rj]):
+                    continue                       # tamaños distintos: EAN mal cargado
+                if cadenas[ri] & cadenas[rj]:
+                    continue                       # misma cadena en ambos: son 2 listados
+                if _conflicto_variante(grupos[ri], grupos[rj]):
+                    print(f"  EAN {e} compartido pero página reciclada, NO se unen: "
+                          f"«{grupos[ri]['n']}» vs «{grupos[rj]['n']}»", file=sys.stderr)
+                    continue
+                parent[ri] = rj
+                cadenas[rj] |= cadenas[ri]
+                nums[rj] |= nums[ri]
             else:
                 ean2idx[e] = i
     reps = {}
@@ -989,9 +1112,11 @@ def main():
             chain = {k: pr for k, pr in chain.items() if pr.get("sku") not in no_ent}
             print(f"  {nombre}: {len(chain)} entregables · {len(no_ent)} descartados "
                   f"(no entregable) · {n_promo} con promo", file=sys.stderr)
-        # 3) volcar al agrupado global
+        # 3) volcar al agrupado global. La clave es POR CADENA (cadena+EAN): dos
+        # cadenas con el mismo EAN se unen recién en fusion_por_ean, que aplica las
+        # guardas contra EAN mal cargado (tamaño, cadena común, página reciclada).
         for pr in chain.values():
-            clave = pr["e"] or pr["l"]
+            clave = (nombre, pr["e"] or pr["l"])
             g = grupos.get(clave)
             if g is None:
                 g = grupos[clave] = {"n": pr["n"], "m": pr["m"], "i": pr.get("i", ""),
@@ -1033,11 +1158,21 @@ def main():
 
     # 2º agrupado: unir productos idénticos con distinto EAN (por nombre normalizado)
     fusion = {}
+    n_variantes = 0
     for g in grupos:
         k = clave_fuzzy(g["n"], g["m"])
         f = fusion.get(k)
         if f is None:
             fusion[k] = g
+            continue
+        # mismo nombre normalizado PERO cadena en común y EANs disjuntos: la cadena
+        # los vende como DOS artículos (variantes con nombre descuidado, ej. los dos
+        # «Amanda Con Palo 1kg» de Vea: tradicional y suave) → no esconder uno adentro
+        # del otro. Se mantienen separados (la similitud tampoco los une: comparten cadena).
+        if (set(g["pr"]) & set(f["pr"])) and g.get("eans") and f.get("eans") \
+                and not (set(g["eans"]) & set(f["eans"])):
+            n_variantes += 1
+            fusion[f"{k}\x00{n_variantes}"] = g
             continue
         for cad, o in g["pr"].items():
             if cad not in f["pr"] or o[0] < f["pr"][cad][0]:
@@ -1117,6 +1252,11 @@ def main():
             if gn and pn and not (gn & pn):          # tamaños distintos = EAN mal cargado
                 continue                             # (atún 120g con EAN del 170g)
             if _solape_nombre(ptoks, g["_toks"]) < 0.4:
+                continue
+            # página reciclada con EAN viejo = variantes distintas → afuera
+            if _conflicto_variante(g, {"n": pr["n"], "m": pr.get("m", ""),
+                                       "i": pr.get("i", ""),
+                                       "pr": {nombre: [pr.get("p"), pr.get("l", "")]}}):
                 continue
             g["pr"][nombre] = [pr["p"], pr["l"]]
             n_add += 1
