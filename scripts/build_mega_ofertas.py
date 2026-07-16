@@ -109,6 +109,9 @@ def detectar(productos, historia, fecha):
             "referencia": round(ref, 2), "precio_2da": p2,
             "baja_pct": round(baja, 1), "brecha_pct": round(brecha, 1),
             "score": round(baja * brecha),
+            # todas las cadenas (precio, link), para que la tarjeta muestre la
+            # comparación completa igual que un resultado del buscador
+            "pr": {cad: [v[0], v[1]] for cad, v in p["pr"].items()},
         })
     ofertas.sort(key=lambda o: -o["score"])
     return ofertas

@@ -83,7 +83,6 @@
   #mega h2 { font-family:var(--serif); font-size:1.35rem; font-weight:500; letter-spacing:-0.01em; }
   #mega .sub { font-size:.8rem; color:var(--muted); margin:4px 0 16px; max-width:62ch; }
   .mega-baja { font-size:.62rem; background:var(--down); color:#fff; font-weight:700; padding:2px 7px; border-radius:5px; letter-spacing:.02em; }
-  .mega-vs { font-size:.72rem; color:var(--muted); margin-top:6px; }
   .vertodas { display:block; width:100%; text-align:center; font-size:.82rem; color:var(--accent); background:none; border:1px dashed var(--line-strong); border-radius:10px; padding:10px; cursor:pointer; font-family:var(--sans); margin-top:4px; }
   .vertodas:hover { border-color:var(--accent); }
 
@@ -199,15 +198,20 @@ fetch('https://raw.githubusercontent.com/cietucuman/ciet/ofertas/ofertas.json')
 function renderMega(lista) {
   $('mega-lista').innerHTML = lista.map(o => {
     const foto = o.i ? `<div class="foto"><img src="${o.i}" loading="lazy" onerror="this.parentNode.classList.add('sinfoto');this.remove();"></div>` : '<div class="foto sinfoto">sin foto</div>';
+    // misma tarjeta que un resultado del buscador: TODAS las cadenas, para que
+    // la comparación se vea completa; la de la mega oferta va resaltada.
+    const precios = Object.entries(o.pr || { [o.cadena]: [o.precio, o.link] })
+      .sort((a, b) => a[1][0] - b[1][0]).map(([c, v]) => {
+        const esMega = c === o.cadena;
+        return `<a class="ch ${esMega ? 'min' : ''}" href="${v[1]}" target="_blank" rel="noopener">
+          <span class="chn">${c}</span>
+          <span class="chp">${peso(v[0])}</span>
+          ${esMega ? `<span class="tacha">antes ${peso(o.referencia)}</span>` : ''}</a>`;
+      }).join('');
     return `<div class="pcard">${foto}<div class="cuerpo">
       <div class="pn">${o.n}</div><div class="pm">${o.m || ''}</div>
-      <div class="precios"><a class="ch min" href="${o.link}" target="_blank" rel="noopener">
-        <span class="chn">${o.cadena}</span>
-        <span class="chp">${peso(o.precio)}</span>
-        <span class="tacha">antes ${peso(o.referencia)}</span>
-      </a>
+      <div class="precios">${precios}
       <span style="align-self:center"><span class="mega-baja">−${Math.round(o.baja_pct)}%</span></span></div>
-      <div class="mega-vs">En las demás cadenas hoy: desde ${peso(o.precio_2da)} (${Math.round(o.brecha_pct)}% más caro)</div>
     </div></div>`;
   }).join('');
   if (MEGA.length > lista.length)
