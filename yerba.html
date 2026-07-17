@@ -165,7 +165,6 @@
   <div id="app" style="display:none">
     <nav class="tabs" id="tabs">
       <button class="tab on" data-t="indice">Índice</button>
-      <button class="tab" data-t="yerbas">Las yerbas</button>
       <button class="tab" data-t="metodo">Metodología</button>
     </nav>
 
@@ -208,16 +207,6 @@
       </div>
     </section>
 
-    <!-- ============ PESTAÑA LAS YERBAS ============ -->
-    <section class="tabpane" id="pane-yerbas" hidden>
-      <div class="card">
-        <h2 id="yerbas-title">Cada yerba</h2>
-        <div class="hint">Tocá una yerba para ver su gráfico y su precio en cada cadena, día a día. El precio grande es la mejor oferta disponible.</div>
-        <div class="sort" id="sort"></div>
-        <div id="lista"></div>
-      </div>
-    </section>
-
     <!-- ============ PESTAÑA METODOLOGÍA ============ -->
     <section class="tabpane method" id="pane-metodo" hidden>
       <div class="card" id="method-body"></div>
@@ -237,17 +226,12 @@ const $ = id => document.getElementById(id);
 const peso = v => '$' + Math.round(v).toLocaleString('es-AR');
 const fmtCorta = f => new Date(f + 'T12:00:00').toLocaleDateString('es-AR', { day:'numeric', month:'short' });
 const fmtLarga = f => new Date(f + 'T12:00:00').toLocaleDateString('es-AR', { day:'numeric', month:'long', year:'numeric' });
-const COLOR = { Carrefour:'#1c507f', Vea:'#c0392b', Jumbo:'#27865a', 'Comodín':'#b8791f', 'ChangoMás':'#7b4fa3', Tuchanguito:'#127c8a' };
-const colCad = c => COLOR[c] || '#6a655c';
-
-let D = null, orden = 'precio', freq = 'diaria';
+let D = null, freq = 'diaria';
 
 fetch('https://raw.githubusercontent.com/cietucuman/ciet/yerba-datos/indice.json')
   .then(r => { if (!r.ok) throw new Error('nofile'); return r.json(); })
   .then(d => { D = d; render(); })
   .catch(() => { $('estado').textContent = 'El índice se está preparando. Volvé pronto.'; });
-
-const ultimo = s => { for (let i = s.length - 1; i >= 0; i--) if (s[i] != null) return s[i]; return null; };
 
 // --- resampleo temporal: del índice diario a fin de semana / fin de mes ---
 function claveSemana(f) {
@@ -275,7 +259,7 @@ function render() {
   $('tabs').onclick = e => {
     const b = e.target.closest('.tab'); if (!b) return;
     document.querySelectorAll('.tab').forEach(t => t.classList.toggle('on', t === b));
-    ['indice', 'yerbas', 'metodo'].forEach(k => $('pane-' + k).hidden = (k !== b.dataset.t));
+    ['indice', 'metodo'].forEach(k => $('pane-' + k).hidden = (k !== b.dataset.t));
   };
   // selector de temporalidad: ajusta índice + variación + gráfico
   $('freq').onclick = e => {
@@ -284,13 +268,9 @@ function render() {
     document.querySelectorAll('.segbtn').forEach(s => s.classList.toggle('on', s === b));
     updateIndice();
   };
-  $('sort').onclick = e => { const c = e.target.closest('.chip'); if (!c) return; orden = c.dataset.o; renderLista(); };
 
   updateIndice();
   $('method-body').innerHTML = metodologia();
-  $('sort').innerHTML = [['precio', 'Más barata'], ['nombre', 'Nombre'], ['suba', 'Más aumentó']]
-    .map(([k, t]) => `<span class="chip ${k === orden ? 'on' : ''}" data-o="${k}">${t}</span>`).join('');
-  renderLista();
 }
 
 const PERIODO = {
@@ -379,74 +359,6 @@ function lineChart(fechas, series, opts = {}) {
   return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">${grid}${base}${lines}${xlab}</svg>`;
 }
 
-function renderLista() {
-  const n = D.fechas.length;
-  const items = D.productos.map(p => {
-    const hoy = {}; let min = Infinity, minCad = null;
-    for (const cad of D.cadenas) {
-      const s = p.series[cad]; if (!s) continue;
-      const v = ultimo(s); if (v == null) continue;
-      hoy[cad] = v; if (v < min) { min = v; minCad = cad; }
-    }
-    return { p, hoy, min: min === Infinity ? null : min, minCad, varProd: p.indice[n - 1] - 100 };
-  }).filter(x => x.min != null);
-
-  if (orden === 'precio') items.sort((a, b) => a.min - b.min);
-  else if (orden === 'nombre') items.sort((a, b) => a.p.nombre.localeCompare(b.p.nombre, 'es'));
-  else if (orden === 'suba') items.sort((a, b) => b.varProd - a.varProd);
-
-  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c.dataset.o === orden));
-  $('yerbas-title').textContent = 'Cada yerba · al ' + fmtLarga(D.fechas[D.fechas.length - 1]);
-
-  $('lista').innerHTML = items.map(({ p, hoy, min, minCad, varProd }) => {
-    const cads = D.cadenas.filter(c => hoy[c] != null).sort((a, b) => hoy[a] - hoy[b])
-      .map(c => `<span class="cadprice ${c === minCad ? 'min' : ''}">${c} <b>${peso(hoy[c])}</b></span>`).join('');
-    const foto = p.img ? `<div class="foto"><img src="${p.img}" loading="lazy" onerror="this.parentNode.classList.add('sinfoto');this.remove();"></div>` : '<div class="foto sinfoto">sin foto</div>';
-    const vtxt = n > 1 ? `<span class="cadprice">${varProd >= 0 ? '+' : ''}${varProd.toFixed(1)}% desde inicio</span>` : '';
-    return `<div class="yrow" data-id="${encodeURIComponent(p.id)}">
-      <div class="yhead">${foto}
-        <div class="cuerpo"><div class="pn">${p.nombre}</div><div class="pm">${p.marca || ''}</div><div class="prices">${cads}</div></div>
-        <div class="pmin"><div class="v">${peso(min)}</div><div class="k">${minCad}</div>${vtxt}</div>
-        <div class="caret">▶</div>
-      </div>
-      <div class="ydetail"></div>
-    </div>`;
-  }).join('') || '<div class="estado">Sin datos todavía.</div>';
-
-  document.querySelectorAll('.yrow').forEach(row => {
-    row.querySelector('.yhead').onclick = () => {
-      const abrir = !row.classList.contains('open');
-      if (abrir && !row.querySelector('.ydetail').innerHTML) {
-        const p = D.productos.find(x => x.id === decodeURIComponent(row.dataset.id));
-        row.querySelector('.ydetail').innerHTML = detalle(p);
-      }
-      row.classList.toggle('open', abrir);
-    };
-  });
-}
-
-// drill-down de un producto: gráfico por cadena + tabla
-function detalle(p) {
-  const f = D.fechas;
-  const cads = D.cadenas.filter(c => p.series[c]);
-  const series = cads.map(c => ({ valores: p.series[c], color: colCad(c), width: 1.8, dots: true }));
-  const grafico = f.length < 2
-    ? `<div class="chart-empty">El gráfico de esta yerba aparece a partir del segundo día de medición.</div>`
-    : lineChart(f, series, { height: 210 });
-  const leyenda = cads.map(c => `<span><i style="background:${colCad(c)}"></i>${c}</span>`).join('');
-  let filas = '';
-  for (let i = f.length - 1; i >= 0; i--) {
-    let celdas = '';
-    for (const c of cads) { const v = p.series[c][i]; celdas += v != null ? `<td>${peso(v)}</td>` : `<td class="na">—</td>`; }
-    filas += `<tr><td>${fmtCorta(f[i])}</td>${celdas}<td><b>${p.indice[i].toFixed(1)}</b></td></tr>`;
-  }
-  const heads = cads.map(c => `<th style="color:${colCad(c)}">${c}</th>`).join('');
-  return `<div class="dt-title">Precio por cadena en el tiempo</div>${grafico}
-    <div class="legend">${leyenda}</div>
-    <div class="dt-title">Detalle día a día</div>
-    <div style="overflow-x:auto"><table class="evo"><thead><tr><th>Fecha</th>${heads}<th>Índice</th></tr></thead><tbody>${filas}</tbody></table></div>`;
-}
-
 function metodologia() {
   const base = fmtLarga(D.base);
   return `
@@ -480,7 +392,7 @@ function metodologia() {
   </ul>
 
   <h3>Datos abiertos</h3>
-  <p>Todo el desglose está en la pestaña <b>Las yerbas</b>: cada yerba, cada cadena, cada día, con su gráfico. Los datos crudos de cada día se guardan y quedan versionados, así el índice siempre se puede recalcular o revisar. Trabajamos sólo con precios públicos de las tiendas online; no usamos cuentas ni credenciales.</p>
+  <p>Los datos crudos de cada día —cada yerba, cada cadena, cada precio— se guardan y quedan versionados, así el índice siempre se puede recalcular o auditar. Trabajamos sólo con precios públicos de las tiendas online; no usamos cuentas ni credenciales.</p>
 
   <h3>Límites</h3>
   <ul>
