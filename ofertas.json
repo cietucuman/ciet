@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-17",
- "actualizado": "2026-07-17 14:28",
+ "actualizado": "2026-07-17 16:17",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -18,7 +18,7 @@
   "2026-07-16",
   "2026-07-17"
  ],
- "total": 99,
+ "total": 101,
  "ofertas": [
   {
    "n": "Alfajor triple mousse Toddy 60 grs",
@@ -160,9 +160,9 @@
    }
   },
   {
-   "n": "Vino Tinto Dulce 750 Ml Santa Julia",
-   "m": "SANTA JULIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/799275/Vino-Santa-Julia-Tinto-Dulce-750cc-1-999197.jpg?v=638345361807130000",
+   "n": "Vino tinto Dulce Santa Julia 750 ml",
+   "m": "Santa Julia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823366/7791728248265_02.jpg?v=639083182057500000",
    "cadena": "Jumbo",
    "precio": 4450.0,
    "link": "https://www.jumbo.com.ar/vino-tinto-dulce-750-ml-santa-julia/p",
@@ -172,6 +172,10 @@
    "brecha_pct": 48.9,
    "score": 2443,
    "pr": {
+    "Carrefour": [
+     8789.0,
+     "https://www.carrefour.com.ar/vino-tinto-dulce-santa-julia-en-botella-750-cc-730274/p"
+    ],
     "Vea": [
      8700.0,
      "https://www.vea.com.ar/vino-tinto-dulce-750-ml-santa-julia/p"
@@ -183,10 +187,6 @@
     "ChangoMás": [
      8749.0,
      "https://www.masonline.com.ar/vino-tinto-dulce-santa-julia-750-ml-2/p"
-    ],
-    "Carrefour": [
-     8789.0,
-     "https://www.carrefour.com.ar/vino-tinto-dulce-santa-julia-en-botella-750-cc-730274/p"
     ]
    }
   },
@@ -303,9 +303,9 @@
    }
   },
   {
-   "n": "Vino Chardonnay Reserva Trapiche 750 Cc",
-   "m": "TRAPICHE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/849109/Vino-Trapiche-Reserva-Chardonnay-750cc-1-1030890.jpg?v=638699709858670000",
+   "n": "Vino blanco Chardonnay Reserva Trapiche 750 ml",
+   "m": "Trapiche",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823669/7790240072792_02.jpg?v=639083182086700000",
    "cadena": "Jumbo",
    "precio": 6250.0,
    "link": "https://www.jumbo.com.ar/vino-trapiche-reserva-chardonnay-750cc-3/p",
@@ -315,6 +315,10 @@
    "brecha_pct": 48.6,
    "score": 2428,
    "pr": {
+    "Carrefour": [
+     12230.0,
+     "https://www.carrefour.com.ar/vino-blanco-chardonnay-reserva-trapiche-750-ml-757172/p"
+    ],
     "Vea": [
      12150.0,
      "https://www.vea.com.ar/vino-trapiche-reserva-chardonnay-750cc-3/p"
@@ -322,37 +326,6 @@
     "Jumbo": [
      6250.0,
      "https://www.jumbo.com.ar/vino-trapiche-reserva-chardonnay-750cc-3/p"
-    ],
-    "Carrefour": [
-     12230.0,
-     "https://www.carrefour.com.ar/vino-blanco-chardonnay-reserva-trapiche-750-ml-757172/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Malbec Reserva 750 Cc Santa Julia",
-   "m": "SANTA JULIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/800535/Vino-Santa-Julia-Rva-Malbec-750cc-1-1000062.jpg?v=638355731093900000",
-   "cadena": "Jumbo",
-   "precio": 5250.0,
-   "link": "https://www.jumbo.com.ar/vino-santa-julia-rva-malbec-750cc/p",
-   "referencia": 10500,
-   "precio_2da": 10200.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.5,
-   "score": 2426,
-   "pr": {
-    "Vea": [
-     10200.0,
-     "https://www.vea.com.ar/vino-santa-julia-rva-malbec-750cc/p"
-    ],
-    "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/vino-santa-julia-rva-malbec-750cc/p"
-    ],
-    "ChangoMás": [
-     11499.0,
-     "https://www.masonline.com.ar/vino-tinto-santa-julia-malbec-750-ml/p"
     ]
    }
   },
@@ -577,29 +550,33 @@
    }
   },
   {
-   "n": "Espumante Mumm Cuvée Extra Brut 269 Ml",
+   "n": "Espumante Mumm Léger Spritz 269 Ml",
    "m": "MUMM",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/774475/Espumante-Mumm-Cuvee-Extra-Brut-269ml-1-889100.jpg?v=638150854050800000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774474/Espumante-Mumm-Leger-Spritz-269ml-1-889099.jpg?v=638150854047330000",
    "cadena": "Jumbo",
    "precio": 2050.0,
-   "link": "https://www.jumbo.com.ar/espumante-mumm-cuvee-extra-brut-269-ml/p",
+   "link": "https://www.jumbo.com.ar/espumante-mumm-leger-spritz-269-ml/p",
    "referencia": 4100.0,
    "precio_2da": 3939.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.0,
    "score": 2398,
    "pr": {
+    "Vea": [
+     4050.0,
+     "https://www.vea.com.ar/espumante-mumm-leger-spritz-269-ml/p"
+    ],
     "Jumbo": [
      2050.0,
-     "https://www.jumbo.com.ar/espumante-mumm-cuvee-extra-brut-269-ml/p"
+     "https://www.jumbo.com.ar/espumante-mumm-leger-spritz-269-ml/p"
     ],
     "Carrefour": [
      3979.0,
-     "https://www.carrefour.com.ar/espumante-mumm-extra-brut-cuvee-269-cc-697597/p"
+     "https://www.carrefour.com.ar/espumante-mumm-leger-spritz-lata-269-cc-697598/p"
     ],
     "ChangoMás": [
      3939.0,
-     "https://www.masonline.com.ar/espumante-mumm-cuvee-extra-brut-269ml-2/p"
+     "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p"
     ]
    }
   },
@@ -627,33 +604,6 @@
     "Jumbo": [
      4375.0,
      "https://www.jumbo.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Pinot Noir 750 Cc Don David",
-   "m": "DON DAVID",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/766896/Don-David-Pinot-Noir-X-750-Cc-1-880012.jpg?v=638108625945600000",
-   "cadena": "Jumbo",
-   "precio": 5850.0,
-   "link": "https://www.jumbo.com.ar/vino-pinot-noir-750-cc-don-david/p",
-   "referencia": 11700,
-   "precio_2da": 11229.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2395,
-   "pr": {
-    "Jumbo": [
-     5850.0,
-     "https://www.jumbo.com.ar/vino-pinot-noir-750-cc-don-david/p"
-    ],
-    "Carrefour": [
-     11339.0,
-     "https://www.carrefour.com.ar/vino-tinto-don-david-pinot-noir-750-cc-690114/p"
-    ],
-    "ChangoMás": [
-     11229.0,
-     "https://www.masonline.com.ar/vino-tinto-don-david-pinot-noir-750-cc-2/p"
     ]
    }
   },
@@ -743,33 +693,6 @@
    }
   },
   {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Las Perdices",
-   "m": "LAS PERDICES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645909/Vino-Tinto-Las-Perdices-Cabernet-Sauvignon-750-Cc-1-9405.jpg?v=637582878955970000",
-   "cadena": "Jumbo",
-   "precio": 6200.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-cabernet-sauvignon-750-cc-las-perdices/p",
-   "referencia": 12400.0,
-   "precio_2da": 11739.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.2,
-   "score": 2359,
-   "pr": {
-    "Vea": [
-     12100.0,
-     "https://www.vea.com.ar/vino-tinto-cabernet-sauvignon-750-cc-las-perdices/p"
-    ],
-    "Jumbo": [
-     6200.0,
-     "https://www.jumbo.com.ar/vino-tinto-cabernet-sauvignon-750-cc-las-perdices/p"
-    ],
-    "ChangoMás": [
-     11739.0,
-     "https://www.masonline.com.ar/vino-tinto-las-perdices-cabernet-sauvignon-750-ml/p"
-    ]
-   }
-  },
-  {
    "n": "Mermelada Light Sabor Durazno 390 Grs Cormillot",
    "m": "CORMILLOT",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/339858/Mermelada-Light-Cormillot-Durazno-390-Gr-1-13487.jpg?v=636439395643700000",
@@ -820,33 +743,6 @@
     "Jumbo": [
      2926.3,
      "https://www.jumbo.com.ar/alfajores-jorgelin-blancos/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Malbec 750 Ml Las Perdices",
-   "m": "LAS PERDICES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/645908/Vino-Tinto-Las-Perdices-Malbec-750-Cc-1-9401.jpg?v=637582878949530000",
-   "cadena": "Jumbo",
-   "precio": 6275.0,
-   "link": "https://www.jumbo.com.ar/vino-las-perdices-malbec-750-ml/p",
-   "referencia": 12550.0,
-   "precio_2da": 11739.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2327,
-   "pr": {
-    "Jumbo": [
-     6275.0,
-     "https://www.jumbo.com.ar/vino-las-perdices-malbec-750-ml/p"
-    ],
-    "Carrefour": [
-     11859.0,
-     "https://www.carrefour.com.ar/vino-tinto-las-perdices-malbec-botella-750-cc-696812/p"
-    ],
-    "ChangoMás": [
-     11739.0,
-     "https://www.masonline.com.ar/vino-tinto-las-perdices-malbec-750-ml/p"
     ]
    }
   },
@@ -928,6 +824,37 @@
     "Jumbo": [
      3525.0,
      "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Navarro Correas Dulce 750 Cc",
+   "m": "NAVARRO CORREAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/887717/Espumante-Navarro-Correas-Dulce-750cc-1-29853.jpg?v=638969169786370000",
+   "cadena": "Jumbo",
+   "precio": 7475.0,
+   "link": "https://www.jumbo.com.ar/espumante-navarro-correas-dulce-750cc/p",
+   "referencia": 14950,
+   "precio_2da": 13801.89,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.8,
+   "score": 2292,
+   "pr": {
+    "Jumbo": [
+     7475.0,
+     "https://www.jumbo.com.ar/espumante-navarro-correas-dulce-750cc/p"
+    ],
+    "Comodín": [
+     13801.89,
+     "https://www.comodinencasa.com.ar/champagne-navarro-correas-dulce-750cc/p"
+    ],
+    "Carrefour": [
+     14129.0,
+     "https://www.carrefour.com.ar/espumante-dulce-premium-navarro-correas-750-cc/p"
+    ],
+    "ChangoMás": [
+     14129.0,
+     "https://www.masonline.com.ar/vino-espumante-dulcet-navarro-correas-750-cc-2/p"
     ]
    }
   },
@@ -1098,6 +1025,37 @@
     "Carrefour": [
      12000.0,
      "https://www.carrefour.com.ar/vino-tinto-malbec-escorihuela-gascon-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Don David 750 ml",
+   "m": "Don David",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/184162/7790189001129_01.jpg?v=637468592109930000",
+   "cadena": "Jumbo",
+   "precio": 5425.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-don-david-malbec-750-cc/p",
+   "referencia": 10850.0,
+   "precio_2da": 9452.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.6,
+   "score": 2130,
+   "pr": {
+    "Carrefour": [
+     11339.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-don-david-750-cc/p"
+    ],
+    "Vea": [
+     10500.0,
+     "https://www.vea.com.ar/vino-tinto-don-david-malbec-750-cc/p"
+    ],
+    "Jumbo": [
+     5425.0,
+     "https://www.jumbo.com.ar/vino-tinto-don-david-malbec-750-cc/p"
+    ],
+    "Comodín": [
+     9452.59,
+     "https://www.comodinencasa.com.ar/vino-don-david-malbec-x-750-cc/p"
     ]
    }
   },
@@ -1365,6 +1323,33 @@
    }
   },
   {
+   "n": "Vino tinto Syrah Cabernet Callia 750 ml",
+   "m": "Callia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823135/7798108834131_01.jpg?v=639083181902900000",
+   "cadena": "Jumbo",
+   "precio": 3600.0,
+   "link": "https://www.jumbo.com.ar/vino-callia-esperado-syrah-cabernet-750-ml/p",
+   "referencia": 7200.0,
+   "precio_2da": 5959.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.6,
+   "score": 1979,
+   "pr": {
+    "Carrefour": [
+     5959.0,
+     "https://www.carrefour.com.ar/vino-tinto-callia-syrah-cabernet-750-cc-719787/p"
+    ],
+    "Jumbo": [
+     3600.0,
+     "https://www.jumbo.com.ar/vino-callia-esperado-syrah-cabernet-750-ml/p"
+    ],
+    "ChangoMás": [
+     6969.0,
+     "https://www.masonline.com.ar/vino-tinto-esperado-syrah-cabernet-750ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Alfajor mini torta Aguila choco blanco 69 g.",
    "m": "Aguila",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318929/7790040133570_E01.jpg?v=638181154942000000",
@@ -1516,37 +1501,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de limonada 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en polvo Arcor de multifruta 15 grs",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
@@ -1574,6 +1528,37 @@
     "ChangoMás": [
      409.0,
      "https://www.masonline.com.ar/jugo-en-polvo-arcor-multifruta-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Arcor de limonada 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
+   "cadena": "Jumbo",
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
+   "referencia": 450,
+   "precio_2da": 359.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.3,
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     359.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
+    ],
+    "Vea": [
+     389.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
     ]
    }
   },
@@ -1748,6 +1733,33 @@
     "ChangoMás": [
      6639.0,
      "https://www.masonline.com.ar/vino-rosado-santa-julia-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Chardonnay 750 Cc Santa Julia",
+   "m": "SANTA JULIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/799272/Vino-Santa-Julia-Chardonnay-750cc-1-999191.jpg?v=638345361796200000",
+   "cadena": "Jumbo",
+   "precio": 3375.0,
+   "link": "https://www.jumbo.com.ar/vino-santa-julia-chardonnay-750cc/p",
+   "referencia": 6750.0,
+   "precio_2da": 5364.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.1,
+   "score": 1854,
+   "pr": {
+    "Vea": [
+     6600.0,
+     "https://www.vea.com.ar/vino-santa-julia-chardonnay-750cc/p"
+    ],
+    "Jumbo": [
+     3375.0,
+     "https://www.jumbo.com.ar/vino-santa-julia-chardonnay-750cc/p"
+    ],
+    "Carrefour": [
+     5364.0,
+     "https://www.carrefour.com.ar/vino-blanco-chardonnay-roble-santa-julia-750-ml-129666/p"
     ]
    }
   },
@@ -2142,9 +2154,9 @@
    }
   },
   {
-   "n": "Vino Blanco Dulce Cosecha 750 Cc Alaris",
-   "m": "ALARIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581069/Vino-Blanco-Trapiche-Dulce-750-Cc-1-14748.jpg?v=637225176338970000",
+   "n": "Vino blanco dulce Cosecha Alaris 750 ml",
+   "m": "Trapiche",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185751/7790240041880_01.jpg?v=637468595649100000",
    "cadena": "Jumbo",
    "precio": 2800.0,
    "link": "https://www.jumbo.com.ar/vino-blanco-cosecha-dulce-750-ml-alaris-2/p",
@@ -2154,6 +2166,10 @@
    "brecha_pct": 47.8,
    "score": 1595,
    "pr": {
+    "Carrefour": [
+     5369.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-cosecha-alaris-750-ml-420076/p"
+    ],
     "Vea": [
      5700.0,
      "https://www.vea.com.ar/vino-blanco-cosecha-dulce-750-ml-alaris-2/p"
@@ -2161,10 +2177,6 @@
     "Jumbo": [
      2800.0,
      "https://www.jumbo.com.ar/vino-blanco-cosecha-dulce-750-ml-alaris-2/p"
-    ],
-    "Carrefour": [
-     5369.0,
-     "https://www.carrefour.com.ar/vino-blanco-dulce-cosecha-alaris-750-ml-420076/p"
     ]
    }
   },
@@ -2196,6 +2208,33 @@
     "ChangoMás": [
      3059.0,
      "https://www.masonline.com.ar/vino-tinto-dulce-lata-santa-julia-269-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Copa Gin Transparente Vidrio 600 Ml 20 Cm Nadir",
+   "m": "NADIR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/789499/Copa-Para-Gin-600-Ml-Nadirx1-1-985802.jpg?v=638265009685300000",
+   "cadena": "ChangoMás",
+   "precio": 3399.5,
+   "link": "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p",
+   "referencia": 6799.0,
+   "precio_2da": 4986.75,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.8,
+   "score": 1591,
+   "pr": {
+    "Vea": [
+     6649.0,
+     "https://www.vea.com.ar/copa-para-gin-600-ml-nadirx1/p"
+    ],
+    "Jumbo": [
+     4986.75,
+     "https://www.jumbo.com.ar/copa-para-gin-600-ml-nadirx1/p"
+    ],
+    "ChangoMás": [
+     3399.5,
+     "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p"
     ]
    }
   },
@@ -2447,33 +2486,6 @@
    }
   },
   {
-   "n": "Tostadas multigrano Bauducco 142 g.",
-   "m": "Bauducco",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318485/7891962060477_E02.jpg?v=638180458994700000",
-   "cadena": "Jumbo",
-   "precio": 1375.0,
-   "link": "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p",
-   "referencia": 2750.0,
-   "precio_2da": 1987.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.8,
-   "score": 1541,
-   "pr": {
-    "Carrefour": [
-     1987.5,
-     "https://www.carrefour.com.ar/tostadas-multigrano-bauducco-142-g/p"
-    ],
-    "Vea": [
-     2650.0,
-     "https://www.vea.com.ar/tostada-bauducco-multigrano-142gr/p"
-    ],
-    "Jumbo": [
-     1375.0,
-     "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p"
-    ]
-   }
-  },
-  {
    "n": "Tostadas integral Bauducco 142 g.",
    "m": "Bauducco",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318486/7891962060460_E02.jpg?v=638180458995130000",
@@ -2497,6 +2509,33 @@
     "Jumbo": [
      1375.0,
      "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas multigrano Bauducco 142 g.",
+   "m": "Bauducco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318485/7891962060477_E02.jpg?v=638180458994700000",
+   "cadena": "Jumbo",
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p",
+   "referencia": 2750.0,
+   "precio_2da": 1987.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.8,
+   "score": 1541,
+   "pr": {
+    "Carrefour": [
+     1987.5,
+     "https://www.carrefour.com.ar/tostadas-multigrano-bauducco-142-g/p"
+    ],
+    "Vea": [
+     2650.0,
+     "https://www.vea.com.ar/tostada-bauducco-multigrano-142gr/p"
+    ],
+    "Jumbo": [
+     1375.0,
+     "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p"
     ]
    }
   },
@@ -2664,10 +2703,6 @@
      4320.0,
      "https://www.jumbo.com.ar/chocolate-con-leche-bon-o-bon-160g/p"
     ],
-    "ChangoMás": [
-     7729.0,
-     "https://www.masonline.com.ar/chocolate-bon-o-bon-en-tableta-160-g-2/p"
-    ],
     "Carrefour": [
      7000.0,
      "https://www.carrefour.com.ar/tableta-bon-o-bon-160-g-742465/p"
@@ -2791,6 +2826,33 @@
     "Jumbo": [
      780.0,
      "https://www.jumbo.com.ar/snacks-de-arroz-limon-20-gr-oblea-gallo/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Red Blend 750 Cc Finca Las Moras",
+   "m": "FINCA LAS MORAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/845683/Vino-Finca-Las-Moras-Red-Blend-750cc-1-1029239.jpg?v=638669577921930000",
+   "cadena": "Jumbo",
+   "precio": 2750.0,
+   "link": "https://www.jumbo.com.ar/vino-finca-las-moras-red-blend-750cc/p",
+   "referencia": 5500.0,
+   "precio_2da": 3930.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.0,
+   "score": 1501,
+   "pr": {
+    "Jumbo": [
+     2750.0,
+     "https://www.jumbo.com.ar/vino-finca-las-moras-red-blend-750cc/p"
+    ],
+    "Carrefour": [
+     3930.0,
+     "https://www.carrefour.com.ar/vino-tinto-finca-las-moras-red-blend-en-botella-750-cc-744462/p"
+    ],
+    "ChangoMás": [
+     5239.0,
+     "https://www.masonline.com.ar/vino-tinto-finca-las-moras-red-blend-750-ml-2/p"
     ]
    }
   },
