@@ -1,7 +1,8 @@
 name: Actualizar buscador (nube)
 
 # Automatización de precios en la NUBE (gratis, repo público) — reemplaza a la laptop.
-# Corre 3×/día: 10/13/16 hora Argentina (UTC-3) = 13/16/19 UTC.
+# Corre 4×/día: 7/10/13/16 hora Argentina (UTC-3) = 10/13/16/19 UTC (más tarde los
+# precios ya no cambian). La yerba se captura en la corrida de las 7 (1ra del día).
 # - Buscador: scrapea las 6 cadenas y publica buscador.json en la rama `datos`
 #   (commit único, historial liviano, igual que la corrida local).
 # - Yerba: 1×/día (la 1ra corrida que no encuentre la captura de hoy) suma el crudo
@@ -9,6 +10,7 @@ name: Actualizar buscador (nube)
 # GitHub delays los cron bajo carga (pueden llegar tarde algunos minutos): es esperable.
 on:
   schedule:
+    - cron: '0 10 * * *'   # 07:00 ART
     - cron: '0 13 * * *'   # 10:00 ART
     - cron: '0 16 * * *'   # 13:00 ART
     - cron: '0 19 * * *'   # 16:00 ART
