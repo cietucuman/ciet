@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-18",
- "actualizado": "2026-07-18 11:02",
+ "actualizado": "2026-07-18 14:10",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -19,7 +19,7 @@
   "2026-07-17",
   "2026-07-18"
  ],
- "total": 51,
+ "total": 53,
  "ofertas": [
   {
    "n": "Alfajor triple mousse Toddy 60 grs",
@@ -358,6 +358,37 @@
     "Comodín": [
      1350.99,
      "https://www.comodinencasa.com.ar/discos-de-arroz-grandiet-sin-sal-x-100/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec 750 Cc Chacabuco",
+   "m": "CHACABUCO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/787667/Vino-Chacabuco-Malbec-750cc-1-972497.jpg?v=638242762531800000",
+   "cadena": "Jumbo",
+   "precio": 2800.0,
+   "link": "https://www.jumbo.com.ar/vino-chacabuco-malbec-750cc/p",
+   "referencia": 5600.0,
+   "precio_2da": 5085.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.9,
+   "score": 2247,
+   "pr": {
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/vino-chacabuco-malbec-750cc/p"
+    ],
+    "Comodín": [
+     5085.59,
+     "https://www.comodinencasa.com.ar/vino-chacabuco-malbec-750cc/p"
+    ],
+    "Carrefour": [
+     5359.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-chacabuco-en-botella-750-cc-734595/p"
+    ],
+    "ChangoMás": [
+     5519.0,
+     "https://www.masonline.com.ar/vino-tinto-chacabuco-malbec-750-ml-2/p"
     ]
    }
   },
@@ -950,6 +981,37 @@
     "Carrefour": [
      3399.0,
      "https://www.carrefour.com.ar/almohaditas-crema-frutilla-lasfor-bolsa-200-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Copa para gin Nadir 600 ml",
+   "m": "Nadir",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/205385/7891155056584_01.jpg?v=637604908788500000",
+   "cadena": "ChangoMás",
+   "precio": 3399.5,
+   "link": "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p",
+   "referencia": 6799.0,
+   "precio_2da": 4986.75,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.8,
+   "score": 1591,
+   "pr": {
+    "Carrefour": [
+     6799.0,
+     "https://www.carrefour.com.ar/copa-para-gin-nadir-600-ml/p"
+    ],
+    "Vea": [
+     6649.0,
+     "https://www.vea.com.ar/copa-para-gin-600-ml-nadirx1/p"
+    ],
+    "Jumbo": [
+     4986.75,
+     "https://www.jumbo.com.ar/copa-para-gin-600-ml-nadirx1/p"
+    ],
+    "ChangoMás": [
+     3399.5,
+     "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p"
     ]
    }
   },
