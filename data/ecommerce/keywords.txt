@@ -1,0 +1,14 @@
+# Productos a rastrear en la biblioteca de anuncios (Argentina).
+# Una por línea. Las líneas con # se ignoran. Editá libremente.
+freidora de aire
+proyector
+mini proyector
+cepillo alisador
+masajeador
+lampara de luna
+aspiradora inalambrica
+reloj inteligente
+auriculares inalambricos
+camara seguridad wifi
+depiladora laser
+humidificador
