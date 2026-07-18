@@ -181,7 +181,7 @@
 
       <div class="hero">
         <div class="col">
-          <div class="lbl">Índice · base 100</div>
+          <div class="lbl">Índice</div>
           <div class="big" id="h-indice">—</div>
           <div class="var" id="h-var"></div>
           <div class="sub" id="h-vardates"></div>
@@ -304,7 +304,7 @@ function updateIndice() {
 
   // secundario: acumulado desde el inicio, con la fecha base
   const desde = lastV - 100;
-  $('h-inicio').textContent = (desde >= 0 ? '+' : '') + desde.toFixed(1) + '% desde el inicio · base ' + fmtLarga(D.base);
+  $('h-inicio').textContent = (desde >= 0 ? '+' : '') + desde.toFixed(1) + '% desde el ' + fmtLarga(D.base);
 
   // mediana y seguimiento: foto del último día real (etiquetada con su fecha)
   const iLast = D.fechas.length - 1, st = D.stats[iLast];
@@ -316,11 +316,11 @@ function updateIndice() {
 
   // gráfico del período
   if (r.fechas.length < 2) {
-    $('chart-wrap').innerHTML = `<div class="chart-empty">Todavía hay datos de <b>un solo ${P.sing}</b>. La curva aparece cuando haya al menos dos.<br>Índice actual: <b>${lastV.toFixed(1)}</b> · ${fmtLarga(lastF)} (base 100 = ${fmtLarga(D.base)}).</div>`;
+    $('chart-wrap').innerHTML = `<div class="chart-empty">Todavía hay datos de <b>un solo ${P.sing}</b>. La curva aparece cuando haya al menos dos.<br>Índice actual: <b>${lastV.toFixed(1)}</b> · ${fmtLarga(lastF)}.</div>`;
   } else {
     $('chart-wrap').innerHTML = lineChart(r.fechas, [{ valores: r.valores, color: '#14395f', width: 2.2, dots: true }], { base100: true });
   }
-  $('chart-hint').innerHTML = 'Índice ' + P.cap + ' (Jevons encadenado, base 100 = ' + fmtLarga(D.base) + '). Del ' + fmtLarga(r.fechas[0]) + ' al ' + fmtLarga(r.fechas[n - 1]) + '.';
+  $('chart-hint').innerHTML = 'Índice ' + P.cap + ' · Jevons encadenado. Del ' + fmtLarga(r.fechas[0]) + ' al ' + fmtLarga(r.fechas[n - 1]) + '.';
   $('cap-note').innerHTML = 'Actualizado: <span class="actu">' + fmtLarga(D.actualizado) + '</span>. Precio tomado una vez por día, ~10&nbsp;h de Tucumán.';
 }
 
@@ -362,43 +362,42 @@ function lineChart(fechas, series, opts = {}) {
 function metodologia() {
   const base = fmtLarga(D.base);
   return `
-  <h3>Qué mide</h3>
-  <p>Este índice sigue <b>cómo cambia en el tiempo el precio de la yerba mate de 1&nbsp;kg</b> en los supermercados de Tucumán. No es un promedio de precios: es un número, con base 100 el primer día (${base}), que sube o baja según cuánto se movieron los precios. Un valor de 110 significa que la yerba, en conjunto, está 10% más cara que el día base.</p>
+  <h3>Objeto de medición</h3>
+  <p>El índice mide la <b>evolución temporal del nivel de precios de la yerba mate de 1&nbsp;kg</b> en los supermercados de Tucumán. No se trata de un promedio de precios sino de un <b>número índice</b>: expresa el precio de cada período en relación con un período de referencia (${base}&nbsp;=&nbsp;100). Un valor de 110 indica, así, que el conjunto de la yerba resulta un 10% más caro que en el período de referencia, con independencia de su precio absoluto.</p>
 
-  <h3>Qué entra</h3>
+  <h3>Universo y cobertura</h3>
   <ul>
-    <li><b>Todas las marcas</b> de yerba que se venden online en Tucumán, en paquete de <b>1&nbsp;kg exacto</b> (no medios kilos ni packs). Al ser todas del mismo tamaño, el precio es directamente comparable, sin normalizar por gramaje.</li>
-    <li>Las cadenas: Carrefour, Vea, Jumbo, Comodín, ChangoMás y Tuchanguito.</li>
-    <li>Se incluye el <b>precio de oferta</b> cuando lo hay: es el precio real de góndola que paga la gente ese día (así lo hacen los índices oficiales).</li>
+    <li>Comprende <b>todas las marcas</b> de yerba ofrecidas por las tiendas online de Tucumán en presentación de <b>1&nbsp;kg exacto</b> (se excluyen otros gramajes y packs). Al tratarse de una presentación homogénea, los precios son directamente comparables, sin necesidad de normalizar por peso.</li>
+    <li>Cadenas relevadas: Carrefour, Vea, Jumbo, Comodín, ChangoMás y Tuchanguito, con precio correspondiente a la provincia de Tucumán.</li>
+    <li>Se computa el precio de góndola vigente cada día, <b>incluidas las ofertas</b>: es el precio efectivamente disponible al público, criterio que adoptan los índices oficiales.</li>
   </ul>
 
-  <h3>Cómo se calcula: Jevons encadenado</h3>
-  <p>Es el método que usan los institutos de estadística con precios relevados por web. La idea central: <b>se compara cada yerba contra sí misma</b>, en cada cadena por separado. "Playadito en Vea" es una serie; "Playadito en Jumbo" es otra distinta.</p>
-  <p>Para cada par de días consecutivos, se calcula cuánto cambió el precio de cada yerba en cada cadena (la <i>relativa</i> = precio de hoy ÷ precio de ayer), <b>usando sólo las que aparecen los dos días</b>. Después se promedian esas variaciones con <b>media geométrica</b>:</p>
-  <div class="formula">Índice<sub>hoy</sub> = Índice<sub>ayer</sub> × media geométrica( precio<sub>hoy</sub> ÷ precio<sub>ayer</sub> )</div>
-  <div class="box">Las yerbas que <b>entran o salen</b> del muestreo no ensucian el índice, porque una variación necesita que el producto esté los dos días. Eso es lo que un promedio simple hace mal: si aparece una yerba premium nueva, el promedio salta aunque ningún precio haya cambiado. Acá no.</div>
-  <p><b>No se pondera por ventas</b> (no tenemos ese dato público): cada yerba pesa igual, y lo decimos abierto. Como el índice combina más de 100 series, una oferta puntual en una sola yerba mueve el número general apenas ~0,2% — el índice sólo se mueve fuerte cuando se mueven muchos precios a la vez.</p>
+  <h3>Metodología de cálculo: índice de Jevons encadenado</h3>
+  <p>Es el procedimiento que emplean las oficinas de estadística para precios relevados por medios electrónicos. El principio es el <b>emparejamiento</b>: cada yerba se compara consigo misma, en cada cadena por separado. "Playadito en Vea" constituye una serie; "Playadito en Jumbo", otra distinta.</p>
+  <p>Para cada par de días consecutivos se calcula la variación de cada yerba en cada cadena (el <i>relativo de precios</i> = precio del día ÷ precio del día previo), considerando <b>únicamente las presentes en ambos días</b>. Esas variaciones se agregan mediante <b>media geométrica</b>:</p>
+  <div class="formula">Índice<sub>t</sub> = Índice<sub>t−1</sub> × media geométrica( precio<sub>t</sub> ÷ precio<sub>t−1</sub> )</div>
+  <div class="box">Los productos que <b>ingresan o salen</b> de la muestra no distorsionan el índice, ya que todo relativo exige la presencia del producto en ambos días. Es precisamente el error de un promedio simple: la aparición de una yerba premium eleva el promedio aunque ningún precio haya variado. El índice de Jevons lo evita.</div>
+  <p><b>No se aplica ponderación por volumen de ventas</b>: cada yerba pondera por igual, criterio que se explicita. Dado que el índice agrega más de un centenar de series, una oferta puntual en una sola yerba desplaza el índice general apenas ~0,2%; sólo movimientos generalizados de precios lo alteran de manera apreciable.</p>
 
-  <h3>Diaria, semanal y mensual</h3>
-  <p>El índice se calcula <b>diariamente</b>. Las vistas semanal y mensual son el mismo índice observado al <b>cierre de cada semana / mes</b>: como es un índice encadenado, el valor de fin de período ya acumula todas las variaciones diarias del período, así que la variación semana a semana (o mes a mes) es exacta. Sirven para ver la tendencia con menos ruido de promociones diarias.</p>
+  <h3>Frecuencias de cálculo</h3>
+  <p>El índice se computa con <b>periodicidad diaria</b>. Las series semanal y mensual corresponden al mismo índice observado al <b>cierre de cada semana y de cada mes</b>: por tratarse de un índice encadenado, el valor de fin de período acumula la totalidad de las variaciones diarias del período, de modo que la variación intersemanal o intermensual es exacta. Estas frecuencias permiten apreciar la tendencia atenuando el ruido de las promociones diarias.</p>
 
-  <h3>Cuándo se toma el precio</h3>
-  <p>Una sola captura por día, <b>a la misma hora (~10&nbsp;h de Tucumán)</b>. Tomar siempre a la misma hora hace que la serie sea comparable día a día y evita el ruido de promos que prenden y apagan durante el día.</p>
+  <h3>Relevamiento</h3>
+  <p>El relevamiento se efectúa <b>una vez por día, en horario fijo</b> (aproximadamente las 10&nbsp;h de Tucumán). Tomar el precio siempre en el mismo momento garantiza la comparabilidad de la serie y neutraliza el ruido de las promociones que se activan y desactivan a lo largo de la jornada.</p>
 
-  <h3>Control de calidad</h3>
+  <h3>Depuración y control de calidad</h3>
   <ul>
-    <li>La identidad de cada producto entre cadenas y entre días se define con una firma normalizada del nombre y la marca (une "ROSAMONTE" con "Rosamonte", etc.).</li>
-    <li>Se descarta cualquier variación de precio absurda de un día para otro (fuera del rango 0,5×–2×): casi siempre es un error de carga de la tienda, no inflación real.</li>
+    <li>La identidad de cada producto —entre cadenas y entre días— se establece mediante una firma normalizada de su denominación y marca (que unifica, por ejemplo, "ROSAMONTE" y "Rosamonte").</li>
+    <li>Se descartan las variaciones extremas entre días consecutivos —cuando el precio cae a menos de un tercio o más que se triplica—, atribuibles a errores de carga de la tienda antes que a movimientos reales. Las promociones habituales, incluidos los descuentos profundos, permanecen incluidas en el cálculo.</li>
   </ul>
 
-  <h3>Datos abiertos</h3>
-  <p>Los datos crudos de cada día —cada yerba, cada cadena, cada precio— se guardan y quedan versionados, así el índice siempre se puede recalcular o auditar. Trabajamos sólo con precios públicos de las tiendas online; no usamos cuentas ni credenciales.</p>
+  <h3>Transparencia y datos abiertos</h3>
+  <p>Los datos crudos de cada jornada —cada yerba, cada cadena, cada precio— se conservan versionados, de manera que el índice puede recalcularse o auditarse en cualquier momento. Se trabaja exclusivamente con precios públicos de las tiendas online, sin cuentas ni credenciales.</p>
 
-  <h3>Límites</h3>
+  <h3>Limitaciones</h3>
   <ul>
-    <li>Es el precio <b>online</b> de góndola; puede diferir del local físico y no incluye descuentos por medio de pago.</li>
-    <li>Vea y Jumbo (Cencosud) no exponen precio geolocalizado sin login, así que para esas dos el precio es el online nacional.</li>
-    <li>La serie <b>arranca el ${base}</b> y se acumula hacia adelante: no hay histórico previo posible.</li>
+    <li>Refleja el precio de góndola <b>online</b>, que puede diferir del vigente en el local físico; no incorpora descuentos por medio de pago.</li>
+    <li>La serie <b>se inicia el ${base}</b> y se construye hacia adelante: no es posible reconstruir un histórico anterior a esa fecha.</li>
   </ul>`;
 }
 </script>

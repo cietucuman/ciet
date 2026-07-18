@@ -98,6 +98,14 @@
   .cbtn { border: 1px solid var(--line); border-radius: 10px; padding: 12px 18px; text-decoration: none; color: var(--ink); font-weight: 500; font-size: 0.92rem; background: var(--card); transition: border-color .2s ease-out, background .2s ease-out, transform .2s ease-out; }
   .cbtn:hover { border-color: var(--accent); background: var(--accent-soft); transform: translateY(-2px); }
 
+  /* Variación diaria de la yerba en la card del índice */
+  .yvar { display: none; align-items: baseline; gap: 10px; margin-top: 16px; padding: 12px 15px; border-radius: 11px; background: var(--surface); border: 1px solid var(--line); }
+  .yvar.show { display: flex; }
+  .yvar .n { font-family: var(--serif); font-size: 1.6rem; font-weight: 600; font-variant-numeric: tabular-nums; line-height: 1; }
+  .yvar .n.up { color: #a33; }
+  .yvar .n.down { color: var(--ok); }
+  .yvar .l { font-size: 0.78rem; color: var(--muted); line-height: 1.3; }
+
   footer { border-top: 1px solid var(--line); margin-top: 72px; }
   footer .wrap { padding: 30px 28px; color: var(--muted); font-size: 0.8rem; line-height: 1.6; }
 
@@ -134,10 +142,20 @@
         <p>Buscá cualquier producto y mirá el precio en las tiendas online de todos los supermercados de Tucumán, ordenado de más barato a más caro, con el link para comprarlo.</p>
         <span class="cta">Abrir el buscador <span class="arw">→</span></span>
       </a>
+      <a class="card live" href="canasta.html">
+        <div class="area">Canasta básica</div>
+        <h3>Canasta Básica Alimentaria de Tucumán</h3>
+        <p>La canasta del INDEC, valorizada todos los días con los precios de los supermercados de Tucumán.</p>
+        <span class="cta">Ver la canasta <span class="arw">→</span></span>
+      </a>
       <a class="card live" href="yerba.html">
         <div class="area">Índice de precios</div>
         <h3>Índice de precios de la yerba en Tucumán</h3>
         <p>Todas las marcas, todos los días.</p>
+        <div class="yvar" id="yvar">
+          <span class="n" id="yvar-n"></span>
+          <span class="l" id="yvar-l"></span>
+        </div>
         <span class="cta">Ver el índice <span class="arw">→</span></span>
       </a>
     </div>
@@ -162,6 +180,24 @@
 <footer>
   <div class="wrap">CIET — Centro de Investigación Económica de Tucumán · Datos abiertos · Uso libre citando la fuente.</div>
 </footer>
+
+<script>
+// Variación diaria de la yerba, prominente en la portada.
+fetch('https://raw.githubusercontent.com/cietucuman/ciet/yerba-datos/indice.json')
+  .then(r => r.ok ? r.json() : Promise.reject())
+  .then(d => {
+    const y = d.indice, f = d.fechas;
+    if (!y || y.length < 2) return;
+    const pov = (y[y.length - 1] / y[y.length - 2] - 1) * 100;
+    const fmt = s => new Date(s + 'T12:00:00').toLocaleDateString('es-AR', { day: 'numeric', month: 'long' });
+    const nEl = document.getElementById('yvar-n');
+    nEl.textContent = (pov >= 0 ? '▲ +' : '▼ ') + pov.toFixed(1) + '%';
+    nEl.className = 'n ' + (pov >= 0 ? 'up' : 'down');
+    document.getElementById('yvar-l').textContent = 'la yerba, ' + fmt(f[f.length - 1]) + ' vs. día anterior';
+    document.getElementById('yvar').classList.add('show');
+  })
+  .catch(() => {});
+</script>
 
 </body>
 </html>

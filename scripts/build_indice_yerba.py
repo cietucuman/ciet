@@ -16,9 +16,10 @@ METODOLOGÍA (defendible, la que usan los institutos con precios scrapeados):
     en AMBOS días. Los que entran o salen no contaminan la transición (elimina el
     sesgo de composición). Base 100 el primer día.
   · Sin ponderar (cada item pesa igual): no hay datos de ventas. Transparente.
-  · Filtro de outliers: se descarta una relativa fuera de [0.5, 2.0] (±100% de un
-    día para otro es casi seguro un error de dato o un cambio de producto bajo la
-    misma clave), y se reporta cuántas se descartaron.
+  · Filtro de outliers: se descarta una relativa fuera de [0.33, 3.0] (que el precio
+    caiga a menos de un tercio o más que triplique de un día para otro es casi seguro
+    un error de dato o un cambio de producto bajo la misma clave; las promos habituales,
+    incluso descuentos profundos, quedan dentro), y se reporta cuántas se descartaron.
   · Se incluyen precios de promo: es el precio de góndola real disponible al público.
 
 Además del índice general, para TRANSPARENCIA total se guarda la serie de cada
@@ -44,7 +45,7 @@ from fetch_buscador import clave_fuzzy, _norm  # noqa: E402
 
 # Banda de plausibilidad para una relativa de precio día-a-día. Fuera de esto se
 # considera error de dato / cambio de producto y no entra al índice.
-REL_MIN, REL_MAX = 0.5, 2.0
+REL_MIN, REL_MAX = 0.33, 3.0
 
 
 def gramaje(nombre):
@@ -218,7 +219,7 @@ def main():
         "metodologia": ("Índice de Jevons encadenado (media geométrica de relativas "
                         "de precio) sobre items producto×cadena, yerbas de 1 kg, "
                         "todas las marcas. Base 100 = " + fechas[0] + ". Sin ponderar. "
-                        "Se descartan relativas fuera de [0.5, 2.0] por día."),
+                        "Se descartan relativas fuera de [0.33, 3.0] por día."),
         "fechas": fechas,
         "cadenas": cadenas,
         "indice": indice,
