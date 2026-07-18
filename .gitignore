@@ -6,9 +6,6 @@ scripts/__pycache__/
 data/buscador.json
 # Datos de la yerba: viven en la rama `yerba-datos` (acumula histórico), no en main.
 data/yerba/
-# Sección e-commerce (privada). El HTML en claro NO se sube: sólo la versión
-# cifrada (ecommerce.html). El source vive únicamente en tu máquina.
-ecommerce.src.html
 # Datos de productos ganadores: viven en la rama `ecommerce-datos`, no en main.
 # (keywords.txt sí se versiona; sólo se ignora cualquier JSON generado.)
 data/ecommerce/*.json
