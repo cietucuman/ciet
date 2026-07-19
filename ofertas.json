@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-18",
- "actualizado": "2026-07-18 19:17",
+ "fecha": "2026-07-19",
+ "actualizado": "2026-07-19 11:07",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -17,9 +17,10 @@
   "2026-07-15",
   "2026-07-16",
   "2026-07-17",
-  "2026-07-18"
+  "2026-07-18",
+  "2026-07-19"
  ],
- "total": 48,
+ "total": 28,
  "ofertas": [
   {
    "n": "Alfajor triple mousse Toddy 60 grs",
@@ -49,64 +50,6 @@
    }
   },
   {
-   "n": "Miel untable Aleluya 500 g.",
-   "m": "Aleluya",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/178638/7790158229493_02.jpg?v=637468579751170000",
-   "cadena": "Jumbo",
-   "precio": 4050.0,
-   "link": "https://www.jumbo.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p",
-   "referencia": 8100,
-   "precio_2da": 8300.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 51.2,
-   "score": 2560,
-   "pr": {
-    "Carrefour": [
-     8300.0,
-     "https://www.carrefour.com.ar/miel-untable-aleluya-500-g-39141/p"
-    ],
-    "Vea": [
-     8300.0,
-     "https://www.vea.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p"
-    ],
-    "Jumbo": [
-     4050.0,
-     "https://www.jumbo.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p"
-    ],
-    "Comodín": [
-     9165.59,
-     "https://www.comodinencasa.com.ar/miel-aleluya-untable-pet-x-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo natural manzana Del Valle 1 l.",
-   "m": "Del Valle",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817811/7790154008290_E02.jpg?v=639082509739630000",
-   "cadena": "Jumbo",
-   "precio": 1000.0,
-   "link": "https://www.jumbo.com.ar/jugo-del-valle-manzana-1-l/p",
-   "referencia": 2000,
-   "precio_2da": 2000.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Carrefour": [
-     2000.0,
-     "https://www.carrefour.com.ar/jugo-natural-manzana-del-valle-1-l/p"
-    ],
-    "Vea": [
-     2000.0,
-     "https://www.vea.com.ar/jugo-del-valle-manzana-1-l/p"
-    ],
-    "Jumbo": [
-     1000.0,
-     "https://www.jumbo.com.ar/jugo-del-valle-manzana-1-l/p"
-    ]
-   }
-  },
-  {
    "n": "Leche Sabor Chocolate 190 Ml Nestle",
    "m": "NESTLE",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
@@ -123,13 +66,13 @@
      1325.0,
      "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
     ],
-    "ChangoMás": [
-     2649.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
-    ],
     "Carrefour": [
      2649.0,
      "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
+    ],
+    "ChangoMás": [
+     2649.0,
+     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
     ]
    }
   },
@@ -161,87 +104,6 @@
     "ChangoMás": [
      2209.0,
      "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Miel extra white Beepure en frasco 500 grs",
-   "m": "Beepure",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/685267/7798165594504_02.jpg?v=638893942719100000",
-   "cadena": "Jumbo",
-   "precio": 5275.0,
-   "link": "https://www.jumbo.com.ar/miel-cremosa-extra-white-frasco-x-500-gr-beepure/p",
-   "referencia": 10550,
-   "precio_2da": 10200.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2414,
-   "pr": {
-    "Carrefour": [
-     10200.0,
-     "https://www.carrefour.com.ar/miel-extra-white-beepure-en-frasco-500-grs-764448/p"
-    ],
-    "Vea": [
-     10200.0,
-     "https://www.vea.com.ar/miel-cremosa-extra-white-frasco-x-500-gr-beepure/p"
-    ],
-    "Jumbo": [
-     5275.0,
-     "https://www.jumbo.com.ar/miel-cremosa-extra-white-frasco-x-500-gr-beepure/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada El Brocal de durazno frasco 420 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/237034/7798088960042_02.jpg?v=637818418704100000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/mermelada-de-durazno-420-gr-el-brocal/p",
-   "referencia": 7000,
-   "precio_2da": 6750.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2407,
-   "pr": {
-    "Carrefour": [
-     6750.0,
-     "https://www.carrefour.com.ar/mermelada-el-brocal-de-durazno-frasco-420-g-281415/p"
-    ],
-    "Vea": [
-     6750.0,
-     "https://www.vea.com.ar/mermelada-de-durazno-420-gr-el-brocal/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/mermelada-de-durazno-420-gr-el-brocal/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de frutos rojos El Brocal 420 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214490/7798088960264_02.jpg?v=637678495413800000",
-   "cadena": "Jumbo",
-   "precio": 4375.0,
-   "link": "https://www.jumbo.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p",
-   "referencia": 8750,
-   "precio_2da": 8400.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2396,
-   "pr": {
-    "Carrefour": [
-     8400.0,
-     "https://www.carrefour.com.ar/mermelada-de-frutos-rojos-el-brocal-420-g/p"
-    ],
-    "Vea": [
-     8400.0,
-     "https://www.vea.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
-    ],
-    "Jumbo": [
-     4375.0,
-     "https://www.jumbo.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
     ]
    }
   },
@@ -281,60 +143,6 @@
    }
   },
   {
-   "n": "Mermelada Light Sabor Durazno 390 Grs Cormillot",
-   "m": "CORMILLOT",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/339858/Mermelada-Light-Cormillot-Durazno-390-Gr-1-13487.jpg?v=636439395643700000",
-   "cadena": "Jumbo",
-   "precio": 1575.0,
-   "link": "https://www.jumbo.com.ar/mermelada-light-cormillot-durazno-390-gr/p",
-   "referencia": 3150,
-   "precio_2da": 2956.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.7,
-   "score": 2337,
-   "pr": {
-    "Jumbo": [
-     1575.0,
-     "https://www.jumbo.com.ar/mermelada-light-cormillot-durazno-390-gr/p"
-    ],
-    "Comodín": [
-     2956.69,
-     "https://www.comodinencasa.com.ar/mermelada-cormillot-light-duraz-x-390-g/p"
-    ],
-    "ChangoMás": [
-     3239.0,
-     "https://www.masonline.com.ar/mermelada-cormillot-durazno-light-390-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada Light Cormillot Frutilla 390 Gr",
-   "m": "CORMILLOT",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/339859/Mermelada-Light-Cormillot-Frutilla-390-Gr-1-13488.jpg?v=636439395664670000",
-   "cadena": "Jumbo",
-   "precio": 2025.0,
-   "link": "https://www.jumbo.com.ar/mermelada-light-cormillot-frutilla-390-gr/p",
-   "referencia": 4050,
-   "precio_2da": 3778.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.4,
-   "score": 2320,
-   "pr": {
-    "Vea": [
-     4050.0,
-     "https://www.vea.com.ar/mermelada-light-cormillot-frutilla-390-gr/p"
-    ],
-    "Jumbo": [
-     2025.0,
-     "https://www.jumbo.com.ar/mermelada-light-cormillot-frutilla-390-gr/p"
-    ],
-    "Comodín": [
-     3778.19,
-     "https://www.comodinencasa.com.ar/mermelada-cormillot-light-frut-x-390-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Galletas de arroz Grandiet sin sal 100 g.",
    "m": "Grandiet",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176740/7797330100656_02.jpg?v=637468574158530000",
@@ -358,68 +166,6 @@
     "Comodín": [
      1350.99,
      "https://www.comodinencasa.com.ar/discos-de-arroz-grandiet-sin-sal-x-100/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Terrabusi chocolate clásico pack 6 uni",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825747/7622300742584_E01.jpg?v=639086662712970000",
-   "cadena": "Jumbo",
-   "precio": 4300.0,
-   "link": "https://www.jumbo.com.ar/alfajor-terrabusi-chocolate-clasico-300-gr-6-u/p",
-   "referencia": 8600,
-   "precio_2da": 7600.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.4,
-   "score": 2171,
-   "pr": {
-    "Carrefour": [
-     7600.0,
-     "https://www.carrefour.com.ar/alfajor-terrabusi-chocolate-clasico-pack-6-uni-521104/p"
-    ],
-    "Vea": [
-     7600.0,
-     "https://www.vea.com.ar/alfajor-terrabusi-chocolate-clasico-300-gr-6-u/p"
-    ],
-    "Jumbo": [
-     4300.0,
-     "https://www.jumbo.com.ar/alfajor-terrabusi-chocolate-clasico-300-gr-6-u/p"
-    ],
-    "Comodín": [
-     10484.29,
-     "https://www.comodinencasa.com.ar/alfajor-terrabusi-chocolate-x-6-un-2/p"
-    ],
-    "ChangoMás": [
-     8139.0,
-     "https://www.masonline.com.ar/alfajor-clasico-6-un-terrabusi-300gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple Milka mousse blanco 55 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428480/7622300457303_E01.jpg?v=638392057969730000",
-   "cadena": "Jumbo",
-   "precio": 1100.0,
-   "link": "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p",
-   "referencia": 2200.0,
-   "precio_2da": 1909.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.4,
-   "score": 2119,
-   "pr": {
-    "Carrefour": [
-     1909.0,
-     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
-    ],
-    "Jumbo": [
-     1100.0,
-     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
-    ],
-    "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
     ]
    }
   },
@@ -451,60 +197,29 @@
    }
   },
   {
-   "n": "Jugo natural Del Valle de naranja 200 cc.",
-   "m": "Del Valle",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817818/7790154008375_E02.jpg?v=639082510869300000",
+   "n": "Vino Rose 750 Cc Cordero Con Piel De Lobo",
+   "m": "CORDERO CON PIEL DE LOBO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829228/Vino-Cordero-Con-Piel-De-Lobo-Rose-750cc-1-1021439.jpg?v=638579829656570000",
    "cadena": "Jumbo",
-   "precio": 400.0,
-   "link": "https://www.jumbo.com.ar/jugo-listo-del-valle-naranja-200cc-2/p",
-   "referencia": 800,
-   "precio_2da": 650.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.5,
-   "score": 1923,
+   "precio": 3500.0,
+   "link": "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p",
+   "referencia": 5900.0,
+   "precio_2da": 6665.0,
+   "baja_pct": 40.7,
+   "brecha_pct": 47.5,
+   "score": 1932,
    "pr": {
+    "Jumbo": [
+     3500.0,
+     "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p"
+    ],
     "Carrefour": [
-     650.0,
-     "https://www.carrefour.com.ar/jugo-natural-del-valle-de-naranja-200-cc/p"
-    ],
-    "Vea": [
-     650.0,
-     "https://www.vea.com.ar/jugo-listo-del-valle-naranja-200cc-2/p"
-    ],
-    "Jumbo": [
-     400.0,
-     "https://www.jumbo.com.ar/jugo-listo-del-valle-naranja-200cc-2/p"
+     6665.0,
+     "https://www.carrefour.com.ar/vino-rosado-cordero-con-piel-de-lobo-750-ml-748279/p"
     ],
     "ChangoMás": [
-     729.0,
-     "https://www.masonline.com.ar/jugo-naranja-del-valle-200-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo Sabor Multifruta 200 Ml Del Valle",
-   "m": "DEL VALLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/797120/Jugo-Del-Valle-Multifruta-200-Ml-1-875077.jpg?v=638327434541870000",
-   "cadena": "Jumbo",
-   "precio": 400.0,
-   "link": "https://www.jumbo.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p",
-   "referencia": 800,
-   "precio_2da": 650.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.5,
-   "score": 1923,
-   "pr": {
-    "Vea": [
-     650.0,
-     "https://www.vea.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p"
-    ],
-    "Jumbo": [
-     400.0,
-     "https://www.jumbo.com.ar/jugo-listo-del-valle-multifruta-200cc-2/p"
-    ],
-    "ChangoMás": [
-     729.0,
-     "https://www.masonline.com.ar/jugo-del-valle-multifruta-200ml-2/p"
+     6999.0,
+     "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p"
     ]
    }
   },
@@ -571,184 +286,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de multifruta 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-multifruta-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de limonada 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de naranja 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de manzana 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817843/7790580144142_E02.jpg?v=639082514621930000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de durazno 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817837/7790580142766_E02.jpg?v=639082513719730000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de naranja dulce 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817838/7790580143008_E02.jpg?v=639082513859870000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
-   "referencia": 450,
-   "precio_2da": 359.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1866,
-   "pr": {
-    "Carrefour": [
-     359.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
-    ],
-    "Vea": [
-     389.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Agua saborizada citrus H2OH con gas 1,5 lts",
    "m": "H2oh!",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308974/7791813421603_E01.jpg?v=638146793814400000",
@@ -807,37 +344,6 @@
    }
   },
   {
-   "n": "Antitranspirante en aerosol Rexona Women Copa del Mundo de la FIFA 2026 150 ml",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/800031/7791293049571_01.jpg?v=639065166316470000",
-   "cadena": "Carrefour",
-   "precio": 2095.0,
-   "link": "https://www.carrefour.com.ar/antitranspirante-en-aerosol-rexona-women-copa-del-mundo-de-la-fifa-2026-150-ml-726896/p",
-   "referencia": 3374.25,
-   "precio_2da": 3750.0,
-   "baja_pct": 37.9,
-   "brecha_pct": 44.1,
-   "score": 1673,
-   "pr": {
-    "Carrefour": [
-     2095.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-aerosol-rexona-women-copa-del-mundo-de-la-fifa-2026-150-ml-726896/p"
-    ],
-    "Vea": [
-     4090.0,
-     "https://www.vea.com.ar/desodorante-futbol-fanaticas-150-ml-rexona/p"
-    ],
-    "Jumbo": [
-     3750.0,
-     "https://www.jumbo.com.ar/desodorante-futbol-fanaticas-150-ml-rexona/p"
-    ],
-    "ChangoMás": [
-     5059.0,
-     "https://www.masonline.com.ar/antitranspirante-futbol-fanatic-rexona-150ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Copos de Maíz Sabor Tradicionales 160 Grs Granix",
    "m": "GRANIX",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/915525/11260102003.jpg?v=639148023114130000",
@@ -892,60 +398,29 @@
    }
   },
   {
-   "n": "Copa para gin Nadir 600 ml",
-   "m": "Nadir",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/205385/7891155056584_01.jpg?v=637604908788500000",
-   "cadena": "ChangoMás",
-   "precio": 3399.5,
-   "link": "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p",
-   "referencia": 6799.0,
-   "precio_2da": 4986.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.8,
-   "score": 1591,
-   "pr": {
-    "Carrefour": [
-     6799.0,
-     "https://www.carrefour.com.ar/copa-para-gin-nadir-600-ml/p"
-    ],
-    "Vea": [
-     6649.0,
-     "https://www.vea.com.ar/copa-para-gin-600-ml-nadirx1/p"
-    ],
-    "Jumbo": [
-     4986.75,
-     "https://www.jumbo.com.ar/copa-para-gin-600-ml-nadirx1/p"
-    ],
-    "ChangoMás": [
-     3399.5,
-     "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Tofi negro 46 g",
-   "m": "Tofi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318892/7790040116610_E01.jpg?v=638181154808970000",
+   "n": "Alfajor Negro Sabor de Dulce de Leche 150 Grs x 3 Un Happy Food",
+   "m": "happy food",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/777266/Alfajor-Dulce-Leche-Happy-Food-X3-150gr-1-956761.jpg?v=638174289850170000",
    "cadena": "Jumbo",
-   "precio": 525.0,
-   "link": "https://www.jumbo.com.ar/alfajor-negro-tofi-46-gr/p",
-   "referencia": 787.5,
-   "precio_2da": 996.39,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.3,
-   "score": 1577,
+   "precio": 2450.0,
+   "link": "https://www.jumbo.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p",
+   "referencia": 4900.0,
+   "precio_2da": 3600.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.9,
+   "score": 1597,
    "pr": {
-    "Carrefour": [
-     1050.0,
-     "https://www.carrefour.com.ar/alfajor-tofi-negro-46-g/p"
+    "Vea": [
+     3600.0,
+     "https://www.vea.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p"
     ],
     "Jumbo": [
-     525.0,
-     "https://www.jumbo.com.ar/alfajor-negro-tofi-46-gr/p"
+     2450.0,
+     "https://www.jumbo.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p"
     ],
-    "Comodín": [
-     996.39,
-     "https://www.comodinencasa.com.ar/alfajor-tofi-glaseado-negro-46gr-2/p"
+    "Carrefour": [
+     3840.0,
+     "https://www.carrefour.com.ar/alfajor-happy-food-de-dulce-leche-50-g-x-3-uni-699927-699927/p"
     ]
    }
   },
@@ -973,33 +448,6 @@
     "Jumbo": [
      2940.0,
      "https://www.jumbo.com.ar/chocolate-snickers-agrupados-48gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Caramelos Pico Dulce 150 Gr",
-   "m": "LHERITIER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/339834/Caramelo-Duro-Pico-Dulce-Frutal-X-150-Gramos-bsa-gr-150-1-11351.jpg?v=636439394855070000",
-   "cadena": "Jumbo",
-   "precio": 1620.0,
-   "link": "https://www.jumbo.com.ar/caramelos-pico-dulce-150-gr/p",
-   "referencia": 2700.0,
-   "precio_2da": 2650.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.9,
-   "score": 1555,
-   "pr": {
-    "Vea": [
-     2650.0,
-     "https://www.vea.com.ar/caramelos-pico-dulce-150-gr/p"
-    ],
-    "Jumbo": [
-     1620.0,
-     "https://www.jumbo.com.ar/caramelos-pico-dulce-150-gr/p"
-    ],
-    "Comodín": [
-     2962.49,
-     "https://www.comodinencasa.com.ar/caramelo-pico-dulce-clasico-x-150-gr-2/p"
     ]
    }
   },
@@ -1147,33 +595,6 @@
    }
   },
   {
-   "n": "Tostadas multigrano Bauducco 142 g.",
-   "m": "Bauducco",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318485/7891962060477_E02.jpg?v=638180458994700000",
-   "cadena": "Jumbo",
-   "precio": 1375.0,
-   "link": "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p",
-   "referencia": 2750.0,
-   "precio_2da": 1987.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.8,
-   "score": 1541,
-   "pr": {
-    "Carrefour": [
-     1987.5,
-     "https://www.carrefour.com.ar/tostadas-multigrano-bauducco-142-g/p"
-    ],
-    "Vea": [
-     2650.0,
-     "https://www.vea.com.ar/tostada-bauducco-multigrano-142gr/p"
-    ],
-    "Jumbo": [
-     1375.0,
-     "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p"
-    ]
-   }
-  },
-  {
    "n": "Tostadas integral Bauducco 142 g.",
    "m": "Bauducco",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318486/7891962060460_E02.jpg?v=638180458995130000",
@@ -1197,6 +618,33 @@
     "Jumbo": [
      1375.0,
      "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas multigrano Bauducco 142 g.",
+   "m": "Bauducco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318485/7891962060477_E02.jpg?v=638180458994700000",
+   "cadena": "Jumbo",
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p",
+   "referencia": 2750.0,
+   "precio_2da": 1987.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.8,
+   "score": 1541,
+   "pr": {
+    "Carrefour": [
+     1987.5,
+     "https://www.carrefour.com.ar/tostadas-multigrano-bauducco-142-g/p"
+    ],
+    "Vea": [
+     2650.0,
+     "https://www.vea.com.ar/tostada-bauducco-multigrano-142gr/p"
+    ],
+    "Jumbo": [
+     1375.0,
+     "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p"
     ]
    }
   },
@@ -1278,33 +726,6 @@
     "Jumbo": [
      1230.0,
      "https://www.jumbo.com.ar/barra-choco-mani-arandanos-integra-41-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Maggi Caldo de Carne Menos Sodio 12 uni",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878778/7891000380826_01.jpg?v=639149704255500000",
-   "cadena": "Jumbo",
-   "precio": 1140.0,
-   "link": "https://www.jumbo.com.ar/caldo-maggi-carne-menos-sodio-114-gr/p",
-   "referencia": 1900,
-   "precio_2da": 1850.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1535,
-   "pr": {
-    "Carrefour": [
-     1850.0,
-     "https://www.carrefour.com.ar/maggi-caldo-de-carne-menos-sodio-12-uni-723124/p"
-    ],
-    "Vea": [
-     1850.0,
-     "https://www.vea.com.ar/caldo-maggi-carne-menos-sodio-114-gr/p"
-    ],
-    "Jumbo": [
-     1140.0,
-     "https://www.jumbo.com.ar/caldo-maggi-carne-menos-sodio-114-gr/p"
     ]
    }
   },
