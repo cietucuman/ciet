@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-19",
- "actualizado": "2026-07-19 11:07",
+ "actualizado": "2026-07-19 14:12",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -20,7 +20,7 @@
   "2026-07-18",
   "2026-07-19"
  ],
- "total": 28,
+ "total": 25,
  "ofertas": [
   {
    "n": "Alfajor triple mousse Toddy 60 grs",
@@ -66,13 +66,13 @@
      1325.0,
      "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
     ],
-    "Carrefour": [
-     2649.0,
-     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
-    ],
     "ChangoMás": [
      2649.0,
      "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+    ],
+    "Carrefour": [
+     2649.0,
+     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
     ]
    }
   },
@@ -197,33 +197,6 @@
    }
   },
   {
-   "n": "Vino Rose 750 Cc Cordero Con Piel De Lobo",
-   "m": "CORDERO CON PIEL DE LOBO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829228/Vino-Cordero-Con-Piel-De-Lobo-Rose-750cc-1-1021439.jpg?v=638579829656570000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p",
-   "referencia": 5900.0,
-   "precio_2da": 6665.0,
-   "baja_pct": 40.7,
-   "brecha_pct": 47.5,
-   "score": 1932,
-   "pr": {
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p"
-    ],
-    "Carrefour": [
-     6665.0,
-     "https://www.carrefour.com.ar/vino-rosado-cordero-con-piel-de-lobo-750-ml-748279/p"
-    ],
-    "ChangoMás": [
-     6999.0,
-     "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Nestlé leche condensada orgánica 395 grs",
    "m": "Nestlé",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903870/8445290900654_E01.jpg?v=639198118907470000",
@@ -313,37 +286,6 @@
    }
   },
   {
-   "n": "Galletas de arroz Grandiet multicereal dulces 100 g.",
-   "m": "Grandiet",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/367680/7797330102384_E02.jpg?v=638283335498770000",
-   "cadena": "Vea",
-   "precio": 775.0,
-   "link": "https://www.vea.com.ar/galletas-de-cereales-inflados-dulce-100-gr-grandiet/p",
-   "referencia": 1550.0,
-   "precio_2da": 1170.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.8,
-   "score": 1688,
-   "pr": {
-    "Carrefour": [
-     1550.0,
-     "https://www.carrefour.com.ar/galletas-de-arroz-grandiet-multicereal-dulces-100-g/p"
-    ],
-    "Vea": [
-     775.0,
-     "https://www.vea.com.ar/galletas-de-cereales-inflados-dulce-100-gr-grandiet/p"
-    ],
-    "Jumbo": [
-     1170.0,
-     "https://www.jumbo.com.ar/galletas-de-cereales-inflados-dulce-100-gr-grandiet/p"
-    ],
-    "Comodín": [
-     1564.19,
-     "https://www.comodinencasa.com.ar/galleta-multicerl-grandiet-dulces-x-100/p"
-    ]
-   }
-  },
-  {
    "n": "Copos de Maíz Sabor Tradicionales 160 Grs Granix",
    "m": "GRANIX",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/915525/11260102003.jpg?v=639148023114130000",
@@ -394,33 +336,6 @@
     "Carrefour": [
      3399.0,
      "https://www.carrefour.com.ar/almohaditas-crema-frutilla-lasfor-bolsa-200-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Negro Sabor de Dulce de Leche 150 Grs x 3 Un Happy Food",
-   "m": "happy food",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/777266/Alfajor-Dulce-Leche-Happy-Food-X3-150gr-1-956761.jpg?v=638174289850170000",
-   "cadena": "Jumbo",
-   "precio": 2450.0,
-   "link": "https://www.jumbo.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p",
-   "referencia": 4900.0,
-   "precio_2da": 3600.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.9,
-   "score": 1597,
-   "pr": {
-    "Vea": [
-     3600.0,
-     "https://www.vea.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p"
-    ],
-    "Jumbo": [
-     2450.0,
-     "https://www.jumbo.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p"
-    ],
-    "Carrefour": [
-     3840.0,
-     "https://www.carrefour.com.ar/alfajor-happy-food-de-dulce-leche-50-g-x-3-uni-699927-699927/p"
     ]
    }
   },
@@ -533,37 +448,6 @@
     "ChangoMás": [
      3449.0,
      "https://www.masonline.com.ar/agua-saborizada-limoneto-h2o-2-25lt-8-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Caramelos Sugus confitados 50 g.",
-   "m": "Sugus",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192843/7790580056001_01.jpg?v=637515950016800000",
-   "cadena": "Jumbo",
-   "precio": 1290.0,
-   "link": "https://www.jumbo.com.ar/caramelos-sugus-confitados-50-gr/p",
-   "referencia": 2150.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1542,
-   "pr": {
-    "Carrefour": [
-     2099.0,
-     "https://www.carrefour.com.ar/caramelos-sugus-confitados-50-g-36959/p"
-    ],
-    "Vea": [
-     2099.0,
-     "https://www.vea.com.ar/caramelos-sugus-confitados-50-gr/p"
-    ],
-    "Jumbo": [
-     1290.0,
-     "https://www.jumbo.com.ar/caramelos-sugus-confitados-50-gr/p"
-    ],
-    "ChangoMás": [
-     2099.0,
-     "https://www.masonline.com.ar/confites-sugus-arcor-50-gr-2/p"
     ]
    }
   },
@@ -815,6 +699,37 @@
     "Comodín": [
      3793.99,
      "https://www.comodinencasa.com.ar/avena-quaker-tradicional-550-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec 750 Cc Chacabuco",
+   "m": "CHACABUCO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/787667/Vino-Chacabuco-Malbec-750cc-1-972497.jpg?v=638242762531800000",
+   "cadena": "Vea",
+   "precio": 2700.0,
+   "link": "https://www.vea.com.ar/vino-chacabuco-malbec-750cc/p",
+   "referencia": 3975.0,
+   "precio_2da": 5085.59,
+   "baja_pct": 32.1,
+   "brecha_pct": 46.9,
+   "score": 1505,
+   "pr": {
+    "Vea": [
+     2700.0,
+     "https://www.vea.com.ar/vino-chacabuco-malbec-750cc/p"
+    ],
+    "ChangoMás": [
+     5519.0,
+     "https://www.masonline.com.ar/vino-tinto-chacabuco-malbec-750-ml-2/p"
+    ],
+    "Comodín": [
+     5085.59,
+     "https://www.comodinencasa.com.ar/vino-chacabuco-malbec-750cc/p"
+    ],
+    "Carrefour": [
+     5359.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-chacabuco-en-botella-750-cc-734595/p"
     ]
    }
   }
