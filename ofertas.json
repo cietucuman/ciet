@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-19",
- "actualizado": "2026-07-19 17:32",
+ "fecha": "2026-07-20",
+ "actualizado": "2026-07-20 14:12",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -18,92 +18,174 @@
   "2026-07-16",
   "2026-07-17",
   "2026-07-18",
-  "2026-07-19"
+  "2026-07-19",
+  "2026-07-20"
  ],
- "total": 25,
+ "total": 19,
  "ofertas": [
   {
-   "n": "Alfajor triple mousse Toddy 60 grs",
-   "m": "Toddy",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884797/7790380023753_E02.jpg?v=639160237564300000",
-   "cadena": "Vea",
-   "precio": 722.79,
-   "link": "https://www.vea.com.ar/alfajor-toddy-triple-mousse-60gr/p",
-   "referencia": 1445.59,
-   "precio_2da": 1689.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 57.2,
-   "score": 2860,
-   "pr": {
-    "Carrefour": [
-     1689.0,
-     "https://www.carrefour.com.ar/alfajor-triple-mousse-toddy-60-grs-779253/p"
-    ],
-    "Vea": [
-     722.79,
-     "https://www.vea.com.ar/alfajor-toddy-triple-mousse-60gr/p"
-    ],
-    "ChangoMás": [
-     1689.0,
-     "https://www.masonline.com.ar/alfajor-toddy-triple-60-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche Sabor Chocolate 190 Ml Nestle",
-   "m": "NESTLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
+   "n": "Vino Tinto Cabernet Franc 750 Cc Saint Felicien",
+   "m": "SAINT FELICIEN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/414332/Vino-Tinto-Saint-Felicien-Cabernet-Franc-750-Cc-1-240354.jpg?v=636442098265400000",
    "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p",
-   "referencia": 2650.0,
-   "precio_2da": 2649.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2499,
-   "pr": {
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
-    ],
-    "ChangoMás": [
-     2649.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
-    ],
-    "Carrefour": [
-     2649.0,
-     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple Oreo 56 g.",
-   "m": "Oreo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428302/77976307_E01.jpg?v=638391993988900000",
-   "cadena": "Jumbo",
-   "precio": 1075.0,
-   "link": "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p",
-   "referencia": 2150.0,
-   "precio_2da": 2100.0,
+   "precio": 8675.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-saint-felicien-cabernet-franc-750-cc/p",
+   "referencia": 17350.0,
+   "precio_2da": 16945.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.8,
    "score": 2440,
    "pr": {
-    "Carrefour": [
-     2100.0,
-     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
-    ],
     "Vea": [
-     2100.0,
-     "https://www.vea.com.ar/alfajor-triple-56-gr-oreo/p"
+     16950.0,
+     "https://www.vea.com.ar/vino-tinto-saint-felicien-cabernet-franc-750-cc/p"
     ],
     "Jumbo": [
-     1075.0,
-     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
+     8675.0,
+     "https://www.jumbo.com.ar/vino-tinto-saint-felicien-cabernet-franc-750-cc/p"
+    ],
+    "Carrefour": [
+     16945.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-franc-saint-felicien-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Saint Felicien 750 ml",
+   "m": "Saint Felicien",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299890/7794450088581_01.jpg?v=638852701529030000",
+   "cadena": "Jumbo",
+   "precio": 8525.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-saint-felicien-malbec-750-cc/p",
+   "referencia": 17050.0,
+   "precio_2da": 16200.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.4,
+   "score": 2369,
+   "pr": {
+    "Carrefour": [
+     16945.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-saint-felicien-750-cc/p"
+    ],
+    "Vea": [
+     16200.0,
+     "https://www.vea.com.ar/vino-tinto-saint-felicien-malbec-750-cc/p"
+    ],
+    "Jumbo": [
+     8525.0,
+     "https://www.jumbo.com.ar/vino-tinto-saint-felicien-malbec-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor mousse chocolate negro Toddy 50 grs",
+   "m": "Toddy",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884800/7790380023579_E02.jpg?v=639160240741270000",
+   "cadena": "Jumbo",
+   "precio": 825.0,
+   "link": "https://www.jumbo.com.ar/alfajor-toddy-mousse-50gr/p",
+   "referencia": 1650.0,
+   "precio_2da": 1550.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.8,
+   "score": 2339,
+   "pr": {
+    "Carrefour": [
+     1550.0,
+     "https://www.carrefour.com.ar/alfajor-mousse-chocolate-negro-toddy-50-grs-779254/p"
+    ],
+    "Vea": [
+     1550.0,
+     "https://www.vea.com.ar/alfajor-toddy-mousse-50gr/p"
+    ],
+    "Jumbo": [
+     825.0,
+     "https://www.jumbo.com.ar/alfajor-toddy-mousse-50gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Saint Felicien",
+   "m": "SAINT FELICIEN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/427725/Vino-Tinto-Cabernet-Sauvignon-Saint-Felicien-750-Cc-1-247879.jpg?v=636495154664730000",
+   "cadena": "Jumbo",
+   "precio": 9050.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p",
+   "referencia": 18100.0,
+   "precio_2da": 16945.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.6,
+   "score": 2330,
+   "pr": {
+    "Vea": [
+     17450.0,
+     "https://www.vea.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p"
+    ],
+    "Jumbo": [
+     9050.0,
+     "https://www.jumbo.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p"
+    ],
+    "Carrefour": [
+     16945.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
+   "cadena": "ChangoMás",
+   "precio": 1999.0,
+   "link": "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p",
+   "referencia": 3861.75,
+   "precio_2da": 3862.5,
+   "baja_pct": 48.2,
+   "brecha_pct": 48.2,
+   "score": 2327,
+   "pr": {
+    "Carrefour": [
+     3862.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
+    ],
+    "Vea": [
+     5150.0,
+     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
+    ],
+    "ChangoMás": [
+     1999.0,
+     "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor triple Milka mousse blanco 55 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428480/7622300457303_E01.jpg?v=638392057969730000",
+   "cadena": "Jumbo",
+   "precio": 1100.0,
+   "link": "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p",
+   "referencia": 2200.0,
+   "precio_2da": 1909.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.4,
+   "score": 2119,
+   "pr": {
+    "Carrefour": [
+     1909.0,
+     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
+    ],
+    "Jumbo": [
+     1100.0,
+     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "ChangoMás": [
      2209.0,
-     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
     ]
    }
   },
@@ -115,10 +197,10 @@
    "precio": 1050.0,
    "link": "https://www.jumbo.com.ar/alfajor-minitorta-clasico-aguila-69-gr/p",
    "referencia": 2100.0,
-   "precio_2da": 1999.0,
+   "precio_2da": 1816.69,
    "baja_pct": 50.0,
-   "brecha_pct": 47.5,
-   "score": 2374,
+   "brecha_pct": 42.2,
+   "score": 2110,
    "pr": {
     "Carrefour": [
      1999.0,
@@ -137,62 +219,8 @@
      "https://www.masonline.com.ar/alfajor-aguila-minitorta-clasico-69g-2/p"
     ],
     "Comodín": [
-     2226.69,
+     1816.69,
      "https://www.comodinencasa.com.ar/mini-torta-aguila-x-72-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletas de arroz Grandiet sin sal 100 g.",
-   "m": "Grandiet",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176740/7797330100656_02.jpg?v=637468574158530000",
-   "cadena": "Vea",
-   "precio": 725.0,
-   "link": "https://www.vea.com.ar/discos-de-arroz-sin-sal-100-gr-grandiet/p",
-   "referencia": 1450.0,
-   "precio_2da": 1350.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.3,
-   "score": 2317,
-   "pr": {
-    "Carrefour": [
-     1450.0,
-     "https://www.carrefour.com.ar/galletas-de-arroz-grandiet-sin-sal-100-g/p"
-    ],
-    "Vea": [
-     725.0,
-     "https://www.vea.com.ar/discos-de-arroz-sin-sal-100-gr-grandiet/p"
-    ],
-    "Comodín": [
-     1350.99,
-     "https://www.comodinencasa.com.ar/discos-de-arroz-grandiet-sin-sal-x-100/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua mineral sin gas Eco de los Andes 1 lt",
-   "m": "Eco De Los Andes",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823980/7792799000639_01.jpg?v=639083292605130000",
-   "cadena": "Vea",
-   "precio": 990.0,
-   "link": "https://www.vea.com.ar/agua-eco-de-los-andes-sin-gas-1lt/p",
-   "referencia": 1808.95,
-   "precio_2da": 1764.75,
-   "baja_pct": 45.3,
-   "brecha_pct": 43.9,
-   "score": 1988,
-   "pr": {
-    "Carrefour": [
-     1764.75,
-     "https://www.carrefour.com.ar/agua-mineral-sin-gas-eco-de-los-andes-1-lt-543646/p"
-    ],
-    "Vea": [
-     990.0,
-     "https://www.vea.com.ar/agua-eco-de-los-andes-sin-gas-1lt/p"
-    ],
-    "ChangoMás": [
-     1767.35,
-     "https://www.masonline.com.ar/agua-mineral-de-manantial-con-pico-deportivo-eco-de-los-andes-1-lt-2/p"
     ]
    }
   },
@@ -255,114 +283,29 @@
    }
   },
   {
-   "n": "Agua saborizada limoneto H2OH con gas 1,5 lts",
-   "m": "H2oh!",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308938/7791813421917_E01.jpg?v=638146793673900000",
-   "cadena": "Vea",
-   "precio": 1900.0,
-   "link": "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p",
-   "referencia": 3399.0,
-   "precio_2da": 3349.0,
-   "baja_pct": 44.1,
-   "brecha_pct": 43.3,
-   "score": 1908,
+   "n": "Acondicionador Tresemme liso efecto botox 250 cc.",
+   "m": "Tresemmé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416842/7791293050089_01.jpg?v=638355808833430000",
+   "cadena": "Carrefour",
+   "precio": 2795.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p",
+   "referencia": 6100.0,
+   "precio_2da": 4062.5,
+   "baja_pct": 54.2,
+   "brecha_pct": 31.2,
+   "score": 1690,
    "pr": {
     "Carrefour": [
-     3399.0,
-     "https://www.carrefour.com.ar/agua-saborizada-limoneto-h2oh-con-gas-15-lts-512174/p"
-    ],
-    "Vea": [
-     1900.0,
-     "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p"
+     2795.0,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
     ],
     "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p"
+     4062.5,
+     "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
     ],
     "ChangoMás": [
-     3349.0,
-     "https://www.masonline.com.ar/agua-saborizada-limoneto-h2oh-1-5lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua saborizada citrus H2OH con gas 1,5 lts",
-   "m": "H2oh!",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308974/7791813421603_E01.jpg?v=638146793814400000",
-   "cadena": "Vea",
-   "precio": 1790.0,
-   "link": "https://www.vea.com.ar/gaseosa-h2oh-citrus-botella-1-5ltx1-2/p",
-   "referencia": 3500.0,
-   "precio_2da": 2849.0,
-   "baja_pct": 48.9,
-   "brecha_pct": 37.2,
-   "score": 1816,
-   "pr": {
-    "Carrefour": [
-     2849.0,
-     "https://www.carrefour.com.ar/agua-saborizada-citrus-h2oh-con-gas-15-lts-590077/p"
-    ],
-    "Vea": [
-     1790.0,
-     "https://www.vea.com.ar/gaseosa-h2oh-citrus-botella-1-5ltx1-2/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/gaseosa-h2oh-citrus-botella-1-5ltx1-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Copos de Maíz Sabor Tradicionales 160 Grs Granix",
-   "m": "GRANIX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915525/11260102003.jpg?v=639148023114130000",
-   "cadena": "Jumbo",
-   "precio": 1020.0,
-   "link": "https://www.jumbo.com.ar/copos-de-maiz-tradicionales-granix-160-gr/p",
-   "referencia": 1700.0,
-   "precio_2da": 1700.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     1700.0,
-     "https://www.vea.com.ar/copos-de-maiz-tradicionales-granix-160-gr/p"
-    ],
-    "Jumbo": [
-     1020.0,
-     "https://www.jumbo.com.ar/copos-de-maiz-tradicionales-granix-160-gr/p"
-    ],
-    "Carrefour": [
-     1700.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-granix-160-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Cereal Rellenas Sabor Crema de Frutilla 200 Grs Lasfor",
-   "m": "LASFOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/646027/Almohaditas-Lasfor-Crema-Frutilla-200-Grs-1-871115.jpg?v=637582879686970000",
-   "cadena": "Jumbo",
-   "precio": 2040.0,
-   "link": "https://www.jumbo.com.ar/almohaditas-crema-frutilla-lasfor-200-gr/p",
-   "referencia": 3400.0,
-   "precio_2da": 3399.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1599,
-   "pr": {
-    "Vea": [
-     3399.0,
-     "https://www.vea.com.ar/almohaditas-crema-frutilla-lasfor-200-gr/p"
-    ],
-    "Jumbo": [
-     2040.0,
-     "https://www.jumbo.com.ar/almohaditas-crema-frutilla-lasfor-200-gr/p"
-    ],
-    "Carrefour": [
-     3399.0,
-     "https://www.carrefour.com.ar/almohaditas-crema-frutilla-lasfor-bolsa-200-g/p"
+     6769.0,
+     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
     ]
    }
   },
@@ -394,33 +337,6 @@
    }
   },
   {
-   "n": "Copos De Maíz Tradicionales Granix 400 Gr",
-   "m": "GRANIX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/195009/Copos-De-Maiz-Granix-Copos-De-Maiz-Tradicionales-Granix-400-Gr-1-31371.jpg?v=636383559537130000",
-   "cadena": "Jumbo",
-   "precio": 1590.0,
-   "link": "https://www.jumbo.com.ar/copos-de-maiz-tradicionales-granix-400-gr/p",
-   "referencia": 2650.0,
-   "precio_2da": 2600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.8,
-   "score": 1554,
-   "pr": {
-    "Vea": [
-     2600.0,
-     "https://www.vea.com.ar/copos-de-maiz-tradicionales-granix-400-gr/p"
-    ],
-    "Jumbo": [
-     1590.0,
-     "https://www.jumbo.com.ar/copos-de-maiz-tradicionales-granix-400-gr/p"
-    ],
-    "Carrefour": [
-     2600.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-granix-400-g/p"
-    ]
-   }
-  },
-  {
    "n": "Alfajor triple Terrabusi clásico 70 g.",
    "m": "Terrabusi",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825701/77903792_E01.jpg?v=639086653388170000",
@@ -448,33 +364,56 @@
    }
   },
   {
-   "n": "Agua saborizada limoneto H2OH con gas 2,25 lts",
+   "n": "Agua saborizada de limón H2OH sin gas 500 ml",
    "m": "H2oh!",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308966/7791813423911_E01.jpg?v=638146793786800000",
-   "cadena": "Vea",
-   "precio": 2000.0,
-   "link": "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-2-25lt/p",
-   "referencia": 3900.0,
-   "precio_2da": 2929.0,
-   "baja_pct": 48.7,
-   "brecha_pct": 31.7,
-   "score": 1545,
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817906/7791813402022_E02.jpg?v=639082532740430000",
+   "cadena": "Jumbo",
+   "precio": 900.0,
+   "link": "https://www.jumbo.com.ar/saborizada-h2oh-limon-sin-gas-500cc-2/p",
+   "referencia": 1395.0,
+   "precio_2da": 1599.0,
+   "baja_pct": 35.5,
+   "brecha_pct": 43.7,
+   "score": 1551,
    "pr": {
     "Carrefour": [
-     2929.0,
-     "https://www.carrefour.com.ar/agua-saborizada-limoneto-h2oh-con-gas-225-lts-512165/p"
-    ],
-    "Vea": [
-     2000.0,
-     "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-2-25lt/p"
+     1600.0,
+     "https://www.carrefour.com.ar/agua-saborizada-de-limon-h2oh-sin-gas-500-ml-515222/p"
     ],
     "Jumbo": [
-     4200.0,
-     "https://www.jumbo.com.ar/saborizada-h2oh-limoneto-con-gas-2-25lt/p"
+     900.0,
+     "https://www.jumbo.com.ar/saborizada-h2oh-limon-sin-gas-500cc-2/p"
     ],
     "ChangoMás": [
-     3449.0,
-     "https://www.masonline.com.ar/agua-saborizada-limoneto-h2o-2-25lt-8-2/p"
+     1599.0,
+     "https://www.masonline.com.ar/agua-saborizada-sin-gas-h2oh-sabor-limon-500-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino blanco Chardonnay Benjamín 750 ml",
+   "m": "Benjamín",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822149/7790070760555_02.jpg?v=639083181687870000",
+   "cadena": "Jumbo",
+   "precio": 3525.0,
+   "link": "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p",
+   "referencia": 5287.5,
+   "precio_2da": 6565.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 46.3,
+   "score": 1544,
+   "pr": {
+    "Carrefour": [
+     6565.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-natural-benjamin-750-ml-721783/p"
+    ],
+    "Vea": [
+     6799.0,
+     "https://www.vea.com.ar/vino-benjamin-chardonnay-750cc/p"
+    ],
+    "Jumbo": [
+     3525.0,
+     "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p"
     ]
    }
   },
@@ -506,33 +445,6 @@
    }
   },
   {
-   "n": "Tostadas integral Bauducco 142 g.",
-   "m": "Bauducco",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318486/7891962060460_E02.jpg?v=638180458995130000",
-   "cadena": "Jumbo",
-   "precio": 1375.0,
-   "link": "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p",
-   "referencia": 2750.0,
-   "precio_2da": 1987.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.8,
-   "score": 1541,
-   "pr": {
-    "Carrefour": [
-     1987.5,
-     "https://www.carrefour.com.ar/tostadas-integral-bauducco-142-g/p"
-    ],
-    "Vea": [
-     2650.0,
-     "https://www.vea.com.ar/tostada-bauducco-integral-142gr/p"
-    ],
-    "Jumbo": [
-     1375.0,
-     "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p"
-    ]
-   }
-  },
-  {
    "n": "Tostadas multigrano Bauducco 142 g.",
    "m": "Bauducco",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318485/7891962060477_E02.jpg?v=638180458994700000",
@@ -560,29 +472,29 @@
    }
   },
   {
-   "n": "Almohaditas rellenas Molinos Ala cacao y vainilla 90 g.",
-   "m": "Molinos Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541130/7791120101687_E02.jpg?v=638566616192200000",
+   "n": "Tostadas integral Bauducco 142 g.",
+   "m": "Bauducco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318486/7891962060460_E02.jpg?v=638180458995130000",
    "cadena": "Jumbo",
-   "precio": 1230.0,
-   "link": "https://www.jumbo.com.ar/almohaditas-rellenas-molinos-ala-cacao-y-vainilla-x-90-gr/p",
-   "referencia": 2050.0,
-   "precio_2da": 2000.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1540,
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p",
+   "referencia": 2750.0,
+   "precio_2da": 1987.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.8,
+   "score": 1541,
    "pr": {
     "Carrefour": [
-     2019.0,
-     "https://www.carrefour.com.ar/almohaditas-rellenas-molinos-ala-cacao-y-vainilla-90-g-743945/p"
+     1987.5,
+     "https://www.carrefour.com.ar/tostadas-integral-bauducco-142-g/p"
     ],
     "Vea": [
-     2000.0,
-     "https://www.vea.com.ar/almohaditas-rellenas-molinos-ala-cacao-y-vainilla-x-90-gr/p"
+     2650.0,
+     "https://www.vea.com.ar/tostada-bauducco-integral-142gr/p"
     ],
     "Jumbo": [
-     1230.0,
-     "https://www.jumbo.com.ar/almohaditas-rellenas-molinos-ala-cacao-y-vainilla-x-90-gr/p"
+     1375.0,
+     "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p"
     ]
    }
   },
@@ -614,118 +526,33 @@
    }
   },
   {
-   "n": "Barra de chocolate con maní y arándanos Íntegra 41 grs",
-   "m": "Integra",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/710050/7798343751071_02.jpg?v=638936239109070000",
+   "n": "Cerveza belgian white Blue Moon porrón 355 ml",
+   "m": "Blue Moon",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794092/7793147574024_01.jpg?v=639046449188600000",
    "cadena": "Jumbo",
-   "precio": 1230.0,
-   "link": "https://www.jumbo.com.ar/barra-choco-mani-arandanos-integra-41-gr/p",
-   "referencia": 2050.0,
-   "precio_2da": 2000.0,
+   "precio": 3082.8,
+   "link": "https://www.jumbo.com.ar/cerveza-blue-moon-belgian-white-355cc/p",
+   "referencia": 5138.0,
+   "precio_2da": 4979.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1540,
+   "brecha_pct": 38.1,
+   "score": 1523,
    "pr": {
     "Carrefour": [
-     2000.0,
-     "https://www.carrefour.com.ar/barra-de-chocolate-con-mani-y-arandanos-integra-41-grs-727489/p"
+     4979.0,
+     "https://www.carrefour.com.ar/cerveza-belgian-white-blue-moon-porron-355-ml-758056/p"
     ],
     "Vea": [
-     2000.0,
-     "https://www.vea.com.ar/barra-choco-mani-arandanos-integra-41-gr/p"
+     4982.0,
+     "https://www.vea.com.ar/cerveza-blue-moon-belgian-white-355cc/p"
     ],
     "Jumbo": [
-     1230.0,
-     "https://www.jumbo.com.ar/barra-choco-mani-arandanos-integra-41-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Edulcorante líquido 200 Ml Chuker",
-   "m": "CHUKER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788559/Edulcorante-Chuker-Liquido-X200ml-1-973232.jpg?v=638253993902700000",
-   "cadena": "Jumbo",
-   "precio": 2250.0,
-   "link": "https://www.jumbo.com.ar/edulcorante-liquido-chuker-200-ml-2/p",
-   "referencia": 3750.0,
-   "precio_2da": 3650.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1534,
-   "pr": {
-    "Vea": [
-     3650.0,
-     "https://www.vea.com.ar/edulcorante-liquido-chuker-200-ml-2/p"
-    ],
-    "Jumbo": [
-     2250.0,
-     "https://www.jumbo.com.ar/edulcorante-liquido-chuker-200-ml-2/p"
-    ],
-    "Carrefour": [
-     3650.0,
-     "https://www.carrefour.com.ar/edulcorante-liquido-chuker-sacarina-200-cc-721630/p"
+     3082.8,
+     "https://www.jumbo.com.ar/cerveza-blue-moon-belgian-white-355cc/p"
     ],
     "ChangoMás": [
-     3739.0,
-     "https://www.masonline.com.ar/edulcorante-liquido-chuker-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Protectores diarios Always Xtra diarios respirable 40 uni",
-   "m": "Always",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861502/7500435233033_01.jpg?v=639130647869330000",
-   "cadena": "Jumbo",
-   "precio": 5310.0,
-   "link": "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-40-un-always/p",
-   "referencia": 8850.0,
-   "precio_2da": 8599.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1530,
-   "pr": {
-    "Carrefour": [
-     8599.0,
-     "https://www.carrefour.com.ar/protectores-diarios-always-xtra-diarios-respirable-40-uni-726088/p"
-    ],
-    "Jumbo": [
-     5310.0,
-     "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-40-un-always/p"
-    ],
-    "ChangoMás": [
-     8779.0,
-     "https://www.masonline.com.ar/protectores-diarios-always-respirables-sin-perfume-40un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Avena tradicional Quaker en caja 550 grs",
-   "m": "Quaker",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795276/7792170555543_01.jpg?v=639047707473130000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/avena-tradicional-550-grs-quaker/p",
-   "referencia": 3500.0,
-   "precio_2da": 3400.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1529,
-   "pr": {
-    "Carrefour": [
-     3400.0,
-     "https://www.carrefour.com.ar/avena-tradicional-quaker-en-caja-550-grs-772747/p"
-    ],
-    "Vea": [
-     3400.0,
-     "https://www.vea.com.ar/avena-tradicional-550-grs-quaker/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/avena-tradicional-550-grs-quaker/p"
-    ],
-    "Comodín": [
-     3793.99,
-     "https://www.comodinencasa.com.ar/avena-quaker-tradicional-550-gr/p"
+     5209.0,
+     "https://www.masonline.com.ar/cerveza-rubia-blue-moon-355-ml/p"
     ]
    }
   }
