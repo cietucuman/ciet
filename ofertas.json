@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-21",
- "actualizado": "2026-07-21 15:01",
+ "actualizado": "2026-07-21 18:04",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-07-20",
   "2026-07-21"
  ],
- "total": 42,
+ "total": 46,
  "ofertas": [
   {
    "n": "Cápsulas de café La Virginia equilibrado caja x 10 uni",
@@ -136,6 +136,60 @@
    }
   },
   {
+   "n": "Café Torrado Intenso 100 Grs La Morenita",
+   "m": "LA MORENITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788507/Caf-La-Morenita-Intenso-X100g-1-876093.jpg?v=638253993722230000",
+   "cadena": "Jumbo",
+   "precio": 2975.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-morenita-intenso-x100g/p",
+   "referencia": 5950.0,
+   "precio_2da": 5899.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.6,
+   "score": 2478,
+   "pr": {
+    "Vea": [
+     5899.0,
+     "https://www.vea.com.ar/cafe-la-morenita-intenso-x100g/p"
+    ],
+    "Jumbo": [
+     2975.0,
+     "https://www.jumbo.com.ar/cafe-la-morenita-intenso-x100g/p"
+    ],
+    "Carrefour": [
+     6350.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-morenita-frasco-100-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia suave frasco 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324387/7790150101490_01.jpg?v=638197801215800000",
+   "cadena": "Jumbo",
+   "precio": 4825.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p",
+   "referencia": 9650.0,
+   "precio_2da": 9299.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.1,
+   "score": 2406,
+   "pr": {
+    "Carrefour": [
+     9299.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-frasco-170-g/p"
+    ],
+    "Vea": [
+     9299.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
+    ],
+    "Jumbo": [
+     4825.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
+    ]
+   }
+  },
+  {
    "n": "Café instantáneo La Virginia suave frasco 100 g.",
    "m": "La Virginia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324374/7790150101773_01.jpg?v=638197801170600000",
@@ -194,9 +248,9 @@
    }
   },
   {
-   "n": "Café Cápsulas Colombia 52 Grs x 10 Un compatible con Nespresso La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788509/Cafe-La-Morenita-Capsulas-Colombia-X52g-1-886804.jpg?v=638253993736430000",
+   "n": "Cápsulas de café Morenita Colombia caja x 10 uni",
+   "m": "Morenita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/685573/7790170903692_01.jpg?v=638895634537370000",
    "cadena": "Jumbo",
    "precio": 4550.0,
    "link": "https://www.jumbo.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p",
@@ -206,6 +260,10 @@
    "brecha_pct": 46.5,
    "score": 2323,
    "pr": {
+    "Carrefour": [
+     8499.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-morenita-colombia-caja-x-10-uni-693821/p"
+    ],
     "Vea": [
      9599.0,
      "https://www.vea.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p"
@@ -214,40 +272,9 @@
      4550.0,
      "https://www.jumbo.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p"
     ],
-    "Carrefour": [
-     8499.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-morenita-colombia-caja-x-10-uni-693821/p"
-    ],
     "ChangoMás": [
      10349.0,
      "https://www.masonline.com.ar/cafe-la-morenita-colombia-10-capsulas-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Tostado 125 Grs Super Cabrales",
-   "m": "CABRALES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/773635/Caf-Cabrales-Molido-125g-1-939947.jpg?v=638144805906830000",
-   "cadena": "Jumbo",
-   "precio": 4625.0,
-   "link": "https://www.jumbo.com.ar/cafe-cabrales-molido-125g/p",
-   "referencia": 9250.0,
-   "precio_2da": 8599.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.2,
-   "score": 2311,
-   "pr": {
-    "Vea": [
-     8599.0,
-     "https://www.vea.com.ar/cafe-cabrales-molido-125g/p"
-    ],
-    "Jumbo": [
-     4625.0,
-     "https://www.jumbo.com.ar/cafe-cabrales-molido-125g/p"
-    ],
-    "Carrefour": [
-     8599.0,
-     "https://www.carrefour.com.ar/cafe-cabrales-molido-tostado-super-125-g-706854/p"
     ]
    }
   },
@@ -275,6 +302,37 @@
     "Jumbo": [
      2050.0,
      "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Ice100 grs",
+   "m": "Nescafé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849378/7891000426937_01.jpg?v=639119653562930000",
+   "cadena": "Jumbo",
+   "precio": 5050.0,
+   "link": "https://www.jumbo.com.ar/cafe-iced-x-100-grs-nescafe/p",
+   "referencia": 10100.0,
+   "precio_2da": 9199.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.1,
+   "score": 2255,
+   "pr": {
+    "Carrefour": [
+     9980.0,
+     "https://www.carrefour.com.ar/nescafe-ice-100-grs-765501/p"
+    ],
+    "Vea": [
+     9199.0,
+     "https://www.vea.com.ar/cafe-iced-x-100-grs-nescafe/p"
+    ],
+    "Jumbo": [
+     5050.0,
+     "https://www.jumbo.com.ar/cafe-iced-x-100-grs-nescafe/p"
+    ],
+    "ChangoMás": [
+     10619.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-nescafe-ice-100-g/p"
     ]
    }
   },
@@ -312,7 +370,7 @@
   {
    "n": "Cafe Tostado & Molido Brasil 250g Morenita",
    "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861434/Cafe-Tostado-Molido-Brasil-250g-Morenita-1-1035769.jpg?v=638793024615800000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628766/7790170949027_01.jpg?v=638762040084700000",
    "cadena": "Jumbo",
    "precio": 7675.0,
    "link": "https://www.jumbo.com.ar/cafe-tostado-molido-brasil-250g-morenita/p",
@@ -322,6 +380,10 @@
    "brecha_pct": 43.9,
    "score": 2197,
    "pr": {
+    "Carrefour": [
+     14635.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-morenita-250-grs-758181/p"
+    ],
     "Vea": [
      13690.0,
      "https://www.vea.com.ar/cafe-tostado-molido-brasil-250g-morenita/p"
@@ -333,10 +395,103 @@
     "ChangoMás": [
      15219.0,
      "https://www.masonline.com.ar/cafe-molido-la-morenita-tostado-brasil-250-g/p"
-    ],
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia tostado frasco 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324330/7790150150573_01.jpg?v=638197801007130000",
+   "cadena": "Jumbo",
+   "precio": 4650.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p",
+   "referencia": 9300.0,
+   "precio_2da": 8185.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.2,
+   "score": 2160,
+   "pr": {
     "Carrefour": [
-     15219.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-morenita-brasil-250-grs-760592/p"
+     8299.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-100-g-696402/p"
+    ],
+    "Vea": [
+     8299.0,
+     "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p"
+    ],
+    "Jumbo": [
+     4650.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p"
+    ],
+    "Comodín": [
+     8185.59,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-sgranulado-100gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia suave dp 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324446/7790150101780_01.jpg?v=638197801429670000",
+   "cadena": "Jumbo",
+   "precio": 2900.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p",
+   "referencia": 5800.0,
+   "precio_2da": 5098.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.1,
+   "score": 2156,
+   "pr": {
+    "Carrefour": [
+     5199.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-dp-100-g/p"
+    ],
+    "Vea": [
+     5199.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p"
+    ],
+    "Comodín": [
+     5098.99,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-suave-dp-100gr/p"
+    ],
+    "ChangoMás": [
+     5349.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-suave-la-virginia-pack-ahorro-x-100g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia clásico dp 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324441/7790150100806_01.jpg?v=638197801419030000",
+   "cadena": "Jumbo",
+   "precio": 2900.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p",
+   "referencia": 5800.0,
+   "precio_2da": 5098.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.1,
+   "score": 2156,
+   "pr": {
+    "Carrefour": [
+     5199.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-clasico-dp-100-g/p"
+    ],
+    "Vea": [
+     5199.0,
+     "https://www.vea.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
+    ],
+    "Comodín": [
+     5098.99,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-clasico-dp-100gr/p"
     ]
    }
   },
@@ -426,10 +581,6 @@
     "Jumbo": [
      12450.0,
      "https://www.jumbo.com.ar/cafe-la-virginia-puro-aroma-grano-500g-2/p"
-    ],
-    "ChangoMás": [
-     26299.0,
-     "https://www.masonline.com.ar/cafe-puro-aroma-granos-la-virginia-500-gr-2/p"
     ]
    }
   },
@@ -492,6 +643,37 @@
    }
   },
   {
+   "n": "Café tostado molido La Virginia sutil 250 grs",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651135/7790150037140_01.jpg?v=638816140583300000",
+   "cadena": "Jumbo",
+   "precio": 6850.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p",
+   "referencia": 13700.0,
+   "precio_2da": 11943.39,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.6,
+   "score": 2132,
+   "pr": {
+    "Carrefour": [
+     13249.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-sutil-250-grs-760590/p"
+    ],
+    "Vea": [
+     12390.0,
+     "https://www.vea.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
+    ],
+    "Jumbo": [
+     6850.0,
+     "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
+    ],
+    "Comodín": [
+     11943.39,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-sutil-250gr/p"
+    ]
+   }
+  },
+  {
    "n": "Cappuccino latte La Virginia dp 125 g.",
    "m": "La Virginia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324392/7790150161326_E01.jpg?v=638197801237030000",
@@ -523,9 +705,40 @@
    }
   },
   {
-   "n": "Café Molido Equilibrado 200 Grs Bonafide",
-   "m": "BONAFIDE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/880446/Caf-Tostado-Equilibrado-200-Grs-Bonafide-Caf-Tostado-Equilibrado-Bonafide-200-Gr-1-1045092.jpg?v=638912145852100000",
+   "n": "Café instantáneo suave La Virginia doy pack 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324293/7790150101476_01.jpg?v=638197800882400000",
+   "cadena": "Jumbo",
+   "precio": 4225.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p",
+   "referencia": 8450.0,
+   "precio_2da": 7284.55,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.0,
+   "score": 2100,
+   "pr": {
+    "Carrefour": [
+     7399.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-suave-la-virginia-doy-pack-170-g/p"
+    ],
+    "Vea": [
+     7399.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
+    ],
+    "Jumbo": [
+     4225.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
+    ],
+    "Tuchanguito": [
+     7284.55,
+     "https://www.tuchanguito.com.ar/productos/cafe-la-virginia-suave-doy-pack-170gr/"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido Bonafide Equilibrado 200 grs",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727749/7792360097747_02.jpg?v=638948497308030000",
    "cadena": "Jumbo",
    "precio": 6100.0,
    "link": "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p",
@@ -535,6 +748,10 @@
    "brecha_pct": 42.4,
    "score": 2069,
    "pr": {
+    "Carrefour": [
+     11549.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-equilibrado-200-grs-768211/p"
+    ],
     "Vea": [
      10599.0,
      "https://www.vea.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
@@ -542,10 +759,6 @@
     "Jumbo": [
      6100.0,
      "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
-    ],
-    "Carrefour": [
-     11549.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-equilibrado-200-grs-768211/p"
     ]
    }
   },
@@ -608,9 +821,9 @@
    }
   },
   {
-   "n": "Café Molido Colombia 500 Grs La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/680347/Cafe-Morenita-Molido-Colombia-500g-1-882217.jpg?v=637744887579530000",
+   "n": "Café molido tostado Colombia Morenita 500 grs",
+   "m": "Morenita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324474/7790170949072_01.jpg?v=639135865383630000",
    "cadena": "Jumbo",
    "precio": 13725.0,
    "link": "https://www.jumbo.com.ar/cafe-morenita-molido-colombia-500g-2/p",
@@ -620,6 +833,10 @@
    "brecha_pct": 40.3,
    "score": 2016,
    "pr": {
+    "Carrefour": [
+     22999.0,
+     "https://www.carrefour.com.ar/cafe-molido-tostado-colombia-morenita-500-grs-692784/p"
+    ],
     "Vea": [
      22999.0,
      "https://www.vea.com.ar/cafe-morenita-molido-colombia-500g-2/p"
@@ -627,10 +844,33 @@
     "Jumbo": [
      13725.0,
      "https://www.jumbo.com.ar/cafe-morenita-molido-colombia-500g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Cappuccino con Azúcar 125 Grs La Morenita",
+   "m": "LA MORENITA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/670982/Caf-Cappuccino-Morenita-X125g-1-878786.jpg?v=637698226469800000",
+   "cadena": "Jumbo",
+   "precio": 2425.0,
+   "link": "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p",
+   "referencia": 4850.0,
+   "precio_2da": 4039.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.0,
+   "score": 1998,
+   "pr": {
+    "Jumbo": [
+     2425.0,
+     "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p"
     ],
     "Carrefour": [
-     22999.0,
-     "https://www.carrefour.com.ar/cafe-molido-tostado-colombia-morenita-500-grs-692784/p"
+     4039.0,
+     "https://www.carrefour.com.ar/cappuccino-instantaneo-morenita-doypack-125-g-690048/p"
+    ],
+    "Comodín": [
+     4239.09,
+     "https://www.comodinencasa.com.ar/cappuccino-la-morenita-inst-dp-125gr/p"
     ]
    }
   },
@@ -689,6 +929,10 @@
     "Comodín": [
      13459.29,
      "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-s-granulado-170gr/p"
+    ],
+    "ChangoMás": [
+     14119.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-la-virginia-seleccion-tostado-170g-2/p"
     ]
    }
   },
@@ -716,68 +960,6 @@
     "ChangoMás": [
      21559.0,
      "https://www.masonline.com.ar/cafe-instantaneo-nescafe-gold-95-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Torrado con Azúcar 500 Grs La Planta de Café",
-   "m": "LA PLANTA DE CAFÉ",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/773628/Caf-La-Planta-De-Caf-Molido-500-Gr-1-3378.jpg?v=638144805884970000",
-   "cadena": "Jumbo",
-   "precio": 7550.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p",
-   "referencia": 15100.0,
-   "precio_2da": 12090.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.6,
-   "score": 1878,
-   "pr": {
-    "Vea": [
-     12090.0,
-     "https://www.vea.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p"
-    ],
-    "Jumbo": [
-     7550.0,
-     "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p"
-    ],
-    "Comodín": [
-     13425.39,
-     "https://www.comodinencasa.com.ar/cafe-cabrales-torrado-80-aniversar-520gr/p"
-    ],
-    "ChangoMás": [
-     15129.0,
-     "https://www.masonline.com.ar/cafe-molido-la-planta-de-cafe-torrado-500-gr-2/p"
-    ],
-    "Carrefour": [
-     12259.0,
-     "https://www.carrefour.com.ar/cafe-torrado-molido-la-planta-de-cafe-cabrales-500-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Torrado Tostado con Azúcar 100 Grs x 20 Un La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/683167/Caf-Morenita-Intenso-Saquito-X110g-1-877748.jpg?v=637768318018700000",
-   "cadena": "Jumbo",
-   "precio": 2950.0,
-   "link": "https://www.jumbo.com.ar/cafe-intenso-saquito-morenita-110-gr/p",
-   "referencia": 5900.0,
-   "precio_2da": 4599.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1793,
-   "pr": {
-    "Vea": [
-     4599.0,
-     "https://www.vea.com.ar/cafe-intenso-saquito-morenita-110-gr/p"
-    ],
-    "Jumbo": [
-     2950.0,
-     "https://www.jumbo.com.ar/cafe-intenso-saquito-morenita-110-gr/p"
-    ],
-    "ChangoMás": [
-     5979.0,
-     "https://www.masonline.com.ar/cafe-la-morenita-en-saquitos-intenso-20saq-2/p"
     ]
    }
   },
@@ -918,75 +1100,13 @@
      11825.0,
      "https://www.jumbo.com.ar/cafe-tostado-y-molido-intenso-gold-250-grs-nescafe/p"
     ],
-    "Carrefour": [
-     18499.0,
-     "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-intenso-250-grs-717828/p"
-    ],
     "ChangoMás": [
      22139.0,
      "https://www.masonline.com.ar/cafe-nescafe-gold-tostado-y-molido-intenso-250gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Cappuccino con Azúcar 125 Grs La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/670982/Caf-Cappuccino-Morenita-X125g-1-878786.jpg?v=637698226469800000",
-   "cadena": "Jumbo",
-   "precio": 2425.0,
-   "link": "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p",
-   "referencia": 4850.0,
-   "precio_2da": 3599.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.6,
-   "score": 1631,
-   "pr": {
-    "Vea": [
-     3599.0,
-     "https://www.vea.com.ar/cafe-cappuccino-morenita-x125g/p"
-    ],
-    "Jumbo": [
-     2425.0,
-     "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p"
     ],
     "Carrefour": [
-     4039.0,
-     "https://www.carrefour.com.ar/cappuccino-instantaneo-morenita-doypack-125-g-690048/p"
-    ],
-    "Comodín": [
-     4239.09,
-     "https://www.comodinencasa.com.ar/cappuccino-la-morenita-inst-dp-125gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Suave y Espumoso Más Aroma 50 Grs Arlistan",
-   "m": "ARLISTAN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853959/Caf-Suave-Mas-Aroma-Arlistan-50-Gr-1-999538.jpg?v=638733300062170000",
-   "cadena": "Jumbo",
-   "precio": 2025.0,
-   "link": "https://www.jumbo.com.ar/cafe-suave-mas-aroma-arlistan-50-gr/p",
-   "referencia": 4050.0,
-   "precio_2da": 2990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.3,
-   "score": 1614,
-   "pr": {
-    "Vea": [
-     2990.0,
-     "https://www.vea.com.ar/cafe-suave-mas-aroma-arlistan-50-gr/p"
-    ],
-    "Jumbo": [
-     2025.0,
-     "https://www.jumbo.com.ar/cafe-suave-mas-aroma-arlistan-50-gr/p"
-    ],
-    "ChangoMás": [
-     3889.0,
-     "https://www.masonline.com.ar/infusion-a-base-de-cafe-arlistan-50-g-2/p"
-    ],
-    "Carrefour": [
-     3099.0,
-     "https://www.carrefour.com.ar/infusion-a-base-de-cafe-arlistan-en-frasco-50-g-727997/p"
+     18499.0,
+     "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-intenso-250-grs-717828/p"
     ]
    }
   },
@@ -1104,13 +1224,13 @@
      11599.19,
      "https://www.comodinencasa.com.ar/cafe-super-cabrales-tostados-250gr/p"
     ],
-    "ChangoMás": [
-     15429.0,
-     "https://www.masonline.com.ar/cafe-molido-cabrales-tostado-super-250g-2/p"
-    ],
     "Carrefour": [
      12599.0,
      "https://www.carrefour.com.ar/cafe-molido-tostado-super-cabrales-250-grs-706853/p"
+    ],
+    "ChangoMás": [
+     15429.0,
+     "https://www.masonline.com.ar/cafe-molido-cabrales-tostado-super-250g-2/p"
     ]
    }
   },
