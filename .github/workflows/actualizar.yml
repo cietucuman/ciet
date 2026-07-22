@@ -90,6 +90,29 @@ jobs:
         continue-on-error: true
         run: python3 scripts/verificar_buscador.py --n 25 --buscador /tmp/datos/buscador.json
 
+      # --- Canasta básica alimentaria -> rama canasta-datos (1×/día) ---
+      # Valoriza la CBA del NOA (INDEC) con el buscador recién scrapeado y suma el
+      # punto del día a la serie. Corre en la primera corrida del día que no
+      # encuentre el punto de hoy. OJO: este paso vive acá desde el 18/7; si se
+      # reescribe el workflow, hay que conservarlo (el 20-21/7 se perdió por eso).
+      - name: Valorizar canasta básica (1×/día)
+        if: always() && steps.gate.outputs.run == 'true'
+        run: |
+          set -e
+          HOY=$(date +%F)
+          git fetch origin canasta-datos
+          git worktree add -B canasta-datos /tmp/canasta origin/canasta-datos
+          if python3 -c "import json,sys; d=json.load(open('/tmp/canasta/serie.json')); sys.exit(0 if any(x['fecha']=='$HOY' for x in d['puntos']) else 1)"; then
+            echo "la canasta de hoy ($HOY) ya está, no hago nada"
+            exit 0
+          fi
+          python3 scripts/build_canasta.py --buscador /tmp/buscador.json -o /tmp/canasta
+          cd /tmp/canasta
+          git add -A
+          git commit -m "Canasta: $HOY"
+          git push origin canasta-datos
+          echo "canasta publicada ($HOY)"
+
       # --- Índice de yerba -> rama yerba-datos (1×/día) ---
       - name: Capturar yerba (1×/día)
         if: always() && steps.gate.outputs.run == 'true'
