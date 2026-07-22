@@ -23,8 +23,10 @@ METODOLOGÍA (espejo de la del INDEC hasta donde los datos lo permiten)
   · Familia tipo = hogar de 4 (varón de 35, mujer de 31, niña de 8 y niño de 6)
     = 1,00 + 0,77 + 0,68 + 0,64 = 3,09 adultos equivalentes (tabla oficial).
   · Outliers: dentro de cada rubro se descartan artículos cuyo $/kg queda a más
-    de 2,5× (o menos de 1/2,5×) de la MEDIANA del rubro: casi siempre es un error
-    de lectura de gramaje o un producto que no corresponde a la especificación.
+    de 2,5× (o menos de 1/2,5×) del precio del rubro en la CORRIDA ANTERIOR
+    (ancla histórica; el primer día, la mediana del día). La mediana sola falla
+    cuando los artículos mal colados son mayoría (papa, 22/7/2026); el precio de
+    ayer no. Un salto de ±50% contra el ancla deja AVISO en el log.
   · Si una cadena no tiene artículos de un rubro, su total se completa con el
     promedio de las demás cadenas (se informa cuántos rubros se imputaron).
 
@@ -216,7 +218,7 @@ RUBROS = [
     dict(id="papa", nombre="Papa", grupo="Frutas y verduras", g=6870, unidad="kg",
          espec="Papa fresca (blanca, negra), por kilo o bolsa. Se excluyen fritas, congeladas, puré instantáneo y snacks.",
          inc=r"\bpapas?\b",
-         exc=r"frita|pure|ñoqui|noqui|congelad|baston|chips|snack|semilla|pay|croqueta|rustica|españa|sabor|mc ?cain|noisette|golazo|air fryer|caritas|smile|rejilla|fargo|pancho|batata"),
+         exc=r"frita|pure|ñoqui|noqui|congelad|baston|chips|snack|semilla|pay|croqueta|rustica|espanol|sabor|mc ?cain|noisette|golazo|air fryer|caritas|smile|rejilla|fargo|pancho|batata|fecula|ondeada|acanalada|crinkle|pehuamar|lays|krachitos|kesitas|tubo"),
     dict(id="acelga", nombre="Acelga", grupo="Frutas y verduras", g=360, unidad="kg",
          espec="Acelga lavada o congelada en bolsa (el atado fresco casi no se vende online).",
          inc=r"acelga",
@@ -379,8 +381,10 @@ def es_multipack(nombre):
 # ---------------------------------------------------------------------------
 # Motor
 # ---------------------------------------------------------------------------
-def articulos_del_rubro(rubro, productos):
-    """[(nombre, marca, cadena, precio, $/g, url)] que cumplen la especificación."""
+def articulos_del_rubro(rubro, productos, ancla=None):
+    """[(nombre, marca, cadena, precio, $/g, url)] que cumplen la especificación.
+    `ancla`: $/g del rubro en la corrida anterior; si existe, el filtro de
+    outliers se centra ahí en vez de en la mediana del día (más robusto)."""
     inc = re.compile(rubro["inc"])
     patron_exc = rubro.get("exc", "")
     if rubro["grupo"] in ("Frutas y verduras", "Carnes") and not rubro.get("sin_exc_global"):
@@ -410,23 +414,28 @@ def articulos_del_rubro(rubro, productos):
             if precio and precio > 0:
                 out.append(dict(n=nombre, m=p.get("m", ""), cad=cad,
                                 precio=precio, por_g=precio / g, url=url))
-    # filtro de outliers contra la mediana del rubro (todas las cadenas juntas)
-    if len(out) >= 3:
-        med = statistics.median(a["por_g"] for a in out)
+    # filtro de outliers: centrado en el precio del rubro de la corrida anterior
+    # (ancla histórica) o, si no hay, en la mediana del día (todas las cadenas).
+    centro = ancla
+    if centro is None and len(out) >= 3:
+        centro = statistics.median(a["por_g"] for a in out)
+    if centro is not None:
         out = [a for a in out
-               if med / OUTLIER_FACTOR <= a["por_g"] <= med * OUTLIER_FACTOR]
+               if centro / OUTLIER_FACTOR <= a["por_g"] <= centro * OUTLIER_FACTOR]
     return out
 
 
-def valorizar(productos, cadenas):
-    """Valoriza la canasta completa. Devuelve el dict listo para publicar."""
+def valorizar(productos, cadenas, anclas=None):
+    """Valoriza la canasta completa. Devuelve el dict listo para publicar.
+    `anclas`: {id_rubro: $/g de la corrida anterior} para el filtro de outliers."""
+    anclas = anclas or {}
     items = []
     por_cadena_tot = {c: 0.0 for c in cadenas}
     por_cadena_imputados = {c: 0 for c in cadenas}
     sin_datos = []
 
     for r in RUBROS:
-        arts = articulos_del_rubro(r, productos)
+        arts = articulos_del_rubro(r, productos, anclas.get(r["id"]))
         por_cad = {}
         for c in cadenas:
             de_c = [a["por_g"] for a in arts if a["cad"] == c]
@@ -457,6 +466,12 @@ def valorizar(productos, cadenas):
                           costo=round(costo, 2),
                           n_articulos=len(arts),
                           por_cadena=por_cad))
+
+        if r["id"] in anclas and anclas[r["id"]]:
+            ratio = precio_g / anclas[r["id"]]
+            if ratio > 1.5 or ratio < 1 / 1.5:
+                print(f"  AVISO {r['id']}: precio salta {ratio:.2f}x vs corrida anterior "
+                      f"(${anclas[r['id']]*1000:,.0f} -> ${precio_g*1000:,.0f} /kg)", file=sys.stderr)
 
         for c in cadenas:
             if c in por_cad:
@@ -527,7 +542,19 @@ def main():
         audit(productos, cadenas, None if args.audit == "__all__" else args.audit)
         return
 
-    res = valorizar(productos, cadenas)
+    anclas = {}
+    prev_p = Path(args.out) / "canasta.json"
+    if prev_p.exists():
+        try:
+            prev = json.loads(prev_p.read_text())
+            anclas = {i["id"]: i["precio_kg"] / 1000
+                      for i in prev.get("items", []) if i.get("precio_kg")}
+            print(f"[ancla] {len(anclas)} rubros anclados a la corrida anterior "
+                  f"({prev.get('fecha')})", file=sys.stderr)
+        except Exception:
+            pass
+
+    res = valorizar(productos, cadenas, anclas)
     res["fecha"] = fecha
     res["actualizado"] = d.get("actualizado", fecha)
     res["cadenas"] = cadenas
