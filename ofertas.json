@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-21",
- "actualizado": "2026-07-21 18:04",
+ "fecha": "2026-07-22",
+ "actualizado": "2026-07-22 13:38",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-11",
   "2026-07-12",
   "2026-07-13",
   "2026-07-14",
@@ -19,1094 +18,334 @@
   "2026-07-18",
   "2026-07-19",
   "2026-07-20",
-  "2026-07-21"
+  "2026-07-21",
+  "2026-07-22"
  ],
- "total": 46,
+ "total": 18,
  "ofertas": [
   {
-   "n": "Cápsulas de café La Virginia equilibrado caja x 10 uni",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/685569/7790150080825_01.jpg?v=638895633200130000",
-   "cadena": "Jumbo",
-   "precio": 4200.0,
-   "link": "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p",
-   "referencia": 8400.0,
-   "precio_2da": 9469.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.6,
-   "score": 2782,
+   "n": "Jugo en Polvo Clight Naranja Durazno 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812045/7622201702717_E01.jpg?v=639082499464530000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-y-durazno-7-5g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 564.0,
+   "baja_pct": 48.4,
+   "brecha_pct": 47.0,
+   "score": 2272,
    "pr": {
     "Carrefour": [
-     9469.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-equilibrado-caja-x-10-uni-693818/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p"
     ],
     "Vea": [
-     9599.0,
-     "https://www.vea.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
     ],
     "Jumbo": [
-     4200.0,
-     "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cápsulas extra intenso La Virginia 10 uni",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/545864/7790150080900_01.jpg?v=638582148806400000",
-   "cadena": "Jumbo",
-   "precio": 4200.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-extra-intenso-x-10-capsulas-la-virginia/p",
-   "referencia": 8400.0,
-   "precio_2da": 9255.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 54.6,
-   "score": 2731,
-   "pr": {
-    "Carrefour": [
-     9469.0,
-     "https://www.carrefour.com.ar/capsulas-extra-intenso-la-virginia-10-uni-744860/p"
-    ],
-    "Vea": [
-     9599.0,
-     "https://www.vea.com.ar/cafe-tostado-extra-intenso-x-10-capsulas-la-virginia/p"
-    ],
-    "Jumbo": [
-     4200.0,
-     "https://www.jumbo.com.ar/cafe-tostado-extra-intenso-x-10-capsulas-la-virginia/p"
-    ],
-    "Comodín": [
-     9255.99,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-capsula-ext-int-10x5-2g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café molido torrado La Virginia 125 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324286/7790150006306_01.jpg?v=638197800857370000",
-   "cadena": "Jumbo",
-   "precio": 1950.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-molido-125gr/p",
-   "referencia": 3900.0,
-   "precio_2da": 3909.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.1,
-   "score": 2506,
-   "pr": {
-    "Carrefour": [
-     3909.0,
-     "https://www.carrefour.com.ar/cafe-molido-torrado-la-virginia-125-g-56497/p"
-    ],
-    "Vea": [
-     3999.0,
-     "https://www.vea.com.ar/cafe-la-virginia-molido-125gr/p"
-    ],
-    "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-molido-125gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cappuccino La Virginia instantáneo dp 125 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324294/7790150160725_E01.jpg?v=638197800882870000",
-   "cadena": "Jumbo",
-   "precio": 1950.0,
-   "link": "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p",
-   "referencia": 3900.0,
-   "precio_2da": 3899.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2499,
-   "pr": {
-    "Carrefour": [
-     3899.0,
-     "https://www.carrefour.com.ar/cappuccino-la-virginia-instantaneo-dp-125-g-692791/p"
-    ],
-    "Vea": [
-     3899.0,
-     "https://www.vea.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
-    ],
-    "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Torrado Intenso 100 Grs La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788507/Caf-La-Morenita-Intenso-X100g-1-876093.jpg?v=638253993722230000",
-   "cadena": "Jumbo",
-   "precio": 2975.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-morenita-intenso-x100g/p",
-   "referencia": 5950.0,
-   "precio_2da": 5899.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.6,
-   "score": 2478,
-   "pr": {
-    "Vea": [
-     5899.0,
-     "https://www.vea.com.ar/cafe-la-morenita-intenso-x100g/p"
-    ],
-    "Jumbo": [
-     2975.0,
-     "https://www.jumbo.com.ar/cafe-la-morenita-intenso-x100g/p"
-    ],
-    "Carrefour": [
-     6350.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-morenita-frasco-100-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia suave frasco 170 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324387/7790150101490_01.jpg?v=638197801215800000",
-   "cadena": "Jumbo",
-   "precio": 4825.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p",
-   "referencia": 9650.0,
-   "precio_2da": 9299.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2406,
-   "pr": {
-    "Carrefour": [
-     9299.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-frasco-170-g/p"
-    ],
-    "Vea": [
-     9299.0,
-     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
-    ],
-    "Jumbo": [
-     4825.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia suave frasco 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324374/7790150101773_01.jpg?v=638197801170600000",
-   "cadena": "Jumbo",
-   "precio": 3075.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x100g/p",
-   "referencia": 6150.0,
-   "precio_2da": 5899.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2394,
-   "pr": {
-    "Carrefour": [
-     5899.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-frasco-100-g/p"
-    ],
-    "Vea": [
-     5899.0,
-     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-x100g/p"
-    ],
-    "Jumbo": [
-     3075.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x100g/p"
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
     ],
     "ChangoMás": [
-     6089.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-suave-la-virginia-100-gr-2/p"
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-y-durazno-7-5g-2/p"
     ]
    }
   },
   {
-   "n": "Café instantáneo La Virginia descafeinado kalma 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324297/7790150110188_01.jpg?v=638197800892270000",
-   "cadena": "Jumbo",
-   "precio": 4250.0,
-   "link": "https://www.jumbo.com.ar/cafe-descafeinado-kalma-100-gr/p",
-   "referencia": 8500.0,
-   "precio_2da": 7999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.9,
-   "score": 2343,
+   "n": "Jugo en Polvo Clight Pera 7grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814699/7622201703202_E01.jpg?v=639082501012000000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 564.0,
+   "baja_pct": 48.4,
+   "brecha_pct": 47.0,
+   "score": 2272,
    "pr": {
     "Carrefour": [
-     7999.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-descafeinado-kalma-100-g-696399/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p"
     ],
     "Vea": [
-     7999.0,
-     "https://www.vea.com.ar/cafe-descafeinado-kalma-100-gr/p"
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
     ],
     "Jumbo": [
-     4250.0,
-     "https://www.jumbo.com.ar/cafe-descafeinado-kalma-100-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cápsulas de café Morenita Colombia caja x 10 uni",
-   "m": "Morenita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/685573/7790170903692_01.jpg?v=638895634537370000",
-   "cadena": "Jumbo",
-   "precio": 4550.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p",
-   "referencia": 9100.0,
-   "precio_2da": 8499.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2323,
-   "pr": {
-    "Carrefour": [
-     8499.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-morenita-colombia-caja-x-10-uni-693821/p"
-    ],
-    "Vea": [
-     9599.0,
-     "https://www.vea.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p"
-    ],
-    "Jumbo": [
-     4550.0,
-     "https://www.jumbo.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p"
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
     ],
     "ChangoMás": [
-     10349.0,
-     "https://www.masonline.com.ar/cafe-la-morenita-colombia-10-capsulas-2/p"
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p"
     ]
    }
   },
   {
-   "n": "Cappuccino La Virginia cortado dp 125 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324315/7790150161371_E01.jpg?v=638197800957070000",
-   "cadena": "Jumbo",
-   "precio": 2050.0,
-   "link": "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p",
-   "referencia": 4100.0,
-   "precio_2da": 3799.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.0,
-   "score": 2302,
+   "n": "Jugo en Polvo Clight Mandarina 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814705/7622201704148_E01.jpg?v=639082501387200000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/clight-jugo-en-polvo-mandarina-8g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 564.0,
+   "baja_pct": 48.4,
+   "brecha_pct": 47.0,
+   "score": 2272,
    "pr": {
     "Carrefour": [
-     3799.0,
-     "https://www.carrefour.com.ar/cappuccino-la-virginia-cortado-dp-125-g-692801/p"
-    ],
-    "Vea": [
-     3799.0,
-     "https://www.vea.com.ar/mix-cortado-la-virginia-125gr-2/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-mandarina-8-grs-711443/p"
     ],
     "Jumbo": [
-     2050.0,
-     "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Nescafé Ice100 grs",
-   "m": "Nescafé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849378/7891000426937_01.jpg?v=639119653562930000",
-   "cadena": "Jumbo",
-   "precio": 5050.0,
-   "link": "https://www.jumbo.com.ar/cafe-iced-x-100-grs-nescafe/p",
-   "referencia": 10100.0,
-   "precio_2da": 9199.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.1,
-   "score": 2255,
-   "pr": {
-    "Carrefour": [
-     9980.0,
-     "https://www.carrefour.com.ar/nescafe-ice-100-grs-765501/p"
-    ],
-    "Vea": [
-     9199.0,
-     "https://www.vea.com.ar/cafe-iced-x-100-grs-nescafe/p"
-    ],
-    "Jumbo": [
-     5050.0,
-     "https://www.jumbo.com.ar/cafe-iced-x-100-grs-nescafe/p"
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-mandarina-8-grs-clight/p"
     ],
     "ChangoMás": [
-     10619.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-nescafe-ice-100-g/p"
+     299.0,
+     "https://www.masonline.com.ar/clight-jugo-en-polvo-mandarina-8g-2/p"
     ]
    }
   },
   {
-   "n": "Café descafeinado instantáneo La Virginia kalma 170 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324292/7790150110386_01.jpg?v=638197800882230000",
-   "cadena": "Jumbo",
-   "precio": 7425.0,
-   "link": "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p",
-   "referencia": 14850.0,
-   "precio_2da": 13299.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.2,
-   "score": 2208,
+   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 564.0,
+   "baja_pct": 48.4,
+   "brecha_pct": 47.0,
+   "score": 2272,
    "pr": {
     "Carrefour": [
-     13399.0,
-     "https://www.carrefour.com.ar/cafe-descafeinado-instantaneo-la-virginia-kalma-170-g-696400-696400/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
     ],
     "Vea": [
-     13299.0,
-     "https://www.vea.com.ar/cafe-kalma-descafeinado-x170g-2/p"
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
     ],
     "Jumbo": [
-     7425.0,
-     "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p"
-    ],
-    "Comodín": [
-     14563.19,
-     "https://www.comodinencasa.com.ar/cafe-kalma-equilibrado-170gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cafe Tostado & Molido Brasil 250g Morenita",
-   "m": "LA MORENITA",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628766/7790170949027_01.jpg?v=638762040084700000",
-   "cadena": "Jumbo",
-   "precio": 7675.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-brasil-250g-morenita/p",
-   "referencia": 15350.0,
-   "precio_2da": 13690.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.9,
-   "score": 2197,
-   "pr": {
-    "Carrefour": [
-     14635.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-morenita-250-grs-758181/p"
-    ],
-    "Vea": [
-     13690.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-brasil-250g-morenita/p"
-    ],
-    "Jumbo": [
-     7675.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-brasil-250g-morenita/p"
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
     ],
     "ChangoMás": [
-     15219.0,
-     "https://www.masonline.com.ar/cafe-molido-la-morenita-tostado-brasil-250-g/p"
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
     ]
    }
   },
   {
-   "n": "Café instantáneo La Virginia tostado frasco 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324330/7790150150573_01.jpg?v=638197801007130000",
-   "cadena": "Jumbo",
-   "precio": 4650.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p",
-   "referencia": 9300.0,
-   "precio_2da": 8185.59,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.2,
-   "score": 2160,
+   "n": "Jugo Clight Pomelada Hibiscus 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814894/7622202359934_E01.jpg?v=639082506742500000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-pomelada-hibiscus-8-g/p",
+   "referencia": 579.0,
+   "precio_2da": 564.0,
+   "baja_pct": 48.4,
+   "brecha_pct": 47.0,
+   "score": 2272,
    "pr": {
     "Carrefour": [
-     8299.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-100-g-696402/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-clight-pomelada-hibiscus-8-grs-767578/p"
     ],
     "Vea": [
-     8299.0,
-     "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p"
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
     ],
     "Jumbo": [
-     4650.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p"
-    ],
-    "Comodín": [
-     8185.59,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-sgranulado-100gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia suave dp 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324446/7790150101780_01.jpg?v=638197801429670000",
-   "cadena": "Jumbo",
-   "precio": 2900.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p",
-   "referencia": 5800.0,
-   "precio_2da": 5098.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.1,
-   "score": 2156,
-   "pr": {
-    "Carrefour": [
-     5199.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-dp-100-g/p"
-    ],
-    "Vea": [
-     5199.0,
-     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p"
-    ],
-    "Jumbo": [
-     2900.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p"
-    ],
-    "Comodín": [
-     5098.99,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-suave-dp-100gr/p"
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
     ],
     "ChangoMás": [
-     5349.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-suave-la-virginia-pack-ahorro-x-100g-2/p"
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-pomelada-hibiscus-8-g/p"
     ]
    }
   },
   {
-   "n": "Café instantáneo La Virginia clásico dp 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324441/7790150100806_01.jpg?v=638197801419030000",
-   "cadena": "Jumbo",
-   "precio": 2900.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p",
-   "referencia": 5800.0,
-   "precio_2da": 5098.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.1,
-   "score": 2156,
-   "pr": {
-    "Carrefour": [
-     5199.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-clasico-dp-100-g/p"
-    ],
-    "Vea": [
-     5199.0,
-     "https://www.vea.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
-    ],
-    "Jumbo": [
-     2900.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
-    ],
-    "Comodín": [
-     5098.99,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-clasico-dp-100gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia especial clásico 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324402/7790150100783_01.jpg?v=638197801281470000",
-   "cadena": "Jumbo",
-   "precio": 3075.0,
-   "link": "https://www.jumbo.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p",
-   "referencia": 6150.0,
-   "precio_2da": 5399.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.0,
-   "score": 2152,
-   "pr": {
-    "Carrefour": [
-     5399.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-especial-clasico-100-g/p"
-    ],
-    "Vea": [
-     5399.0,
-     "https://www.vea.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p"
-    ],
-    "Jumbo": [
-     3075.0,
-     "https://www.jumbo.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p"
-    ],
-    "ChangoMás": [
-     6089.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-clasico-la-virginia-100-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia clásico especial dp 170 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324417/7790150100462_01.jpg?v=638197801329770000",
-   "cadena": "Jumbo",
-   "precio": 4225.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx170g/p",
-   "referencia": 8450.0,
-   "precio_2da": 7399.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.9,
-   "score": 2145,
-   "pr": {
-    "Carrefour": [
-     7399.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-clasico-especial-dp-170-g/p"
-    ],
-    "Vea": [
-     7399.0,
-     "https://www.vea.com.ar/cafe-la-virginia-clasico-espuma-dpx170g/p"
-    ],
-    "Jumbo": [
-     4225.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx170g/p"
-    ],
-    "ChangoMás": [
-     8359.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-clasico-doy-pack-la-virginia-170-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café en grano La Virginia puro aroma 500 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324290/7790150006429_01.jpg?v=638197800868630000",
-   "cadena": "Jumbo",
-   "precio": 12450.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-puro-aroma-grano-500g-2/p",
-   "referencia": 24900.0,
-   "precio_2da": 21799.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.9,
-   "score": 2144,
-   "pr": {
-    "Carrefour": [
-     21799.0,
-     "https://www.carrefour.com.ar/cafe-en-grano-la-virginia-puro-aroma-500-g-692782/p"
-    ],
-    "Vea": [
-     21799.0,
-     "https://www.vea.com.ar/cafe-la-virginia-puro-aroma-grano-500g-2/p"
-    ],
-    "Jumbo": [
-     12450.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-puro-aroma-grano-500g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Sensaciones Intenso 200 Grs Bonafide",
-   "m": "BONAFIDE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865773/Cafe-Bonafide-Sensaciones-Intenso-200g-1-1036975.jpg?v=638815593889870000",
-   "cadena": "Jumbo",
-   "precio": 3425.0,
-   "link": "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p",
-   "referencia": 6700.0,
-   "precio_2da": 6099.0,
-   "baja_pct": 48.9,
-   "brecha_pct": 43.8,
-   "score": 2143,
-   "pr": {
-    "Vea": [
-     6099.0,
-     "https://www.vea.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
-    ],
-    "Jumbo": [
-     3425.0,
-     "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
-    ],
-    "ChangoMás": [
-     6489.0,
-     "https://www.masonline.com.ar/cafe-torrado-bonafide-suave-200-g/p"
-    ],
-    "Carrefour": [
-     6099.0,
-     "https://www.carrefour.com.ar/cafe-molido-torrado-bonafide-sensaciones-intenso-200-grs-755999/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Premium Sabor Caramel 51 Grs x 10 Un Starbucks",
-   "m": "STARBUCKS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906169/C-psulas-Caramel-51-Grs-Starbucks-1-1039057.jpg?v=639123178617000000",
-   "cadena": "Jumbo",
-   "precio": 8975.0,
-   "link": "https://www.jumbo.com.ar/capsulas-caramel-51-grs-starbucks/p",
-   "referencia": 17950.0,
-   "precio_2da": 15699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.8,
-   "score": 2142,
-   "pr": {
-    "Vea": [
-     15699.0,
-     "https://www.vea.com.ar/capsulas-caramel-51-grs-starbucks/p"
-    ],
-    "Jumbo": [
-     8975.0,
-     "https://www.jumbo.com.ar/capsulas-caramel-51-grs-starbucks/p"
-    ],
-    "Carrefour": [
-     15699.0,
-     "https://www.carrefour.com.ar/starbucks-nespresso-caramel-10-uni-762252/p"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido La Virginia sutil 250 grs",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651135/7790150037140_01.jpg?v=638816140583300000",
-   "cadena": "Jumbo",
-   "precio": 6850.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p",
-   "referencia": 13700.0,
-   "precio_2da": 11943.39,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.6,
-   "score": 2132,
-   "pr": {
-    "Carrefour": [
-     13249.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-sutil-250-grs-760590/p"
-    ],
-    "Vea": [
-     12390.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
-    ],
-    "Jumbo": [
-     6850.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
-    ],
-    "Comodín": [
-     11943.39,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-sutil-250gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cappuccino latte La Virginia dp 125 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324392/7790150161326_E01.jpg?v=638197801237030000",
-   "cadena": "Jumbo",
-   "precio": 2200.0,
-   "link": "https://www.jumbo.com.ar/cafe-mix-latte-la-virginia-125-gr/p",
-   "referencia": 4400.0,
-   "precio_2da": 3799.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.1,
-   "score": 2105,
-   "pr": {
-    "Carrefour": [
-     3799.0,
-     "https://www.carrefour.com.ar/cappuccino-latte-la-virginia-dp-125-g-692800/p"
-    ],
-    "Vea": [
-     3799.0,
-     "https://www.vea.com.ar/cafe-mix-latte-la-virginia-125-gr/p"
-    ],
-    "Jumbo": [
-     2200.0,
-     "https://www.jumbo.com.ar/cafe-mix-latte-la-virginia-125-gr/p"
-    ],
-    "Comodín": [
-     4440.79,
-     "https://www.comodinencasa.com.ar/cappuccino-la-virginia-latte-dp-125gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo suave La Virginia doy pack 170 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324293/7790150101476_01.jpg?v=638197800882400000",
-   "cadena": "Jumbo",
-   "precio": 4225.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p",
-   "referencia": 8450.0,
-   "precio_2da": 7284.55,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.0,
-   "score": 2100,
-   "pr": {
-    "Carrefour": [
-     7399.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-suave-la-virginia-doy-pack-170-g/p"
-    ],
-    "Vea": [
-     7399.0,
-     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
-    ],
-    "Jumbo": [
-     4225.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
-    ],
-    "Tuchanguito": [
-     7284.55,
-     "https://www.tuchanguito.com.ar/productos/cafe-la-virginia-suave-doy-pack-170gr/"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido Bonafide Equilibrado 200 grs",
-   "m": "Bonafide",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727749/7792360097747_02.jpg?v=638948497308030000",
-   "cadena": "Jumbo",
-   "precio": 6100.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p",
-   "referencia": 11900.0,
-   "precio_2da": 10599.0,
-   "baja_pct": 48.7,
-   "brecha_pct": 42.4,
-   "score": 2069,
-   "pr": {
-    "Carrefour": [
-     11549.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-equilibrado-200-grs-768211/p"
-    ],
-    "Vea": [
-     10599.0,
-     "https://www.vea.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
-    ],
-    "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Intenso 200 Grs Bonafide",
-   "m": "BONAFIDE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/880445/Caf-Tostado-Intenso-200-Grs-Bonafide-Caf-Tostado-Intenso-Bonafide-200-Gr-1-1045089.jpg?v=638912145848230000",
-   "cadena": "Jumbo",
-   "precio": 6100.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p",
-   "referencia": 11900.0,
-   "precio_2da": 10599.0,
-   "baja_pct": 48.7,
-   "brecha_pct": 42.4,
-   "score": 2069,
-   "pr": {
-    "Vea": [
-     10599.0,
-     "https://www.vea.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
-    ],
-    "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
-    ],
-    "Carrefour": [
-     11549.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-intenso-200-grs-768212/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Intenso 250 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861435/Cafe-Tostado-Molido-Intenso-250g-La-Virginia-1-1035770.jpg?v=638793024618600000",
-   "cadena": "Jumbo",
-   "precio": 6850.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p",
-   "referencia": 13700.0,
-   "precio_2da": 11499.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.4,
-   "score": 2021,
-   "pr": {
-    "Vea": [
-     11499.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
-    ],
-    "Jumbo": [
-     6850.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
-    ],
-    "Comodín": [
-     11943.39,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-intenso-250gr/p"
-    ],
-    "Carrefour": [
-     13779.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-intenso-250-grs-760591/p"
-    ]
-   }
-  },
-  {
-   "n": "Café molido tostado Colombia Morenita 500 grs",
-   "m": "Morenita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324474/7790170949072_01.jpg?v=639135865383630000",
-   "cadena": "Jumbo",
-   "precio": 13725.0,
-   "link": "https://www.jumbo.com.ar/cafe-morenita-molido-colombia-500g-2/p",
-   "referencia": 27450.0,
-   "precio_2da": 22999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.3,
-   "score": 2016,
-   "pr": {
-    "Carrefour": [
-     22999.0,
-     "https://www.carrefour.com.ar/cafe-molido-tostado-colombia-morenita-500-grs-692784/p"
-    ],
-    "Vea": [
-     22999.0,
-     "https://www.vea.com.ar/cafe-morenita-molido-colombia-500g-2/p"
-    ],
-    "Jumbo": [
-     13725.0,
-     "https://www.jumbo.com.ar/cafe-morenita-molido-colombia-500g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Cappuccino con Azúcar 125 Grs La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/670982/Caf-Cappuccino-Morenita-X125g-1-878786.jpg?v=637698226469800000",
-   "cadena": "Jumbo",
-   "precio": 2425.0,
-   "link": "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p",
-   "referencia": 4850.0,
-   "precio_2da": 4039.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.0,
+   "n": "Jugo en polvo Clight ananá 7grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812024/7622201702625_E01.jpg?v=639082498866770000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-anana-7g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 509.59,
+   "baja_pct": 48.4,
+   "brecha_pct": 41.3,
    "score": 1998,
    "pr": {
-    "Jumbo": [
-     2425.0,
-     "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p"
-    ],
     "Carrefour": [
-     4039.0,
-     "https://www.carrefour.com.ar/cappuccino-instantaneo-morenita-doypack-125-g-690048/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-anana-7-grs-711433/p"
+    ],
+    "Vea": [
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
+    ],
+    "Jumbo": [
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
     ],
     "Comodín": [
-     4239.09,
-     "https://www.comodinencasa.com.ar/cappuccino-la-morenita-inst-dp-125gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido La Virginia 500 grs",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324283/7790150037072_01.jpg?v=639135861693630000",
-   "cadena": "Jumbo",
-   "precio": 12700.0,
-   "link": "https://www.jumbo.com.ar/cafe-expresso-molido-tostado-la-virginia-500-gr/p",
-   "referencia": 25400.0,
-   "precio_2da": 20899.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.2,
-   "score": 1962,
-   "pr": {
-    "Carrefour": [
-     20899.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-500-grs-692783/p"
-    ],
-    "Vea": [
-     20899.0,
-     "https://www.vea.com.ar/cafe-expresso-molido-tostado-la-virginia-500-gr/p"
-    ],
-    "Jumbo": [
-     12700.0,
-     "https://www.jumbo.com.ar/cafe-expresso-molido-tostado-la-virginia-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia tostado frasco 170 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324383/7790150150252_01.jpg?v=638197801210470000",
-   "cadena": "Jumbo",
-   "precio": 7625.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p",
-   "referencia": 15250.0,
-   "precio_2da": 12299.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.0,
-   "score": 1900,
-   "pr": {
-    "Carrefour": [
-     12299.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-170-g-696403/p"
-    ],
-    "Vea": [
-     12299.0,
-     "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p"
-    ],
-    "Jumbo": [
-     7625.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p"
-    ],
-    "Comodín": [
-     13459.29,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-s-granulado-170gr/p"
+     509.59,
+     "https://www.comodinencasa.com.ar/jugo-clight-anana-x-7-gr/p"
     ],
     "ChangoMás": [
-     14119.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-la-virginia-seleccion-tostado-170g-2/p"
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-anana-7g-2/p"
     ]
    }
   },
   {
-   "n": "Café Instantáneo Signature 95 Grs Nescafé Gold",
-   "m": "GOLD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906166/Caf-Signature-Ar-95-Grs-Nescaf-Gold-1-1038649.jpg?v=639123178606200000",
-   "cadena": "Jumbo",
-   "precio": 11350.0,
-   "link": "https://www.jumbo.com.ar/cafe-signature-ar-95-grs-nescafe-gold/p",
-   "referencia": 22700.0,
-   "precio_2da": 18299.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.0,
-   "score": 1899,
-   "pr": {
-    "Vea": [
-     18299.0,
-     "https://www.vea.com.ar/cafe-signature-ar-95-grs-nescafe-gold/p"
-    ],
-    "Jumbo": [
-     11350.0,
-     "https://www.jumbo.com.ar/cafe-signature-ar-95-grs-nescafe-gold/p"
-    ],
-    "ChangoMás": [
-     21559.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-nescafe-gold-95-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche Chocolatada Menos Azúcar 200 Ml Nesquik®",
-   "m": "NESQUIK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915950/8445291169722.jpg?v=639154875541670000",
-   "cadena": "Carrefour",
-   "precio": 1225.0,
-   "link": "https://www.carrefour.com.ar/nesquik-extra-cacao-chocolatada-listo-para-tomar-200-ml-776885/p",
-   "referencia": 2139.0,
-   "precio_2da": 2100.0,
-   "baja_pct": 42.7,
-   "brecha_pct": 41.7,
-   "score": 1780,
-   "pr": {
-    "Vea": [
-     2100.0,
-     "https://www.vea.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p"
-    ],
-    "Jumbo": [
-     2200.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p"
-    ],
-    "ChangoMás": [
-     2279.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nesquik-menos-azucar-200-ml-2/p"
-    ],
-    "Carrefour": [
-     1225.0,
-     "https://www.carrefour.com.ar/nesquik-extra-cacao-chocolatada-listo-para-tomar-200-ml-776885/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallas Humedas Limpieza Diaria 112 Unidades Huggies",
-   "m": "HUGGIES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861291/Toallas-Humedas-Limpieza-Diaria-112-Unidades-Huggies-1-1035407.jpg?v=638793022907530000",
+   "n": "Jugo en Polvo Clight Limonada 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812033/7622201702656_E01.jpg?v=639082499084870000",
    "cadena": "ChangoMás",
-   "precio": 5789.0,
-   "link": "https://www.masonline.com.ar/toallitas-humedas-huggies-limpieza-diaria-112-u/p",
-   "referencia": 10029.0,
-   "precio_2da": 10000.0,
-   "baja_pct": 42.3,
-   "brecha_pct": 42.1,
-   "score": 1780,
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-8g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 509.59,
+   "baja_pct": 48.4,
+   "brecha_pct": 41.3,
+   "score": 1998,
    "pr": {
-    "Vea": [
-     10000.0,
-     "https://www.vea.com.ar/toallas-humedas-huggies-limp-diaria-x112/p"
-    ],
-    "ChangoMás": [
-     5789.0,
-     "https://www.masonline.com.ar/toallitas-humedas-huggies-limpieza-diaria-112-u/p"
-    ],
     "Carrefour": [
-     10029.0,
-     "https://www.carrefour.com.ar/toallas-humedas-huggies-limpieza-diaria-112-uni-759274/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Bonafide Molido Sabor Intenso 500 Gr",
-   "m": "BONAFIDE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/700893/Caf-Bonafide-Molido-Sabor-Intenso-500-Gr-1-10996.jpg?v=637884201662200000",
-   "cadena": "Jumbo",
-   "precio": 7450.0,
-   "link": "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p",
-   "referencia": 14350.0,
-   "precio_2da": 11599.0,
-   "baja_pct": 48.1,
-   "brecha_pct": 35.8,
-   "score": 1720,
-   "pr": {
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-8-grs-711434/p"
+    ],
     "Vea": [
-     11599.0,
-     "https://www.vea.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p"
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-8-grs-clight/p"
     ],
     "Jumbo": [
-     7450.0,
-     "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p"
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-8-grs-clight/p"
     ],
     "Comodín": [
-     12532.69,
-     "https://www.comodinencasa.com.ar/cafe-bonafide-sensaciones-intenso-500gr/p"
-    ],
-    "Carrefour": [
-     12210.0,
-     "https://www.carrefour.com.ar/cafe-molido-torrado-intenso-sensaciones-500-grs-103923/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Gold Tostado Molido Equilibrado 250 Grs Nescafé®",
-   "m": "GOLD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906116/Caf-Gold-Tostado-Molido-Equilibrado-250-Grs-Nescaf-1-950473.jpg?v=639123178407930000",
-   "cadena": "Jumbo",
-   "precio": 11825.0,
-   "link": "https://www.jumbo.com.ar/cafe-gold-tostado-molido-equilibrado-250-grs-nescafe/p",
-   "referencia": 22300.0,
-   "precio_2da": 18499.0,
-   "baja_pct": 47.0,
-   "brecha_pct": 36.1,
-   "score": 1695,
-   "pr": {
-    "Vea": [
-     18499.0,
-     "https://www.vea.com.ar/cafe-gold-tostado-molido-equilibrado-250-grs-nescafe/p"
-    ],
-    "Jumbo": [
-     11825.0,
-     "https://www.jumbo.com.ar/cafe-gold-tostado-molido-equilibrado-250-grs-nescafe/p"
-    ],
-    "Carrefour": [
-     18499.0,
-     "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-equilibrado-250-grs-717829/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Intenso Tostado Oscuro 250 Grs Nescafé Gold",
-   "m": "GOLD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906117/Caf-Tostado-Y-Molido-Intenso-Gold-250-Grs-Nescaf-1-950498.jpg?v=639123178412130000",
-   "cadena": "Jumbo",
-   "precio": 11825.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-y-molido-intenso-gold-250-grs-nescafe/p",
-   "referencia": 22300.0,
-   "precio_2da": 18499.0,
-   "baja_pct": 47.0,
-   "brecha_pct": 36.1,
-   "score": 1695,
-   "pr": {
-    "Vea": [
-     18499.0,
-     "https://www.vea.com.ar/cafe-tostado-y-molido-intenso-gold-250-grs-nescafe/p"
-    ],
-    "Jumbo": [
-     11825.0,
-     "https://www.jumbo.com.ar/cafe-tostado-y-molido-intenso-gold-250-grs-nescafe/p"
+     509.59,
+     "https://www.comodinencasa.com.ar/jugo-clight-limonada-8-gr/p"
     ],
     "ChangoMás": [
-     22139.0,
-     "https://www.masonline.com.ar/cafe-nescafe-gold-tostado-y-molido-intenso-250gr-2/p"
-    ],
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-8g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Naranja 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814693/7622201703110_E01.jpg?v=639082500363700000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 509.59,
+   "baja_pct": 48.4,
+   "brecha_pct": 41.3,
+   "score": 1998,
+   "pr": {
     "Carrefour": [
-     18499.0,
-     "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-intenso-250-grs-717828/p"
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p"
+    ],
+    "Vea": [
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
+    ],
+    "Jumbo": [
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
+    ],
+    "Comodín": [
+     509.59,
+     "https://www.comodinencasa.com.ar/jugo-clight-naranja-x-8-gr/p"
+    ],
+    "ChangoMás": [
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Pomelo Rosado 8 grs",
+   "m": "Tang",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814697/7622201703172_E01.jpg?v=639082500710300000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pomelo-rosado-8g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 509.59,
+   "baja_pct": 48.4,
+   "brecha_pct": 41.3,
+   "score": 1998,
+   "pr": {
+    "Carrefour": [
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pomelo-rosado-8-grs-711440/p"
+    ],
+    "Vea": [
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p"
+    ],
+    "Jumbo": [
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p"
+    ],
+    "Comodín": [
+     509.59,
+     "https://www.comodinencasa.com.ar/jugo-clight-pomelo-rosado-8-gr/p"
+    ],
+    "ChangoMás": [
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pomelo-rosado-8g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Manzana Deliciosa 7 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814576/7622201703080_E01.jpg?v=639082500178530000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-manzana-deliciosa-7g-2/p",
+   "referencia": 579.0,
+   "precio_2da": 509.59,
+   "baja_pct": 48.4,
+   "brecha_pct": 41.3,
+   "score": 1998,
+   "pr": {
+    "Carrefour": [
+     579.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-manzana-deliciosa-7-grs-711437/p"
+    ],
+    "Vea": [
+     570.0,
+     "https://www.vea.com.ar/jugo-en-polvo-manzana-deliciosa-7-grs-clight/p"
+    ],
+    "Jumbo": [
+     564.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-manzana-deliciosa-7-grs-clight/p"
+    ],
+    "Comodín": [
+     509.59,
+     "https://www.comodinencasa.com.ar/jugo-clight-manzana-deliciosa-x-7-gr/p"
+    ],
+    "ChangoMás": [
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-manzana-deliciosa-7g-2/p"
     ]
    }
   },
@@ -1142,6 +381,37 @@
    }
   },
   {
+   "n": "Acondicionador Tresemme liso efecto botox 250 cc.",
+   "m": "Tresemmé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416842/7791293050089_01.jpg?v=638355808833430000",
+   "cadena": "Carrefour",
+   "precio": 3354.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p",
+   "referencia": 5590.0,
+   "precio_2da": 5590.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     3354.0,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
+    ],
+    "Vea": [
+     5590.0,
+     "https://www.vea.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
+    ],
+    "Jumbo": [
+     6250.0,
+     "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
+    ],
+    "ChangoMás": [
+     6769.0,
+     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
+    ]
+   }
+  },
+  {
    "n": "Vino Tinto Cabernet Franc 750 Cc Fabre Montmayou",
    "m": "FABRE MONTMAYOU",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/669752/Vino-Fabre-Terru-o-Cabernet-Franc-Bot-750cc-1-879235.jpg?v=637691637940930000",
@@ -1173,68 +443,6 @@
    }
   },
   {
-   "n": "Galletitas Saladas Original 499 Grs x 5 Un Criollitas",
-   "m": "CRIOLLITAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/824429/Galletitas-Criollitas-499-Gr-1-890241.jpg?v=638514813757330000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p",
-   "referencia": 3344.0,
-   "precio_2da": 3300.0,
-   "baja_pct": 40.2,
-   "brecha_pct": 39.4,
-   "score": 1586,
-   "pr": {
-    "Vea": [
-     3300.0,
-     "https://www.vea.com.ar/galletitas-criollitas-499-gr-2/p"
-    ],
-    "Comodín": [
-     3420.59,
-     "https://www.comodinencasa.com.ar/galleta-criollitas-original-5-x-100-gr/p"
-    ],
-    "ChangoMás": [
-     1999.0,
-     "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Tostado Molido Super 250 Grs Cabrales",
-   "m": "CABRALES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/773634/Caf-Cabrales-Molido-X250g-1-939971.jpg?v=638144805902300000",
-   "cadena": "Jumbo",
-   "precio": 6726.5,
-   "link": "https://www.jumbo.com.ar/cafe-molido-cabrales-250-gr/p",
-   "referencia": 10762.4,
-   "precio_2da": 11599.19,
-   "baja_pct": 37.5,
-   "brecha_pct": 42.0,
-   "score": 1575,
-   "pr": {
-    "Vea": [
-     12599.0,
-     "https://www.vea.com.ar/cafe-molido-cabrales-250-gr/p"
-    ],
-    "Jumbo": [
-     6726.5,
-     "https://www.jumbo.com.ar/cafe-molido-cabrales-250-gr/p"
-    ],
-    "Comodín": [
-     11599.19,
-     "https://www.comodinencasa.com.ar/cafe-super-cabrales-tostados-250gr/p"
-    ],
-    "Carrefour": [
-     12599.0,
-     "https://www.carrefour.com.ar/cafe-molido-tostado-super-cabrales-250-grs-706853/p"
-    ],
-    "ChangoMás": [
-     15429.0,
-     "https://www.masonline.com.ar/cafe-molido-cabrales-tostado-super-250g-2/p"
-    ]
-   }
-  },
-  {
    "n": "Cera Depilatoria Vegetal en Perlas 100 Grs Millefiori",
    "m": "MILLEFIORI",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835471/Millefiori-Cera-Recarga-Vegetal-100G-Cera-Depilatoria-Millefiori-Vegetal-100g-1-1025358.jpg?v=638623680813300000",
@@ -1258,6 +466,33 @@
     "Comodín": [
      5318.59,
      "https://www.comodinencasa.com.ar/cera-millefiori-recarga-vegetal-100gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Saladas Original 499 Grs x 5 Un Criollitas",
+   "m": "CRIOLLITAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/824429/Galletitas-Criollitas-499-Gr-1-890241.jpg?v=638514813757330000",
+   "cadena": "ChangoMás",
+   "precio": 1999.0,
+   "link": "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p",
+   "referencia": 3309.0,
+   "precio_2da": 3300.0,
+   "baja_pct": 39.6,
+   "brecha_pct": 39.4,
+   "score": 1561,
+   "pr": {
+    "Vea": [
+     3300.0,
+     "https://www.vea.com.ar/galletitas-criollitas-499-gr-2/p"
+    ],
+    "Comodín": [
+     3420.59,
+     "https://www.comodinencasa.com.ar/galleta-criollitas-original-5-x-100-gr/p"
+    ],
+    "ChangoMás": [
+     1999.0,
+     "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p"
     ]
    }
   },
@@ -1289,33 +524,6 @@
    }
   },
   {
-   "n": "Jabón Líquido Ala Matic Máxima Blancura 3 lts",
-   "m": "Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/678579/7791290792036_01.jpg?v=638869770712430000",
-   "cadena": "Carrefour",
-   "precio": 7598.5,
-   "link": "https://www.carrefour.com.ar/jabon-liquido-ala-matic-maxima-blancura-3-lts-695746/p",
-   "referencia": 13680.0,
-   "precio_2da": 11690.0,
-   "baja_pct": 44.5,
-   "brecha_pct": 35.0,
-   "score": 1556,
-   "pr": {
-    "Carrefour": [
-     7598.5,
-     "https://www.carrefour.com.ar/jabon-liquido-ala-matic-maxima-blancura-3-lts-695746/p"
-    ],
-    "Vea": [
-     11690.0,
-     "https://www.vea.com.ar/jabon-liquido-ala-matic-maxima-blancura-3-l/p"
-    ],
-    "Jumbo": [
-     13680.0,
-     "https://www.jumbo.com.ar/jabon-liquido-ala-matic-maxima-blancura-3-l/p"
-    ]
-   }
-  },
-  {
    "n": "Alfajor triple Milka Oreo 61 g.",
    "m": "Milka",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428515/7622300835620_E01.jpg?v=638392068813670000",
@@ -1343,29 +551,29 @@
    }
   },
   {
-   "n": "Vino Chardonnay 750 Cc Pascual Toso",
-   "m": "TOSO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781523/Vino-Pascual-Toso-Estate-Bottled-Chardonnay-75-1-957988.jpg?v=638197833838830000",
-   "cadena": "ChangoMás",
-   "precio": 5029.0,
-   "link": "https://www.masonline.com.ar/vino-blanco-pascual-toso-estate-chardonnay-750-ml-2/p",
-   "referencia": 7457.65,
-   "precio_2da": 9350.0,
-   "baja_pct": 32.6,
-   "brecha_pct": 46.2,
-   "score": 1505,
+   "n": "Papas fritas Mc Cain tradicional 400 g.",
+   "m": "Mc Cain",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845811/7797906000700_01.jpg?v=639111872088930000",
+   "cadena": "Vea",
+   "precio": 2850.0,
+   "link": "https://www.vea.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p",
+   "referencia": 4685.0,
+   "precio_2da": 4619.0,
+   "baja_pct": 39.2,
+   "brecha_pct": 38.3,
+   "score": 1500,
    "pr": {
+    "Carrefour": [
+     4619.0,
+     "https://www.carrefour.com.ar/papas-fritas-mc-cain-tradicional-400-g/p"
+    ],
     "Vea": [
-     9350.0,
-     "https://www.vea.com.ar/vino-estate-chardonnay-750-ml-pascual-toso/p"
+     2850.0,
+     "https://www.vea.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p"
     ],
     "Jumbo": [
-     9600.0,
-     "https://www.jumbo.com.ar/vino-estate-chardonnay-750-ml-pascual-toso/p"
-    ],
-    "ChangoMás": [
-     5029.0,
-     "https://www.masonline.com.ar/vino-blanco-pascual-toso-estate-chardonnay-750-ml-2/p"
+     5000.0,
+     "https://www.jumbo.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p"
     ]
    }
   }
