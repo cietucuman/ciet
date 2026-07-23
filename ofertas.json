@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-22",
- "actualizado": "2026-07-22 16:39",
+ "fecha": "2026-07-23",
+ "actualizado": "2026-07-23 11:18",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-12",
   "2026-07-13",
   "2026-07-14",
   "2026-07-15",
@@ -19,395 +18,35 @@
   "2026-07-19",
   "2026-07-20",
   "2026-07-21",
-  "2026-07-22"
+  "2026-07-22",
+  "2026-07-23"
  ],
- "total": 19,
+ "total": 5,
  "ofertas": [
   {
-   "n": "Jugo en Polvo Clight Naranja Durazno 7,5 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812045/7622201702717_E01.jpg?v=639082499464530000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-y-durazno-7-5g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 564.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 47.0,
-   "score": 2272,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-y-durazno-7-5g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Pera 7grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814699/7622201703202_E01.jpg?v=639082501012000000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 564.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 47.0,
-   "score": 2272,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Mandarina 8 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814705/7622201704148_E01.jpg?v=639082501387200000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/clight-jugo-en-polvo-mandarina-8g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 564.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 47.0,
-   "score": 2272,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-mandarina-8-grs-711443/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-mandarina-8-grs-clight/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/clight-jugo-en-polvo-mandarina-8g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 564.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 47.0,
-   "score": 2272,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo Clight Pomelada Hibiscus 8 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814894/7622202359934_E01.jpg?v=639082506742500000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-pomelada-hibiscus-8-g/p",
-   "referencia": 579.0,
-   "precio_2da": 564.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 47.0,
-   "score": 2272,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-clight-pomelada-hibiscus-8-grs-767578/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-pomelada-hibiscus-8-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Clight ananá 7grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812024/7622201702625_E01.jpg?v=639082498866770000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-anana-7g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 509.59,
-   "baja_pct": 48.4,
-   "brecha_pct": 41.3,
-   "score": 1998,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-anana-7-grs-711433/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
-    ],
-    "Comodín": [
-     509.59,
-     "https://www.comodinencasa.com.ar/jugo-clight-anana-x-7-gr/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-anana-7g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Naranja 8 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814693/7622201703110_E01.jpg?v=639082500363700000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 509.59,
-   "baja_pct": 48.4,
-   "brecha_pct": 41.3,
-   "score": 1998,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
-    ],
-    "Comodín": [
-     509.59,
-     "https://www.comodinencasa.com.ar/jugo-clight-naranja-x-8-gr/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Limonada 8 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812033/7622201702656_E01.jpg?v=639082499084870000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-8g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 509.59,
-   "baja_pct": 48.4,
-   "brecha_pct": 41.3,
-   "score": 1998,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-8-grs-711434/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-limonada-8-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-8-grs-clight/p"
-    ],
-    "Comodín": [
-     509.59,
-     "https://www.comodinencasa.com.ar/jugo-clight-limonada-8-gr/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-8g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Pomelo Rosado 8 grs",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814697/7622201703172_E01.jpg?v=639082500710300000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pomelo-rosado-8g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 509.59,
-   "baja_pct": 48.4,
-   "brecha_pct": 41.3,
-   "score": 1998,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pomelo-rosado-8-grs-711440/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p"
-    ],
-    "Comodín": [
-     509.59,
-     "https://www.comodinencasa.com.ar/jugo-clight-pomelo-rosado-8-gr/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pomelo-rosado-8g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Manzana Deliciosa 7 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814576/7622201703080_E01.jpg?v=639082500178530000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-manzana-deliciosa-7g-2/p",
-   "referencia": 579.0,
-   "precio_2da": 509.59,
-   "baja_pct": 48.4,
-   "brecha_pct": 41.3,
-   "score": 1998,
-   "pr": {
-    "Carrefour": [
-     579.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-manzana-deliciosa-7-grs-711437/p"
-    ],
-    "Vea": [
-     570.0,
-     "https://www.vea.com.ar/jugo-en-polvo-manzana-deliciosa-7-grs-clight/p"
-    ],
-    "Jumbo": [
-     564.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-manzana-deliciosa-7-grs-clight/p"
-    ],
-    "Comodín": [
-     509.59,
-     "https://www.comodinencasa.com.ar/jugo-clight-manzana-deliciosa-x-7-gr/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-manzana-deliciosa-7g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple SHOT con maní 60 g",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882369/77956699_E01.jpg?v=639155719741170000",
-   "cadena": "Vea",
-   "precio": 1230.0,
-   "link": "https://www.vea.com.ar/alfajor-con-mani-triple-60-gr-shot/p",
-   "referencia": 2050.0,
-   "precio_2da": 2050.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     2050.0,
-     "https://www.carrefour.com.ar/alfajor-triple-shot-con-mani-60-g-353207/p"
-    ],
-    "Vea": [
-     1230.0,
-     "https://www.vea.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
-    ],
-    "Comodín": [
-     2827.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-shot-1un-x-60gr-2/p"
-    ],
-    "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Tresemme liso efecto botox 250 cc.",
-   "m": "Tresemmé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416842/7791293050089_01.jpg?v=638355808833430000",
+   "n": "Plato Hondo Transparente Vidrio Gema Durax",
+   "m": "SD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
    "cadena": "Carrefour",
-   "precio": 3354.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p",
-   "referencia": 5590.0,
-   "precio_2da": 5590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "precio": 1156.35,
+   "link": "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p",
+   "referencia": 1779.0,
+   "precio_2da": 2211.75,
+   "baja_pct": 35.0,
+   "brecha_pct": 47.7,
+   "score": 1670,
    "pr": {
-    "Carrefour": [
-     3354.0,
-     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
-    ],
     "Vea": [
-     5590.0,
-     "https://www.vea.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
+     2211.75,
+     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
     ],
     "Jumbo": [
-     6250.0,
-     "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
+     2211.75,
+     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
     ],
-    "ChangoMás": [
-     6769.0,
-     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
+    "Carrefour": [
+     1156.35,
+     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
     ]
    }
   },
@@ -443,33 +82,6 @@
    }
   },
   {
-   "n": "Bizcochuelo Chocman Black Con Cacao 35 G",
-   "m": "Bonafide",
-   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/325622/Bizcochuelo-Chocman-Black-Con-Cacao-35-G-1-57735.jpg?v=638531121817030000",
-   "cadena": "ChangoMás",
-   "precio": 479.4,
-   "link": "https://www.masonline.com.ar/bizcochuelo-chocman-black-con-cacao-35-g-2/p",
-   "referencia": 799.0,
-   "precio_2da": 799.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "ChangoMás": [
-     479.4,
-     "https://www.masonline.com.ar/bizcochuelo-chocman-black-con-cacao-35-g-2/p"
-    ],
-    "Carrefour": [
-     799.0,
-     "https://www.carrefour.com.ar/bizcochuelo-black-chocman-35-grs-760139/p"
-    ],
-    "Comodín": [
-     956.79,
-     "https://www.comodinencasa.com.ar/bizcochuelo-chocman-black-35gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Cera Depilatoria Vegetal en Perlas 100 Grs Millefiori",
    "m": "MILLEFIORI",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835471/Millefiori-Cera-Recarga-Vegetal-100G-Cera-Depilatoria-Millefiori-Vegetal-100g-1-1025358.jpg?v=638623680813300000",
@@ -493,33 +105,6 @@
     "Comodín": [
      5318.59,
      "https://www.comodinencasa.com.ar/cera-millefiori-recarga-vegetal-100gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas Saladas Original 499 Grs x 5 Un Criollitas",
-   "m": "CRIOLLITAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/824429/Galletitas-Criollitas-499-Gr-1-890241.jpg?v=638514813757330000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p",
-   "referencia": 3309.0,
-   "precio_2da": 3300.0,
-   "baja_pct": 39.6,
-   "brecha_pct": 39.4,
-   "score": 1561,
-   "pr": {
-    "Vea": [
-     3300.0,
-     "https://www.vea.com.ar/galletitas-criollitas-499-gr-2/p"
-    ],
-    "Comodín": [
-     3420.59,
-     "https://www.comodinencasa.com.ar/galleta-criollitas-original-5-x-100-gr/p"
-    ],
-    "ChangoMás": [
-     1999.0,
-     "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p"
     ]
    }
   },
@@ -551,33 +136,6 @@
    }
   },
   {
-   "n": "Alfajor triple Milka Oreo 61 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428515/7622300835620_E01.jpg?v=638392068813670000",
-   "cadena": "Vea",
-   "precio": 1260.0,
-   "link": "https://www.vea.com.ar/alfajor-triple-milka-oreo-61-gr/p",
-   "referencia": 2100.0,
-   "precio_2da": 2050.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1541,
-   "pr": {
-    "Carrefour": [
-     2050.0,
-     "https://www.carrefour.com.ar/alfajor-triple-milka-oreo-61-g-667747/p"
-    ],
-    "Vea": [
-     1260.0,
-     "https://www.vea.com.ar/alfajor-triple-milka-oreo-61-gr/p"
-    ],
-    "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Papas fritas Mc Cain tradicional 400 g.",
    "m": "Mc Cain",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845811/7797906000700_01.jpg?v=639111872088930000",
@@ -585,13 +143,13 @@
    "precio": 2850.0,
    "link": "https://www.vea.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p",
    "referencia": 4685.0,
-   "precio_2da": 4619.0,
+   "precio_2da": 4685.0,
    "baja_pct": 39.2,
-   "brecha_pct": 38.3,
-   "score": 1500,
+   "brecha_pct": 39.2,
+   "score": 1534,
    "pr": {
     "Carrefour": [
-     4619.0,
+     4685.0,
      "https://www.carrefour.com.ar/papas-fritas-mc-cain-tradicional-400-g/p"
     ],
     "Vea": [
