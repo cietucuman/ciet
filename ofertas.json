@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-24",
- "actualizado": "2026-07-24 14:19",
+ "actualizado": "2026-07-24 17:16",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -917,9 +917,9 @@
    }
   },
   {
-   "n": "Café Espresso Equilibrado 52 Grs x 10 Un La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895847/Caf-En-Capsulas-Equilibrio-La-Virginia-52-Gr-1-886791.jpg?v=639046065832530000",
+   "n": "Cápsulas de café La Virginia equilibrado caja x 10 uni",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/685569/7790150080825_01.jpg?v=638895633200130000",
    "cadena": "Jumbo",
    "precio": 4825.0,
    "link": "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p",
@@ -929,6 +929,10 @@
    "brecha_pct": 49.0,
    "score": 2087,
    "pr": {
+    "Carrefour": [
+     9469.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-equilibrado-caja-x-10-uni-693818/p"
+    ],
     "Vea": [
      9599.0,
      "https://www.vea.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
@@ -936,10 +940,6 @@
     "Jumbo": [
      4825.0,
      "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
-    ],
-    "Carrefour": [
-     9469.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-equilibrado-caja-x-10-uni-693818/p"
     ]
    }
   },
@@ -1466,9 +1466,9 @@
    }
   },
   {
-   "n": "Alimento seco para perro adulto Sabrositos carne, cereal y vegetales 3 Kg",
-   "m": "Sabrositos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828350/7798073177424_01.jpg?v=639090091701600000",
+   "n": "Alimento para Perros Seco Sabor Carnes, Cereales y Vegetales Adultos 3 Kg Sabrositos",
+   "m": "SABROSITOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918823/7798073177424.jpg?v=639173147451900000",
    "cadena": "Jumbo",
    "precio": 4680.0,
    "link": "https://www.jumbo.com.ar/alimento-sabrositos-mix-x3kg-2/p",
@@ -1478,10 +1478,6 @@
    "brecha_pct": 40.3,
    "score": 1613,
    "pr": {
-    "Carrefour": [
-     7843.0,
-     "https://www.carrefour.com.ar/alimento-seco-para-perro-adulto-sabrositos-carne-cereal-y-vegetales-3-kg-690492/p"
-    ],
     "Vea": [
      7973.0,
      "https://www.vea.com.ar/alimento-sabrositos-mix-x3kg-2/p"
@@ -1489,6 +1485,10 @@
     "Jumbo": [
      4680.0,
      "https://www.jumbo.com.ar/alimento-sabrositos-mix-x3kg-2/p"
+    ],
+    "Carrefour": [
+     7843.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-adulto-sabrositos-carne-cereal-y-vegetales-3-kg-690492/p"
     ]
    }
   },
