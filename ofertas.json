@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-23",
- "actualizado": "2026-07-23 17:33",
+ "fecha": "2026-07-24",
+ "actualizado": "2026-07-24 14:19",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-13",
   "2026-07-14",
   "2026-07-15",
   "2026-07-16",
@@ -19,34 +18,1477 @@
   "2026-07-20",
   "2026-07-21",
   "2026-07-22",
-  "2026-07-23"
+  "2026-07-23",
+  "2026-07-24"
  ],
- "total": 5,
+ "total": 72,
  "ofertas": [
   {
-   "n": "Plato Hondo Transparente Vidrio Gema Durax",
-   "m": "SD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
-   "cadena": "Carrefour",
-   "precio": 1156.35,
-   "link": "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p",
-   "referencia": 1779.0,
-   "precio_2da": 2211.75,
-   "baja_pct": 35.0,
-   "brecha_pct": 47.7,
-   "score": 1670,
+   "n": "Galletas de arroz Grandiet multicereal dulces 100 g.",
+   "m": "Grandiet",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/367680/7797330102384_E02.jpg?v=638283335498770000",
+   "cadena": "Vea",
+   "precio": 775.0,
+   "link": "https://www.vea.com.ar/galletas-de-cereales-inflados-dulce-100-gr-grandiet/p",
+   "referencia": 1550.0,
+   "precio_2da": 1550.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
    "pr": {
+    "Carrefour": [
+     1550.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-grandiet-multicereal-dulces-100-g/p"
+    ],
     "Vea": [
-     2211.75,
-     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
+     775.0,
+     "https://www.vea.com.ar/galletas-de-cereales-inflados-dulce-100-gr-grandiet/p"
+    ],
+    "Comodín": [
+     1564.19,
+     "https://www.comodinencasa.com.ar/galleta-multicerl-grandiet-dulces-x-100/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Club Social sabor jamón x6 23.5 grs",
+   "m": "Club Social",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/272198/7622210691835_E01.jpg?v=639130006739530000",
+   "cadena": "Jumbo",
+   "precio": 1600.0,
+   "link": "https://www.jumbo.com.ar/galletitas-crackers-club-social-jamon-6u-x-24g/p",
+   "referencia": 3200.0,
+   "precio_2da": 3100.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.4,
+   "score": 2419,
+   "pr": {
+    "Carrefour": [
+     3100.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-club-social-sabor-jamon-x6-23-5-grs-628581/p"
+    ],
+    "Vea": [
+     3100.0,
+     "https://www.vea.com.ar/galletitas-crackers-club-social-jamon-6u-x-24g/p"
     ],
     "Jumbo": [
-     2211.75,
-     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
+     1600.0,
+     "https://www.jumbo.com.ar/galletitas-crackers-club-social-jamon-6u-x-24g/p"
+    ],
+    "ChangoMás": [
+     3119.0,
+     "https://www.masonline.com.ar/galletitas-sabor-jamon-club-social-144gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas Tosti sin sal 140 g.",
+   "m": "Tosti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/183150/7794529041677_02.jpg?v=637468590296000000",
+   "cadena": "Jumbo",
+   "precio": 1450.0,
+   "link": "https://www.jumbo.com.ar/tostaditas-tosti-sin-sal-x140g/p",
+   "referencia": 2900.0,
+   "precio_2da": 2800.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.2,
+   "score": 2411,
+   "pr": {
+    "Carrefour": [
+     2800.0,
+     "https://www.carrefour.com.ar/tostadas-tosti-sin-sal-140-g/p"
+    ],
+    "Vea": [
+     2800.0,
+     "https://www.vea.com.ar/tostaditas-tosti-sin-sal-x140g/p"
+    ],
+    "Jumbo": [
+     1450.0,
+     "https://www.jumbo.com.ar/tostaditas-tosti-sin-sal-x140g/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Franc 750 Ml Sexy Fish",
+   "m": "SEXY FISH",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/795406/Vino-Sexy-Fish-Cabernet-Franc-750cc-Vino-Sexy-Fish-Cabernet-Franc-1-995593.jpg?v=638309290275730000",
+   "cadena": "Vea",
+   "precio": 3325.0,
+   "link": "https://www.vea.com.ar/vino-sexy-fish-cabernet-franc-750-ml/p",
+   "referencia": 6650.0,
+   "precio_2da": 6389.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.0,
+   "score": 2398,
+   "pr": {
+    "Vea": [
+     3325.0,
+     "https://www.vea.com.ar/vino-sexy-fish-cabernet-franc-750-ml/p"
     ],
     "Carrefour": [
-     1156.35,
-     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
+     6449.0,
+     "https://www.carrefour.com.ar/vino-tinto-sexy-fish-cabernet-franc-750-cc-725071/p"
+    ],
+    "ChangoMás": [
+     6389.0,
+     "https://www.masonline.com.ar/vino-tinto-sexy-fish-cabernet-franc-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Syrah Malbec Callia Esperado 750 ml",
+   "m": "Callia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823771/7798108834377_01.jpg?v=639083182089970000",
+   "cadena": "Jumbo",
+   "precio": 3550.0,
+   "link": "https://www.jumbo.com.ar/vino-callia-esperado-syrah-malbec-750-ml/p",
+   "referencia": 7100.0,
+   "precio_2da": 6765.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.5,
+   "score": 2376,
+   "pr": {
+    "Carrefour": [
+     6765.0,
+     "https://www.carrefour.com.ar/vino-tinto-callia-esperado-syrah-malbec-750-cc-723737/p"
+    ],
+    "Vea": [
+     6850.0,
+     "https://www.vea.com.ar/vino-callia-esperado-syrah-malbec-750-ml/p"
+    ],
+    "Jumbo": [
+     3550.0,
+     "https://www.jumbo.com.ar/vino-callia-esperado-syrah-malbec-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Chacabuco 750 ml",
+   "m": "Chacabuco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823014/7791843023471_02.jpg?v=639083181879970000",
+   "cadena": "Vea",
+   "precio": 2700.0,
+   "link": "https://www.vea.com.ar/vino-chacabuco-malbec-750cc/p",
+   "referencia": 5400.0,
+   "precio_2da": 5085.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2345,
+   "pr": {
+    "Carrefour": [
+     5359.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-chacabuco-en-botella-750-cc-734595/p"
+    ],
+    "Vea": [
+     2700.0,
+     "https://www.vea.com.ar/vino-chacabuco-malbec-750cc/p"
+    ],
+    "ChangoMás": [
+     5519.0,
+     "https://www.masonline.com.ar/vino-tinto-chacabuco-malbec-750-ml-2/p"
+    ],
+    "Comodín": [
+     5085.59,
+     "https://www.comodinencasa.com.ar/vino-chacabuco-malbec-750cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia descafeinado kalma 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324297/7790150110188_01.jpg?v=638197800892270000",
+   "cadena": "Jumbo",
+   "precio": 4250.0,
+   "link": "https://www.jumbo.com.ar/cafe-descafeinado-kalma-100-gr/p",
+   "referencia": 8500.0,
+   "precio_2da": 7999.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2343,
+   "pr": {
+    "Carrefour": [
+     7999.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-descafeinado-kalma-100-g-696399/p"
+    ],
+    "Vea": [
+     7999.0,
+     "https://www.vea.com.ar/cafe-descafeinado-kalma-100-gr/p"
+    ],
+    "Jumbo": [
+     4250.0,
+     "https://www.jumbo.com.ar/cafe-descafeinado-kalma-100-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas De Arroz Dos Hermanos Dulces 100gr",
+   "m": "DOS HERMANOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919255/7790503198702.jpg?v=639178225701470000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-dos-hermanos-dulces-100gr/p",
+   "referencia": 1500.0,
+   "precio_2da": 1400.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.4,
+   "score": 2321,
+   "pr": {
+    "Vea": [
+     1400.0,
+     "https://www.vea.com.ar/galletas-de-arroz-dos-hermanos-dulces-100gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-dos-hermanos-dulces-100gr/p"
+    ],
+    "ChangoMás": [
+     1519.0,
+     "https://www.masonline.com.ar/galletas-de-arroz-dos-hermanos-dulces-100g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Grandiet sin sal 100 g.",
+   "m": "Grandiet",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176740/7797330100656_02.jpg?v=637468574158530000",
+   "cadena": "Vea",
+   "precio": 725.0,
+   "link": "https://www.vea.com.ar/discos-de-arroz-sin-sal-100-gr-grandiet/p",
+   "referencia": 1450.0,
+   "precio_2da": 1350.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.3,
+   "score": 2317,
+   "pr": {
+    "Carrefour": [
+     1450.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-grandiet-sin-sal-100-g/p"
+    ],
+    "Vea": [
+     725.0,
+     "https://www.vea.com.ar/discos-de-arroz-sin-sal-100-gr-grandiet/p"
+    ],
+    "Comodín": [
+     1350.99,
+     "https://www.comodinencasa.com.ar/discos-de-arroz-grandiet-sin-sal-x-100/p"
+    ]
+   }
+  },
+  {
+   "n": "Cappuccino La Virginia instantáneo dp 125 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324294/7790150160725_E01.jpg?v=638197800882870000",
+   "cadena": "Jumbo",
+   "precio": 2025.0,
+   "link": "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p",
+   "referencia": 3900.0,
+   "precio_2da": 3899.0,
+   "baja_pct": 48.1,
+   "brecha_pct": 48.1,
+   "score": 2311,
+   "pr": {
+    "Carrefour": [
+     3899.0,
+     "https://www.carrefour.com.ar/cappuccino-la-virginia-instantaneo-dp-125-g-692791/p"
+    ],
+    "Vea": [
+     3899.0,
+     "https://www.vea.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
+    ],
+    "Jumbo": [
+     2025.0,
+     "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Cappuccino La Virginia cortado dp 125 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324315/7790150161371_E01.jpg?v=638197800957070000",
+   "cadena": "Jumbo",
+   "precio": 2050.0,
+   "link": "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p",
+   "referencia": 4100.0,
+   "precio_2da": 3799.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.0,
+   "score": 2302,
+   "pr": {
+    "Carrefour": [
+     3799.0,
+     "https://www.carrefour.com.ar/cappuccino-la-virginia-cortado-dp-125-g-692801/p"
+    ],
+    "Vea": [
+     3799.0,
+     "https://www.vea.com.ar/mix-cortado-la-virginia-125gr-2/p"
+    ],
+    "Jumbo": [
+     2050.0,
+     "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia suave frasco 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324387/7790150101490_01.jpg?v=638197801215800000",
+   "cadena": "Jumbo",
+   "precio": 4950.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p",
+   "referencia": 9650.0,
+   "precio_2da": 9299.0,
+   "baja_pct": 48.7,
+   "brecha_pct": 46.8,
+   "score": 2278,
+   "pr": {
+    "Carrefour": [
+     9299.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-frasco-170-g/p"
+    ],
+    "Vea": [
+     9299.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
+    ],
+    "Jumbo": [
+     4950.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia suave frasco 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324374/7790150101773_01.jpg?v=638197801170600000",
+   "cadena": "Jumbo",
+   "precio": 3150.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x100g/p",
+   "referencia": 6150.0,
+   "precio_2da": 5899.0,
+   "baja_pct": 48.8,
+   "brecha_pct": 46.6,
+   "score": 2273,
+   "pr": {
+    "Carrefour": [
+     5899.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-frasco-100-g/p"
+    ],
+    "Vea": [
+     5899.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-x100g/p"
+    ],
+    "Jumbo": [
+     3150.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x100g/p"
+    ],
+    "ChangoMás": [
+     6089.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-suave-la-virginia-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Snacks Dentastix Razas Mediano Cuidado Oral",
+   "m": "PEDIGREE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/586452/Snacks-Dentastix-Razas-Med-Cuidado-Oral-1-404526.jpg?v=637265784359070000",
+   "cadena": "Jumbo",
+   "precio": 1620.0,
+   "link": "https://www.jumbo.com.ar/snacks-dentastix-razas-mediano-cuidado-oral-3/p",
+   "referencia": 3866.25,
+   "precio_2da": 2650.0,
+   "baja_pct": 58.1,
+   "brecha_pct": 38.9,
+   "score": 2258,
+   "pr": {
+    "Vea": [
+     2650.0,
+     "https://www.vea.com.ar/snacks-dentastix-razas-mediano-cuidado-oral-3/p"
+    ],
+    "Jumbo": [
+     1620.0,
+     "https://www.jumbo.com.ar/snacks-dentastix-razas-mediano-cuidado-oral-3/p"
+    ],
+    "Carrefour": [
+     2650.0,
+     "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-3-u-razas-medianas/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas de arroz Molinos del Bosque 150 g.",
+   "m": "Molinos del Bosque",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324615/7798142880019_02.jpg?v=638198459350200000",
+   "cadena": "Jumbo",
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/tostadas-de-arroz-sin-tacc-150-gr-carilo/p",
+   "referencia": 2650.0,
+   "precio_2da": 2399.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.8,
+   "score": 2238,
+   "pr": {
+    "Carrefour": [
+     2399.0,
+     "https://www.carrefour.com.ar/tostadas-de-arroz-molinos-del-bosque-150-g/p"
+    ],
+    "Jumbo": [
+     1325.0,
+     "https://www.jumbo.com.ar/tostadas-de-arroz-sin-tacc-150-gr-carilo/p"
+    ],
+    "ChangoMás": [
+     2569.0,
+     "https://www.masonline.com.ar/galletas-arroz-original-carilo-150gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Syrah Malbec Callia 750 ml",
+   "m": "Callia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821178/7798108834117_01.jpg?v=639083181347970000",
+   "cadena": "Jumbo",
+   "precio": 3075.0,
+   "link": "https://www.jumbo.com.ar/vino-callia-blend-3/p",
+   "referencia": 6150.0,
+   "precio_2da": 5528.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.4,
+   "score": 2219,
+   "pr": {
+    "Carrefour": [
+     5715.0,
+     "https://www.carrefour.com.ar/vino-tinto-callia-syrah-malbec-750-cc-719782/p"
+    ],
+    "Jumbo": [
+     3075.0,
+     "https://www.jumbo.com.ar/vino-callia-blend-3/p"
+    ],
+    "Comodín": [
+     5528.69,
+     "https://www.comodinencasa.com.ar/vino-callia-alta-syrah-malbec-x-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Cafe Tostado & Molido Brasil 250g Morenita",
+   "m": "LA MORENITA",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628766/7790170949027_01.jpg?v=638762040084700000",
+   "cadena": "Jumbo",
+   "precio": 7675.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-brasil-250g-morenita/p",
+   "referencia": 15350.0,
+   "precio_2da": 13690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.9,
+   "score": 2197,
+   "pr": {
+    "Carrefour": [
+     14635.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-morenita-250-grs-758181/p"
+    ],
+    "Vea": [
+     13690.0,
+     "https://www.vea.com.ar/cafe-tostado-molido-brasil-250g-morenita/p"
+    ],
+    "Jumbo": [
+     7675.0,
+     "https://www.jumbo.com.ar/cafe-tostado-molido-brasil-250g-morenita/p"
+    ],
+    "ChangoMás": [
+     15219.0,
+     "https://www.masonline.com.ar/cafe-molido-la-morenita-tostado-brasil-250-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Anillitos Terrabusi 300 g.",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825719/7622201504007_E01.jpg?v=639086656567730000",
+   "cadena": "Jumbo",
+   "precio": 1825.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-anillitos-terrabusi-300-gr/p",
+   "referencia": 3650.0,
+   "precio_2da": 3250.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.8,
+   "score": 2192,
+   "pr": {
+    "Carrefour": [
+     3250.0,
+     "https://www.carrefour.com.ar/galletitas-dulce-anillitos-terrabusi-300-g-694961/p"
+    ],
+    "Vea": [
+     3300.0,
+     "https://www.vea.com.ar/galletitas-dulces-anillitos-terrabusi-300-gr/p"
+    ],
+    "Jumbo": [
+     1825.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-anillitos-terrabusi-300-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Cápsulas de café italiano Morenita caja x 10 uni",
+   "m": "Morenita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324449/7790170903654_01.jpg?v=639039935201430000",
+   "cadena": "Jumbo",
+   "precio": 4800.0,
+   "link": "https://www.jumbo.com.ar/cafe-en-capsulas-italiano-la-morenita-52-gr/p",
+   "referencia": 9100.0,
+   "precio_2da": 8879.0,
+   "baja_pct": 47.3,
+   "brecha_pct": 45.9,
+   "score": 2171,
+   "pr": {
+    "Carrefour": [
+     8879.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-italiano-morenita-caja-x-10-uni-693824/p"
+    ],
+    "Vea": [
+     9599.0,
+     "https://www.vea.com.ar/cafe-en-capsulas-italiano-la-morenita-52-gr/p"
+    ],
+    "Jumbo": [
+     4800.0,
+     "https://www.jumbo.com.ar/cafe-en-capsulas-italiano-la-morenita-52-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia tostado frasco 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324330/7790150150573_01.jpg?v=638197801007130000",
+   "cadena": "Jumbo",
+   "precio": 4650.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p",
+   "referencia": 9300.0,
+   "precio_2da": 8185.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.2,
+   "score": 2160,
+   "pr": {
+    "Carrefour": [
+     8299.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-100-g-696402/p"
+    ],
+    "Vea": [
+     8299.0,
+     "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p"
+    ],
+    "Jumbo": [
+     4650.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x100g/p"
+    ],
+    "Comodín": [
+     8185.59,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-sgranulado-100gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Dos Hermanos slim salada 100 g.",
+   "m": "Dos Hermanos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176672/7790503198696_02_1.jpg?v=637468573982270000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-dos-hermanos-saladas-100gr/p",
+   "referencia": 1500.0,
+   "precio_2da": 1320.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.2,
+   "score": 2159,
+   "pr": {
+    "Carrefour": [
+     1320.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-dos-hermanos-slim-salada-100-g/p"
+    ],
+    "Vea": [
+     1400.0,
+     "https://www.vea.com.ar/galletas-de-arroz-dos-hermanos-saladas-100gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-dos-hermanos-saladas-100gr/p"
+    ],
+    "ChangoMás": [
+     1359.0,
+     "https://www.masonline.com.ar/galletas-de-arroz-dos-hermanos-saladas-100gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia suave dp 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324446/7790150101780_01.jpg?v=638197801429670000",
+   "cadena": "Jumbo",
+   "precio": 2900.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p",
+   "referencia": 5800.0,
+   "precio_2da": 5098.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.1,
+   "score": 2156,
+   "pr": {
+    "Carrefour": [
+     5199.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-dp-100-g/p"
+    ],
+    "Vea": [
+     5199.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dpx100g/p"
+    ],
+    "Comodín": [
+     5098.99,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-suave-dp-100gr/p"
+    ],
+    "ChangoMás": [
+     5349.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-suave-la-virginia-pack-ahorro-x-100g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia clásico dp 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324441/7790150100806_01.jpg?v=638197801419030000",
+   "cadena": "Jumbo",
+   "precio": 2900.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p",
+   "referencia": 5800.0,
+   "precio_2da": 5098.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.1,
+   "score": 2156,
+   "pr": {
+    "Carrefour": [
+     5199.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-clasico-dp-100-g/p"
+    ],
+    "Vea": [
+     5199.0,
+     "https://www.vea.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
+    ],
+    "Comodín": [
+     5098.99,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-clasico-dp-100gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia clásico especial dp 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324417/7790150100462_01.jpg?v=638197801329770000",
+   "cadena": "Jumbo",
+   "precio": 4225.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx170g/p",
+   "referencia": 8450.0,
+   "precio_2da": 7399.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.9,
+   "score": 2145,
+   "pr": {
+    "Carrefour": [
+     7399.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-clasico-especial-dp-170-g/p"
+    ],
+    "Vea": [
+     7590.0,
+     "https://www.vea.com.ar/cafe-la-virginia-clasico-espuma-dpx170g/p"
+    ],
+    "Jumbo": [
+     4225.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx170g/p"
+    ]
+   }
+  },
+  {
+   "n": "Café molido torrado Bonafide Sensaciones intenso 200 grs",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/610727/7792360097600_02.jpg?v=638729828182900000",
+   "cadena": "Jumbo",
+   "precio": 3425.0,
+   "link": "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p",
+   "referencia": 6700.0,
+   "precio_2da": 6099.0,
+   "baja_pct": 48.9,
+   "brecha_pct": 43.8,
+   "score": 2143,
+   "pr": {
+    "Carrefour": [
+     6099.0,
+     "https://www.carrefour.com.ar/cafe-molido-torrado-bonafide-sensaciones-intenso-200-grs-755999/p"
+    ],
+    "Vea": [
+     6099.0,
+     "https://www.vea.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
+    ],
+    "Jumbo": [
+     3425.0,
+     "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
+    ],
+    "ChangoMás": [
+     6489.0,
+     "https://www.masonline.com.ar/cafe-torrado-bonafide-suave-200-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Premium Sabor Caramel 51 Grs x 10 Un Starbucks",
+   "m": "STARBUCKS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906169/C-psulas-Caramel-51-Grs-Starbucks-1-1039057.jpg?v=639123178617000000",
+   "cadena": "Jumbo",
+   "precio": 8975.0,
+   "link": "https://www.jumbo.com.ar/capsulas-caramel-51-grs-starbucks/p",
+   "referencia": 17950.0,
+   "precio_2da": 15699.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.8,
+   "score": 2142,
+   "pr": {
+    "Vea": [
+     15699.0,
+     "https://www.vea.com.ar/capsulas-caramel-51-grs-starbucks/p"
+    ],
+    "Jumbo": [
+     8975.0,
+     "https://www.jumbo.com.ar/capsulas-caramel-51-grs-starbucks/p"
+    ],
+    "Carrefour": [
+     15699.0,
+     "https://www.carrefour.com.ar/starbucks-nespresso-caramel-10-uni-762252/p"
+    ]
+   }
+  },
+  {
+   "n": "Café molido torrado La Virginia 125 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324286/7790150006306_01.jpg?v=638197800857370000",
+   "cadena": "Jumbo",
+   "precio": 2100.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-molido-125gr/p",
+   "referencia": 3900.0,
+   "precio_2da": 3909.0,
+   "baja_pct": 46.2,
+   "brecha_pct": 46.3,
+   "score": 2136,
+   "pr": {
+    "Carrefour": [
+     3909.0,
+     "https://www.carrefour.com.ar/cafe-molido-torrado-la-virginia-125-g-56497/p"
+    ],
+    "Vea": [
+     3999.0,
+     "https://www.vea.com.ar/cafe-la-virginia-molido-125gr/p"
+    ],
+    "Jumbo": [
+     2100.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-molido-125gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido La Virginia sutil 250 grs",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651135/7790150037140_01.jpg?v=638816140583300000",
+   "cadena": "Jumbo",
+   "precio": 6850.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p",
+   "referencia": 13700.0,
+   "precio_2da": 11943.39,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.6,
+   "score": 2132,
+   "pr": {
+    "Carrefour": [
+     13249.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-sutil-250-grs-760590/p"
+    ],
+    "Vea": [
+     12390.0,
+     "https://www.vea.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
+    ],
+    "Jumbo": [
+     6850.0,
+     "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
+    ],
+    "Comodín": [
+     11943.39,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-sutil-250gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Cappuccino latte La Virginia dp 125 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324392/7790150161326_E01.jpg?v=638197801237030000",
+   "cadena": "Jumbo",
+   "precio": 2200.0,
+   "link": "https://www.jumbo.com.ar/cafe-mix-latte-la-virginia-125-gr/p",
+   "referencia": 4400.0,
+   "precio_2da": 3799.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.1,
+   "score": 2105,
+   "pr": {
+    "Carrefour": [
+     3799.0,
+     "https://www.carrefour.com.ar/cappuccino-latte-la-virginia-dp-125-g-692800/p"
+    ],
+    "Vea": [
+     3799.0,
+     "https://www.vea.com.ar/cafe-mix-latte-la-virginia-125-gr/p"
+    ],
+    "Jumbo": [
+     2200.0,
+     "https://www.jumbo.com.ar/cafe-mix-latte-la-virginia-125-gr/p"
+    ],
+    "Comodín": [
+     4440.79,
+     "https://www.comodinencasa.com.ar/cappuccino-la-virginia-latte-dp-125gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo suave La Virginia doy pack 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324293/7790150101476_01.jpg?v=638197800882400000",
+   "cadena": "Jumbo",
+   "precio": 4225.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p",
+   "referencia": 8450.0,
+   "precio_2da": 7284.55,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.0,
+   "score": 2100,
+   "pr": {
+    "Carrefour": [
+     7399.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-suave-la-virginia-doy-pack-170-g/p"
+    ],
+    "Vea": [
+     7590.0,
+     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
+    ],
+    "Jumbo": [
+     4225.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
+    ],
+    "Tuchanguito": [
+     7284.55,
+     "https://www.tuchanguito.com.ar/productos/cafe-la-virginia-suave-doy-pack-170gr/"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Chocolinas chocolate negro 258 g.",
+   "m": "Chocolinas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/396838/7790040142992_E02.jpg?v=638333189188000000",
+   "cadena": "Jumbo",
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/galletitas-negro-chocolinas-258-gr-2/p",
+   "referencia": 2850.0,
+   "precio_2da": 2450.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.8,
+   "score": 2092,
+   "pr": {
+    "Carrefour": [
+     2450.0,
+     "https://www.carrefour.com.ar/galletitas-chocolinas-chocolate-negro-258-g-728637/p"
+    ],
+    "Vea": [
+     2450.0,
+     "https://www.vea.com.ar/galletitas-negro-chocolinas-258-gr-2/p"
+    ],
+    "Jumbo": [
+     1425.0,
+     "https://www.jumbo.com.ar/galletitas-negro-chocolinas-258-gr-2/p"
+    ],
+    "ChangoMás": [
+     2649.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-chocolate-negro-258gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Espresso Equilibrado 52 Grs x 10 Un La Virginia",
+   "m": "LA VIRGINIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895847/Caf-En-Capsulas-Equilibrio-La-Virginia-52-Gr-1-886791.jpg?v=639046065832530000",
+   "cadena": "Jumbo",
+   "precio": 4825.0,
+   "link": "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p",
+   "referencia": 8400.0,
+   "precio_2da": 9469.0,
+   "baja_pct": 42.6,
+   "brecha_pct": 49.0,
+   "score": 2087,
+   "pr": {
+    "Vea": [
+     9599.0,
+     "https://www.vea.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
+    ],
+    "Jumbo": [
+     4825.0,
+     "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
+    ],
+    "Carrefour": [
+     9469.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-equilibrado-caja-x-10-uni-693818/p"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido Bonafide Intenso 200 grs",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727750/7792360097754_02.jpg?v=638948499487600000",
+   "cadena": "Jumbo",
+   "precio": 6100.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p",
+   "referencia": 11900.0,
+   "precio_2da": 10599.0,
+   "baja_pct": 48.7,
+   "brecha_pct": 42.4,
+   "score": 2069,
+   "pr": {
+    "Carrefour": [
+     11549.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-intenso-200-grs-768212/p"
+    ],
+    "Vea": [
+     10599.0,
+     "https://www.vea.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
+    ],
+    "Jumbo": [
+     6100.0,
+     "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido Bonafide Equilibrado 200 grs",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727749/7792360097747_02.jpg?v=638948497308030000",
+   "cadena": "Jumbo",
+   "precio": 6100.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p",
+   "referencia": 11900.0,
+   "precio_2da": 10599.0,
+   "baja_pct": 48.7,
+   "brecha_pct": 42.4,
+   "score": 2069,
+   "pr": {
+    "Carrefour": [
+     11549.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-equilibrado-200-grs-768211/p"
+    ],
+    "Vea": [
+     10599.0,
+     "https://www.vea.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
+    ],
+    "Jumbo": [
+     6100.0,
+     "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Maná de vainilla livianas x3 408 grs",
+   "m": "Maná",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/650785/7790040137844_E02.jpg.jpg?v=638815290007400000",
+   "cadena": "Jumbo",
+   "precio": 1875.0,
+   "link": "https://www.jumbo.com.ar/galletitas-vainilla-mana-408-gr-2/p",
+   "referencia": 3550.0,
+   "precio_2da": 3329.0,
+   "baja_pct": 47.2,
+   "brecha_pct": 43.7,
+   "score": 2061,
+   "pr": {
+    "Carrefour": [
+     3329.0,
+     "https://www.carrefour.com.ar/galletitas-mana-de-vainilla-livianas-x3-408-grs-704899/p"
+    ],
+    "Vea": [
+     3350.0,
+     "https://www.vea.com.ar/galletitas-vainilla-mana-408-gr-2/p"
+    ],
+    "Jumbo": [
+     1875.0,
+     "https://www.jumbo.com.ar/galletitas-vainilla-mana-408-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cápsulas de café Morenita Colombia caja x 10 uni",
+   "m": "Morenita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/685573/7790170903692_01.jpg?v=638895634537370000",
+   "cadena": "Jumbo",
+   "precio": 4800.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p",
+   "referencia": 9100.0,
+   "precio_2da": 8499.0,
+   "baja_pct": 47.3,
+   "brecha_pct": 43.5,
+   "score": 2057,
+   "pr": {
+    "Carrefour": [
+     8499.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-morenita-colombia-caja-x-10-uni-693821/p"
+    ],
+    "Vea": [
+     9599.0,
+     "https://www.vea.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p"
+    ],
+    "Jumbo": [
+     4800.0,
+     "https://www.jumbo.com.ar/cafe-la-morenita-capsulas-colombia-x52g/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia especial clásico 100 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324402/7790150100783_01.jpg?v=638197801281470000",
+   "cadena": "Jumbo",
+   "precio": 3150.0,
+   "link": "https://www.jumbo.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p",
+   "referencia": 6150.0,
+   "precio_2da": 5399.0,
+   "baja_pct": 48.8,
+   "brecha_pct": 41.7,
+   "score": 2032,
+   "pr": {
+    "Carrefour": [
+     5399.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-especial-clasico-100-g/p"
+    ],
+    "Vea": [
+     5399.0,
+     "https://www.vea.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p"
+    ],
+    "Jumbo": [
+     3150.0,
+     "https://www.jumbo.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p"
+    ],
+    "ChangoMás": [
+     6089.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-clasico-la-virginia-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido La Virginia intenso 250 grs",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651136/7790150037201_01.jpg?v=638816140596500000",
+   "cadena": "Jumbo",
+   "precio": 6850.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p",
+   "referencia": 13700.0,
+   "precio_2da": 11499.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.4,
+   "score": 2021,
+   "pr": {
+    "Carrefour": [
+     13779.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-intenso-250-grs-760591/p"
+    ],
+    "Vea": [
+     11499.0,
+     "https://www.vea.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
+    ],
+    "Jumbo": [
+     6850.0,
+     "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
+    ],
+    "Comodín": [
+     11943.39,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-intenso-250gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café molido tostado Colombia Morenita 500 grs",
+   "m": "Morenita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324474/7790170949072_01.jpg?v=639135865383630000",
+   "cadena": "Jumbo",
+   "precio": 13725.0,
+   "link": "https://www.jumbo.com.ar/cafe-morenita-molido-colombia-500g-2/p",
+   "referencia": 27450.0,
+   "precio_2da": 22999.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.3,
+   "score": 2016,
+   "pr": {
+    "Carrefour": [
+     22999.0,
+     "https://www.carrefour.com.ar/cafe-molido-tostado-colombia-morenita-500-grs-692784/p"
+    ],
+    "Vea": [
+     22999.0,
+     "https://www.vea.com.ar/cafe-morenita-molido-colombia-500g-2/p"
+    ],
+    "Jumbo": [
+     13725.0,
+     "https://www.jumbo.com.ar/cafe-morenita-molido-colombia-500g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cápsulas de café cappuccino La Virginia x 8 uni",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324287/7790150090145_E01.jpg?v=638197800858170000",
+   "cadena": "Jumbo",
+   "precio": 7200.0,
+   "link": "https://www.jumbo.com.ar/capsulas-dgc-cappuccino-la-virginia-116-gr/p",
+   "referencia": 11880.0,
+   "precio_2da": 14599.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 50.7,
+   "score": 1997,
+   "pr": {
+    "Carrefour": [
+     14599.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-cappuccino-la-virginia-x-8-uni-699021/p"
+    ],
+    "Vea": [
+     14599.0,
+     "https://www.vea.com.ar/capsulas-dgc-cappuccino-la-virginia-116-gr/p"
+    ],
+    "Jumbo": [
+     7200.0,
+     "https://www.jumbo.com.ar/capsulas-dgc-cappuccino-la-virginia-116-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido La Virginia 500 grs",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324283/7790150037072_01.jpg?v=639135861693630000",
+   "cadena": "Jumbo",
+   "precio": 12700.0,
+   "link": "https://www.jumbo.com.ar/cafe-expresso-molido-tostado-la-virginia-500-gr/p",
+   "referencia": 25400.0,
+   "precio_2da": 20899.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.2,
+   "score": 1962,
+   "pr": {
+    "Carrefour": [
+     20899.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-500-grs-692783/p"
+    ],
+    "Vea": [
+     20899.0,
+     "https://www.vea.com.ar/cafe-expresso-molido-tostado-la-virginia-500-gr/p"
+    ],
+    "Jumbo": [
+     12700.0,
+     "https://www.jumbo.com.ar/cafe-expresso-molido-tostado-la-virginia-500-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo La Virginia tostado frasco 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324383/7790150150252_01.jpg?v=638197801210470000",
+   "cadena": "Jumbo",
+   "precio": 7625.0,
+   "link": "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p",
+   "referencia": 15250.0,
+   "precio_2da": 12299.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.0,
+   "score": 1900,
+   "pr": {
+    "Carrefour": [
+     12299.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-tostado-frasco-170-g-696403/p"
+    ],
+    "Vea": [
+     12299.0,
+     "https://www.vea.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p"
+    ],
+    "Jumbo": [
+     7625.0,
+     "https://www.jumbo.com.ar/cafe-la-virginia-seleccion-tostado-x170g/p"
+    ],
+    "Comodín": [
+     13459.29,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-s-granulado-170gr/p"
+    ],
+    "ChangoMás": [
+     14119.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-la-virginia-seleccion-tostado-170g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Saladas Sabor Queso 250 Grs Kesitas",
+   "m": "KESITAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/827539/Galletitas-Kesitas-250-Gr-1-1019773.jpg?v=638558014916870000",
+   "cadena": "Jumbo",
+   "precio": 1925.0,
+   "link": "https://www.jumbo.com.ar/galletitas-kesitas-250-gr/p",
+   "referencia": 3450.0,
+   "precio_2da": 3350.0,
+   "baja_pct": 44.2,
+   "brecha_pct": 42.5,
+   "score": 1880,
+   "pr": {
+    "Vea": [
+     3350.0,
+     "https://www.vea.com.ar/galletitas-kesitas-250-gr/p"
+    ],
+    "Jumbo": [
+     1925.0,
+     "https://www.jumbo.com.ar/galletitas-kesitas-250-gr/p"
+    ],
+    "ChangoMás": [
+     3369.0,
+     "https://www.masonline.com.ar/galletitas-snacks-kesitas-queso-250-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas sabor original Rex 225 g.",
+   "m": "Rex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905751/7790040144125_E01.jpg?v=639202557100000000",
+   "cadena": "Jumbo",
+   "precio": 1900.0,
+   "link": "https://www.jumbo.com.ar/galletitas-rex-225-gr/p",
+   "referencia": 3400.0,
+   "precio_2da": 3300.0,
+   "baja_pct": 44.1,
+   "brecha_pct": 42.4,
+   "score": 1872,
+   "pr": {
+    "Carrefour": [
+     3369.0,
+     "https://www.carrefour.com.ar/galletitas-sabor-original-rex-225-g-745254/p"
+    ],
+    "Vea": [
+     3300.0,
+     "https://www.vea.com.ar/galletitas-rex-225-gr/p"
+    ],
+    "Jumbo": [
+     1900.0,
+     "https://www.jumbo.com.ar/galletitas-rex-225-gr/p"
+    ],
+    "ChangoMás": [
+     3369.0,
+     "https://www.masonline.com.ar/galletitas-snacks-rex-sabor-original-225-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Cabernet Sauvignon Emilia 750 ml",
+   "m": "Emilia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822151/7790070760760_02.jpg?v=639083181690030000",
+   "cadena": "Jumbo",
+   "precio": 4375.0,
+   "link": "https://www.jumbo.com.ar/vino-emilia-cabernet-sauvignon-750cc/p",
+   "referencia": 7291.68,
+   "precio_2da": 8199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.6,
+   "score": 1866,
+   "pr": {
+    "Carrefour": [
+     8280.0,
+     "https://www.carrefour.com.ar/vino-tinto-emilia-cabernet-sauvignon-750-cc-721780/p"
+    ],
+    "Jumbo": [
+     4375.0,
+     "https://www.jumbo.com.ar/vino-emilia-cabernet-sauvignon-750cc/p"
+    ],
+    "ChangoMás": [
+     8199.0,
+     "https://www.masonline.com.ar/vino-tinto-emilia-cabernet-sauvignon-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos Penne Rigate N°48 500 Grs Matarazzo",
+   "m": "MATARAZZO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/793487/Fideos-Matarazzo-Penne-X500g-1-994807.jpg?v=638303241803130000",
+   "cadena": "Jumbo",
+   "precio": 1019.4,
+   "link": "https://www.jumbo.com.ar/fideos-penne-x-500-gr-matarazzo/p",
+   "referencia": 1699.0,
+   "precio_2da": 1862.69,
+   "baja_pct": 40.0,
+   "brecha_pct": 45.3,
+   "score": 1811,
+   "pr": {
+    "Vea": [
+     1890.0,
+     "https://www.vea.com.ar/fideos-penne-x-500-gr-matarazzo/p"
+    ],
+    "Jumbo": [
+     1019.4,
+     "https://www.jumbo.com.ar/fideos-penne-x-500-gr-matarazzo/p"
+    ],
+    "Comodín": [
+     1862.69,
+     "https://www.comodinencasa.com.ar/fideo-matarazzo-penne-rigate-x-500-gr/p"
+    ],
+    "ChangoMás": [
+     2189.0,
+     "https://www.masonline.com.ar/fideos-matarazzo-penne-rigate-500-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café molido torrado intenso Sensaciones 500 grs",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204608/7792360002062_02.jpg?v=637594529975970000",
+   "cadena": "Jumbo",
+   "precio": 7450.0,
+   "link": "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p",
+   "referencia": 14350.0,
+   "precio_2da": 11599.0,
+   "baja_pct": 48.1,
+   "brecha_pct": 35.8,
+   "score": 1720,
+   "pr": {
+    "Carrefour": [
+     12210.0,
+     "https://www.carrefour.com.ar/cafe-molido-torrado-intenso-sensaciones-500-grs-103923/p"
+    ],
+    "Vea": [
+     11599.0,
+     "https://www.vea.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p"
+    ],
+    "Jumbo": [
+     7450.0,
+     "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p"
+    ],
+    "Comodín": [
+     12532.69,
+     "https://www.comodinencasa.com.ar/cafe-bonafide-sensaciones-intenso-500gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Arrocitas 3 cereales 101 g.",
+   "m": "Arrocitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176694/7790538009516_02.jpg?v=637468574018000000",
+   "cadena": "Jumbo",
+   "precio": 1000.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-gr/p",
+   "referencia": 2000.0,
+   "precio_2da": 1520.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.2,
+   "score": 1711,
+   "pr": {
+    "Carrefour": [
+     1520.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-g/p"
+    ],
+    "Vea": [
+     1950.0,
+     "https://www.vea.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-gr/p"
+    ],
+    "Jumbo": [
+     1000.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-gr/p"
+    ],
+    "ChangoMás": [
+     2049.0,
+     "https://www.masonline.com.ar/galleta-arroz-3-cereales-arrocitas-101gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Arrocitas sésamo y lino sin sal 101 g.",
+   "m": "Arrocitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176699/7790538009578_02.jpg?v=637468574030230000",
+   "cadena": "Jumbo",
+   "precio": 1000.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p",
+   "referencia": 2000.0,
+   "precio_2da": 1520.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.2,
+   "score": 1711,
+   "pr": {
+    "Carrefour": [
+     1520.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-arrocitas-sesamo-y-lino-sin-sal-101-g/p"
+    ],
+    "Vea": [
+     1950.0,
+     "https://www.vea.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p"
+    ],
+    "Jumbo": [
+     1000.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Cappuccino con Azúcar 125 Grs La Morenita",
+   "m": "LA MORENITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/670982/Caf-Cappuccino-Morenita-X125g-1-878786.jpg?v=637698226469800000",
+   "cadena": "Jumbo",
+   "precio": 2425.0,
+   "link": "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p",
+   "referencia": 4850.0,
+   "precio_2da": 3599.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.6,
+   "score": 1631,
+   "pr": {
+    "Vea": [
+     3599.0,
+     "https://www.vea.com.ar/cafe-cappuccino-morenita-x125g/p"
+    ],
+    "Jumbo": [
+     2425.0,
+     "https://www.jumbo.com.ar/cafe-cappuccino-morenita-x125g/p"
+    ],
+    "Carrefour": [
+     4039.0,
+     "https://www.carrefour.com.ar/cappuccino-instantaneo-morenita-doypack-125-g-690048/p"
+    ],
+    "Comodín": [
+     4239.09,
+     "https://www.comodinencasa.com.ar/cappuccino-la-morenita-inst-dp-125gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro adulto Sabrositos carne, cereal y vegetales 3 Kg",
+   "m": "Sabrositos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828350/7798073177424_01.jpg?v=639090091701600000",
+   "cadena": "Jumbo",
+   "precio": 4680.0,
+   "link": "https://www.jumbo.com.ar/alimento-sabrositos-mix-x3kg-2/p",
+   "referencia": 7800.0,
+   "precio_2da": 7843.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.3,
+   "score": 1613,
+   "pr": {
+    "Carrefour": [
+     7843.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-adulto-sabrositos-carne-cereal-y-vegetales-3-kg-690492/p"
+    ],
+    "Vea": [
+     7973.0,
+     "https://www.vea.com.ar/alimento-sabrositos-mix-x3kg-2/p"
+    ],
+    "Jumbo": [
+     4680.0,
+     "https://www.jumbo.com.ar/alimento-sabrositos-mix-x3kg-2/p"
     ]
    }
   },
@@ -82,29 +1524,64 @@
    }
   },
   {
-   "n": "Cera Depilatoria Vegetal en Perlas 100 Grs Millefiori",
-   "m": "MILLEFIORI",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835471/Millefiori-Cera-Recarga-Vegetal-100G-Cera-Depilatoria-Millefiori-Vegetal-100g-1-1025358.jpg?v=638623680813300000",
-   "cadena": "Carrefour",
-   "precio": 2795.0,
-   "link": "https://www.carrefour.com.ar/cera-recarga-vegetal-millefiori-100-g-746810/p",
-   "referencia": 4300.0,
-   "precio_2da": 5050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.7,
-   "score": 1563,
+   "n": "Tostada de arroz Molinos ala garbanzo maíz 150 g.",
+   "m": "Molinos Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/467143/7791120102868_01.jpg?v=638418969769130000",
+   "cadena": "Jumbo",
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/tostadas-veggie-molinos-ala-150-gr/p",
+   "referencia": 2062.5,
+   "precio_2da": 2600.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 47.1,
+   "score": 1571,
    "pr": {
-    "Jumbo": [
-     5050.0,
-     "https://www.jumbo.com.ar/cera-depilatoria-millefiori-vegetal-100g/p"
-    ],
     "Carrefour": [
-     2795.0,
-     "https://www.carrefour.com.ar/cera-recarga-vegetal-millefiori-100-g-746810/p"
+     2600.0,
+     "https://www.carrefour.com.ar/tostada-de-arroz-molinos-ala-garbanzo-maiz-150-g-736216/p"
+    ],
+    "Vea": [
+     2600.0,
+     "https://www.vea.com.ar/tostadas-veggie-molinos-ala-150-gr/p"
+    ],
+    "Jumbo": [
+     1375.0,
+     "https://www.jumbo.com.ar/tostadas-veggie-molinos-ala-150-gr/p"
     ],
     "Comodín": [
-     5318.59,
-     "https://www.comodinencasa.com.ar/cera-millefiori-recarga-vegetal-100gr/p"
+     2616.69,
+     "https://www.comodinencasa.com.ar/tostadas-de-arroz-molinos-ala-veggi-150g/p"
+    ],
+    "ChangoMás": [
+     2949.0,
+     "https://www.masonline.com.ar/tostadas-de-arroz-molinos-ala-veggie-150-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
+   "cadena": "Jumbo",
+   "precio": 3600.0,
+   "link": "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
+   "referencia": 6000.0,
+   "precio_2da": 5899.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.0,
+   "score": 1559,
+   "pr": {
+    "Vea": [
+     5899.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    ],
+    "Jumbo": [
+     3600.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    ],
+    "Carrefour": [
+     5899.0,
+     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
     ]
    }
   },
@@ -136,29 +1613,497 @@
    }
   },
   {
-   "n": "Papas fritas Mc Cain tradicional 400 g.",
-   "m": "Mc Cain",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845811/7797906000700_01.jpg?v=639111872088930000",
-   "cadena": "Vea",
-   "precio": 2850.0,
-   "link": "https://www.vea.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p",
-   "referencia": 4685.0,
-   "precio_2da": 4685.0,
-   "baja_pct": 39.2,
-   "brecha_pct": 39.2,
-   "score": 1534,
+   "n": "Toallitas Femeninas Xtra Noche Suave x 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791979/Always-Xtra-Triple-Protecci-n-Noche-Suave-8x12itsrp-Toa-Fem-Always-Xtra-Noche-Suave-8u-1-989512.jpg?v=638291901774930000",
+   "cadena": "Jumbo",
+   "precio": 3180.0,
+   "link": "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p",
+   "referencia": 5300.0,
+   "precio_2da": 5199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1553,
    "pr": {
-    "Carrefour": [
-     4685.0,
-     "https://www.carrefour.com.ar/papas-fritas-mc-cain-tradicional-400-g/p"
-    ],
     "Vea": [
-     2850.0,
-     "https://www.vea.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p"
+     5199.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p"
     ],
     "Jumbo": [
+     3180.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p"
+    ],
+    "Comodín": [
+     5519.29,
+     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noctunas-8un/p"
+    ],
+    "Carrefour": [
+     5199.0,
+     "https://www.carrefour.com.ar/always-xtra-suave-toallas-nocturnas-8-uni-726075/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Sabrositos cachorro carne, pollo y vegetales 1,5 Kg",
+   "m": "Sabrositos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828347/7798073177370_01.jpg?v=639090091114330000",
+   "cadena": "Jumbo",
+   "precio": 3060.0,
+   "link": "https://www.jumbo.com.ar/sabrositos-cachorro-mix-carnes-cereales-y-vegetales-x1/p",
+   "referencia": 5100.0,
+   "precio_2da": 5000.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1552,
+   "pr": {
+    "Carrefour": [
      5000.0,
-     "https://www.jumbo.com.ar/mc-cain-papas-fritas-corte-tradicional-x-400-gr/p"
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-sabrositos-cachorro-carne-pollo-y-vegetales-15-kg-689090/p"
+    ],
+    "Vea": [
+     5000.0,
+     "https://www.vea.com.ar/sabrositos-cachorro-mix-carnes-cereales-y-vegetales-x1/p"
+    ],
+    "Jumbo": [
+     3060.0,
+     "https://www.jumbo.com.ar/sabrositos-cachorro-mix-carnes-cereales-y-vegetales-x1/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Sabrositos mix c/p/c 8 kg",
+   "m": "Sabrositos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828346/7798073177332_01.jpg?v=639090090965970000",
+   "cadena": "Jumbo",
+   "precio": 11730.0,
+   "link": "https://www.jumbo.com.ar/alimento-sabrositos-perro-mix-carne-pollo-y-cerdo-8kg/p",
+   "referencia": 19550.0,
+   "precio_2da": 19050.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.4,
+   "score": 1537,
+   "pr": {
+    "Carrefour": [
+     21219.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-sabrositos-mix-c-p-c-8-kg-683895/p"
+    ],
+    "Vea": [
+     19050.0,
+     "https://www.vea.com.ar/alimento-sabrositos-perro-mix-carne-pollo-y-cerdo-8kg/p"
+    ],
+    "Jumbo": [
+     11730.0,
+     "https://www.jumbo.com.ar/alimento-sabrositos-perro-mix-carne-pollo-y-cerdo-8kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Edulcorante Líquido con Stevia 400 Cc Chuker",
+   "m": "CHUKER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788528/Edulcorante-Chuker-Con-Stevia-Liquido-X400ml-1-972868.jpg?v=638253993794600000",
+   "cadena": "Jumbo",
+   "precio": 4680.0,
+   "link": "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p",
+   "referencia": 7800.0,
+   "precio_2da": 7600.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.4,
+   "score": 1537,
+   "pr": {
+    "Vea": [
+     7690.0,
+     "https://www.vea.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
+    ],
+    "Jumbo": [
+     4680.0,
+     "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
+    ],
+    "Carrefour": [
+     7600.0,
+     "https://www.carrefour.com.ar/edulcorante-liquido-chuker-stevia-400-cc-719371/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para gato Cat chow adulto carne y pollo 3 kg",
+   "m": "Cat Chow",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/241151/8445290068705_01.jpg?v=637855512920900000",
+   "cadena": "Jumbo",
+   "precio": 13260.0,
+   "link": "https://www.jumbo.com.ar/alimento-gatos-cat-chow-adulto-carne-pollo-3-kg/p",
+   "referencia": 22100.0,
+   "precio_2da": 21500.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1533,
+   "pr": {
+    "Carrefour": [
+     21500.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-gato-cat-chow-adulto-carne-y-pollo-3-kg-693218/p"
+    ],
+    "Vea": [
+     21500.0,
+     "https://www.vea.com.ar/alimento-gatos-cat-chow-adulto-carne-pollo-3-kg/p"
+    ],
+    "Jumbo": [
+     13260.0,
+     "https://www.jumbo.com.ar/alimento-gatos-cat-chow-adulto-carne-pollo-3-kg/p"
+    ],
+    "Comodín": [
+     23028.79,
+     "https://www.comodinencasa.com.ar/alim-cchow-gato-adulto-carne-pollo-3kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para gato Cat chow adulto pescado y pollo 3 kg",
+   "m": "Cat Chow",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/241127/8445290067401_01.jpg?v=637855512638370000",
+   "cadena": "Jumbo",
+   "precio": 13260.0,
+   "link": "https://www.jumbo.com.ar/alimento-gatos-cat-chow-adulto-pescado-pollo-3-kg/p",
+   "referencia": 22100.0,
+   "precio_2da": 21500.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1533,
+   "pr": {
+    "Carrefour": [
+     21500.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-gato-cat-chow-adulto-pescado-y-pollo-3-kg-693198/p"
+    ],
+    "Vea": [
+     21500.0,
+     "https://www.vea.com.ar/alimento-gatos-cat-chow-adulto-pescado-pollo-3-kg/p"
+    ],
+    "Jumbo": [
+     13260.0,
+     "https://www.jumbo.com.ar/alimento-gatos-cat-chow-adulto-pescado-pollo-3-kg/p"
+    ],
+    "Comodín": [
+     23028.79,
+     "https://www.comodinencasa.com.ar/alim-cchow-gato-adulto-pescado-pollo-3kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Purina One 2 kg. cachorro",
+   "m": "Purina",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/494076/7613287224897_01.jpg?v=638469736567000000",
+   "cadena": "Jumbo",
+   "precio": 10770.0,
+   "link": "https://www.jumbo.com.ar/alimento-perros-purina-one-cachorro-2-kg/p",
+   "referencia": 17950.0,
+   "precio_2da": 17450.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1531,
+   "pr": {
+    "Carrefour": [
+     17450.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-cachorro-669878/p"
+    ],
+    "Vea": [
+     17450.0,
+     "https://www.vea.com.ar/alimento-perros-purina-one-cachorro-2-kg/p"
+    ],
+    "Jumbo": [
+     10770.0,
+     "https://www.jumbo.com.ar/alimento-perros-purina-one-cachorro-2-kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para gato Felix gatito megamix 1 kg",
+   "m": "Félix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/275971/8445290572851_01.jpg?v=638127573446000000",
+   "cadena": "Jumbo",
+   "precio": 4320.0,
+   "link": "https://www.jumbo.com.ar/alimento-felix-para-gatitos-megamix-1kg/p",
+   "referencia": 7200.0,
+   "precio_2da": 7000.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1531,
+   "pr": {
+    "Carrefour": [
+     7000.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-gato-felix-gatito-megamix-1-kg-711055/p"
+    ],
+    "Vea": [
+     7000.0,
+     "https://www.vea.com.ar/alimento-felix-para-gatitos-megamix-1kg/p"
+    ],
+    "Jumbo": [
+     4320.0,
+     "https://www.jumbo.com.ar/alimento-felix-para-gatitos-megamix-1kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento Gatos Cat Chow Esterilizados Pescado Carne 3 Kg",
+   "m": "CAT CHOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817928/Alimento-Gatos-Cat-Chow-Esterilizados-Pescado-Carne-3k-1-882644.jpg?v=638481881041200000",
+   "cadena": "Jumbo",
+   "precio": 15150.0,
+   "link": "https://www.jumbo.com.ar/alimento-gatos-cat-chow-esterilizados-pescado-carne-3-kg/p",
+   "referencia": 25250.0,
+   "precio_2da": 24500.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1527,
+   "pr": {
+    "Vea": [
+     24500.0,
+     "https://www.vea.com.ar/alimento-gatos-cat-chow-esterilizados-pescado-carne-3-kg/p"
+    ],
+    "Jumbo": [
+     15150.0,
+     "https://www.jumbo.com.ar/alimento-gatos-cat-chow-esterilizados-pescado-carne-3-kg/p"
+    ],
+    "ChangoMás": [
+     25949.0,
+     "https://www.masonline.com.ar/alimento-para-gato-esterilizado-cat-chow-pescado-carne-3-kg-2/p"
+    ],
+    "Comodín": [
+     26297.49,
+     "https://www.comodinencasa.com.ar/alim-cchow-gato-esterili-pescad-carne-3k/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Dog Chow cachorro gran comienzo 1.5 kg",
+   "m": "Dog Chow",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/461131/8445290944184_01.jpg?v=638415413165370000",
+   "cadena": "Jumbo",
+   "precio": 5040.0,
+   "link": "https://www.jumbo.com.ar/alimento-dog-chow-cachorros-mediano-y-grande-1-5-kg/p",
+   "referencia": 8400.0,
+   "precio_2da": 8150.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1526,
+   "pr": {
+    "Carrefour": [
+     8150.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-dog-chow-cachorro-gran-comienzo-15-kg-735936/p"
+    ],
+    "Vea": [
+     8150.0,
+     "https://www.vea.com.ar/alimento-dog-chow-cachorros-mediano-y-grande-1-5-kg/p"
+    ],
+    "Jumbo": [
+     5040.0,
+     "https://www.jumbo.com.ar/alimento-dog-chow-cachorros-mediano-y-grande-1-5-kg/p"
+    ],
+    "ChangoMás": [
+     8629.0,
+     "https://www.masonline.com.ar/alimento-para-perros-cachorros-dog-chow-sabor-a-carne-pollo-verduras-y-leche-1-5-kg-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para gato Felix adultos megamix 1 kg",
+   "m": "Félix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/275977/8445290572905_01.jpg?v=638127573511400000",
+   "cadena": "Jumbo",
+   "precio": 3930.0,
+   "link": "https://www.jumbo.com.ar/alimento-felix-adultos-gatos-megamix-1kg/p",
+   "referencia": 6550.0,
+   "precio_2da": 6350.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1524,
+   "pr": {
+    "Carrefour": [
+     6350.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-gato-felix-adultos-megamix-1-kg-711059/p"
+    ],
+    "Vea": [
+     6350.0,
+     "https://www.vea.com.ar/alimento-felix-adultos-gatos-megamix-1kg/p"
+    ],
+    "Jumbo": [
+     3930.0,
+     "https://www.jumbo.com.ar/alimento-felix-adultos-gatos-megamix-1kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Pedigree adultos CPC 8 kg",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204239/7797453972499_01.jpg?v=637588508646170000",
+   "cadena": "Jumbo",
+   "precio": 19770.0,
+   "link": "https://www.jumbo.com.ar/pedigree-adulto-carne-pollo-y-cerdo-8-kg/p",
+   "referencia": 32950.0,
+   "precio_2da": 31900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1521,
+   "pr": {
+    "Carrefour": [
+     31900.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-pedigree-adultos-cpc-8-kg-669626/p"
+    ],
+    "Vea": [
+     31900.0,
+     "https://www.vea.com.ar/pedigree-adulto-carne-pollo-y-cerdo-8-kg/p"
+    ],
+    "Jumbo": [
+     19770.0,
+     "https://www.jumbo.com.ar/pedigree-adulto-carne-pollo-y-cerdo-8-kg/p"
+    ],
+    "ChangoMás": [
+     32339.0,
+     "https://www.masonline.com.ar/alimento-pedigree-adulto-carne-pollo-y-cer-8kg-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas de arroz Molinos Ala integrales sin sal 150 g.",
+   "m": "Molinos Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/206115/7791120098116_01.jpg?v=637607572075730000",
+   "cadena": "Jumbo",
+   "precio": 1300.0,
+   "link": "https://www.jumbo.com.ar/tostadas-de-arroz-integral-sin-sal-molinas-ala-150-gr/p",
+   "referencia": 1950.0,
+   "precio_2da": 2386.79,
+   "baja_pct": 33.3,
+   "brecha_pct": 45.5,
+   "score": 1518,
+   "pr": {
+    "Carrefour": [
+     2869.0,
+     "https://www.carrefour.com.ar/tostadas-de-arroz-molinos-ala-integrales-sin-sal-150-g/p"
+    ],
+    "Vea": [
+     2400.0,
+     "https://www.vea.com.ar/tostadas-de-arroz-integral-sin-sal-molinas-ala-150-gr/p"
+    ],
+    "Jumbo": [
+     1300.0,
+     "https://www.jumbo.com.ar/tostadas-de-arroz-integral-sin-sal-molinas-ala-150-gr/p"
+    ],
+    "Comodín": [
+     2386.79,
+     "https://www.comodinencasa.com.ar/tostad-arroz-molinos-ala-int-s-sal-150g/p"
+    ],
+    "ChangoMás": [
+     2689.0,
+     "https://www.masonline.com.ar/tostadas-arroz-integral-sin-sal-molinos-ala-150gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Sabrositos cachorro carne, pollo y vegetales 3 Kg",
+   "m": "Sabrositos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828348/7798073177387_01.jpg?v=639090091331300000",
+   "cadena": "Jumbo",
+   "precio": 6000.0,
+   "link": "https://www.jumbo.com.ar/sabrositos-cachorro-mix-carnes-cereales-y-vegetales/p",
+   "referencia": 10000.0,
+   "precio_2da": 9650.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1513,
+   "pr": {
+    "Carrefour": [
+     9650.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-sabrositos-cachorro-carne-pollo-y--vegetales-3-kg-689093/p"
+    ],
+    "Vea": [
+     9650.0,
+     "https://www.vea.com.ar/sabrositos-cachorro-mix-carnes-cereales-y-vegetales/p"
+    ],
+    "Jumbo": [
+     6000.0,
+     "https://www.jumbo.com.ar/sabrositos-cachorro-mix-carnes-cereales-y-vegetales/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para gato Sabrositos mix p/v/c 1 kg.",
+   "m": "Sabrositos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828345/7798073177301_01.jpg?v=639090090791730000",
+   "cadena": "Jumbo",
+   "precio": 2460.0,
+   "link": "https://www.jumbo.com.ar/alimento-sabrositos-gato-mix-p-c-v-1k/p",
+   "referencia": 4100.0,
+   "precio_2da": 3949.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1508,
+   "pr": {
+    "Carrefour": [
+     3949.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-gato-sabrositos-mix-p-v-c-1-kg-674703/p"
+    ],
+    "Vea": [
+     3950.0,
+     "https://www.vea.com.ar/alimento-sabrositos-gato-mix-p-c-v-1k/p"
+    ],
+    "Jumbo": [
+     2460.0,
+     "https://www.jumbo.com.ar/alimento-sabrositos-gato-mix-p-c-v-1k/p"
+    ]
+   }
+  },
+  {
+   "n": "Sabrositos Perro Mx Carne Pollo Ce 15k",
+   "m": "SABROSITOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918825/7798073177592.jpg?v=639173153308470000",
+   "cadena": "Jumbo",
+   "precio": 18660.0,
+   "link": "https://www.jumbo.com.ar/sabrositos-perro-mx-carne-pollo-ce-15k/p",
+   "referencia": 31100.0,
+   "precio_2da": 29900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1504,
+   "pr": {
+    "Vea": [
+     29900.0,
+     "https://www.vea.com.ar/sabrositos-perro-mx-carne-pollo-ce-15k/p"
+    ],
+    "Jumbo": [
+     18660.0,
+     "https://www.jumbo.com.ar/sabrositos-perro-mx-carne-pollo-ce-15k/p"
+    ],
+    "ChangoMás": [
+     33269.0,
+     "https://www.masonline.com.ar/alimento-para-perros-adultos-sabrositos-sabor-carne-pollo-y-cerdo-16-5-kg-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento para Perros Seco Saborizado Adulto Mini y Pequeño 3 Kg Dog Chow",
+   "m": "DOG CHOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817935/Dog-Chow-Adulto-Minis-Y-Peque-os-X3kg-1-941835.jpg?v=638481881066900000",
+   "cadena": "Jumbo",
+   "precio": 8430.0,
+   "link": "https://www.jumbo.com.ar/alimento-dog-chow-adulto-minis-y-pequenos-3-kg/p",
+   "referencia": 14050.0,
+   "precio_2da": 13500.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1502,
+   "pr": {
+    "Vea": [
+     13500.0,
+     "https://www.vea.com.ar/alimento-dog-chow-adulto-minis-y-pequenos-3-kg/p"
+    ],
+    "Jumbo": [
+     8430.0,
+     "https://www.jumbo.com.ar/alimento-dog-chow-adulto-minis-y-pequenos-3-kg/p"
+    ],
+    "ChangoMás": [
+     14459.0,
+     "https://www.masonline.com.ar/alimento-para-perros-dog-chow-adultos-minis-y-pequenos-3kg-2/p"
+    ],
+    "Carrefour": [
+     13500.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-dog-chow-mini-sml-triple-protein-6-ar-3-kg-752006/p"
     ]
    }
   }
