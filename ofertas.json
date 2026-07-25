@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-25",
- "actualizado": "2026-07-25 13:19",
+ "actualizado": "2026-07-25 17:12",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-07-24",
   "2026-07-25"
  ],
- "total": 64,
+ "total": 65,
  "ofertas": [
   {
    "n": "Galletitas crackers Club Social sabor jamón x6 23.5 grs",
@@ -132,6 +132,33 @@
     "ChangoMás": [
      6389.0,
      "https://www.masonline.com.ar/vino-tinto-sexy-fish-cabernet-franc-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostaditas de arroz Crackines 120 g. sin TACC",
+   "m": "Crackines",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/183342/7798200050019_02.jpg?v=637468590679930000",
+   "cadena": "Jumbo",
+   "precio": 1175.0,
+   "link": "https://www.jumbo.com.ar/tostaditas-de-arroz-libre-de-gluten-120-gr-crackines/p",
+   "referencia": 2350.0,
+   "precio_2da": 2250.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.8,
+   "score": 2389,
+   "pr": {
+    "Carrefour": [
+     2250.0,
+     "https://www.carrefour.com.ar/tostaditas-de-arroz-crackines-120-g-sin-tacc/p"
+    ],
+    "Vea": [
+     2250.0,
+     "https://www.vea.com.ar/tostaditas-de-arroz-libre-de-gluten-120-gr-crackines/p"
+    ],
+    "Jumbo": [
+     1175.0,
+     "https://www.jumbo.com.ar/tostaditas-de-arroz-libre-de-gluten-120-gr-crackines/p"
     ]
    }
   },
@@ -437,37 +464,6 @@
    }
   },
   {
-   "n": "Galletas Secas Sabor Chips de Chocolate 50 Grs Pepitos",
-   "m": "PEPITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803316/Galletitas-Pepitos-Mini-X50g-1-972235.jpg?v=638379382821530000",
-   "cadena": "Jumbo",
-   "precio": 625.0,
-   "link": "https://www.jumbo.com.ar/galletitas-mini-pepitos-con-chips-de-chocolate-50-gr-2/p",
-   "referencia": 1250.0,
-   "precio_2da": 1139.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.1,
-   "score": 2256,
-   "pr": {
-    "Vea": [
-     1150.0,
-     "https://www.vea.com.ar/galletitas-mini-pepitos-con-chips-de-chocolate-50-gr-2/p"
-    ],
-    "Jumbo": [
-     625.0,
-     "https://www.jumbo.com.ar/galletitas-mini-pepitos-con-chips-de-chocolate-50-gr-2/p"
-    ],
-    "ChangoMás": [
-     1199.0,
-     "https://www.masonline.com.ar/mini-pepitos-oreo-50g-2/p"
-    ],
-    "Carrefour": [
-     1139.0,
-     "https://www.carrefour.com.ar/galletitas-mini-pepitos-con-chips-de-chocolate-50-g-720553/p"
-    ]
-   }
-  },
-  {
    "n": "Vino tinto Syrah Malbec Callia 750 ml",
    "m": "Callia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821178/7798108834117_01.jpg?v=639083181347970000",
@@ -735,6 +731,37 @@
    }
   },
   {
+   "n": "Café descafeinado instantáneo La Virginia kalma 170 g.",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324292/7790150110386_01.jpg?v=638197800882230000",
+   "cadena": "Jumbo",
+   "precio": 7525.0,
+   "link": "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p",
+   "referencia": 14850.0,
+   "precio_2da": 13299.0,
+   "baja_pct": 49.3,
+   "brecha_pct": 43.4,
+   "score": 2142,
+   "pr": {
+    "Carrefour": [
+     13399.0,
+     "https://www.carrefour.com.ar/cafe-descafeinado-instantaneo-la-virginia-kalma-170-g-696400-696400/p"
+    ],
+    "Vea": [
+     13299.0,
+     "https://www.vea.com.ar/cafe-kalma-descafeinado-x170g-2/p"
+    ],
+    "Jumbo": [
+     7525.0,
+     "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p"
+    ],
+    "Comodín": [
+     15065.49,
+     "https://www.comodinencasa.com.ar/cafe-kalma-equilibrado-170gr/p"
+    ]
+   }
+  },
+  {
    "n": "Café Premium Sabor Caramel 51 Grs x 10 Un Starbucks",
    "m": "STARBUCKS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/906169/C-psulas-Caramel-51-Grs-Starbucks-1-1039057.jpg?v=639123178617000000",
@@ -874,33 +901,6 @@
     "Jumbo": [
      6100.0,
      "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido Bonafide Equilibrado 200 grs",
-   "m": "Bonafide",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727749/7792360097747_02.jpg?v=638948497308030000",
-   "cadena": "Jumbo",
-   "precio": 6100.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p",
-   "referencia": 11900.0,
-   "precio_2da": 10599.0,
-   "baja_pct": 48.7,
-   "brecha_pct": 42.4,
-   "score": 2069,
-   "pr": {
-    "Carrefour": [
-     11549.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-equilibrado-200-grs-768211/p"
-    ],
-    "Vea": [
-     10599.0,
-     "https://www.vea.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
-    ],
-    "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
     ]
    }
   },
@@ -1102,10 +1102,6 @@
     "Jumbo": [
      1900.0,
      "https://www.jumbo.com.ar/galletitas-rex-225-gr/p"
-    ],
-    "ChangoMás": [
-     3369.0,
-     "https://www.masonline.com.ar/galletitas-snacks-rex-sabor-original-225-g-2/p"
     ]
    }
   },
@@ -1130,13 +1126,13 @@
      1019.4,
      "https://www.jumbo.com.ar/fideos-penne-x-500-gr-matarazzo/p"
     ],
-    "ChangoMás": [
-     2189.0,
-     "https://www.masonline.com.ar/fideos-matarazzo-penne-rigate-500-g-2/p"
-    ],
     "Comodín": [
      1862.69,
      "https://www.comodinencasa.com.ar/fideo-matarazzo-penne-rigate-x-500-gr/p"
+    ],
+    "ChangoMás": [
+     2189.0,
+     "https://www.masonline.com.ar/fideos-matarazzo-penne-rigate-500-g-2/p"
     ]
    }
   },
@@ -1466,6 +1462,33 @@
     "Carrefour": [
      5199.0,
      "https://www.carrefour.com.ar/always-xtra-suave-toallas-nocturnas-8-uni-726075/p"
+    ]
+   }
+  },
+  {
+   "n": "Plato Hondo Transparente Vidrio Gema Durax",
+   "m": "SD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
+   "cadena": "Carrefour",
+   "precio": 1156.35,
+   "link": "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p",
+   "referencia": 1779.0,
+   "precio_2da": 2064.3,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.0,
+   "score": 1539,
+   "pr": {
+    "Vea": [
+     2064.3,
+     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
+    ],
+    "Jumbo": [
+     2064.3,
+     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
+    ],
+    "Carrefour": [
+     1156.35,
+     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
     ]
    }
   },
