@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-26",
- "actualizado": "2026-07-26 13:23",
+ "actualizado": "2026-07-26 14:41",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -271,6 +271,37 @@
    }
   },
   {
+   "n": "Café Molido Sensaciones Intenso 200 Grs Bonafide",
+   "m": "BONAFIDE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865773/Cafe-Bonafide-Sensaciones-Intenso-200g-1-1036975.jpg?v=638815593889870000",
+   "cadena": "Jumbo",
+   "precio": 3425.0,
+   "link": "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p",
+   "referencia": 6850.0,
+   "precio_2da": 6099.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.8,
+   "score": 2192,
+   "pr": {
+    "Vea": [
+     6099.0,
+     "https://www.vea.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
+    ],
+    "Jumbo": [
+     3425.0,
+     "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
+    ],
+    "ChangoMás": [
+     6489.0,
+     "https://www.masonline.com.ar/cafe-torrado-bonafide-suave-200-g/p"
+    ],
+    "Carrefour": [
+     6099.0,
+     "https://www.carrefour.com.ar/cafe-molido-torrado-bonafide-sensaciones-intenso-200-grs-755999/p"
+    ]
+   }
+  },
+  {
    "n": "Galletas de arroz Dos Hermanos slim salada 100 g.",
    "m": "Dos Hermanos",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/176672/7790503198696_02_1.jpg?v=637468573982270000",
@@ -329,6 +360,33 @@
     "Comodín": [
      15065.49,
      "https://www.comodinencasa.com.ar/cafe-kalma-equilibrado-170gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Molido Intenso 200 Grs Bonafide",
+   "m": "BONAFIDE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/880445/Caf-Tostado-Intenso-200-Grs-Bonafide-Caf-Tostado-Intenso-Bonafide-200-Gr-1-1045089.jpg?v=638912145848230000",
+   "cadena": "Jumbo",
+   "precio": 6100.0,
+   "link": "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p",
+   "referencia": 12200.0,
+   "precio_2da": 10599.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.4,
+   "score": 2122,
+   "pr": {
+    "Vea": [
+     10599.0,
+     "https://www.vea.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
+    ],
+    "Jumbo": [
+     6100.0,
+     "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
+    ],
+    "Carrefour": [
+     10599.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-intenso-200-grs-768212/p"
     ]
    }
   },
@@ -495,64 +553,6 @@
     "Jumbo": [
      1000.0,
      "https://www.jumbo.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café molido torrado Bonafide Sensaciones intenso 200 grs",
-   "m": "Bonafide",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/610727/7792360097600_02.jpg?v=638729828182900000",
-   "cadena": "Jumbo",
-   "precio": 3425.0,
-   "link": "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p",
-   "referencia": 5576.25,
-   "precio_2da": 6099.0,
-   "baja_pct": 38.6,
-   "brecha_pct": 43.8,
-   "score": 1691,
-   "pr": {
-    "Carrefour": [
-     6099.0,
-     "https://www.carrefour.com.ar/cafe-molido-torrado-bonafide-sensaciones-intenso-200-grs-755999/p"
-    ],
-    "Vea": [
-     6099.0,
-     "https://www.vea.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
-    ],
-    "Jumbo": [
-     3425.0,
-     "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
-    ],
-    "ChangoMás": [
-     6489.0,
-     "https://www.masonline.com.ar/cafe-torrado-bonafide-suave-200-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido Bonafide Intenso 200 grs",
-   "m": "Bonafide",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727750/7792360097754_02.jpg?v=638948499487600000",
-   "cadena": "Jumbo",
-   "precio": 6100.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p",
-   "referencia": 9915.0,
-   "precio_2da": 10599.0,
-   "baja_pct": 38.5,
-   "brecha_pct": 42.4,
-   "score": 1633,
-   "pr": {
-    "Carrefour": [
-     10599.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-intenso-200-grs-768212/p"
-    ],
-    "Vea": [
-     10599.0,
-     "https://www.vea.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
-    ],
-    "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
     ]
    }
   },
