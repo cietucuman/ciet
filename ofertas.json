@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-26",
- "actualizado": "2026-07-26 14:41",
+ "actualizado": "2026-07-26 18:03",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-07-25",
   "2026-07-26"
  ],
- "total": 39,
+ "total": 43,
  "ofertas": [
   {
    "n": "Galletitas crackers Club Social sabor jamón x6 23.5 grs",
@@ -291,13 +291,13 @@
      3425.0,
      "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
     ],
-    "ChangoMás": [
-     6489.0,
-     "https://www.masonline.com.ar/cafe-torrado-bonafide-suave-200-g/p"
-    ],
     "Carrefour": [
      6099.0,
      "https://www.carrefour.com.ar/cafe-molido-torrado-bonafide-sensaciones-intenso-200-grs-755999/p"
+    ],
+    "ChangoMás": [
+     6489.0,
+     "https://www.masonline.com.ar/cafe-torrado-bonafide-suave-200-g/p"
     ]
    }
   },
@@ -418,6 +418,33 @@
    }
   },
   {
+   "n": "Obleas Sabor Limón 90 Grs x 10 Un Santa Maria",
+   "m": "SANTA MARIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/770306/Obleas-Sabor-Limon-Santa-Maria90g-1-945284.jpg?v=638126769803600000",
+   "cadena": "Jumbo",
+   "precio": 1400.0,
+   "link": "https://www.jumbo.com.ar/obleas-sabor-limon-90-gr-santa-maria-2/p",
+   "referencia": 2333.34,
+   "precio_2da": 2699.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 48.1,
+   "score": 1925,
+   "pr": {
+    "Vea": [
+     2699.0,
+     "https://www.vea.com.ar/obleas-sabor-limon-90-gr-santa-maria-2/p"
+    ],
+    "Jumbo": [
+     1400.0,
+     "https://www.jumbo.com.ar/obleas-sabor-limon-90-gr-santa-maria-2/p"
+    ],
+    "Carrefour": [
+     2699.0,
+     "https://www.carrefour.com.ar/obleas-santa-maria-limon-90-g-sin-tacc/p"
+    ]
+   }
+  },
+  {
    "n": "Galletitas sabor original Rex 225 g.",
    "m": "Rex",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905751/7790040144125_E01.jpg?v=639202557100000000",
@@ -472,6 +499,60 @@
     "ChangoMás": [
      10349.0,
      "https://www.masonline.com.ar/cafe-la-morenita-colombia-10-capsulas-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cappuccino Tradicional Instantáneo 125 Grs La Virginia",
+   "m": "LA VIRGINIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/680350/Mix-Cappuccino-La-Virginia-Tradicional-Dp-125-1-882220.jpg?v=637744887589070000",
+   "cadena": "Jumbo",
+   "precio": 2025.0,
+   "link": "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p",
+   "referencia": 3266.25,
+   "precio_2da": 3899.0,
+   "baja_pct": 38.0,
+   "brecha_pct": 48.1,
+   "score": 1827,
+   "pr": {
+    "Vea": [
+     3899.0,
+     "https://www.vea.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
+    ],
+    "Jumbo": [
+     2025.0,
+     "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
+    ],
+    "Carrefour": [
+     3899.0,
+     "https://www.carrefour.com.ar/cappuccino-la-virginia-instantaneo-dp-125-g-692791/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Instantáneo Cortado con Azúcar 125 Grs La Virginia",
+   "m": "LA VIRGINIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/680358/Mix-Cortado-La-Virginia-125gr-1-882228.jpg?v=637744887613800000",
+   "cadena": "Jumbo",
+   "precio": 2050.0,
+   "link": "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p",
+   "referencia": 3382.5,
+   "precio_2da": 3799.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 46.0,
+   "score": 1814,
+   "pr": {
+    "Vea": [
+     3799.0,
+     "https://www.vea.com.ar/mix-cortado-la-virginia-125gr-2/p"
+    ],
+    "Jumbo": [
+     2050.0,
+     "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p"
+    ],
+    "Carrefour": [
+     3799.0,
+     "https://www.carrefour.com.ar/cappuccino-la-virginia-cortado-dp-125-g-692801/p"
     ]
    }
   },
@@ -673,6 +754,33 @@
    }
   },
   {
+   "n": "Edulcorante Líquido con Stevia 400 Cc Chuker",
+   "m": "CHUKER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788528/Edulcorante-Chuker-Con-Stevia-Liquido-X400ml-1-972868.jpg?v=638253993794600000",
+   "cadena": "Jumbo",
+   "precio": 4680.0,
+   "link": "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p",
+   "referencia": 7800.0,
+   "precio_2da": 7690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1566,
+   "pr": {
+    "Vea": [
+     7690.0,
+     "https://www.vea.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
+    ],
+    "Jumbo": [
+     4680.0,
+     "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
+    ],
+    "ChangoMás": [
+     7919.0,
+     "https://www.masonline.com.ar/edulcorante-liquido-chuker-stevia-400ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
    "m": "ALWAYS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
@@ -785,37 +893,6 @@
    }
   },
   {
-   "n": "Edulcorante Líquido con Stevia 400 Cc Chuker",
-   "m": "CHUKER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788528/Edulcorante-Chuker-Con-Stevia-Liquido-X400ml-1-972868.jpg?v=638253993794600000",
-   "cadena": "Jumbo",
-   "precio": 4680.0,
-   "link": "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p",
-   "referencia": 7800.0,
-   "precio_2da": 7600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1537,
-   "pr": {
-    "Vea": [
-     7690.0,
-     "https://www.vea.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
-    ],
-    "Jumbo": [
-     4680.0,
-     "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
-    ],
-    "Carrefour": [
-     7600.0,
-     "https://www.carrefour.com.ar/edulcorante-liquido-chuker-stevia-400-cc-719371/p"
-    ],
-    "ChangoMás": [
-     7919.0,
-     "https://www.masonline.com.ar/edulcorante-liquido-chuker-stevia-400ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Alimento seco para gato Cat chow adulto carne y pollo 3 kg",
    "m": "Cat Chow",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/241151/8445290068705_01.jpg?v=637855512920900000",
@@ -874,6 +951,33 @@
     "Comodín": [
      23028.79,
      "https://www.comodinencasa.com.ar/alim-cchow-gato-adulto-pescado-pollo-3kg/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
+   "cadena": "Jumbo",
+   "precio": 5490.0,
+   "link": "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
+   "referencia": 9150.0,
+   "precio_2da": 8899.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1532,
+   "pr": {
+    "Vea": [
+     8899.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Jumbo": [
+     5490.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Carrefour": [
+     8899.0,
+     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
     ]
    }
   },
