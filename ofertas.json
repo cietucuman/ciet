@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-27",
- "actualizado": "2026-07-27 14:50",
+ "actualizado": "2026-07-27 18:50",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -23,6 +23,37 @@
  ],
  "total": 8,
  "ofertas": [
+  {
+   "n": "Jugo en polvo Tang mandarina 15 grs",
+   "m": "Tang",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814726/7622201733865_E01.jpg?v=639082503159000000",
+   "cadena": "ChangoMás",
+   "precio": 299.0,
+   "link": "https://www.masonline.com.ar/jugo-en-polvo-tang-mandarina-15-g-2/p",
+   "referencia": 549.0,
+   "precio_2da": 538.0,
+   "baja_pct": 45.5,
+   "brecha_pct": 44.4,
+   "score": 2023,
+   "pr": {
+    "Carrefour": [
+     539.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-tang-mandarina-15-grs-749990/p"
+    ],
+    "Vea": [
+     540.0,
+     "https://www.vea.com.ar/jugo-en-polvo-mandarina-x-15-gr-tang-2/p"
+    ],
+    "Jumbo": [
+     538.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-mandarina-x-15-gr-tang-2/p"
+    ],
+    "ChangoMás": [
+     299.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-tang-mandarina-15-g-2/p"
+    ]
+   }
+  },
   {
    "n": "Jugo en polvo Tang uva 15 g",
    "m": "Tang",
@@ -82,37 +113,6 @@
     "ChangoMás": [
      299.0,
      "https://www.masonline.com.ar/tang-jugo-en-polvo-durazno-15g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Tang mandarina 15 grs",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814726/7622201733865_E01.jpg?v=639082503159000000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-tang-mandarina-15-g-2/p",
-   "referencia": 549.0,
-   "precio_2da": 538.0,
-   "baja_pct": 45.5,
-   "brecha_pct": 44.4,
-   "score": 2023,
-   "pr": {
-    "Carrefour": [
-     539.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-tang-mandarina-15-grs-749990/p"
-    ],
-    "Vea": [
-     540.0,
-     "https://www.vea.com.ar/jugo-en-polvo-mandarina-x-15-gr-tang-2/p"
-    ],
-    "Jumbo": [
-     538.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-mandarina-x-15-gr-tang-2/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-tang-mandarina-15-g-2/p"
     ]
    }
   },
