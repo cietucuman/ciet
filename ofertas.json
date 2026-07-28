@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-28",
- "actualizado": "2026-07-28 14:50",
+ "actualizado": "2026-07-28 17:51",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -109,6 +109,37 @@
     "ChangoMás": [
      299.0,
      "https://www.masonline.com.ar/jugo-en-polvo-tang-galactico-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Oreo rellenas con crema 118 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428340/7622201735296_E01.jpg?v=638392016745670000",
+   "cadena": "ChangoMás",
+   "precio": 1479.0,
+   "link": "https://www.masonline.com.ar/gelletitas-oreo-regular-single-118g-2/p",
+   "referencia": 2569.0,
+   "precio_2da": 2507.69,
+   "baja_pct": 42.4,
+   "brecha_pct": 41.0,
+   "score": 1740,
+   "pr": {
+    "Carrefour": [
+     2507.69,
+     "https://www.carrefour.com.ar/galletitas-dulce-oreo-rellenas-con-crema-118-g-715949/p"
+    ],
+    "Vea": [
+     2512.0,
+     "https://www.vea.com.ar/galletitas-oreo-rellenas-con-crema-sabor-original-118-gr-2/p"
+    ],
+    "Jumbo": [
+     2650.0,
+     "https://www.jumbo.com.ar/galletitas-oreo-rellenas-con-crema-sabor-original-118-gr-2/p"
+    ],
+    "ChangoMás": [
+     1479.0,
+     "https://www.masonline.com.ar/gelletitas-oreo-regular-single-118g-2/p"
     ]
    }
   },
@@ -256,33 +287,6 @@
     "Jumbo": [
      5510.0,
      "https://www.jumbo.com.ar/pasta-dental-triple-beneficio-140-grs-colgate/p"
-    ]
-   }
-  },
-  {
-   "n": "Pack Pasta Dental Colgate Triple Acción 180 G 3 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847361/7509546695617_01.jpg?v=639116924069230000",
-   "cadena": "Carrefour",
-   "precio": 8411.4,
-   "link": "https://www.carrefour.com.ar/pack-pasta-dental-colgate-triple-accion-180-g-3-uni-766864/p",
-   "referencia": 14019.0,
-   "precio_2da": 14019.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     8411.4,
-     "https://www.carrefour.com.ar/pack-pasta-dental-colgate-triple-accion-180-g-3-uni-766864/p"
-    ],
-    "Jumbo": [
-     15450.0,
-     "https://www.jumbo.com.ar/crema-dental-triple-action-pack-x-3-un-de-180-grs-c-u-colgate/p"
-    ],
-    "ChangoMás": [
-     14019.0,
-     "https://www.masonline.com.ar/pasta-dental-colgate-triple-accion-3-u-540-g/p"
     ]
    }
   },
