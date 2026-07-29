@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-28",
- "actualizado": "2026-07-28 17:51",
+ "fecha": "2026-07-29",
+ "actualizado": "2026-07-29 13:40",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-18",
   "2026-07-19",
   "2026-07-20",
   "2026-07-21",
@@ -19,185 +18,39 @@
   "2026-07-25",
   "2026-07-26",
   "2026-07-27",
-  "2026-07-28"
+  "2026-07-28",
+  "2026-07-29"
  ],
- "total": 12,
+ "total": 6,
  "ofertas": [
   {
-   "n": "Yogurt Sabor Frutilla Semidescremado 900 Grs La Serenisima",
-   "m": "LA SERENISIMA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/897456/Yogurt-Frutilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053811.jpg?v=639142848113470000",
-   "cadena": "Vea",
-   "precio": 2199.0,
-   "link": "https://www.vea.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p",
-   "referencia": 4537.5,
-   "precio_2da": 4439.0,
-   "baja_pct": 51.5,
-   "brecha_pct": 50.5,
-   "score": 2601,
+   "n": "Shampoo 3 en 1 Active Fresh 400 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919608/13710524001.jpg?v=639179933154870000",
+   "cadena": "Carrefour",
+   "precio": 5154.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-3-en-1-sport-active-fresh-400-ml-697866/p",
+   "referencia": 8590.0,
+   "precio_2da": 8690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.7,
+   "score": 1628,
    "pr": {
     "Vea": [
-     2199.0,
-     "https://www.vea.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p"
+     8690.0,
+     "https://www.vea.com.ar/shampoo-para-hombre-dove-active-fresh-3-en-1-400-ml/p"
     ],
     "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p"
-    ],
-    "Carrefour": [
-     4439.0,
-     "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-frutilla-la-serenisima-nutricion-activa-900-grs-772804/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Tang uva 15 g",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814836/7622201746117_E01.jpg?v=639082505664470000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/tang-jugo-en-polvo-uva-15g-2/p",
-   "referencia": 549.0,
-   "precio_2da": 538.0,
-   "baja_pct": 45.5,
-   "brecha_pct": 44.4,
-   "score": 2023,
-   "pr": {
-    "Carrefour": [
-     539.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-tang-uva-15-g-711454/p"
-    ],
-    "Vea": [
-     540.0,
-     "https://www.vea.com.ar/jugo-en-polvo-en-polvo-tang-uva-15-gr-2/p"
-    ],
-    "Jumbo": [
-     538.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-en-polvo-tang-uva-15-gr-2/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/tang-jugo-en-polvo-uva-15g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo Tang Galáctico 15 grs",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814886/7622202311482_E01.jpg?v=639082506584870000",
-   "cadena": "ChangoMás",
-   "precio": 299.0,
-   "link": "https://www.masonline.com.ar/jugo-en-polvo-tang-galactico-15-g/p",
-   "referencia": 549.0,
-   "precio_2da": 538.0,
-   "baja_pct": 45.5,
-   "brecha_pct": 44.4,
-   "score": 2023,
-   "pr": {
-    "Carrefour": [
-     539.0,
-     "https://www.carrefour.com.ar/jugo-tang-galactico-15-grs-767577/p"
-    ],
-    "Vea": [
-     540.0,
-     "https://www.vea.com.ar/jugo-en-polvo-tang-galactico-15gr/p"
-    ],
-    "Jumbo": [
-     538.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-tang-galactico-15gr/p"
-    ],
-    "ChangoMás": [
-     299.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-tang-galactico-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas dulces Oreo rellenas con crema 118 g.",
-   "m": "Oreo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428340/7622201735296_E01.jpg?v=638392016745670000",
-   "cadena": "ChangoMás",
-   "precio": 1479.0,
-   "link": "https://www.masonline.com.ar/gelletitas-oreo-regular-single-118g-2/p",
-   "referencia": 2569.0,
-   "precio_2da": 2507.69,
-   "baja_pct": 42.4,
-   "brecha_pct": 41.0,
-   "score": 1740,
-   "pr": {
-    "Carrefour": [
-     2507.69,
-     "https://www.carrefour.com.ar/galletitas-dulce-oreo-rellenas-con-crema-118-g-715949/p"
-    ],
-    "Vea": [
-     2512.0,
-     "https://www.vea.com.ar/galletitas-oreo-rellenas-con-crema-sabor-original-118-gr-2/p"
-    ],
-    "Jumbo": [
-     2650.0,
-     "https://www.jumbo.com.ar/galletitas-oreo-rellenas-con-crema-sabor-original-118-gr-2/p"
-    ],
-    "ChangoMás": [
-     1479.0,
-     "https://www.masonline.com.ar/gelletitas-oreo-regular-single-118g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de Pisos Limón 900 Ml Procenex",
-   "m": "PROCENEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/796380/Limpiador-L-quido-Procenex-Extra-Fragancia-Procenex-Limpiador-L-quido-Pisos-Lim-n-900ml-1-28333.jpg?v=638319657722200000",
-   "cadena": "Comodín",
-   "precio": 1399.0,
-   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-limon-900ml/p",
-   "referencia": 2293.19,
-   "precio_2da": 2400.0,
-   "baja_pct": 39.0,
-   "brecha_pct": 41.7,
-   "score": 1626,
-   "pr": {
-    "Vea": [
-     2400.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-limon-900ml/p"
-    ],
-    "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-limon-900ml/p"
+     9005.0,
+     "https://www.jumbo.com.ar/shampoo-para-hombre-dove-active-fresh-3-en-1-400-ml/p"
     ],
     "Comodín": [
-     1399.0,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-limon-900ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Toalla Nocturna 3d 6 Unidades Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/867592/Toalla-Nocturna-3d-6-Unidades-Kotex-1-1037498.jpg?v=638828230007000000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/toallitas-femeninas-kotex-nocturnas-20-u/p",
-   "referencia": 3339.0,
-   "precio_2da": 3339.0,
-   "baja_pct": 40.1,
-   "brecha_pct": 40.1,
-   "score": 1611,
-   "pr": {
-    "Vea": [
-     3350.0,
-     "https://www.vea.com.ar/toalla-nocturna-3d-6-unidades-kotex/p"
-    ],
-    "Jumbo": [
-     3450.0,
-     "https://www.jumbo.com.ar/toalla-nocturna-3d-6-unidades-kotex/p"
-    ],
-    "ChangoMás": [
-     1999.0,
-     "https://www.masonline.com.ar/toallitas-femeninas-kotex-nocturnas-20-u/p"
+     8887.89,
+     "https://www.comodinencasa.com.ar/shampoo-dove-3en1-sport-act-fresh-400ml/p"
     ],
     "Carrefour": [
-     3339.0,
-     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-larga-6-uni-760443/p"
+     5154.0,
+     "https://www.carrefour.com.ar/shampoo-dove-3-en-1-sport-active-fresh-400-ml-697866/p"
     ]
    }
   },
@@ -291,29 +144,29 @@
    }
   },
   {
-   "n": "Always Xtra doble protección suave toallitas femeninas 16 uni",
-   "m": "Always",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417528/7500435229531_02.jpg?v=638357591131830000",
+   "n": "Pack Pasta Dental Colgate Triple Acción 180 G 3 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847361/7509546695617_01.jpg?v=639116924069230000",
    "cadena": "Carrefour",
-   "precio": 3719.4,
-   "link": "https://www.carrefour.com.ar/always-xtra-doble-proteccion-suave-toallitas-femeninas-16-uni-720101/p",
-   "referencia": 6199.0,
-   "precio_2da": 6199.0,
+   "precio": 8411.4,
+   "link": "https://www.carrefour.com.ar/pack-pasta-dental-colgate-triple-accion-180-g-3-uni-766864/p",
+   "referencia": 14019.0,
+   "precio_2da": 14019.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Carrefour": [
-     3719.4,
-     "https://www.carrefour.com.ar/always-xtra-doble-proteccion-suave-toallitas-femeninas-16-uni-720101/p"
-    ],
-    "Vea": [
-     6199.0,
-     "https://www.vea.com.ar/toallas-xtra-doble-proteccion-suave-16-un-always/p"
+     8411.4,
+     "https://www.carrefour.com.ar/pack-pasta-dental-colgate-triple-accion-180-g-3-uni-766864/p"
     ],
     "Jumbo": [
-     6650.0,
-     "https://www.jumbo.com.ar/toallas-xtra-doble-proteccion-suave-16-un-always/p"
+     15450.0,
+     "https://www.jumbo.com.ar/crema-dental-triple-action-pack-x-3-un-de-180-grs-c-u-colgate/p"
+    ],
+    "ChangoMás": [
+     14019.0,
+     "https://www.masonline.com.ar/pasta-dental-colgate-triple-accion-3-u-540-g/p"
     ]
    }
   },
@@ -341,33 +194,6 @@
     "Comodín": [
      919.99,
      "https://www.comodinencasa.com.ar/bizcochuelo-chocman-black-35gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
-   "cadena": "ChangoMás",
-   "precio": 2799.0,
-   "link": "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p",
-   "referencia": 4589.0,
-   "precio_2da": 4589.0,
-   "baja_pct": 39.0,
-   "brecha_pct": 39.0,
-   "score": 1521,
-   "pr": {
-    "Jumbo": [
-     4750.0,
-     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
-    ],
-    "Carrefour": [
-     4589.0,
-     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
-    ],
-    "ChangoMás": [
-     2799.0,
-     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
     ]
    }
   }
