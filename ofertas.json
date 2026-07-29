@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-29",
- "actualizado": "2026-07-29 13:40",
+ "actualizado": "2026-07-29 18:11",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,39 +21,8 @@
   "2026-07-28",
   "2026-07-29"
  ],
- "total": 6,
+ "total": 5,
  "ofertas": [
-  {
-   "n": "Shampoo 3 en 1 Active Fresh 400 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919608/13710524001.jpg?v=639179933154870000",
-   "cadena": "Carrefour",
-   "precio": 5154.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-3-en-1-sport-active-fresh-400-ml-697866/p",
-   "referencia": 8590.0,
-   "precio_2da": 8690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.7,
-   "score": 1628,
-   "pr": {
-    "Vea": [
-     8690.0,
-     "https://www.vea.com.ar/shampoo-para-hombre-dove-active-fresh-3-en-1-400-ml/p"
-    ],
-    "Jumbo": [
-     9005.0,
-     "https://www.jumbo.com.ar/shampoo-para-hombre-dove-active-fresh-3-en-1-400-ml/p"
-    ],
-    "Comodín": [
-     8887.89,
-     "https://www.comodinencasa.com.ar/shampoo-dove-3en1-sport-act-fresh-400ml/p"
-    ],
-    "Carrefour": [
-     5154.0,
-     "https://www.carrefour.com.ar/shampoo-dove-3-en-1-sport-active-fresh-400-ml-697866/p"
-    ]
-   }
-  },
   {
    "n": "Pasta dental Colgate triple acción extra blancura 90 grs",
    "m": "Colgate",
