@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-30",
- "actualizado": "2026-07-30 12:49",
+ "actualizado": "2026-07-30 17:36",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -186,29 +186,68 @@
    }
   },
   {
-   "n": "Garbanzos 500 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645177/Garbanzos-La-Espa-ola-Gourmet-500-Gr-1-28209.jpg?v=637578552975830000",
-   "cadena": "ChangoMás",
-   "precio": 1009.5,
-   "link": "https://www.masonline.com.ar/garbanzos-la-espanola-500-gr-2/p",
-   "referencia": 2019.0,
-   "precio_2da": 1500.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.7,
-   "score": 1635,
+   "n": "Galletitas Oreo Mini rellenas con crema sabor original 50 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/428398/7622201761288_E01.jpg?v=638392032088130000",
+   "cadena": "Jumbo",
+   "precio": 650.0,
+   "link": "https://www.jumbo.com.ar/galletitas-oreo-mini-rellenas-sabor-original-50-gr-2/p",
+   "referencia": 1040.0,
+   "precio_2da": 1199.0,
+   "baja_pct": 37.5,
+   "brecha_pct": 45.8,
+   "score": 1717,
    "pr": {
+    "Carrefour": [
+     1199.0,
+     "https://www.carrefour.com.ar/galletitas-oreo-mini-rellenas-con-crema-sabor-original-50-g-720547/p"
+    ],
     "Vea": [
-     1600.0,
-     "https://www.vea.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p"
+     1300.0,
+     "https://www.vea.com.ar/galletitas-oreo-mini-rellenas-sabor-original-50-gr-2/p"
     ],
     "Jumbo": [
-     1500.0,
-     "https://www.jumbo.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p"
+     650.0,
+     "https://www.jumbo.com.ar/galletitas-oreo-mini-rellenas-sabor-original-50-gr-2/p"
+    ],
+    "Comodín": [
+     1483.09,
+     "https://www.comodinencasa.com.ar/galleta-mini-oreo-x-50-gr/p"
     ],
     "ChangoMás": [
-     1009.5,
-     "https://www.masonline.com.ar/garbanzos-la-espanola-500-gr-2/p"
+     1199.0,
+     "https://www.masonline.com.ar/mini-oreo-50-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta dental Colgate triple beneficio 90 g.",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/542860/7509546686523_01.jpg?v=639126409176930000",
+   "cadena": "Carrefour",
+   "precio": 2270.0,
+   "link": "https://www.carrefour.com.ar/pasta-dental-colgate-triple-beneficio-90-g-718627/p",
+   "referencia": 3789.0,
+   "precio_2da": 3798.0,
+   "baja_pct": 40.1,
+   "brecha_pct": 40.2,
+   "score": 1613,
+   "pr": {
+    "Carrefour": [
+     2270.0,
+     "https://www.carrefour.com.ar/pasta-dental-colgate-triple-beneficio-90-g-718627/p"
+    ],
+    "Vea": [
+     3798.0,
+     "https://www.vea.com.ar/pasta-dental-triple-accion-90-grs-colgate/p"
+    ],
+    "Jumbo": [
+     3950.0,
+     "https://www.jumbo.com.ar/pasta-dental-triple-accion-90-grs-colgate/p"
+    ],
+    "Comodín": [
+     3870.89,
+     "https://www.comodinencasa.com.ar/crema-dental-colgate-ta-triple-prot-90gr/p"
     ]
    }
   },
@@ -236,33 +275,6 @@
     "Jumbo": [
      5510.0,
      "https://www.jumbo.com.ar/pasta-dental-triple-beneficio-140-grs-colgate/p"
-    ]
-   }
-  },
-  {
-   "n": "Pack Pasta Dental Colgate Triple Acción 180 G 3 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847361/7509546695617_01.jpg?v=639116924069230000",
-   "cadena": "Carrefour",
-   "precio": 8411.4,
-   "link": "https://www.carrefour.com.ar/pack-pasta-dental-colgate-triple-accion-180-g-3-uni-766864/p",
-   "referencia": 14019.0,
-   "precio_2da": 14019.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     8411.4,
-     "https://www.carrefour.com.ar/pack-pasta-dental-colgate-triple-accion-180-g-3-uni-766864/p"
-    ],
-    "Jumbo": [
-     15450.0,
-     "https://www.jumbo.com.ar/crema-dental-triple-action-pack-x-3-un-de-180-grs-c-u-colgate/p"
-    ],
-    "ChangoMás": [
-     14019.0,
-     "https://www.masonline.com.ar/pasta-dental-colgate-triple-accion-3-u-540-g/p"
     ]
    }
   },
@@ -315,7 +327,7 @@
      "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
     ],
     "ChangoMás": [
-     1966.1,
+     2949.0,
      "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
     ],
     "Carrefour": [
