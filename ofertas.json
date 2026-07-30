@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-29",
- "actualizado": "2026-07-29 18:11",
+ "fecha": "2026-07-30",
+ "actualizado": "2026-07-30 12:49",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-19",
   "2026-07-20",
   "2026-07-21",
   "2026-07-22",
@@ -19,69 +18,197 @@
   "2026-07-26",
   "2026-07-27",
   "2026-07-28",
-  "2026-07-29"
+  "2026-07-29",
+  "2026-07-30"
  ],
- "total": 5,
+ "total": 11,
  "ofertas": [
   {
-   "n": "Pasta dental Colgate triple acción extra blancura 90 grs",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/578496/7509546056098_01.jpg?v=638639021841530000",
-   "cadena": "Carrefour",
-   "precio": 2580.0,
-   "link": "https://www.carrefour.com.ar/pasta-dental-colgate-triple-accion-extra-blancura-90-grs-552635/p",
-   "referencia": 4300.0,
-   "precio_2da": 4314.99,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.2,
-   "score": 1608,
+   "n": "Galletitas Oreo de chocolate rellenas de menta 118 grs",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795434/7622202373046_E02.jpg?v=639050403887530000",
+   "cadena": "Jumbo",
+   "precio": 1275.0,
+   "link": "https://www.jumbo.com.ar/galletitas-oreo-de-menta-118gr/p",
+   "referencia": 2550.0,
+   "precio_2da": 2469.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.4,
+   "score": 2418,
    "pr": {
     "Carrefour": [
-     2580.0,
-     "https://www.carrefour.com.ar/pasta-dental-colgate-triple-accion-extra-blancura-90-grs-552635/p"
+     2469.0,
+     "https://www.carrefour.com.ar/galletitas-oreo-de-chocolate-rellenas-de-menta-118-grs-773823/p"
     ],
     "Vea": [
-     4550.0,
-     "https://www.vea.com.ar/pasta-dental-triple-accion-extra-blancura-90-grs-colgate/p"
+     2550.0,
+     "https://www.vea.com.ar/galletitas-oreo-de-menta-118gr/p"
     ],
     "Jumbo": [
-     4900.0,
-     "https://www.jumbo.com.ar/pasta-dental-triple-accion-extra-blancura-90-grs-colgate/p"
-    ],
-    "ChangoMás": [
-     4329.0,
-     "https://www.masonline.com.ar/crema-dental-colgate-triple-accion-extra-blancura-75ml/p"
-    ],
-    "Comodín": [
-     4314.99,
-     "https://www.comodinencasa.com.ar/crema-dental-colgate-t-a-xtra-blanc-90g/p"
+     1275.0,
+     "https://www.jumbo.com.ar/galletitas-oreo-de-menta-118gr/p"
     ]
    }
   },
   {
-   "n": "Pasta Dental Colgate Triple Acción 180 grs",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878485/7509546686509_01.jpg?v=639149654579000000",
-   "cadena": "Carrefour",
-   "precio": 4205.4,
-   "link": "https://www.carrefour.com.ar/pasta-dental-colgate-triple-accion-180-grs-718629/p",
-   "referencia": 7009.0,
-   "precio_2da": 7009.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "n": "Galletitas Sabor Chocolate y Limón 110 Grs Macucas",
+   "m": "MACUCAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830814/Galletitas-Macucas-Rellenas-110g-1-1021886.jpg?v=638588146712770000",
+   "cadena": "Jumbo",
+   "precio": 650.0,
+   "link": "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p",
+   "referencia": 1300.0,
+   "precio_2da": 1250.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.0,
+   "score": 2400,
+   "pr": {
+    "Vea": [
+     1250.0,
+     "https://www.vea.com.ar/galletitas-macucas-rellenas-110g/p"
+    ],
+    "Jumbo": [
+     650.0,
+     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p"
+    ],
+    "Carrefour": [
+     1250.0,
+     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Macucas Rellenas 85g",
+   "m": "MACUCAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830815/Galletitas-Macucas-Rellenas-85g-1-1021887.jpg?v=638588146715900000",
+   "cadena": "Jumbo",
+   "precio": 500.0,
+   "link": "https://www.jumbo.com.ar/galletitas-macucas-rellenas-85g/p",
+   "referencia": 1000.0,
+   "precio_2da": 900.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.4,
+   "score": 2222,
+   "pr": {
+    "Vea": [
+     900.0,
+     "https://www.vea.com.ar/galletitas-macucas-rellenas-85g/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-85g/p"
+    ],
+    "Carrefour": [
+     945.0,
+     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-85-g-744854/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Chocolinas chocolate blando 245 g.",
+   "m": "Chocolinas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/396837/7790040142985_E02.jpg?v=638333189178170000",
+   "cadena": "Jumbo",
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/galletitas-blanco-chocolinas-245-gr-2/p",
+   "referencia": 2850.0,
+   "precio_2da": 2450.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.8,
+   "score": 2092,
    "pr": {
     "Carrefour": [
-     4205.4,
-     "https://www.carrefour.com.ar/pasta-dental-colgate-triple-accion-180-grs-718629/p"
+     2450.0,
+     "https://www.carrefour.com.ar/galletitas-chocolinas-chocolate-blando-245-g-728639/p"
+    ],
+    "Vea": [
+     2450.0,
+     "https://www.vea.com.ar/galletitas-blanco-chocolinas-245-gr-2/p"
+    ],
+    "Jumbo": [
+     1425.0,
+     "https://www.jumbo.com.ar/galletitas-blanco-chocolinas-245-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces rellenas de vainilla Amor 110 grs",
+   "m": "Amor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/476782/7790040143531_E01.jpg?v=638440339215600000",
+   "cadena": "Jumbo",
+   "precio": 975.0,
+   "link": "https://www.jumbo.com.ar/galletitas-amor-x110g-2/p",
+   "referencia": 1950.0,
+   "precio_2da": 1650.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.9,
+   "score": 2045,
+   "pr": {
+    "Carrefour": [
+     1650.0,
+     "https://www.carrefour.com.ar/galletitas-dulce-rellenas-de-vainilla-amor-110-grs-737507/p"
+    ],
+    "Vea": [
+     1690.0,
+     "https://www.vea.com.ar/galletitas-amor-x110g-2/p"
+    ],
+    "Jumbo": [
+     975.0,
+     "https://www.jumbo.com.ar/galletitas-amor-x110g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Amor X330g",
+   "m": "AMOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/894403/Galletitas-Amor-X330g-1-1008717.jpg?v=639023602599030000",
+   "cadena": "Jumbo",
+   "precio": 2650.0,
+   "link": "https://www.jumbo.com.ar/galletitas-amor-x330g-2/p",
+   "referencia": 5300.0,
+   "precio_2da": 4390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.6,
+   "score": 1982,
+   "pr": {
+    "Vea": [
+     4390.0,
+     "https://www.vea.com.ar/galletitas-amor-x330g-2/p"
+    ],
+    "Jumbo": [
+     2650.0,
+     "https://www.jumbo.com.ar/galletitas-amor-x330g-2/p"
+    ],
+    "Carrefour": [
+     4440.0,
+     "https://www.carrefour.com.ar/galletitas-dulce-rellenas-de-vainilla-amor-x3-330-grs-737526/p"
+    ]
+   }
+  },
+  {
+   "n": "Garbanzos 500 Grs La Española Gourmet",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645177/Garbanzos-La-Espa-ola-Gourmet-500-Gr-1-28209.jpg?v=637578552975830000",
+   "cadena": "ChangoMás",
+   "precio": 1009.5,
+   "link": "https://www.masonline.com.ar/garbanzos-la-espanola-500-gr-2/p",
+   "referencia": 2019.0,
+   "precio_2da": 1500.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.7,
+   "score": 1635,
+   "pr": {
+    "Vea": [
+     1600.0,
+     "https://www.vea.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p"
     ],
     "ChangoMás": [
-     7009.0,
-     "https://www.masonline.com.ar/pasta-dental-colgate-triple-beneficio-180g-2/p"
-    ],
-    "Comodín": [
-     7158.39,
-     "https://www.comodinencasa.com.ar/crema-dental-colgate-ta-triple-prot-180g/p"
+     1009.5,
+     "https://www.masonline.com.ar/garbanzos-la-espanola-500-gr-2/p"
     ]
    }
   },
@@ -163,6 +290,37 @@
     "Comodín": [
      919.99,
      "https://www.comodinencasa.com.ar/bizcochuelo-chocman-black-35gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chocolate 250 Grs Chocolinas",
+   "m": "CHOCOLINAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814283/Galletitas-Chocolinas-X250g-1-1008715.jpg?v=638452605691770000",
+   "cadena": "Jumbo",
+   "precio": 1097.0,
+   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
+   "referencia": 2194.0,
+   "precio_2da": 1590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.0,
+   "score": 1550,
+   "pr": {
+    "Vea": [
+     1590.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "Jumbo": [
+     1097.0,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "ChangoMás": [
+     1966.1,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    ],
+    "Carrefour": [
+     1969.0,
+     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
     ]
    }
   }
