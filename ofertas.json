@@ -1,6 +1,6 @@
 {
  "fecha": "2026-07-31",
- "actualizado": "2026-07-31 11:56",
+ "actualizado": "2026-07-31 14:35",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,35 +21,8 @@
   "2026-07-30",
   "2026-07-31"
  ],
- "total": 47,
+ "total": 49,
  "ofertas": [
-  {
-   "n": "Vino tinto Malbec Reserva Álamos 750 ml",
-   "m": "Alamos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299887/7794450091338_01.jpg?v=638852713201800000",
-   "cadena": "Vea",
-   "precio": 6499.5,
-   "link": "https://www.vea.com.ar/vino-alamos-malbec-x-750cc/p",
-   "referencia": 12999.0,
-   "precio_2da": 12929.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.7,
-   "score": 2486,
-   "pr": {
-    "Carrefour": [
-     13059.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-reserva-alamos-750-cc/p"
-    ],
-    "Vea": [
-     6499.5,
-     "https://www.vea.com.ar/vino-alamos-malbec-x-750cc/p"
-    ],
-    "ChangoMás": [
-     12929.0,
-     "https://www.masonline.com.ar/vino-tinto-reserva-malbec-alamos-750-cc-2/p"
-    ]
-   }
-  },
   {
    "n": "Barras de Cereal Sabor Avellanas y Arándanos 30 Grs Flow",
    "m": "FLOW",
@@ -132,56 +105,29 @@
    }
   },
   {
-   "n": "Leche Sabor Chocolate 190 Ml Nestle",
-   "m": "NESTLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
-   "cadena": "Jumbo",
-   "precio": 1425.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p",
-   "referencia": 2650.0,
-   "precio_2da": 2829.0,
-   "baja_pct": 46.2,
-   "brecha_pct": 49.6,
-   "score": 2294,
+   "n": "Vino Don David Reserva Cabernet x750Cc",
+   "m": "Don David",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
+   "cadena": "ChangoMás",
+   "precio": 7514.5,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
+   "referencia": 15029.0,
+   "precio_2da": 12718.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.9,
+   "score": 2046,
    "pr": {
-    "Jumbo": [
-     1425.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
-    ],
-    "ChangoMás": [
-     2829.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
-    ],
-    "Carrefour": [
-     2829.0,
-     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza rubia Schneider 473 ml",
-   "m": "Schneider",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
-   "cadena": "Comodín",
-   "precio": 974.25,
-   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
-   "referencia": 1871.99,
-   "precio_2da": 1702.35,
-   "baja_pct": 48.0,
-   "brecha_pct": 42.8,
-   "score": 2051,
-   "pr": {
-    "Carrefour": [
-     2539.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
-    ],
     "Comodín": [
-     974.25,
-     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
+     12718.19,
+     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
+    ],
+    "Carrefour": [
+     15180.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
     ],
     "ChangoMás": [
-     1702.35,
-     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
+     7514.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
     ]
    }
   },
@@ -240,6 +186,33 @@
     "ChangoMás": [
      5909.0,
      "https://www.masonline.com.ar/leche-condensada-nestle-395-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche Chocolatada 190ml Nestlé",
+   "m": "NESTLE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
+   "cadena": "Jumbo",
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p",
+   "referencia": 2251.25,
+   "precio_2da": 2829.0,
+   "baja_pct": 36.7,
+   "brecha_pct": 49.6,
+   "score": 1821,
+   "pr": {
+    "Jumbo": [
+     1425.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
+    ],
+    "ChangoMás": [
+     2829.0,
+     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+    ],
+    "Carrefour": [
+     2829.0,
+     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
     ]
    }
   },
@@ -310,29 +283,29 @@
    }
   },
   {
-   "n": "Acondicionador Tresemme liso efecto botox 250 cc.",
-   "m": "Tresemmé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416842/7791293050089_01.jpg?v=638355808833430000",
+   "n": "Caramelo Gomita Burger Xxl 28gr Gummi Zone",
+   "m": "GUMMI ZONE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885527/Caramelo-Gomita-Burger-Xxl-28gr-Gummi-Zone-1-1048708.jpg?v=638949189978000000",
    "cadena": "Jumbo",
-   "precio": 3840.0,
-   "link": "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p",
-   "referencia": 6400.0,
-   "precio_2da": 6529.0,
+   "precio": 810.0,
+   "link": "https://www.jumbo.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p",
+   "referencia": 1350.0,
+   "precio_2da": 1387.39,
    "baja_pct": 40.0,
-   "brecha_pct": 41.2,
-   "score": 1647,
+   "brecha_pct": 41.6,
+   "score": 1665,
    "pr": {
-    "Carrefour": [
-     6529.0,
-     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p"
     ],
     "Jumbo": [
-     3840.0,
-     "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
+     810.0,
+     "https://www.jumbo.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p"
     ],
-    "ChangoMás": [
-     6769.0,
-     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
+    "Comodín": [
+     1387.39,
+     "https://www.comodinencasa.com.ar/gomitas-gummi-zone-burger-28gr-2/p"
     ]
    }
   },
@@ -529,7 +502,7 @@
     ],
     "ChangoMás": [
      4699.0,
-     "https://www.masonline.com.ar/shampoo-suave-bomba-jazmin-930ml-2/p"
+     "https://www.masonline.com.ar/shampoo-suave-vit-bomba-jazmin-930ml-2/p"
     ]
    }
   },
@@ -1009,6 +982,33 @@
    }
   },
   {
+   "n": "Vino Finca Las Moras Syrah x 750 Ml",
+   "m": "Finca Las Moras",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/160317/Vino-Finca-Las-Moras-Syrah-x-750-Ml.jpg?v=637378519019230000",
+   "cadena": "ChangoMás",
+   "precio": 2619.5,
+   "link": "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p",
+   "referencia": 3899.0,
+   "precio_2da": 4898.39,
+   "baja_pct": 32.8,
+   "brecha_pct": 46.5,
+   "score": 1527,
+   "pr": {
+    "Comodín": [
+     4898.39,
+     "https://www.comodinencasa.com.ar/vino-finca-las-moras-syrah-x-750-ml/p"
+    ],
+    "ChangoMás": [
+     2619.5,
+     "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p"
+    ],
+    "Carrefour": [
+     5240.0,
+     "https://www.carrefour.com.ar/vino-tinto-syrah-finca-las-moras-750-cc-44367/p"
+    ]
+   }
+  },
+  {
    "n": "Caramelos Halls Miel y Menta 9 uni",
    "m": "Halls",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/790033/7622202271298_E01.jpg?v=639038426509070000",
@@ -1090,7 +1090,7 @@
    }
   },
   {
-   "n": "Chocolate para Taza 100 Grs Aguila",
+   "n": "Chocolate Aguila Para Taza 100 Gr",
    "m": "AGUILA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/582968/Chocolate-Aguila-Para-Taza-100-Gr-1-10739.jpg?v=637234676290200000",
    "cadena": "Jumbo",
@@ -1198,6 +1198,33 @@
     "Carrefour": [
      7790.0,
      "https://www.carrefour.com.ar/mermelada-de-frutilla-el-brocal-frasco-420-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Miel Cremosa Sabor Multifloral 500 Grs Beepure",
+   "m": "BEEPURE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/879586/Miel-Cremosa-Premium-500-Gr-Beepure-1-887680.jpg?v=638902641693170000",
+   "cadena": "Jumbo",
+   "precio": 5700.0,
+   "link": "https://www.jumbo.com.ar/miel-cremosa-premium-500-gr-beepure/p",
+   "referencia": 9500.0,
+   "precio_2da": 9190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Vea": [
+     9190.0,
+     "https://www.vea.com.ar/miel-cremosa-premium-500-gr-beepure/p"
+    ],
+    "Jumbo": [
+     5700.0,
+     "https://www.jumbo.com.ar/miel-cremosa-premium-500-gr-beepure/p"
+    ],
+    "Carrefour": [
+     10300.0,
+     "https://www.carrefour.com.ar/miel-cremosa-beepure-en-frasco-500-g-596720/p"
     ]
    }
   },
@@ -1337,6 +1364,33 @@
     "Jumbo": [
      2430.0,
      "https://www.jumbo.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec 750 Cc Los Árboles",
+   "m": "LOS ARBOLES",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826594/12262695001.jpg?v=638555165441600000",
+   "cadena": "ChangoMás",
+   "precio": 3149.5,
+   "link": "https://www.masonline.com.ar/vino-malbec-los-arboles-750-cc-2/p",
+   "referencia": 6299.0,
+   "precio_2da": 4500.02,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.0,
+   "score": 1501,
+   "pr": {
+    "Vea": [
+     4500.02,
+     "https://www.vea.com.ar/vino-tinto-los-arboles-seleccion-malbec-750-cc/p"
+    ],
+    "Jumbo": [
+     4533.36,
+     "https://www.jumbo.com.ar/vino-tinto-los-arboles-seleccion-malbec-750-cc/p"
+    ],
+    "ChangoMás": [
+     3149.5,
+     "https://www.masonline.com.ar/vino-malbec-los-arboles-750-cc-2/p"
     ]
    }
   }
