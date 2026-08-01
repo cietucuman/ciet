@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-01",
- "actualizado": "2026-08-01 11:17",
+ "actualizado": "2026-08-01 16:59",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-07-31",
   "2026-08-01"
  ],
- "total": 47,
+ "total": 49,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -47,37 +47,6 @@
     "Carrefour": [
      1400.0,
      "https://www.carrefour.com.ar/agua-saborizada-sin-gas-aquarius-de-pomelo-rosado-375-cc-740253/p"
-    ]
-   }
-  },
-  {
-   "n": "Plato Hondo Transparente Vidrio Gema Durax",
-   "m": "SD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
-   "cadena": "ChangoMás",
-   "precio": 889.5,
-   "link": "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p",
-   "referencia": 1779.0,
-   "precio_2da": 1779.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Vea": [
-     2064.3,
-     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
-    ],
-    "Jumbo": [
-     2064.3,
-     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
-    ],
-    "Carrefour": [
-     1779.0,
-     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
-    ],
-    "ChangoMás": [
-     889.5,
-     "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p"
     ]
    }
   },
@@ -206,13 +175,67 @@
      7029.0,
      "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-elementos-750-cc/p"
     ],
-    "ChangoMás": [
-     3479.5,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p"
-    ],
     "Comodín": [
      6270.19,
      "https://www.comodinencasa.com.ar/vino-elementos-cabernet-suav-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     3479.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Elementos Syrah x 750 Cc",
+   "m": "Elementos",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/159748/Vino-Elementos-Syrah-x-750-Cc.jpg?v=637377007135170000",
+   "cadena": "ChangoMás",
+   "precio": 3479.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-elementos-syrah-750-ml/p",
+   "referencia": 6959.0,
+   "precio_2da": 6270.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.5,
+   "score": 2225,
+   "pr": {
+    "Comodín": [
+     6270.19,
+     "https://www.comodinencasa.com.ar/vino-elementos-syrah-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     3479.5,
+     "https://www.masonline.com.ar/vino-tinto-elementos-syrah-750-ml/p"
+    ],
+    "Carrefour": [
+     7029.0,
+     "https://www.carrefour.com.ar/vino-tinto-syrah-elementos-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Don David Reserva Cabernet x750Cc",
+   "m": "Don David",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
+   "cadena": "ChangoMás",
+   "precio": 7514.5,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
+   "referencia": 15029.0,
+   "precio_2da": 12718.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.9,
+   "score": 2046,
+   "pr": {
+    "Comodín": [
+     12718.19,
+     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
+    ],
+    "Carrefour": [
+     15180.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
+    ],
+    "ChangoMás": [
+     7514.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
     ]
    }
   },
@@ -240,6 +263,33 @@
     "ChangoMás": [
      1149.0,
      "https://www.masonline.com.ar/barra-de-cereal-flow-almendras-con-chocolate-x-30-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Malbec 750 Ml Cordero Con Piel De Lobo",
+   "m": "EL PORTILLO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/921724/Vino-Malbec-750-Ml-Cordero-Con-Piel-De-Lobo-1-1061466.jpg?v=639207623595030000",
+   "cadena": "ChangoMás",
+   "precio": 3499.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-malbec-750-ml-2/p",
+   "referencia": 5749.0,
+   "precio_2da": 6665.0,
+   "baja_pct": 39.1,
+   "brecha_pct": 47.5,
+   "score": 1858,
+   "pr": {
+    "Vea": [
+     6890.0,
+     "https://www.vea.com.ar/vino-malbec-750-ml-cordero-con-piel-de-lobo-2/p"
+    ],
+    "Carrefour": [
+     6665.0,
+     "https://www.carrefour.com.ar/vino-tinto-cordero-con-piel-de-lobo-malbec-750-cc-730738/p"
+    ],
+    "ChangoMás": [
+     3499.5,
+     "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-malbec-750-ml-2/p"
     ]
    }
   },
@@ -302,9 +352,9 @@
    }
   },
   {
-   "n": "Vino Tinto Don David Cabernet Sauvignon 750ml",
+   "n": "Vino Don David Cabernet x 750 Cc",
    "m": "Don David",
-   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/266158/front-view-19552.jpg?v=638058621704170000",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/159011/Vino-Don-David-Cabernet-x-750-Cc.jpg?v=637377005172800000",
    "cadena": "ChangoMás",
    "precio": 5614.5,
    "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-don-david-750-cc-2/p",
@@ -314,6 +364,10 @@
    "brecha_pct": 34.0,
    "score": 1699,
    "pr": {
+    "Comodín": [
+     9452.59,
+     "https://www.comodinencasa.com.ar/vino-don-david-cabernet-x-750-cc/p"
+    ],
     "ChangoMás": [
      5614.5,
      "https://www.masonline.com.ar/vino-cabernet-sauvignon-don-david-750-cc-2/p"
@@ -321,10 +375,6 @@
     "Carrefour": [
      8504.25,
      "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-750-cc/p"
-    ],
-    "Comodín": [
-     9452.59,
-     "https://www.comodinencasa.com.ar/vino-don-david-cabernet-x-750-cc/p"
     ]
    }
   },
@@ -391,33 +441,6 @@
     "Tuchanguito": [
      8221.48,
      "https://www.tuchanguito.com.ar/productos/chocolate-semiamargo-aguila-p-taza-150-gr/"
-    ]
-   }
-  },
-  {
-   "n": "Repuesto film Rolopac pvc 30 cm x 100 mts",
-   "m": "Rolopac",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/463537/7790065007092_01.jpg?v=638417972663430000",
-   "cadena": "Jumbo",
-   "precio": 3899.4,
-   "link": "https://www.jumbo.com.ar/film-autoadherente-de-pvc-28-cm-x-100-m-rolopac/p",
-   "referencia": 6499.0,
-   "precio_2da": 6609.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.0,
-   "score": 1640,
-   "pr": {
-    "Carrefour": [
-     6609.0,
-     "https://www.carrefour.com.ar/film-autoadherente-rolopac-300-x-100-cm/p"
-    ],
-    "Jumbo": [
-     3899.4,
-     "https://www.jumbo.com.ar/film-autoadherente-de-pvc-28-cm-x-100-m-rolopac/p"
-    ],
-    "ChangoMás": [
-     6609.0,
-     "https://www.masonline.com.ar/film-adherente-rolopac-100-mts-2/p"
     ]
    }
   },
@@ -785,6 +808,33 @@
     "Comodín": [
      9624.29,
      "https://www.comodinencasa.com.ar/miel-aleluya-untable-pet-x-500-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino blanco dulce Callia 750 ml",
+   "m": "Callia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823272/7798108834155_01.jpg?v=639083182000130000",
+   "cadena": "ChangoMás",
+   "precio": 2964.5,
+   "link": "https://www.masonline.com.ar/vino-blanco-dulce-callia-tardio-750ml-2/p",
+   "referencia": 5929.0,
+   "precio_2da": 4296.75,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.0,
+   "score": 1550,
+   "pr": {
+    "Carrefour": [
+     4296.75,
+     "https://www.carrefour.com.ar/vino-blanco-blend-xv-canciller-750-ml--672014/p"
+    ],
+    "Comodín": [
+     5313.39,
+     "https://www.comodinencasa.com.ar/vino-callia-alta-amable-tardio-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     2964.5,
+     "https://www.masonline.com.ar/vino-blanco-dulce-callia-tardio-750ml-2/p"
     ]
    }
   },
