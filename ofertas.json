@@ -1,6 +1,6 @@
 {
- "fecha": "2026-07-31",
- "actualizado": "2026-07-31 14:35",
+ "fecha": "2026-08-01",
+ "actualizado": "2026-08-01 11:17",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-21",
   "2026-07-22",
   "2026-07-23",
   "2026-07-24",
@@ -19,10 +18,69 @@
   "2026-07-28",
   "2026-07-29",
   "2026-07-30",
-  "2026-07-31"
+  "2026-07-31",
+  "2026-08-01"
  ],
- "total": 49,
+ "total": 47,
  "ofertas": [
+  {
+   "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
+   "m": "AQUARIUS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/881310/Agua-Saborizada-Pomelo-Rosado-6-Pack-375ml-Aquarius-1-1046480.jpg?v=638918409923900000",
+   "cadena": "Carrefour",
+   "precio": 1400.0,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-sin-gas-aquarius-de-pomelo-rosado-375-cc-740253/p",
+   "referencia": 8400.0,
+   "precio_2da": 2201.59,
+   "baja_pct": 83.3,
+   "brecha_pct": 36.4,
+   "score": 3034,
+   "pr": {
+    "Jumbo": [
+     5399.0,
+     "https://www.jumbo.com.ar/agua-saborizada-pomelo-rosado-6-pack-375ml-aquarius/p"
+    ],
+    "Comodín": [
+     2201.59,
+     "https://www.comodinencasa.com.ar/agua-sabori-aquarius-pomelo-rosado-375cc/p"
+    ],
+    "Carrefour": [
+     1400.0,
+     "https://www.carrefour.com.ar/agua-saborizada-sin-gas-aquarius-de-pomelo-rosado-375-cc-740253/p"
+    ]
+   }
+  },
+  {
+   "n": "Plato Hondo Transparente Vidrio Gema Durax",
+   "m": "SD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
+   "cadena": "ChangoMás",
+   "precio": 889.5,
+   "link": "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p",
+   "referencia": 1779.0,
+   "precio_2da": 1779.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     2064.3,
+     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
+    ],
+    "Jumbo": [
+     2064.3,
+     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
+    ],
+    "Carrefour": [
+     1779.0,
+     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
+    ],
+    "ChangoMás": [
+     889.5,
+     "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p"
+    ]
+   }
+  },
   {
    "n": "Barras de Cereal Sabor Avellanas y Arándanos 30 Grs Flow",
    "m": "FLOW",
@@ -105,29 +163,56 @@
    }
   },
   {
-   "n": "Vino Don David Reserva Cabernet x750Cc",
-   "m": "Don David",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
+   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
+   "m": "Colon",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
    "cadena": "ChangoMás",
-   "precio": 7514.5,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
-   "referencia": 15029.0,
-   "precio_2da": 12718.19,
+   "precio": 3174.5,
+   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
+   "referencia": 6349.0,
+   "precio_2da": 5909.0,
    "baja_pct": 50.0,
-   "brecha_pct": 40.9,
-   "score": 2046,
+   "brecha_pct": 46.3,
+   "score": 2314,
    "pr": {
     "Comodín": [
-     12718.19,
-     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
-    ],
-    "Carrefour": [
-     15180.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
+     6274.39,
+     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
     ],
     "ChangoMás": [
-     7514.5,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
+     3174.5,
+     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
+    ],
+    "Carrefour": [
+     5909.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Cabernet Sauvignon Elementos 750 ml",
+   "m": "Elementos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/824007/7790189021011_01.jpg?v=639083308543070000",
+   "cadena": "ChangoMás",
+   "precio": 3479.5,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p",
+   "referencia": 6959.0,
+   "precio_2da": 6270.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.5,
+   "score": 2225,
+   "pr": {
+    "Carrefour": [
+     7029.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-elementos-750-cc/p"
+    ],
+    "ChangoMás": [
+     3479.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p"
+    ],
+    "Comodín": [
+     6270.19,
+     "https://www.comodinencasa.com.ar/vino-elementos-cabernet-suav-x-750-cc/p"
     ]
    }
   },
@@ -190,29 +275,56 @@
    }
   },
   {
-   "n": "Leche Chocolatada 190ml Nestlé",
-   "m": "NESTLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
-   "cadena": "Jumbo",
-   "precio": 1425.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p",
-   "referencia": 2251.25,
-   "precio_2da": 2829.0,
-   "baja_pct": 36.7,
-   "brecha_pct": 49.6,
-   "score": 1821,
+   "n": "Vino tinto Malbec Cafayate 750 ml",
+   "m": "Cafayate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
+   "cadena": "ChangoMás",
+   "precio": 2939.5,
+   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
+   "referencia": 9829.0,
+   "precio_2da": 3933.35,
+   "baja_pct": 70.1,
+   "brecha_pct": 25.3,
+   "score": 1771,
    "pr": {
-    "Jumbo": [
-     1425.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
+    "Carrefour": [
+     5939.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
+    ],
+    "Vea": [
+     3933.35,
+     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
     ],
     "ChangoMás": [
-     2829.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+     2939.5,
+     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Don David Cabernet Sauvignon 750ml",
+   "m": "Don David",
+   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/266158/front-view-19552.jpg?v=638058621704170000",
+   "cadena": "ChangoMás",
+   "precio": 5614.5,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-don-david-750-cc-2/p",
+   "referencia": 11229.0,
+   "precio_2da": 8504.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.0,
+   "score": 1699,
+   "pr": {
+    "ChangoMás": [
+     5614.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-don-david-750-cc-2/p"
     ],
     "Carrefour": [
-     2829.0,
-     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
+     8504.25,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-750-cc/p"
+    ],
+    "Comodín": [
+     9452.59,
+     "https://www.comodinencasa.com.ar/vino-don-david-cabernet-x-750-cc/p"
     ]
    }
   },
@@ -283,29 +395,29 @@
    }
   },
   {
-   "n": "Caramelo Gomita Burger Xxl 28gr Gummi Zone",
-   "m": "GUMMI ZONE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885527/Caramelo-Gomita-Burger-Xxl-28gr-Gummi-Zone-1-1048708.jpg?v=638949189978000000",
+   "n": "Repuesto film Rolopac pvc 30 cm x 100 mts",
+   "m": "Rolopac",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/463537/7790065007092_01.jpg?v=638417972663430000",
    "cadena": "Jumbo",
-   "precio": 810.0,
-   "link": "https://www.jumbo.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p",
-   "referencia": 1350.0,
-   "precio_2da": 1387.39,
+   "precio": 3899.4,
+   "link": "https://www.jumbo.com.ar/film-autoadherente-de-pvc-28-cm-x-100-m-rolopac/p",
+   "referencia": 6499.0,
+   "precio_2da": 6609.0,
    "baja_pct": 40.0,
-   "brecha_pct": 41.6,
-   "score": 1665,
+   "brecha_pct": 41.0,
+   "score": 1640,
    "pr": {
-    "Vea": [
-     1390.0,
-     "https://www.vea.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p"
+    "Carrefour": [
+     6609.0,
+     "https://www.carrefour.com.ar/film-autoadherente-rolopac-300-x-100-cm/p"
     ],
     "Jumbo": [
-     810.0,
-     "https://www.jumbo.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p"
+     3899.4,
+     "https://www.jumbo.com.ar/film-autoadherente-de-pvc-28-cm-x-100-m-rolopac/p"
     ],
-    "Comodín": [
-     1387.39,
-     "https://www.comodinencasa.com.ar/gomitas-gummi-zone-burger-28gr-2/p"
+    "ChangoMás": [
+     6609.0,
+     "https://www.masonline.com.ar/film-adherente-rolopac-100-mts-2/p"
     ]
    }
   },
@@ -337,91 +449,29 @@
    }
   },
   {
-   "n": "Toalla Nocturna 3d 6 Unidades Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/867592/Toalla-Nocturna-3d-6-Unidades-Kotex-1-1037498.jpg?v=638828230007000000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/toallitas-femeninas-kotex-nocturnas-20-u/p",
-   "referencia": 3339.0,
-   "precio_2da": 3339.0,
-   "baja_pct": 40.1,
-   "brecha_pct": 40.1,
-   "score": 1611,
+   "n": "Shampoo Liso y Sedoso Bomba Frutal 930 Ml Suave",
+   "m": "SUAVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/867861/7791293050409.jpg.jpg?v=638829990896930000",
+   "cadena": "Comodín",
+   "precio": 2499.0,
+   "link": "https://www.comodinencasa.com.ar/shampoo-suave-bomba-frutal-930ml/p",
+   "referencia": 3899.99,
+   "precio_2da": 4490.0,
+   "baja_pct": 35.9,
+   "brecha_pct": 44.3,
+   "score": 1593,
    "pr": {
     "Vea": [
-     3350.0,
-     "https://www.vea.com.ar/toalla-nocturna-3d-6-unidades-kotex/p"
+     4490.0,
+     "https://www.vea.com.ar/shampoo-suave-vitaminas-bomba-frutal-930-ml-3/p"
+    ],
+    "Comodín": [
+     2499.0,
+     "https://www.comodinencasa.com.ar/shampoo-suave-bomba-frutal-930ml/p"
     ],
     "ChangoMás": [
-     1999.0,
-     "https://www.masonline.com.ar/toallitas-femeninas-kotex-nocturnas-20-u/p"
-    ],
-    "Carrefour": [
-     3339.0,
-     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-larga-6-uni-760443/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Negra Cautiva 473 Cc Salta",
-   "m": "SALTA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803708/Salta-Lata-473-Negra-Cerveza-Salta-Negra-473-Ml-1-849279.jpg?v=638380030515930000",
-   "cadena": "Comodín",
-   "precio": 1299.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-negra-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 1954.64,
-   "baja_pct": 48.0,
-   "brecha_pct": 33.5,
-   "score": 1609,
-   "pr": {
-    "Jumbo": [
-     2102.25,
-     "https://www.jumbo.com.ar/cerveza-salta-negra-473cc/p"
-    ],
-    "Comodín": [
-     1299.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-negra-lata-x-473-cc/p"
-    ],
-    "Tuchanguito": [
-     1954.64,
-     "https://www.tuchanguito.com.ar/productos/cerveza-salta-negra-lata-x-473-cc/"
-    ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-negra-salta-473-ml-662403/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
-   "cadena": "Comodín",
-   "precio": 1299.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 1946.25,
-   "baja_pct": 48.0,
-   "brecha_pct": 33.3,
-   "score": 1595,
-   "pr": {
-    "Vea": [
-     1946.25,
-     "https://www.vea.com.ar/cerveza-salta-lat-473cc-rubia/p"
-    ],
-    "Jumbo": [
-     2102.25,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
-    ],
-    "Comodín": [
-     1299.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
-    ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
+     4699.0,
+     "https://www.masonline.com.ar/shampoo-suave-vit-bomba-frutal-930ml-2/p"
     ]
    }
   },
@@ -453,33 +503,6 @@
    }
   },
   {
-   "n": "Shampoo Liso y Sedoso Bomba Frutal 930 Ml Suave",
-   "m": "SUAVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/867861/7791293050409.jpg.jpg?v=638829990896930000",
-   "cadena": "Comodín",
-   "precio": 2499.0,
-   "link": "https://www.comodinencasa.com.ar/shampoo-suave-bomba-frutal-930ml/p",
-   "referencia": 3899.99,
-   "precio_2da": 4490.0,
-   "baja_pct": 35.9,
-   "brecha_pct": 44.3,
-   "score": 1593,
-   "pr": {
-    "Vea": [
-     4490.0,
-     "https://www.vea.com.ar/shampoo-suave-vitaminas-bomba-frutal-930-ml-3/p"
-    ],
-    "Comodín": [
-     2499.0,
-     "https://www.comodinencasa.com.ar/shampoo-suave-bomba-frutal-930ml/p"
-    ],
-    "ChangoMás": [
-     4699.0,
-     "https://www.masonline.com.ar/shampoo-suave-vit-bomba-frutal-930ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Vitaminas Bomba Jazmín 930 Ml Suave",
    "m": "SUAVE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/867872/7791293050393.jpg.jpg?v=638829993490000000",
@@ -502,7 +525,7 @@
     ],
     "ChangoMás": [
      4699.0,
-     "https://www.masonline.com.ar/shampoo-suave-vit-bomba-jazmin-930ml-2/p"
+     "https://www.masonline.com.ar/shampoo-suave-bomba-jazmin-930ml-2/p"
     ]
    }
   },
@@ -847,33 +870,6 @@
    }
   },
   {
-   "n": "Alfajorcito Jorgito chocolate con mousse 6 u.",
-   "m": "Jorgito",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192749/7790957000569_02.jpg?v=637515949718870000",
-   "cadena": "Jumbo",
-   "precio": 2580.0,
-   "link": "https://www.jumbo.com.ar/alfajores-mini-negros-con-mousse-jorgito-128-gr/p",
-   "referencia": 4300.0,
-   "precio_2da": 4190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1537,
-   "pr": {
-    "Carrefour": [
-     4190.0,
-     "https://www.carrefour.com.ar/alfajorcito-jorgito-chocolate-con-mousse-6-u/p"
-    ],
-    "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/alfajores-mini-negros-con-mousse-jorgito-128-gr/p"
-    ],
-    "Jumbo": [
-     2580.0,
-     "https://www.jumbo.com.ar/alfajores-mini-negros-con-mousse-jorgito-128-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Chocolate Cofler estilo Dubai 43 grs",
    "m": "Cofler",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828858/77973986_E02.jpg?v=639093576182900000",
@@ -890,13 +886,13 @@
      4159.0,
      "https://www.carrefour.com.ar/chocolate-cofler-estilo-dubai-43-grs-776022/p"
     ],
-    "ChangoMás": [
-     4159.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-cofler-dubai-pistacho-43-g/p"
-    ],
     "Vea": [
      2340.0,
      "https://www.vea.com.ar/chocolate-dubai-43-grs-cofler/p"
+    ],
+    "ChangoMás": [
+     4159.0,
+     "https://www.masonline.com.ar/tableta-de-chocolate-cofler-dubai-pistacho-43-g/p"
     ]
    }
   },
@@ -1063,33 +1059,6 @@
    }
   },
   {
-   "n": "Bombones x 24 Un Ferrero Rocher",
-   "m": "FERRERO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/785391/Bombones-Ferrero-Rocher-24-U-1-3394.jpg?v=638224401724370000",
-   "cadena": "Jumbo",
-   "precio": 20040.0,
-   "link": "https://www.jumbo.com.ar/bombones-ferrero-rocher-24-u/p",
-   "referencia": 33400.0,
-   "precio_2da": 32390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1525,
-   "pr": {
-    "Vea": [
-     32390.0,
-     "https://www.vea.com.ar/bombones-ferrero-rocher-24-u/p"
-    ],
-    "Jumbo": [
-     20040.0,
-     "https://www.jumbo.com.ar/bombones-ferrero-rocher-24-u/p"
-    ],
-    "Carrefour": [
-     32615.0,
-     "https://www.carrefour.com.ar/bombones-ferrero-rocher-24-u/p"
-    ]
-   }
-  },
-  {
    "n": "Chocolate Aguila Para Taza 100 Gr",
    "m": "AGUILA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/582968/Chocolate-Aguila-Para-Taza-100-Gr-1-10739.jpg?v=637234676290200000",
@@ -1198,33 +1167,6 @@
     "Carrefour": [
      7790.0,
      "https://www.carrefour.com.ar/mermelada-de-frutilla-el-brocal-frasco-420-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Miel Cremosa Sabor Multifloral 500 Grs Beepure",
-   "m": "BEEPURE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/879586/Miel-Cremosa-Premium-500-Gr-Beepure-1-887680.jpg?v=638902641693170000",
-   "cadena": "Jumbo",
-   "precio": 5700.0,
-   "link": "https://www.jumbo.com.ar/miel-cremosa-premium-500-gr-beepure/p",
-   "referencia": 9500.0,
-   "precio_2da": 9190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1519,
-   "pr": {
-    "Vea": [
-     9190.0,
-     "https://www.vea.com.ar/miel-cremosa-premium-500-gr-beepure/p"
-    ],
-    "Jumbo": [
-     5700.0,
-     "https://www.jumbo.com.ar/miel-cremosa-premium-500-gr-beepure/p"
-    ],
-    "Carrefour": [
-     10300.0,
-     "https://www.carrefour.com.ar/miel-cremosa-beepure-en-frasco-500-g-596720/p"
     ]
    }
   },
