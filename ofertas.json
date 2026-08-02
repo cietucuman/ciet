@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-01",
- "actualizado": "2026-08-01 16:59",
+ "fecha": "2026-08-02",
+ "actualizado": "2026-08-02 11:12",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-22",
   "2026-07-23",
   "2026-07-24",
   "2026-07-25",
@@ -19,9 +18,10 @@
   "2026-07-29",
   "2026-07-30",
   "2026-07-31",
-  "2026-08-01"
+  "2026-08-01",
+  "2026-08-02"
  ],
- "total": 49,
+ "total": 41,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -132,33 +132,6 @@
    }
   },
   {
-   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
-   "m": "Colon",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
-   "cadena": "ChangoMás",
-   "precio": 3174.5,
-   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
-   "referencia": 6349.0,
-   "precio_2da": 5909.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.3,
-   "score": 2314,
-   "pr": {
-    "Comodín": [
-     6274.39,
-     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
-    ],
-    "ChangoMás": [
-     3174.5,
-     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
-    ],
-    "Carrefour": [
-     5909.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
-    ]
-   }
-  },
-  {
    "n": "Vino tinto Cabernet Sauvignon Elementos 750 ml",
    "m": "Elementos",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/824007/7790189021011_01.jpg?v=639083308543070000",
@@ -175,40 +148,40 @@
      7029.0,
      "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-elementos-750-cc/p"
     ],
-    "Comodín": [
-     6270.19,
-     "https://www.comodinencasa.com.ar/vino-elementos-cabernet-suav-x-750-cc/p"
-    ],
     "ChangoMás": [
      3479.5,
      "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p"
+    ],
+    "Comodín": [
+     6270.19,
+     "https://www.comodinencasa.com.ar/vino-elementos-cabernet-suav-x-750-cc/p"
     ]
    }
   },
   {
-   "n": "Vino Elementos Syrah x 750 Cc",
-   "m": "Elementos",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/159748/Vino-Elementos-Syrah-x-750-Cc.jpg?v=637377007135170000",
-   "cadena": "ChangoMás",
-   "precio": 3479.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-elementos-syrah-750-ml/p",
-   "referencia": 6959.0,
-   "precio_2da": 6270.19,
+   "n": "Agua saborizada de pomelo H2OH sin gas 500 ml",
+   "m": "H2oh!",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817905/7791813402015_E02.jpg?v=639082532448470000",
+   "cadena": "Jumbo",
+   "precio": 900.0,
+   "link": "https://www.jumbo.com.ar/saborizada-h2oh-pomelo-sin-gas-500cc-2/p",
+   "referencia": 1800.0,
+   "precio_2da": 1599.0,
    "baja_pct": 50.0,
-   "brecha_pct": 44.5,
-   "score": 2225,
+   "brecha_pct": 43.7,
+   "score": 2186,
    "pr": {
-    "Comodín": [
-     6270.19,
-     "https://www.comodinencasa.com.ar/vino-elementos-syrah-x-750-cc/p"
+    "Carrefour": [
+     1599.0,
+     "https://www.carrefour.com.ar/agua-saborizada-de-pomelo-h2oh-sin-gas-500-ml-694095/p"
+    ],
+    "Jumbo": [
+     900.0,
+     "https://www.jumbo.com.ar/saborizada-h2oh-pomelo-sin-gas-500cc-2/p"
     ],
     "ChangoMás": [
-     3479.5,
-     "https://www.masonline.com.ar/vino-tinto-elementos-syrah-750-ml/p"
-    ],
-    "Carrefour": [
-     7029.0,
-     "https://www.carrefour.com.ar/vino-tinto-syrah-elementos-750-cc/p"
+     1599.0,
+     "https://www.masonline.com.ar/agua-saborizada-sin-gas-h2oh-pomelada-dietetica-500-ml-2/p"
     ]
    }
   },
@@ -267,33 +240,6 @@
    }
   },
   {
-   "n": "Vino Malbec 750 Ml Cordero Con Piel De Lobo",
-   "m": "EL PORTILLO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/921724/Vino-Malbec-750-Ml-Cordero-Con-Piel-De-Lobo-1-1061466.jpg?v=639207623595030000",
-   "cadena": "ChangoMás",
-   "precio": 3499.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-malbec-750-ml-2/p",
-   "referencia": 5749.0,
-   "precio_2da": 6665.0,
-   "baja_pct": 39.1,
-   "brecha_pct": 47.5,
-   "score": 1858,
-   "pr": {
-    "Vea": [
-     6890.0,
-     "https://www.vea.com.ar/vino-malbec-750-ml-cordero-con-piel-de-lobo-2/p"
-    ],
-    "Carrefour": [
-     6665.0,
-     "https://www.carrefour.com.ar/vino-tinto-cordero-con-piel-de-lobo-malbec-750-cc-730738/p"
-    ],
-    "ChangoMás": [
-     3499.5,
-     "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-malbec-750-ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Nestlé leche condensada orgánica 395 grs",
    "m": "Nestlé",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903870/8445290900654_E01.jpg?v=639198118907470000",
@@ -321,87 +267,6 @@
     "ChangoMás": [
      5909.0,
      "https://www.masonline.com.ar/leche-condensada-nestle-395-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Cafayate 750 ml",
-   "m": "Cafayate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
-   "cadena": "ChangoMás",
-   "precio": 2939.5,
-   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
-   "referencia": 9829.0,
-   "precio_2da": 3933.35,
-   "baja_pct": 70.1,
-   "brecha_pct": 25.3,
-   "score": 1771,
-   "pr": {
-    "Carrefour": [
-     5939.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
-    ],
-    "Vea": [
-     3933.35,
-     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
-    ],
-    "ChangoMás": [
-     2939.5,
-     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Don David Cabernet x 750 Cc",
-   "m": "Don David",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/159011/Vino-Don-David-Cabernet-x-750-Cc.jpg?v=637377005172800000",
-   "cadena": "ChangoMás",
-   "precio": 5614.5,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-don-david-750-cc-2/p",
-   "referencia": 11229.0,
-   "precio_2da": 8504.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.0,
-   "score": 1699,
-   "pr": {
-    "Comodín": [
-     9452.59,
-     "https://www.comodinencasa.com.ar/vino-don-david-cabernet-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     5614.5,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-don-david-750-cc-2/p"
-    ],
-    "Carrefour": [
-     8504.25,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-750-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Saborizada Sin Gas Sabor Manzanella 500 Ml H2Oh",
-   "m": "H2OH",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872584/Saborizada-Manzana-Sin-Gas-X-500-Cc-H2oh-1-1007673.jpg?v=638864625779870000",
-   "cadena": "Jumbo",
-   "precio": 850.0,
-   "link": "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p",
-   "referencia": 1800.0,
-   "precio_2da": 1250.0,
-   "baja_pct": 52.8,
-   "brecha_pct": 32.0,
-   "score": 1689,
-   "pr": {
-    "Vea": [
-     1250.0,
-     "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Jumbo": [
-     850.0,
-     "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "ChangoMás": [
-     1599.0,
-     "https://www.masonline.com.ar/agua-saborizada-sin-gas-h2oh-sabor-manzana-500-ml-2/p"
     ]
    }
   },
@@ -548,7 +413,7 @@
     ],
     "ChangoMás": [
      4699.0,
-     "https://www.masonline.com.ar/shampoo-suave-bomba-jazmin-930ml-2/p"
+     "https://www.masonline.com.ar/shampoo-suave-vit-bomba-jazmin-930ml-2/p"
     ]
    }
   },
@@ -812,33 +677,6 @@
    }
   },
   {
-   "n": "Vino blanco dulce Callia 750 ml",
-   "m": "Callia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823272/7798108834155_01.jpg?v=639083182000130000",
-   "cadena": "ChangoMás",
-   "precio": 2964.5,
-   "link": "https://www.masonline.com.ar/vino-blanco-dulce-callia-tardio-750ml-2/p",
-   "referencia": 5929.0,
-   "precio_2da": 4296.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.0,
-   "score": 1550,
-   "pr": {
-    "Carrefour": [
-     4296.75,
-     "https://www.carrefour.com.ar/vino-blanco-blend-xv-canciller-750-ml--672014/p"
-    ],
-    "Comodín": [
-     5313.39,
-     "https://www.comodinencasa.com.ar/vino-callia-alta-amable-tardio-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     2964.5,
-     "https://www.masonline.com.ar/vino-blanco-dulce-callia-tardio-750ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Caramelos Halls Menta Extra Fuerte 9 uni",
    "m": "Halls",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/790037/7622202271267_E01.jpg?v=639038428381270000",
@@ -936,13 +774,13 @@
      4159.0,
      "https://www.carrefour.com.ar/chocolate-cofler-estilo-dubai-43-grs-776022/p"
     ],
-    "Vea": [
-     2340.0,
-     "https://www.vea.com.ar/chocolate-dubai-43-grs-cofler/p"
-    ],
     "ChangoMás": [
      4159.0,
      "https://www.masonline.com.ar/tableta-de-chocolate-cofler-dubai-pistacho-43-g/p"
+    ],
+    "Vea": [
+     2340.0,
+     "https://www.vea.com.ar/chocolate-dubai-43-grs-cofler/p"
     ]
    }
   },
@@ -1082,34 +920,7 @@
    }
   },
   {
-   "n": "Caramelos Tutti Frutti Flynn Paff 128 Gr",
-   "m": "GEORGALOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/471475/Caramelos-Flynn-Paff-Tutti-Frutti-128-Gr-1-2455.jpg?v=636693839570200000",
-   "cadena": "Jumbo",
-   "precio": 1830.0,
-   "link": "https://www.jumbo.com.ar/caramelos-tutti-frutti-flynn-paff-128-gr/p",
-   "referencia": 3050.0,
-   "precio_2da": 2959.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1526,
-   "pr": {
-    "Vea": [
-     2990.0,
-     "https://www.vea.com.ar/caramelos-tutti-frutti-flynn-paff-128-gr/p"
-    ],
-    "Jumbo": [
-     1830.0,
-     "https://www.jumbo.com.ar/caramelos-tutti-frutti-flynn-paff-128-gr/p"
-    ],
-    "ChangoMás": [
-     2959.0,
-     "https://www.masonline.com.ar/caramelo-tuti-fruti-flynn-paff-128gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Aguila Para Taza 100 Gr",
+   "n": "Chocolate para Taza 100 Grs Aguila",
    "m": "AGUILA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/582968/Chocolate-Aguila-Para-Taza-100-Gr-1-10739.jpg?v=637234676290200000",
    "cadena": "Jumbo",
@@ -1298,37 +1109,6 @@
     "Jumbo": [
      4350.0,
      "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Red Blend Malbec 750 Cc Nicasia",
-   "m": "NICASIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/413500/Vino-Tinto-Nicasia-Vineyard-Red-Blend-Malbec-750-Cc-1-239521.jpg?v=636442083394300000",
-   "cadena": "Vea",
-   "precio": 6375.0,
-   "link": "https://www.vea.com.ar/vino-tinto-vineyard-red-blend-malbec-750-ml-nicasia/p",
-   "referencia": 12750.0,
-   "precio_2da": 9133.38,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.2,
-   "score": 1510,
-   "pr": {
-    "Vea": [
-     6375.0,
-     "https://www.vea.com.ar/vino-tinto-vineyard-red-blend-malbec-750-ml-nicasia/p"
-    ],
-    "Jumbo": [
-     9133.38,
-     "https://www.jumbo.com.ar/vino-tinto-vineyard-red-blend-malbec-750-ml-nicasia/p"
-    ],
-    "Carrefour": [
-     10056.75,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-red-blend-nicasia-750-cc/p"
-    ],
-    "ChangoMás": [
-     13279.0,
-     "https://www.masonline.com.ar/vino-red-blend-nicasia-vineyard-750ml-2/p"
     ]
    }
   },
