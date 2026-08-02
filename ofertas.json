@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-02",
- "actualizado": "2026-08-02 14:32",
+ "actualizado": "2026-08-02 16:50",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-01",
   "2026-08-02"
  ],
- "total": 46,
+ "total": 42,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -51,60 +51,29 @@
    }
   },
   {
-   "n": "Vino Benjamin Dulce Blanco 750ml",
-   "m": "Benjamin Nieto",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/179959/Foto-Producto.png?v=638641721973300000",
-   "cadena": "ChangoMás",
-   "precio": 3249.5,
-   "link": "https://www.masonline.com.ar/vino-blanco-nieto-senetiner-benjamin-dulce-coleccion-tardia-750ml-2/p",
-   "referencia": 6499.0,
-   "precio_2da": 6565.0,
+   "n": "Vino tinto Malbec Reserva Álamos 750 ml",
+   "m": "Alamos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299887/7794450091338_01.jpg?v=638852713201800000",
+   "cadena": "Vea",
+   "precio": 6499.5,
+   "link": "https://www.vea.com.ar/vino-alamos-malbec-x-750cc/p",
+   "referencia": 12999.0,
+   "precio_2da": 12929.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
+   "brecha_pct": 49.7,
+   "score": 2486,
    "pr": {
-    "Comodín": [
-     6588.39,
-     "https://www.comodinencasa.com.ar/vino-benjamin-dulce-blanco-750ml/p"
-    ],
     "Carrefour": [
-     6565.0,
-     "https://www.carrefour.com.ar/vino-blanco-sauvignon-blanc-benjamin-750-ml-725348/p"
+     13059.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-reserva-alamos-750-cc/p"
     ],
-    "ChangoMás": [
-     3249.5,
-     "https://www.masonline.com.ar/vino-blanco-nieto-senetiner-benjamin-dulce-coleccion-tardia-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Plato Hondo Transparente Vidrio Gema Durax",
-   "m": "SD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
-   "cadena": "ChangoMás",
-   "precio": 889.5,
-   "link": "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p",
-   "referencia": 1779.0,
-   "precio_2da": 1779.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
     "Vea": [
-     2064.3,
-     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
-    ],
-    "Jumbo": [
-     2064.3,
-     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
-    ],
-    "Carrefour": [
-     1779.0,
-     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
+     6499.5,
+     "https://www.vea.com.ar/vino-alamos-malbec-x-750cc/p"
     ],
     "ChangoMás": [
-     889.5,
-     "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p"
+     12929.0,
+     "https://www.masonline.com.ar/vino-tinto-reserva-malbec-alamos-750-cc-2/p"
     ]
    }
   },
@@ -190,33 +159,6 @@
    }
   },
   {
-   "n": "Vino Tinto Finca Las Moras Syrah 750ml",
-   "m": "Finca Las Moras",
-   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/266575/front-view-27093.jpg?v=638065534190700000",
-   "cadena": "ChangoMás",
-   "precio": 2619.5,
-   "link": "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p",
-   "referencia": 5239.0,
-   "precio_2da": 4898.39,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2326,
-   "pr": {
-    "ChangoMás": [
-     2619.5,
-     "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p"
-    ],
-    "Carrefour": [
-     5240.0,
-     "https://www.carrefour.com.ar/vino-tinto-syrah-finca-las-moras-750-cc-44367/p"
-    ],
-    "Comodín": [
-     4898.39,
-     "https://www.comodinencasa.com.ar/vino-finca-las-moras-syrah-x-750-ml/p"
-    ]
-   }
-  },
-  {
    "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
    "m": "Colon",
    "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
@@ -233,13 +175,13 @@
      6274.39,
      "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
     ],
-    "ChangoMás": [
-     3174.5,
-     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
-    ],
     "Carrefour": [
      5909.0,
      "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
+    ],
+    "ChangoMás": [
+     3174.5,
+     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
     ]
    }
   },
@@ -260,13 +202,13 @@
      7029.0,
      "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-elementos-750-cc/p"
     ],
-    "ChangoMás": [
-     3479.5,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p"
-    ],
     "Comodín": [
      6270.19,
      "https://www.comodinencasa.com.ar/vino-elementos-cabernet-suav-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     3479.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-elementos-750-cc-2/p"
     ]
    }
   },
@@ -897,33 +839,6 @@
    }
   },
   {
-   "n": "Chocolate Cofler estilo Dubai 43 grs",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/828858/77973986_E02.jpg?v=639093576182900000",
-   "cadena": "Vea",
-   "precio": 2340.0,
-   "link": "https://www.vea.com.ar/chocolate-dubai-43-grs-cofler/p",
-   "referencia": 3600.0,
-   "precio_2da": 4159.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.7,
-   "score": 1531,
-   "pr": {
-    "Carrefour": [
-     4159.0,
-     "https://www.carrefour.com.ar/chocolate-cofler-estilo-dubai-43-grs-776022/p"
-    ],
-    "ChangoMás": [
-     4159.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-cofler-dubai-pistacho-43-g/p"
-    ],
-    "Vea": [
-     2340.0,
-     "https://www.vea.com.ar/chocolate-dubai-43-grs-cofler/p"
-    ]
-   }
-  },
-  {
    "n": "Alfajor Sabor Dulce de Leche 330 Grs x 6 Un Jorgito",
    "m": "JORGITO",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/193754/Alfajores-Jorgito-Negros-C-dceleche-Alfajor-Negro-Con-Dulce-De-Leche-Jorgito-330-Gr-1-30113.jpg?v=636383546048700000",
@@ -1221,33 +1136,6 @@
     "Jumbo": [
      4350.0,
      "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Cauterización Reparadora 500 Ml Tresemmé",
-   "m": "TRESEMMÉ",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865494/Shampoo-Cauterizaci-n-Reparadora-X-500-Ml-Tresemm-1-1037022.jpg?v=638814514358730000",
-   "cadena": "Jumbo",
-   "precio": 6420.0,
-   "link": "https://www.jumbo.com.ar/shampoo-cauterizacion-reparadora-x-500-ml-tresemme/p",
-   "referencia": 10700.0,
-   "precio_2da": 10319.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.8,
-   "score": 1511,
-   "pr": {
-    "Jumbo": [
-     6420.0,
-     "https://www.jumbo.com.ar/shampoo-cauterizacion-reparadora-x-500-ml-tresemme/p"
-    ],
-    "ChangoMás": [
-     11239.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-cauterizacion-reparadora-500ml-2/p"
-    ],
-    "Carrefour": [
-     10319.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p"
     ]
    }
   },
