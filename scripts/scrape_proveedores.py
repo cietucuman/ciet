@@ -1,0 +1,220 @@
+#!/usr/bin/env python3
+"""
+Motor de PROVEEDORES (CIET) — dónde comprar al por mayor los productos ganadores.
+
+Busca cada producto ganador en los catálogos mayoristas argentinos que publican
+precios de forma pública, y arma el match "producto ganador → proveedor".
+
+Cómo lee los catálogos: casi todos los mayoristas AR corren sobre TiendaNube o
+WooCommerce, y ambos emiten JSON-LD (schema.org/Product) en la página de
+resultados. Eso da nombre, precio, moneda, imagen y link sin depender del HTML,
+que cambia seguido. No hace falta navegador: son requests simples.
+
+IMPORTANTE — proveedores con clave: los catálogos que piden contraseña (Kiran
+Import, Fyn Tecno) NO se scrapean ni se publican. El repo del CIET es público, y
+publicar precios de un catálogo privado expondría datos que el proveedor eligió
+no mostrar, además de arriesgar tu relación comercial. Van en el directorio como
+ficha de contacto, para consultarlos a mano.
+
+Uso:
+    python3 scripts/scrape_proveedores.py -o /tmp/proveedores_ar.json
+    python3 scripts/scrape_proveedores.py --productos /tmp/productos_ar.json
+"""
+import argparse
+import concurrent.futures
+import datetime
+import json
+import re
+import sys
+import time
+import unicodedata
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+# Proveedores. `buscar` = plantilla de búsqueda ({q} = término). Si es None, el
+# proveedor va sólo al directorio (no tiene catálogo público consultable).
+PROVEEDORES = [
+    {
+        "id": "desellershub", "nombre": "DeSellersHub",
+        "url": "https://www.desellershub.com",
+        "buscar": "https://www.desellershub.com/search/?q={q}",
+        "plataforma": "TiendaNube", "rubro": "Electrónica y tecnología",
+        "nota": "Venta por bulto cerrado, precios en USD. Envíos a todo el país.",
+    },
+    {
+        "id": "importadoraelectro", "nombre": "Importadora Electro",
+        "url": "https://importadoraelectro.com",
+        "buscar": "https://importadoraelectro.com/search/?q={q}",
+        "plataforma": "TiendaNube", "rubro": "Accesorios de celular y electrónica",
+        "nota": "Precios en pesos, compra online.",
+    },
+    {
+        "id": "once", "nombre": "Once.ar",
+        "url": "https://www.once.ar",
+        "buscar": "https://www.once.ar/?s={q}&post_type=product",
+        "plataforma": "WooCommerce", "rubro": "Bazar, electrónica y hogar",
+        "nota": "Mayorista del Once online. Pedido mínimo $80.000.",
+    },
+    # --- Directorio (sin catálogo público consultable) ---
+    {
+        "id": "kiran", "nombre": "Kiran Import", "url": "https://kiranimport.com",
+        "buscar": None, "plataforma": "Catálogo con clave", "rubro": "Importados variados",
+        "nota": "El catálogo pide contraseña. No se scrapea: es privado del proveedor. "
+                "Consultá a mano; la clave se pide por Instagram.",
+        "contacto": "https://www.instagram.com/kiranimport/",
+    },
+    {
+        "id": "fyntecno", "nombre": "Fyn Tecno", "url": "https://fyntecno.com",
+        "buscar": None, "plataforma": "Catálogo con clave", "rubro": "Tecnología",
+        "nota": "El catálogo pide clave de acceso. No se scrapea: consultá a mano.",
+    },
+    {
+        "id": "lambotech", "nombre": "LamboTech", "url": "https://lambotecharg.com",
+        "buscar": None, "plataforma": "Web sin catálogo", "rubro": "Celulares y electrónica importada",
+        "nota": "La web es institucional, sin catálogo de productos consultable.",
+        "contacto": "https://www.instagram.com/lambotechstore/",
+    },
+    {
+        "id": "newred", "nombre": "NewRed Mayorista", "url": "https://linktr.ee/newredcentral",
+        "buscar": None, "plataforma": "Instagram / presencial", "rubro": "Electrodomésticos y hogar",
+        "nota": "Opera por Instagram y sucursales (San Justo, Merlo, G. Catán, Burzaco). "
+                "Compra mínima 3 unidades.",
+        "contacto": "https://www.instagram.com/newred.central/",
+    },
+]
+
+
+def norm(s):
+    s = unicodedata.normalize("NFKD", (s or "").lower())
+    return "".join(c for c in s if not unicodedata.combining(c))
+
+
+def bajar(url, timeout=25):
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA,
+                                                   "Accept-Language": "es-AR,es;q=0.9"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read().decode("utf-8", errors="ignore")
+    except Exception:
+        return None
+
+
+def productos_jsonld(html):
+    """Saca los schema.org/Product del HTML (TiendaNube y WooCommerce los emiten)."""
+    if not html:
+        return []
+    out = []
+    for bloque in re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',
+                             html, re.S):
+        try:
+            d = json.loads(bloque)
+        except Exception:
+            continue
+        for item in (d if isinstance(d, list) else [d]):
+            if not isinstance(item, dict):
+                continue
+            if item.get("@type") == "Product":
+                out.append(item)
+            # WooCommerce a veces anida en @graph
+            for g in item.get("@graph", []) if isinstance(item.get("@graph"), list) else []:
+                if isinstance(g, dict) and g.get("@type") == "Product":
+                    out.append(g)
+    return out
+
+
+def precio_de(p):
+    of = p.get("offers") or {}
+    if isinstance(of, list):
+        of = of[0] if of else {}
+    if not isinstance(of, dict):
+        return None, None, None
+    precio = of.get("price") or of.get("lowPrice")
+    try:
+        precio = float(str(precio).replace(",", "."))
+    except Exception:
+        precio = None
+    return precio, of.get("priceCurrency"), of.get("url")
+
+
+def buscar_en(prov, termino):
+    url = prov["buscar"].format(q=urllib.parse.quote(termino))
+    html = bajar(url)
+    res = []
+    for p in productos_jsonld(html):
+        nombre = (p.get("name") or "").strip()
+        if not nombre:
+            continue
+        precio, moneda, link = precio_de(p)
+        img = p.get("image")
+        if isinstance(img, list):
+            img = img[0] if img else None
+        res.append({
+            "proveedor": prov["id"], "proveedor_nombre": prov["nombre"],
+            "nombre": nombre[:110], "precio": precio, "moneda": moneda or "ARS",
+            "link": link or url, "img": img,
+        })
+    return res[:8]
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-o", "--out", default="/tmp/proveedores_ar.json")
+    ap.add_argument("--productos", help="productos_ar.json para tomar los términos a buscar")
+    ap.add_argument("--terminos", help="archivo con términos, uno por línea (alternativa)")
+    ap.add_argument("--pausa", type=float, default=1.0)
+    args = ap.parse_args()
+
+    # Términos = títulos de los productos ganadores (el match que queremos).
+    terminos = []
+    if args.productos and Path(args.productos).exists():
+        d = json.loads(Path(args.productos).read_text(encoding="utf-8"))
+        vistos = set()
+        for p in sorted(d.get("productos", []), key=lambda x: -x.get("score", 0)):
+            t = (p.get("titulo") or "").strip()
+            if t and norm(t) not in vistos:
+                vistos.add(norm(t))
+                terminos.append(t)
+    elif args.terminos:
+        terminos = [l.strip() for l in Path(args.terminos).read_text(encoding="utf-8").splitlines()
+                    if l.strip() and not l.startswith("#")]
+    if not terminos:
+        sys.exit("Sin términos. Pasá --productos productos_ar.json o --terminos archivo.txt")
+
+    consultables = [p for p in PROVEEDORES if p.get("buscar")]
+    print(f"Buscando {len(terminos)} productos en {len(consultables)} proveedores…")
+
+    busquedas = {}
+    for i, t in enumerate(terminos, 1):
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(consultables)) as ex:
+            futs = {ex.submit(buscar_en, p, t): p for p in consultables}
+            filas = []
+            for f in concurrent.futures.as_completed(futs):
+                try:
+                    filas.extend(f.result() or [])
+                except Exception:
+                    pass
+        filas.sort(key=lambda x: (x["precio"] is None, x["precio"] or 0))
+        busquedas[t] = filas
+        n_prov = len({f["proveedor"] for f in filas})
+        print(f"  [{i}/{len(terminos)}] {t}: {len(filas)} resultados en {n_prov} proveedores")
+        if i < len(terminos):
+            time.sleep(args.pausa)
+
+    salida = {
+        "generado": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
+        "proveedores": [{k: v for k, v in p.items() if k != "buscar"} |
+                        {"consultable": bool(p.get("buscar"))} for p in PROVEEDORES],
+        "busquedas": busquedas,
+    }
+    Path(args.out).parent.mkdir(parents=True, exist_ok=True)
+    Path(args.out).write_text(json.dumps(salida, ensure_ascii=False), encoding="utf-8")
+    con = sum(1 for v in busquedas.values() if v)
+    print(f"\nOK: {con}/{len(terminos)} productos con proveedor → {args.out}")
+
+
+if __name__ == "__main__":
+    main()

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CIET — E-commerce · Productos ganadores</title>
+<title>CIET — E-commerce · Panel</title>
 <meta name="robots" content="noindex, nofollow">
 <link rel="icon" type="image/svg+xml" href="/ciet/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,9 +23,9 @@
   body { background:var(--paper); color:var(--ink); font-family:var(--sans); line-height:1.6; -webkit-font-smoothing:antialiased; }
   .wrap { max-width:1000px; margin:0 auto; padding:0 28px; }
   a { color:var(--accent); }
-
-  /* Candado (acceso light) */
   [hidden] { display:none !important; }
+
+  /* Candado */
   #gate { position:fixed; inset:0; z-index:50; background:var(--paper); display:flex; align-items:center; justify-content:center; padding:24px; }
   #gate .box { width:100%; max-width:380px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:38px 34px; text-align:center; }
   #gate .lock { width:46px; height:46px; margin:0 auto 18px; border-radius:12px; background:var(--accent-soft); display:flex; align-items:center; justify-content:center; }
@@ -42,73 +42,54 @@
   .brand-t { font-family:var(--serif); font-weight:600; font-size:1.08rem; line-height:1; }
   .brand-s { font-size:.72rem; color:var(--muted); margin-top:3px; }
   .topbar .back { margin-left:auto; font-size:.82rem; color:var(--muted); text-decoration:none; }
+  .topbar .back:hover { color:var(--accent); }
 
-  .hero { padding:48px 0 26px; }
+  .hero { padding:52px 0 8px; }
   .hero .kicker { font-size:.72rem; text-transform:uppercase; letter-spacing:.18em; color:var(--accent); font-weight:600; display:flex; align-items:center; gap:10px; }
   .hero .kicker::after { content:""; height:1px; width:46px; background:var(--line-strong); }
-  .hero h1 { font-family:var(--serif); font-weight:400; font-size:clamp(1.9rem,4.6vw,2.9rem); line-height:1.1; letter-spacing:-.02em; margin:18px 0 0; max-width:20ch; }
-  .hero .lead { color:var(--muted); font-size:1.05rem; margin-top:16px; max-width:64ch; }
+  .hero h1 { font-family:var(--serif); font-weight:400; font-size:clamp(2rem,4.8vw,3rem); line-height:1.1; letter-spacing:-.02em; margin:18px 0 0; max-width:20ch; }
+  .hero .lead { color:var(--muted); font-size:1.05rem; margin-top:16px; max-width:62ch; }
 
-  .tabs { display:flex; gap:6px; flex-wrap:wrap; border-bottom:1px solid var(--line); margin-top:32px; }
-  .tab { border:none; background:none; font-family:var(--sans); font-size:.9rem; font-weight:600; color:var(--muted); padding:12px 16px; cursor:pointer; border-bottom:2px solid transparent; margin-bottom:-1px; display:flex; align-items:center; gap:8px; }
-  .tab:hover { color:var(--ink); }
-  .tab.on { color:var(--accent); border-bottom-color:var(--accent); }
-  .tab .soon { font-size:.6rem; text-transform:uppercase; letter-spacing:.06em; background:var(--surface); color:var(--muted); padding:2px 6px; border-radius:20px; }
+  .step { padding-top:46px; }
+  .step-h { display:flex; align-items:baseline; gap:12px; margin-bottom:18px; }
+  .step-n { font-family:var(--serif); font-size:.9rem; font-weight:600; color:#fff; background:var(--accent); width:26px; height:26px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; align-self:center; }
+  .step-h h2 { font-size:.78rem; text-transform:uppercase; letter-spacing:.15em; color:var(--muted); font-weight:600; }
+  .step-h .sub { font-size:.82rem; color:var(--muted); margin-left:auto; }
 
-  .panel { display:none; padding-top:24px; }
-  .panel.on { display:block; }
-  .meta-row { display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:18px; }
-  .meta-row .src-desc { font-size:.88rem; color:var(--muted); max-width:66ch; }
-  .meta-row .stamp { font-size:.76rem; color:var(--muted); white-space:nowrap; }
+  .big { display:block; border:1px solid var(--line); border-radius:16px; padding:28px 30px; background:var(--card); text-decoration:none; color:inherit; transition:transform .2s, box-shadow .2s, border-color .2s; }
+  .big:hover { transform:translateY(-3px); box-shadow:0 16px 38px -16px rgba(20,57,95,.3); border-color:var(--line-strong); }
+  .big.feature { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .big h3 { font-family:var(--serif); font-weight:500; font-size:1.6rem; letter-spacing:-.01em; line-height:1.15; }
+  .big p { color:var(--muted); font-size:.95rem; margin-top:10px; max-width:58ch; }
+  .big.feature p { color:#cddae8; }
+  .big .cta { display:inline-flex; align-items:center; gap:7px; margin-top:18px; font-weight:600; font-size:.92rem; color:var(--accent); }
+  .big.feature .cta { color:#fff; }
+  .big .arw { transition:transform .2s; }
+  .big:hover .arw { transform:translateX(4px); }
 
-  /* Productos */
-  .prods { display:flex; flex-direction:column; gap:12px; }
-  .prod { display:grid; grid-template-columns:34px 104px 1fr auto; gap:16px; align-items:start; border:1px solid var(--line); border-radius:12px; padding:16px 18px; background:var(--card); }
-  .prod .pos { font-family:var(--serif); font-size:1.3rem; font-weight:600; color:var(--accent); text-align:center; font-variant-numeric:tabular-nums; padding-top:2px; }
-  .prod .thumb { width:104px; height:104px; border-radius:10px; object-fit:cover; background:var(--surface); border:1px solid var(--line); }
-  .prod .titulo { font-family:var(--serif); font-weight:600; font-size:1.16rem; letter-spacing:-.01em; line-height:1.2; }
-  .prod .txt { color:var(--muted); font-size:.82rem; line-height:1.4; margin-top:3px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
-  .prod .tags { display:flex; flex-wrap:wrap; gap:6px; margin-top:9px; }
-  .tag { font-size:.7rem; font-weight:600; padding:3px 9px; border-radius:20px; background:var(--surface); color:var(--muted); display:inline-flex; align-items:center; gap:5px; }
-  .tag.dup { background:var(--hot-soft); color:var(--hot); }
-  .tag.vend { background:var(--accent-soft); color:var(--accent-2); }
-  .tag.age { background:var(--ok-soft); color:var(--ok); }
-  .prod .score { text-align:right; }
-  .prod .score .n { font-family:var(--serif); font-size:1.5rem; font-weight:600; font-variant-numeric:tabular-nums; line-height:1; }
-  .prod .score .l { font-size:.66rem; text-transform:uppercase; letter-spacing:.08em; color:var(--muted); margin-top:4px; }
-  .toggle { margin-top:12px; background:none; border:none; padding:0; font-family:var(--sans); font-size:.8rem; font-weight:600; color:var(--accent); cursor:pointer; display:inline-flex; align-items:center; gap:7px; }
-  .toggle .arw { transition:transform .18s; font-size:.6rem; }
-  .prod.open .toggle .arw { transform:rotate(90deg); }
-  .detalle { grid-column:1 / -1; display:none; margin-top:2px; padding-top:14px; border-top:1px dashed var(--line-strong); }
-  .prod.open .detalle { display:block; }
-  .det-v { font-size:.85rem; padding:8px 0; display:flex; flex-wrap:wrap; align-items:baseline; gap:5px 10px; border-bottom:1px solid var(--line); }
-  .det-v .vn { font-weight:600; }
-  .det-v .vc { color:var(--muted); font-size:.76rem; }
-  .det-v .ads { display:flex; flex-wrap:wrap; gap:5px; }
-  .det-v .ads a { font-size:.74rem; color:var(--accent); text-decoration:none; border:1px solid var(--line); border-radius:6px; padding:1px 8px; }
-  .det-v .ads a:hover { background:var(--accent-soft); }
-  .det-all { display:inline-block; margin-top:12px; font-size:.82rem; font-weight:600; text-decoration:none; }
-  .det-all:hover { text-decoration:underline; }
+  .nums { display:flex; flex-wrap:wrap; gap:26px; margin-top:22px; padding-top:20px; border-top:1px solid rgba(255,255,255,.18); }
+  .big:not(.feature) .nums { border-top-color:var(--line); }
+  .num b { font-family:var(--serif); font-size:1.7rem; font-weight:600; display:block; line-height:1; font-variant-numeric:tabular-nums; }
+  .num span { font-size:.74rem; color:#9cc0e0; text-transform:uppercase; letter-spacing:.07em; }
+  .big:not(.feature) .num span { color:var(--muted); }
 
-  .empty { border:1px dashed var(--line-strong); border-radius:14px; padding:40px 28px; text-align:center; color:var(--muted); }
-  .empty h3 { font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.2rem; margin-bottom:8px; }
-  .howto { margin-top:30px; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:22px 26px; font-size:.9rem; color:var(--muted); line-height:1.7; }
-  .howto b { color:var(--ink); }
-  footer { border-top:1px solid var(--line); margin-top:56px; }
+  .fuentes { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px; margin-top:14px; }
+  .f { border:1px solid var(--line); border-radius:11px; padding:13px 15px; background:var(--card); font-size:.85rem; }
+  .f.soon { background:transparent; border-style:dashed; color:var(--muted); }
+  .f b { display:block; font-size:.9rem; margin-bottom:3px; }
+  .f .st { font-size:.68rem; text-transform:uppercase; letter-spacing:.07em; font-weight:600; padding:2px 8px; border-radius:20px; display:inline-block; margin-top:7px; }
+  .st.on { background:var(--ok-soft); color:var(--ok); }
+  .st.off { background:var(--surface); color:var(--muted); }
+  .f small { color:var(--muted); font-size:.78rem; }
+
+  .info { margin-top:16px; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:20px 24px; font-size:.89rem; color:var(--muted); line-height:1.65; }
+  .info b { color:var(--ink); }
+  footer { border-top:1px solid var(--line); margin-top:60px; }
   footer .wrap { padding:26px 28px; color:var(--muted); font-size:.78rem; }
-
-  @media (max-width:620px) {
-    .prod { grid-template-columns:26px 84px 1fr; row-gap:8px; }
-    .prod .thumb { width:84px; height:84px; }
-    .prod .score { grid-column:2 / -1; text-align:left; }
-  }
 </style>
 </head>
 <body>
 
-<!-- Candado simple: mantiene afuera a los curiosos. No es cifrado fuerte; el
-     contenido son datos públicos agregados. Para cambiar la clave, poné el
-     SHA-256 de la nueva en CLAVE_HASH (ver ECOMMERCE.md). -->
 <div id="gate">
   <div class="box">
     <div class="lock"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#14395f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div>
@@ -130,49 +111,63 @@
         <div class="brand-t">CIET · E-commerce</div>
         <div class="brand-s">Investigación de productos — acceso privado</div>
       </div>
-      <a class="back" href="index.html">← Volver al inicio</a>
+      <a class="back" href="index.html">← Salir al sitio público</a>
     </div>
   </div>
 
   <div class="wrap">
     <section class="hero">
-      <div class="kicker">Productos ganadores</div>
-      <h1>Qué producto se está vendiendo, según los anuncios duplicados</h1>
-      <p class="lead">Agrupamos los anuncios de la biblioteca de Meta por su imagen: el mismo producto, aunque lo vendan cuentas distintas, cae en un solo grupo. El ganador es el que tiene más anuncios duplicados, más vendedores y más tiempo al aire.</p>
+      <div class="kicker">Panel</div>
+      <h1>De qué se vende mucho, a dónde comprarlo</h1>
+      <p class="lead">El circuito completo en dos pasos: primero detectamos qué productos están escalando en publicidad y demanda; después buscamos ese producto en los mayoristas argentinos para saber a cuánto conseguirlo.</p>
+    </section>
 
-      <div class="tabs" id="tabs">
-        <button class="tab on" data-src="ar">Biblioteca de anuncios · Argentina</button>
-        <button class="tab" data-src="eu">Biblioteca · España <span class="soon">pronto</span></button>
-        <button class="tab" data-src="ml">MercadoLibre <span class="soon">pronto</span></button>
+    <!-- PASO 1 -->
+    <section class="step">
+      <div class="step-h"><span class="step-n">1</span><h2>Búsqueda de ganadores</h2><span class="sub" id="stamp-g">—</span></div>
+      <a class="big feature" href="ganadores.html">
+        <h3>Productos ganadores</h3>
+        <p>Productos agrupados por su imagen publicitaria: cuántos anuncios duplicados tienen, cuántas tiendas distintas los venden y hace cuánto están al aire.</p>
+        <div class="nums" id="nums-g">
+          <div class="num"><b id="n-prod">—</b><span>productos</span></div>
+          <div class="num"><b id="n-vend">—</b><span>con varias tiendas</span></div>
+          <div class="num"><b id="n-ads">—</b><span>anuncios del top</span></div>
+        </div>
+        <span class="cta">Ver el ranking <span class="arw">→</span></span>
+      </a>
+
+      <div class="fuentes">
+        <div class="f"><b>Biblioteca de anuncios · AR</b><small>Duplicados, tiendas y antigüedad.</small><br><span class="st on">Activa</span></div>
+        <div class="f soon"><b>MercadoLibre</b><small>Más vendidos y 50 búsquedas en tendencia. Sin costo, ya verificado.</small><br><span class="st off">Próxima</span></div>
+        <div class="f soon"><b>Biblioteca · España</b><small>Adelanta tendencias. Requiere token de Meta.</small><br><span class="st off">Próxima</span></div>
+        <div class="f soon"><b>Histórico y crecimiento</b><small>Cuántos anuncios suma cada producto por semana.</small><br><span class="st off">Próxima</span></div>
       </div>
     </section>
 
-    <div class="panel on" data-panel="ar">
-      <div class="meta-row">
-        <div class="src-desc">Productos detectados en los anuncios <b>activos</b> de Argentina. <b>Anuncios</b> = cuántas veces se repite ese producto; <b>vendedores</b> = cuántas cuentas distintas lo venden; <b>días al aire</b> = antigüedad del anuncio más viejo.</div>
-        <div class="stamp" id="stamp-ar">—</div>
+    <!-- PASO 2 -->
+    <section class="step">
+      <div class="step-h"><span class="step-n">2</span><h2>Proveedores</h2><span class="sub" id="stamp-p">—</span></div>
+      <a class="big" href="proveedores.html">
+        <h3>Dónde comprarlo al por mayor</h3>
+        <p>Cada producto ganador, buscado automáticamente en los catálogos mayoristas argentinos que publican precios, más el directorio de los que se consultan a mano.</p>
+        <div class="nums">
+          <div class="num"><b id="n-prov">—</b><span>proveedores</span></div>
+          <div class="num"><b id="n-cons">—</b><span>con catálogo online</span></div>
+          <div class="num"><b id="n-match">—</b><span>productos con proveedor</span></div>
+        </div>
+        <span class="cta">Ver proveedores <span class="arw">→</span></span>
+      </a>
+      <div class="info">
+        <b>Importar por tu cuenta.</b> Desde el Decreto 604/2026, el régimen puerta a puerta y el courier tienen el mismo tratamiento: estás <b>exento de derechos de importación y tasa de estadística hasta USD 400 FOB por envío</b>, con un máximo de 5 envíos por año por persona. Sirve para traer muestras de un producto ganador antes de comprar volumen.
       </div>
-      <div class="prods" id="prods-ar"></div>
-    </div>
-
-    <div class="panel" data-panel="eu">
-      <div class="empty"><h3>En construcción</h3><p>Motor de la API oficial de Meta apuntando a España (mismo idioma, suele adelantar tendencias). Requiere el token de Meta (verificación de identidad en curso).</p></div>
-    </div>
-    <div class="panel" data-panel="ml">
-      <div class="empty"><h3>En construcción</h3><p>Tendencias de búsqueda de MercadoLibre Argentina: qué buscan los compradores. Requiere dar de alta una app de MercadoLibre.</p></div>
-    </div>
-
-    <div class="howto">
-      <b>Cómo leerlo.</b> Cada fila es un producto (agrupado por su imagen). Muchos anuncios de varios vendedores = producto que todos están empujando a la vez, la señal más fuerte de ganador. Muchos anuncios de un solo vendedor = alguien apostando fuerte. Tocá una fila para ver esos anuncios en la biblioteca de Meta.
-    </div>
+    </section>
   </div>
 
   <footer><div class="wrap">CIET — Sección privada de investigación de e-commerce · Datos de fuentes públicas.</div></footer>
 </div>
 
 <script>
-// ---- Candado ----
-const CLAVE_HASH = "751114e8f99c7419061a9298a19b572ee922ff3d93884a70413dc54d68a76f26"; // sha256("ciet2026")
+const CLAVE_HASH = "751114e8f99c7419061a9298a19b572ee922ff3d93884a70413dc54d68a76f26";
 async function sha256(s){ const b=await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s)); return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join(""); }
 function abrir(){ document.getElementById("gate").hidden=true; document.getElementById("app").hidden=false; cargar(); }
 document.getElementById("gf").addEventListener("submit", async e => {
@@ -182,72 +177,29 @@ document.getElementById("gf").addEventListener("submit", async e => {
   else { document.getElementById("ge").textContent="Clave incorrecta."; document.getElementById("gc").select(); }
 });
 
-// ---- Datos ----
 const RAMA = "ecommerce-datos";
-const URL_AR = `https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/productos_ar.json`;
-const fmtFecha = s => { try { return new Date(s).toLocaleDateString("es-AR",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"}); } catch { return s; } };
-const esc = s => (s||"").replace(/</g,"&lt;");
+const BASE = `https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}`;
+const fmtF = s => { try { return new Date(s).toLocaleDateString("es-AR",{day:"numeric",month:"long"}); } catch { return ""; } };
 
-const tabs = document.getElementById("tabs");
-tabs.addEventListener("click", e => {
-  const t = e.target.closest(".tab"); if (!t) return;
-  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x===t));
-  document.querySelectorAll(".panel").forEach(p => p.classList.toggle("on", p.dataset.panel===t.dataset.src));
-});
-
-const adUrl = id => `https://www.facebook.com/ads/library/?id=${id}`;
-function pintarAR(d) {
-  const cont = document.getElementById("prods-ar");
-  const items = (d.productos||[]).slice().sort((a,b)=>b.score-a.score);
-  document.getElementById("stamp-ar").textContent = d.generado ? "Actualizado: "+fmtFecha(d.generado) : "";
-  if (!items.length) { cont.innerHTML = vacio(); return; }
-  cont.innerHTML = items.map((p,i) => {
-    const img = p.img ? `<img class="thumb" src="${p.img}" alt="" loading="lazy">` : `<div class="thumb"></div>`;
-    const det = (p.detalle||[]).map(v => `<div class="det-v">
-        <span class="vn">${esc(v.adv)}</span><span class="vc">${v.n} ${v.n===1?"anuncio":"anuncios"}</span>
-        <span class="ads">${(v.ids||[]).map((id,k)=>`<a href="${adUrl(id)}" target="_blank" rel="noopener">anuncio ${k+1}</a>`).join("")}</span>
-      </div>`).join("");
-    const nVend = p.vendedores>1 ? `las ${p.vendedores} tiendas` : "la tienda";
-    return `<div class="prod">
-      <div class="pos">${i+1}</div>
-      ${img}
-      <div class="body">
-        <div class="titulo">${esc(p.titulo)||"Producto"}</div>
-        ${p.texto ? `<div class="txt">${esc(p.texto)}</div>` : ""}
-        <div class="tags">
-          <span class="tag dup">${p.anuncios} anuncios</span>
-          ${p.vendedores>=2 ? `<span class="tag vend">${p.vendedores} vendedores</span>` : ""}
-          ${p.dias_activo!=null ? `<span class="tag age">${p.dias_activo} días al aire</span>` : ""}
-          ${p.varias_versiones ? `<span class="tag">varias versiones</span>` : ""}
-        </div>
-        <button class="toggle"><span class="arw">▶</span> Ver ${nVend} que lo venden</button>
-      </div>
-      <div class="score"><div class="n">${Math.round(p.score||0)}</div><div class="l">puntaje</div></div>
-      <div class="detalle">
-        ${det}
-        <a class="det-all" href="${p.link||"#"}" target="_blank" rel="noopener">Ver todos los anuncios en la biblioteca de Meta →</a>
-      </div>
-    </div>`;
-  }).join("");
-}
-// Desplegar/plegar el detalle de cada producto.
-document.getElementById("prods-ar").addEventListener("click", e => {
-  const t = e.target.closest(".toggle"); if (!t) return;
-  t.closest(".prod").classList.toggle("open");
-});
-function vacio() {
-  return `<div class="empty"><h3>Esperando la primera corrida</h3>
-    <p>Todavía no hay datos. Corré <code>scripts/publicar_ganadores_ar.sh</code> para publicar <code>productos_ar.json</code> en la rama <code>${RAMA}</code>.</p></div>`;
-}
 function cargar() {
-  fetch(URL_AR, { cache:"no-store" })
-    .then(r => r.ok ? r.json() : Promise.reject())
-    .then(pintarAR)
-    .catch(() => { document.getElementById("prods-ar").innerHTML = vacio(); });
+  fetch(`${BASE}/productos_ar.json`, {cache:"no-store"}).then(r=>r.json()).then(d => {
+    const ps = (d.productos||[]).slice().sort((a,b)=>b.score-a.score);
+    document.getElementById("n-prod").textContent = ps.length;
+    document.getElementById("n-vend").textContent = ps.filter(p=>p.vendedores>=2).length;
+    document.getElementById("n-ads").textContent = ps.length ? ps[0].anuncios : "—";
+    document.getElementById("stamp-g").textContent = d.generado ? "Actualizado "+fmtF(d.generado) : "";
+  }).catch(()=>{});
+
+  fetch(`${BASE}/proveedores_ar.json`, {cache:"no-store"}).then(r=>r.json()).then(d => {
+    const provs = d.proveedores||[];
+    document.getElementById("n-prov").textContent = provs.length;
+    document.getElementById("n-cons").textContent = provs.filter(p=>p.consultable).length;
+    const b = d.busquedas||{};
+    document.getElementById("n-match").textContent = Object.values(b).filter(v=>v && v.length).length;
+    document.getElementById("stamp-p").textContent = d.generado ? "Actualizado "+fmtF(d.generado) : "";
+  }).catch(()=>{});
 }
 
-// Auto-desbloqueo si ya entró en esta sesión. Va AL FINAL: abrir()→cargar() usa
-// constantes (URL_AR, fmtFecha) declaradas arriba, que ya están inicializadas acá.
 if (sessionStorage.getItem("ciet_ec") === "1") abrir();
 </script>
 </body>
