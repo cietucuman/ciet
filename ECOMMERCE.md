@@ -1,5 +1,29 @@
 # CIET · Sección E-commerce (privada)
 
+## Estructura (3 páginas, misma clave)
+
+- `ecommerce.html` — **panel**: paso 1 (ganadores) y paso 2 (proveedores), con números en vivo.
+- `ganadores.html` — ranking de productos ganadores (biblioteca de anuncios AR).
+- `proveedores.html` — match producto → mayorista, y directorio de proveedores.
+
+## Motor de proveedores
+
+`scripts/scrape_proveedores.py` toma los productos de `productos_ar.json` y busca cada uno en
+los catálogos mayoristas que publican precios, leyendo el **JSON-LD de schema.org** (estable en
+TiendaNube y WooCommerce, no depende del HTML). Publica `proveedores_ar.json` en `ecommerce-datos`.
+
+Consultables hoy: **DeSellersHub** (TiendaNube, USD, bulto cerrado), **Importadora Electro**
+(TiendaNube, ARS), **Once.ar** (WooCommerce, ARS, mínimo $80.000).
+Sólo directorio: **Kiran Import** y **Fyn Tecno** (catálogo con clave — no se scrapean a
+propósito: son datos privados del proveedor y este repo es público), **LamboTech** (web sin
+catálogo), **NewRed** (opera por Instagram y sucursales).
+
+```bash
+python3 scripts/scrape_proveedores.py --productos /tmp/productos_ar.json -o /tmp/proveedores_ar.json
+```
+Corre solo, a diario, pegado al scrape de ganadores (bloque en `~/.ciet-run.sh`).
+
+
 Sección oculta para investigar **productos ganadores**, con acceso por clave.
 Entrada discreta: un `·` casi invisible al final del footer del `index.html`, que
 lleva a `ecommerce.html`. Cada fuente de datos es un **motor independiente** (mismo
