@@ -84,15 +84,8 @@ PROVEEDORES = [
     {
         "id": "lambotech", "nombre": "LamboTech", "url": "https://lambotecharg.com",
         "buscar": None, "plataforma": "Web sin catálogo", "rubro": "Celulares y electrónica importada",
-        "nota": "La web es institucional, sin catálogo de productos consultable.",
+        "nota": "Importador directo. Su catálogo son PDFs por rubro (Drive), no una web consultable: se revisan a mano o se cargan aparte.",
         "contacto": "https://www.instagram.com/lambotechstore/",
-    },
-    {
-        "id": "newred", "nombre": "NewRed Mayorista", "url": "https://linktr.ee/newredcentral",
-        "buscar": None, "plataforma": "Instagram / presencial", "rubro": "Electrodomésticos y hogar",
-        "nota": "Opera por Instagram y sucursales (San Justo, Merlo, G. Catán, Burzaco). "
-                "Compra mínima 3 unidades.",
-        "contacto": "https://www.instagram.com/newred.central/",
     },
 ]
 
@@ -100,6 +93,56 @@ PROVEEDORES = [
 def norm(s):
     s = unicodedata.normalize("NFKD", (s or "").lower())
     return "".join(c for c in s if not unicodedata.combining(c))
+
+
+def dolar():
+    """Dólar blue, para poder comparar costos en USD con precios en pesos."""
+    try:
+        req = urllib.request.Request("https://dolarapi.com/v1/dolares/blue",
+                                     headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            return float(json.loads(r.read())["venta"])
+    except Exception:
+        return 1500.0
+
+
+# Cuánto se multiplica el costo mayorista para llegar al precio de venta al
+# público en venta directa (WhatsApp / contra entrega). 2,5× es el piso habitual.
+MARKUP = 2.5
+# Margen en pesos a partir del cual un producto sirve para el modelo "high ticket":
+# pocas ventas por semana, pero cada una deja mucho.
+UMBRAL_ALTO = 100_000
+UMBRAL_MEDIO = 40_000
+
+
+def costo_unitario(fila, tc):
+    """Costo por unidad en pesos.
+
+    Varios mayoristas (DeSellersHub) venden por bulto cerrado y ponen el precio
+    unitario en el nombre ("Precio Unitario $47.42 USD"); ese es el número que
+    importa, no el total del bulto. Si no está, se usa el precio publicado.
+    """
+    m = re.search(r"Precio\s+Unitario:?\s*\$?\s*([0-9]+(?:[.,][0-9]+)?)\s*USD",
+                  fila.get("nombre") or "", re.I)
+    if m:
+        try:
+            return float(m.group(1).replace(",", ".")) * tc
+        except ValueError:
+            pass
+    precio = fila.get("precio")
+    if precio is None:
+        return None
+    return precio * tc if (fila.get("moneda") == "USD") else precio
+
+
+def segmentar(margen):
+    if margen is None:
+        return None
+    if margen >= UMBRAL_ALTO:
+        return "alto"
+    if margen >= UMBRAL_MEDIO:
+        return "medio"
+    return "bajo"
 
 
 def bajar(url, timeout=25):
@@ -225,7 +268,9 @@ def main():
         sys.exit("Sin términos. Pasá --productos productos_ar.json o --terminos archivo.txt")
 
     consultables = [p for p in PROVEEDORES if p.get("buscar")]
-    print(f"Buscando {len(terminos)} productos en {len(consultables)} proveedores…")
+    tc = dolar()
+    print(f"Buscando {len(terminos)} productos en {len(consultables)} proveedores "
+          f"(dólar ${tc:,.0f})…")
 
     busquedas = {}
     for i, t in enumerate(terminos, 1):
@@ -237,7 +282,15 @@ def main():
                     filas.extend(f.result() or [])
                 except Exception:
                     pass
-        filas.sort(key=lambda x: (x["precio"] is None, x["precio"] or 0))
+        # Costo por unidad, venta estimada y margen → segmento de ticket.
+        for f in filas:
+            c = costo_unitario(f, tc)
+            f["costo_unitario"] = round(c) if c else None
+            f["venta_est"] = round(c * MARKUP) if c else None
+            f["margen_est"] = round(c * (MARKUP - 1)) if c else None
+            f["ticket"] = segmentar(f["margen_est"])
+        # Primero los de mayor margen: es lo que busca el modelo high ticket.
+        filas.sort(key=lambda x: -(x.get("margen_est") or 0))
         busquedas[t] = filas
         n_prov = len({f["proveedor"] for f in filas})
         print(f"  [{i}/{len(terminos)}] {t}: {len(filas)} resultados en {n_prov} proveedores")
@@ -246,6 +299,8 @@ def main():
 
     salida = {
         "generado": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
+        "dolar": tc, "markup": MARKUP,
+        "umbrales": {"alto": UMBRAL_ALTO, "medio": UMBRAL_MEDIO},
         "proveedores": [{k: v for k, v in p.items() if k != "buscar"} |
                         {"consultable": bool(p.get("buscar"))} for p in PROVEEDORES],
         "busquedas": busquedas,
@@ -253,7 +308,9 @@ def main():
     Path(args.out).parent.mkdir(parents=True, exist_ok=True)
     Path(args.out).write_text(json.dumps(salida, ensure_ascii=False), encoding="utf-8")
     con = sum(1 for v in busquedas.values() if v)
+    altos = sum(1 for v in busquedas.values() for f in v if f.get("ticket") == "alto")
     print(f"\nOK: {con}/{len(terminos)} productos con proveedor → {args.out}")
+    print(f"   {altos} opciones de ticket alto (margen ≥ ${UMBRAL_ALTO:,})")
 
 
 if __name__ == "__main__":

@@ -81,6 +81,13 @@
   .chip.on { background:var(--ok-soft); color:var(--ok); }
   .prov a.go { font-size:.84rem; font-weight:600; text-decoration:none; margin-left:auto; }
 
+  .filtros { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:16px; }
+  .fb { font-family:var(--sans); font-size:.82rem; font-weight:600; padding:7px 14px; border-radius:20px; border:1px solid var(--line); background:var(--card); color:var(--muted); cursor:pointer; }
+  .fb.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .fb span { opacity:.7; margin-left:5px; }
+  .fnota { font-size:.76rem; color:var(--muted); margin-left:auto; }
+  .mg { text-align:right; font-family:var(--serif); font-weight:600; font-size:1.02rem; color:var(--ok); white-space:nowrap; }
+  .mg small { display:block; font-family:var(--sans); font-size:.64rem; font-weight:600; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
   .empty { border:1px dashed var(--line-strong); border-radius:14px; padding:36px; text-align:center; color:var(--muted); }
   .nota { margin-top:16px; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:20px 24px; font-size:.88rem; color:var(--muted); line-height:1.65; }
   .nota b { color:var(--ink); }
@@ -125,6 +132,12 @@
     </section>
 
     <h2 class="sec">Producto ganador → dónde conseguirlo</h2>
+    <div class="filtros" id="filtros">
+      <button class="fb on" data-t="alto">Ticket alto <span id="c-alto">0</span></button>
+      <button class="fb" data-t="medio">Medio <span id="c-medio">0</span></button>
+      <button class="fb" data-t="todos">Todos</button>
+      <span class="fnota" id="fnota"></span>
+    </div>
     <div id="matches"></div>
 
     <h2 class="sec">Directorio de proveedores</h2>
@@ -161,11 +174,28 @@ const fmtPrecio = (n,m) => {
   return s;
 };
 
+const pesos = n => "$" + Number(n).toLocaleString("es-AR",{maximumFractionDigits:0});
+let DATA = null, FILTRO = "alto";
+
 function pintar(d) {
+  DATA = d;
   document.getElementById("stamp").textContent = d.generado ? "Actualizado: "+fmtF(d.generado) : "";
-  const b = d.busquedas || {};
+  const bruto = d.busquedas || {};
+  const pasa = f => FILTRO === "todos" ? true
+                  : FILTRO === "alto" ? f.ticket === "alto"
+                  : (f.ticket === "alto" || f.ticket === "medio");
+  const b = {};
+  for (const k of Object.keys(bruto)) {
+    const f = (bruto[k]||[]).filter(pasa);
+    if (f.length) b[k] = f;
+  }
+  const todas = Object.values(bruto).flat();
+  document.getElementById("c-alto").textContent = todas.filter(f=>f.ticket==="alto").length;
+  document.getElementById("c-medio").textContent = todas.filter(f=>f.ticket==="medio").length;
+  document.getElementById("fnota").textContent =
+    `Margen estimado vendiendo a ${d.markup||2.5}× el costo · dólar $${(d.dolar||0).toLocaleString("es-AR",{maximumFractionDigits:0})}`;
   const cont = document.getElementById("matches");
-  const claves = Object.keys(b).filter(k => (b[k]||[]).length);
+  const claves = Object.keys(b);
   cont.innerHTML = claves.length ? claves.map(k => {
     const filas = b[k];
     return `<div class="grp">
@@ -177,8 +207,9 @@ function pintar(d) {
       <div class="grp-b">
         ${filas.map(f => `<a class="row" href="${f.link}" target="_blank" rel="noopener">
           ${f.img ? `<img src="${f.img}" alt="" loading="lazy">` : `<div style="width:54px;height:54px"></div>`}
-          <div><div class="nm">${esc(f.nombre)}</div><div class="pv">${esc(f.proveedor_nombre)}</div></div>
-          <div class="pr">${fmtPrecio(f.precio,f.moneda)}<small>${f.moneda==="USD"?"por bulto":"c/u"}</small></div>
+          <div><div class="nm">${esc(f.nombre)}</div><div class="pv">${esc(f.proveedor_nombre)}${f.costo_unitario?` · costo ${pesos(f.costo_unitario)} c/u`:""}</div></div>
+          ${f.margen_est ? `<div class="mg">+${pesos(f.margen_est)}<small>margen est.</small></div>`
+                         : `<div class="pr">${fmtPrecio(f.precio,f.moneda)}<small>${f.moneda==="USD"?"por bulto":"c/u"}</small></div>`}
         </a>`).join("")}
       </div>
     </div>`;
@@ -196,6 +227,13 @@ function pintar(d) {
     </div>
   </div>`).join("");
 }
+
+document.getElementById("filtros").addEventListener("click", e => {
+  const b = e.target.closest(".fb"); if (!b) return;
+  FILTRO = b.dataset.t;
+  document.querySelectorAll(".fb").forEach(x => x.classList.toggle("on", x === b));
+  if (DATA) pintar(DATA);
+});
 
 document.getElementById("matches").addEventListener("click", e => {
   const h = e.target.closest(".grp-h"); if (!h) return;
