@@ -153,7 +153,7 @@
 
       <div class="tabs" id="tabs">
         <button class="tab on" data-src="ar">Biblioteca de anuncios · Argentina</button>
-        <button class="tab" data-src="eu">Biblioteca · España <span class="soon">pronto</span></button>
+        <button class="tab" data-src="eu">Biblioteca · España</button>
         <button class="tab" data-src="ml">MercadoLibre · demanda</button>
       </div>
     </section>
@@ -167,7 +167,11 @@
     </div>
 
     <div class="panel" data-panel="eu">
-      <div class="empty"><h3>En construcción</h3><p>Motor de la API oficial de Meta apuntando a España (mismo idioma, suele adelantar tendencias). Requiere el token de Meta (verificación de identidad en curso).</p></div>
+      <div class="meta-row">
+        <div class="src-desc">Los mismos productos, pero en <b>España</b>: lo que allá ya está escalando suele llegar acá unos meses después.</div>
+        <div class="stamp" id="stamp-es">—</div>
+      </div>
+      <div class="prods" id="prods-es"></div>
     </div>
     <div class="panel" data-panel="ml">
       <div class="meta-row">
@@ -213,10 +217,10 @@ tabs.addEventListener("click", e => {
 });
 
 const adUrl = id => `https://www.facebook.com/ads/library/?id=${id}`;
-function pintarAR(d) {
-  const cont = document.getElementById("prods-ar");
+function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
+  const cont = document.getElementById(contId);
   const items = (d.productos||[]).slice().sort((a,b)=>b.score-a.score);
-  document.getElementById("stamp-ar").textContent = d.generado ? "Actualizado: "+fmtFecha(d.generado) : "";
+  document.getElementById(stampId).textContent = d.generado ? "Actualizado: "+fmtFecha(d.generado) : "";
   if (!items.length) { cont.innerHTML = vacio(); return; }
   cont.innerHTML = items.map((p,i) => {
     const img = p.img ? `<img class="thumb" src="${p.img}" alt="" loading="lazy">` : `<div class="thumb"></div>`;
@@ -298,6 +302,11 @@ function cargar() {
     .then(r => r.ok ? r.json() : Promise.reject())
     .then(pintarAR)
     .catch(() => { document.getElementById("prods-ar").innerHTML = vacio(); });
+
+  fetch(`https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/productos_es.json`, { cache:"no-store" })
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(d => pintarAR(d, "prods-es", "stamp-es"))
+    .catch(() => { document.getElementById("prods-es").innerHTML = vacio(); });
 
   fetch(URL_ML, { cache:"no-store" })
     .then(r => r.ok ? r.json() : Promise.reject())
