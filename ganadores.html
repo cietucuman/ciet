@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CIET — E-commerce · Productos ganadores</title>
+<title>CIET — Ganadores</title>
 <meta name="robots" content="noindex, nofollow">
 <link rel="icon" type="image/svg+xml" href="/ciet/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -90,6 +90,17 @@
   .det-all { display:inline-block; margin-top:12px; font-size:.82rem; font-weight:600; text-decoration:none; }
   .det-all:hover { text-decoration:underline; }
 
+
+  .mlh { font-family:var(--serif); font-weight:600; font-size:1.05rem; margin:26px 0 12px; }
+  .kws { display:flex; flex-wrap:wrap; gap:7px; }
+  .kw { font-size:.82rem; padding:5px 12px; border-radius:20px; background:var(--card); border:1px solid var(--line); }
+  .kw.up { background:var(--hot-soft); color:var(--hot); border-color:transparent; font-weight:600; }
+  .cruce { display:flex; flex-direction:column; gap:10px; }
+  .cr { display:grid; grid-template-columns:1fr auto; gap:14px; align-items:center; border:1px solid var(--line); border-radius:12px; padding:14px 18px; background:var(--card); }
+  .cr .t { font-family:var(--serif); font-weight:600; font-size:1.1rem; }
+  .cr .tags { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
+  .cr .pz { text-align:right; font-family:var(--serif); font-weight:600; font-size:1.05rem; white-space:nowrap; }
+  .cr .pz small { display:block; font-family:var(--sans); font-size:.66rem; font-weight:600; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
   .empty { border:1px dashed var(--line-strong); border-radius:14px; padding:40px 28px; text-align:center; color:var(--muted); }
   .empty h3 { font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.2rem; margin-bottom:8px; }
   .howto { margin-top:30px; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:22px 26px; font-size:.9rem; color:var(--muted); line-height:1.7; }
@@ -127,8 +138,8 @@
     <div class="inner">
       <div class="mark">C</div>
       <div>
-        <div class="brand-t">CIET · E-commerce</div>
-        <div class="brand-s">Investigación de productos — acceso privado</div>
+        <div class="brand-t">CIET · Ganadores</div>
+        <div class="brand-s">Paso 1 · Búsqueda de ganadores</div>
       </div>
       <a class="back" href="ecommerce.html">← Volver al panel</a>
     </div>
@@ -137,19 +148,19 @@
   <div class="wrap">
     <section class="hero">
       <div class="kicker">Productos ganadores</div>
-      <h1>Qué producto se está vendiendo, según los anuncios duplicados</h1>
-      <p class="lead">Agrupamos los anuncios de la biblioteca de Meta por su imagen: el mismo producto, aunque lo vendan cuentas distintas, cae en un solo grupo. El ganador es el que tiene más anuncios duplicados, más vendedores y más tiempo al aire.</p>
+      <h1>Productos ganadores</h1>
+      
 
       <div class="tabs" id="tabs">
         <button class="tab on" data-src="ar">Biblioteca de anuncios · Argentina</button>
         <button class="tab" data-src="eu">Biblioteca · España <span class="soon">pronto</span></button>
-        <button class="tab" data-src="ml">MercadoLibre <span class="soon">pronto</span></button>
+        <button class="tab" data-src="ml">MercadoLibre · demanda</button>
       </div>
     </section>
 
     <div class="panel on" data-panel="ar">
       <div class="meta-row">
-        <div class="src-desc">Productos detectados en los anuncios <b>activos</b> de Argentina. <b>Anuncios</b> = cuántas veces se repite ese producto; <b>vendedores</b> = cuántas cuentas distintas lo venden; <b>días al aire</b> = antigüedad del anuncio más viejo.</div>
+        <div class="src-desc"></div>
         <div class="stamp" id="stamp-ar">—</div>
       </div>
       <div class="prods" id="prods-ar"></div>
@@ -159,12 +170,18 @@
       <div class="empty"><h3>En construcción</h3><p>Motor de la API oficial de Meta apuntando a España (mismo idioma, suele adelantar tendencias). Requiere el token de Meta (verificación de identidad en curso).</p></div>
     </div>
     <div class="panel" data-panel="ml">
-      <div class="empty"><h3>En construcción</h3><p>Tendencias de búsqueda de MercadoLibre Argentina: qué buscan los compradores. Requiere dar de alta una app de MercadoLibre.</p></div>
+      <div class="meta-row">
+        <div class="src-desc">Los anuncios dicen qué se <b>promociona</b>; MercadoLibre dice qué se <b>busca y compra</b>. Abajo, primero los productos que tienen las dos señales.</div>
+        <div class="stamp" id="stamp-ml">—</div>
+      </div>
+      <div id="ml-cruce"></div>
+      <h3 class="mlh">Búsquedas en tendencia</h3>
+      <div id="ml-tend" class="kws"></div>
+      <h3 class="mlh">Más vendidos de MercadoLibre</h3>
+      <div class="prods" id="ml-mv"></div>
     </div>
 
-    <div class="howto">
-      <b>Cómo leerlo.</b> Cada fila es un producto (agrupado por su imagen). Muchos anuncios de varios vendedores = producto que todos están empujando a la vez, la señal más fuerte de ganador. Muchos anuncios de un solo vendedor = alguien apostando fuerte. Tocá una fila para ver esos anuncios en la biblioteca de Meta.
-    </div>
+    
   </div>
 
   <footer><div class="wrap">CIET — Sección privada de investigación de e-commerce · Datos de fuentes públicas.</div></footer>
@@ -239,11 +256,53 @@ function vacio() {
   return `<div class="empty"><h3>Esperando la primera corrida</h3>
     <p>Todavía no hay datos. Corré <code>scripts/publicar_ganadores_ar.sh</code> para publicar <code>productos_ar.json</code> en la rama <code>${RAMA}</code>.</p></div>`;
 }
+// ---- MercadoLibre: demanda real ----
+const URL_ML = `https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/mercadolibre_ar.json`;
+const pesos = n => "$" + Number(n).toLocaleString("es-AR", {maximumFractionDigits:0});
+
+function pintarML(d) {
+  document.getElementById("stamp-ml").textContent = d.generado ? "Actualizado: "+fmtFecha(d.generado) : "";
+
+  const cr = d.cruce || [];
+  document.getElementById("ml-cruce").innerHTML = cr.length ? `<div class="cruce">${cr.map(c => `
+    <div class="cr">
+      <div>
+        <div class="t">${esc(c.producto)}</div>
+        <div class="tags">
+          <span class="tag dup">${c.anuncios} anuncios</span>
+          ${c.en_tendencias.length ? `<span class="tag vend">buscado: ${c.en_tendencias.slice(0,2).map(esc).join(", ")}</span>` : ""}
+          ${c.en_mas_vendidos ? `<span class="tag age">${c.en_mas_vendidos} entre los más vendidos</span>` : ""}
+        </div>
+      </div>
+      <div class="pz">${c.precio_ml_min ? pesos(c.precio_ml_min) : "—"}<small>${c.precio_ml_max && c.precio_ml_max!==c.precio_ml_min ? "hasta "+pesos(c.precio_ml_max) : "en ML"}</small></div>
+    </div>`).join("")}</div>`
+    : `<div class="empty"><h3>Sin cruces todavía</h3><p>Ningún producto ganador coincide hoy con las tendencias de MercadoLibre.</p></div>`;
+
+  const t = d.tendencias || {};
+  const chip = (k, up) => `<span class="kw ${up?"up":""}">${esc(k)}</span>`;
+  document.getElementById("ml-tend").innerHTML =
+    (t.crecimiento||[]).map(k=>chip(k,true)).join("") +
+    (t.deseadas||[]).concat(t.populares||[]).map(k=>chip(k,false)).join("");
+
+  document.getElementById("ml-mv").innerHTML = (d.mas_vendidos||[]).slice(0,20).map((m,i) => `
+    <a class="prod" href="${m.link}" target="_blank" rel="noopener">
+      <div class="pos">${i+1}</div>
+      ${m.img ? `<img class="thumb" src="${m.img}" alt="" loading="lazy">` : `<div class="thumb"></div>`}
+      <div class="body"><div class="txt">${esc(m.titulo)}</div></div>
+      <div class="score"><div class="n">${m.precio ? pesos(m.precio) : "—"}</div><div class="l">precio</div></div>
+    </a>`).join("");
+}
+
 function cargar() {
   fetch(URL_AR, { cache:"no-store" })
     .then(r => r.ok ? r.json() : Promise.reject())
     .then(pintarAR)
     .catch(() => { document.getElementById("prods-ar").innerHTML = vacio(); });
+
+  fetch(URL_ML, { cache:"no-store" })
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(pintarML)
+    .catch(() => {});
 }
 
 // Auto-desbloqueo si ya entró en esta sesión. Va AL FINAL: abrir()→cargar() usa

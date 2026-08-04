@@ -59,6 +59,15 @@ PROVEEDORES = [
         "plataforma": "WooCommerce", "rubro": "Bazar, electrónica y hogar",
         "nota": "Mayorista del Once online. Pedido mínimo $80.000.",
     },
+    {
+        "id": "newred", "nombre": "NewRed Mayorista",
+        "url": "https://newredmayorista.com.ar",
+        "buscar": "https://newredmayorista.com.ar/?s={q}&post_type=product",
+        "plataforma": "WooCommerce", "rubro": "Electrónica, hogar y electrodomésticos",
+        "nota": "Catálogo online abierto, pero los precios son para mayoristas: "
+                "no los publica en la web, se consultan al pedir. Compra mínima 3 unidades.",
+        "contacto": "https://www.instagram.com/newred.central/",
+    },
     # --- Directorio (sin catálogo público consultable) ---
     {
         "id": "kiran", "nombre": "Kiran Import", "url": "https://kiranimport.com",
@@ -140,11 +149,42 @@ def precio_de(p):
     return precio, of.get("priceCurrency"), of.get("url")
 
 
+def productos_html(html, base):
+    """Fallback para tiendas sin JSON-LD (ej. NewRed, WooCommerce + Elementor).
+
+    Saca título, link e imagen del marcado de WooCommerce. El precio queda en None
+    cuando la tienda no lo publica (los mayoristas suelen mostrarlo sólo al cliente).
+    """
+    if not html:
+        return []
+    out, vistos = [], set()
+    for m in re.finditer(r'product_title[^>]*>\s*<a[^>]+href="([^"]+)"[^>]*>([^<]{4,90})</a>',
+                         html):
+        link, nombre = m.group(1), re.sub(r"\s+", " ", m.group(2)).strip()
+        if link in vistos:
+            continue
+        vistos.add(link)
+        img = None
+        ctx = html[max(0, m.start() - 2500):m.start()]
+        im = re.findall(r'<img[^>]+src="([^"]+\.(?:webp|jpg|jpeg|png))"', ctx)
+        if im:
+            img = im[-1]
+        out.append({"nombre": nombre, "link": link, "img": img, "precio": None})
+    return out
+
+
 def buscar_en(prov, termino):
     url = prov["buscar"].format(q=urllib.parse.quote(termino))
     html = bajar(url)
     res = []
-    for p in productos_jsonld(html):
+    jsonld = productos_jsonld(html)
+    if not jsonld:
+        # Sin JSON-LD: probamos el marcado de WooCommerce.
+        return [{"proveedor": prov["id"], "proveedor_nombre": prov["nombre"],
+                 "nombre": p["nombre"][:110], "precio": None, "moneda": "",
+                 "link": p["link"], "img": p["img"]}
+                for p in productos_html(html, prov["url"])[:8]]
+    for p in jsonld:
         nombre = (p.get("name") or "").strip()
         if not nombre:
             continue

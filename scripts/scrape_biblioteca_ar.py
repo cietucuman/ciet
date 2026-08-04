@@ -41,7 +41,7 @@ except ImportError:
     sys.exit("Falta Pillow: pip3 install --user pillow")
 
 URL = ("https://www.facebook.com/ads/library/?active_status=active&ad_type=all"
-       "&country=AR&q={q}&media_type=all&search_type=keyword_unordered")
+       "&country={pais}&q={q}&media_type=all&search_type=keyword_unordered")
 
 KEYWORDS_DEFAULT = [
     "freidora de aire", "proyector", "cepillo alisador", "masajeador",
@@ -77,6 +77,9 @@ JS_ADS = r"""() => {
   }
   return out;
 }"""
+
+
+PAIS = ["AR"]   # país en curso (lo fija main con --pais)
 
 
 def _norm(s):
@@ -131,7 +134,8 @@ def imagen_display(url, lado=440):
 
 def scrape_keyword(page, kw, scrolls, espera_ms=8000):
     try:
-        page.goto(URL.format(q=kw.replace(" ", "%20")), wait_until="domcontentloaded", timeout=45000)
+        page.goto(URL.format(q=kw.replace(" ", "%20"), pais=PAIS[0]),
+                  wait_until="domcontentloaded", timeout=45000)
     except Exception as e:
         print(f"    ! error navegando '{kw}': {e}", file=sys.stderr)
         return []
@@ -153,11 +157,15 @@ def main():
     ap.add_argument("-o", "--out", default="/tmp/productos_ar.json")
     ap.add_argument("--keywords")
     ap.add_argument("--headless", action="store_true")
+    ap.add_argument("--pais", default="AR",
+                    help="país de la biblioteca: AR, ES, MX… (default AR). "
+                         "España suele adelantar tendencias que después llegan acá.")
     ap.add_argument("--scrolls", type=int, default=12, help="scrolls por producto (más = más anuncios)")
     ap.add_argument("--umbral", type=int, default=6, help="bits de tolerancia para 'misma imagen' (0-64; menos = más estricto)")
     ap.add_argument("--tope", type=int, default=60, help="máximo de productos en la salida")
     ap.add_argument("--pausa", type=float, default=4.0)
     args = ap.parse_args()
+    PAIS[0] = args.pais.upper()
 
     if args.keywords:
         kws = [l.strip() for l in Path(args.keywords).read_text(encoding="utf-8").splitlines()
@@ -165,7 +173,7 @@ def main():
     else:
         kws = KEYWORDS_DEFAULT
 
-    print(f"Buscando anuncios de {len(kws)} categorías (Argentina)…")
+    print(f"Buscando anuncios de {len(kws)} categorías (país {PAIS[0]})…")
     ads = []
     perfil = Path.home() / ".ciet_playwright"
     with sync_playwright() as pw:
@@ -241,7 +249,7 @@ def main():
             "_img_url": rep.get("img"),
             "img": None,
             "link": ("https://www.facebook.com/ads/library/?active_status=active&ad_type=all"
-                     f"&country=AR&q={kw_dom.replace(' ', '%20')}"
+                     f"&country={PAIS[0]}&q={kw_dom.replace(' ', '%20')}"
                      "&media_type=all&search_type=keyword_unordered"),
             "score": score,
         })
@@ -262,7 +270,7 @@ def main():
 
     salida = {
         "generado": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
-        "fuente": "Biblioteca de anuncios de Meta — Argentina (productos por imagen)",
+        "fuente": f"Biblioteca de anuncios de Meta — {PAIS[0]} (productos por imagen)",
         "categorias": kws,
         "productos": productos,
     }
