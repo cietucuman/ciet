@@ -83,7 +83,8 @@ PROVEEDORES = [
     },
     {
         "id": "lambotech", "nombre": "LamboTech", "url": "https://lambotecharg.com",
-        "buscar": None, "plataforma": "Web sin catálogo", "rubro": "Celulares y electrónica importada",
+        "buscar": None, "catalogo_local": "catalogo_lambo.json",
+        "plataforma": "Catálogo PDF", "rubro": "Importador directo — electrónica, bazar y más",
         "nota": "Importador directo. Su catálogo son PDFs por rubro (Drive), no una web consultable: se revisan a mano o se cargan aparte.",
         "contacto": "https://www.instagram.com/lambotechstore/",
     },
@@ -216,6 +217,37 @@ def productos_html(html, base):
     return out
 
 
+CATALOGO_LOCAL = {}
+
+
+def cargar_catalogo(ruta):
+    """Catálogo ya parseado desde PDFs (LamboTech)."""
+    try:
+        return json.loads(Path(ruta).read_text(encoding="utf-8")).get("productos", [])
+    except Exception:
+        return []
+
+
+def buscar_local(prov, termino, tc):
+    """Busca en un catálogo local por palabras de la descripción."""
+    prods = CATALOGO_LOCAL.get(prov["id"]) or []
+    if not prods:
+        return []
+    palabras = [w for w in norm(termino).split() if len(w) > 3]
+    if not palabras:
+        return []
+    clave = palabras[0]
+    hits = [p for p in prods if clave in norm(p["descripcion"])]
+    hits.sort(key=lambda p: -p["precio_usd"])
+    return [{
+        "proveedor": prov["id"], "proveedor_nombre": prov["nombre"],
+        "nombre": f"{p['descripcion'][:90]} ({p['codigo']})",
+        "precio": p["precio_usd"], "moneda": "USD",
+        "link": prov["url"], "img": None,
+        "_costo_directo": p["precio_usd"] * tc,
+    } for p in hits[:8]]
+
+
 def buscar_en(prov, termino):
     url = prov["buscar"].format(q=urllib.parse.quote(termino))
     html = bajar(url)
@@ -249,6 +281,8 @@ def main():
     ap.add_argument("--productos", help="productos_ar.json para tomar los términos a buscar")
     ap.add_argument("--terminos", help="archivo con términos, uno por línea (alternativa)")
     ap.add_argument("--pausa", type=float, default=1.0)
+    ap.add_argument("--catalogo-lambo", dest="catalogo_lambo",
+                    help="ruta a catalogo_lambo.json (default /tmp/catalogo_lambo.json)")
     args = ap.parse_args()
 
     # Términos = títulos de los productos ganadores (el match que queremos).
@@ -268,6 +302,11 @@ def main():
         sys.exit("Sin términos. Pasá --productos productos_ar.json o --terminos archivo.txt")
 
     consultables = [p for p in PROVEEDORES if p.get("buscar")]
+    for prov in PROVEEDORES:
+        if prov.get("catalogo_local"):
+            ruta = args.catalogo_lambo or ("/tmp/" + prov["catalogo_local"])
+            CATALOGO_LOCAL[prov["id"]] = cargar_catalogo(ruta)
+            print(f"  catálogo {prov['nombre']}: {len(CATALOGO_LOCAL[prov['id']])} productos")
     tc = dolar()
     print(f"Buscando {len(terminos)} productos en {len(consultables)} proveedores "
           f"(dólar ${tc:,.0f})…")
@@ -282,9 +321,12 @@ def main():
                     filas.extend(f.result() or [])
                 except Exception:
                     pass
+        for prov in PROVEEDORES:
+            if prov.get("catalogo_local"):
+                filas.extend(buscar_local(prov, t, tc))
         # Costo por unidad, venta estimada y margen → segmento de ticket.
         for f in filas:
-            c = costo_unitario(f, tc)
+            c = f.pop("_costo_directo", None) or costo_unitario(f, tc)
             f["costo_unitario"] = round(c) if c else None
             f["venta_est"] = round(c * MARKUP) if c else None
             f["margen_est"] = round(c * (MARKUP - 1)) if c else None
@@ -302,7 +344,7 @@ def main():
         "dolar": tc, "markup": MARKUP,
         "umbrales": {"alto": UMBRAL_ALTO, "medio": UMBRAL_MEDIO},
         "proveedores": [{k: v for k, v in p.items() if k != "buscar"} |
-                        {"consultable": bool(p.get("buscar"))} for p in PROVEEDORES],
+                        {"consultable": bool(p.get("buscar") or p.get("catalogo_local"))} for p in PROVEEDORES],
         "busquedas": busquedas,
     }
     Path(args.out).parent.mkdir(parents=True, exist_ok=True)

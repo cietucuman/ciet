@@ -72,6 +72,7 @@
   .tag { font-size:.7rem; font-weight:600; padding:3px 9px; border-radius:20px; background:var(--surface); color:var(--muted); display:inline-flex; align-items:center; gap:5px; }
   .tag.dup { background:var(--hot-soft); color:var(--hot); }
   .tag.vend { background:var(--accent-soft); color:var(--accent-2); }
+  .tag.pv { background:#e8eef7; color:#14395f; }
   .tag.age { background:var(--ok-soft); color:var(--ok); }
   .prod .score { text-align:right; }
   .prod .score .n { font-family:var(--serif); font-size:1.5rem; font-weight:600; font-variant-numeric:tabular-nums; line-height:1; }
@@ -154,6 +155,9 @@
       <div class="tabs" id="tabs">
         <button class="tab on" data-src="ar">Biblioteca de anuncios · Argentina</button>
         <button class="tab" data-src="eu">Biblioteca · España</button>
+        <button class="tab" data-src="us">EE.UU.</button>
+        <button class="tab" data-src="mx">México</button>
+        <button class="tab" data-src="co">Colombia</button>
         <button class="tab" data-src="ml">MercadoLibre · demanda</button>
       </div>
     </section>
@@ -172,6 +176,27 @@
         <div class="stamp" id="stamp-es">—</div>
       </div>
       <div class="prods" id="prods-es"></div>
+    </div>
+    <div class="panel" data-panel="us">
+      <div class="meta-row">
+        <div class="src-desc">El mercado que marca la tendencia global: lo que arranca allá suele replicarse en toda la región.</div>
+        <div class="stamp" id="stamp-us">—</div>
+      </div>
+      <div class="prods" id="prods-us"></div>
+    </div>
+    <div class="panel" data-panel="mx">
+      <div class="meta-row">
+        <div class="src-desc">Mercado grande de habla hispana, con productos y ángulos de venta parecidos a los de acá.</div>
+        <div class="stamp" id="stamp-mx">—</div>
+      </div>
+      <div class="prods" id="prods-mx"></div>
+    </div>
+    <div class="panel" data-panel="co">
+      <div class="meta-row">
+        <div class="src-desc">Mercado hermano: mismo idioma y hábitos de compra similares (contra entrega muy usado).</div>
+        <div class="stamp" id="stamp-co">—</div>
+      </div>
+      <div class="prods" id="prods-co"></div>
     </div>
     <div class="panel" data-panel="ml">
       <div class="meta-row">
@@ -240,6 +265,8 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
           ${p.vendedores>=2 ? `<span class="tag vend">${p.vendedores} vendedores</span>` : ""}
           ${p.dias_activo!=null ? `<span class="tag age">${p.dias_activo} días al aire</span>` : ""}
           ${p.varias_versiones ? `<span class="tag">varias versiones</span>` : ""}
+          ${p.precio_venta ? `<span class="tag pv">se vende a $${Number(p.precio_venta).toLocaleString("es-AR",{maximumFractionDigits:0})}</span>` : ""}
+          ${p.tienda ? `<span class="tag">${esc(p.tienda)}</span>` : ""}
         </div>
         <button class="toggle"><span class="arw">▶</span> Ver ${nVend} que lo venden</button>
       </div>
@@ -271,7 +298,7 @@ function pintarML(d) {
   document.getElementById("ml-cruce").innerHTML = cr.length ? `<div class="cruce">${cr.map(c => `
     <div class="cr">
       <div>
-        <div class="t">${esc(c.producto)}</div>
+        <div class="t">${c.link ? `<a href="${c.link}" target="_blank" rel="noopener" style="text-decoration:none;color:inherit">${esc(c.producto)} →</a>` : esc(c.producto)}</div>
         <div class="tags">
           <span class="tag dup">${c.anuncios} anuncios</span>
           ${c.en_tendencias.length ? `<span class="tag vend">buscado: ${c.en_tendencias.slice(0,2).map(esc).join(", ")}</span>` : ""}
@@ -307,6 +334,13 @@ function cargar() {
     .then(r => r.ok ? r.json() : Promise.reject())
     .then(d => pintarAR(d, "prods-es", "stamp-es"))
     .catch(() => { document.getElementById("prods-es").innerHTML = vacio(); });
+
+  for (const c of ["us","mx","co"]) {
+    fetch(`https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/productos_${c}.json`, { cache:"no-store" })
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .then(d => pintarAR(d, `prods-${c}`, `stamp-${c}`))
+      .catch(() => { document.getElementById(`prods-${c}`).innerHTML = vacio(); });
+  }
 
   fetch(URL_ML, { cache:"no-store" })
     .then(r => r.ok ? r.json() : Promise.reject())

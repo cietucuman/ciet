@@ -135,6 +135,7 @@
     <div class="filtros" id="filtros">
       <button class="fb on" data-t="alto">Ticket alto <span id="c-alto">0</span></button>
       <button class="fb" data-t="medio">Medio <span id="c-medio">0</span></button>
+      <button class="fb" data-t="bajo">Bajo <span id="c-bajo">0</span></button>
       <button class="fb" data-t="todos">Todos</button>
       <span class="fnota" id="fnota"></span>
     </div>
@@ -181,9 +182,8 @@ function pintar(d) {
   DATA = d;
   document.getElementById("stamp").textContent = d.generado ? "Actualizado: "+fmtF(d.generado) : "";
   const bruto = d.busquedas || {};
-  const pasa = f => FILTRO === "todos" ? true
-                  : FILTRO === "alto" ? f.ticket === "alto"
-                  : (f.ticket === "alto" || f.ticket === "medio");
+  // Cada nivel muestra sólo su segmento; "todos" no filtra.
+  const pasa = f => FILTRO === "todos" ? true : f.ticket === FILTRO;
   const b = {};
   for (const k of Object.keys(bruto)) {
     const f = (bruto[k]||[]).filter(pasa);
@@ -192,6 +192,7 @@ function pintar(d) {
   const todas = Object.values(bruto).flat();
   document.getElementById("c-alto").textContent = todas.filter(f=>f.ticket==="alto").length;
   document.getElementById("c-medio").textContent = todas.filter(f=>f.ticket==="medio").length;
+  document.getElementById("c-bajo").textContent = todas.filter(f=>f.ticket==="bajo").length;
   document.getElementById("fnota").textContent =
     `Margen estimado vendiendo a ${d.markup||2.5}× el costo · dólar $${(d.dolar||0).toLocaleString("es-AR",{maximumFractionDigits:0})}`;
   const cont = document.getElementById("matches");

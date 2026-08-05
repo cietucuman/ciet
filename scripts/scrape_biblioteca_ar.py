@@ -21,6 +21,7 @@ Requisitos (una sola vez):
 import argparse
 import base64
 import concurrent.futures
+import re
 import datetime
 import io
 import json
@@ -28,6 +29,7 @@ from collections import Counter, defaultdict
 import sys
 import time
 import unicodedata
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -73,7 +75,14 @@ JS_ADS = r"""() => {
     if(!small&&imgs[0])small=imgs[0].src;
     const poster=[...c.querySelectorAll('video')].map(v=>v.poster).filter(Boolean)[0];
     const imgBig=poster||big||small;
-    out.push({id,adv:adv?adv.trim():null,dias,versiones:/varias versiones/.test(t),texto,thumb:(small||imgBig),img:imgBig});
+    // Link de destino: adónde manda el anuncio. Es lo que separa un PRODUCTO que
+    // alguien vende (tienda con precio) de una app, un formulario o un servicio.
+    let destino=null;
+    for(const a of c.querySelectorAll('a[href*="l.facebook.com/l.php"]')){
+      const m=a.href.match(/[?&]u=([^&]+)/);
+      if(m){ try{ destino=decodeURIComponent(m[1]); }catch(e){} break; }
+    }
+    out.push({id,adv:adv?adv.trim():null,dias,versiones:/varias versiones/.test(t),texto,thumb:(small||imgBig),img:imgBig,destino});
   }
   return out;
 }"""
@@ -132,6 +141,56 @@ def imagen_display(url, lado=440):
         return None
 
 
+# Destinos que NO son un producto a la venta: apps, redes, formularios.
+NO_TIENDA = re.compile(r"(play\.google\.com|apps\.apple\.com|itunes\.apple|facebook\.com|"
+                       r"instagram\.com|m\.me|t\.me|youtube\.com|linktr\.ee|"
+                       r"forms\.gle|docs\.google\.com|typeform)", re.I)
+
+
+def precio_landing(url):
+    """Precio al que se vende el producto en la tienda del anunciante.
+
+    Es el número que faltaba: comparado con el costo del mayorista, da el margen
+    REAL que está haciendo quien ya lo vende. Se lee del JSON-LD (schema.org) o
+    del meta og:price, que publican Shopify y TiendaNube.
+    """
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"),
+            "Accept-Language": "es-AR,es;q=0.9"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            html = r.read(1_500_000).decode("utf-8", errors="ignore")
+    except Exception:
+        return None, None
+    # 1) JSON-LD Product
+    for bloque in re.findall(r'<script[^>]*ld\+json[^>]*>(.*?)</script>', html, re.S):
+        try:
+            d = json.loads(bloque)
+        except Exception:
+            continue
+        for it in (d if isinstance(d, list) else [d]):
+            if not isinstance(it, dict) or it.get("@type") != "Product":
+                continue
+            of = it.get("offers") or {}
+            if isinstance(of, list):
+                of = of[0] if of else {}
+            if isinstance(of, dict) and of.get("price"):
+                try:
+                    return float(str(of["price"]).replace(",", ".")), of.get("priceCurrency", "ARS")
+                except ValueError:
+                    pass
+    # 2) meta og:price
+    m = re.search(r'og:price:amount"\s+content="([0-9.,]+)"', html)
+    if m:
+        v = m.group(1).replace(".", "").replace(",", ".")
+        try:
+            return float(v), "ARS"
+        except ValueError:
+            pass
+    return None, None
+
+
 def scrape_keyword(page, kw, scrolls, espera_ms=8000):
     try:
         page.goto(URL.format(q=kw.replace(" ", "%20"), pais=PAIS[0]),
@@ -164,6 +223,8 @@ def main():
     ap.add_argument("--umbral", type=int, default=6, help="bits de tolerancia para 'misma imagen' (0-64; menos = más estricto)")
     ap.add_argument("--tope", type=int, default=60, help="máximo de productos en la salida")
     ap.add_argument("--pausa", type=float, default=4.0)
+    ap.add_argument("--todos", dest="solo_con_precio", action="store_false",
+                    help="no filtrar: incluir también productos sin precio de venta")
     args = ap.parse_args()
     PAIS[0] = args.pais.upper()
 
@@ -238,8 +299,13 @@ def main():
                 por_vend[(a.get("adv") or "—")].append(a["id"])
         detalle = [{"adv": v, "n": len(ids), "ids": ids[:6]}
                    for v, ids in sorted(por_vend.items(), key=lambda x: -len(x[1]))][:20]
+        # Destino más frecuente del grupo: la tienda donde se vende.
+        dests = [a.get("destino") for a in gads if a.get("destino")
+                 and not NO_TIENDA.search(a["destino"])]
+        destino = Counter(dests).most_common(1)[0][0] if dests else None
         productos.append({
             "titulo": titulo,
+            "destino": destino,
             "texto": rep.get("texto") or "",
             "anuncios": n_ads,
             "vendedores": n_vend,
@@ -256,7 +322,29 @@ def main():
 
     # Un producto "ganador" tiene duplicados (≥2 anuncios) o corre hace mucho.
     productos = [p for p in productos if p["anuncios"] >= 2 or (p["dias_activo"] or 0) >= 120]
+    # …y tiene que ser un PRODUCTO: el anuncio debe llevar a una tienda, no a una
+    # app ni a un formulario. Sin tienda no hay nada que revender.
+    productos = [p for p in productos if p.get("destino")]
     productos.sort(key=lambda p: -p["score"])
+    productos = productos[:args.tope * 2]   # margen: después filtramos por precio
+
+    # Precio al que se vende en la tienda del anunciante. Con eso y el costo del
+    # mayorista sale el margen real de quien ya lo está vendiendo.
+    print(f"Buscando precio de venta en {len(productos)} tiendas…")
+    def poner_precio(p):
+        precio, moneda = precio_landing(p["destino"])
+        p["precio_venta"] = precio
+        p["moneda_venta"] = moneda
+        try:
+            p["tienda"] = re.sub(r"^www\.", "", urllib.parse.urlparse(p["destino"]).netloc)
+        except Exception:
+            p["tienda"] = None
+        return p
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+        productos = list(ex.map(poner_precio, productos))
+    con_precio = [p for p in productos if p.get("precio_venta")]
+    if args.solo_con_precio and con_precio:
+        productos = con_precio
     productos = productos[:args.tope]
 
     # Recién ahora bajamos la imagen grande (redimensionada) de los productos finales.

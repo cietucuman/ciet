@@ -22,6 +22,7 @@ import json
 import re
 import sys
 import unicodedata
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -44,6 +45,27 @@ def des(s):
         return json.loads('"' + s.replace('"', '\\"') + '"')
     except Exception:
         return s.replace("\\u002F", "/")
+
+
+# Marcas: no sirven para revender (no se consiguen al por mayor sin ser oficial,
+# y compiten contra el precio de las tiendas grandes). El negocio son los
+# productos genéricos / sin marca.
+MARCAS = {
+    "xiaomi", "redmi", "samsung", "galaxy", "motorola", "moto", "apple", "iphone",
+    "ipad", "airpods", "jbl", "sony", "lg", "philips", "huawei", "lenovo", "hp",
+    "dell", "asus", "acer", "tcl", "noblex", "bgh", "whirlpool", "drean", "atma",
+    "liliana", "peabody", "oster", "moulinex", "braun", "gillette", "nivea",
+    "nike", "adidas", "puma", "reebok", "topper", "converse", "levis", "gopro",
+    "logitech", "microsoft", "xbox", "playstation", "nintendo", "amazfit",
+    "realme", "oppo", "vivo", "honor", "nokia", "alcatel", "tp-link", "hisense",
+    "electrolux", "gaggia", "nespresso", "dolce", "smartlife", "kanji", "enova",
+}
+
+
+def es_marca(titulo):
+    """¿El producto es de una marca conocida? Esos no se revenden."""
+    palabras = set(norm(titulo).replace("-", " ").split())
+    return bool(palabras & MARCAS)
 
 
 def norm(s):
@@ -81,6 +103,8 @@ def mas_vendidos():
             precio = float(precio)
         except ValueError:
             precio = None
+        if es_marca(tit):
+            continue
         out.append({"titulo": tit, "categoria": cat, "precio": precio,
                     "link": des(link).split("#")[0], "img": des(img)})
     return out
@@ -140,6 +164,8 @@ def main():
             precios = [m["precio"] for m in en_mv if m.get("precio")]
             cruce.append({
                 "producto": titulo,
+                "link": ("https://listado.mercadolibre.com.ar/"
+                         + urllib.parse.quote(titulo.lower())),
                 "anuncios": a["anuncios"],
                 "vendedores": a["vendedores"],
                 "variantes": a["items"],
