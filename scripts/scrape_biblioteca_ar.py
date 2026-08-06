@@ -235,6 +235,36 @@ def perfil_tienda(dominio):
     return perfil
 
 
+def ficha_tienda_producto(url):
+    """Ficha del producto en la tienda que lo vende: fotos y precio exacto.
+
+    Shopify devuelve el producto completo agregando .json a la URL. Las fotos son
+    las que usa el vendedor (mucho mejores que el frame del anuncio) y sus URLs
+    del CDN son estables, así que se guardan como link y no como imagen embebida.
+    """
+    if not url or "/products/" not in url:
+        return {}
+    limpia = url.split("?")[0].rstrip("/")
+    try:
+        req = urllib.request.Request(limpia + ".json", headers={
+            "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36")})
+        with urllib.request.urlopen(req, timeout=18) as r:
+            prod = json.loads(r.read()).get("product") or {}
+    except Exception:
+        return {}
+    fotos = [i.get("src") for i in (prod.get("images") or []) if i.get("src")][:8]
+    precio = None
+    vs = prod.get("variants") or []
+    if vs:
+        try:
+            precio = float(str(vs[0].get("price", "")).replace(",", "."))
+        except ValueError:
+            pass
+    return {"fotos_tienda": fotos, "nombre_tienda": (prod.get("title") or "")[:110],
+            "precio_tienda": precio}
+
+
 def dominio_de(url):
     try:
         return re.sub(r"^www\.", "", urllib.parse.urlparse(url).netloc).lower()
@@ -381,6 +411,8 @@ def main():
             "dias_activo": dias_max,
             "varias_versiones": any(a.get("versiones") for a in gads),
             "detalle": detalle,
+            "creativos": list(dict.fromkeys(
+                [a.get("img") for a in gads if a.get("img")]))[:6],
             "tiendas": [{k: (sorted(v)[:3] if k == "anunciantes" else v)
                          for k, v in ti.items()} for ti in tiendas],
             "_img_url": rep.get("img"),
@@ -403,7 +435,12 @@ def main():
     # mayorista sale el margen real de quien ya lo está vendiendo.
     print(f"Buscando precio de venta en {len(productos)} tiendas…")
     def poner_precio(p):
-        precio, moneda = precio_landing(p["destino"])
+        ficha = ficha_tienda_producto(p["destino"])
+        p["fotos_tienda"] = ficha.get("fotos_tienda") or []
+        if ficha.get("nombre_tienda"):
+            p["nombre_en_tienda"] = ficha["nombre_tienda"]
+        precio, moneda = (ficha.get("precio_tienda"), "ARS") if ficha.get("precio_tienda") \
+            else precio_landing(p["destino"])
         p["precio_venta"] = precio
         p["moneda_venta"] = moneda
         try:

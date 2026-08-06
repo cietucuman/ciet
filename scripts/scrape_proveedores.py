@@ -301,6 +301,18 @@ def main():
     if not terminos:
         sys.exit("Sin términos. Pasá --productos productos_ar.json o --terminos archivo.txt")
 
+    # Precio de venta observado por categoría (mediana de lo que cobran las
+    # tiendas que lo anuncian). Es la base del margen real.
+    ventas = {}
+    if args.productos and Path(args.productos).exists():
+        import statistics
+        acum = {}
+        for p in json.loads(Path(args.productos).read_text(encoding="utf-8")).get("productos", []):
+            if p.get("precio_venta"):
+                acum.setdefault(norm(p.get("titulo")), []).append(p["precio_venta"])
+        ventas = {k: statistics.median(v) for k, v in acum.items() if v}
+        print(f"  precio de venta observado en {len(ventas)} categorías")
+
     consultables = [p for p in PROVEEDORES if p.get("buscar")]
     for prov in PROVEEDORES:
         if prov.get("catalogo_local"):
@@ -324,12 +336,26 @@ def main():
         for prov in PROVEEDORES:
             if prov.get("catalogo_local"):
                 filas.extend(buscar_local(prov, t, tc))
-        # Costo por unidad, venta estimada y margen → segmento de ticket.
+        # Costo por unidad y margen. Si sabemos a cuánto se vende de verdad
+        # (precio observado en la tienda que lo anuncia), el margen es REAL:
+        # precio de venta − costo del mayorista. Si no, se estima a MARKUP×.
+        venta_real = ventas.get(norm(t))
         for f in filas:
             c = f.pop("_costo_directo", None) or costo_unitario(f, tc)
             f["costo_unitario"] = round(c) if c else None
-            f["venta_est"] = round(c * MARKUP) if c else None
-            f["margen_est"] = round(c * (MARKUP - 1)) if c else None
+            # El precio de venta es el de la CATEGORÍA. Sólo vale como margen real
+            # si el ítem del mayorista es plausiblemente ese mismo producto: si
+            # cuesta una fracción ínfima del precio de venta, es otra cosa más
+            # barata que cayó en la misma búsqueda, y el margen sería una fantasía.
+            plausible = bool(c and venta_real and c >= venta_real * 0.15)
+            if plausible:
+                f["venta_est"] = round(venta_real)
+                f["margen_est"] = round(venta_real - c)
+                f["margen_real"] = True
+            else:
+                f["venta_est"] = round(c * MARKUP) if c else None
+                f["margen_est"] = round(c * (MARKUP - 1)) if c else None
+                f["margen_real"] = False
             f["ticket"] = segmentar(f["margen_est"])
         # Primero los de mayor margen: es lo que busca el modelo high ticket.
         filas.sort(key=lambda x: -(x.get("margen_est") or 0))

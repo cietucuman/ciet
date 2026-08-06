@@ -67,6 +67,7 @@
   .prod .pos { font-family:var(--serif); font-size:1.3rem; font-weight:600; color:var(--accent); text-align:center; font-variant-numeric:tabular-nums; padding-top:2px; }
   .prod .thumb { width:104px; height:104px; border-radius:10px; object-fit:cover; background:var(--surface); border:1px solid var(--line); }
   .prod .titulo { font-family:var(--serif); font-weight:600; font-size:1.16rem; letter-spacing:-.01em; line-height:1.2; }
+  .prod .cat { font-size:.7rem; text-transform:uppercase; letter-spacing:.08em; color:var(--accent); font-weight:600; margin-top:3px; }
   .prod .txt { color:var(--muted); font-size:.82rem; line-height:1.4; margin-top:3px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
   .prod .tags { display:flex; flex-wrap:wrap; gap:6px; margin-top:9px; }
   .tag { font-size:.7rem; font-weight:600; padding:3px 9px; border-radius:20px; background:var(--surface); color:var(--muted); display:inline-flex; align-items:center; gap:5px; }
@@ -92,6 +93,11 @@
   .det-all:hover { text-decoration:underline; }
 
 
+  .gal { display:flex; gap:8px; overflow-x:auto; padding-bottom:6px; }
+  .gal img { height:110px; width:110px; object-fit:cover; border-radius:9px; border:1px solid var(--line); flex-shrink:0; background:var(--surface); }
+  .gal.cre img { height:92px; width:92px; }
+  .galh { font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.07em; font-weight:600; margin:5px 0 14px; }
+  .cre-tag { background:#ede7f6; color:#5b3fa0; }
   .paises { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:18px; }
   .pb { font-family:var(--sans); font-size:.84rem; font-weight:600; padding:7px 14px; border-radius:20px; border:1px solid var(--line); background:var(--card); color:var(--muted); cursor:pointer; }
   .pb.on { background:var(--accent); border-color:var(--accent); color:#fff; }
@@ -231,7 +237,8 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
   document.getElementById(stampId).textContent = d.generado ? "Actualizado: "+fmtFecha(d.generado) : "";
   if (!items.length) { cont.innerHTML = vacio(); return; }
   cont.innerHTML = items.map((p,i) => {
-    const img = p.img ? `<img class="thumb" src="${p.img}" alt="" loading="lazy">` : `<div class="thumb"></div>`;
+    const foto = (p.fotos_tienda&&p.fotos_tienda[0]) || p.img;
+    const img = foto ? `<img class="thumb" src="${foto}" alt="" loading="lazy">` : `<div class="thumb"></div>`;
     const det = (p.tiendas||[]).map(ti => {
       const cls = /nicho|mono/.test(ti.tipo||"") ? "nicho" : "general";
       const cat = ti.catalogo!=null ? `${ti.catalogo} productos en la tienda` : "catálogo no visible";
@@ -249,13 +256,16 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
       <div class="pos">${i+1}</div>
       ${img}
       <div class="body">
-        <div class="titulo">${esc(p.titulo)||"Producto"}</div>
+        <div class="titulo">${esc(p.nombre_en_tienda || p.titulo) || "Producto"}</div>
+        ${p.nombre_en_tienda && p.titulo ? `<div class="cat">${esc(p.titulo)}</div>` : ""}
         ${p.texto ? `<div class="txt">${esc(p.texto)}</div>` : ""}
         <div class="tags">
           <span class="tag dup">${p.anuncios} anuncios</span>
           ${p.vendedores>=2 ? `<span class="tag vend">${p.vendedores} vendedores</span>` : ""}
           ${p.dias_activo!=null ? `<span class="tag age">${p.dias_activo} días al aire</span>` : ""}
           ${p.varias_versiones ? `<span class="tag">varias versiones</span>` : ""}
+          ${p._var!=null ? `<span class="tag ${p._var>=0?"dup":""}">${p._var>=0?"▲ +":"▼ "}${Math.abs(p._var).toFixed(0)}% en 7 días</span>` : ""}
+          ${p._nuevo ? `<span class="tag cre-tag">nuevo esta semana</span>` : ""}
           ${p.precio_venta ? `<span class="tag pv">se vende a $${Number(p.precio_venta).toLocaleString("es-AR",{maximumFractionDigits:0})}</span>` : ""}
           ${p.tienda ? `<span class="tag">${esc(p.tienda)}</span>` : ""}
         </div>
@@ -263,6 +273,10 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
       </div>
       <div class="score"><div class="n">${Math.round(p.score||0)}</div><div class="l">puntaje</div></div>
       <div class="detalle">
+        ${(p.fotos_tienda||[]).length>1 ? `<div class="gal">${p.fotos_tienda.slice(0,8).map(f=>`<img src="${f}" loading="lazy" alt="">`).join("")}</div>
+          <div class="galh">Fotos de la tienda${p.nombre_en_tienda?` · ${esc(p.nombre_en_tienda)}`:""}</div>` : ""}
+        ${(p.creativos||[]).length>1 ? `<div class="gal cre">${p.creativos.slice(0,6).map(f=>`<img src="${f}" loading="lazy" alt="">`).join("")}</div>
+          <div class="galh">Creativos del anuncio (${p.creativos.length})</div>` : ""}
         ${det}
         <a class="det-all" href="${p.link||"#"}" target="_blank" rel="noopener">Ver todos los anuncios en la biblioteca →</a>
       </div>
@@ -321,9 +335,19 @@ let PAIS = "ar";
 function cargarPais(c) {
   const cont = document.getElementById("prods-lib");
   cont.innerHTML = `<div class="empty"><p>Cargando…</p></div>`;
-  fetch(PAIS_URL(c), { cache:"no-store" })
-    .then(r => r.ok ? r.json() : Promise.reject())
-    .then(d => pintarAR(d, "prods-lib", "stamp-lib"))
+  const crec = fetch(`https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/crecimiento_${c}.json`,
+                     { cache:"no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  Promise.all([fetch(PAIS_URL(c), { cache:"no-store" }).then(r => r.ok ? r.json() : Promise.reject()), crec])
+    .then(([d, g]) => {
+      if (g && g.crecimiento) {
+        const m = new Map(g.crecimiento.map(x => [x.producto, x]));
+        for (const p of d.productos||[]) {
+          const x = m.get(p.titulo);
+          if (x) { p._var = x.var; p._nuevo = x.nuevo; }
+        }
+      }
+      pintarAR(d, "prods-lib", "stamp-lib");
+    })
     .catch(() => { cont.innerHTML = vacio(); });
 }
 
