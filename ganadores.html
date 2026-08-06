@@ -92,6 +92,18 @@
   .det-all:hover { text-decoration:underline; }
 
 
+  .paises { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:18px; }
+  .pb { font-family:var(--sans); font-size:.84rem; font-weight:600; padding:7px 14px; border-radius:20px; border:1px solid var(--line); background:var(--card); color:var(--muted); cursor:pointer; }
+  .pb.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .paises .stamp { margin-left:auto; }
+  .tnd { display:grid; grid-template-columns:1fr auto; gap:10px; align-items:center; padding:9px 0; border-bottom:1px solid var(--line); }
+  .tnd:last-of-type { border-bottom:none; }
+  .tnd .dm { font-weight:600; font-size:.88rem; }
+  .tnd .dm a { text-decoration:none; }
+  .tnd .meta { font-size:.75rem; color:var(--muted); margin-top:2px; }
+  .tnd .cls { font-size:.68rem; font-weight:600; padding:3px 9px; border-radius:20px; white-space:nowrap; }
+  .cls.nicho { background:var(--hot-soft); color:var(--hot); }
+  .cls.general { background:var(--surface); color:var(--muted); }
   .mlh { font-family:var(--serif); font-weight:600; font-size:1.05rem; margin:26px 0 12px; }
   .kws { display:flex; flex-wrap:wrap; gap:7px; }
   .kw { font-size:.82rem; padding:5px 12px; border-radius:20px; background:var(--card); border:1px solid var(--line); }
@@ -153,50 +165,21 @@
       
 
       <div class="tabs" id="tabs">
-        <button class="tab on" data-src="ar">Biblioteca de anuncios · Argentina</button>
-        <button class="tab" data-src="eu">Biblioteca · España</button>
-        <button class="tab" data-src="us">EE.UU.</button>
-        <button class="tab" data-src="mx">México</button>
-        <button class="tab" data-src="co">Colombia</button>
+        <button class="tab on" data-src="lib">Biblioteca de anuncios</button>
         <button class="tab" data-src="ml">MercadoLibre · demanda</button>
       </div>
     </section>
 
-    <div class="panel on" data-panel="ar">
-      <div class="meta-row">
-        <div class="src-desc"></div>
-        <div class="stamp" id="stamp-ar">—</div>
+    <div class="panel on" data-panel="lib">
+      <div class="paises" id="paises">
+        <button class="pb on" data-p="ar">🇦🇷 Argentina</button>
+        <button class="pb" data-p="es">🇪🇸 España</button>
+        <button class="pb" data-p="us">🇺🇸 EE.UU.</button>
+        <button class="pb" data-p="mx">🇲🇽 México</button>
+        <button class="pb" data-p="co">🇨🇴 Colombia</button>
+        <span class="stamp" id="stamp-lib"></span>
       </div>
-      <div class="prods" id="prods-ar"></div>
-    </div>
-
-    <div class="panel" data-panel="eu">
-      <div class="meta-row">
-        <div class="src-desc">Los mismos productos, pero en <b>España</b>: lo que allá ya está escalando suele llegar acá unos meses después.</div>
-        <div class="stamp" id="stamp-es">—</div>
-      </div>
-      <div class="prods" id="prods-es"></div>
-    </div>
-    <div class="panel" data-panel="us">
-      <div class="meta-row">
-        <div class="src-desc">El mercado que marca la tendencia global: lo que arranca allá suele replicarse en toda la región.</div>
-        <div class="stamp" id="stamp-us">—</div>
-      </div>
-      <div class="prods" id="prods-us"></div>
-    </div>
-    <div class="panel" data-panel="mx">
-      <div class="meta-row">
-        <div class="src-desc">Mercado grande de habla hispana, con productos y ángulos de venta parecidos a los de acá.</div>
-        <div class="stamp" id="stamp-mx">—</div>
-      </div>
-      <div class="prods" id="prods-mx"></div>
-    </div>
-    <div class="panel" data-panel="co">
-      <div class="meta-row">
-        <div class="src-desc">Mercado hermano: mismo idioma y hábitos de compra similares (contra entrega muy usado).</div>
-        <div class="stamp" id="stamp-co">—</div>
-      </div>
-      <div class="prods" id="prods-co"></div>
+      <div class="prods" id="prods-lib"></div>
     </div>
     <div class="panel" data-panel="ml">
       <div class="meta-row">
@@ -249,11 +232,19 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
   if (!items.length) { cont.innerHTML = vacio(); return; }
   cont.innerHTML = items.map((p,i) => {
     const img = p.img ? `<img class="thumb" src="${p.img}" alt="" loading="lazy">` : `<div class="thumb"></div>`;
-    const det = (p.detalle||[]).map(v => `<div class="det-v">
-        <span class="vn">${esc(v.adv)}</span><span class="vc">${v.n} ${v.n===1?"anuncio":"anuncios"}</span>
-        <span class="ads">${(v.ids||[]).map((id,k)=>`<a href="${adUrl(id)}" target="_blank" rel="noopener">anuncio ${k+1}</a>`).join("")}</span>
-      </div>`).join("");
-    const nVend = p.vendedores>1 ? `las ${p.vendedores} tiendas` : "la tienda";
+    const det = (p.tiendas||[]).map(ti => {
+      const cls = /nicho|mono/.test(ti.tipo||"") ? "nicho" : "general";
+      const cat = ti.catalogo!=null ? `${ti.catalogo} productos en la tienda` : "catálogo no visible";
+      const tipo = ti.tipo ? ti.tipo.replace("mono-producto","mono-producto") : "sin clasificar";
+      return `<div class="tnd">
+        <div>
+          <div class="dm"><a href="${ti.url||("https://"+ti.dominio)}" target="_blank" rel="noopener">${esc(ti.dominio)} →</a></div>
+          <div class="meta">${ti.anuncios} ${ti.anuncios===1?"anuncio":"anuncios"}${ti.dias!=null?` · hace ${ti.dias} días`:""} · ${cat}${(ti.anunciantes||[]).length?" · "+esc((ti.anunciantes||[]).join(", ")):""}</div>
+        </div>
+        <span class="cls ${cls}">${esc(tipo)}</span>
+      </div>`;
+    }).join("");
+    const nT = (p.tiendas||[]).length;
     return `<div class="prod">
       <div class="pos">${i+1}</div>
       ${img}
@@ -268,18 +259,18 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
           ${p.precio_venta ? `<span class="tag pv">se vende a $${Number(p.precio_venta).toLocaleString("es-AR",{maximumFractionDigits:0})}</span>` : ""}
           ${p.tienda ? `<span class="tag">${esc(p.tienda)}</span>` : ""}
         </div>
-        <button class="toggle"><span class="arw">▶</span> Ver ${nVend} que lo venden</button>
+        <button class="toggle"><span class="arw">▶</span> ${nT>1 ? `Ver las ${nT} tiendas que lo venden` : "Ver la tienda que lo vende"}</button>
       </div>
       <div class="score"><div class="n">${Math.round(p.score||0)}</div><div class="l">puntaje</div></div>
       <div class="detalle">
         ${det}
-        <a class="det-all" href="${p.link||"#"}" target="_blank" rel="noopener">Ver todos los anuncios en la biblioteca de Meta →</a>
+        <a class="det-all" href="${p.link||"#"}" target="_blank" rel="noopener">Ver todos los anuncios en la biblioteca →</a>
       </div>
     </div>`;
   }).join("");
 }
 // Desplegar/plegar el detalle de cada producto.
-document.getElementById("prods-ar").addEventListener("click", e => {
+document.getElementById("prods-lib").addEventListener("click", e => {
   const t = e.target.closest(".toggle"); if (!t) return;
   t.closest(".prod").classList.toggle("open");
 });
@@ -324,24 +315,27 @@ function pintarML(d) {
     </a>`).join("");
 }
 
+const PAIS_URL = c => `https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/productos_${c}.json`;
+let PAIS = "ar";
+
+function cargarPais(c) {
+  const cont = document.getElementById("prods-lib");
+  cont.innerHTML = `<div class="empty"><p>Cargando…</p></div>`;
+  fetch(PAIS_URL(c), { cache:"no-store" })
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(d => pintarAR(d, "prods-lib", "stamp-lib"))
+    .catch(() => { cont.innerHTML = vacio(); });
+}
+
+document.getElementById("paises").addEventListener("click", e => {
+  const b = e.target.closest(".pb"); if (!b) return;
+  PAIS = b.dataset.p;
+  document.querySelectorAll(".pb").forEach(x => x.classList.toggle("on", x === b));
+  cargarPais(PAIS);
+});
+
 function cargar() {
-  fetch(URL_AR, { cache:"no-store" })
-    .then(r => r.ok ? r.json() : Promise.reject())
-    .then(pintarAR)
-    .catch(() => { document.getElementById("prods-ar").innerHTML = vacio(); });
-
-  fetch(`https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/productos_es.json`, { cache:"no-store" })
-    .then(r => r.ok ? r.json() : Promise.reject())
-    .then(d => pintarAR(d, "prods-es", "stamp-es"))
-    .catch(() => { document.getElementById("prods-es").innerHTML = vacio(); });
-
-  for (const c of ["us","mx","co"]) {
-    fetch(`https://raw.githubusercontent.com/cietucuman/ciet/${RAMA}/productos_${c}.json`, { cache:"no-store" })
-      .then(r => r.ok ? r.json() : Promise.reject())
-      .then(d => pintarAR(d, `prods-${c}`, `stamp-${c}`))
-      .catch(() => { document.getElementById(`prods-${c}`).innerHTML = vacio(); });
-  }
-
+  cargarPais(PAIS);
   fetch(URL_ML, { cache:"no-store" })
     .then(r => r.ok ? r.json() : Promise.reject())
     .then(pintarML)

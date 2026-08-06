@@ -191,6 +191,50 @@ def precio_landing(url):
     return None, None
 
 
+PERFIL_TIENDA = {}   # dominio -> perfil (se consulta una vez por corrida)
+
+
+def perfil_tienda(dominio):
+    """Ficha de la tienda: cuántos productos vende y de qué tipo es.
+
+    Shopify publica el catálogo entero en /products.json sin autenticación. Con
+    eso se sabe si la tienda es de NICHO (vive de uno o dos productos, señal
+    fuerte de que ese producto funciona) o una tienda general que vende de todo.
+    """
+    if dominio in PERFIL_TIENDA:
+        return PERFIL_TIENDA[dominio]
+    perfil = {"catalogo": None, "tipo": None, "plataforma": None}
+    try:
+        req = urllib.request.Request(
+            f"https://{dominio}/products.json?limit=250",
+            headers={"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36")})
+        with urllib.request.urlopen(req, timeout=18) as r:
+            datos = json.loads(r.read())
+        n = len(datos.get("products", []))
+        perfil["plataforma"] = "Shopify"
+        perfil["catalogo"] = n
+        if n <= 3:
+            perfil["tipo"] = "mono-producto"
+        elif n <= 15:
+            perfil["tipo"] = "nicho"
+        elif n <= 60:
+            perfil["tipo"] = "especializada"
+        else:
+            perfil["tipo"] = "general"
+    except Exception:
+        pass
+    PERFIL_TIENDA[dominio] = perfil
+    return perfil
+
+
+def dominio_de(url):
+    try:
+        return re.sub(r"^www\.", "", urllib.parse.urlparse(url).netloc).lower()
+    except Exception:
+        return None
+
+
 def scrape_keyword(page, kw, scrolls, espera_ms=8000):
     try:
         page.goto(URL.format(q=kw.replace(" ", "%20"), pais=PAIS[0]),
@@ -303,6 +347,24 @@ def main():
         dests = [a.get("destino") for a in gads if a.get("destino")
                  and not NO_TIENDA.search(a["destino"])]
         destino = Counter(dests).most_common(1)[0][0] if dests else None
+        # Mini investigación: qué tiendas venden este producto, con cuántos
+        # anuncios cada una y desde hace cuánto.
+        por_tienda = {}
+        for a in gads:
+            d = a.get("destino")
+            if not d or NO_TIENDA.search(d):
+                continue
+            dom = dominio_de(d)
+            if not dom:
+                continue
+            e = por_tienda.setdefault(dom, {"dominio": dom, "anuncios": 0, "dias": None,
+                                            "url": d, "anunciantes": set()})
+            e["anuncios"] += 1
+            if a.get("dias") is not None:
+                e["dias"] = a["dias"] if e["dias"] is None else max(e["dias"], a["dias"])
+            if a.get("adv"):
+                e["anunciantes"].add(a["adv"])
+        tiendas = sorted(por_tienda.values(), key=lambda x: -x["anuncios"])[:10]
         productos.append({
             "titulo": titulo,
             "destino": destino,
@@ -312,6 +374,8 @@ def main():
             "dias_activo": dias_max,
             "varias_versiones": any(a.get("versiones") for a in gads),
             "detalle": detalle,
+            "tiendas": [{k: (sorted(v)[:3] if k == "anunciantes" else v)
+                         for k, v in ti.items()} for ti in tiendas],
             "_img_url": rep.get("img"),
             "img": None,
             "link": ("https://www.facebook.com/ads/library/?active_status=active&ad_type=all"
@@ -342,6 +406,15 @@ def main():
         return p
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
         productos = list(ex.map(poner_precio, productos))
+
+    # Perfil de cada tienda (catálogo y tipo). Una consulta por dominio.
+    doms = {ti["dominio"] for p in productos for ti in p.get("tiendas", [])}
+    print(f"Investigando {len(doms)} tiendas…")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+        list(ex.map(perfil_tienda, doms))
+    for p in productos:
+        for ti in p.get("tiendas", []):
+            ti.update(perfil_tienda(ti["dominio"]))
     con_precio = [p for p in productos if p.get("precio_venta")]
     if args.solo_con_precio and con_precio:
         productos = con_precio
