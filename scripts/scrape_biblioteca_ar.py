@@ -142,9 +142,16 @@ def imagen_display(url, lado=440):
 
 
 # Destinos que NO son un producto a la venta: apps, redes, formularios.
-NO_TIENDA = re.compile(r"(play\.google\.com|apps\.apple\.com|itunes\.apple|facebook\.com|"
-                       r"instagram\.com|m\.me|t\.me|youtube\.com|linktr\.ee|"
-                       r"forms\.gle|docs\.google\.com|typeform)", re.I)
+NO_TIENDA = re.compile(
+    r"(play\.google\.com|apps\.apple\.com|itunes\.apple|facebook\.com|instagram\.com|"
+    r"m\.me|t\.me|wa\.me|api\.whatsapp|youtube\.com|tiktok\.com|kwai|linktr\.ee|"
+    r"forms\.gle|docs\.google\.com|typeform|"
+    # apps disfrazadas de producto (series, juegos, casino) y marketplaces:
+    # ninguna es un producto que puedas revender.
+    r"reelshort|dramabox|goodshort|shortmax|melolo|netshort|"
+    r"^app\.|\.app\.|temu\.com|shein\.com|aliexpress|alibaba|wish\.com|"
+    r"amazon\.|mercadolibre\.|mercadolivre\.|ebay\.|walmart\.|"
+    r"onlyfans|betano|bet365|codere|casino)", re.I)
 
 
 def precio_landing(url):
