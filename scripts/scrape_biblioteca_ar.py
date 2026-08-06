@@ -478,9 +478,19 @@ def main():
     print(f"Buscando precio de venta en {len(productos)} tiendas…")
     def poner_precio(p):
         ficha = ficha_tienda_producto(p["destino"])
-        p["fotos_tienda"] = ficha.get("fotos_tienda") or []
-        if ficha.get("nombre_tienda"):
+        # Guarda: hay anunciantes que mandan a otro producto de su tienda (un
+        # anuncio de proyector que linkea a un shampoo). Si el nombre del producto
+        # en la tienda no tiene nada que ver con la categoría del anuncio, no se
+        # usa ni su nombre ni sus fotos: estaríamos mostrando otra cosa.
+        cat = set(_norm(p.get("titulo")).split())
+        nom = set(_norm(ficha.get("nombre_tienda")).split())
+        coincide = bool({w for w in cat if len(w) > 3} & {w for w in nom if len(w) > 3})
+        if ficha.get("nombre_tienda") and coincide:
             p["nombre_en_tienda"] = ficha["nombre_tienda"]
+            p["fotos_tienda"] = ficha.get("fotos_tienda") or []
+        else:
+            p["fotos_tienda"] = []
+            p["destino_ajeno"] = bool(ficha.get("nombre_tienda"))
         precio, moneda = (ficha.get("precio_tienda"), "ARS") if ficha.get("precio_tienda") \
             else precio_landing(p["destino"])
         p["precio_venta"] = precio
