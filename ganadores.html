@@ -89,6 +89,7 @@
   .det-v .ads { display:flex; flex-wrap:wrap; gap:5px; }
   .det-v .ads a { font-size:.74rem; color:var(--accent); text-decoration:none; border:1px solid var(--line); border-radius:6px; padding:1px 8px; }
   .det-v .ads a:hover { background:var(--accent-soft); }
+  .acciones { display:flex; flex-wrap:wrap; gap:18px; }
   .det-all { display:inline-block; margin-top:12px; font-size:.82rem; font-weight:600; text-decoration:none; }
   .det-all:hover { text-decoration:underline; }
 
@@ -99,8 +100,9 @@
   .galh { font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.07em; font-weight:600; margin:5px 0 14px; }
   .cre-tag { background:#ede7f6; color:#5b3fa0; }
   .paises { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:18px; }
-  .pb { font-family:var(--sans); font-size:.84rem; font-weight:600; padding:7px 14px; border-radius:20px; border:1px solid var(--line); background:var(--card); color:var(--muted); cursor:pointer; }
-  .pb.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .paises label { font-size:.72rem; text-transform:uppercase; letter-spacing:.1em; color:var(--muted); font-weight:600; }
+  .paises select { font-family:var(--sans); font-size:.92rem; font-weight:600; color:var(--ink); background:var(--card); border:1px solid var(--line-strong); border-radius:10px; padding:9px 14px; cursor:pointer; }
+  .paises select:focus { outline:none; border-color:var(--accent); }
   .paises .stamp { margin-left:auto; }
   .tnd { display:grid; grid-template-columns:1fr auto; gap:10px; align-items:center; padding:9px 0; border-bottom:1px solid var(--line); }
   .tnd:last-of-type { border-bottom:none; }
@@ -177,12 +179,15 @@
     </section>
 
     <div class="panel on" data-panel="lib">
-      <div class="paises" id="paises">
-        <button class="pb on" data-p="ar">🇦🇷 Argentina</button>
-        <button class="pb" data-p="es">🇪🇸 España</button>
-        <button class="pb" data-p="us">🇺🇸 EE.UU.</button>
-        <button class="pb" data-p="mx">🇲🇽 México</button>
-        <button class="pb" data-p="co">🇨🇴 Colombia</button>
+      <div class="paises">
+        <label for="selpais">País</label>
+        <select id="selpais">
+          <option value="ar">🇦🇷 Argentina</option>
+          <option value="es">🇪🇸 España</option>
+          <option value="us">🇺🇸 Estados Unidos</option>
+          <option value="mx">🇲🇽 México</option>
+          <option value="co">🇨🇴 Colombia</option>
+        </select>
         <span class="stamp" id="stamp-lib"></span>
       </div>
       <div class="prods" id="prods-lib"></div>
@@ -278,7 +283,10 @@ function pintarAR(d, contId="prods-ar", stampId="stamp-ar") {
         ${(p.creativos||[]).length>1 ? `<div class="gal cre">${p.creativos.slice(0,6).map(f=>`<img src="${f}" loading="lazy" alt="">`).join("")}</div>
           <div class="galh">Creativos del anuncio (${p.creativos.length})</div>` : ""}
         ${det}
-        <a class="det-all" href="${p.link||"#"}" target="_blank" rel="noopener">Ver todos los anuncios en la biblioteca →</a>
+        <div class="acciones">
+          <a class="det-all" href="proveedores.html?q=${encodeURIComponent(p.titulo||"")}">Buscar proveedor de ${esc(p.titulo||"este producto")} →</a>
+          <a class="det-all" href="${p.link||"#"}" target="_blank" rel="noopener">Ver los anuncios en la biblioteca →</a>
+        </div>
       </div>
     </div>`;
   }).join("");
@@ -351,10 +359,8 @@ function cargarPais(c) {
     .catch(() => { cont.innerHTML = vacio(); });
 }
 
-document.getElementById("paises").addEventListener("click", e => {
-  const b = e.target.closest(".pb"); if (!b) return;
-  PAIS = b.dataset.p;
-  document.querySelectorAll(".pb").forEach(x => x.classList.toggle("on", x === b));
+document.getElementById("selpais").addEventListener("change", e => {
+  PAIS = e.target.value;
   cargarPais(PAIS);
 });
 

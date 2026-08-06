@@ -196,7 +196,12 @@ function pintar(d) {
   document.getElementById("fnota").textContent =
     `Margen estimado vendiendo a ${d.markup||2.5}× el costo · dólar $${(d.dolar||0).toLocaleString("es-AR",{maximumFractionDigits:0})}`;
   const cont = document.getElementById("matches");
-  const claves = Object.keys(b);
+  let claves = Object.keys(b);
+  if (Q) {
+    const qn = Q.toLowerCase();
+    const match = claves.filter(k => k.toLowerCase().includes(qn) || qn.includes(k.toLowerCase()));
+    if (match.length) claves = match.concat(claves.filter(k => !match.includes(k)));
+  }
   cont.innerHTML = claves.length ? claves.map(k => {
     const filas = b[k];
     return `<div class="grp">
@@ -229,6 +234,7 @@ function pintar(d) {
   </div>`).join("");
 }
 
+if (Q) document.querySelectorAll(".fb").forEach(b => b.classList.toggle("on", b.dataset.t === "todos"));
 document.getElementById("filtros").addEventListener("click", e => {
   const b = e.target.closest(".fb"); if (!b) return;
   FILTRO = b.dataset.t;
@@ -246,6 +252,10 @@ function cargar() {
     .catch(() => { document.getElementById("matches").innerHTML =
       `<div class="empty">Todavía no hay datos de proveedores publicados.</div>`; });
 }
+
+// Si llega desde un producto (?q=...), muestra todos los tickets y lo abre.
+const Q = new URLSearchParams(location.search).get("q");
+if (Q) FILTRO = "todos";
 
 if (sessionStorage.getItem("ciet_ec") === "1") abrir();
 </script>

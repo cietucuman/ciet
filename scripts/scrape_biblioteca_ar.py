@@ -235,6 +235,44 @@ def perfil_tienda(dominio):
     return perfil
 
 
+def ficha_jsonld(url):
+    """Ficha del producto en tiendas que no son Shopify (TiendaNube y demás).
+
+    No tienen producto.json, pero sí JSON-LD en la página, que trae nombre, fotos
+    y precio. Entre Shopify y TiendaNube está casi todo el comercio argentino.
+    """
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"),
+            "Accept-Language": "es-AR,es;q=0.9"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            html = r.read(1_500_000).decode("utf-8", errors="ignore")
+    except Exception:
+        return {}
+    for bloque in re.findall(r'<script[^>]*ld\+json[^>]*>(.*?)</script>', html, re.S):
+        try:
+            d = json.loads(bloque)
+        except Exception:
+            continue
+        for it in (d if isinstance(d, list) else [d]):
+            if not isinstance(it, dict) or it.get("@type") != "Product":
+                continue
+            img = it.get("image")
+            fotos = [i for i in (img if isinstance(img, list) else [img]) if isinstance(i, str)][:8]
+            of = it.get("offers") or {}
+            if isinstance(of, list):
+                of = of[0] if of else {}
+            precio = None
+            try:
+                precio = float(str(of.get("price", "")).replace(",", "."))
+            except (ValueError, AttributeError):
+                pass
+            return {"fotos_tienda": fotos, "nombre_tienda": (it.get("name") or "")[:110],
+                    "precio_tienda": precio}
+    return {}
+
+
 def ficha_tienda_producto(url):
     """Ficha del producto en la tienda que lo vende: fotos y precio exacto.
 
@@ -252,7 +290,7 @@ def ficha_tienda_producto(url):
         with urllib.request.urlopen(req, timeout=18) as r:
             prod = json.loads(r.read()).get("product") or {}
     except Exception:
-        return {}
+        return ficha_jsonld(limpia)
     fotos = [i.get("src") for i in (prod.get("images") or []) if i.get("src")][:8]
     precio = None
     vs = prod.get("variants") or []
@@ -383,7 +421,11 @@ def main():
         # Destino más frecuente del grupo: la tienda donde se vende.
         dests = [a.get("destino") for a in gads if a.get("destino")
                  and not NO_TIENDA.search(a["destino"])]
-        destino = Counter(dests).most_common(1)[0][0] if dests else None
+        rep_dest = rep.get("destino")
+        if rep_dest and not NO_TIENDA.search(rep_dest):
+            destino = rep_dest          # el del anuncio que se muestra: manda
+        else:
+            destino = Counter(dests).most_common(1)[0][0] if dests else None
         # Mini investigación: qué tiendas venden este producto, con cuántos
         # anuncios cada una y desde hace cuánto.
         por_tienda = {}
