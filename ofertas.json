@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-05",
- "actualizado": "2026-08-05 14:31",
+ "fecha": "2026-08-06",
+ "actualizado": "2026-08-06 18:48",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-26",
   "2026-07-27",
   "2026-07-28",
   "2026-07-29",
@@ -19,9 +18,10 @@
   "2026-08-02",
   "2026-08-03",
   "2026-08-04",
-  "2026-08-05"
+  "2026-08-05",
+  "2026-08-06"
  ],
- "total": 63,
+ "total": 27,
  "ofertas": [
   {
    "n": "Nestlé Chocolate con leche 22 grs",
@@ -51,37 +51,6 @@
     "ChangoMás": [
      1919.0,
      "https://www.masonline.com.ar/tableta-de-chocolate-nestle-leche-22-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Nestlé chocolate con maní 90 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/677482/7613287529497_E01.jpg?v=638865528726030000",
-   "cadena": "Carrefour",
-   "precio": 3145.5,
-   "link": "https://www.carrefour.com.ar/nestle-chocolate-con-mani-90-grs-679742/p",
-   "referencia": 6990.0,
-   "precio_2da": 7190.0,
-   "baja_pct": 55.0,
-   "brecha_pct": 56.3,
-   "score": 3094,
-   "pr": {
-    "Carrefour": [
-     3145.5,
-     "https://www.carrefour.com.ar/nestle-chocolate-con-mani-90-grs-679742/p"
-    ],
-    "Vea": [
-     7190.0,
-     "https://www.vea.com.ar/chocolate-con-mani-90-grs-nestle/p"
-    ],
-    "Jumbo": [
-     7650.0,
-     "https://www.jumbo.com.ar/chocolate-con-mani-90-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     7529.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-con-mani-nestle-90g-2/p"
     ]
    }
   },
@@ -144,381 +113,6 @@
    }
   },
   {
-   "n": "Fideos monos Lucchetti bolsa 500 g.",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
-   "referencia": 2599.0,
-   "precio_2da": 1779.0,
-   "baja_pct": 60.8,
-   "brecha_pct": 42.7,
-   "score": 2597,
-   "pr": {
-    "Carrefour": [
-     1779.0,
-     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
-    ],
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
-    ],
-    "Jumbo": [
-     2750.0,
-     "https://www.jumbo.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
-    ],
-    "Tuchanguito": [
-     2072.86,
-     "https://www.tuchanguito.com.ar/productos/fid-lucchetti-monos-500-gr/"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Navarro Correas Extra Brut 750 Cc",
-   "m": "NAVARRO CORREAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/889486/12411448001.jpg?v=638978577828700000",
-   "cadena": "ChangoMás",
-   "precio": 7064.5,
-   "link": "https://www.masonline.com.ar/vino-espumante-extra-brut-navarro-correas-750cc-2/p",
-   "referencia": 14129.0,
-   "precio_2da": 14700.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 51.9,
-   "score": 2597,
-   "pr": {
-    "Vea": [
-     14700.0,
-     "https://www.vea.com.ar/champana-extra-brut-x-750-cc-navarro-correas/p"
-    ],
-    "Jumbo": [
-     14750.0,
-     "https://www.jumbo.com.ar/champana-extra-brut-x-750-cc-navarro-correas/p"
-    ],
-    "ChangoMás": [
-     7064.5,
-     "https://www.masonline.com.ar/vino-espumante-extra-brut-navarro-correas-750cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos al huevo Lucchetti spaghetti 500 g",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/888683/7790070337108_02.jpg?v=639162818198900000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 1899.0,
-   "baja_pct": 55.5,
-   "brecha_pct": 46.3,
-   "score": 2571,
-   "pr": {
-    "Carrefour": [
-     1899.0,
-     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-spaghetti-500-g-733268/p"
-    ],
-    "Vea": [
-     1899.0,
-     "https://www.vea.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
-    ],
-    "Jumbo": [
-     2450.0,
-     "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos Tallarín al Huevo N°7 500 Grs Lucchetti",
-   "m": "LUCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803446/Fideos-Lucchetti-Tallarin-Huev-N7-X500g-1-1001153.jpg?v=638379921912030000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 1899.0,
-   "baja_pct": 55.5,
-   "brecha_pct": 46.3,
-   "score": 2571,
-   "pr": {
-    "Vea": [
-     1899.0,
-     "https://www.vea.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
-    ],
-    "Jumbo": [
-     2450.0,
-     "https://www.jumbo.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Angelica Zapata",
-   "m": "ANGELICA ZAPATA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/872555/Vino-Tinto-Ang-lica-Zapata-Cabernet-Sauvignon-750-Cc-1-16293.jpg?v=638864625679830000",
-   "cadena": "ChangoMás",
-   "precio": 20499.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-cabernet-sauvignon-angelica-zapata-750-ml-2/p",
-   "referencia": 40999.0,
-   "precio_2da": 41700.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.8,
-   "score": 2542,
-   "pr": {
-    "Jumbo": [
-     42750.0,
-     "https://www.jumbo.com.ar/vino-tinto-angelica-zapata-cabernet-sauvignon-750-cc/p"
-    ],
-    "ChangoMás": [
-     20499.5,
-     "https://www.masonline.com.ar/vino-tinto-cabernet-sauvignon-angelica-zapata-750-ml-2/p"
-    ],
-    "Carrefour": [
-     41700.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-alta-angelica-zapata-750-cc-502840/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Dulce Chenin y Chardonnay 750 Cc Estancia Mendoza",
-   "m": "ESTANCIA MENDOZA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822756/Vino-Estancia-Mendoza-Chenin-Chardonnay-Dulce-1-1008805.jpg?v=638508243237630000",
-   "cadena": "ChangoMás",
-   "precio": 2049.5,
-   "link": "https://www.masonline.com.ar/vino-blanco-estancia-mendoza-dulce-chenin-chardonnay-750-ml-2-2/p",
-   "referencia": 4099.0,
-   "precio_2da": 4140.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
-   "pr": {
-    "Vea": [
-     4150.0,
-     "https://www.vea.com.ar/vino-chardonnay-dulce-chening-estancia-mendoza/p"
-    ],
-    "Jumbo": [
-     4350.0,
-     "https://www.jumbo.com.ar/vino-chardonnay-dulce-chening-estancia-mendoza/p"
-    ],
-    "Carrefour": [
-     4140.0,
-     "https://www.carrefour.com.ar/vino-blanco-dulce-estancia-mendoza-chenin-chardonnay-750-cc/p"
-    ],
-    "ChangoMás": [
-     2049.5,
-     "https://www.masonline.com.ar/vino-blanco-estancia-mendoza-dulce-chenin-chardonnay-750-ml-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Mumm Léger Spritz 269 Ml",
-   "m": "MUMM",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774474/Espumante-Mumm-Leger-Spritz-269ml-1-889099.jpg?v=638150854047330000",
-   "cadena": "ChangoMás",
-   "precio": 1969.5,
-   "link": "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p",
-   "referencia": 3939.0,
-   "precio_2da": 3979.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
-   "pr": {
-    "Vea": [
-     4050.0,
-     "https://www.vea.com.ar/espumante-mumm-leger-spritz-269-ml/p"
-    ],
-    "Jumbo": [
-     4100.0,
-     "https://www.jumbo.com.ar/espumante-mumm-leger-spritz-269-ml/p"
-    ],
-    "Carrefour": [
-     3979.0,
-     "https://www.carrefour.com.ar/espumante-mumm-leger-spritz-lata-269-cc-697598/p"
-    ],
-    "ChangoMás": [
-     1969.5,
-     "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Emilia Cocktail Sangría X 750 Cc",
-   "m": "EMILIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835162/Espumante-Emilia-Cocktail-Sangr-a750cc-1-1025736.jpg?v=638622057679970000",
-   "cadena": "ChangoMás",
-   "precio": 5499.0,
-   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-sangria-a-base-de-vino-750-ml/p",
-   "referencia": 10998.0,
-   "precio_2da": 11109.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
-   "pr": {
-    "Vea": [
-     11490.0,
-     "https://www.vea.com.ar/espumante-emilia-cocktail-sangria-x-750-cc/p"
-    ],
-    "Carrefour": [
-     11109.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746901/p"
-    ],
-    "ChangoMás": [
-     5499.0,
-     "https://www.masonline.com.ar/cocktail-espumante-emilia-sangria-a-base-de-vino-750-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Mumm Léger Sabor Naranja y Hierbas 269 Cc x 24 Un",
-   "m": "MUMM",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916530/12411702001.jpg?v=639156697979930000",
-   "cadena": "ChangoMás",
-   "precio": 1969.5,
-   "link": "https://www.masonline.com.ar/espumante-mumm-rose-269-ml/p",
-   "referencia": 3939.0,
-   "precio_2da": 3979.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
-   "pr": {
-    "Vea": [
-     4050.0,
-     "https://www.vea.com.ar/espumante-leger-sabor-naranja-y-hierbas-x-269-cc-mumm/p"
-    ],
-    "Carrefour": [
-     3979.0,
-     "https://www.carrefour.com.ar/espumante-brut-rose-mumm-cuvee-reserv-en-lata-269-cc-745761/p"
-    ],
-    "ChangoMás": [
-     1969.5,
-     "https://www.masonline.com.ar/espumante-mumm-rose-269-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Cabernet Sauvignon 750 Ml Fair For Life",
-   "m": "FINCA LAS MORAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/711262/Vino-Finca-Las-Moras-Fairforlife-Ma-1-891785.jpg?v=637938633930100000",
-   "cadena": "ChangoMás",
-   "precio": 3669.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-finca-las-moras-fair-for-life-malbec-750ml-2/p",
-   "referencia": 7339.0,
-   "precio_2da": 7409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2524,
-   "pr": {
-    "Vea": [
-     7550.0,
-     "https://www.vea.com.ar/vino-cabernet-sauvignon-750-ml-fair-for-life/p"
-    ],
-    "Carrefour": [
-     7409.0,
-     "https://www.carrefour.com.ar/vino-tinto-finca-las-moras-cabernet-sauvignon-fair-for-life-750-cc-700209/p"
-    ],
-    "ChangoMás": [
-     3669.5,
-     "https://www.masonline.com.ar/vino-tinto-finca-las-moras-fair-for-life-malbec-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante San Telmo Extra Brut 750 Ml",
-   "m": "SAN TELMO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/818441/Espumante-San-Telmo-Extra-Brut-750-1-1013275.jpg?v=638483818941070000",
-   "cadena": "ChangoMás",
-   "precio": 3764.5,
-   "link": "https://www.masonline.com.ar/espumante-san-telmo-ext-brut-750-ml-2/p",
-   "referencia": 7529.0,
-   "precio_2da": 7550.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.1,
-   "score": 2507,
-   "pr": {
-    "Vea": [
-     7550.0,
-     "https://www.vea.com.ar/espumante-extra-brut-750-ml-san-telmo/p"
-    ],
-    "Jumbo": [
-     7800.0,
-     "https://www.jumbo.com.ar/espumante-extra-brut-750-ml-san-telmo/p"
-    ],
-    "ChangoMás": [
-     3764.5,
-     "https://www.masonline.com.ar/espumante-san-telmo-ext-brut-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet y Malbec 750 Cc Catena Zapata",
-   "m": "CATENA ZAPATA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/836607/Vino-Tinto-Catena-D-v-Cabernet-Malbec-750-Cc-1-33670.jpg?v=638634155198230000",
-   "cadena": "ChangoMás",
-   "precio": 11499.5,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-malbec-dv-catena-750-cc-2/p",
-   "referencia": 22999.0,
-   "precio_2da": 23000.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Vea": [
-     23000.0,
-     "https://www.vea.com.ar/vino-tinto-catena-d-v-cabernet-malbec-750-cc/p"
-    ],
-    "Carrefour": [
-     23000.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-malbec-dvcatena-750-cc/p"
-    ],
-    "ChangoMás": [
-     11499.5,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-malbec-dv-catena-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet 750 Cc Escorihuela Gascon",
-   "m": "FAMILIA GASCON",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830619/Vino-Familia-Gascon-Cabernet-750cc-1-13746.jpg?v=638587497652370000",
-   "cadena": "ChangoMás",
-   "precio": 4100.0,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p",
-   "referencia": 8200.0,
-   "precio_2da": 8100.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.4,
-   "score": 2469,
-   "pr": {
-    "Vea": [
-     8100.0,
-     "https://www.vea.com.ar/vino-tinto-cabernet-750-cc-escorihuela-gascon/p"
-    ],
-    "ChangoMás": [
-     4100.0,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p"
-    ],
-    "Jumbo": [
-     12850.0,
-     "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p"
-    ],
-    "Carrefour": [
-     12000.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-escorihuela-gascon-750-cc/p"
-    ]
-   }
-  },
-  {
    "n": "Cereal Sabor Frutas 195 Grs Froot Loops",
    "m": "FROOT LOOPS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/805078/Cereal-Froot-Loops-X195g-1-1001773.jpg?v=638392017679800000",
@@ -550,172 +144,6 @@
    }
   },
   {
-   "n": "Granolas Sabor Chocolate 255 Grs Kellogg´s",
-   "m": "KELLOGG´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781503/Cereal-Musli-Kelloggs-Chocolate-X255g-1-957966.jpg?v=638197833762700000",
-   "cadena": "Jumbo",
-   "precio": 2300.0,
-   "link": "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p",
-   "referencia": 4600.0,
-   "precio_2da": 4490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.8,
-   "score": 2439,
-   "pr": {
-    "Vea": [
-     4490.0,
-     "https://www.vea.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
-    ],
-    "Carrefour": [
-     4490.0,
-     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
-    ]
-   }
-  },
-  {
-   "n": "Lentejas 400 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776402/Lentejas-La-Espa-ola-Gourmet-400-Gr-1-28214.jpg?v=638168349664400000",
-   "cadena": "Vea",
-   "precio": 775.0,
-   "link": "https://www.vea.com.ar/lentejas-gourmet-la-espanola-400-gr/p",
-   "referencia": 1550.0,
-   "precio_2da": 1493.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2406,
-   "pr": {
-    "Vea": [
-     775.0,
-     "https://www.vea.com.ar/lentejas-gourmet-la-espanola-400-gr/p"
-    ],
-    "Jumbo": [
-     1650.0,
-     "https://www.jumbo.com.ar/lentejas-gourmet-la-espanola-400-gr/p"
-    ],
-    "Comodín": [
-     1493.99,
-     "https://www.comodinencasa.com.ar/lentejas-la-espanola-x-400-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Piattelli",
-   "m": "PIATELLI",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/612056/Vino-Piatelli-Cabernet-Sauv-X750cc-bot-cc-750-1-4455.jpg?v=637397106157670000",
-   "cadena": "ChangoMás",
-   "precio": 8649.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-piattelli-cabernet-sauvignon-750-ml-2/p",
-   "referencia": 17299.0,
-   "precio_2da": 16500.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.6,
-   "score": 2379,
-   "pr": {
-    "Jumbo": [
-     16500.0,
-     "https://www.jumbo.com.ar/vino-piatelli-cabernet-sauv-x750cc-bot-cc-750-2/p"
-    ],
-    "ChangoMás": [
-     8649.5,
-     "https://www.masonline.com.ar/vino-tinto-piattelli-cabernet-sauvignon-750-ml-2/p"
-    ],
-    "Carrefour": [
-     16565.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-piatelli-reserva-cafayate-750-ml-761551/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Cordero con Piel de Lobo",
-   "m": "CORDERO CON PIEL DE LOBO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885537/Vino-Cordero-Con-Piel-De-Lobo-Cabernet-Sauvign-1-1049210.jpg?v=638949281992330000",
-   "cadena": "ChangoMás",
-   "precio": 3499.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-cabernet-sauvignon-750-ml-2/p",
-   "referencia": 6999.0,
-   "precio_2da": 6600.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.0,
-   "score": 2349,
-   "pr": {
-    "Vea": [
-     7000.0,
-     "https://www.vea.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
-    ],
-    "Jumbo": [
-     7000.0,
-     "https://www.jumbo.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
-    ],
-    "Carrefour": [
-     6600.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-cordero-con-piel-de-lobo-en-botella-750-cc-748281/p"
-    ],
-    "ChangoMás": [
-     3499.5,
-     "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-cabernet-sauvignon-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Salentein 750 ml",
-   "m": "Salentein",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364561/7798074865313_01.jpg?v=638265118831500000",
-   "cadena": "ChangoMás",
-   "precio": 7849.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-salentein-reserva-malbec-750-ml-2/p",
-   "referencia": 15699.0,
-   "precio_2da": 14750.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Carrefour": [
-     15250.0,
-     "https://www.carrefour.com.ar/vino-tinto-salentein-malbec-750-cc-723749/p"
-    ],
-    "Vea": [
-     14750.0,
-     "https://www.vea.com.ar/vino-salentein-reserve-malbec/p"
-    ],
-    "ChangoMás": [
-     7849.5,
-     "https://www.masonline.com.ar/vino-tinto-salentein-reserva-malbec-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Garbanzos 500 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645177/Garbanzos-La-Espa-ola-Gourmet-500-Gr-1-28209.jpg?v=637578552975830000",
-   "cadena": "Vea",
-   "precio": 800.0,
-   "link": "https://www.vea.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p",
-   "referencia": 1600.0,
-   "precio_2da": 1500.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.7,
-   "score": 2333,
-   "pr": {
-    "Vea": [
-     800.0,
-     "https://www.vea.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p"
-    ],
-    "Jumbo": [
-     1500.0,
-     "https://www.jumbo.com.ar/garbanzos-la-espanola-gourmet-500-gr-2/p"
-    ],
-    "ChangoMás": [
-     2019.0,
-     "https://www.masonline.com.ar/garbanzos-la-espanola-500-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Cerveza roja Rabieta Honey 473 ml",
    "m": "Rabieta",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/268991/7798339250182_01.jpg?v=638074042093270000",
@@ -743,118 +171,33 @@
    }
   },
   {
-   "n": "Cerveza Golden Ale 473 Cc Rabieta",
-   "m": "RABIETA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/782026/Cerveza-Rabieta-Golden-Ale-473-Cc-1-850855.jpg?v=638201073966300000",
-   "cadena": "Jumbo",
-   "precio": 1975.0,
-   "link": "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p",
-   "referencia": 3950.0,
-   "precio_2da": 3700.0,
+   "n": "Vino Tinto Cabernet 750 Cc Escorihuela Gascon",
+   "m": "FAMILIA GASCON",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830619/Vino-Familia-Gascon-Cabernet-750cc-1-13746.jpg?v=638587497652370000",
+   "cadena": "ChangoMás",
+   "precio": 4100.0,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p",
+   "referencia": 8200.0,
+   "precio_2da": 7625.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2331,
-   "pr": {
-    "Jumbo": [
-     1975.0,
-     "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p"
-    ],
-    "Comodín": [
-     3848.0,
-     "https://www.comodinencasa.com.ar/cerveza-rabieta-golden-ale-lata-473cc/p"
-    ],
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-rabieta-golden-ale-473-ml-646252/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Rabieta Helles Munich 473 ml",
-   "m": "Rabieta",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/268992/7798339250212_01.jpg?v=638074042103070000",
-   "cadena": "Jumbo",
-   "precio": 1975.0,
-   "link": "https://www.jumbo.com.ar/cerveza-rabieta-helles-munich-473cc-2/p",
-   "referencia": 3950.0,
-   "precio_2da": 3699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2330,
-   "pr": {
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/cerveza-rabieta-helles-munich-473-ml-672343/p"
-    ],
-    "Jumbo": [
-     1975.0,
-     "https://www.jumbo.com.ar/cerveza-rabieta-helles-munich-473cc-2/p"
-    ],
-    "Comodín": [
-     3848.0,
-     "https://www.comodinencasa.com.ar/cerveza-rabieta-helles-munich-lata-473cc/p"
-    ],
-    "ChangoMás": [
-     3699.0,
-     "https://www.masonline.com.ar/cerveza-helles-munich-rabieta-473-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza roja Rabieta Irish Ale 473 ml",
-   "m": "Rabieta",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/270734/7798339250151_01.jpg?v=638790352911500000",
-   "cadena": "Jumbo",
-   "precio": 1975.0,
-   "link": "https://www.jumbo.com.ar/cerveza-rabieta-red-irish-ale-473cc-2/p",
-   "referencia": 3950.0,
-   "precio_2da": 3699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2330,
-   "pr": {
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/cerveza-roja-rabieta-irish-ale-473-ml-646254/p"
-    ],
-    "Jumbo": [
-     1975.0,
-     "https://www.jumbo.com.ar/cerveza-rabieta-red-irish-ale-473cc-2/p"
-    ],
-    "Comodín": [
-     3848.0,
-     "https://www.comodinencasa.com.ar/cerveza-rabieta-red-irish-ale-lata-473cc/p"
-    ],
-    "ChangoMás": [
-     3699.0,
-     "https://www.masonline.com.ar/cerveza-red-irish-ale-rabieta-473-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Lager 473 Cc Antares",
-   "m": "ANTARES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835230/Cereveza-Antares-Lager-473-Cc-Sixpack-1-1023068.jpg?v=638622922340530000",
-   "cadena": "Jumbo",
-   "precio": 2075.0,
-   "link": "https://www.jumbo.com.ar/cereveza-antares-lager-473-cc-2/p",
-   "referencia": 4150.0,
-   "precio_2da": 3839.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.9,
-   "score": 2297,
+   "brecha_pct": 46.2,
+   "score": 2311,
    "pr": {
     "Vea": [
-     4199.0,
-     "https://www.vea.com.ar/cereveza-antares-lager-473-cc-2/p"
-    ],
-    "Jumbo": [
-     2075.0,
-     "https://www.jumbo.com.ar/cereveza-antares-lager-473-cc-2/p"
+     8100.0,
+     "https://www.vea.com.ar/vino-tinto-cabernet-750-cc-escorihuela-gascon/p"
     ],
     "ChangoMás": [
-     3839.0,
-     "https://www.masonline.com.ar/cerveza-rubia-antares-lager-liviana-473-ml/p"
+     4100.0,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p"
+    ],
+    "Jumbo": [
+     12850.0,
+     "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p"
+    ],
+    "Carrefour": [
+     7625.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-familia-gascon-750-cc/p"
     ]
    }
   },
@@ -886,339 +229,6 @@
    }
   },
   {
-   "n": "Maíz Pisingallo 400 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859494/Maiz-Pisingallo-Gourmet-400G-La-Espa-ola-Maiz-Pisingallo-La-Espa-ola-Gourmet-400g-1-1035569.jpg?v=638779198581830000",
-   "cadena": "Vea",
-   "precio": 425.0,
-   "link": "https://www.vea.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p",
-   "referencia": 850.0,
-   "precio_2da": 780.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.6,
-   "score": 2279,
-   "pr": {
-    "Vea": [
-     425.0,
-     "https://www.vea.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
-    ],
-    "Jumbo": [
-     800.0,
-     "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
-    ],
-    "Comodín": [
-     780.99,
-     "https://www.comodinencasa.com.ar/maiz-pisingallo-la-espanola-400gr/p"
-    ],
-    "ChangoMás": [
-     1279.0,
-     "https://www.masonline.com.ar/maiz-pisingallo-la-espanola-gourmet-400-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Nesquik extra cacao chocolatada listo para tomar 200 ml",
-   "m": "Nesquik",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847537/8445291395930_01.jpg?v=639117684585170000",
-   "cadena": "Carrefour",
-   "precio": 1127.5,
-   "link": "https://www.carrefour.com.ar/nesquik-extra-cacao-chocolatada-listo-para-tomar-200-ml-776885/p",
-   "referencia": 2050.0,
-   "precio_2da": 2279.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 50.5,
-   "score": 2274,
-   "pr": {
-    "Carrefour": [
-     1127.5,
-     "https://www.carrefour.com.ar/nesquik-extra-cacao-chocolatada-listo-para-tomar-200-ml-776885/p"
-    ],
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p"
-    ],
-    "Jumbo": [
-     2350.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p"
-    ],
-    "ChangoMás": [
-     2279.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nesquik-menos-azucar-200-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Honey 473 Ml Antares",
-   "m": "ANTARES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/606236/Cerveza-Antares-Honey-473cc-1-852369.jpg?v=637372052036500000",
-   "cadena": "Jumbo",
-   "precio": 2475.0,
-   "link": "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p",
-   "referencia": 4950.0,
-   "precio_2da": 4509.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.1,
-   "score": 2255,
-   "pr": {
-    "Vea": [
-     4999.0,
-     "https://www.vea.com.ar/cerveza-antares-honey-473-ml-2/p"
-    ],
-    "Jumbo": [
-     2475.0,
-     "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p"
-    ],
-    "ChangoMás": [
-     4509.0,
-     "https://www.masonline.com.ar/cerveza-honey-lata-antares-473-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Maíz La Española Gourmet Pisado 400 Gr",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645174/Ma-z-La-Espa-ola-Gourmet-Pisado-400-Gr-1-28151.jpg?v=637578552935000000",
-   "cadena": "Vea",
-   "precio": 825.0,
-   "link": "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p",
-   "referencia": 1650.0,
-   "precio_2da": 1461.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.6,
-   "score": 2179,
-   "pr": {
-    "Vea": [
-     825.0,
-     "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
-    ],
-    "Jumbo": [
-     2000.0,
-     "https://www.jumbo.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
-    ],
-    "Carrefour": [
-     1650.0,
-     "https://www.carrefour.com.ar/maiz-blanco-molido-la-espanola-en-bolsa-400-grs-547445/p"
-    ],
-    "Comodín": [
-     1461.99,
-     "https://www.comodinencasa.com.ar/maiz-pisado-blanco-la-espanola-x-400gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos Tirabuzón 3 Vegetales 500 Grs Lucchetti",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/793512/Fideos-Lucchetti-Tirabuz-n-Veg-X500g-1-994883.jpg?v=638303241882300000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/fideos-tirabuzon-lucchetti-3-vegetales-500gr-2/p",
-   "referencia": 2339.0,
-   "precio_2da": 1590.0,
-   "baja_pct": 56.4,
-   "brecha_pct": 35.9,
-   "score": 2027,
-   "pr": {
-    "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/fideos-lucchetti-tirabuzon-veg-x500g-2/p"
-    ],
-    "Jumbo": [
-     2700.0,
-     "https://www.jumbo.com.ar/fideos-lucchetti-tirabuzon-veg-x500g-2/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/fideos-tirabuzon-lucchetti-3-vegetales-500gr-2/p"
-    ],
-    "Comodín": [
-     1787.79,
-     "https://www.comodinencasa.com.ar/fideo-lucchetti-tirabuzon-3-vege-x-500gr/p"
-    ],
-    "Carrefour": [
-     1599.0,
-     "https://www.carrefour.com.ar/fideos-guiseros-tirabuzon-lucchetti-3-vegetales-500-g-726312/p"
-    ]
-   }
-  },
-  {
-   "n": "Margarina Danica soft light en pote 200 g.",
-   "m": "Dánica",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838055/7791620187761_02.jpg?v=639106518873200000",
-   "cadena": "Comodín",
-   "precio": 1510.19,
-   "link": "https://www.comodinencasa.com.ar/margarina-danica-soft-light-pote-x-200/p",
-   "referencia": 2617.69,
-   "precio_2da": 2889.0,
-   "baja_pct": 42.3,
-   "brecha_pct": 47.7,
-   "score": 2019,
-   "pr": {
-    "Carrefour": [
-     2889.0,
-     "https://www.carrefour.com.ar/margarina-danica-soft-light-en-pote-200-g-726174/p"
-    ],
-    "Jumbo": [
-     2909.0,
-     "https://www.jumbo.com.ar/margarina-danica-vegetal-200g/p"
-    ],
-    "ChangoMás": [
-     2929.0,
-     "https://www.masonline.com.ar/margarina-danica-soft-light-100-vegetal-200-g-2/p"
-    ],
-    "Comodín": [
-     1510.19,
-     "https://www.comodinencasa.com.ar/margarina-danica-soft-light-pote-x-200/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Cafayate 750 ml",
-   "m": "Cafayate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
-   "cadena": "ChangoMás",
-   "precio": 2939.5,
-   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
-   "referencia": 4914.5,
-   "precio_2da": 5900.0,
-   "baja_pct": 40.2,
-   "brecha_pct": 50.2,
-   "score": 2017,
-   "pr": {
-    "Carrefour": [
-     5939.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
-    ],
-    "Vea": [
-     5900.0,
-     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
-    ],
-    "ChangoMás": [
-     2939.5,
-     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Trigo Burgol 500 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645172/Burgol-La-Espa-ola-Gourmet-500-Gr-1-28145.jpg?v=637578552903270000",
-   "cadena": "Vea",
-   "precio": 975.0,
-   "link": "https://www.vea.com.ar/burgol-la-espanola-gourmet-500-gr/p",
-   "referencia": 1950.0,
-   "precio_2da": 1630.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.2,
-   "score": 2011,
-   "pr": {
-    "Vea": [
-     975.0,
-     "https://www.vea.com.ar/burgol-la-espanola-gourmet-500-gr/p"
-    ],
-    "Jumbo": [
-     1800.0,
-     "https://www.jumbo.com.ar/burgol-la-espanola-gourmet-500-gr/p"
-    ],
-    "Carrefour": [
-     2095.0,
-     "https://www.carrefour.com.ar/trigo-burgol-la-espanola-en-bolsa-500-grs-547451/p"
-    ],
-    "Comodín": [
-     1630.99,
-     "https://www.comodinencasa.com.ar/burgol-la-espanola-x-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Frangollo de Maíz Blanco 500 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645171/Frangollo-La-Espa-ola-Gourmet-Blanco-500-Gr-1-28144.jpg?v=637578552889500000",
-   "cadena": "Vea",
-   "precio": 875.0,
-   "link": "https://www.vea.com.ar/frangollo-la-espanola-gourmet-blanco-500-gr/p",
-   "referencia": 1750.0,
-   "precio_2da": 1461.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.2,
-   "score": 2008,
-   "pr": {
-    "Vea": [
-     875.0,
-     "https://www.vea.com.ar/frangollo-la-espanola-gourmet-blanco-500-gr/p"
-    ],
-    "Jumbo": [
-     2000.0,
-     "https://www.jumbo.com.ar/frangollo-la-espanola-gourmet-blanco-500-gr/p"
-    ],
-    "Carrefour": [
-     2019.0,
-     "https://www.carrefour.com.ar/maiz-blanco-frangollo-la-espanola-en-bolsa-500-grs-547431/p"
-    ],
-    "Comodín": [
-     1461.99,
-     "https://www.comodinencasa.com.ar/frangollo-blanco-la-espanola-x-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Tomillo 15 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/553799/Tomillo-La-Campagnola-X15gr-1-833108.jpg?v=637081747231700000",
-   "cadena": "ChangoMás",
-   "precio": 549.0,
-   "link": "https://www.masonline.com.ar/tomillo-la-campagnola-15g-2/p",
-   "referencia": 989.0,
-   "precio_2da": 1000.0,
-   "baja_pct": 44.5,
-   "brecha_pct": 45.1,
-   "score": 2006,
-   "pr": {
-    "Vea": [
-     1000.0,
-     "https://www.vea.com.ar/tomillo-la-campagnola-x15gr/p"
-    ],
-    "Jumbo": [
-     1150.0,
-     "https://www.jumbo.com.ar/tomillo-la-campagnola-x15gr/p"
-    ],
-    "ChangoMás": [
-     549.0,
-     "https://www.masonline.com.ar/tomillo-la-campagnola-15g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Margarina en pan Danica clásica 200 g.",
-   "m": "Dánica",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838058/7791620187808_02.jpg?v=639106519104730000",
-   "cadena": "Comodín",
-   "precio": 1258.19,
-   "link": "https://www.comodinencasa.com.ar/margarina-danica-clasica-pan-x-200-gr/p",
-   "referencia": 2180.89,
-   "precio_2da": 2350.0,
-   "baja_pct": 42.3,
-   "brecha_pct": 46.5,
-   "score": 1966,
-   "pr": {
-    "Carrefour": [
-     2350.0,
-     "https://www.carrefour.com.ar/margarina-en-pan-danica-clasica-200-g-726170/p"
-    ],
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/margarina-vegetal-danica-200g/p"
-    ],
-    "Jumbo": [
-     2500.0,
-     "https://www.jumbo.com.ar/margarina-vegetal-danica-200g/p"
-    ],
-    "Comodín": [
-     1258.19,
-     "https://www.comodinencasa.com.ar/margarina-danica-clasica-pan-x-200-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Margarina dorada Danica en pote 210 g.",
    "m": "Dánica",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838056/7791620187778_02.jpg?v=639106518994030000",
@@ -1226,13 +236,13 @@
    "precio": 1510.19,
    "link": "https://www.comodinencasa.com.ar/margarina-danica-dorada-soft-pote-x-250/p",
    "referencia": 2617.69,
-   "precio_2da": 2800.0,
+   "precio_2da": 2890.0,
    "baja_pct": 42.3,
-   "brecha_pct": 46.1,
-   "score": 1949,
+   "brecha_pct": 47.7,
+   "score": 2020,
    "pr": {
     "Carrefour": [
-     2800.0,
+     2890.0,
      "https://www.carrefour.com.ar/margarina-dorada-danica-en-pote-210-g-726175/p"
     ],
     "Vea": [
@@ -1250,91 +260,238 @@
    }
   },
   {
-   "n": "Shampoo Cauterización Reparadora 880 Ml Tresemmé",
-   "m": "TRESEMMÉ",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802947/Shampoo-Tresemme-Cauterizaci-n-Reparadora-880-Ml-1-1000670.jpg?v=638375620439900000",
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
    "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-880-cc-730386/p",
-   "referencia": 15290.0,
-   "precio_2da": 17750.0,
+   "precio": 3594.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
+   "referencia": 5990.0,
+   "precio_2da": 7059.0,
    "baja_pct": 40.0,
-   "brecha_pct": 48.3,
-   "score": 1933,
+   "brecha_pct": 49.1,
+   "score": 1963,
    "pr": {
     "Jumbo": [
-     17750.0,
-     "https://www.jumbo.com.ar/shampoo-tresemme-cauterizacion-reparadora-880-ml/p"
-    ],
-    "ChangoMás": [
-     17849.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-cauterizacion-reparadora-880ml-2/p"
+     7300.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
     ],
     "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-880-cc-730386/p"
+     3594.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    ],
+    "ChangoMás": [
+     7059.0,
+     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
     ]
    }
   },
   {
-   "n": "Porotos Alubias 500 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776401/Poroto-La-Espa-ola-Alubia-X-500gr-Poroto-La-Espa-ola-Alubia-X-500gr-1-28202.jpg?v=638168349660170000",
-   "cadena": "Vea",
-   "precio": 1375.0,
-   "link": "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p",
-   "referencia": 2750.0,
-   "precio_2da": 2175.81,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.8,
-   "score": 1840,
+   "n": "Cereal de chocolate Kellogs Muesli 255 g.",
+   "m": "Kelloggs",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318196/7896004004990_E02.jpg?v=638180312961730000",
+   "cadena": "Jumbo",
+   "precio": 2300.0,
+   "link": "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p",
+   "referencia": 3795.0,
+   "precio_2da": 4490.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 48.8,
+   "score": 1921,
    "pr": {
+    "Carrefour": [
+     4490.0,
+     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
+    ],
     "Vea": [
-     1375.0,
-     "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p"
+     4490.0,
+     "https://www.vea.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
     ],
     "Jumbo": [
-     2350.0,
-     "https://www.jumbo.com.ar/poroto-la-espanola-alubia-500-gr/p"
+     2300.0,
+     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Alaris 750 ml",
+   "m": "Alaris",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185274/7790240017045_01.jpg?v=637468594536970000",
+   "cadena": "ChangoMás",
+   "precio": 1923.1,
+   "link": "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p",
+   "referencia": 2884.5,
+   "precio_2da": 4275.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 55.0,
+   "score": 1834,
+   "pr": {
+    "Carrefour": [
+     5829.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p"
+    ],
+    "Vea": [
+     4275.0,
+     "https://www.vea.com.ar/vino-tinto-alaris-malbec-750-cc/p"
+    ],
+    "Jumbo": [
+     4425.0,
+     "https://www.jumbo.com.ar/vino-tinto-alaris-malbec-750-cc/p"
+    ],
+    "ChangoMás": [
+     1923.1,
+     "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino rosado Malbec Portillo 750 ml",
+   "m": "Portillo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/322115/7798074864811_01.jpg?v=638191720931830000",
+   "cadena": "ChangoMás",
+   "precio": 2356.45,
+   "link": "https://www.masonline.com.ar/vino-portillo-rosado-de-malbec-750ml-2/p",
+   "referencia": 3534.5,
+   "precio_2da": 5151.75,
+   "baja_pct": 33.3,
+   "brecha_pct": 54.3,
+   "score": 1808,
+   "pr": {
+    "Carrefour": [
+     5151.75,
+     "https://www.carrefour.com.ar/vino-rosado-malbec-portillo-750-ml-718557/p"
+    ],
+    "Jumbo": [
+     7200.0,
+     "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p"
+    ],
+    "ChangoMás": [
+     2356.45,
+     "https://www.masonline.com.ar/vino-portillo-rosado-de-malbec-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Tempranillo Portillo 750 ml",
+   "m": "Portillo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/322117/7798074864859_01.jpg?v=638191720952030000",
+   "cadena": "ChangoMás",
+   "precio": 2356.45,
+   "link": "https://www.masonline.com.ar/vino-tinto-portillo-tempranillo-750ml-2/p",
+   "referencia": 3534.5,
+   "precio_2da": 5099.25,
+   "baja_pct": 33.3,
+   "brecha_pct": 53.8,
+   "score": 1793,
+   "pr": {
+    "Carrefour": [
+     5099.25,
+     "https://www.carrefour.com.ar/vino-tinto-portillo-tempranillo-en-botella-750-cc-718559/p"
+    ],
+    "ChangoMás": [
+     2356.45,
+     "https://www.masonline.com.ar/vino-tinto-portillo-tempranillo-750ml-2/p"
     ],
     "Comodín": [
-     2263.99,
-     "https://www.comodinencasa.com.ar/porotos-alubia-la-espanola-x-500-gr/p"
-    ],
-    "ChangoMás": [
-     3639.0,
-     "https://www.masonline.com.ar/poroto-alubia-la-espanola-500-gr-2/p"
-    ],
-    "Tuchanguito": [
-     2175.81,
-     "https://www.tuchanguito.com.ar/productos/porotos-alubias-la-espanola-500-gr/"
+     6372.09,
+     "https://www.comodinencasa.com.ar/vino-portillo-tempranillo-x-750-cc/p"
     ]
    }
   },
   {
-   "n": "Nescafé Dolca Suave 100 grs",
-   "m": "Dolca",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849665/8445291082113_01.jpg?v=639119696290430000",
-   "cadena": "Carrefour",
-   "precio": 5101.85,
-   "link": "https://www.carrefour.com.ar/nescafe-dolca-suave-100-grs-729425/p",
-   "referencia": 7849.0,
-   "precio_2da": 10359.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 50.7,
-   "score": 1776,
+   "n": "Vino tinto Malbec Alma Mora 750 ml",
+   "m": "Alma Mora",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823626/7790240042108_02.jpg?v=639083182079970000",
+   "cadena": "ChangoMás",
+   "precio": 2576.46,
+   "link": "https://www.masonline.com.ar/vino-malbec-alma-mora-750-cc-2/p",
+   "referencia": 3864.5,
+   "precio_2da": 5390.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 52.2,
+   "score": 1740,
    "pr": {
     "Carrefour": [
-     5101.85,
-     "https://www.carrefour.com.ar/nescafe-dolca-suave-100-grs-729425/p"
+     5856.75,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-alma-mora-750-cc/p"
+    ],
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/vino-alma-mora-malbec-750cc/p"
     ],
     "Jumbo": [
-     10500.0,
-     "https://www.jumbo.com.ar/cafe-suave-100-grs-nescafe-dolca/p"
+     7670.0,
+     "https://www.jumbo.com.ar/vino-alma-mora-malbec-750cc/p"
+    ],
+    "Comodín": [
+     7201.99,
+     "https://www.comodinencasa.com.ar/vino-alma-mora-malbec-x-750-cc/p"
     ],
     "ChangoMás": [
-     10359.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-dolca-suave-origenes-100gr-2/p"
+     2576.46,
+     "https://www.masonline.com.ar/vino-malbec-alma-mora-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Syrah Alma Mora 750 ml",
+   "m": "Alma Mora",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185282/7790240042092_01.jpg?v=637468594552900000",
+   "cadena": "ChangoMás",
+   "precio": 2576.46,
+   "link": "https://www.masonline.com.ar/vino-tinto-alma-mora-syrah-750-ml-2/p",
+   "referencia": 3864.5,
+   "precio_2da": 5390.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 52.2,
+   "score": 1740,
+   "pr": {
+    "Carrefour": [
+     5856.75,
+     "https://www.carrefour.com.ar/vino-tinto-syrah-alma-mora-750-cc/p"
+    ],
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/vino-tinto-syrah-750-ml-alma-mora/p"
+    ],
+    "Comodín": [
+     7201.99,
+     "https://www.comodinencasa.com.ar/vino-alma-mora-syrah-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     2576.46,
+     "https://www.masonline.com.ar/vino-tinto-alma-mora-syrah-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Alma Mora Cabernet Sauvignon 750 Cc",
+   "m": "ALMA MORA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581068/Vino-Tinto-Alma-Mora-Cabernet-Sauvignon-750-Cc-1-14746.jpg?v=637225176336600000",
+   "cadena": "ChangoMás",
+   "precio": 2576.46,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p",
+   "referencia": 3864.5,
+   "precio_2da": 5390.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 52.2,
+   "score": 1740,
+   "pr": {
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
+    ],
+    "Jumbo": [
+     7670.0,
+     "https://www.jumbo.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
+    ],
+    "ChangoMás": [
+     2576.46,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p"
+    ],
+    "Carrefour": [
+     5856.75,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alma-mora-750-cc/p"
     ]
    }
   },
@@ -1366,68 +523,6 @@
    }
   },
   {
-   "n": "Vino tinto Malbec Fond de Cave 750 ml",
-   "m": "Fond De Cave",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185278/7790240041460_01.jpg?v=637468594544470000",
-   "cadena": "ChangoMás",
-   "precio": 5454.5,
-   "link": "https://www.masonline.com.ar/vino-malbec-fond-de-cave-750-cc-2/p",
-   "referencia": 10909.0,
-   "precio_2da": 8264.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.0,
-   "score": 1700,
-   "pr": {
-    "Carrefour": [
-     8264.25,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-750-cc/p"
-    ],
-    "Vea": [
-     10999.0,
-     "https://www.vea.com.ar/vino-tinto-malbece-x-750-cc-fond-de-cave/p"
-    ],
-    "Jumbo": [
-     11250.0,
-     "https://www.jumbo.com.ar/vino-tinto-malbece-x-750-cc-fond-de-cave/p"
-    ],
-    "ChangoMás": [
-     5454.5,
-     "https://www.masonline.com.ar/vino-malbec-fond-de-cave-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Nieto Senetiner 750 ml",
-   "m": "Nieto Senetiner",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822171/7790070760821_02.jpg?v=639083181694130000",
-   "cadena": "ChangoMás",
-   "precio": 5399.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-malbec-750-ml-2/p",
-   "referencia": 10799.0,
-   "precio_2da": 8181.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.0,
-   "score": 1700,
-   "pr": {
-    "Carrefour": [
-     8181.75,
-     "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-malbec-en-botella-750-cc-720310/p"
-    ],
-    "Vea": [
-     11199.0,
-     "https://www.vea.com.ar/vino-nieto-senetiner-malbec-750ml/p"
-    ],
-    "Jumbo": [
-     11650.0,
-     "https://www.jumbo.com.ar/vino-nieto-senetiner-malbec-750ml/p"
-    ],
-    "ChangoMás": [
-     5399.5,
-     "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-malbec-750-ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Espumante Navarro Correas Dulce 750 Cc",
    "m": "NAVARRO CORREAS",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/887717/Espumante-Navarro-Correas-Dulce-750cc-1-29853.jpg?v=638969169786370000",
@@ -1455,37 +550,29 @@
    }
   },
   {
-   "n": "Vino Tinto Malbec 750 Ml Colon",
-   "m": "COLON",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/766885/Vino-Colon-Selecto-Malbec-1-870158.jpg?v=638108625906030000",
+   "n": "Jabón En Barra Dove Humectación Sensible 75 Gr",
+   "m": "DOVE BABY",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/845498/Jab-n-En-Barra-Baby-Dove-Humectaci-n-Sensible-75-Gr-1-35725.jpg?v=638666880794500000",
    "cadena": "ChangoMás",
-   "precio": 3174.5,
-   "link": "https://www.masonline.com.ar/vino-selecto-malbec-colon-750-cc-2/p",
-   "referencia": 6349.0,
-   "precio_2da": 4775.38,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.5,
-   "score": 1676,
+   "precio": 1749.3,
+   "link": "https://www.masonline.com.ar/jabon-en-barra-baby-dove-humectacion-sensible-75-g-2/p",
+   "referencia": 2499.0,
+   "precio_2da": 3799.0,
+   "baja_pct": 30.0,
+   "brecha_pct": 54.0,
+   "score": 1619,
    "pr": {
     "Vea": [
-     6050.0,
-     "https://www.vea.com.ar/vino-colon-selecto-malbec-750-ml/p"
+     3799.0,
+     "https://www.vea.com.ar/jabon-en-barra-dove-humectacion-sensible-75-gr/p"
     ],
     "Jumbo": [
-     6150.0,
-     "https://www.jumbo.com.ar/vino-colon-selecto-malbec-750-ml/p"
-    ],
-    "Tuchanguito": [
-     4775.38,
-     "https://www.tuchanguito.com.ar/productos/vino-tinto-colon-selecto-malbec-750cc-c45vv/"
-    ],
-    "Carrefour": [
-     5909.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-colon-selecto-750-cc/p"
+     3900.0,
+     "https://www.jumbo.com.ar/jabon-en-barra-dove-humectacion-sensible-75-gr/p"
     ],
     "ChangoMás": [
-     3174.5,
-     "https://www.masonline.com.ar/vino-selecto-malbec-colon-750-cc-2/p"
+     1749.3,
+     "https://www.masonline.com.ar/jabon-en-barra-baby-dove-humectacion-sensible-75-g-2/p"
     ]
    }
   },
@@ -1575,33 +662,6 @@
    }
   },
   {
-   "n": "Pañales Pampers talle P deluxe 36 uni",
-   "m": "Pampers",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862251/7500435237611_02.jpg?v=639130864866630000",
-   "cadena": "Carrefour",
-   "precio": 15834.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
-   "referencia": 26390.0,
-   "precio_2da": 26390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     15834.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
-    ],
-    "Vea": [
-     26390.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ],
-    "ChangoMás": [
-     28519.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-p-36un-2/p"
-    ]
-   }
-  },
-  {
    "n": "Nestlé leche condensada orgánica 395 grs",
    "m": "Nestlé",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903870/8445290900654_E01.jpg?v=639198118907470000",
@@ -1633,125 +693,36 @@
    }
   },
   {
-   "n": "Vino tinto Cabernet Sauvignon Portillo 750ml",
-   "m": "Portillo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/322114/7798074864798_01.jpg?v=638191720922930000",
+   "n": "Gaseosa Cola Sin Azúcar Black 2 Lts Pepsi",
+   "m": "PEPSI",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/907136/Gaseosa-Pepsi-Black-2-L-1-1007884.jpg?v=639124043953870000",
    "cadena": "ChangoMás",
-   "precio": 3534.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-portillo-cabernet-sauvignon-750ml-2/p",
-   "referencia": 7069.0,
-   "precio_2da": 5151.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.4,
+   "precio": 2369.4,
+   "link": "https://www.masonline.com.ar/gaseosa-pepsi-black-sin-azucar-2-l-2/p",
+   "referencia": 3949.0,
+   "precio_2da": 3900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.2,
    "score": 1570,
    "pr": {
-    "Carrefour": [
-     5151.75,
-     "https://www.carrefour.com.ar/vino-tinto-portillo-carbenet-sauvignon-en-botella-750-cc-718556/p"
-    ],
     "Vea": [
-     6790.0,
-     "https://www.vea.com.ar/vino-portillo-cabernet-sauvignon-750-ml/p"
+     3900.0,
+     "https://www.vea.com.ar/gaseosa-pepsi-black-2-l/p"
     ],
     "Jumbo": [
-     6858.0,
-     "https://www.jumbo.com.ar/vino-portillo-cabernet-sauvignon-750-ml/p"
-    ],
-    "Comodín": [
-     6372.09,
-     "https://www.comodinencasa.com.ar/vino-portillo-cabernet-x-750-cc/p"
+     3900.0,
+     "https://www.jumbo.com.ar/gaseosa-pepsi-black-2-l/p"
     ],
     "ChangoMás": [
-     3534.5,
-     "https://www.masonline.com.ar/vino-tinto-portillo-cabernet-sauvignon-750ml-2/p"
+     2369.4,
+     "https://www.masonline.com.ar/gaseosa-pepsi-black-sin-azucar-2-l-2/p"
     ]
    }
   },
   {
-   "n": "Miel Untable 500 Grs Aleluya",
-   "m": "ALELUYA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/625719/Miel-Aleluya-Unt-S-tacc-X500g-1-853528.jpg?v=637524120696970000",
-   "cadena": "Jumbo",
-   "precio": 5130.0,
-   "link": "https://www.jumbo.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p",
-   "referencia": 8550.0,
-   "precio_2da": 8390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.9,
-   "score": 1554,
-   "pr": {
-    "Vea": [
-     8390.0,
-     "https://www.vea.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p"
-    ],
-    "Jumbo": [
-     5130.0,
-     "https://www.jumbo.com.ar/miel-untable-sin-tacc-aleluya-500-gr/p"
-    ],
-    "Comodín": [
-     9624.29,
-     "https://www.comodinencasa.com.ar/miel-aleluya-untable-pet-x-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de frutos rojos El Brocal 420 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214490/7798088960264_02.jpg?v=637678495413800000",
-   "cadena": "Jumbo",
-   "precio": 5430.0,
-   "link": "https://www.jumbo.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p",
-   "referencia": 9050.0,
-   "precio_2da": 8790.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1529,
-   "pr": {
-    "Carrefour": [
-     8790.0,
-     "https://www.carrefour.com.ar/mermelada-de-frutos-rojos-el-brocal-420-g/p"
-    ],
-    "Vea": [
-     8790.0,
-     "https://www.vea.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
-    ],
-    "Jumbo": [
-     5430.0,
-     "https://www.jumbo.com.ar/mermelada-de-frutos-rojos-420-gr-el-brocal/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada El Brocal de durazno frasco 420 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/237034/7798088960042_02.jpg?v=637818418704100000",
-   "cadena": "Jumbo",
-   "precio": 4260.0,
-   "link": "https://www.jumbo.com.ar/mermelada-de-durazno-420-gr-el-brocal/p",
-   "referencia": 7100.0,
-   "precio_2da": 6890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1527,
-   "pr": {
-    "Carrefour": [
-     6990.0,
-     "https://www.carrefour.com.ar/mermelada-el-brocal-de-durazno-frasco-420-g-281415/p"
-    ],
-    "Vea": [
-     6890.0,
-     "https://www.vea.com.ar/mermelada-de-durazno-420-gr-el-brocal/p"
-    ],
-    "Jumbo": [
-     4260.0,
-     "https://www.jumbo.com.ar/mermelada-de-durazno-420-gr-el-brocal/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de damasco Schwartau en frasco 340 g.",
-   "m": "Schwartau",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541391/4011800840310_02.jpg?v=638567551706000000",
+   "n": "Mermelada Extra Sabor Damasco 340 Grs Schwartau",
+   "m": "SCHWARTAU",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814480/Mermelada-Schwartau-Artesanal-Damasco-340-Gr-1-11890.jpg?v=638454229492370000",
    "cadena": "Jumbo",
    "precio": 4890.0,
    "link": "https://www.jumbo.com.ar/mermelada-schwartau-artesanal-2/p",
@@ -1761,10 +732,6 @@
    "brecha_pct": 38.0,
    "score": 1521,
    "pr": {
-    "Carrefour": [
-     7890.0,
-     "https://www.carrefour.com.ar/mermelada-de-damasco-schwartau-en-frasco-340-g-743717/p"
-    ],
     "Vea": [
      7890.0,
      "https://www.vea.com.ar/mermelada-schwartau-artesanal-2/p"
@@ -1772,60 +739,37 @@
     "Jumbo": [
      4890.0,
      "https://www.jumbo.com.ar/mermelada-schwartau-artesanal-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada Sabor Frutilla 420 Grs El Brocal",
-   "m": "EL BROCAL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861569/Mermelada-De-Frutilla-420-Gr-El-Brocal-1-1056.jpg?v=638793777982830000",
-   "cadena": "Jumbo",
-   "precio": 4830.0,
-   "link": "https://www.jumbo.com.ar/mermelada-de-frutilla-420-gr-el-brocal/p",
-   "referencia": 8050.0,
-   "precio_2da": 7790.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1520,
-   "pr": {
-    "Vea": [
-     7790.0,
-     "https://www.vea.com.ar/mermelada-de-frutilla-420-gr-el-brocal/p"
-    ],
-    "Jumbo": [
-     4830.0,
-     "https://www.jumbo.com.ar/mermelada-de-frutilla-420-gr-el-brocal/p"
     ],
     "Carrefour": [
-     7790.0,
-     "https://www.carrefour.com.ar/mermelada-de-frutilla-el-brocal-frasco-420-g/p"
+     7890.0,
+     "https://www.carrefour.com.ar/mermelada-de-damasco-schwartau-en-frasco-340-g-743717/p"
     ]
    }
   },
   {
-   "n": "Mermelada El Brocal de frutilla light 400 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/237036/7798088960325_02.jpg?v=637818418721230000",
+   "n": "Mermelada Light Sabor Frambuesa 260 Grs Masseube",
+   "m": "MASSEUBE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/894336/Mermelada-Diet-Frambuesa-260-Gr-Masseube-1-392.jpg?v=639023602344900000",
    "cadena": "Jumbo",
-   "precio": 5280.0,
-   "link": "https://www.jumbo.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p",
-   "referencia": 8800.0,
-   "precio_2da": 8490.0,
+   "precio": 5160.0,
+   "link": "https://www.jumbo.com.ar/mermelada-diet-frambuesa-260-gr-masseube/p",
+   "referencia": 8600.0,
+   "precio_2da": 8300.0,
    "baja_pct": 40.0,
    "brecha_pct": 37.8,
-   "score": 1512,
+   "score": 1513,
    "pr": {
-    "Carrefour": [
-     8490.0,
-     "https://www.carrefour.com.ar/mermelada-el-brocal-de-frutilla-light-400-g-609937/p"
-    ],
     "Vea": [
-     8490.0,
-     "https://www.vea.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p"
+     8300.0,
+     "https://www.vea.com.ar/mermelada-diet-frambuesa-260-gr-masseube/p"
     ],
     "Jumbo": [
-     5280.0,
-     "https://www.jumbo.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p"
+     5160.0,
+     "https://www.jumbo.com.ar/mermelada-diet-frambuesa-260-gr-masseube/p"
+    ],
+    "Carrefour": [
+     8300.0,
+     "https://www.carrefour.com.ar/dulce-de-frambuesa-light-masseube-patagonico-sin-azucar-260-g/p"
     ]
    }
   },
