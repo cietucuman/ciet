@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-07",
- "actualizado": "2026-08-07 14:28",
+ "actualizado": "2026-08-07 16:36",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,36 +21,32 @@
   "2026-08-06",
   "2026-08-07"
  ],
- "total": 41,
+ "total": 43,
  "ofertas": [
   {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Alma Mora",
-   "m": "ALMA MORA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581068/Vino-Tinto-Alma-Mora-Cabernet-Sauvignon-750-Cc-1-14746.jpg?v=637225176336600000",
+   "n": "Vino Los Arboles Selecc Cabernet x 750Ml",
+   "m": "Los Arboles",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156131/Vino-Los-Arboles-Selecc-Malbec-x-750Ml.jpg?v=637375290464930000",
    "cadena": "ChangoMás",
-   "precio": 2576.46,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p",
-   "referencia": 7729.0,
-   "precio_2da": 5390.0,
+   "precio": 2099.77,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-los-arboles-750-cc-2/p",
+   "referencia": 6299.0,
+   "precio_2da": 4769.25,
    "baja_pct": 66.7,
-   "brecha_pct": 52.2,
-   "score": 3480,
+   "brecha_pct": 56.0,
+   "score": 3731,
    "pr": {
-    "Vea": [
-     5390.0,
-     "https://www.vea.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
-    ],
-    "Jumbo": [
-     7670.0,
-     "https://www.jumbo.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
+    "Comodín": [
+     5636.79,
+     "https://www.comodinencasa.com.ar/vino-los-arboles-selecc-cabernet-x-750ml/p"
     ],
     "ChangoMás": [
-     2576.46,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p"
+     2099.77,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-los-arboles-750-cc-2/p"
     ],
     "Carrefour": [
-     5856.75,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alma-mora-750-cc/p"
+     4769.25,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-los-arboles-750-cc-40159/p"
     ]
    }
   },
@@ -179,6 +175,33 @@
    }
   },
   {
+   "n": "Vino Tinto Cabernet Franc 750 Cc Fabre Montmayou",
+   "m": "FABRE MONTMAYOU",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/669752/Vino-Fabre-Terru-o-Cabernet-Franc-Bot-750cc-1-879235.jpg?v=637691637940930000",
+   "cadena": "Jumbo",
+   "precio": 8750.0,
+   "link": "https://www.jumbo.com.ar/vino-fabre-terruno-cabernet-franc-x-750-cc/p",
+   "referencia": 17500.0,
+   "precio_2da": 17499.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/vino-fabre-terruno-cabernet-franc-x-750-cc/p"
+    ],
+    "Carrefour": [
+     17675.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-franc-fabre-montmayou-750-cc/p"
+    ],
+    "ChangoMás": [
+     17499.0,
+     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p"
+    ]
+   }
+  },
+  {
    "n": "Oblea de arroz Gallo Snacks 20 g.",
    "m": "Gallo Snacks",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/312548/7790070411952_E01.jpg?v=638163243834830000",
@@ -202,6 +225,37 @@
     "Jumbo": [
      700.0,
      "https://www.jumbo.com.ar/snacks-de-arroz-limon-20-gr-oblea-gallo/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet 750 Cc Escorihuela Gascon",
+   "m": "FAMILIA GASCON",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830619/Vino-Familia-Gascon-Cabernet-750cc-1-13746.jpg?v=638587497652370000",
+   "cadena": "ChangoMás",
+   "precio": 4100.0,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p",
+   "referencia": 8200.0,
+   "precio_2da": 8100.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.4,
+   "score": 2469,
+   "pr": {
+    "Vea": [
+     8100.0,
+     "https://www.vea.com.ar/vino-tinto-cabernet-750-cc-escorihuela-gascon/p"
+    ],
+    "ChangoMás": [
+     4100.0,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p"
+    ],
+    "Jumbo": [
+     12850.0,
+     "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p"
+    ],
+    "Carrefour": [
+     12000.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-escorihuela-gascon-750-cc/p"
     ]
    }
   },
@@ -235,7 +289,7 @@
   {
    "n": "Cereal Sabor Frutas 195 Grs Froot Loops",
    "m": "FROOT LOOPS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/805078/Cereal-Froot-Loops-X195g-1-1001773.jpg?v=638392017679800000",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/805078/Cereal-Froot-Loops-X195g-1-1001773.jpg?v=638392017679800000",
    "cadena": "Jumbo",
    "precio": 2350.0,
    "link": "https://www.jumbo.com.ar/cereal-froot-loops-x195g/p",
@@ -245,10 +299,6 @@
    "brecha_pct": 48.8,
    "score": 2440,
    "pr": {
-    "Vea": [
-     4590.0,
-     "https://www.vea.com.ar/cereal-froot-loops-x195g/p"
-    ],
     "Jumbo": [
      2350.0,
      "https://www.jumbo.com.ar/cereal-froot-loops-x195g/p"
@@ -345,60 +395,130 @@
    }
   },
   {
-   "n": "Vino Tinto Cabernet 750 Cc Escorihuela Gascon",
-   "m": "FAMILIA GASCON",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830619/Vino-Familia-Gascon-Cabernet-750cc-1-13746.jpg?v=638587497652370000",
-   "cadena": "ChangoMás",
-   "precio": 4100.0,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p",
-   "referencia": 8200.0,
-   "precio_2da": 7625.0,
+   "n": "Cerveza Helles Munich 473 Cc Rabieta",
+   "m": "RABIETA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/782030/Cerveza-Rabieta-Helles-Munich-473cc-1-856975.jpg?v=638201073985870000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/cerveza-rabieta-helles-munich-473cc-2/p",
+   "referencia": 3950.0,
+   "precio_2da": 3699.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.2,
-   "score": 2311,
+   "brecha_pct": 46.6,
+   "score": 2330,
    "pr": {
-    "Vea": [
-     8100.0,
-     "https://www.vea.com.ar/vino-tinto-cabernet-750-cc-escorihuela-gascon/p"
-    ],
-    "ChangoMás": [
-     4100.0,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-familia-gascon-750-cc-2/p"
-    ],
     "Jumbo": [
-     12850.0,
-     "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p"
+     1975.0,
+     "https://www.jumbo.com.ar/cerveza-rabieta-helles-munich-473cc-2/p"
+    ],
+    "Comodín": [
+     3848.0,
+     "https://www.comodinencasa.com.ar/cerveza-rabieta-helles-munich-lata-473cc/p"
     ],
     "Carrefour": [
-     7625.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-familia-gascon-750-cc/p"
+     3700.0,
+     "https://www.carrefour.com.ar/cerveza-rabieta-helles-munich-473-ml-672343/p"
+    ],
+    "ChangoMás": [
+     3699.0,
+     "https://www.masonline.com.ar/cerveza-helles-munich-rabieta-473-ml-2/p"
     ]
    }
   },
   {
-   "n": "Vino Tinto Cabernet Franc 750 Cc Fabre Montmayou",
-   "m": "FABRE MONTMAYOU",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/669752/Vino-Fabre-Terru-o-Cabernet-Franc-Bot-750cc-1-879235.jpg?v=637691637940930000",
-   "cadena": "ChangoMás",
-   "precio": 5833.29,
-   "link": "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p",
-   "referencia": 17499.0,
-   "precio_2da": 8750.0,
-   "baja_pct": 66.7,
-   "brecha_pct": 33.3,
-   "score": 2222,
+   "n": "Cerveza Golden Ale 473 Cc Rabieta",
+   "m": "RABIETA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/782026/Cerveza-Rabieta-Golden-Ale-473-Cc-1-850855.jpg?v=638201073966300000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p",
+   "referencia": 3950.0,
+   "precio_2da": 3699.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.6,
+   "score": 2330,
    "pr": {
     "Jumbo": [
-     8750.0,
-     "https://www.jumbo.com.ar/vino-fabre-terruno-cabernet-franc-x-750-cc/p"
+     1975.0,
+     "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p"
+    ],
+    "Comodín": [
+     3848.0,
+     "https://www.comodinencasa.com.ar/cerveza-rabieta-golden-ale-lata-473cc/p"
     ],
     "Carrefour": [
-     17675.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-franc-fabre-montmayou-750-cc/p"
+     3700.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-rabieta-golden-ale-473-ml-646252/p"
     ],
     "ChangoMás": [
-     5833.29,
-     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p"
+     3699.0,
+     "https://www.masonline.com.ar/cerveza-golden-ale-rabieta-473-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza rubia Rabieta Ipa 473 ml",
+   "m": "Rabieta",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/268990/7798339250137_01.jpg?v=638074042084200000",
+   "cadena": "Jumbo",
+   "precio": 2250.0,
+   "link": "https://www.jumbo.com.ar/cerveza-rabieta-american-ipa-473cc-2/p",
+   "referencia": 4500.0,
+   "precio_2da": 4149.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.8,
+   "score": 2289,
+   "pr": {
+    "Carrefour": [
+     4150.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-rabieta-ipa-473-ml-646250/p"
+    ],
+    "Jumbo": [
+     2250.0,
+     "https://www.jumbo.com.ar/cerveza-rabieta-american-ipa-473cc-2/p"
+    ],
+    "Comodín": [
+     4316.0,
+     "https://www.comodinencasa.com.ar/cerveza-rabieta-american-ipa-lata-473cc/p"
+    ],
+    "ChangoMás": [
+     4149.0,
+     "https://www.masonline.com.ar/cerveza-american-ipa-rabieta-473-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Pomelo Rosado 8 grs",
+   "m": "Tang",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814697/7622201703172_E01.jpg?v=639082500710300000",
+   "cadena": "Jumbo",
+   "precio": 276.5,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p",
+   "referencia": 564.0,
+   "precio_2da": 489.99,
+   "baja_pct": 51.0,
+   "brecha_pct": 43.6,
+   "score": 2221,
+   "pr": {
+    "Carrefour": [
+     560.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pomelo-rosado-8-grs-711440/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p"
+    ],
+    "Jumbo": [
+     276.5,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pomelo-rosado-8-grs-clight/p"
+    ],
+    "Comodín": [
+     489.99,
+     "https://www.comodinencasa.com.ar/jugo-clight-pomelo-rosado-8-gr/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pomelo-rosado-8g-2/p"
     ]
    }
   },
@@ -438,9 +558,9 @@
    }
   },
   {
-   "n": "Galletitas Saladas Clásicas 636 Grs x 3 Un Cerealitas",
-   "m": "CEREALITAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/846480/Galletitas-Cracker-Cereal-Cl-sicas-Cerealitas-3-U-636-Gr-1-958715.jpg?v=638678865862370000",
+   "n": "Galletitas crackers Cerealitas clásicas 636 g.",
+   "m": "Cerealitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541550/7622201745905_E01.jpg?v=638568187747430000",
    "cadena": "Carrefour",
    "precio": 3255.0,
    "link": "https://www.carrefour.com.ar/galletitas-crackers-cerealitas-clasicas-636-g-720564/p",
@@ -450,6 +570,10 @@
    "brecha_pct": 45.3,
    "score": 1981,
    "pr": {
+    "Carrefour": [
+     3255.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-cerealitas-clasicas-636-g-720564/p"
+    ],
     "Vea": [
      5950.0,
      "https://www.vea.com.ar/galletitas-cracker-cereal-clasicas-cerealitas-3-u-636-gr/p"
@@ -461,14 +585,6 @@
     "ChangoMás": [
      6099.0,
      "https://www.masonline.com.ar/galletitas-cerealitas-clasicas-636gr-2/p"
-    ],
-    "Carrefour": [
-     3255.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-cerealitas-clasicas-636-g-720564/p"
-    ],
-    "Comodín": [
-     6522.89,
-     "https://www.comodinencasa.com.ar/galleta-cerealitas-3-x-200-gr/p"
     ]
    }
   },
@@ -496,33 +612,6 @@
     "Carrefour": [
      4490.0,
      "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Nieto Senetiner",
-   "m": "NIETO & SENETINER",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786363/Vino-Nieto-Senetiner-Cabernet-Sauvnion-750cc-1-971982.jpg?v=638234014273600000",
-   "cadena": "ChangoMás",
-   "precio": 3599.85,
-   "link": "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-ml-2/p",
-   "referencia": 5399.5,
-   "precio_2da": 8106.75,
-   "baja_pct": 33.3,
-   "brecha_pct": 55.6,
-   "score": 1853,
-   "pr": {
-    "Jumbo": [
-     11150.0,
-     "https://www.jumbo.com.ar/vino-nieto-senetiner-cabernet-sauvnion-750cc/p"
-    ],
-    "ChangoMás": [
-     3599.85,
-     "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-ml-2/p"
-    ],
-    "Carrefour": [
-     8106.75,
-     "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-cc-721782/p"
     ]
    }
   },
@@ -698,13 +787,13 @@
      7670.0,
      "https://www.jumbo.com.ar/vino-alma-mora-malbec-750cc/p"
     ],
-    "Comodín": [
-     7201.99,
-     "https://www.comodinencasa.com.ar/vino-alma-mora-malbec-x-750-cc/p"
-    ],
     "ChangoMás": [
      2576.46,
      "https://www.masonline.com.ar/vino-malbec-alma-mora-750-cc-2/p"
+    ],
+    "Comodín": [
+     7201.99,
+     "https://www.comodinencasa.com.ar/vino-alma-mora-malbec-x-750-cc/p"
     ]
    }
   },
@@ -929,33 +1018,6 @@
     "Jumbo": [
      2900.0,
      "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Deluxe Protection P x 36 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808451/Pa-ales-Pampers-Deluxe-Prot-Peq-36u-1-1006938.jpg?v=638422478341330000",
-   "cadena": "Carrefour",
-   "precio": 15834.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
-   "referencia": 26390.0,
-   "precio_2da": 26390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     26390.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ],
-    "ChangoMás": [
-     28519.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-p-36un-2/p"
-    ],
-    "Carrefour": [
-     15834.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
     ]
    }
   },
