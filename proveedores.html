@@ -19,12 +19,12 @@
     --serif:"Fraunces",Georgia,serif; --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   }
   * { box-sizing:border-box; margin:0; padding:0; }
-  body { background:var(--paper); color:var(--ink); font-family:var(--sans); line-height:1.6; -webkit-font-smoothing:antialiased; }
-  .wrap { max-width:1000px; margin:0 auto; padding:0 28px; }
+  body { background:var(--paper); color:var(--ink); font-family:var(--sans); line-height:1.55; -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:1180px; margin:0 auto; padding:0 24px; }
   a { color:var(--accent); }
   [hidden] { display:none !important; }
 
-  #gate { position:fixed; inset:0; z-index:50; background:var(--paper); display:flex; align-items:center; justify-content:center; padding:24px; }
+  #gate { position:fixed; inset:0; z-index:60; background:var(--paper); display:flex; align-items:center; justify-content:center; padding:24px; }
   #gate .box { width:100%; max-width:380px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:38px 34px; text-align:center; }
   #gate .lock { width:46px; height:46px; margin:0 auto 18px; border-radius:12px; background:var(--accent-soft); display:flex; align-items:center; justify-content:center; }
   #gate h1 { font-family:var(--serif); font-weight:600; font-size:1.32rem; }
@@ -34,66 +34,82 @@
   #gate button { width:100%; margin-top:12px; padding:13px; font-size:.98rem; font-weight:600; color:#fff; background:var(--accent); border:none; border-radius:10px; cursor:pointer; }
   #gate .err { color:#a33; font-size:.85rem; margin-top:14px; min-height:1.1em; }
 
-  .topbar { position:sticky; top:0; z-index:10; background:rgba(250,248,244,.86); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
-  .topbar .inner { max-width:1000px; margin:0 auto; padding:15px 28px; display:flex; align-items:center; gap:13px; }
-  .mark { width:38px; height:38px; border-radius:9px; background:var(--accent); flex-shrink:0; display:flex; align-items:center; justify-content:center; color:#fff; font-family:var(--serif); font-weight:600; font-size:1.1rem; }
-  .brand-t { font-family:var(--serif); font-weight:600; font-size:1.08rem; line-height:1; }
-  .brand-s { font-size:.72rem; color:var(--muted); margin-top:3px; }
+  .topbar { position:sticky; top:0; z-index:20; background:rgba(250,248,244,.93); backdrop-filter:blur(10px); border-bottom:1px solid var(--line); }
+  .topbar .inner { max-width:1180px; margin:0 auto; padding:13px 24px; display:flex; align-items:center; gap:12px; }
+  .mark { width:34px; height:34px; border-radius:9px; background:var(--accent); flex-shrink:0; display:flex; align-items:center; justify-content:center; color:#fff; font-family:var(--serif); font-weight:600; }
+  .brand-t { font-family:var(--serif); font-weight:600; font-size:1.02rem; line-height:1; }
+  .brand-s { font-size:.7rem; color:var(--muted); margin-top:2px; }
   .topbar .back { margin-left:auto; font-size:.82rem; color:var(--muted); text-decoration:none; }
+  .topbar .back:hover { color:var(--accent); }
 
-  .hero { padding:48px 0 22px; }
-  .hero .kicker { font-size:.72rem; text-transform:uppercase; letter-spacing:.18em; color:var(--accent); font-weight:600; display:flex; align-items:center; gap:10px; }
-  .hero .kicker::after { content:""; height:1px; width:46px; background:var(--line-strong); }
-  .hero h1 { font-family:var(--serif); font-weight:400; font-size:clamp(1.9rem,4.6vw,2.8rem); line-height:1.1; letter-spacing:-.02em; margin:16px 0 0; max-width:20ch; }
-  .hero .lead { color:var(--muted); font-size:1.02rem; margin-top:14px; max-width:64ch; }
-  .stamp { font-size:.76rem; color:var(--muted); margin-top:10px; }
+  /* Barra de control: buscador + filtros, siempre a mano */
+  .ctrl { position:sticky; top:61px; z-index:15; background:var(--paper); border-bottom:1px solid var(--line); padding:16px 0 14px; }
+  .ctrl .fila { display:flex; flex-wrap:wrap; gap:10px; align-items:center; }
+  .buscador { flex:1 1 280px; position:relative; }
+  .buscador input { width:100%; padding:12px 15px 12px 40px; font-family:var(--sans); font-size:.95rem; border:1px solid var(--line-strong); border-radius:11px; background:var(--card); color:var(--ink); }
+  .buscador input:focus { outline:none; border-color:var(--accent); }
+  .buscador svg { position:absolute; left:14px; top:50%; transform:translateY(-50%); opacity:.4; }
+  .segm { display:inline-flex; background:var(--surface); border-radius:11px; padding:3px; gap:2px; }
+  .segm button { font-family:var(--sans); font-size:.82rem; font-weight:600; padding:8px 14px; border:none; border-radius:9px; background:none; color:var(--muted); cursor:pointer; white-space:nowrap; }
+  .segm button.on { background:var(--card); color:var(--accent); box-shadow:0 1px 3px rgba(0,0,0,.08); }
+  .segm button b { font-variant-numeric:tabular-nums; opacity:.6; margin-left:4px; font-weight:600; }
+  .ctrl .info { width:100%; font-size:.76rem; color:var(--muted); margin-top:10px; display:flex; flex-wrap:wrap; gap:6px 16px; }
 
-  h2.sec { font-size:.78rem; text-transform:uppercase; letter-spacing:.15em; color:var(--muted); font-weight:600; margin:44px 0 16px; }
+  /* Tabla de oportunidades */
+  .tabla { margin-top:20px; }
+  .th { display:grid; grid-template-columns:52px minmax(0,2.2fr) minmax(0,1fr) 108px 108px 132px; gap:14px; padding:0 14px 9px; font-size:.68rem; text-transform:uppercase; letter-spacing:.09em; color:var(--muted); font-weight:600; border-bottom:1px solid var(--line-strong); }
+  .th .r { text-align:right; }
+  .th button { background:none; border:none; font:inherit; color:inherit; cursor:pointer; padding:0; text-transform:inherit; letter-spacing:inherit; }
+  .th button.on { color:var(--accent); }
+  .fila-p { display:grid; grid-template-columns:52px minmax(0,2.2fr) minmax(0,1fr) 108px 108px 132px; gap:14px; align-items:center; padding:11px 14px; border-bottom:1px solid var(--line); text-decoration:none; color:inherit; border-radius:9px; }
+  .fila-p:hover { background:var(--card); }
+  .fila-p img { width:52px; height:52px; object-fit:cover; border-radius:8px; border:1px solid var(--line); background:var(--surface); }
+  .fila-p .ph { width:52px; height:52px; border-radius:8px; background:var(--surface); }
+  .nm { font-size:.9rem; font-weight:500; line-height:1.35; overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .cat { font-size:.7rem; color:var(--accent); font-weight:600; text-transform:uppercase; letter-spacing:.06em; margin-top:3px; }
+  .prov-n { font-size:.84rem; color:var(--muted); }
+  .num { text-align:right; font-variant-numeric:tabular-nums; font-size:.9rem; }
+  .num.costo { color:var(--muted); }
+  .margen { text-align:right; }
+  .margen b { font-family:var(--serif); font-size:1.08rem; color:var(--ok); font-variant-numeric:tabular-nums; }
+  .margen .est { display:block; font-size:.62rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); font-weight:600; }
+  .tk { display:inline-block; font-size:.64rem; font-weight:700; padding:2px 8px; border-radius:20px; margin-left:6px; vertical-align:1px; }
+  .tk.alto { background:var(--ok-soft); color:var(--ok); }
+  .tk.medio { background:var(--accent-soft); color:var(--accent-2); }
+  .tk.bajo { background:var(--surface); color:var(--muted); }
 
-  /* Match producto → proveedores */
-  .grp { border:1px solid var(--line); border-radius:12px; background:var(--card); margin-bottom:10px; overflow:hidden; }
-  .grp-h { display:flex; align-items:center; gap:12px; padding:15px 18px; cursor:pointer; }
-  .grp-h .tit { font-family:var(--serif); font-weight:600; font-size:1.12rem; }
-  .grp-h .cnt { font-size:.76rem; color:var(--muted); }
-  .grp-h .arw { margin-left:auto; color:var(--accent); font-size:.7rem; transition:transform .18s; }
-  .grp.open .grp-h .arw { transform:rotate(90deg); }
-  .grp-b { display:none; border-top:1px dashed var(--line-strong); padding:6px 18px 16px; }
-  .grp.open .grp-b { display:block; }
-  .row { display:grid; grid-template-columns:54px 1fr auto; gap:14px; align-items:center; padding:10px 0; border-bottom:1px solid var(--line); text-decoration:none; color:inherit; }
-  .row:last-child { border-bottom:none; }
-  .row:hover .nm { color:var(--accent); }
-  .row img { width:54px; height:54px; object-fit:cover; border-radius:8px; border:1px solid var(--line); background:var(--surface); }
-  .row .nm { font-size:.9rem; font-weight:500; line-height:1.3; }
-  .row .pv { font-size:.74rem; color:var(--muted); margin-top:2px; }
-  .row .pr { text-align:right; font-family:var(--serif); font-weight:600; font-size:1.05rem; white-space:nowrap; font-variant-numeric:tabular-nums; }
-  .row .pr small { display:block; font-family:var(--sans); font-size:.66rem; font-weight:600; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
+  .vacio { padding:48px 20px; text-align:center; color:var(--muted); }
+  .mas { display:block; width:100%; margin:18px 0 0; padding:12px; font-family:var(--sans); font-size:.86rem; font-weight:600; color:var(--accent); background:var(--card); border:1px solid var(--line); border-radius:11px; cursor:pointer; }
 
-  /* Directorio */
-  .provs { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px; }
-  .prov { border:1px solid var(--line); border-radius:14px; padding:20px 22px; background:var(--card); display:flex; flex-direction:column; }
-  .prov.dir { background:transparent; border-style:dashed; }
-  .prov h3 { font-family:var(--serif); font-weight:600; font-size:1.2rem; }
-  .prov .rub { font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--accent); font-weight:600; margin-top:3px; }
-  .prov.dir .rub { color:var(--muted); }
-  .prov p { font-size:.85rem; color:var(--muted); margin-top:10px; flex:1; line-height:1.55; }
-  .prov .pie { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-top:14px; }
-  .chip { font-size:.68rem; font-weight:600; padding:3px 9px; border-radius:20px; background:var(--surface); color:var(--muted); }
+  /* Directorio, plegado por defecto */
+  details.dir { margin:38px 0 0; border-top:1px solid var(--line); padding-top:22px; }
+  details.dir summary { cursor:pointer; font-size:.78rem; text-transform:uppercase; letter-spacing:.13em; color:var(--muted); font-weight:600; list-style:none; display:flex; align-items:center; gap:8px; }
+  details.dir summary::-webkit-details-marker { display:none; }
+  details.dir summary::before { content:"▶"; font-size:.6rem; color:var(--accent); transition:transform .18s; }
+  details.dir[open] summary::before { transform:rotate(90deg); }
+  .provs { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:12px; margin-top:16px; }
+  .prov { border:1px solid var(--line); border-radius:13px; padding:17px 19px; background:var(--card); }
+  .prov.off { background:transparent; border-style:dashed; }
+  .prov h3 { font-family:var(--serif); font-weight:600; font-size:1.06rem; }
+  .prov .rub { font-size:.68rem; text-transform:uppercase; letter-spacing:.07em; color:var(--accent); font-weight:600; margin-top:2px; }
+  .prov.off .rub { color:var(--muted); }
+  .prov p { font-size:.82rem; color:var(--muted); margin-top:8px; line-height:1.5; }
+  .prov .pie { display:flex; gap:8px; align-items:center; margin-top:12px; }
+  .chip { font-size:.66rem; font-weight:600; padding:3px 9px; border-radius:20px; background:var(--surface); color:var(--muted); }
   .chip.on { background:var(--ok-soft); color:var(--ok); }
-  .prov a.go { font-size:.84rem; font-weight:600; text-decoration:none; margin-left:auto; }
-
-  .filtros { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:16px; }
-  .fb { font-family:var(--sans); font-size:.82rem; font-weight:600; padding:7px 14px; border-radius:20px; border:1px solid var(--line); background:var(--card); color:var(--muted); cursor:pointer; }
-  .fb.on { background:var(--accent); border-color:var(--accent); color:#fff; }
-  .fb span { opacity:.7; margin-left:5px; }
-  .fnota { font-size:.76rem; color:var(--muted); margin-left:auto; }
-  .mg { text-align:right; font-family:var(--serif); font-weight:600; font-size:1.02rem; color:var(--ok); white-space:nowrap; }
-  .mg small { display:block; font-family:var(--sans); font-size:.64rem; font-weight:600; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
-  .empty { border:1px dashed var(--line-strong); border-radius:14px; padding:36px; text-align:center; color:var(--muted); }
-  .nota { margin-top:16px; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:20px 24px; font-size:.88rem; color:var(--muted); line-height:1.65; }
+  .prov a.go { font-size:.82rem; font-weight:600; text-decoration:none; margin-left:auto; }
+  .nota { margin-top:26px; border:1px solid var(--line); background:var(--surface); border-radius:13px; padding:18px 22px; font-size:.85rem; color:var(--muted); line-height:1.6; }
   .nota b { color:var(--ink); }
-  footer { border-top:1px solid var(--line); margin-top:56px; }
-  footer .wrap { padding:26px 28px; color:var(--muted); font-size:.78rem; }
-  @media (max-width:560px){ .row { grid-template-columns:44px 1fr; } .row img{width:44px;height:44px;} .row .pr{grid-column:2;text-align:left;} }
+  footer { border-top:1px solid var(--line); margin-top:46px; }
+  footer .wrap { padding:22px 24px; color:var(--muted); font-size:.76rem; }
+
+  @media (max-width:820px) {
+    .th { display:none; }
+    .fila-p { grid-template-columns:52px 1fr auto; gap:12px; padding:13px 10px; }
+    .fila-p .prov-n { grid-column:2; font-size:.78rem; }
+    .fila-p .num { display:none; }
+    .margen { grid-column:3; grid-row:1 / span 2; }
+  }
 </style>
 </head>
 <body>
@@ -119,42 +135,56 @@
         <div class="brand-t">CIET · Proveedores</div>
         <div class="brand-s">Dónde comprar al por mayor</div>
       </div>
-      <a class="back" href="ecommerce.html">← Volver al panel</a>
+      <a class="back" href="ecommerce.html">← Panel</a>
     </div>
   </div>
 
   <div class="wrap">
-    <section class="hero">
-      <div class="kicker">Paso 2 · Proveedores</div>
-      <h1>Proveedores</h1>
-      
-      <div class="stamp" id="stamp">—</div>
-    </section>
-
-    <h2 class="sec">Producto ganador → dónde conseguirlo</h2>
-    <div class="filtros" id="filtros">
-      <button class="fb on" data-t="alto">Ticket alto <span id="c-alto">0</span></button>
-      <button class="fb" data-t="medio">Medio <span id="c-medio">0</span></button>
-      <button class="fb" data-t="bajo">Bajo <span id="c-bajo">0</span></button>
-      <button class="fb" data-t="todos">Todos</button>
-      <span class="fnota" id="fnota"></span>
+    <div class="ctrl">
+      <div class="fila">
+        <div class="buscador">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+          <input id="q" type="search" placeholder="Buscar producto o proveedor…" autocomplete="off">
+        </div>
+        <div class="segm" id="segTicket">
+          <button data-t="todos" class="on">Todos</button>
+          <button data-t="alto">Alto <b id="c-alto">0</b></button>
+          <button data-t="medio">Medio <b id="c-medio">0</b></button>
+          <button data-t="bajo">Bajo <b id="c-bajo">0</b></button>
+        </div>
+      </div>
+      <div class="info"><span id="resumen">—</span><span id="stamp"></span></div>
     </div>
-    <div id="matches"></div>
 
-    <h2 class="sec">Directorio de proveedores</h2>
-    <div class="provs" id="dir"></div>
-
-    <div class="nota">
-      <b>Sobre los catálogos con clave.</b> Kiran Import y Fyn Tecno piden contraseña para ver precios. No se scrapean ni se publican acá: son datos que el proveedor eligió no mostrar en público, y este repositorio es abierto. Se consultan a mano desde su web.
-      <br><br>
-      <b>Importar por tu cuenta.</b> Decreto 604/2026: puerta a puerta y courier quedaron igualados — exento de derechos de importación y tasa de estadística hasta <b>USD 400 FOB por envío</b>, máximo 5 envíos al año por persona.
+    <div class="tabla">
+      <div class="th">
+        <div></div>
+        <div>Producto</div>
+        <div>Proveedor</div>
+        <div class="r"><button data-s="costo">Costo c/u</button></div>
+        <div class="r">Se vende a</div>
+        <div class="r"><button data-s="margen" class="on">Margen ▾</button></div>
+      </div>
+      <div id="lista"></div>
+      <button class="mas" id="mas" hidden>Ver más</button>
     </div>
+
+    <details class="dir">
+      <summary>Directorio de proveedores</summary>
+      <div class="provs" id="dir"></div>
+      <div class="nota">
+        <b>Catálogos con clave.</b> Kiran Import y Fyn Tecno piden contraseña. No se scrapean ni se publican acá: son datos que el proveedor eligió no mostrar, y este repositorio es abierto. Se consultan a mano.
+        <br><br>
+        <b>Importar por tu cuenta.</b> Decreto 604/2026: exento de derechos de importación y tasa de estadística hasta <b>USD 400 FOB por envío</b>, máximo 5 envíos al año por persona.
+      </div>
+    </details>
   </div>
 
   <footer><div class="wrap">CIET — Sección privada · Precios de catálogos públicos, sujetos a cambio. Verificá siempre con el proveedor.</div></footer>
 </div>
 
 <script>
+// ---- Candado ----
 const CLAVE_HASH = "751114e8f99c7419061a9298a19b572ee922ff3d93884a70413dc54d68a76f26";
 async function sha256(s){ const b=await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s)); return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join(""); }
 function abrir(){ document.getElementById("gate").hidden=true; document.getElementById("app").hidden=false; cargar(); }
@@ -165,97 +195,128 @@ document.getElementById("gf").addEventListener("submit", async e => {
   else { document.getElementById("ge").textContent="Clave incorrecta."; document.getElementById("gc").select(); }
 });
 
+// ---- Estado ----
 const URL_P = "https://raw.githubusercontent.com/cietucuman/ciet/ecommerce-datos/proveedores_ar.json";
 const esc = s => (s||"").replace(/</g,"&lt;");
-const fmtF = s => { try { return new Date(s).toLocaleDateString("es-AR",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"}); } catch { return ""; } };
-const fmtPrecio = (n,m) => {
-  if (n==null) return `<span class="pr">—</span>`;
-  const s = m==="USD" ? "USD " + n.toLocaleString("es-AR",{maximumFractionDigits:2})
-                      : "$" + n.toLocaleString("es-AR",{maximumFractionDigits:0});
-  return s;
-};
-
 const pesos = n => "$" + Number(n).toLocaleString("es-AR",{maximumFractionDigits:0});
-let DATA = null, FILTRO = "alto";
+const fmtF = s => { try { return new Date(s).toLocaleDateString("es-AR",{day:"numeric",month:"long"}); } catch { return ""; } };
+const norm = s => (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
 
-function pintar(d) {
-  DATA = d;
-  document.getElementById("stamp").textContent = d.generado ? "Actualizado: "+fmtF(d.generado) : "";
-  const bruto = d.busquedas || {};
-  // Cada nivel muestra sólo su segmento; "todos" no filtra.
-  const pasa = f => FILTRO === "todos" ? true : f.ticket === FILTRO;
-  const b = {};
-  for (const k of Object.keys(bruto)) {
-    const f = (bruto[k]||[]).filter(pasa);
-    if (f.length) b[k] = f;
-  }
-  const todas = Object.values(bruto).flat();
-  document.getElementById("c-alto").textContent = todas.filter(f=>f.ticket==="alto").length;
-  document.getElementById("c-medio").textContent = todas.filter(f=>f.ticket==="medio").length;
-  document.getElementById("c-bajo").textContent = todas.filter(f=>f.ticket==="bajo").length;
-  document.getElementById("fnota").textContent =
-    `Margen estimado vendiendo a ${d.markup||2.5}× el costo · dólar $${(d.dolar||0).toLocaleString("es-AR",{maximumFractionDigits:0})}`;
-  const cont = document.getElementById("matches");
-  let claves = Object.keys(b);
-  if (Q) {
-    const qn = Q.toLowerCase();
-    const match = claves.filter(k => k.toLowerCase().includes(qn) || qn.includes(k.toLowerCase()));
-    if (match.length) claves = match.concat(claves.filter(k => !match.includes(k)));
-  }
-  cont.innerHTML = claves.length ? claves.map(k => {
-    const filas = b[k];
-    return `<div class="grp">
-      <div class="grp-h">
-        <span class="tit">${esc(k)}</span>
-        <span class="cnt">${filas.length} opciones · ${new Set(filas.map(f=>f.proveedor)).size} proveedores</span>
-        <span class="arw">▶</span>
-      </div>
-      <div class="grp-b">
-        ${filas.map(f => `<a class="row" href="${f.link}" target="_blank" rel="noopener">
-          ${f.img ? `<img src="${f.img}" alt="" loading="lazy">` : `<div style="width:54px;height:54px"></div>`}
-          <div><div class="nm">${esc(f.nombre)}</div><div class="pv">${esc(f.proveedor_nombre)}${f.costo_unitario?` · costo ${pesos(f.costo_unitario)} c/u`:""}</div></div>
-          ${f.margen_est ? `<div class="mg">+${pesos(f.margen_est)}<small>margen est.</small></div>`
-                         : `<div class="pr">${fmtPrecio(f.precio,f.moneda)}<small>${f.moneda==="USD"?"por bulto":"c/u"}</small></div>`}
-        </a>`).join("")}
-      </div>
-    </div>`;
-  }).join("") : `<div class="empty">Todavía no hay búsquedas publicadas. Corré <code>scripts/scrape_proveedores.py</code>.</div>`;
+let TODO = [];          // lista plana de oportunidades
+let META = {};          // dolar, markup, proveedores
+let FILTRO = "todos";
+let ORDEN = "margen";
+let BUSQ = "";
+let TOPE = 60;
 
-  const dir = document.getElementById("dir");
-  dir.innerHTML = (d.proveedores||[]).map(p => `<div class="prov ${p.consultable?"":"dir"}">
-    <h3>${esc(p.nombre)}</h3>
-    <div class="rub">${esc(p.rubro||"")}</div>
-    <p>${esc(p.nota||"")}</p>
-    <div class="pie">
-      <span class="chip ${p.consultable?"on":""}">${p.consultable?"Catálogo online":esc(p.plataforma||"Consulta manual")}</span>
-      ${p.contacto ? `<a class="go" href="${p.contacto}" target="_blank" rel="noopener">Contacto →</a>`
-                   : `<a class="go" href="${p.url}" target="_blank" rel="noopener">Abrir →</a>`}
-    </div>
-  </div>`).join("");
+// Todo el dataset se aplana: una fila por oportunidad. Es mucho más fácil de
+// escanear y de ordenar que la lista anidada por producto que había antes.
+function aplanar(d) {
+  const out = [];
+  for (const [categoria, filas] of Object.entries(d.busquedas||{})) {
+    for (const f of (filas||[])) out.push({...f, categoria});
+  }
+  return out;
 }
 
-if (Q) document.querySelectorAll(".fb").forEach(b => b.classList.toggle("on", b.dataset.t === "todos"));
-document.getElementById("filtros").addEventListener("click", e => {
-  const b = e.target.closest(".fb"); if (!b) return;
-  FILTRO = b.dataset.t;
-  document.querySelectorAll(".fb").forEach(x => x.classList.toggle("on", x === b));
-  if (DATA) pintar(DATA);
-});
+function visibles() {
+  const q = norm(BUSQ);
+  return TODO.filter(f => {
+    if (FILTRO !== "todos" && f.ticket !== FILTRO) return false;
+    if (!q) return true;
+    return norm(f.nombre).includes(q) || norm(f.categoria).includes(q) ||
+           norm(f.proveedor_nombre).includes(q);
+  }).sort((a,b) => ORDEN === "costo"
+      ? (a.costo_unitario||Infinity) - (b.costo_unitario||Infinity)
+      : (b.margen_est||0) - (a.margen_est||0));
+}
 
-document.getElementById("matches").addEventListener("click", e => {
-  const h = e.target.closest(".grp-h"); if (!h) return;
-  h.parentElement.classList.toggle("open");
+function pintar() {
+  const v = visibles();
+  const lista = document.getElementById("lista");
+  document.getElementById("resumen").textContent =
+    `${v.length} ${v.length===1?"opción":"opciones"} de ${TODO.length}`;
+
+  if (!v.length) {
+    lista.innerHTML = `<div class="vacio">Nada coincide con esa búsqueda.</div>`;
+    document.getElementById("mas").hidden = true;
+    return;
+  }
+  lista.innerHTML = v.slice(0, TOPE).map(f => `
+    <a class="fila-p" href="${f.link}" target="_blank" rel="noopener">
+      ${f.img ? `<img src="${f.img}" alt="" loading="lazy">` : `<div class="ph"></div>`}
+      <div>
+        <div class="nm">${esc(f.nombre)}</div>
+        <div class="cat">${esc(f.categoria)}</div>
+      </div>
+      <div class="prov-n">${esc(f.proveedor_nombre)}</div>
+      <div class="num costo">${f.costo_unitario ? pesos(f.costo_unitario) : "—"}</div>
+      <div class="num">${f.venta_est ? pesos(f.venta_est) : "—"}</div>
+      <div class="margen">
+        ${f.margen_est ? `<b>+${pesos(f.margen_est)}</b>` : `<b style="color:var(--muted)">—</b>`}
+        <span class="est">${f.margen_real ? "margen real" : "estimado"}${f.ticket ? `<span class="tk ${f.ticket}">${f.ticket}</span>` : ""}</span>
+      </div>
+    </a>`).join("");
+
+  const mas = document.getElementById("mas");
+  mas.hidden = v.length <= TOPE;
+  mas.textContent = `Ver más (${v.length - TOPE} restantes)`;
+}
+
+function pintarDirectorio() {
+  document.getElementById("dir").innerHTML = (META.proveedores||[]).map(p => `
+    <div class="prov ${p.consultable?"":"off"}">
+      <h3>${esc(p.nombre)}</h3>
+      <div class="rub">${esc(p.rubro||"")}</div>
+      <p>${esc(p.nota||"")}</p>
+      <div class="pie">
+        <span class="chip ${p.consultable?"on":""}">${p.consultable?"Catálogo online":esc(p.plataforma||"Consulta manual")}</span>
+        <a class="go" href="${p.contacto||p.url}" target="_blank" rel="noopener">Abrir →</a>
+      </div>
+    </div>`).join("");
+}
+
+// ---- Eventos ----
+document.getElementById("q").addEventListener("input", e => { BUSQ = e.target.value; TOPE = 60; pintar(); });
+document.getElementById("segTicket").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  FILTRO = b.dataset.t; TOPE = 60;
+  document.querySelectorAll("#segTicket button").forEach(x => x.classList.toggle("on", x === b));
+  pintar();
 });
+document.querySelector(".th").addEventListener("click", e => {
+  const b = e.target.closest("button[data-s]"); if (!b) return;
+  ORDEN = b.dataset.s;
+  document.querySelectorAll(".th button").forEach(x => {
+    x.classList.toggle("on", x === b);
+    x.textContent = x.textContent.replace(" ▾","") + (x === b ? " ▾" : "");
+  });
+  pintar();
+});
+document.getElementById("mas").addEventListener("click", () => { TOPE += 60; pintar(); });
 
 function cargar() {
-  fetch(URL_P, {cache:"no-store"}).then(r => r.ok ? r.json() : Promise.reject()).then(pintar)
-    .catch(() => { document.getElementById("matches").innerHTML =
-      `<div class="empty">Todavía no hay datos de proveedores publicados.</div>`; });
+  fetch(URL_P, { cache:"no-store" })
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(d => {
+      META = d;
+      TODO = aplanar(d);
+      document.getElementById("c-alto").textContent = TODO.filter(f=>f.ticket==="alto").length;
+      document.getElementById("c-medio").textContent = TODO.filter(f=>f.ticket==="medio").length;
+      document.getElementById("c-bajo").textContent = TODO.filter(f=>f.ticket==="bajo").length;
+      document.getElementById("stamp").textContent =
+        `Actualizado ${fmtF(d.generado)} · dólar ${pesos(d.dolar||0)} · margen estimado a ${d.markup||2.5}× cuando no hay precio de venta`;
+      pintarDirectorio();
+      // Si se llega desde un producto (?q=…), arranca buscándolo.
+      const q = new URLSearchParams(location.search).get("q");
+      if (q) { BUSQ = q; document.getElementById("q").value = q; }
+      pintar();
+    })
+    .catch(() => {
+      document.getElementById("lista").innerHTML =
+        `<div class="vacio">No se pudieron cargar los proveedores.</div>`;
+    });
 }
-
-// Si llega desde un producto (?q=...), muestra todos los tickets y lo abre.
-const Q = new URLSearchParams(location.search).get("q");
-if (Q) FILTRO = "todos";
 
 if (sessionStorage.getItem("ciet_ec") === "1") abrir();
 </script>
