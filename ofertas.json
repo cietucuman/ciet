@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-08",
- "actualizado": "2026-08-08 10:44",
+ "actualizado": "2026-08-08 11:21",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,32 +21,32 @@
   "2026-08-07",
   "2026-08-08"
  ],
- "total": 26,
+ "total": 27,
  "ofertas": [
   {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Nieto Senetiner",
-   "m": "NIETO & SENETINER",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786363/Vino-Nieto-Senetiner-Cabernet-Sauvnion-750cc-1-971982.jpg?v=638234014273600000",
+   "n": "Vino Don David Reserva Cabernet x750Cc",
+   "m": "Don David",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
    "cadena": "ChangoMás",
-   "precio": 3599.85,
-   "link": "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-ml-2/p",
-   "referencia": 10799.0,
-   "precio_2da": 8106.75,
+   "precio": 5009.92,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
+   "referencia": 15029.0,
+   "precio_2da": 11385.0,
    "baja_pct": 66.7,
-   "brecha_pct": 55.6,
-   "score": 3706,
+   "brecha_pct": 56.0,
+   "score": 3733,
    "pr": {
-    "Jumbo": [
-     11150.0,
-     "https://www.jumbo.com.ar/vino-nieto-senetiner-cabernet-sauvnion-750cc/p"
-    ],
-    "ChangoMás": [
-     3599.85,
-     "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-ml-2/p"
+    "Comodín": [
+     12718.19,
+     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
     ],
     "Carrefour": [
-     8106.75,
-     "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-cc-721782/p"
+     11385.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
+    ],
+    "ChangoMás": [
+     5009.92,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
     ]
    }
   },
@@ -71,13 +71,40 @@
      7670.0,
      "https://www.jumbo.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
     ],
-    "ChangoMás": [
-     2576.46,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p"
-    ],
     "Carrefour": [
      5856.75,
      "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alma-mora-750-cc/p"
+    ],
+    "ChangoMás": [
+     2576.46,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Los Arboles Selecc Cabernet x 750Ml",
+   "m": "Los Arboles",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156131/Vino-Los-Arboles-Selecc-Malbec-x-750Ml.jpg?v=637375290464930000",
+   "cadena": "ChangoMás",
+   "precio": 2099.77,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-los-arboles-750-cc-2/p",
+   "referencia": 4199.39,
+   "precio_2da": 4769.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 56.0,
+   "score": 2799,
+   "pr": {
+    "Comodín": [
+     5636.79,
+     "https://www.comodinencasa.com.ar/vino-los-arboles-selecc-cabernet-x-750ml/p"
+    ],
+    "ChangoMás": [
+     2099.77,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-los-arboles-750-cc-2/p"
+    ],
+    "Carrefour": [
+     4769.25,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-los-arboles-750-cc-40159/p"
     ]
    }
   },
@@ -190,64 +217,33 @@
    }
   },
   {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Saint Felicien",
-   "m": "SAINT FELICIEN",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/427725/Vino-Tinto-Cabernet-Sauvignon-Saint-Felicien-750-Cc-1-247879.jpg?v=636495154664730000",
-   "cadena": "Jumbo",
-   "precio": 9050.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p",
-   "referencia": 18100.0,
-   "precio_2da": 16949.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2330,
-   "pr": {
-    "Jumbo": [
-     9050.0,
-     "https://www.jumbo.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p"
-    ],
-    "Carrefour": [
-     17115.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-saint-felicien-750-cc/p"
-    ],
-    "ChangoMás": [
-     16949.0,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-saint-felicien-750cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Blanco Dulce Tardío 750 Ml Benjamin",
-   "m": "BENJAMIN NIETO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786335/Vino-Benjamin-Tardia-Blanco-750-1-971949.jpg?v=638234014175330000",
+   "n": "Vino La Celia Reserva Cabernet Sauvignon 750cc",
+   "m": "LA CELIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/890880/Vino-La-Celia-Reserva-Cabernet-Sauvignon-750cc-1-944086.jpg?v=638991742007930000",
    "cadena": "ChangoMás",
-   "precio": 2166.44,
-   "link": "https://www.masonline.com.ar/vino-blanco-nieto-senetiner-benjamin-dulce-coleccion-tardia-750ml-2/p",
-   "referencia": 4874.25,
-   "precio_2da": 3475.0,
-   "baja_pct": 55.6,
-   "brecha_pct": 37.7,
-   "score": 2092,
+   "precio": 3596.51,
+   "link": "https://www.masonline.com.ar/vino-tinto-la-celia-reserva-cabernet-sauvignon-750-ml-2/p",
+   "referencia": 10789.0,
+   "precio_2da": 5500.0,
+   "baja_pct": 66.7,
+   "brecha_pct": 34.6,
+   "score": 2307,
    "pr": {
     "Vea": [
-     6650.0,
-     "https://www.vea.com.ar/vino-benjamin-tardia-blanco-750/p"
+     10600.0,
+     "https://www.vea.com.ar/vino-la-celia-reserva-cabernet-sauvignon-750cc/p"
     ],
     "Jumbo": [
-     3475.0,
-     "https://www.jumbo.com.ar/vino-benjamin-tardia-blanco-750/p"
-    ],
-    "Comodín": [
-     6588.39,
-     "https://www.comodinencasa.com.ar/vino-benjamin-dulce-blanco-750ml/p"
+     5500.0,
+     "https://www.jumbo.com.ar/vino-la-celia-reserva-cabernet-sauvignon-750cc/p"
     ],
     "Carrefour": [
-     4923.75,
-     "https://www.carrefour.com.ar/vino-blanco-sauvignon-blanc-benjamin-750-ml-725348/p"
+     10300.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-la-celia-en-botella-750-cc-740173/p"
     ],
     "ChangoMás": [
-     2166.44,
-     "https://www.masonline.com.ar/vino-blanco-nieto-senetiner-benjamin-dulce-coleccion-tardia-750ml-2/p"
+     3596.51,
+     "https://www.masonline.com.ar/vino-tinto-la-celia-reserva-cabernet-sauvignon-750-ml-2/p"
     ]
    }
   },
@@ -279,33 +275,6 @@
     "ChangoMás": [
      6099.0,
      "https://www.masonline.com.ar/galletitas-cerealitas-clasicas-636gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Rose 750 Cc Cordero Con Piel De Lobo",
-   "m": "CORDERO CON PIEL DE LOBO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829228/Vino-Cordero-Con-Piel-De-Lobo-Rose-750cc-1-1021439.jpg?v=638579829656570000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p",
-   "referencia": 5600.0,
-   "precio_2da": 6999.0,
-   "baja_pct": 37.5,
-   "brecha_pct": 50.0,
-   "score": 1875,
-   "pr": {
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p"
-    ],
-    "Carrefour": [
-     7069.0,
-     "https://www.carrefour.com.ar/vino-rosado-cordero-con-piel-de-lobo-750-ml-748279/p"
-    ],
-    "ChangoMás": [
-     6999.0,
-     "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p"
     ]
    }
   },
@@ -368,6 +337,64 @@
    }
   },
   {
+   "n": "Vino tinto Tempranillo Portillo 750 ml",
+   "m": "Portillo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/322117/7798074864859_01.jpg?v=638191720952030000",
+   "cadena": "ChangoMás",
+   "precio": 2356.45,
+   "link": "https://www.masonline.com.ar/vino-tinto-portillo-tempranillo-750ml-2/p",
+   "referencia": 3534.5,
+   "precio_2da": 5099.25,
+   "baja_pct": 33.3,
+   "brecha_pct": 53.8,
+   "score": 1793,
+   "pr": {
+    "Carrefour": [
+     5099.25,
+     "https://www.carrefour.com.ar/vino-tinto-portillo-tempranillo-en-botella-750-cc-718559/p"
+    ],
+    "ChangoMás": [
+     2356.45,
+     "https://www.masonline.com.ar/vino-tinto-portillo-tempranillo-750ml-2/p"
+    ],
+    "Comodín": [
+     6372.09,
+     "https://www.comodinencasa.com.ar/vino-portillo-tempranillo-x-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Cordero con Piel de Lobo",
+   "m": "CORDERO CON PIEL DE LOBO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885537/Vino-Cordero-Con-Piel-De-Lobo-Cabernet-Sauvign-1-1049210.jpg?v=638949281992330000",
+   "cadena": "Jumbo",
+   "precio": 3500.0,
+   "link": "https://www.jumbo.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p",
+   "referencia": 5600.0,
+   "precio_2da": 6600.0,
+   "baja_pct": 37.5,
+   "brecha_pct": 47.0,
+   "score": 1761,
+   "pr": {
+    "Vea": [
+     7000.0,
+     "https://www.vea.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
+    ],
+    "Jumbo": [
+     3500.0,
+     "https://www.jumbo.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
+    ],
+    "Carrefour": [
+     6600.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-cordero-con-piel-de-lobo-en-botella-750-cc-748281/p"
+    ],
+    "ChangoMás": [
+     6999.0,
+     "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-cabernet-sauvignon-750-ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Vino tinto Syrah Alma Mora 750 ml",
    "m": "Alma Mora",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185282/7790240042092_01.jpg?v=637468594552900000",
@@ -399,9 +426,9 @@
    }
   },
   {
-   "n": "Vino tinto Malbec Alma Mora 750 ml",
-   "m": "Alma Mora",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823626/7790240042108_02.jpg?v=639083182079970000",
+   "n": "Vino Tinto Malbec 750 Cc Alma Mora",
+   "m": "ALMA MORA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581070/Vino-Tinto-Alma-Mora-Malbec-750-Cc-1-14750.jpg?v=637225176344470000",
    "cadena": "ChangoMás",
    "precio": 2576.46,
    "link": "https://www.masonline.com.ar/vino-malbec-alma-mora-750-cc-2/p",
@@ -411,10 +438,6 @@
    "brecha_pct": 52.2,
    "score": 1740,
    "pr": {
-    "Carrefour": [
-     5856.75,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-alma-mora-750-cc/p"
-    ],
     "Vea": [
      5390.0,
      "https://www.vea.com.ar/vino-alma-mora-malbec-750cc/p"
@@ -430,6 +453,10 @@
     "ChangoMás": [
      2576.46,
      "https://www.masonline.com.ar/vino-malbec-alma-mora-750-cc-2/p"
+    ],
+    "Carrefour": [
+     5856.75,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-alma-mora-750-cc/p"
     ]
    }
   },
@@ -461,37 +488,6 @@
     "ChangoMás": [
      4109.0,
      "https://www.masonline.com.ar/copos-de-cereal-granix-400-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Regeneración Retinol 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919955/13710774170.jpg?v=639180001771970000",
-   "cadena": "Jumbo",
-   "precio": 9120.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-regeneracionretinol-650ml/p",
-   "referencia": 15200.0,
-   "precio_2da": 15890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.6,
-   "score": 1704,
-   "pr": {
-    "Vea": [
-     15890.0,
-     "https://www.vea.com.ar/shampoo-dove-regeneracionretinol-650ml/p"
-    ],
-    "Jumbo": [
-     9120.0,
-     "https://www.jumbo.com.ar/shampoo-dove-regeneracionretinol-650ml/p"
-    ],
-    "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/shampoo-dove-regeneracion-retinol-650-ml-778718/p"
-    ],
-    "ChangoMás": [
-     17689.0,
-     "https://www.masonline.com.ar/shampoo-dove-regeneracion-650-ml/p"
     ]
    }
   },
@@ -766,6 +762,37 @@
     "Carrefour": [
      4790.0,
      "https://www.carrefour.com.ar/coconut-natural-candy-chocolate-doy-pack-100-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo Clight Pomelada Hibiscus 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814894/7622202359934_E01.jpg?v=639082506742500000",
+   "cadena": "Jumbo",
+   "precio": 276.5,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p",
+   "referencia": 394.8,
+   "precio_2da": 560.0,
+   "baja_pct": 30.0,
+   "brecha_pct": 50.6,
+   "score": 1517,
+   "pr": {
+    "Carrefour": [
+     560.0,
+     "https://www.carrefour.com.ar/jugo-clight-pomelada-hibiscus-8-grs-767578/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
+    ],
+    "Jumbo": [
+     276.5,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-pomelada-hibiscus-8-g/p"
     ]
    }
   }
