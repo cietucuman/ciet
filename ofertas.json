@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-09",
- "actualizado": "2026-08-09 10:36",
+ "actualizado": "2026-08-09 14:14",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-08",
   "2026-08-09"
  ],
- "total": 21,
+ "total": 22,
  "ofertas": [
   {
    "n": "Vino Tinto Cabernet Sauvignon 750 Cc Nieto Senetiner",
@@ -47,6 +47,37 @@
     "Carrefour": [
      8106.75,
      "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-cabernet-sauvignon-750-cc-721782/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Alma Mora",
+   "m": "ALMA MORA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581068/Vino-Tinto-Alma-Mora-Cabernet-Sauvignon-750-Cc-1-14746.jpg?v=637225176336600000",
+   "cadena": "ChangoMás",
+   "precio": 2576.46,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p",
+   "referencia": 5796.75,
+   "precio_2da": 5390.0,
+   "baja_pct": 55.6,
+   "brecha_pct": 52.2,
+   "score": 2900,
+   "pr": {
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
+    ],
+    "Jumbo": [
+     7670.0,
+     "https://www.jumbo.com.ar/vino-tinto-alma-mora-cabernet-sauvignon-750-cc/p"
+    ],
+    "ChangoMás": [
+     2576.46,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-alma-mora-750-cc-2/p"
+    ],
+    "Carrefour": [
+     5856.75,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alma-mora-750-cc/p"
     ]
    }
   },
@@ -159,29 +190,29 @@
    }
   },
   {
-   "n": "Vino Rose 750 Cc Cordero Con Piel De Lobo",
-   "m": "CORDERO CON PIEL DE LOBO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829228/Vino-Cordero-Con-Piel-De-Lobo-Rose-750cc-1-1021439.jpg?v=638579829656570000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p",
-   "referencia": 5600.0,
-   "precio_2da": 6999.0,
-   "baja_pct": 37.5,
-   "brecha_pct": 50.0,
-   "score": 1875,
+   "n": "Rebozador Sabor horno 500 Grs Preferido",
+   "m": "PREFERIDO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853974/Rebozador-Preferido-Horno-Fortificado-X500g-1-1001066.jpg?v=638733300118500000",
+   "cadena": "Vea",
+   "precio": 1390.0,
+   "link": "https://www.vea.com.ar/rebozador-preferido-horno-fortificado-x500g/p",
+   "referencia": 2490.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 44.2,
+   "brecha_pct": 44.2,
+   "score": 1952,
    "pr": {
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/rebozador-preferido-horno-fortificado-x500g/p"
+    ],
     "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p"
+     2550.0,
+     "https://www.jumbo.com.ar/rebozador-preferido-horno-fortificado-x500g/p"
     ],
     "Carrefour": [
-     7069.0,
-     "https://www.carrefour.com.ar/vino-rosado-cordero-con-piel-de-lobo-750-ml-748279/p"
-    ],
-    "ChangoMás": [
-     6999.0,
-     "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p"
+     2490.0,
+     "https://www.carrefour.com.ar/rebozador-preferido-horno-en-bolsa-500-g-733215/p"
     ]
    }
   },
@@ -275,37 +306,6 @@
    }
   },
   {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Cordero con Piel de Lobo",
-   "m": "CORDERO CON PIEL DE LOBO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885537/Vino-Cordero-Con-Piel-De-Lobo-Cabernet-Sauvign-1-1049210.jpg?v=638949281992330000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p",
-   "referencia": 5600.0,
-   "precio_2da": 6600.0,
-   "baja_pct": 37.5,
-   "brecha_pct": 47.0,
-   "score": 1761,
-   "pr": {
-    "Vea": [
-     7000.0,
-     "https://www.vea.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
-    ],
-    "Carrefour": [
-     6600.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-cordero-con-piel-de-lobo-en-botella-750-cc-748281/p"
-    ],
-    "ChangoMás": [
-     6999.0,
-     "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-cabernet-sauvignon-750-ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Vino tinto Malbec Alma Mora 750 ml",
    "m": "Alma Mora",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823626/7790240042108_02.jpg?v=639083182079970000",
@@ -341,9 +341,9 @@
    }
   },
   {
-   "n": "Vino Tinto Syrah 750 Ml Alma Mora",
-   "m": "ALMA MORA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581209/Vino-Tinto-Alma-Mora-Syrah-750-Cc-1-247884.jpg?v=637225176799900000",
+   "n": "Vino tinto Syrah Alma Mora 750 ml",
+   "m": "Alma Mora",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185282/7790240042092_01.jpg?v=637468594552900000",
    "cadena": "ChangoMás",
    "precio": 2576.46,
    "link": "https://www.masonline.com.ar/vino-tinto-alma-mora-syrah-750-ml-2/p",
@@ -353,6 +353,10 @@
    "brecha_pct": 52.2,
    "score": 1740,
    "pr": {
+    "Carrefour": [
+     5856.75,
+     "https://www.carrefour.com.ar/vino-tinto-syrah-alma-mora-750-cc/p"
+    ],
     "Vea": [
      5390.0,
      "https://www.vea.com.ar/vino-tinto-syrah-750-ml-alma-mora/p"
@@ -364,10 +368,6 @@
     "ChangoMás": [
      2576.46,
      "https://www.masonline.com.ar/vino-tinto-alma-mora-syrah-750-ml-2/p"
-    ],
-    "Carrefour": [
-     5856.75,
-     "https://www.carrefour.com.ar/vino-tinto-syrah-alma-mora-750-cc/p"
     ]
    }
   },
@@ -403,33 +403,6 @@
    }
   },
   {
-   "n": "Vino Blanco Chardonnay 750 Cc La Linda",
-   "m": "LA LINDA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/716603/Vino-La-Linda-Chardonnay12250584001-1-893836.jpg?v=637973734679570000",
-   "cadena": "ChangoMás",
-   "precio": 3616.51,
-   "link": "https://www.masonline.com.ar/vino-blanco-la-linda-chardonnay-750ml-2/p",
-   "referencia": 5424.5,
-   "precio_2da": 7442.5,
-   "baja_pct": 33.3,
-   "brecha_pct": 51.4,
-   "score": 1713,
-   "pr": {
-    "Jumbo": [
-     7442.5,
-     "https://www.jumbo.com.ar/vino-chardonnay-750-ml-la-linda-2/p"
-    ],
-    "ChangoMás": [
-     3616.51,
-     "https://www.masonline.com.ar/vino-blanco-la-linda-chardonnay-750ml-2/p"
-    ],
-    "Carrefour": [
-     10959.0,
-     "https://www.carrefour.com.ar/vino-blanco-chardonnay-fond-de-cave-750-ml-73831/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Regeneración Retinol 650 Ml Dove",
    "m": "DOVE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/919955/13710774170.jpg?v=639180001771970000",
@@ -461,29 +434,56 @@
    }
   },
   {
-   "n": "Shampoo Nutrición Tri-Óleos 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919939/13710774172.jpg?v=639180000969770000",
-   "cadena": "Jumbo",
-   "precio": 9120.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p",
-   "referencia": 15200.0,
-   "precio_2da": 15890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.6,
-   "score": 1704,
+   "n": "Vino Don David Reserva Cabernet x750Cc",
+   "m": "Don David",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
+   "cadena": "ChangoMás",
+   "precio": 7514.5,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
+   "referencia": 15029.0,
+   "precio_2da": 11385.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.0,
+   "score": 1700,
    "pr": {
-    "Jumbo": [
-     9120.0,
-     "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p"
-    ],
-    "ChangoMás": [
-     17689.0,
-     "https://www.masonline.com.ar/shampoo-dove-nutricion-650-ml/p"
+    "Comodín": [
+     12718.19,
+     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
     ],
     "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-650-ml-778716/p"
+     11385.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
+    ],
+    "ChangoMás": [
+     7514.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Deluxe Protection P x 36 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808451/Pa-ales-Pampers-Deluxe-Prot-Peq-36u-1-1006938.jpg?v=638422478341330000",
+   "cadena": "Carrefour",
+   "precio": 15834.0,
+   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
+   "referencia": 26390.0,
+   "precio_2da": 26390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     26390.0,
+     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
+    ],
+    "ChangoMás": [
+     28519.0,
+     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-p-36un-2/p"
+    ],
+    "Carrefour": [
+     15834.0,
+     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
     ]
    }
   },
@@ -565,6 +565,37 @@
     "Carrefour": [
      3490.0,
      "https://www.carrefour.com.ar/almohaditas-crema-frutilla-lasfor-bolsa-200-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Golden Ale 473 Cc Rabieta",
+   "m": "RABIETA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/782026/Cerveza-Rabieta-Golden-Ale-473-Cc-1-850855.jpg?v=638201073966300000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p",
+   "referencia": 2962.5,
+   "precio_2da": 3699.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 46.6,
+   "score": 1554,
+   "pr": {
+    "Jumbo": [
+     1975.0,
+     "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p"
+    ],
+    "Comodín": [
+     3848.0,
+     "https://www.comodinencasa.com.ar/cerveza-rabieta-golden-ale-lata-473cc/p"
+    ],
+    "Carrefour": [
+     3700.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-rabieta-golden-ale-473-ml-646252/p"
+    ],
+    "ChangoMás": [
+     3699.0,
+     "https://www.masonline.com.ar/cerveza-golden-ale-rabieta-473-cc-2/p"
     ]
    }
   },
