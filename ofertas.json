@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-10",
- "actualizado": "2026-08-10 11:23",
+ "actualizado": "2026-08-10 17:05",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-09",
   "2026-08-10"
  ],
- "total": 10,
+ "total": 12,
  "ofertas": [
   {
    "n": "Fideos monos Lucchetti bolsa 500 g.",
@@ -55,37 +55,6 @@
     "Tuchanguito": [
      2072.86,
      "https://www.tuchanguito.com.ar/productos/fid-lucchetti-monos-500-gr/"
-    ]
-   }
-  },
-  {
-   "n": "Fideos al huevo Lucchetti spaghetti 500 g",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/888683/7790070337108_02.jpg?v=639162818198900000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 1899.0,
-   "baja_pct": 55.5,
-   "brecha_pct": 46.3,
-   "score": 2571,
-   "pr": {
-    "Carrefour": [
-     1899.0,
-     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-spaghetti-500-g-733268/p"
-    ],
-    "Vea": [
-     1899.0,
-     "https://www.vea.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
-    ],
-    "Jumbo": [
-     2450.0,
-     "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p"
     ]
    }
   },
@@ -206,6 +175,33 @@
    }
   },
   {
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
+   "cadena": "Carrefour",
+   "precio": 3594.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
+   "referencia": 5990.0,
+   "precio_2da": 7059.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 49.1,
+   "score": 1963,
+   "pr": {
+    "Jumbo": [
+     7100.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+    ],
+    "Carrefour": [
+     3594.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    ],
+    "ChangoMás": [
+     7059.0,
+     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+    ]
+   }
+  },
+  {
    "n": "Nuez Moscada Molida 23 Grs La Campagnola",
    "m": "LA CAMPAGNOLA",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/741005/Nuez-Moscada-Molida-La-Campagnola-X23gr-1-924787.jpg?v=637997421328400000",
@@ -264,6 +260,64 @@
     "ChangoMás": [
      6319.0,
      "https://www.masonline.com.ar/cereal-zucaritas-490g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Reconstrucción y Aminoácido 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919963/13710774169.jpg?v=639180002076370000",
+   "cadena": "Carrefour",
+   "precio": 9534.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p",
+   "referencia": 15890.0,
+   "precio_2da": 15890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15890.0,
+     "https://www.vea.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
+    ],
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
+    ],
+    "ChangoMás": [
+     17689.0,
+     "https://www.masonline.com.ar/shampoo-dove-reconstruccion-650-ml/p"
+    ],
+    "Carrefour": [
+     9534.0,
+     "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Deluxe Protection P x 36 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808451/Pa-ales-Pampers-Deluxe-Prot-Peq-36u-1-1006938.jpg?v=638422478341330000",
+   "cadena": "Carrefour",
+   "precio": 15834.0,
+   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
+   "referencia": 26390.0,
+   "precio_2da": 26390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     26390.0,
+     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
+    ],
+    "ChangoMás": [
+     28519.0,
+     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-p-36un-2/p"
+    ],
+    "Carrefour": [
+     15834.0,
+     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
     ]
    }
   },
