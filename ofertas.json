@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-11",
- "actualizado": "2026-08-11 10:56",
+ "actualizado": "2026-08-11 14:30",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-10",
   "2026-08-11"
  ],
- "total": 9,
+ "total": 10,
  "ofertas": [
   {
    "n": "Fideos monos Lucchetti bolsa 500 g.",
@@ -252,6 +252,37 @@
     "ChangoMás": [
      4547.4,
      "https://www.masonline.com.ar/mopa-algodon-para-pisos-virulana-1-un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Reconstrucción y Aminoácido 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919963/13710774169.jpg?v=639180002076370000",
+   "cadena": "Carrefour",
+   "precio": 9534.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p",
+   "referencia": 15890.0,
+   "precio_2da": 15890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15890.0,
+     "https://www.vea.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
+    ],
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
+    ],
+    "ChangoMás": [
+     17689.0,
+     "https://www.masonline.com.ar/shampoo-dove-reconstruccion-650-ml/p"
+    ],
+    "Carrefour": [
+     9534.0,
+     "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p"
     ]
    }
   },
