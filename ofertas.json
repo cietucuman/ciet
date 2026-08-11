@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-10",
- "actualizado": "2026-08-10 17:05",
+ "fecha": "2026-08-11",
+ "actualizado": "2026-08-11 10:56",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-07-31",
   "2026-08-01",
   "2026-08-02",
   "2026-08-03",
@@ -19,9 +18,10 @@
   "2026-08-07",
   "2026-08-08",
   "2026-08-09",
-  "2026-08-10"
+  "2026-08-10",
+  "2026-08-11"
  ],
- "total": 12,
+ "total": 9,
  "ofertas": [
   {
    "n": "Fideos monos Lucchetti bolsa 500 g.",
@@ -175,29 +175,29 @@
    }
   },
   {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
-   "cadena": "Carrefour",
-   "precio": 3594.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 7059.0,
+   "n": "Aderezo Sabor Picante 250 Grs Hellmann´s",
+   "m": "HELLMANN´S",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/900747/Aderezo-Picante-X-250-Gr-Hellmann-s-1-1055540.jpg?v=639081683052700000",
+   "cadena": "Comodín",
+   "precio": 1858.31,
+   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-picante-dp-250gr/p",
+   "referencia": 3097.19,
+   "precio_2da": 3569.0,
    "baja_pct": 40.0,
-   "brecha_pct": 49.1,
-   "score": 1963,
+   "brecha_pct": 47.9,
+   "score": 1917,
    "pr": {
     "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+     3650.0,
+     "https://www.jumbo.com.ar/aderezo-picante-x-250-gr-hellmann-s-2/p"
     ],
-    "Carrefour": [
-     3594.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    "Comodín": [
+     1858.31,
+     "https://www.comodinencasa.com.ar/aderezo-hellmanns-picante-dp-250gr/p"
     ],
     "ChangoMás": [
-     7059.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+     3569.0,
+     "https://www.masonline.com.ar/mayonesa-hellman-s-picante-250-g-2/p"
     ]
    }
   },
@@ -229,149 +229,56 @@
    }
   },
   {
-   "n": "Copos de maíz Zucaritas azucarados 490 g.",
-   "m": "Kelloggs",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318194/7896004004969_E02.jpg?v=638180312938500000",
-   "cadena": "Jumbo",
-   "precio": 3175.0,
-   "link": "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p",
-   "referencia": 5080.0,
-   "precio_2da": 5992.09,
-   "baja_pct": 37.5,
-   "brecha_pct": 47.0,
-   "score": 1763,
-   "pr": {
-    "Carrefour": [
-     6079.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p"
-    ],
-    "Vea": [
-     6190.0,
-     "https://www.vea.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
-    ],
-    "Jumbo": [
-     3175.0,
-     "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
-    ],
-    "Comodín": [
-     5992.09,
-     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-490gr/p"
-    ],
-    "ChangoMás": [
-     6319.0,
-     "https://www.masonline.com.ar/cereal-zucaritas-490g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Reconstrucción y Aminoácido 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919963/13710774169.jpg?v=639180002076370000",
-   "cadena": "Carrefour",
-   "precio": 9534.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p",
-   "referencia": 15890.0,
-   "precio_2da": 15890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15890.0,
-     "https://www.vea.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
-    ],
-    "Jumbo": [
-     17850.0,
-     "https://www.jumbo.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
-    ],
-    "ChangoMás": [
-     17689.0,
-     "https://www.masonline.com.ar/shampoo-dove-reconstruccion-650-ml/p"
-    ],
-    "Carrefour": [
-     9534.0,
-     "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Deluxe Protection P x 36 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808451/Pa-ales-Pampers-Deluxe-Prot-Peq-36u-1-1006938.jpg?v=638422478341330000",
-   "cadena": "Carrefour",
-   "precio": 15834.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
-   "referencia": 26390.0,
-   "precio_2da": 26390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     26390.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ],
-    "ChangoMás": [
-     28519.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-p-36un-2/p"
-    ],
-    "Carrefour": [
-     15834.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Franc 750 Cc Fabre Montmayou",
-   "m": "FABRE MONTMAYOU",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/669752/Vino-Fabre-Terru-o-Cabernet-Franc-Bot-750cc-1-879235.jpg?v=637691637940930000",
+   "n": "Mopa de Algodón Virulana x 1 Un",
+   "m": "VIRULANA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/878628/Mopa-De-Algod-n-Virulana-1-1042837.jpg?v=638894042531100000",
    "cadena": "ChangoMás",
-   "precio": 10499.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p",
-   "referencia": 17499.0,
-   "precio_2da": 17500.0,
+   "precio": 4547.4,
+   "link": "https://www.masonline.com.ar/mopa-algodon-para-pisos-virulana-1-un-2/p",
+   "referencia": 7579.0,
+   "precio_2da": 7600.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 40.2,
+   "score": 1607,
    "pr": {
-    "Jumbo": [
-     17500.0,
-     "https://www.jumbo.com.ar/vino-fabre-terruno-cabernet-franc-x-750-cc/p"
+    "Vea": [
+     7600.0,
+     "https://www.vea.com.ar/mopa-de-algodon-virulana-2/p"
     ],
-    "Carrefour": [
-     17675.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-franc-fabre-montmayou-750-cc/p"
+    "Jumbo": [
+     7850.0,
+     "https://www.jumbo.com.ar/mopa-de-algodon-virulana-2/p"
     ],
     "ChangoMás": [
-     10499.4,
-     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p"
+     4547.4,
+     "https://www.masonline.com.ar/mopa-algodon-para-pisos-virulana-1-un-2/p"
     ]
    }
   },
   {
-   "n": "Bizcochuelo Chocman Black Con Cacao 35 G",
-   "m": "Bonafide",
-   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/325622/Bizcochuelo-Chocman-Black-Con-Cacao-35-G-1-57735.jpg?v=638531121817030000",
-   "cadena": "ChangoMás",
-   "precio": 479.4,
-   "link": "https://www.masonline.com.ar/bizcochuelo-chocman-black-con-cacao-35-g-2/p",
-   "referencia": 799.0,
-   "precio_2da": 799.0,
+   "n": "Shampoo Pantene keratina 300 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p",
+   "referencia": 9690.0,
+   "precio_2da": 9476.65,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 38.6,
+   "score": 1546,
    "pr": {
-    "ChangoMás": [
-     479.4,
-     "https://www.masonline.com.ar/bizcochuelo-chocman-black-con-cacao-35-g-2/p"
-    ],
     "Carrefour": [
-     799.0,
-     "https://www.carrefour.com.ar/bizcochuelo-black-chocman-35-grs-760139/p"
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p"
     ],
-    "Comodín": [
-     956.79,
-     "https://www.comodinencasa.com.ar/bizcochuelo-chocman-black-35gr-2/p"
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-keratina-x-300-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     9476.65,
+     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
     ]
    }
   }
