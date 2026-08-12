@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-12",
- "actualizado": "2026-08-12 11:13",
+ "actualizado": "2026-08-12 14:26",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -221,6 +221,33 @@
    }
   },
   {
+   "n": "Acondicionador Keratina Repara y Protege 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865046/Acondicionador-Pantene-Keratina-510ml-Acondicionador-Keratina-X-510-Ml-Pantene-1-1036880.jpg?v=638809545768370000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-keratina-repara-y-protege-reparador-510-ml-760660/p",
+   "referencia": 15290.0,
+   "precio_2da": 18149.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 49.5,
+   "score": 1978,
+   "pr": {
+    "Jumbo": [
+     18200.0,
+     "https://www.jumbo.com.ar/acondicionador-keratina-x-510-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-keratina-repara-y-protege-700ml-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-keratina-repara-y-protege-reparador-510-ml-760660/p"
+    ]
+   }
+  },
+  {
    "n": "Jugo en Polvo Sabor Ananá 7 Grs Bc",
    "m": "BC",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/665694/Jugo-En-Polvo-Bc-Anana-7gr-1-878201.jpg?v=637670794022630000",
@@ -430,37 +457,6 @@
    }
   },
   {
-   "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
-   "referencia": 15290.0,
-   "precio_2da": 17190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 46.6,
-   "score": 1865,
-   "pr": {
-    "Vea": [
-     17190.0,
-     "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     17250.0,
-     "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
-    ]
-   }
-  },
-  {
    "n": "Acondicionador Pantene Bambú 250 ml",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/728035/7500435260503_02.jpg?v=638948520166230000",
@@ -488,6 +484,37 @@
    }
   },
   {
+   "n": "Jugo en polvo Arcor de durazno 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817837/7790580142766_E02.jpg?v=639082513719730000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p",
+   "referencia": 500.0,
+   "precio_2da": 390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.9,
+   "score": 1795,
+   "pr": {
+    "Carrefour": [
+     409.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
+    ],
+    "Vea": [
+     390.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-anana-y-banana-15-g/p"
+    ]
+   }
+  },
+  {
    "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
@@ -511,6 +538,33 @@
     "Carrefour": [
      409.0,
      "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche Sabor Chocolate Descremada 185 Ml Nescao",
+   "m": "NESCAO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895210/Leche-Chocolatada-X-185-Ml-Nescao-1-1048115.jpg?v=639033970264270000",
+   "cadena": "Carrefour",
+   "precio": 930.0,
+   "link": "https://www.carrefour.com.ar/nescao-chocolatada-lista-para-tomar-185-ml-768622/p",
+   "referencia": 1550.0,
+   "precio_2da": 1590.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.5,
+   "score": 1660,
+   "pr": {
+    "Vea": [
+     1590.0,
+     "https://www.vea.com.ar/leche-chocolatada-x-185-ml-nescao/p"
+    ],
+    "Jumbo": [
+     1650.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-x-185-ml-nescao/p"
+    ],
+    "Carrefour": [
+     930.0,
+     "https://www.carrefour.com.ar/nescao-chocolatada-lista-para-tomar-185-ml-768622/p"
     ]
    }
   },
@@ -627,12 +681,12 @@
    }
   },
   {
-   "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
+   "n": "Shampoo Colágeno Nutre y Revitaliza 510 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/863196/Shampoo-Pantene-Colageno-510ml-Shampoo-Colageno-X-510-Ml-Pantene-1-1036420.jpg?v=638798205905670000",
    "cadena": "Carrefour",
    "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p",
+   "link": "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
@@ -641,46 +695,50 @@
    "pr": {
     "Vea": [
      15290.0,
-     "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
+     "https://www.vea.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
     ],
     "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
+     18500.0,
+     "https://www.jumbo.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
     ],
     "Carrefour": [
      9174.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
+     "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-700ml-2/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
+   "n": "Shampoo Reconstrucción y Aminoácido 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919963/13710774169.jpg?v=639180002076370000",
    "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
+   "precio": 9534.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p",
+   "referencia": 15890.0,
+   "precio_2da": 15890.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+     15890.0,
+     "https://www.vea.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
     ],
     "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+     17850.0,
+     "https://www.jumbo.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
     ],
     "ChangoMás": [
-     18149.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-510ml/p"
+     17689.0,
+     "https://www.masonline.com.ar/shampoo-dove-reconstruccion-650-ml/p"
     ],
     "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+     9534.0,
+     "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p"
     ]
    }
   },
@@ -743,37 +801,6 @@
    }
   },
   {
-   "n": "Shampoo Anticaída Biotinamina B3 300 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857337/Shampoo-Pantene-Ant-Caida-300ml-1-1034631.jpg?v=638757705686870000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
-   "referencia": 9690.0,
-   "precio_2da": 9476.65,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1546,
-   "pr": {
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
-    ],
-    "Jumbo": [
-     11900.0,
-     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
-    ],
-    "ChangoMás": [
-     9476.65,
-     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
-    ],
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
-    ]
-   }
-  },
-  {
    "n": "Acondicionador Pantene keratina 250 ml",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862647/7500435241106_02.jpg?v=639131541605430000",
@@ -801,37 +828,6 @@
     "ChangoMás": [
      9476.65,
      "https://www.masonline.com.ar/acondicionador-pantene-keratina-con-pro-vitamina-b5-400ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Pantene Prov Miracles anticaida 250 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628745/7500435247955_02.jpg?v=638762039900900000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-prov-miracles-anticaida-250-ml-758031/p",
-   "referencia": 9690.0,
-   "precio_2da": 9390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1523,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-prov-miracles-anticaida-250-ml-758031/p"
-    ],
-    "Vea": [
-     9390.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-250-ml-pantene/p"
-    ],
-    "Jumbo": [
-     11450.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-250-ml-pantene/p"
-    ],
-    "ChangoMás": [
-     9476.65,
-     "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-250ml/p"
     ]
    }
   }
