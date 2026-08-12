@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-11",
- "actualizado": "2026-08-11 16:53",
+ "fecha": "2026-08-12",
+ "actualizado": "2026-08-12 11:13",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-01",
   "2026-08-02",
   "2026-08-03",
   "2026-08-04",
@@ -19,45 +18,11 @@
   "2026-08-08",
   "2026-08-09",
   "2026-08-10",
-  "2026-08-11"
+  "2026-08-11",
+  "2026-08-12"
  ],
- "total": 10,
+ "total": 28,
  "ofertas": [
-  {
-   "n": "Fideos monos Lucchetti bolsa 500 g.",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
-   "referencia": 2599.0,
-   "precio_2da": 1805.0,
-   "baja_pct": 60.8,
-   "brecha_pct": 43.5,
-   "score": 2647,
-   "pr": {
-    "Carrefour": [
-     1805.0,
-     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
-    ],
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
-    ],
-    "Jumbo": [
-     2750.0,
-     "https://www.jumbo.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
-    ],
-    "Tuchanguito": [
-     2072.86,
-     "https://www.tuchanguito.com.ar/productos/fid-lucchetti-monos-500-gr/"
-    ]
-   }
-  },
   {
    "n": "Fideos Tallarín al Huevo N°7 500 Grs Lucchetti",
    "m": "LUCHETTI",
@@ -82,6 +47,87 @@
     "ChangoMás": [
      1019.0,
      "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Verao manzana 7 g. Rinde 1 L",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/272010/7622201717445_E01.jpg?v=638097453944230000",
+   "cadena": "Jumbo",
+   "precio": 145.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p",
+   "referencia": 290.0,
+   "precio_2da": 290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     290.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-verao-manzana-7-g-rinde-1-l-711447/p"
+    ],
+    "Vea": [
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
+    ],
+    "Jumbo": [
+     145.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo En Polvo Verao Naranja 7gr",
+   "m": "VERAO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775668/Jugo-En-Polvo-Verao-Naranja-7gr-1-941067.jpg?v=638163166846800000",
+   "cadena": "Jumbo",
+   "precio": 145.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p",
+   "referencia": 290.0,
+   "precio_2da": 290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
+    ],
+    "Jumbo": [
+     145.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
+    ],
+    "Carrefour": [
+     290.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-verao-naranja-7-g-rinde-1-l-711446/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja y Durazno 7 Grs Verao",
+   "m": "VERAO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906370/Jugo-En-Polvo-Verao-Naranja-Durazno-7gr-1-941114.jpg?v=639123826658400000",
+   "cadena": "Jumbo",
+   "precio": 145.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p",
+   "referencia": 290.0,
+   "precio_2da": 290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p"
+    ],
+    "Jumbo": [
+     145.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p"
+    ],
+    "Carrefour": [
+     290.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-verao-naranja-durazno-7-g-711779/p"
     ]
    }
   },
@@ -120,13 +166,13 @@
    "precio": 1019.0,
    "link": "https://www.masonline.com.ar/fideos-tirabuzon-lucchetti-3-vegetales-500gr-2/p",
    "referencia": 2339.0,
-   "precio_2da": 1590.0,
+   "precio_2da": 1599.0,
    "baja_pct": 56.4,
-   "brecha_pct": 35.9,
-   "score": 2027,
+   "brecha_pct": 36.3,
+   "score": 2047,
    "pr": {
     "Vea": [
-     1590.0,
+     1690.0,
      "https://www.vea.com.ar/fideos-lucchetti-tirabuzon-veg-x500g-2/p"
     ],
     "Jumbo": [
@@ -175,29 +221,29 @@
    }
   },
   {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
-   "cadena": "Carrefour",
-   "precio": 3594.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 7059.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 49.1,
-   "score": 1963,
+   "n": "Jugo en Polvo Sabor Ananá 7 Grs Bc",
+   "m": "BC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665694/Jugo-En-Polvo-Bc-Anana-7gr-1-878201.jpg?v=637670794022630000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 409.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.9,
+   "score": 1944,
    "pr": {
-    "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+    "Vea": [
+     440.0,
+     "https://www.vea.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
     ],
-    "Carrefour": [
-     3594.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
     ],
     "ChangoMás": [
-     7059.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-anana-bc-7-gr-2/p"
     ]
    }
   },
@@ -229,29 +275,242 @@
    }
   },
   {
-   "n": "Nuez Moscada Molida 23 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/741005/Nuez-Moscada-Molida-La-Campagnola-X23gr-1-924787.jpg?v=637997421328400000",
+   "n": "Fideos monos Lucchetti bolsa 500 g.",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
    "cadena": "ChangoMás",
-   "precio": 1449.0,
-   "link": "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p",
-   "referencia": 2529.0,
-   "precio_2da": 2590.0,
-   "baja_pct": 42.7,
-   "brecha_pct": 44.1,
-   "score": 1881,
+   "precio": 1019.0,
+   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
+   "referencia": 1809.0,
+   "precio_2da": 1805.0,
+   "baja_pct": 43.7,
+   "brecha_pct": 43.5,
+   "score": 1902,
    "pr": {
+    "Carrefour": [
+     1805.0,
+     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
+    ],
     "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/nuez-moscada-molida-la-campagnola-x23gr/p"
+     2390.0,
+     "https://www.vea.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
     ],
     "Jumbo": [
-     2900.0,
-     "https://www.jumbo.com.ar/nuez-moscada-molida-la-campagnola-x23gr/p"
+     2750.0,
+     "https://www.jumbo.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
     ],
     "ChangoMás": [
-     1449.0,
-     "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p"
+     1019.0,
+     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
+    ],
+    "Tuchanguito": [
+     2072.86,
+     "https://www.tuchanguito.com.ar/productos/fid-lucchetti-monos-500-gr/"
+    ]
+   }
+  },
+  {
+   "n": "Jabón líquido para ropa Ariel Platinum Doypack 800 ml",
+   "m": "Ariel",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776363/7790990003190_01.jpg?v=639005410789230000",
+   "cadena": "Carrefour",
+   "precio": 2596.75,
+   "link": "https://www.carrefour.com.ar/jabon-liquido-para-ropa-ariel-platinum-doypack-800-ml-745771/p",
+   "referencia": 4699.0,
+   "precio_2da": 4490.0,
+   "baja_pct": 44.7,
+   "brecha_pct": 42.2,
+   "score": 1886,
+   "pr": {
+    "Carrefour": [
+     2596.75,
+     "https://www.carrefour.com.ar/jabon-liquido-para-ropa-ariel-platinum-doypack-800-ml-745771/p"
+    ],
+    "Vea": [
+     4490.0,
+     "https://www.vea.com.ar/jabon-liquido-ariel-plat-dp-800ml/p"
+    ],
+    "Jumbo": [
+     5000.0,
+     "https://www.jumbo.com.ar/jabon-liquido-ariel-plat-dp-800ml/p"
+    ],
+    "ChangoMás": [
+     4699.0,
+     "https://www.masonline.com.ar/jabon-liquido-para-ropa-ariel-platinum-800-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Manzana 7 Grs Bc",
+   "m": "BC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665691/Jugo-En-Polvo-Bc-Manzana-Roja-7gr-1-878198.jpg?v=637670794015230000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 400.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.5,
+   "score": 1875,
+   "pr": {
+    "Vea": [
+     440.0,
+     "https://www.vea.com.ar/jugo-manzana-roja-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-manzana-roja-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     400.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja 7 Grs Bc",
+   "m": "BC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665707/Jugo-En-Polvo-Bc-Naranja7gr-1-878219.jpg?v=637670794122730000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 400.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.5,
+   "score": 1875,
+   "pr": {
+    "Vea": [
+     440.0,
+     "https://www.vea.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     400.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-7-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja Dulce 7 Grs Bc",
+   "m": "BC",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665701/Jugo-En-Polvo-Bc-Naranja-Dulce-7gr-1-878213.jpg?v=637670794044370000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 400.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.5,
+   "score": 1875,
+   "pr": {
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     400.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
+   "referencia": 15290.0,
+   "precio_2da": 17190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.6,
+   "score": 1865,
+   "pr": {
+    "Vea": [
+     17190.0,
+     "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     17250.0,
+     "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene Bambú 250 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/728035/7500435260503_02.jpg?v=638948520166230000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-bambu-250-ml-767999/p",
+   "referencia": 9690.0,
+   "precio_2da": 10700.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 45.7,
+   "score": 1827,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-bambu-250-ml-767999/p"
+    ],
+    "Jumbo": [
+     10700.0,
+     "https://www.jumbo.com.ar/acondicionador-pantene-bamboo-250ml/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-bambu-250-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
+   "referencia": 500.0,
+   "precio_2da": 390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.9,
+   "score": 1795,
+   "pr": {
+    "Vea": [
+     390.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "Carrefour": [
+     409.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
     ]
    }
   },
@@ -283,6 +542,180 @@
    }
   },
   {
+   "n": "Gaseosa cola Pepsi Black pet 2 lts",
+   "m": "Pepsi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/792263/7791813828464_E01.jpg?v=639045460332030000",
+   "cadena": "Jumbo",
+   "precio": 2340.0,
+   "link": "https://www.jumbo.com.ar/gaseosa-pepsi-black-2-l/p",
+   "referencia": 3900.0,
+   "precio_2da": 3900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     3950.0,
+     "https://www.carrefour.com.ar/gaseosa-cola-pepsi-black-pet-2-lts-746702/p"
+    ],
+    "Vea": [
+     3900.0,
+     "https://www.vea.com.ar/gaseosa-pepsi-black-2-l/p"
+    ],
+    "Jumbo": [
+     2340.0,
+     "https://www.jumbo.com.ar/gaseosa-pepsi-black-2-l/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Pantene colágeno 300 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651121/7500435191425_02.jpg?v=638816140414870000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-colageno-300-ml-760656/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-colageno-300-ml-760656/p"
+    ],
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-colageno-x-300-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     11450.0,
+     "https://www.jumbo.com.ar/shampoo-colageno-x-300-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-400ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene colágeno 250 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651124/7500435191586_02.jpg?v=638816140449330000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-colageno-250-ml-760659/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-colageno-250-ml-760659/p"
+    ],
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/acondicionador-colageno-x-250-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     10750.0,
+     "https://www.jumbo.com.ar/acondicionador-colageno-x-250-ml-pantene-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15290.0,
+     "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15290.0,
+     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-510ml/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene Restauración 700 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/870877/7500435115124_02.jpg?v=639138466790770000",
+   "cadena": "Carrefour",
+   "precio": 9841.73,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-restauracion-700-ml-778780/p",
+   "referencia": 16402.88,
+   "precio_2da": 16390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1598,
+   "pr": {
+    "Carrefour": [
+     9841.73,
+     "https://www.carrefour.com.ar/acondicionador-pantene-restauracion-700-ml-778780/p"
+    ],
+    "Vea": [
+     16390.0,
+     "https://www.vea.com.ar/acondicionadorpantene-restauracion-700ml/p"
+    ],
+    "Jumbo": [
+     18450.0,
+     "https://www.jumbo.com.ar/acondicionadorpantene-restauracion-700ml/p"
+    ],
+    "ChangoMás": [
+     18339.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-restauracion-700ml/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Pantene keratina 300 ml",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
@@ -306,6 +739,99 @@
     "ChangoMás": [
      9476.65,
      "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Anticaída Biotinamina B3 300 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857337/Shampoo-Pantene-Ant-Caida-300ml-1-1034631.jpg?v=638757705686870000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
+   "referencia": 9690.0,
+   "precio_2da": 9476.65,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.6,
+   "score": 1546,
+   "pr": {
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "Jumbo": [
+     11900.0,
+     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     9476.65,
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
+    ],
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene keratina 250 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862647/7500435241106_02.jpg?v=639131541605430000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-keratina-250-ml-760663/p",
+   "referencia": 9690.0,
+   "precio_2da": 9390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1523,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-keratina-250-ml-760663/p"
+    ],
+    "Vea": [
+     9390.0,
+     "https://www.vea.com.ar/acondicionador-keratina-x-250-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     11450.0,
+     "https://www.jumbo.com.ar/acondicionador-keratina-x-250-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     9476.65,
+     "https://www.masonline.com.ar/acondicionador-pantene-keratina-con-pro-vitamina-b5-400ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene Prov Miracles anticaida 250 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628745/7500435247955_02.jpg?v=638762039900900000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-prov-miracles-anticaida-250-ml-758031/p",
+   "referencia": 9690.0,
+   "precio_2da": 9390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1523,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-prov-miracles-anticaida-250-ml-758031/p"
+    ],
+    "Vea": [
+     9390.0,
+     "https://www.vea.com.ar/acondicionador-anti-caida-x-250-ml-pantene/p"
+    ],
+    "Jumbo": [
+     11450.0,
+     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-250-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     9476.65,
+     "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-250ml/p"
     ]
    }
   }
