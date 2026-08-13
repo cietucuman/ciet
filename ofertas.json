@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-13",
- "actualizado": "2026-08-13 13:42",
+ "actualizado": "2026-08-13 16:51",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-12",
   "2026-08-13"
  ],
- "total": 31,
+ "total": 30,
  "ofertas": [
   {
    "n": "Fideos Tallarín al Huevo N°7 500 Grs Lucchetti",
@@ -51,29 +51,91 @@
    }
   },
   {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Ml Álamos",
-   "m": "ALAMOS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/709738/Vino-Tinto-lamos-Selecci-n-Cabernet-Sauvignon-750-Cc-1-21655.jpg?v=637927402351330000",
+   "n": "Aperitivo cocktail con alcohol con spritz Emilia en botella 750 cc.",
+   "m": "Emilia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821081/7790070764041_02.jpg?v=639083181331630000",
    "cadena": "ChangoMás",
-   "precio": 5469.5,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-alamos-750-cc-2/p",
-   "referencia": 10939.0,
-   "precio_2da": 10950.0,
+   "precio": 5499.0,
+   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p",
+   "referencia": 10998.0,
+   "precio_2da": 11109.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.1,
-   "score": 2503,
+   "brecha_pct": 50.5,
+   "score": 2525,
    "pr": {
+    "Carrefour": [
+     11109.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-con-spritz-emilia-750-ml-746902/p"
+    ],
+    "Vea": [
+     11190.0,
+     "https://www.vea.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
+    ],
     "Jumbo": [
-     10950.0,
-     "https://www.jumbo.com.ar/vino-tinto-seleccion-cabernet-sauvignon-750-cc-alamos-2/p"
+     11550.0,
+     "https://www.jumbo.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
     ],
     "ChangoMás": [
-     5469.5,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-alamos-750-cc-2/p"
+     5499.0,
+     "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Mumm Léger Spritz 269 Ml",
+   "m": "MUMM",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774474/Espumante-Mumm-Leger-Spritz-269ml-1-889099.jpg?v=638150854047330000",
+   "cadena": "ChangoMás",
+   "precio": 1969.5,
+   "link": "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p",
+   "referencia": 3939.0,
+   "precio_2da": 3979.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.5,
+   "score": 2525,
+   "pr": {
+    "Vea": [
+     4050.0,
+     "https://www.vea.com.ar/espumante-mumm-leger-spritz-269-ml/p"
+    ],
+    "Jumbo": [
+     4100.0,
+     "https://www.jumbo.com.ar/espumante-mumm-leger-spritz-269-ml/p"
     ],
     "Carrefour": [
-     10959.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alamos-seleccion-de-vinedos-750-cc/p"
+     3979.0,
+     "https://www.carrefour.com.ar/espumante-mumm-leger-spritz-lata-269-cc-697598/p"
+    ],
+    "ChangoMás": [
+     1969.5,
+     "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Pinot Noir 750 Cc Don David",
+   "m": "DON DAVID",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/766896/Don-David-Pinot-Noir-X-750-Cc-1-880012.jpg?v=638108625945600000",
+   "cadena": "ChangoMás",
+   "precio": 5614.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-don-david-pinot-noir-750-cc-2/p",
+   "referencia": 11229.0,
+   "precio_2da": 11339.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.5,
+   "score": 2524,
+   "pr": {
+    "Jumbo": [
+     11700.0,
+     "https://www.jumbo.com.ar/vino-pinot-noir-750-cc-don-david/p"
+    ],
+    "ChangoMás": [
+     5614.5,
+     "https://www.masonline.com.ar/vino-tinto-don-david-pinot-noir-750-cc-2/p"
+    ],
+    "Carrefour": [
+     11339.0,
+     "https://www.carrefour.com.ar/vino-tinto-don-david-pinot-noir-750-cc-690114/p"
     ]
    }
   },
@@ -159,56 +221,87 @@
    }
   },
   {
-   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
-   "m": "Colon",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
+   "n": "Vino Tinto Red Blend 750 Cc Finca Las Moras",
+   "m": "FINCA LAS MORAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/845683/Vino-Finca-Las-Moras-Red-Blend-750cc-1-1029239.jpg?v=638669577921930000",
    "cadena": "ChangoMás",
-   "precio": 3174.5,
-   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
-   "referencia": 6349.0,
-   "precio_2da": 5909.0,
+   "precio": 2619.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-finca-las-moras-red-blend-750-ml-2/p",
+   "referencia": 5239.0,
+   "precio_2da": 5240.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.3,
-   "score": 2314,
+   "brecha_pct": 50.0,
+   "score": 2500,
    "pr": {
-    "Comodín": [
-     6274.39,
-     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
+    "Jumbo": [
+     5500.0,
+     "https://www.jumbo.com.ar/vino-finca-las-moras-red-blend-750cc/p"
     ],
     "Carrefour": [
-     5909.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
+     5240.0,
+     "https://www.carrefour.com.ar/vino-tinto-finca-las-moras-red-blend-en-botella-750-cc-744462/p"
     ],
     "ChangoMás": [
-     3174.5,
-     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
+     2619.5,
+     "https://www.masonline.com.ar/vino-tinto-finca-las-moras-red-blend-750-ml-2/p"
     ]
    }
   },
   {
-   "n": "Espumante Salentein Brut Rosé 750 Ml",
-   "m": "SALENTEIN",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/780191/Espumante-Salentein-Brut-Rose-1-957305.jpg?v=638191570105770000",
+   "n": "Vino Chardonnay Piattelli 750 Cc",
+   "m": "PIATELLI",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/876414/Vino-Piatelli-Chardonnay-750cc-1-1040063.jpg?v=638877802030400000",
    "cadena": "ChangoMás",
-   "precio": 9204.5,
-   "link": "https://www.masonline.com.ar/espumante-salentein-brut-rose-750ml-2/p",
-   "referencia": 18409.0,
-   "precio_2da": 17000.0,
+   "precio": 8649.5,
+   "link": "https://www.masonline.com.ar/vino-blanco-piattelli-chardonnay-750-ml-2/p",
+   "referencia": 17299.0,
+   "precio_2da": 16450.0,
    "baja_pct": 50.0,
-   "brecha_pct": 45.9,
-   "score": 2293,
+   "brecha_pct": 47.4,
+   "score": 2371,
    "pr": {
-    "Jumbo": [
-     17000.0,
-     "https://www.jumbo.com.ar/espumante-salentein-brut-rose-750-ml/p"
+    "Vea": [
+     16450.0,
+     "https://www.vea.com.ar/vino-chardonnay-x-750-cc-piatelli/p"
     ],
-    "Carrefour": [
-     17159.0,
-     "https://www.carrefour.com.ar/espumante-salentein-brut-rose-750-ml-719771/p"
+    "Jumbo": [
+     16900.0,
+     "https://www.jumbo.com.ar/vino-chardonnay-x-750-cc-piatelli/p"
     ],
     "ChangoMás": [
-     9204.5,
-     "https://www.masonline.com.ar/espumante-salentein-brut-rose-750ml-2/p"
+     8649.5,
+     "https://www.masonline.com.ar/vino-blanco-piattelli-chardonnay-750-ml-2/p"
+    ],
+    "Carrefour": [
+     16565.0,
+     "https://www.carrefour.com.ar/vino-blanco-chardonnay-piattelli-mendoza-750-ml-761553/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Finca Las Moras Syrah x 750 Ml",
+   "m": "Finca Las Moras",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/160317/Vino-Finca-Las-Moras-Syrah-x-750-Ml.jpg?v=637378519019230000",
+   "cadena": "ChangoMás",
+   "precio": 2619.5,
+   "link": "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p",
+   "referencia": 5239.0,
+   "precio_2da": 4898.39,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.5,
+   "score": 2326,
+   "pr": {
+    "Comodín": [
+     4898.39,
+     "https://www.comodinencasa.com.ar/vino-finca-las-moras-syrah-x-750-ml/p"
+    ],
+    "Carrefour": [
+     5240.0,
+     "https://www.carrefour.com.ar/vino-tinto-syrah-finca-las-moras-750-cc-44367/p"
+    ],
+    "ChangoMás": [
+     2619.5,
+     "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p"
     ]
    }
   },
@@ -426,37 +519,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de multifruta 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1795,
-   "pr": {
-    "Carrefour": [
-     409.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
-    ],
-    "Vea": [
-     390.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-15-g/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
@@ -511,33 +573,6 @@
    }
   },
   {
-   "n": "Shampoo Pantene keratina 300 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p"
-    ],
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-300-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Pantene colágeno 300 ml",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651121/7500435191425_02.jpg?v=638816140414870000",
@@ -569,6 +604,33 @@
    }
   },
   {
+   "n": "Shampoo Pantene keratina 300 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p"
+    ],
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-keratina-x-300-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
+    ]
+   }
+  },
+  {
    "n": "Acondicionador Pantene colágeno 250 ml",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651124/7500435191586_02.jpg?v=638816140449330000",
@@ -596,12 +658,12 @@
    }
   },
   {
-   "n": "Shampoo Keratina Repara y Protege 510 Ml Pantene",
+   "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865047/Shampoo-Pantene-Keratina-510ml-Shampoo-Keratina-X-510-Ml-Pantene-1-1036881.jpg?v=638809545770700000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
    "cadena": "Carrefour",
    "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p",
+   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
@@ -610,108 +672,19 @@
    "pr": {
     "Vea": [
      15290.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+     "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
     ],
     "Jumbo": [
      17250.0,
-     "https://www.jumbo.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+     "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
     ],
     "ChangoMás": [
      18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-700-cc-2/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Reconstrucción y Aminoácido 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919963/13710774169.jpg?v=639180002076370000",
-   "cadena": "Carrefour",
-   "precio": 9534.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p",
-   "referencia": 15890.0,
-   "precio_2da": 15890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15890.0,
-     "https://www.vea.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
-    ],
-    "Jumbo": [
-     17850.0,
-     "https://www.jumbo.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
-    ],
-    "ChangoMás": [
-     17689.0,
-     "https://www.masonline.com.ar/shampoo-dove-reconstruccion-650-ml/p"
-    ],
-    "Carrefour": [
-     9534.0,
-     "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
-    ],
-    "ChangoMás": [
-     18149.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-colageno-nutre-revitaliza-700ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
     ]
    }
   },
