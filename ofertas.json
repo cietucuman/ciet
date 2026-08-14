@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-13",
- "actualizado": "2026-08-13 16:51",
+ "fecha": "2026-08-14",
+ "actualizado": "2026-08-14 11:08",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-03",
   "2026-08-04",
   "2026-08-05",
   "2026-08-06",
@@ -19,123 +18,62 @@
   "2026-08-10",
   "2026-08-11",
   "2026-08-12",
-  "2026-08-13"
+  "2026-08-13",
+  "2026-08-14"
  ],
- "total": 30,
+ "total": 41,
  "ofertas": [
   {
-   "n": "Fideos Tallarín al Huevo N°7 500 Grs Lucchetti",
-   "m": "LUCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803446/Fideos-Lucchetti-Tallarin-Huev-N7-X500g-1-1001153.jpg?v=638379921912030000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 1990.0,
-   "baja_pct": 55.5,
-   "brecha_pct": 48.8,
-   "score": 2707,
-   "pr": {
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
-    ],
-    "Jumbo": [
-     2450.0,
-     "https://www.jumbo.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aperitivo cocktail con alcohol con spritz Emilia en botella 750 cc.",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821081/7790070764041_02.jpg?v=639083181331630000",
-   "cadena": "ChangoMás",
-   "precio": 5499.0,
-   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p",
-   "referencia": 10998.0,
-   "precio_2da": 11109.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
+   "n": "Licor cacao espresso Cusenier en botella 750 ml",
+   "m": "Cusenier",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/881581/7792410779722_01.jpg?v=639154026263330000",
+   "cadena": "Carrefour",
+   "precio": 6000.0,
+   "link": "https://www.carrefour.com.ar/licor-cacao-espresso-cusinier-en-botella-750-ml-779248/p",
+   "referencia": 11474.25,
+   "precio_2da": 14950.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 59.9,
+   "score": 2856,
    "pr": {
     "Carrefour": [
-     11109.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-con-spritz-emilia-750-ml-746902/p"
+     6000.0,
+     "https://www.carrefour.com.ar/licor-cacao-espresso-cusinier-en-botella-750-ml-779248/p"
     ],
     "Vea": [
-     11190.0,
-     "https://www.vea.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
+     14950.0,
+     "https://www.vea.com.ar/licor-cusenier-cacao-750ml/p"
     ],
     "Jumbo": [
-     11550.0,
-     "https://www.jumbo.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     5499.0,
-     "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p"
+     15400.0,
+     "https://www.jumbo.com.ar/licor-cusenier-cacao-750ml/p"
     ]
    }
   },
   {
-   "n": "Espumante Mumm Léger Spritz 269 Ml",
-   "m": "MUMM",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774474/Espumante-Mumm-Leger-Spritz-269ml-1-889099.jpg?v=638150854047330000",
-   "cadena": "ChangoMás",
-   "precio": 1969.5,
-   "link": "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p",
-   "referencia": 3939.0,
-   "precio_2da": 3979.0,
+   "n": "Chocolate con Almendras 50 Grs Nestlé",
+   "m": "NESTLE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919185/8445291565395.jpg?v=639177371987170000",
+   "cadena": "Vea",
+   "precio": 1895.0,
+   "link": "https://www.vea.com.ar/chocolate-con-almendras-50-grs-nestle-2/p",
+   "referencia": 3790.0,
+   "precio_2da": 3879.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
+   "brecha_pct": 51.1,
+   "score": 2557,
    "pr": {
     "Vea": [
-     4050.0,
-     "https://www.vea.com.ar/espumante-mumm-leger-spritz-269-ml/p"
+     1895.0,
+     "https://www.vea.com.ar/chocolate-con-almendras-50-grs-nestle-2/p"
     ],
     "Jumbo": [
      4100.0,
-     "https://www.jumbo.com.ar/espumante-mumm-leger-spritz-269-ml/p"
-    ],
-    "Carrefour": [
-     3979.0,
-     "https://www.carrefour.com.ar/espumante-mumm-leger-spritz-lata-269-cc-697598/p"
+     "https://www.jumbo.com.ar/chocolate-con-almendras-50-grs-nestle-2/p"
     ],
     "ChangoMás": [
-     1969.5,
-     "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Pinot Noir 750 Cc Don David",
-   "m": "DON DAVID",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/766896/Don-David-Pinot-Noir-X-750-Cc-1-880012.jpg?v=638108625945600000",
-   "cadena": "ChangoMás",
-   "precio": 5614.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-don-david-pinot-noir-750-cc-2/p",
-   "referencia": 11229.0,
-   "precio_2da": 11339.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2524,
-   "pr": {
-    "Jumbo": [
-     11700.0,
-     "https://www.jumbo.com.ar/vino-pinot-noir-750-cc-don-david/p"
-    ],
-    "ChangoMás": [
-     5614.5,
-     "https://www.masonline.com.ar/vino-tinto-don-david-pinot-noir-750-cc-2/p"
-    ],
-    "Carrefour": [
-     11339.0,
-     "https://www.carrefour.com.ar/vino-tinto-don-david-pinot-noir-750-cc-690114/p"
+     3879.0,
+     "https://www.masonline.com.ar/tableta-de-chocolate-nestle-almendras-50-g/p"
     ]
    }
   },
@@ -167,6 +105,33 @@
    }
   },
   {
+   "n": "Chocolate Choco Trio Maní 90 Grs Nestlé®",
+   "m": "NESTLE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918773/7891000437209.jpg?v=639172983278800000",
+   "cadena": "Vea",
+   "precio": 2795.0,
+   "link": "https://www.vea.com.ar/chocolate-choco-trio-mani-90-grs-nestle-2/p",
+   "referencia": 5590.0,
+   "precio_2da": 5590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     2795.0,
+     "https://www.vea.com.ar/chocolate-choco-trio-mani-90-grs-nestle-2/p"
+    ],
+    "ChangoMás": [
+     6399.0,
+     "https://www.masonline.com.ar/chocolate-nestle-trio-90-g-2/p"
+    ],
+    "Carrefour": [
+     5590.0,
+     "https://www.carrefour.com.ar/nestle-chocotrio-chocolate-90-grs-775662/p"
+    ]
+   }
+  },
+  {
    "n": "Jugo En Polvo Verao Naranja 7gr",
    "m": "VERAO",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/775668/Jugo-En-Polvo-Verao-Naranja-7gr-1-941067.jpg?v=638163166846800000",
@@ -194,149 +159,114 @@
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Naranja y Durazno 7 Grs Verao",
-   "m": "VERAO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906370/Jugo-En-Polvo-Verao-Naranja-Durazno-7gr-1-941114.jpg?v=639123826658400000",
+   "n": "Barras de Cereal Sabor Avellanas y Arándanos 30 Grs Flow",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917706/7790380020271.jpg?v=639162686570070000",
    "cadena": "Jumbo",
-   "precio": 145.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p",
-   "referencia": 290.0,
-   "precio_2da": 290.0,
+   "precio": 600.0,
+   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-avellanas-30gr/p",
+   "referencia": 1200.0,
+   "precio_2da": 1190.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "brecha_pct": 49.6,
+   "score": 2479,
    "pr": {
     "Vea": [
-     290.0,
-     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p"
+     1190.0,
+     "https://www.vea.com.ar/barra-de-cereal-flow-avellanas-30gr/p"
     ],
     "Jumbo": [
-     145.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p"
+     600.0,
+     "https://www.jumbo.com.ar/barra-de-cereal-flow-avellanas-30gr/p"
     ],
     "Carrefour": [
-     290.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-verao-naranja-durazno-7-g-711779/p"
+     1190.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-flow-cereal-de-avellana-y-arandanos-30-g-730599/p"
     ]
    }
   },
   {
-   "n": "Vino Tinto Red Blend 750 Cc Finca Las Moras",
-   "m": "FINCA LAS MORAS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/845683/Vino-Finca-Las-Moras-Red-Blend-750cc-1-1029239.jpg?v=638669577921930000",
-   "cadena": "ChangoMás",
-   "precio": 2619.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-finca-las-moras-red-blend-750-ml-2/p",
-   "referencia": 5239.0,
-   "precio_2da": 5240.0,
+   "n": "Agua saborizada limoneto H2OH con gas 2,25 lts",
+   "m": "H2oh!",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308966/7791813423911_E01.jpg?v=638146793786800000",
+   "cadena": "Vea",
+   "precio": 1745.0,
+   "link": "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-2-25lt/p",
+   "referencia": 3490.0,
+   "precio_2da": 3245.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "brecha_pct": 46.2,
+   "score": 2311,
    "pr": {
-    "Jumbo": [
-     5500.0,
-     "https://www.jumbo.com.ar/vino-finca-las-moras-red-blend-750cc/p"
-    ],
     "Carrefour": [
-     5240.0,
-     "https://www.carrefour.com.ar/vino-tinto-finca-las-moras-red-blend-en-botella-750-cc-744462/p"
+     3245.0,
+     "https://www.carrefour.com.ar/agua-saborizada-limoneto-h2oh-con-gas-225-lts-512165/p"
     ],
-    "ChangoMás": [
-     2619.5,
-     "https://www.masonline.com.ar/vino-tinto-finca-las-moras-red-blend-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Chardonnay Piattelli 750 Cc",
-   "m": "PIATELLI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/876414/Vino-Piatelli-Chardonnay-750cc-1-1040063.jpg?v=638877802030400000",
-   "cadena": "ChangoMás",
-   "precio": 8649.5,
-   "link": "https://www.masonline.com.ar/vino-blanco-piattelli-chardonnay-750-ml-2/p",
-   "referencia": 17299.0,
-   "precio_2da": 16450.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.4,
-   "score": 2371,
-   "pr": {
     "Vea": [
-     16450.0,
-     "https://www.vea.com.ar/vino-chardonnay-x-750-cc-piatelli/p"
+     1745.0,
+     "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-2-25lt/p"
     ],
     "Jumbo": [
-     16900.0,
-     "https://www.jumbo.com.ar/vino-chardonnay-x-750-cc-piatelli/p"
+     3650.0,
+     "https://www.jumbo.com.ar/saborizada-h2oh-limoneto-con-gas-2-25lt/p"
     ],
     "ChangoMás": [
-     8649.5,
-     "https://www.masonline.com.ar/vino-blanco-piattelli-chardonnay-750-ml-2/p"
-    ],
-    "Carrefour": [
-     16565.0,
-     "https://www.carrefour.com.ar/vino-blanco-chardonnay-piattelli-mendoza-750-ml-761553/p"
+     3449.0,
+     "https://www.masonline.com.ar/agua-saborizada-limoneto-h2o-2-25lt-8-2/p"
     ]
    }
   },
   {
-   "n": "Vino Finca Las Moras Syrah x 750 Ml",
-   "m": "Finca Las Moras",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/160317/Vino-Finca-Las-Moras-Syrah-x-750-Ml.jpg?v=637378519019230000",
+   "n": "Vino Don David Reserva Cabernet x750Cc",
+   "m": "Don David",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
    "cadena": "ChangoMás",
-   "precio": 2619.5,
-   "link": "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p",
-   "referencia": 5239.0,
-   "precio_2da": 4898.39,
+   "precio": 7514.5,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
+   "referencia": 15029.0,
+   "precio_2da": 12718.19,
    "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2326,
+   "brecha_pct": 40.9,
+   "score": 2046,
    "pr": {
     "Comodín": [
-     4898.39,
-     "https://www.comodinencasa.com.ar/vino-finca-las-moras-syrah-x-750-ml/p"
+     12718.19,
+     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
     ],
     "Carrefour": [
-     5240.0,
-     "https://www.carrefour.com.ar/vino-tinto-syrah-finca-las-moras-750-cc-44367/p"
+     15180.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
     ],
     "ChangoMás": [
-     2619.5,
-     "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p"
+     7514.5,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
     ]
    }
   },
   {
-   "n": "Fideos Tirabuzón 3 Vegetales 500 Grs Lucchetti",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/793512/Fideos-Lucchetti-Tirabuz-n-Veg-X500g-1-994883.jpg?v=638303241882300000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/fideos-tirabuzon-lucchetti-3-vegetales-500gr-2/p",
-   "referencia": 2339.0,
-   "precio_2da": 1599.0,
-   "baja_pct": 56.4,
-   "brecha_pct": 36.3,
-   "score": 2047,
+   "n": "Edulcorante en polvo x 200 Un 160 Grs Hileret",
+   "m": "HILERET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/825020/Endulzante-Clasico-Forte-Hileret-200-Sobrecitos-1-870804.jpg?v=638526159489800000",
+   "cadena": "Jumbo",
+   "precio": 5700.0,
+   "link": "https://www.jumbo.com.ar/endulzante-clasico-forte-200-sobrecitos-hileret-2/p",
+   "referencia": 11750.0,
+   "precio_2da": 9290.0,
+   "baja_pct": 51.5,
+   "brecha_pct": 38.6,
+   "score": 1990,
    "pr": {
     "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/fideos-lucchetti-tirabuzon-veg-x500g-2/p"
+     9290.0,
+     "https://www.vea.com.ar/endulzante-clasico-forte-200-sobrecitos-hileret-2/p"
     ],
     "Jumbo": [
-     2700.0,
-     "https://www.jumbo.com.ar/fideos-lucchetti-tirabuzon-veg-x500g-2/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/fideos-tirabuzon-lucchetti-3-vegetales-500gr-2/p"
-    ],
-    "Comodín": [
-     1787.79,
-     "https://www.comodinencasa.com.ar/fideo-lucchetti-tirabuzon-3-vege-x-500gr/p"
+     5700.0,
+     "https://www.jumbo.com.ar/endulzante-clasico-forte-200-sobrecitos-hileret-2/p"
     ],
     "Carrefour": [
-     1599.0,
-     "https://www.carrefour.com.ar/fideos-guiseros-tirabuzon-lucchetti-3-vegetales-500-g-726312/p"
+     9290.0,
+     "https://www.carrefour.com.ar/edulcorante-en-sobres-hileret-con-sacarina-200-uni-681725/p"
     ]
    }
   },
@@ -457,68 +387,6 @@
    }
   },
   {
-   "n": "Aderezo Sabor Picante 250 Grs Hellmann´s",
-   "m": "HELLMANN´S",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/900747/Aderezo-Picante-X-250-Gr-Hellmann-s-1-1055540.jpg?v=639081683052700000",
-   "cadena": "Comodín",
-   "precio": 1858.31,
-   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-picante-dp-250gr/p",
-   "referencia": 3097.19,
-   "precio_2da": 3569.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 47.9,
-   "score": 1917,
-   "pr": {
-    "Jumbo": [
-     3650.0,
-     "https://www.jumbo.com.ar/aderezo-picante-x-250-gr-hellmann-s-2/p"
-    ],
-    "Comodín": [
-     1858.31,
-     "https://www.comodinencasa.com.ar/aderezo-hellmanns-picante-dp-250gr/p"
-    ],
-    "ChangoMás": [
-     3569.0,
-     "https://www.masonline.com.ar/mayonesa-hellman-s-picante-250-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos monos Lucchetti bolsa 500 g.",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
-   "referencia": 1809.0,
-   "precio_2da": 1790.0,
-   "baja_pct": 43.7,
-   "brecha_pct": 43.1,
-   "score": 1881,
-   "pr": {
-    "Carrefour": [
-     1805.0,
-     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
-    ],
-    "Vea": [
-     1790.0,
-     "https://www.vea.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
-    ],
-    "Jumbo": [
-     2750.0,
-     "https://www.jumbo.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
-    ],
-    "Tuchanguito": [
-     2072.86,
-     "https://www.tuchanguito.com.ar/productos/fid-lucchetti-monos-500-gr/"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
@@ -539,9 +407,44 @@
      250.0,
      "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
     ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
+    ],
     "Carrefour": [
      409.0,
      "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos al huevo Lucchetti spaghetti 500 g",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914137/7790070337108_01.jpg?v=639222259365430000",
+   "cadena": "ChangoMás",
+   "precio": 1019.0,
+   "link": "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p",
+   "referencia": 2289.0,
+   "precio_2da": 1470.0,
+   "baja_pct": 55.5,
+   "brecha_pct": 30.7,
+   "score": 1702,
+   "pr": {
+    "Carrefour": [
+     1899.0,
+     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-spaghetti-500-g-733268/p"
+    ],
+    "Vea": [
+     1899.0,
+     "https://www.vea.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
+    ],
+    "Jumbo": [
+     1470.0,
+     "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
+    ],
+    "ChangoMás": [
+     1019.0,
+     "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p"
     ]
    }
   },
@@ -569,6 +472,33 @@
     "ChangoMás": [
      4547.4,
      "https://www.masonline.com.ar/mopa-algodon-para-pisos-virulana-1-un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Pantene keratina 300 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p"
+    ],
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-keratina-x-300-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
     ]
    }
   },
@@ -604,33 +534,6 @@
    }
   },
   {
-   "n": "Shampoo Pantene keratina 300 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p"
-    ],
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-300-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
-    ]
-   }
-  },
-  {
    "n": "Acondicionador Pantene colágeno 250 ml",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651124/7500435191586_02.jpg?v=638816140449330000",
@@ -654,16 +557,109 @@
     "Jumbo": [
      10750.0,
      "https://www.jumbo.com.ar/acondicionador-colageno-x-250-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-colageno-nutre-revitaliza-400ml-2/p"
     ]
    }
   },
   {
-   "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
+   "n": "Bolsa para Horno Sabor Finas Hierbas x 1 Un 21 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895630/Bolsa-Para-Horno-Finas-Hierbas-30-Grs-Alicante-1-876407.jpg?v=639041745773700000",
+   "cadena": "Jumbo",
+   "precio": 1590.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-30-grs-alicante/p",
+   "referencia": 2650.0,
+   "precio_2da": 2650.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     2650.0,
+     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-30-grs-alicante/p"
+    ],
+    "Jumbo": [
+     1590.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-30-grs-alicante/p"
+    ],
+    "Carrefour": [
+     2650.0,
+     "https://www.carrefour.com.ar/saborizador-alicante-bolsa-horno-finas-hierbas-21-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Anticaída Biotinamina B3 300 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857337/Shampoo-Pantene-Ant-Caida-300ml-1-1034631.jpg?v=638757705686870000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "Jumbo": [
+     11900.0,
+     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
+    ],
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Reconstrucción y Aminoácido 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919963/13710774169.jpg?v=639180002076370000",
+   "cadena": "Carrefour",
+   "precio": 9534.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p",
+   "referencia": 15890.0,
+   "precio_2da": 15890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15890.0,
+     "https://www.vea.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
+    ],
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/shampoo-dove-reconstaminoacido-650ml/p"
+    ],
+    "ChangoMás": [
+     17689.0,
+     "https://www.masonline.com.ar/shampoo-dove-reconstruccion-650-ml/p"
+    ],
+    "Carrefour": [
+     9534.0,
+     "https://www.carrefour.com.ar/shampoo-dove-recontruccion-aminoacido-650-ml-778717/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
    "cadena": "Carrefour",
    "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
@@ -672,19 +668,77 @@
    "pr": {
     "Vea": [
      15290.0,
-     "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+     "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
     ],
     "Jumbo": [
-     17250.0,
-     "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
     ],
     "Carrefour": [
      9174.0,
-     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
+     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
     ],
     "ChangoMás": [
      18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
+     "https://www.masonline.com.ar/acondicionador-pantene-colageno-nutre-revitaliza-700ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15290.0,
+     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
+   "cadena": "Vea",
+   "precio": 3539.4,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
+   "referencia": 5899.0,
+   "precio_2da": 5899.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     3539.4,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    ],
+    "Jumbo": [
+     6100.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    ],
+    "Carrefour": [
+     5899.0,
+     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
+    ],
+    "ChangoMás": [
+     5919.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
     ]
    }
   },
@@ -720,29 +774,33 @@
    }
   },
   {
-   "n": "Vino Tinto Syrah 750 Ml Benjamin",
-   "m": "BENJAMIN",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/788884/Vino-Benjamin-Syrah-750ml-1-974632.jpg?v=638258098231930000",
-   "cadena": "ChangoMás",
-   "precio": 3049.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-benjamin-syrah-750ml-2/p",
-   "referencia": 6099.0,
-   "precio_2da": 4480.0,
+   "n": "Galletitas crackers Traviata Rex x3 288 grs",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/581400/7790040143920_01.jpg?v=638640139377370000",
+   "cadena": "Jumbo",
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p",
+   "referencia": 2850.0,
+   "precio_2da": 2092.5,
    "baja_pct": 50.0,
    "brecha_pct": 31.9,
-   "score": 1597,
+   "score": 1595,
    "pr": {
-    "Jumbo": [
-     4480.0,
-     "https://www.jumbo.com.ar/vino-benjamin-syrah-750ml/p"
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-traviata-rex-x3-288-grs-749666/p"
     ],
-    "Comodín": [
-     6170.39,
-     "https://www.comodinencasa.com.ar/vino-benjamin-nieto-syrah-x-750-cc/p"
+    "Vea": [
+     2092.5,
+     "https://www.vea.com.ar/galletitas-traviata-saladas-rex-288g/p"
+    ],
+    "Jumbo": [
+     1425.0,
+     "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p"
     ],
     "ChangoMás": [
-     3049.5,
-     "https://www.masonline.com.ar/vino-tinto-nieto-senetiner-benjamin-syrah-750ml-2/p"
+     3019.0,
+     "https://www.masonline.com.ar/galletitas-traviata-rex-288-g/p"
     ]
    }
   },
@@ -774,60 +832,145 @@
    }
   },
   {
-   "n": "Jabón líquido para ropa Ariel Platinum Doypack 800 ml",
-   "m": "Ariel",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776363/7790990003190_01.jpg?v=639005410789230000",
-   "cadena": "Carrefour",
-   "precio": 2596.75,
-   "link": "https://www.carrefour.com.ar/jabon-liquido-para-ropa-ariel-platinum-doypack-800-ml-745771/p",
-   "referencia": 4699.0,
-   "precio_2da": 3990.0,
-   "baja_pct": 44.7,
-   "brecha_pct": 34.9,
-   "score": 1562,
+   "n": "Oblea de arroz Gallo Snacks 20 g.",
+   "m": "Gallo Snacks",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914120/7790070411952_01.jpg?v=639222256626270000",
+   "cadena": "Jumbo",
+   "precio": 840.0,
+   "link": "https://www.jumbo.com.ar/snacks-de-arroz-limon-20-gr-oblea-gallo/p",
+   "referencia": 1400.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.6,
+   "score": 1583,
    "pr": {
     "Carrefour": [
-     2596.75,
-     "https://www.carrefour.com.ar/jabon-liquido-para-ropa-ariel-platinum-doypack-800-ml-745771/p"
+     1390.0,
+     "https://www.carrefour.com.ar/oblea-de-arroz-gallo-snacks-20-g/p"
     ],
     "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/jabon-liquido-ariel-plat-dp-800ml/p"
+     1390.0,
+     "https://www.vea.com.ar/snacks-de-arroz-limon-20-gr-oblea-gallo/p"
     ],
     "Jumbo": [
-     5000.0,
-     "https://www.jumbo.com.ar/jabon-liquido-ariel-plat-dp-800ml/p"
-    ],
-    "ChangoMás": [
-     4699.0,
-     "https://www.masonline.com.ar/jabon-liquido-para-ropa-ariel-platinum-800-ml-2/p"
+     840.0,
+     "https://www.jumbo.com.ar/snacks-de-arroz-limon-20-gr-oblea-gallo/p"
     ]
    }
   },
   {
-   "n": "Leche Sabor Chocolate Descremada 185 Ml Nescao",
-   "m": "NESCAO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895210/Leche-Chocolatada-X-185-Ml-Nescao-1-1048115.jpg?v=639033970264270000",
-   "cadena": "Carrefour",
-   "precio": 954.0,
-   "link": "https://www.carrefour.com.ar/nescao-chocolatada-lista-para-tomar-185-ml-768622/p",
-   "referencia": 1550.0,
-   "precio_2da": 1590.0,
-   "baja_pct": 38.5,
-   "brecha_pct": 40.0,
-   "score": 1538,
+   "n": "Edulcorante Líquido con Stevia 400 Cc Chuker",
+   "m": "CHUKER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788528/Edulcorante-Chuker-Con-Stevia-Liquido-X400ml-1-972868.jpg?v=638253993794600000",
+   "cadena": "Jumbo",
+   "precio": 4680.0,
+   "link": "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p",
+   "referencia": 7800.0,
+   "precio_2da": 7690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1566,
    "pr": {
     "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/leche-chocolatada-x-185-ml-nescao/p"
+     7690.0,
+     "https://www.vea.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
     ],
     "Jumbo": [
-     1650.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-x-185-ml-nescao/p"
+     4680.0,
+     "https://www.jumbo.com.ar/edulcorante-liquido-con-stevia-chuker-400-ml-2/p"
     ],
     "Carrefour": [
-     954.0,
-     "https://www.carrefour.com.ar/nescao-chocolatada-lista-para-tomar-185-ml-768622/p"
+     7690.0,
+     "https://www.carrefour.com.ar/edulcorante-liquido-chuker-stevia-400-cc-719371/p"
+    ]
+   }
+  },
+  {
+   "n": "Sopa crema Knorr de vegetales 60 g",
+   "m": "Knorr",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/248466/7794000005877_01.jpg?v=639191352867400000",
+   "cadena": "Jumbo",
+   "precio": 1710.0,
+   "link": "https://www.jumbo.com.ar/sopa-knorr-crema-de-vegetales-60-gr/p",
+   "referencia": 2850.0,
+   "precio_2da": 2799.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.9,
+   "score": 1556,
+   "pr": {
+    "Carrefour": [
+     2799.0,
+     "https://www.carrefour.com.ar/sopa-crema-knorr-de-vegetales-60-g-695110/p"
+    ],
+    "Vea": [
+     2799.0,
+     "https://www.vea.com.ar/sopa-knorr-crema-de-vegetales-60-gr/p"
+    ],
+    "Jumbo": [
+     1710.0,
+     "https://www.jumbo.com.ar/sopa-knorr-crema-de-vegetales-60-gr/p"
+    ],
+    "ChangoMás": [
+     2849.0,
+     "https://www.masonline.com.ar/sopa-crema-knorr-verduras-60-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Always xtra diarios respirable protectores diarios 15 uni",
+   "m": "Always",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/524194/7500435233019_02.jpg?v=638515473245900000",
+   "cadena": "Vea",
+   "precio": 2034.0,
+   "link": "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p",
+   "referencia": 3390.0,
+   "precio_2da": 3299.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1534,
+   "pr": {
+    "Carrefour": [
+     3299.0,
+     "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p"
+    ],
+    "Vea": [
+     2034.0,
+     "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
+    ],
+    "Jumbo": [
+     3450.0,
+     "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
+    ]
+   }
+  },
+  {
+   "n": "Edulcorante Líquido Clásico 400 Cc Chuker",
+   "m": "CHUKER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788527/Edulcorante-Chuker-Clasico-Liquido-X400ml-1-972864.jpg?v=638253993791130000",
+   "cadena": "Jumbo",
+   "precio": 3510.0,
+   "link": "https://www.jumbo.com.ar/edulcorante-liquido-clasico-chuker-400-ml-2/p",
+   "referencia": 5850.0,
+   "precio_2da": 5690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1533,
+   "pr": {
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/edulcorante-liquido-clasico-chuker-400-ml-2/p"
+    ],
+    "Jumbo": [
+     3510.0,
+     "https://www.jumbo.com.ar/edulcorante-liquido-clasico-chuker-400-ml-2/p"
+    ],
+    "Carrefour": [
+     5690.0,
+     "https://www.carrefour.com.ar/edulcorante-liquido-chuker-clasico-400-g-719370/p"
+    ],
+    "ChangoMás": [
+     5739.0,
+     "https://www.masonline.com.ar/edulcorante-liquido-chuker-400ml-2/p"
     ]
    }
   },
@@ -890,6 +1033,184 @@
     "ChangoMás": [
      11149.0,
      "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-250ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Saborizador Sabor Finas Hierbas x 4 Un 30 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/682254/Saborizador-Alicante-Fin-Hie-4s-1-876401.jpg?v=637759677764170000",
+   "cadena": "Jumbo",
+   "precio": 960.0,
+   "link": "https://www.jumbo.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p",
+   "referencia": 1600.0,
+   "precio_2da": 1550.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1523,
+   "pr": {
+    "Vea": [
+     1550.0,
+     "https://www.vea.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p"
+    ],
+    "Jumbo": [
+     960.0,
+     "https://www.jumbo.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p"
+    ],
+    "ChangoMás": [
+     1699.0,
+     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-finas-hierbas-30-gr-2/p"
+    ],
+    "Carrefour": [
+     1550.0,
+     "https://www.carrefour.com.ar/saborizador-finas-hierbas-alicante-sobre-x-4-uni/p"
+    ]
+   }
+  },
+  {
+   "n": "Saborizador sabor 4 Quesos x 4 Un 30 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/687322/Saborizador-Alicante-4q-4s-1-876394.jpg?v=637795857823200000",
+   "cadena": "Jumbo",
+   "precio": 960.0,
+   "link": "https://www.jumbo.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p",
+   "referencia": 1600.0,
+   "precio_2da": 1550.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1523,
+   "pr": {
+    "Vea": [
+     1550.0,
+     "https://www.vea.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p"
+    ],
+    "Jumbo": [
+     960.0,
+     "https://www.jumbo.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p"
+    ],
+    "ChangoMás": [
+     1649.0,
+     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-4-quesos-30-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
+   "cadena": "Vea",
+   "precio": 5514.0,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
+   "referencia": 9190.0,
+   "precio_2da": 8899.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1522,
+   "pr": {
+    "Vea": [
+     5514.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Jumbo": [
+     9400.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Carrefour": [
+     8899.0,
+     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
+    ],
+    "ChangoMás": [
+     8949.0,
+     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Sopa crema Knorr zapallo con nuez moscada 70 g",
+   "m": "Knorr",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/246154/7794000005884_01.jpg?v=637901365389600000",
+   "cadena": "Jumbo",
+   "precio": 1740.0,
+   "link": "https://www.jumbo.com.ar/sopa-knorr-crema-zapallo-con-nuez-moscada-70-gr/p",
+   "referencia": 2900.0,
+   "precio_2da": 2799.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1513,
+   "pr": {
+    "Carrefour": [
+     2799.0,
+     "https://www.carrefour.com.ar/sopa-crema-knorr-zapallo-con-nuez-moscada-70-g-695111/p"
+    ],
+    "Vea": [
+     2799.0,
+     "https://www.vea.com.ar/sopa-knorr-crema-zapallo-con-nuez-moscada-70-gr/p"
+    ],
+    "Jumbo": [
+     1740.0,
+     "https://www.jumbo.com.ar/sopa-knorr-crema-zapallo-con-nuez-moscada-70-gr/p"
+    ],
+    "ChangoMás": [
+     2849.0,
+     "https://www.masonline.com.ar/sopa-crema-knorr-zapallo-70-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Saborizador gallina Alicante sobre x 4 uni",
+   "m": "Alicante",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900725/7790150432440_E01.jpg?v=639191217675430000",
+   "cadena": "Jumbo",
+   "precio": 840.0,
+   "link": "https://www.jumbo.com.ar/saborizador-gallina-en-sobres-4-un-alicante/p",
+   "referencia": 1400.0,
+   "precio_2da": 1350.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1511,
+   "pr": {
+    "Carrefour": [
+     1350.0,
+     "https://www.carrefour.com.ar/saborizador-gallina-alicante-sobre-x-4-uni/p"
+    ],
+    "Vea": [
+     1350.0,
+     "https://www.vea.com.ar/saborizador-gallina-en-sobres-4-un-alicante/p"
+    ],
+    "Jumbo": [
+     840.0,
+     "https://www.jumbo.com.ar/saborizador-gallina-en-sobres-4-un-alicante/p"
+    ],
+    "ChangoMás": [
+     1479.0,
+     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-gallina-30-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Caldo de verdura Knorr cero sodio 12 uni",
+   "m": "Knorr",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900904/7794000008274_01.jpg?v=639191332254730000",
+   "cadena": "Jumbo",
+   "precio": 2430.0,
+   "link": "https://www.jumbo.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p",
+   "referencia": 4050.0,
+   "precio_2da": 3900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1508,
+   "pr": {
+    "Carrefour": [
+     3900.0,
+     "https://www.carrefour.com.ar/caldo-de-verdura-knorr-cero-sodio-12-uni-739356/p"
+    ],
+    "Vea": [
+     3900.0,
+     "https://www.vea.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p"
+    ],
+    "Jumbo": [
+     2430.0,
+     "https://www.jumbo.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p"
     ]
    }
   }
