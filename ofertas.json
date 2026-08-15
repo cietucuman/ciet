@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-14",
- "actualizado": "2026-08-14 17:08",
+ "fecha": "2026-08-15",
+ "actualizado": "2026-08-15 08:06",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-04",
   "2026-08-05",
   "2026-08-06",
   "2026-08-07",
@@ -19,10 +18,38 @@
   "2026-08-11",
   "2026-08-12",
   "2026-08-13",
-  "2026-08-14"
+  "2026-08-14",
+  "2026-08-15"
  ],
- "total": 46,
+ "total": 36,
  "ofertas": [
+  {
+   "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
+   "m": "AQUARIUS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/881310/Agua-Saborizada-Pomelo-Rosado-6-Pack-375ml-Aquarius-1-1046480.jpg?v=638918409923900000",
+   "cadena": "Carrefour",
+   "precio": 1400.0,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-sin-gas-aquarius-de-pomelo-rosado-375-cc-740253/p",
+   "referencia": 8400.0,
+   "precio_2da": 2201.59,
+   "baja_pct": 83.3,
+   "brecha_pct": 36.4,
+   "score": 3034,
+   "pr": {
+    "Jumbo": [
+     5655.0,
+     "https://www.jumbo.com.ar/agua-saborizada-pomelo-rosado-6-pack-375ml-aquarius/p"
+    ],
+    "Comodín": [
+     2201.59,
+     "https://www.comodinencasa.com.ar/agua-sabori-aquarius-pomelo-rosado-375cc/p"
+    ],
+    "Carrefour": [
+     1400.0,
+     "https://www.carrefour.com.ar/agua-saborizada-sin-gas-aquarius-de-pomelo-rosado-375-cc-740253/p"
+    ]
+   }
+  },
   {
    "n": "Licor cacao espresso Cusenier en botella 750 ml",
    "m": "Cusenier",
@@ -74,33 +101,6 @@
     "ChangoMás": [
      3879.0,
      "https://www.masonline.com.ar/tableta-de-chocolate-nestle-almendras-50-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Verao manzana 7 g. Rinde 1 L",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/272010/7622201717445_E01.jpg?v=638097453944230000",
-   "cadena": "Jumbo",
-   "precio": 145.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p",
-   "referencia": 290.0,
-   "precio_2da": 290.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Carrefour": [
-     290.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-verao-manzana-7-g-rinde-1-l-711447/p"
-    ],
-    "Vea": [
-     290.0,
-     "https://www.vea.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
-    ],
-    "Jumbo": [
-     145.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
     ]
    }
   },
@@ -186,56 +186,56 @@
    }
   },
   {
-   "n": "Vino Rosado Dulce Malbec 750 Cc Emilia",
-   "m": "EMILIA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/791469/Vino-Emilia-Dulce-Nat-Mb-ros-750cc-1-986817.jpg?v=638288338064800000",
+   "n": "Alfajor triple Oreo 56 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912589/77976307_01.jpg?v=639220553876730000",
    "cadena": "Jumbo",
-   "precio": 4700.0,
-   "link": "https://www.jumbo.com.ar/vino-emilia-dulce-nat-mb-rose-750cc/p",
-   "referencia": 9400.0,
-   "precio_2da": 8789.0,
+   "precio": 1125.0,
+   "link": "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p",
+   "referencia": 2250.0,
+   "precio_2da": 2190.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2326,
+   "brecha_pct": 48.6,
+   "score": 2432,
    "pr": {
-    "Jumbo": [
-     4700.0,
-     "https://www.jumbo.com.ar/vino-emilia-dulce-nat-mb-rose-750cc/p"
-    ],
     "Carrefour": [
-     8789.0,
-     "https://www.carrefour.com.ar/vino-roaso-malbec-dulce-natural-emilia-750-ml-725350/p"
+     2190.0,
+     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
+    ],
+    "Jumbo": [
+     1125.0,
+     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
     ],
     "ChangoMás": [
-     8999.0,
-     "https://www.masonline.com.ar/vino-rosado-emilia-dulce-natural-750-ml/p"
+     2209.0,
+     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
     ]
    }
   },
   {
-   "n": "Vino Finca Las Moras Syrah x 750 Ml",
-   "m": "Finca Las Moras",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/160317/Vino-Finca-Las-Moras-Syrah-x-750-Ml.jpg?v=637378519019230000",
+   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
+   "m": "Colon",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
    "cadena": "ChangoMás",
-   "precio": 2619.5,
-   "link": "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p",
-   "referencia": 5239.0,
-   "precio_2da": 4898.39,
+   "precio": 3174.5,
+   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
+   "referencia": 6349.0,
+   "precio_2da": 5909.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2326,
+   "brecha_pct": 46.3,
+   "score": 2314,
    "pr": {
     "Comodín": [
-     4898.39,
-     "https://www.comodinencasa.com.ar/vino-finca-las-moras-syrah-x-750-ml/p"
-    ],
-    "ChangoMás": [
-     2619.5,
-     "https://www.masonline.com.ar/vino-syrah-finca-las-moras-750-cc-2/p"
+     6274.39,
+     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
     ],
     "Carrefour": [
-     5240.0,
-     "https://www.carrefour.com.ar/vino-tinto-syrah-finca-las-moras-750-cc-44367/p"
+     5909.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
+    ],
+    "ChangoMás": [
+     3174.5,
+     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
     ]
    }
   },
@@ -267,60 +267,6 @@
     "ChangoMás": [
      3449.0,
      "https://www.masonline.com.ar/agua-saborizada-limoneto-h2o-2-25lt-8-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas crackers Rex original 125 g.",
-   "m": "Rex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318909/7790040719804_E01.jpg?v=638920143656270000",
-   "cadena": "Jumbo",
-   "precio": 1275.0,
-   "link": "https://www.jumbo.com.ar/galletitas-rex-original-125-gr-2/p",
-   "referencia": 2550.0,
-   "precio_2da": 2290.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.3,
-   "score": 2216,
-   "pr": {
-    "Carrefour": [
-     2290.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-rex-original-125-g/p"
-    ],
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/galletitas-rex-original-125-gr-2/p"
-    ],
-    "Jumbo": [
-     1275.0,
-     "https://www.jumbo.com.ar/galletitas-rex-original-125-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas sabor original Rex 225 g.",
-   "m": "Rex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905751/7790040144125_E01.jpg?v=639202557100000000",
-   "cadena": "Jumbo",
-   "precio": 1900.0,
-   "link": "https://www.jumbo.com.ar/galletitas-rex-225-gr/p",
-   "referencia": 3800.0,
-   "precio_2da": 3390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.0,
-   "score": 2198,
-   "pr": {
-    "Carrefour": [
-     3629.0,
-     "https://www.carrefour.com.ar/galletitas-sabor-original-rex-225-g-745254/p"
-    ],
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/galletitas-rex-225-gr/p"
-    ],
-    "Jumbo": [
-     1900.0,
-     "https://www.jumbo.com.ar/galletitas-rex-225-gr/p"
     ]
    }
   },
@@ -530,6 +476,37 @@
    }
   },
   {
+   "n": "Jugo en polvo Arcor de naranja 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
+   "referencia": 500.0,
+   "precio_2da": 390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.9,
+   "score": 1795,
+   "pr": {
+    "Carrefour": [
+     409.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+    ],
+    "Vea": [
+     390.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-15-g/p"
+    ]
+   }
+  },
+  {
    "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
@@ -561,180 +538,29 @@
    }
   },
   {
-   "n": "Fideos al huevo Lucchetti spaghetti 500 g",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914137/7790070337108_01.jpg?v=639222259365430000",
-   "cadena": "ChangoMás",
-   "precio": 1019.0,
-   "link": "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 1470.0,
-   "baja_pct": 55.5,
-   "brecha_pct": 30.7,
-   "score": 1702,
-   "pr": {
-    "Carrefour": [
-     1899.0,
-     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-spaghetti-500-g-733268/p"
-    ],
-    "Vea": [
-     1899.0,
-     "https://www.vea.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
-    ],
-    "Jumbo": [
-     1470.0,
-     "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
-    ],
-    "ChangoMás": [
-     1019.0,
-     "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mopa de Algodón Virulana x 1 Un",
-   "m": "VIRULANA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/878628/Mopa-De-Algod-n-Virulana-1-1042837.jpg?v=638894042531100000",
-   "cadena": "ChangoMás",
-   "precio": 4547.4,
-   "link": "https://www.masonline.com.ar/mopa-algodon-para-pisos-virulana-1-un-2/p",
-   "referencia": 7579.0,
-   "precio_2da": 7600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.2,
-   "score": 1607,
-   "pr": {
-    "Vea": [
-     7600.0,
-     "https://www.vea.com.ar/mopa-de-algodon-virulana-2/p"
-    ],
-    "Jumbo": [
-     7850.0,
-     "https://www.jumbo.com.ar/mopa-de-algodon-virulana-2/p"
-    ],
-    "ChangoMás": [
-     4547.4,
-     "https://www.masonline.com.ar/mopa-algodon-para-pisos-virulana-1-un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pantene keratina 300 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862645/7500435241113_02.jpg?v=639131541397530000",
+   "n": "Galletitas surtidas Terrabusi Variedad 390 grs",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860611/7622202839962_E02.jpg?v=639129000020770000",
    "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
+   "precio": 2159.0,
+   "link": "https://www.carrefour.com.ar/galletitas-surtidas-terrabusi-variedad-390-grs-777681/p",
+   "referencia": 3600.0,
+   "precio_2da": 3600.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1600,
+   "score": 1602,
    "pr": {
     "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-keratina-300-ml-760662/p"
+     2159.0,
+     "https://www.carrefour.com.ar/galletitas-surtidas-terrabusi-variedad-390-grs-777681/p"
     ],
     "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-300-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-400-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pantene colágeno 300 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651121/7500435191425_02.jpg?v=638816140414870000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-colageno-300-ml-760656/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-colageno-300-ml-760656/p"
-    ],
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-colageno-x-300-ml-pantene-2/p"
+     3600.0,
+     "https://www.vea.com.ar/galletitas-surtidas-regular-390-grs-variedad/p"
     ],
     "Jumbo": [
-     11450.0,
-     "https://www.jumbo.com.ar/shampoo-colageno-x-300-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-400ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pantene Prov Miracles anticaida 300 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628747/7500435248037_02.jpg?v=638762039916730000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
-    ],
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
-    ],
-    "Jumbo": [
-     11900.0,
-     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Pantene colágeno 250 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/651124/7500435191586_02.jpg?v=638816140449330000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-colageno-250-ml-760659/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-colageno-250-ml-760659/p"
-    ],
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/acondicionador-colageno-x-250-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     10750.0,
-     "https://www.jumbo.com.ar/acondicionador-colageno-x-250-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-colageno-nutre-revitaliza-400ml-2/p"
+     3600.0,
+     "https://www.jumbo.com.ar/galletitas-surtidas-regular-390-grs-variedad/p"
     ]
    }
   },
@@ -766,12 +592,12 @@
    }
   },
   {
-   "n": "Shampoo Keratina Repara y Protege 510 Ml Pantene",
+   "n": "Shampoo Colágeno Nutre y Revitaliza 510 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865047/Shampoo-Pantene-Keratina-510ml-Shampoo-Keratina-X-510-Ml-Pantene-1-1036881.jpg?v=638809545770700000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/863196/Shampoo-Pantene-Colageno-510ml-Shampoo-Colageno-X-510-Ml-Pantene-1-1036420.jpg?v=638798205905670000",
    "cadena": "Carrefour",
    "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p",
+   "link": "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
@@ -780,46 +606,50 @@
    "pr": {
     "Vea": [
      15290.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+     "https://www.vea.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
     ],
     "Jumbo": [
-     17250.0,
-     "https://www.jumbo.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-700-cc-2/p"
+     18500.0,
+     "https://www.jumbo.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
     ],
     "Carrefour": [
      9174.0,
-     "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p"
+     "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-700ml-2/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
+   "n": "Shampoo Anticaída Biotinamina B3 300 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857337/Shampoo-Pantene-Ant-Caida-300ml-1-1034631.jpg?v=638757705686870000",
    "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+     9690.0,
+     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
     ],
     "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+     11900.0,
+     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
     ],
     "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
     ]
    }
   },
@@ -855,37 +685,6 @@
    }
   },
   {
-   "n": "Acondicionador Pantene Restauración 700 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/870877/7500435115124_02.jpg?v=639138466790770000",
-   "cadena": "Carrefour",
-   "precio": 9841.73,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-restauracion-700-ml-778780/p",
-   "referencia": 16402.88,
-   "precio_2da": 16390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1598,
-   "pr": {
-    "Carrefour": [
-     9841.73,
-     "https://www.carrefour.com.ar/acondicionador-pantene-restauracion-700-ml-778780/p"
-    ],
-    "Vea": [
-     16390.0,
-     "https://www.vea.com.ar/acondicionadorpantene-restauracion-700ml/p"
-    ],
-    "Jumbo": [
-     18450.0,
-     "https://www.jumbo.com.ar/acondicionadorpantene-restauracion-700ml/p"
-    ],
-    "ChangoMás": [
-     18339.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-restauracion-700ml/p"
-    ]
-   }
-  },
-  {
    "n": "Galletitas crackers Traviata Rex x3 288 grs",
    "m": "Traviata",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/581400/7790040143920_01.jpg?v=638640139377370000",
@@ -917,33 +716,6 @@
    }
   },
   {
-   "n": "Svelty Extra Calcio 370 grs",
-   "m": "Svelty",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854263/8445291020047_01.jpg?v=639122869165300000",
-   "cadena": "Carrefour",
-   "precio": 3959.4,
-   "link": "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p",
-   "referencia": 6599.0,
-   "precio_2da": 6559.29,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1585,
-   "pr": {
-    "Carrefour": [
-     3959.4,
-     "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p"
-    ],
-    "Vea": [
-     6590.0,
-     "https://www.vea.com.ar/leche-polvo-extra-calcio-370-grs-svelty/p"
-    ],
-    "Comodín": [
-     6559.29,
-     "https://www.comodinencasa.com.ar/leche-svelty-extra-calcio-400gr/p"
-    ]
-   }
-  },
-  {
    "n": "Oblea de arroz Gallo Snacks 20 g.",
    "m": "Gallo Snacks",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914120/7790070411952_01.jpg?v=639222256626270000",
@@ -967,6 +739,33 @@
     "Jumbo": [
      840.0,
      "https://www.jumbo.com.ar/snacks-de-arroz-limon-20-gr-oblea-gallo/p"
+    ]
+   }
+  },
+  {
+   "n": "Always xtra diarios respirable protectores diarios 15 uni",
+   "m": "Always",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/524194/7500435233019_02.jpg?v=638515473245900000",
+   "cadena": "Vea",
+   "precio": 2034.0,
+   "link": "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p",
+   "referencia": 3390.0,
+   "precio_2da": 3359.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.4,
+   "score": 1578,
+   "pr": {
+    "Carrefour": [
+     3359.0,
+     "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p"
+    ],
+    "Vea": [
+     2034.0,
+     "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
+    ],
+    "Jumbo": [
+     3450.0,
+     "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
     ]
    }
   },
@@ -1029,29 +828,29 @@
    }
   },
   {
-   "n": "Always xtra diarios respirable protectores diarios 15 uni",
-   "m": "Always",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/524194/7500435233019_02.jpg?v=638515473245900000",
+   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
    "cadena": "Vea",
-   "precio": 2034.0,
-   "link": "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p",
-   "referencia": 3390.0,
-   "precio_2da": 3299.0,
+   "precio": 5514.0,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
+   "referencia": 9190.0,
+   "precio_2da": 8949.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.3,
-   "score": 1534,
+   "brecha_pct": 38.4,
+   "score": 1535,
    "pr": {
-    "Carrefour": [
-     3299.0,
-     "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p"
-    ],
     "Vea": [
-     2034.0,
-     "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
+     5514.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
     ],
     "Jumbo": [
-     3450.0,
-     "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
+     9400.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "ChangoMás": [
+     8949.0,
+     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
     ]
    }
   },
@@ -1083,37 +882,6 @@
     "ChangoMás": [
      5739.0,
      "https://www.masonline.com.ar/edulcorante-liquido-chuker-400ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Pantene keratina 250 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862647/7500435241106_02.jpg?v=639131541605430000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-keratina-250-ml-760663/p",
-   "referencia": 9690.0,
-   "precio_2da": 9390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1523,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-keratina-250-ml-760663/p"
-    ],
-    "Vea": [
-     9390.0,
-     "https://www.vea.com.ar/acondicionador-keratina-x-250-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     11450.0,
-     "https://www.jumbo.com.ar/acondicionador-keratina-x-250-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-keratina-con-pro-vitamina-b5-400ml-2/p"
     ]
    }
   },
@@ -1207,37 +975,6 @@
    }
   },
   {
-   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
-   "cadena": "Vea",
-   "precio": 5514.0,
-   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
-   "referencia": 9190.0,
-   "precio_2da": 8899.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1522,
-   "pr": {
-    "Vea": [
-     5514.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Jumbo": [
-     9400.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Carrefour": [
-     8899.0,
-     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
-    ],
-    "ChangoMás": [
-     8949.0,
-     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
-    ]
-   }
-  },
-  {
    "n": "Sopa crema Knorr zapallo con nuez moscada 70 g",
    "m": "Knorr",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/246154/7794000005884_01.jpg?v=637901365389600000",
@@ -1323,33 +1060,6 @@
     "Jumbo": [
      2430.0,
      "https://www.jumbo.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Liso Infinito 700 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865050/Shampoo-Pantene-Provmir-Liso-Infin-700ml-Shampoo-Provmir-Liso-Infinito-X-700-Ml-Pantene-1-1036885.jpg?v=638809545779200000",
-   "cadena": "Carrefour",
-   "precio": 10241.4,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-liso-infinito-700-ml-758039/p",
-   "referencia": 17069.0,
-   "precio_2da": 16390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1501,
-   "pr": {
-    "Vea": [
-     16390.0,
-     "https://www.vea.com.ar/shampoo-provmir-liso-infinito-x-700-ml-pantene/p"
-    ],
-    "Jumbo": [
-     19050.0,
-     "https://www.jumbo.com.ar/shampoo-provmir-liso-infinito-x-700-ml-pantene/p"
-    ],
-    "Carrefour": [
-     10241.4,
-     "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-liso-infinito-700-ml-758039/p"
     ]
    }
   }
