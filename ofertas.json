@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-15",
- "actualizado": "2026-08-15 14:00",
+ "actualizado": "2026-08-15 16:38",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -139,10 +139,10 @@
    "precio": 145.0,
    "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p",
    "referencia": 290.0,
-   "precio_2da": 290.0,
+   "precio_2da": 289.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "brecha_pct": 49.8,
+   "score": 2491,
    "pr": {
     "Vea": [
      290.0,
@@ -151,6 +151,10 @@
     "Jumbo": [
      145.0,
      "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
+    ],
+    "ChangoMás": [
+     289.0,
+     "https://www.masonline.com.ar/verao-jugo-en-polvo-naranja-7g-2/p"
     ],
     "Carrefour": [
      290.0,
@@ -414,37 +418,6 @@
    }
   },
   {
-   "n": "Galletitas crackers Kesitas Rex 75 g.",
-   "m": "Rex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318896/7790040003606_E01.jpg?v=638181154821170000",
-   "cadena": "Jumbo",
-   "precio": 950.0,
-   "link": "https://www.jumbo.com.ar/galletitas-kesitas-75-gr/p",
-   "referencia": 1900.0,
-   "precio_2da": 1544.39,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.5,
-   "score": 1924,
-   "pr": {
-    "Carrefour": [
-     1550.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-kesitas-rex-75-g/p"
-    ],
-    "Vea": [
-     1550.0,
-     "https://www.vea.com.ar/galletitas-kesitas-75-gr/p"
-    ],
-    "Jumbo": [
-     950.0,
-     "https://www.jumbo.com.ar/galletitas-kesitas-75-gr/p"
-    ],
-    "Comodín": [
-     1544.39,
-     "https://www.comodinencasa.com.ar/galleta-rex-kesitas-x-75-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Galletitas crackers Rex original 75 g.",
    "m": "Rex",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905398/7790040003569_E02.jpg?v=639201721998570000",
@@ -507,6 +480,37 @@
    }
   },
   {
+   "n": "Galletitas de Agua Sabor Original 324 Grs Familiar Traviata",
+   "m": "TRAVIATA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/823210/Galletitas-Traviata-324g-1-1013642.jpg?v=638508251707800000",
+   "cadena": "Jumbo",
+   "precio": 1159.0,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p",
+   "referencia": 2400.0,
+   "precio_2da": 1717.5,
+   "baja_pct": 51.7,
+   "brecha_pct": 32.5,
+   "score": 1681,
+   "pr": {
+    "Vea": [
+     1717.5,
+     "https://www.vea.com.ar/galletitas-traviata-324-gr-2/p"
+    ],
+    "Jumbo": [
+     1159.0,
+     "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p"
+    ],
+    "ChangoMás": [
+     2419.0,
+     "https://www.masonline.com.ar/galletitas-traviata-clasicas-324-g-2/p"
+    ],
+    "Carrefour": [
+     2215.0,
+     "https://www.carrefour.com.ar/galletitas-sandwich-traviata-x3-324-grs-739531/p"
+    ]
+   }
+  },
+  {
    "n": "Galletitas surtidas Terrabusi Variedad 390 grs",
    "m": "Terrabusi",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860611/7622202839962_E02.jpg?v=639129000020770000",
@@ -561,6 +565,37 @@
    }
   },
   {
+   "n": "Shampoo Anticaída Biotinamina B3 300 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857337/Shampoo-Pantene-Ant-Caida-300ml-1-1034631.jpg?v=638757705686870000",
+   "cadena": "Carrefour",
+   "precio": 5814.0,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
+   "referencia": 9690.0,
+   "precio_2da": 9690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     9690.0,
+     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "Jumbo": [
+     11900.0,
+     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     11149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
+    ],
+    "Carrefour": [
+     5814.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
+    ]
+   }
+  },
+  {
    "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
    "m": "ALWAYS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
@@ -588,37 +623,6 @@
     "ChangoMás": [
      5919.0,
      "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas crackers Traviata Rex x3 288 grs",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/581400/7790040143920_01.jpg?v=638640139377370000",
-   "cadena": "Jumbo",
-   "precio": 1425.0,
-   "link": "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p",
-   "referencia": 2850.0,
-   "precio_2da": 2092.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.9,
-   "score": 1595,
-   "pr": {
-    "Carrefour": [
-     2690.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-rex-x3-288-grs-749666/p"
-    ],
-    "Vea": [
-     2092.5,
-     "https://www.vea.com.ar/galletitas-traviata-saladas-rex-288g/p"
-    ],
-    "Jumbo": [
-     1425.0,
-     "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p"
-    ],
-    "ChangoMás": [
-     3019.0,
-     "https://www.masonline.com.ar/galletitas-traviata-rex-288-g/p"
     ]
    }
   },
