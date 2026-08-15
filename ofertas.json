@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-15",
- "actualizado": "2026-08-15 08:06",
+ "actualizado": "2026-08-15 14:00",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-14",
   "2026-08-15"
  ],
- "total": 36,
+ "total": 35,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -213,33 +213,6 @@
    }
   },
   {
-   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
-   "m": "Colon",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
-   "cadena": "ChangoMás",
-   "precio": 3174.5,
-   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
-   "referencia": 6349.0,
-   "precio_2da": 5909.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.3,
-   "score": 2314,
-   "pr": {
-    "Comodín": [
-     6274.39,
-     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
-    ],
-    "Carrefour": [
-     5909.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
-    ],
-    "ChangoMás": [
-     3174.5,
-     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
-    ]
-   }
-  },
-  {
    "n": "Agua saborizada limoneto H2OH con gas 2,25 lts",
    "m": "H2oh!",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308966/7791813423911_E01.jpg?v=638146793786800000",
@@ -267,6 +240,33 @@
     "ChangoMás": [
      3449.0,
      "https://www.masonline.com.ar/agua-saborizada-limoneto-h2o-2-25lt-8-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Rex original 125 g.",
+   "m": "Rex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318909/7790040719804_E01.jpg?v=638920143656270000",
+   "cadena": "Jumbo",
+   "precio": 1275.0,
+   "link": "https://www.jumbo.com.ar/galletitas-rex-original-125-gr-2/p",
+   "referencia": 2550.0,
+   "precio_2da": 2290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.3,
+   "score": 2216,
+   "pr": {
+    "Carrefour": [
+     2290.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-rex-original-125-g/p"
+    ],
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/galletitas-rex-original-125-gr-2/p"
+    ],
+    "Jumbo": [
+     1275.0,
+     "https://www.jumbo.com.ar/galletitas-rex-original-125-gr-2/p"
     ]
    }
   },
@@ -476,37 +476,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de naranja 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1795,
-   "pr": {
-    "Carrefour": [
-     409.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
-    ],
-    "Vea": [
-     390.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-15-g/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
@@ -588,68 +557,6 @@
     "Carrefour": [
      2650.0,
      "https://www.carrefour.com.ar/saborizador-alicante-bolsa-horno-finas-hierbas-21-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Colágeno Nutre y Revitaliza 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/863196/Shampoo-Pantene-Colageno-510ml-Shampoo-Colageno-X-510-Ml-Pantene-1-1036420.jpg?v=638798205905670000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     18500.0,
-     "https://www.jumbo.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p"
-    ],
-    "ChangoMás": [
-     18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-700ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Anticaída Biotinamina B3 300 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857337/Shampoo-Pantene-Ant-Caida-300ml-1-1034631.jpg?v=638757705686870000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p",
-   "referencia": 9690.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/shampoo-anti-caida-300-ml-pantene/p"
-    ],
-    "Jumbo": [
-     11900.0,
-     "https://www.jumbo.com.ar/shampoo-anti-caida-300-ml-pantene/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-300ml/p"
-    ],
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-anticaida-300-ml-758033/p"
     ]
    }
   },
@@ -797,6 +704,41 @@
    }
   },
   {
+   "n": "Galletitas crackers Traviata + Kesitas 96 g",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547685/7790040143944_E02.jpg?v=638592523063900000",
+   "cadena": "Jumbo",
+   "precio": 500.0,
+   "link": "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p",
+   "referencia": 1000.0,
+   "precio_2da": 727.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.3,
+   "score": 1564,
+   "pr": {
+    "Carrefour": [
+     970.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
+    ],
+    "Vea": [
+     727.5,
+     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+    ],
+    "Comodín": [
+     1000.99,
+     "https://www.comodinencasa.com.ar/galleta-traviata-crack-kesitas-96gr/p"
+    ],
+    "ChangoMás": [
+     1109.0,
+     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Sopa crema Knorr de vegetales 60 g",
    "m": "Knorr",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/248466/7794000005877_01.jpg?v=639191352867400000",
@@ -824,33 +766,6 @@
     "ChangoMás": [
      2849.0,
      "https://www.masonline.com.ar/sopa-crema-knorr-verduras-60-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
-   "cadena": "Vea",
-   "precio": 5514.0,
-   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
-   "referencia": 9190.0,
-   "precio_2da": 8949.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1535,
-   "pr": {
-    "Vea": [
-     5514.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Jumbo": [
-     9400.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "ChangoMás": [
-     8949.0,
-     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
     ]
    }
   },
@@ -975,6 +890,37 @@
    }
   },
   {
+   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
+   "cadena": "Vea",
+   "precio": 5514.0,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
+   "referencia": 9190.0,
+   "precio_2da": 8899.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1522,
+   "pr": {
+    "Vea": [
+     5514.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Jumbo": [
+     9400.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Carrefour": [
+     8899.0,
+     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
+    ],
+    "ChangoMás": [
+     8949.0,
+     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
+    ]
+   }
+  },
+  {
    "n": "Sopa crema Knorr zapallo con nuez moscada 70 g",
    "m": "Knorr",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/246154/7794000005884_01.jpg?v=637901365389600000",
@@ -1060,6 +1006,33 @@
     "Jumbo": [
      2430.0,
      "https://www.jumbo.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Infinito 700 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865050/Shampoo-Pantene-Provmir-Liso-Infin-700ml-Shampoo-Provmir-Liso-Infinito-X-700-Ml-Pantene-1-1036885.jpg?v=638809545779200000",
+   "cadena": "Carrefour",
+   "precio": 10241.4,
+   "link": "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-liso-infinito-700-ml-758039/p",
+   "referencia": 17069.0,
+   "precio_2da": 16390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1501,
+   "pr": {
+    "Vea": [
+     16390.0,
+     "https://www.vea.com.ar/shampoo-provmir-liso-infinito-x-700-ml-pantene/p"
+    ],
+    "Jumbo": [
+     19050.0,
+     "https://www.jumbo.com.ar/shampoo-provmir-liso-infinito-x-700-ml-pantene/p"
+    ],
+    "Carrefour": [
+     10241.4,
+     "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-liso-infinito-700-ml-758039/p"
     ]
    }
   }
