@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-16",
- "actualizado": "2026-08-16 08:07",
+ "actualizado": "2026-08-16 11:04",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-15",
   "2026-08-16"
  ],
- "total": 28,
+ "total": 29,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -159,33 +159,6 @@
    }
   },
   {
-   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
-   "m": "Colon",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
-   "cadena": "ChangoMás",
-   "precio": 3174.5,
-   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
-   "referencia": 6349.0,
-   "precio_2da": 5909.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.3,
-   "score": 2314,
-   "pr": {
-    "Comodín": [
-     6274.39,
-     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
-    ],
-    "ChangoMás": [
-     3174.5,
-     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
-    ],
-    "Carrefour": [
-     5909.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
-    ]
-   }
-  },
-  {
    "n": "Agua saborizada limoneto H2OH con gas 2,25 lts",
    "m": "H2oh!",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308966/7791813423911_E01.jpg?v=638146793786800000",
@@ -240,6 +213,37 @@
     "Jumbo": [
      1275.0,
      "https://www.jumbo.com.ar/galletitas-rex-original-125-gr-2/p"
+    ],
+    "Comodín": [
+     2543.29,
+     "https://www.comodinencasa.com.ar/galleta-rex-estuche-x-125-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Cereales Formis Frutal X245g",
+   "m": "FORMIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814135/Cereales-Formis-Frutal-X245g-1-1001745.jpg?v=638451635097400000",
+   "cadena": "Jumbo",
+   "precio": 1875.0,
+   "link": "https://www.jumbo.com.ar/cereales-formis-frutal-x245g/p",
+   "referencia": 3750.0,
+   "precio_2da": 3190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.2,
+   "score": 2061,
+   "pr": {
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/cereales-formis-frutal-x245g/p"
+    ],
+    "Jumbo": [
+     1875.0,
+     "https://www.jumbo.com.ar/cereales-formis-frutal-x245g/p"
+    ],
+    "Comodín": [
+     3713.1,
+     "https://www.comodinencasa.com.ar/cereal-formis-frutal-245-gr/p"
     ]
    }
   },
@@ -267,6 +271,68 @@
     "Carrefour": [
      9290.0,
      "https://www.carrefour.com.ar/edulcorante-en-sobres-hileret-con-sacarina-200-uni-681725/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Kesitas Rex 75 g.",
+   "m": "Rex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318896/7790040003606_E01.jpg?v=638181154821170000",
+   "cadena": "Jumbo",
+   "precio": 950.0,
+   "link": "https://www.jumbo.com.ar/galletitas-kesitas-75-gr/p",
+   "referencia": 1900.0,
+   "precio_2da": 1544.39,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.5,
+   "score": 1924,
+   "pr": {
+    "Carrefour": [
+     1550.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-kesitas-rex-75-g/p"
+    ],
+    "Vea": [
+     1550.0,
+     "https://www.vea.com.ar/galletitas-kesitas-75-gr/p"
+    ],
+    "Jumbo": [
+     950.0,
+     "https://www.jumbo.com.ar/galletitas-kesitas-75-gr/p"
+    ],
+    "Comodín": [
+     1544.39,
+     "https://www.comodinencasa.com.ar/galleta-rex-kesitas-x-75-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Men+Care Control Fortificante Anti-Caspa 400 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919600/13710105001.jpg?v=639179932274500000",
+   "cadena": "Carrefour",
+   "precio": 5154.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-proteccion-anticaspa-400-ml-743875/p",
+   "referencia": 8590.0,
+   "precio_2da": 9546.19,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.0,
+   "score": 1840,
+   "pr": {
+    "Jumbo": [
+     10600.0,
+     "https://www.jumbo.com.ar/shampoo-dove-control-fortificante-400-ml-2/p"
+    ],
+    "Comodín": [
+     9546.19,
+     "https://www.comodinencasa.com.ar/shampoo-dove-caspa-control-men-400ml/p"
+    ],
+    "Carrefour": [
+     5154.0,
+     "https://www.carrefour.com.ar/shampoo-dove-proteccion-anticaspa-400-ml-743875/p"
+    ],
+    "ChangoMás": [
+     10569.0,
+     "https://www.masonline.com.ar/shampoo-dove-men-caspa-control-400ml/p"
     ]
    }
   },
@@ -561,41 +627,6 @@
    }
   },
   {
-   "n": "Galletitas crackers Traviata + Kesitas 96 g",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547685/7790040143944_E02.jpg?v=638592523063900000",
-   "cadena": "Jumbo",
-   "precio": 500.0,
-   "link": "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p",
-   "referencia": 1000.0,
-   "precio_2da": 727.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.3,
-   "score": 1564,
-   "pr": {
-    "Carrefour": [
-     970.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
-    ],
-    "Vea": [
-     727.5,
-     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Jumbo": [
-     500.0,
-     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Comodín": [
-     1000.99,
-     "https://www.comodinencasa.com.ar/galleta-traviata-crack-kesitas-96gr/p"
-    ],
-    "ChangoMás": [
-     1109.0,
-     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
-    ]
-   }
-  },
-  {
    "n": "Sopa crema Knorr de vegetales 60 g",
    "m": "Knorr",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/248466/7794000005877_01.jpg?v=639191352867400000",
@@ -627,33 +658,29 @@
    }
   },
   {
-   "n": "Bizcochuelo Polvo para preparar Sabor Limón 540 Grs Exquisita",
-   "m": "EXQUISITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822257/Bizcochuelo-Exquisita-Limon-X540g-1-1001174.jpg?v=638508230464900000",
-   "cadena": "Jumbo",
-   "precio": 2310.0,
-   "link": "https://www.jumbo.com.ar/bizcochuelo-exquisita-limon-x540g/p",
-   "referencia": 3850.0,
-   "precio_2da": 3760.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1543,
+   "n": "Aperitivo cocktail con alcohol rose Emilia en botella 750 cc.",
+   "m": "Emilia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823259/7790070764027_02.jpg?v=639083181989670000",
+   "cadena": "ChangoMás",
+   "precio": 5499.5,
+   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p",
+   "referencia": 10998.5,
+   "precio_2da": 7933.37,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.7,
+   "score": 1534,
    "pr": {
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/bizcochuelo-exquisita-limon-x540g/p"
+    "Carrefour": [
+     11109.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746900/p"
     ],
     "Jumbo": [
-     2310.0,
-     "https://www.jumbo.com.ar/bizcochuelo-exquisita-limon-x540g/p"
-    ],
-    "Carrefour": [
-     3760.0,
-     "https://www.carrefour.com.ar/bizcochuelo-exquisita-de-limon-en-caja-540-g-733204/p"
+     7933.37,
+     "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p"
     ],
     "ChangoMás": [
-     3949.0,
-     "https://www.masonline.com.ar/bizcochuelo-exquisita-sabor-limon-540-g-2/p"
+     5499.5,
+     "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p"
     ]
    }
   },
