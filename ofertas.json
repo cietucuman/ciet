@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-16",
- "actualizado": "2026-08-16 11:04",
+ "actualizado": "2026-08-16 15:43",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-15",
   "2026-08-16"
  ],
- "total": 29,
+ "total": 30,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -159,6 +159,33 @@
    }
   },
   {
+   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
+   "m": "Colon",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
+   "cadena": "ChangoMás",
+   "precio": 3174.5,
+   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
+   "referencia": 6349.0,
+   "precio_2da": 5909.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.3,
+   "score": 2314,
+   "pr": {
+    "Comodín": [
+     6274.39,
+     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
+    ],
+    "Carrefour": [
+     5909.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
+    ],
+    "ChangoMás": [
+     3174.5,
+     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
+    ]
+   }
+  },
+  {
    "n": "Agua saborizada limoneto H2OH con gas 2,25 lts",
    "m": "H2oh!",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308966/7791813423911_E01.jpg?v=638146793786800000",
@@ -275,64 +302,29 @@
    }
   },
   {
-   "n": "Galletitas crackers Kesitas Rex 75 g.",
-   "m": "Rex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318896/7790040003606_E01.jpg?v=638181154821170000",
+   "n": "Galletitas de Agua Sabor Original 540 Grs x 5 Un Traviata",
+   "m": "TRAVIATA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/816919/Galletitas-Traviata-X540g-1-1008721.jpg?v=638470869201230000",
    "cadena": "Jumbo",
-   "precio": 950.0,
-   "link": "https://www.jumbo.com.ar/galletitas-kesitas-75-gr/p",
-   "referencia": 1900.0,
-   "precio_2da": 1544.39,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.5,
-   "score": 1924,
+   "precio": 1454.5,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p",
+   "referencia": 3600.0,
+   "precio_2da": 2181.75,
+   "baja_pct": 59.6,
+   "brecha_pct": 33.3,
+   "score": 1987,
    "pr": {
-    "Carrefour": [
-     1550.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-kesitas-rex-75-g/p"
-    ],
     "Vea": [
-     1550.0,
-     "https://www.vea.com.ar/galletitas-kesitas-75-gr/p"
+     2181.75,
+     "https://www.vea.com.ar/galletitas-traviata-x540g-2/p"
     ],
     "Jumbo": [
-     950.0,
-     "https://www.jumbo.com.ar/galletitas-kesitas-75-gr/p"
-    ],
-    "Comodín": [
-     1544.39,
-     "https://www.comodinencasa.com.ar/galleta-rex-kesitas-x-75-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Men+Care Control Fortificante Anti-Caspa 400 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919600/13710105001.jpg?v=639179932274500000",
-   "cadena": "Carrefour",
-   "precio": 5154.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-proteccion-anticaspa-400-ml-743875/p",
-   "referencia": 8590.0,
-   "precio_2da": 9546.19,
-   "baja_pct": 40.0,
-   "brecha_pct": 46.0,
-   "score": 1840,
-   "pr": {
-    "Jumbo": [
-     10600.0,
-     "https://www.jumbo.com.ar/shampoo-dove-control-fortificante-400-ml-2/p"
-    ],
-    "Comodín": [
-     9546.19,
-     "https://www.comodinencasa.com.ar/shampoo-dove-caspa-control-men-400ml/p"
-    ],
-    "Carrefour": [
-     5154.0,
-     "https://www.carrefour.com.ar/shampoo-dove-proteccion-anticaspa-400-ml-743875/p"
+     1454.5,
+     "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p"
     ],
     "ChangoMás": [
-     10569.0,
-     "https://www.masonline.com.ar/shampoo-dove-men-caspa-control-400ml/p"
+     3479.0,
+     "https://www.masonline.com.ar/galletitas-de-agua-traviata-540-g-pack-5u-2/p"
     ]
    }
   },
@@ -399,9 +391,40 @@
    }
   },
   {
-   "n": "Galletitas surtidas Terrabusi Variedad 390 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860611/7622202839962_E02.jpg?v=639129000020770000",
+   "n": "Milanesa de soja original Granja del Sol 4 uni",
+   "m": "Granja Del Sol",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913997/7790070102607_01.jpg?v=639222226351070000",
+   "cadena": "Jumbo",
+   "precio": 3060.0,
+   "link": "https://www.jumbo.com.ar/milanesa-de-soja-granja-del-sol-original-x-330/p",
+   "referencia": 5100.0,
+   "precio_2da": 5190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.0,
+   "score": 1642,
+   "pr": {
+    "Carrefour": [
+     5319.0,
+     "https://www.carrefour.com.ar/milanesa-de-soja-original-granja-del-sol-4-uni-775677/p"
+    ],
+    "Vea": [
+     5190.0,
+     "https://www.vea.com.ar/milanesa-de-soja-granja-del-sol-original-x-330/p"
+    ],
+    "Jumbo": [
+     3060.0,
+     "https://www.jumbo.com.ar/milanesa-de-soja-granja-del-sol-original-x-330/p"
+    ],
+    "ChangoMás": [
+     5319.0,
+     "https://www.masonline.com.ar/milanesas-de-soja-granja-del-sol-original-4-u-330-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Surtidas Regular 390 Grs Variedad",
+   "m": "VARIEDAD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922882/terrabusi.jpg?v=639213592194800000",
    "cadena": "Carrefour",
    "precio": 2159.0,
    "link": "https://www.carrefour.com.ar/galletitas-surtidas-terrabusi-variedad-390-grs-777681/p",
@@ -411,10 +434,6 @@
    "brecha_pct": 40.0,
    "score": 1602,
    "pr": {
-    "Carrefour": [
-     2159.0,
-     "https://www.carrefour.com.ar/galletitas-surtidas-terrabusi-variedad-390-grs-777681/p"
-    ],
     "Vea": [
      3600.0,
      "https://www.vea.com.ar/galletitas-surtidas-regular-390-grs-variedad/p"
@@ -422,33 +441,76 @@
     "Jumbo": [
      3600.0,
      "https://www.jumbo.com.ar/galletitas-surtidas-regular-390-grs-variedad/p"
+    ],
+    "ChangoMás": [
+     4049.0,
+     "https://www.masonline.com.ar/galletitas-variedad-surtidas-terrabusi-390g-2/p"
+    ],
+    "Carrefour": [
+     2159.0,
+     "https://www.carrefour.com.ar/galletitas-surtidas-terrabusi-variedad-390-grs-777681/p"
     ]
    }
   },
   {
-   "n": "Bolsa para Horno Sabor Finas Hierbas x 1 Un 21 Grs Alicante",
-   "m": "ALICANTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895630/Bolsa-Para-Horno-Finas-Hierbas-30-Grs-Alicante-1-876407.jpg?v=639041745773700000",
-   "cadena": "Jumbo",
-   "precio": 1590.0,
-   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-30-grs-alicante/p",
-   "referencia": 2650.0,
-   "precio_2da": 2650.0,
+   "n": "Shampoo Colágeno Nutre y Revitaliza 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/863196/Shampoo-Pantene-Colageno-510ml-Shampoo-Colageno-X-510-Ml-Pantene-1-1036420.jpg?v=638798205905670000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Vea": [
-     2650.0,
-     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-30-grs-alicante/p"
+     15290.0,
+     "https://www.vea.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
     ],
     "Jumbo": [
-     1590.0,
-     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-30-grs-alicante/p"
+     18500.0,
+     "https://www.jumbo.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
     ],
     "Carrefour": [
-     2650.0,
-     "https://www.carrefour.com.ar/saborizador-alicante-bolsa-horno-finas-hierbas-21-g/p"
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-700ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15290.0,
+     "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     17250.0,
+     "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
     ]
    }
   },
@@ -511,37 +573,6 @@
     "ChangoMás": [
      5919.0,
      "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas crackers Traviata Rex x3 288 grs",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/581400/7790040143920_01.jpg?v=638640139377370000",
-   "cadena": "Jumbo",
-   "precio": 1425.0,
-   "link": "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p",
-   "referencia": 2850.0,
-   "precio_2da": 2092.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.9,
-   "score": 1595,
-   "pr": {
-    "Carrefour": [
-     2690.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-rex-x3-288-grs-749666/p"
-    ],
-    "Vea": [
-     2092.5,
-     "https://www.vea.com.ar/galletitas-traviata-saladas-rex-288g/p"
-    ],
-    "Jumbo": [
-     1425.0,
-     "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p"
-    ],
-    "ChangoMás": [
-     3019.0,
-     "https://www.masonline.com.ar/galletitas-traviata-rex-288-g/p"
     ]
    }
   },
@@ -627,6 +658,41 @@
    }
   },
   {
+   "n": "Galletitas crackers Traviata + Kesitas 96 g",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547685/7790040143944_E02.jpg?v=638592523063900000",
+   "cadena": "Jumbo",
+   "precio": 500.0,
+   "link": "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p",
+   "referencia": 1000.0,
+   "precio_2da": 727.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.3,
+   "score": 1564,
+   "pr": {
+    "Carrefour": [
+     970.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
+    ],
+    "Vea": [
+     727.5,
+     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+    ],
+    "Comodín": [
+     1000.99,
+     "https://www.comodinencasa.com.ar/galleta-traviata-crack-kesitas-96gr/p"
+    ],
+    "ChangoMás": [
+     1109.0,
+     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Sopa crema Knorr de vegetales 60 g",
    "m": "Knorr",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/248466/7794000005877_01.jpg?v=639191352867400000",
@@ -654,33 +720,6 @@
     "ChangoMás": [
      2849.0,
      "https://www.masonline.com.ar/sopa-crema-knorr-verduras-60-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aperitivo cocktail con alcohol rose Emilia en botella 750 cc.",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823259/7790070764027_02.jpg?v=639083181989670000",
-   "cadena": "ChangoMás",
-   "precio": 5499.5,
-   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p",
-   "referencia": 10998.5,
-   "precio_2da": 7933.37,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.7,
-   "score": 1534,
-   "pr": {
-    "Carrefour": [
-     11109.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746900/p"
-    ],
-    "Jumbo": [
-     7933.37,
-     "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     5499.5,
-     "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p"
     ]
    }
   },
@@ -770,10 +809,6 @@
     "Carrefour": [
      8899.0,
      "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
-    ],
-    "ChangoMás": [
-     8949.0,
-     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
     ]
    }
   },
