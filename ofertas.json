@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-15",
- "actualizado": "2026-08-15 16:38",
+ "fecha": "2026-08-16",
+ "actualizado": "2026-08-16 08:07",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-05",
   "2026-08-06",
   "2026-08-07",
   "2026-08-08",
@@ -19,9 +18,10 @@
   "2026-08-12",
   "2026-08-13",
   "2026-08-14",
-  "2026-08-15"
+  "2026-08-15",
+  "2026-08-16"
  ],
- "total": 35,
+ "total": 28,
  "ofertas": [
   {
    "n": "Agua Sabor Sabor Pomelo Rosado 375 Ml x 6 Un Aquarius",
@@ -105,64 +105,6 @@
    }
   },
   {
-   "n": "Chocolate Choco Trio Maní 90 Grs Nestlé®",
-   "m": "NESTLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918773/7891000437209.jpg?v=639172983278800000",
-   "cadena": "Vea",
-   "precio": 2795.0,
-   "link": "https://www.vea.com.ar/chocolate-choco-trio-mani-90-grs-nestle-2/p",
-   "referencia": 5590.0,
-   "precio_2da": 5590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Vea": [
-     2795.0,
-     "https://www.vea.com.ar/chocolate-choco-trio-mani-90-grs-nestle-2/p"
-    ],
-    "ChangoMás": [
-     6399.0,
-     "https://www.masonline.com.ar/chocolate-nestle-trio-90-g-2/p"
-    ],
-    "Carrefour": [
-     5590.0,
-     "https://www.carrefour.com.ar/nestle-chocotrio-chocolate-90-grs-775662/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo En Polvo Verao Naranja 7gr",
-   "m": "VERAO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775668/Jugo-En-Polvo-Verao-Naranja-7gr-1-941067.jpg?v=638163166846800000",
-   "cadena": "Jumbo",
-   "precio": 145.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p",
-   "referencia": 290.0,
-   "precio_2da": 289.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.8,
-   "score": 2491,
-   "pr": {
-    "Vea": [
-     290.0,
-     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
-    ],
-    "Jumbo": [
-     145.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
-    ],
-    "ChangoMás": [
-     289.0,
-     "https://www.masonline.com.ar/verao-jugo-en-polvo-naranja-7g-2/p"
-    ],
-    "Carrefour": [
-     290.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-verao-naranja-7-g-rinde-1-l-711446/p"
-    ]
-   }
-  },
-  {
    "n": "Barras de Cereal Sabor Avellanas y Arándanos 30 Grs Flow",
    "m": "FLOW",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/917706/7790380020271.jpg?v=639162686570070000",
@@ -213,6 +155,33 @@
     "ChangoMás": [
      2209.0,
      "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Colon Selecto Cabernet Sauvignon 750cc",
+   "m": "Colon",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/170330/Vino-Colon-Selecto-Cabernet-Sauvignon-750cc.jpg?v=637914966832900000",
+   "cadena": "ChangoMás",
+   "precio": 3174.5,
+   "link": "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p",
+   "referencia": 6349.0,
+   "precio_2da": 5909.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.3,
+   "score": 2314,
+   "pr": {
+    "Comodín": [
+     6274.39,
+     "https://www.comodinencasa.com.ar/vino-colon-selecto-cabernet-sauvignon-750cc/p"
+    ],
+    "ChangoMás": [
+     3174.5,
+     "https://www.masonline.com.ar/vino-selecto-cabernet-sauvignon-colon-750-cc-2/p"
+    ],
+    "Carrefour": [
+     5909.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-colon-selecto-750-cc/p"
     ]
    }
   },
@@ -302,122 +271,6 @@
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Manzana 7 Grs Bc",
-   "m": "BC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665691/Jugo-En-Polvo-Bc-Manzana-Roja-7gr-1-878198.jpg?v=637670794015230000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
-   "referencia": 500.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.9,
-   "score": 1944,
-   "pr": {
-    "Vea": [
-     440.0,
-     "https://www.vea.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-manzana-roja-bc-7-gr-2/p"
-    ],
-    "Carrefour": [
-     409.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja 7 Grs Bc",
-   "m": "BC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665707/Jugo-En-Polvo-Bc-Naranja7gr-1-878219.jpg?v=637670794122730000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p",
-   "referencia": 500.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.9,
-   "score": 1944,
-   "pr": {
-    "Vea": [
-     440.0,
-     "https://www.vea.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-naranja-bc-7-gr-2/p"
-    ],
-    "Carrefour": [
-     409.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-7-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Ananá 7 Grs Bc",
-   "m": "BC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665694/Jugo-En-Polvo-Bc-Anana-7gr-1-878201.jpg?v=637670794022630000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p",
-   "referencia": 500.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.9,
-   "score": 1944,
-   "pr": {
-    "Vea": [
-     440.0,
-     "https://www.vea.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-anana-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja Dulce 7 Grs Bc",
-   "m": "BC",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665701/Jugo-En-Polvo-Bc-Naranja-Dulce-7gr-1-878213.jpg?v=637670794044370000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
-   "referencia": 500.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.9,
-   "score": 1944,
-   "pr": {
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
-    ],
-    "Carrefour": [
-     409.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
-    ]
-   }
-  },
-  {
    "n": "Galletitas crackers Rex original 75 g.",
    "m": "Rex",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905398/7790040003569_E02.jpg?v=639201721998570000",
@@ -445,37 +298,6 @@
     "Comodín": [
      1544.39,
      "https://www.comodinencasa.com.ar/galleta-rex-x-75-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1795,
-   "pr": {
-    "Vea": [
-     390.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
-    ],
-    "Carrefour": [
-     409.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
     ]
    }
   },
@@ -627,6 +449,37 @@
    }
   },
   {
+   "n": "Galletitas crackers Traviata Rex x3 288 grs",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/581400/7790040143920_01.jpg?v=638640139377370000",
+   "cadena": "Jumbo",
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p",
+   "referencia": 2850.0,
+   "precio_2da": 2092.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.9,
+   "score": 1595,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-traviata-rex-x3-288-grs-749666/p"
+    ],
+    "Vea": [
+     2092.5,
+     "https://www.vea.com.ar/galletitas-traviata-saladas-rex-288g/p"
+    ],
+    "Jumbo": [
+     1425.0,
+     "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p"
+    ],
+    "ChangoMás": [
+     3019.0,
+     "https://www.masonline.com.ar/galletitas-traviata-rex-288-g/p"
+    ]
+   }
+  },
+  {
    "n": "Oblea de arroz Gallo Snacks 20 g.",
    "m": "Gallo Snacks",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914120/7790070411952_01.jpg?v=639222256626270000",
@@ -774,6 +627,37 @@
    }
   },
   {
+   "n": "Bizcochuelo Polvo para preparar Sabor Limón 540 Grs Exquisita",
+   "m": "EXQUISITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822257/Bizcochuelo-Exquisita-Limon-X540g-1-1001174.jpg?v=638508230464900000",
+   "cadena": "Jumbo",
+   "precio": 2310.0,
+   "link": "https://www.jumbo.com.ar/bizcochuelo-exquisita-limon-x540g/p",
+   "referencia": 3850.0,
+   "precio_2da": 3760.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.6,
+   "score": 1543,
+   "pr": {
+    "Vea": [
+     3790.0,
+     "https://www.vea.com.ar/bizcochuelo-exquisita-limon-x540g/p"
+    ],
+    "Jumbo": [
+     2310.0,
+     "https://www.jumbo.com.ar/bizcochuelo-exquisita-limon-x540g/p"
+    ],
+    "Carrefour": [
+     3760.0,
+     "https://www.carrefour.com.ar/bizcochuelo-exquisita-de-limon-en-caja-540-g-733204/p"
+    ],
+    "ChangoMás": [
+     3949.0,
+     "https://www.masonline.com.ar/bizcochuelo-exquisita-sabor-limon-540-g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Edulcorante Líquido Clásico 400 Cc Chuker",
    "m": "CHUKER",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/788527/Edulcorante-Chuker-Clasico-Liquido-X400ml-1-972864.jpg?v=638253993791130000",
@@ -805,37 +689,6 @@
    }
   },
   {
-   "n": "Acondicionador Pantene Prov Miracles anticaida 250 ml",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628745/7500435247955_02.jpg?v=638762039900900000",
-   "cadena": "Carrefour",
-   "precio": 5814.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-prov-miracles-anticaida-250-ml-758031/p",
-   "referencia": 9690.0,
-   "precio_2da": 9390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1523,
-   "pr": {
-    "Carrefour": [
-     5814.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-prov-miracles-anticaida-250-ml-758031/p"
-    ],
-    "Vea": [
-     9390.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-250-ml-pantene/p"
-    ],
-    "Jumbo": [
-     11450.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-250-ml-pantene/p"
-    ],
-    "ChangoMás": [
-     11149.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-250ml/p"
-    ]
-   }
-  },
-  {
    "n": "Saborizador Sabor Finas Hierbas x 4 Un 30 Grs Alicante",
    "m": "ALICANTE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/682254/Saborizador-Alicante-Fin-Hie-4s-1-876401.jpg?v=637759677764170000",
@@ -863,33 +716,6 @@
     "Carrefour": [
      1550.0,
      "https://www.carrefour.com.ar/saborizador-finas-hierbas-alicante-sobre-x-4-uni/p"
-    ]
-   }
-  },
-  {
-   "n": "Saborizador sabor 4 Quesos x 4 Un 30 Grs Alicante",
-   "m": "ALICANTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/687322/Saborizador-Alicante-4q-4s-1-876394.jpg?v=637795857823200000",
-   "cadena": "Jumbo",
-   "precio": 960.0,
-   "link": "https://www.jumbo.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p",
-   "referencia": 1600.0,
-   "precio_2da": 1550.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1523,
-   "pr": {
-    "Vea": [
-     1550.0,
-     "https://www.vea.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p"
-    ],
-    "Jumbo": [
-     960.0,
-     "https://www.jumbo.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p"
-    ],
-    "ChangoMás": [
-     1649.0,
-     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-4-quesos-30-gr-2/p"
     ]
    }
   },
@@ -1010,33 +836,6 @@
     "Jumbo": [
      2430.0,
      "https://www.jumbo.com.ar/caldo-de-verdura-cero-sodio-en-cubos-12-un-knorr/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Liso Infinito 700 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865050/Shampoo-Pantene-Provmir-Liso-Infin-700ml-Shampoo-Provmir-Liso-Infinito-X-700-Ml-Pantene-1-1036885.jpg?v=638809545779200000",
-   "cadena": "Carrefour",
-   "precio": 10241.4,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-liso-infinito-700-ml-758039/p",
-   "referencia": 17069.0,
-   "precio_2da": 16390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1501,
-   "pr": {
-    "Vea": [
-     16390.0,
-     "https://www.vea.com.ar/shampoo-provmir-liso-infinito-x-700-ml-pantene/p"
-    ],
-    "Jumbo": [
-     19050.0,
-     "https://www.jumbo.com.ar/shampoo-provmir-liso-infinito-x-700-ml-pantene/p"
-    ],
-    "Carrefour": [
-     10241.4,
-     "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-liso-infinito-700-ml-758039/p"
     ]
    }
   }
