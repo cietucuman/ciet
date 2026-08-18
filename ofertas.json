@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-18",
- "actualizado": "2026-08-18 11:18",
+ "actualizado": "2026-08-18 14:26",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -136,12 +136,12 @@
    }
   },
   {
-   "n": "Shampoo Keratina Repara y Protege 510 Ml Pantene",
+   "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865047/Shampoo-Pantene-Keratina-510ml-Shampoo-Keratina-X-510-Ml-Pantene-1-1036881.jpg?v=638809545770700000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
    "cadena": "Carrefour",
    "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p",
+   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
@@ -150,19 +150,19 @@
    "pr": {
     "Vea": [
      15290.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+     "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
     ],
     "Jumbo": [
      17250.0,
-     "https://www.jumbo.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+     "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
     ],
     "ChangoMás": [
      18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-700-cc-2/p"
+     "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
     ],
     "Carrefour": [
      9174.0,
-     "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p"
+     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
     ]
    }
   },
