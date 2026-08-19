@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-19",
- "actualizado": "2026-08-19 10:32",
+ "actualizado": "2026-08-19 11:29",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-18",
   "2026-08-19"
  ],
- "total": 20,
+ "total": 22,
  "ofertas": [
   {
    "n": "Pimienta Negra Molida 23 Grs La Campagnola",
@@ -132,6 +132,33 @@
    }
   },
   {
+   "n": "Café Sabor Espresso Macchiato 63 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875629/Capsulas-Cortado-116g-Dolce-Gusto-1-1035746.jpg?v=638872404192530000",
+   "cadena": "Carrefour",
+   "precio": 8694.0,
+   "link": "https://www.carrefour.com.ar/capsulas-de-cafe-cortado-dolce-gusto-10-uni-759430/p",
+   "referencia": 14490.0,
+   "precio_2da": 17309.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 49.8,
+   "score": 1991,
+   "pr": {
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/capsulas-espresso-macchiato-10-un-nescafe-dolce-gusto-2/p"
+    ],
+    "ChangoMás": [
+     17309.0,
+     "https://www.masonline.com.ar/capsulas-de-cafe-nescafe-dolce-gusto-espresso-macchiato-10-u/p"
+    ],
+    "Carrefour": [
+     8694.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-cortado-dolce-gusto-10-uni-759430/p"
+    ]
+   }
+  },
+  {
    "n": "Yogur Sabor Vainilla Semidescremado 900 Grs La Serenisima",
    "m": "LA SERENISIMA",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/897458/Yogurt-Vainilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053814.jpg?v=639142839814700000",
@@ -155,6 +182,33 @@
     "Carrefour": [
      2885.35,
      "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-vainilla-la-serenisima-nutricion-activa-900-grs-772807/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Tío Nacho Herbolaria Milenaria V2 415 Ml",
+   "m": "SUAVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/916113/7798140256762-1.jpg?v=639155917420400000",
+   "cadena": "Comodín",
+   "precio": 5399.0,
+   "link": "https://www.comodinencasa.com.ar/shampoo-tio-nacho-herb-milenaria-415ml/p",
+   "referencia": 10328.29,
+   "precio_2da": 8990.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.9,
+   "score": 1906,
+   "pr": {
+    "Jumbo": [
+     11250.0,
+     "https://www.jumbo.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p"
+    ],
+    "Comodín": [
+     5399.0,
+     "https://www.comodinencasa.com.ar/shampoo-tio-nacho-herb-milenaria-415ml/p"
+    ],
+    "Carrefour": [
+     8990.0,
+     "https://www.carrefour.com.ar/shampoo-tio-nacho-herbolaria-milenaria-415-ml-707209/p"
     ]
    }
   },
@@ -399,33 +453,6 @@
    }
   },
   {
-   "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
-   "cadena": "Vea",
-   "precio": 9170.0,
-   "link": "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1602,
-   "pr": {
-    "Vea": [
-     9170.0,
-     "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     15290.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
-    ]
-   }
-  },
-  {
    "n": "Acondicionador Anti Caida X 510 Ml Pantene",
    "m": "PANTENE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
@@ -449,6 +476,37 @@
     "Carrefour": [
      15290.0,
      "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+    ]
+   }
+  },
+  {
+   "n": "Cápsulas Café Sabor Latte Macchiato Premium Brasil 112,5 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875627/Capsulas-Lattemacchiato-166g-Dolce-Gusto-1-1035744.jpg?v=638872404182670000",
+   "cadena": "Carrefour",
+   "precio": 8519.4,
+   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p",
+   "referencia": 14199.0,
+   "precio_2da": 14199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     14199.0,
+     "https://www.vea.com.ar/capsulas-latte-macchiato-5-un-nescafe-dolce-gusto/p"
+    ],
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/capsulas-latte-macchiato-5-un-nescafe-dolce-gusto/p"
+    ],
+    "ChangoMás": [
+     17309.0,
+     "https://www.masonline.com.ar/cafe-en-capsulas-nescafe-dolce-gusto-latte-macchiato-10-u/p"
+    ],
+    "Carrefour": [
+     8519.4,
+     "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p"
     ]
    }
   },
