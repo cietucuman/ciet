@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-18",
- "actualizado": "2026-08-18 14:26",
+ "fecha": "2026-08-19",
+ "actualizado": "2026-08-19 10:32",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-08",
   "2026-08-09",
   "2026-08-10",
   "2026-08-11",
@@ -19,9 +18,10 @@
   "2026-08-15",
   "2026-08-16",
   "2026-08-17",
-  "2026-08-18"
+  "2026-08-18",
+  "2026-08-19"
  ],
- "total": 6,
+ "total": 20,
  "ofertas": [
   {
    "n": "Pimienta Negra Molida 23 Grs La Campagnola",
@@ -47,6 +47,33 @@
     "ChangoMás": [
      929.0,
      "https://www.masonline.com.ar/pimienta-negra-molida-la-campagnola-23gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Salsa Golf 209 Grs 220 Ml Dánica",
+   "m": "DANICA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/785346/Salsa-Golf-Danica-X209g-1-971833.jpg?v=638223765636770000",
+   "cadena": "Vea",
+   "precio": 990.0,
+   "link": "https://www.vea.com.ar/salsa-golf-danica-209-gr/p",
+   "referencia": 1899.0,
+   "precio_2da": 1899.0,
+   "baja_pct": 47.9,
+   "brecha_pct": 47.9,
+   "score": 2291,
+   "pr": {
+    "Vea": [
+     990.0,
+     "https://www.vea.com.ar/salsa-golf-danica-209-gr/p"
+    ],
+    "Jumbo": [
+     1950.0,
+     "https://www.jumbo.com.ar/salsa-golf-danica-209-gr/p"
+    ],
+    "Carrefour": [
+     1899.0,
+     "https://www.carrefour.com.ar/salsa-golf-danica-220-g-721949/p"
     ]
    }
   },
@@ -105,33 +132,207 @@
    }
   },
   {
-   "n": "Galletitas crackers Traviata + Kesitas 96 g",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547685/7790040143944_E02.jpg?v=638592523063900000",
-   "cadena": "ChangoMás",
-   "precio": 589.0,
-   "link": "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p",
-   "referencia": 1109.0,
-   "precio_2da": 970.0,
-   "baja_pct": 46.9,
-   "brecha_pct": 39.3,
-   "score": 1842,
+   "n": "Yogur Sabor Vainilla Semidescremado 900 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/897458/Yogurt-Vainilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053814.jpg?v=639142839814700000",
+   "cadena": "Carrefour",
+   "precio": 2885.35,
+   "link": "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-vainilla-la-serenisima-nutricion-activa-900-grs-772807/p",
+   "referencia": 5259.0,
+   "precio_2da": 5100.0,
+   "baja_pct": 45.1,
+   "brecha_pct": 43.4,
+   "score": 1960,
    "pr": {
-    "Carrefour": [
-     970.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
-    ],
     "Vea": [
-     970.0,
-     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+     5100.0,
+     "https://www.vea.com.ar/yogur-entero-sabor-vainilla-sachet-900-grs-la-serenisima-2/p"
     ],
     "Jumbo": [
-     1000.0,
-     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+     5250.0,
+     "https://www.jumbo.com.ar/yogur-entero-sabor-vainilla-sachet-900-grs-la-serenisima-2/p"
+    ],
+    "Carrefour": [
+     2885.35,
+     "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-vainilla-la-serenisima-nutricion-activa-900-grs-772807/p"
+    ]
+   }
+  },
+  {
+   "n": "Protectores diarios Doncella anatómicos sin perfume 20 uni",
+   "m": "Doncella",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/310402/7790940233240_01.jpg?v=639150573283730000",
+   "cadena": "Comodín",
+   "precio": 659.0,
+   "link": "https://www.comodinencasa.com.ar/protector-doncella-s-deo-x-20-un/p",
+   "referencia": 1094.09,
+   "precio_2da": 1250.0,
+   "baja_pct": 39.8,
+   "brecha_pct": 47.3,
+   "score": 1880,
+   "pr": {
+    "Carrefour": [
+     1250.0,
+     "https://www.carrefour.com.ar/protectores-diarios-doncella-anatomicos-sin-perfume-20-uni-658642/p"
+    ],
+    "Jumbo": [
+     1350.0,
+     "https://www.jumbo.com.ar/protectores-diarios-doncella-sin-desodorante-20-u/p"
+    ],
+    "Comodín": [
+     659.0,
+     "https://www.comodinencasa.com.ar/protector-doncella-s-deo-x-20-un/p"
     ],
     "ChangoMás": [
-     589.0,
-     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
+     1449.0,
+     "https://www.masonline.com.ar/doncella-protector-diario-amatomico-x-20-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas baston Mc cain horneables en bolsa 700 g",
+   "m": "Mc Cain",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845820/7797906054864_01.jpg?v=639111877198030000",
+   "cadena": "ChangoMás",
+   "precio": 5639.0,
+   "link": "https://www.masonline.com.ar/papas-mc-cain-horneables-corte-tradicional-700-g-2/p",
+   "referencia": 9759.0,
+   "precio_2da": 9700.0,
+   "baja_pct": 42.2,
+   "brecha_pct": 41.9,
+   "score": 1767,
+   "pr": {
+    "Carrefour": [
+     9700.0,
+     "https://www.carrefour.com.ar/papas-baston-mc-cain-horneables-en-bolsa-700-g-724924/p"
+    ],
+    "Vea": [
+     9700.0,
+     "https://www.vea.com.ar/papas-horneables-corte-tradicional-700-gr-mc-cain/p"
+    ],
+    "Jumbo": [
+     10250.0,
+     "https://www.jumbo.com.ar/papas-horneables-corte-tradicional-700-gr-mc-cain/p"
+    ],
+    "ChangoMás": [
+     5639.0,
+     "https://www.masonline.com.ar/papas-mc-cain-horneables-corte-tradicional-700-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Polenta instantánea Presto Pronta en bolsa 490 g.",
+   "m": "Presto Pronta",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/892734/7790580138738_02.jpg?v=639173055056930000",
+   "cadena": "Vea",
+   "precio": 990.0,
+   "link": "https://www.vea.com.ar/polenta-presto-pronta-490gr/p",
+   "referencia": 1682.0,
+   "precio_2da": 1659.0,
+   "baja_pct": 41.1,
+   "brecha_pct": 40.3,
+   "score": 1659,
+   "pr": {
+    "Carrefour": [
+     1659.0,
+     "https://www.carrefour.com.ar/polenta-instantanea-presto-pronta-en-bolsa-490-g-736896/p"
+    ],
+    "Vea": [
+     990.0,
+     "https://www.vea.com.ar/polenta-presto-pronta-490gr/p"
+    ],
+    "Jumbo": [
+     1850.0,
+     "https://www.jumbo.com.ar/polenta-presto-pronta-490gr/p"
+    ],
+    "ChangoMás": [
+     1839.0,
+     "https://www.masonline.com.ar/polenta-instantanea-prestopronta-490-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante en barra Old Spice mar profundo 50 g.",
+   "m": "Old Spice",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/518265/7500435141840_01.jpg?v=638507891895470000",
+   "cadena": "Vea",
+   "precio": 5990.0,
+   "link": "https://www.vea.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p",
+   "referencia": 9190.0,
+   "precio_2da": 11419.0,
+   "baja_pct": 34.8,
+   "brecha_pct": 47.5,
+   "score": 1655,
+   "pr": {
+    "Carrefour": [
+     11419.0,
+     "https://www.carrefour.com.ar/desodorante-en-barra-old-spice-mar-profundo-50-g-658419/p"
+    ],
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p"
+    ],
+    "Jumbo": [
+     11950.0,
+     "https://www.jumbo.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Detox Capilar 500 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865498/Acondicionador-Detox-Capilar-X-500-Ml-Tresemm-1-1037026.jpg?v=638814514369200000",
+   "cadena": "Vea",
+   "precio": 6450.0,
+   "link": "https://www.vea.com.ar/acondicionador-detox-capilar-x-500-ml-tresemme-2/p",
+   "referencia": 11390.0,
+   "precio_2da": 10319.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 37.5,
+   "score": 1626,
+   "pr": {
+    "Vea": [
+     6450.0,
+     "https://www.vea.com.ar/acondicionador-detox-capilar-x-500-ml-tresemme-2/p"
+    ],
+    "Jumbo": [
+     11750.0,
+     "https://www.jumbo.com.ar/acondicionador-detox-capilar-x-500-ml-tresemme-2/p"
+    ],
+    "Carrefour": [
+     10319.0,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-detox-capilar-500-ml-760565/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Colágeno Nutre y Revitaliza 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/863196/Shampoo-Pantene-Colageno-510ml-Shampoo-Colageno-X-510-Ml-Pantene-1-1036420.jpg?v=638798205905670000",
+   "cadena": "Vea",
+   "precio": 9170.0,
+   "link": "https://www.vea.com.ar/shampoo-colageno-x-510-ml-pantene-2/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1602,
+   "pr": {
+    "Vea": [
+     9170.0,
+     "https://www.vea.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     18500.0,
+     "https://www.jumbo.com.ar/shampoo-colageno-x-510-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     15290.0,
+     "https://www.carrefour.com.ar/shampoo-nutritivo-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760657/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-colageno-nutre-revitaliza-700ml-2/p"
     ]
    }
   },
@@ -139,17 +340,17 @@
    "n": "Shampoo Anticaída y Nutrición Biotinamina B3 510 Ml Pantene",
    "m": "PANTENE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/857339/Shampoo-Pantene-Ant-Caida-510ml-1-1034634.jpg?v=638757705692600000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p",
+   "cadena": "Vea",
+   "precio": 9170.0,
+   "link": "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1600,
+   "score": 1602,
    "pr": {
     "Vea": [
-     15290.0,
+     9170.0,
      "https://www.vea.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
     ],
     "Jumbo": [
@@ -161,8 +362,39 @@
      "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
     ],
     "Carrefour": [
-     9174.0,
+     15290.0,
      "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Keratina Repara y Protege 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865047/Shampoo-Pantene-Keratina-510ml-Shampoo-Keratina-X-510-Ml-Pantene-1-1036881.jpg?v=638809545770700000",
+   "cadena": "Vea",
+   "precio": 9170.0,
+   "link": "https://www.vea.com.ar/shampoo-keratina-x-510-ml-pantene-2/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1602,
+   "pr": {
+    "Vea": [
+     9170.0,
+     "https://www.vea.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     17250.0,
+     "https://www.jumbo.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     18149.0,
+     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-700-cc-2/p"
+    ],
+    "Carrefour": [
+     15290.0,
+     "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p"
     ]
    }
   },
@@ -170,17 +402,17 @@
    "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
    "m": "PANTENE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p",
+   "cadena": "Vea",
+   "precio": 9170.0,
+   "link": "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1600,
+   "score": 1602,
    "pr": {
     "Vea": [
-     15290.0,
+     9170.0,
      "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
     ],
     "Jumbo": [
@@ -188,8 +420,170 @@
      "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
     ],
     "Carrefour": [
-     9174.0,
+     15290.0,
      "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
+   "cadena": "Vea",
+   "precio": 9170.0,
+   "link": "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1602,
+   "pr": {
+    "Vea": [
+     9170.0,
+     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     15290.0,
+     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas Mc Cain Golazo en bolsa 700 grs",
+   "m": "Mc Cain",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/872292/7797906055144_E01.jpg?v=639141927832600000",
+   "cadena": "Vea",
+   "precio": 7950.0,
+   "link": "https://www.vea.com.ar/croquetas-de-papa-golazo-x-700-grs-mc-cain/p",
+   "referencia": 13250.0,
+   "precio_2da": 13069.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.2,
+   "score": 1567,
+   "pr": {
+    "Carrefour": [
+     13069.0,
+     "https://www.carrefour.com.ar/papas-mc-cain-golazo-en-bolsa-700-grs-776800/p"
+    ],
+    "Vea": [
+     7950.0,
+     "https://www.vea.com.ar/croquetas-de-papa-golazo-x-700-grs-mc-cain/p"
+    ],
+    "Jumbo": [
+     13650.0,
+     "https://www.jumbo.com.ar/croquetas-de-papa-golazo-x-700-grs-mc-cain/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogurt Sabor Frutilla Semidescremado 900 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/897456/Yogurt-Frutilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053811.jpg?v=639142848113470000",
+   "cadena": "Carrefour",
+   "precio": 2885.35,
+   "link": "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-frutilla-la-serenisima-nutricion-activa-900-grs-772804/p",
+   "referencia": 4439.0,
+   "precio_2da": 5100.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.4,
+   "score": 1520,
+   "pr": {
+    "Vea": [
+     5100.0,
+     "https://www.vea.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p"
+    ],
+    "Jumbo": [
+     5250.0,
+     "https://www.jumbo.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p"
+    ],
+    "Carrefour": [
+     2885.35,
+     "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-frutilla-la-serenisima-nutricion-activa-900-grs-772804/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur Sabor Durazno Líquido 900 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/897457/Yogurt-Durazno-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053812.jpg?v=639142840310500000",
+   "cadena": "Carrefour",
+   "precio": 2885.35,
+   "link": "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-durazno-la-serenisima-nutricion-activa-900-grs-772808/p",
+   "referencia": 4439.0,
+   "precio_2da": 5100.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.4,
+   "score": 1520,
+   "pr": {
+    "Vea": [
+     5100.0,
+     "https://www.vea.com.ar/yogur-entero-sabor-durazno-sachet-900-grs-la-serenisima-2/p"
+    ],
+    "Jumbo": [
+     5250.0,
+     "https://www.jumbo.com.ar/yogur-entero-sabor-durazno-sachet-900-grs-la-serenisima-2/p"
+    ],
+    "Carrefour": [
+     2885.35,
+     "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-durazno-la-serenisima-nutricion-activa-900-grs-772808/p"
+    ]
+   }
+  },
+  {
+   "n": "Sopa Ramen Sabor Pollo 85 Grs Nissin",
+   "m": "NISSIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/898170/7891079012208.jpg?v=639064137727630000",
+   "cadena": "Jumbo",
+   "precio": 1560.0,
+   "link": "https://www.jumbo.com.ar/ramen-pollo-nissin-x85gr/p",
+   "referencia": 2600.0,
+   "precio_2da": 2499.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1503,
+   "pr": {
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/ramen-pollo-nissin-x85gr/p"
+    ],
+    "Jumbo": [
+     1560.0,
+     "https://www.jumbo.com.ar/ramen-pollo-nissin-x85gr/p"
+    ],
+    "Carrefour": [
+     2499.0,
+     "https://www.carrefour.com.ar/ramen-nissin-pollo-85-g-471045/p"
+    ]
+   }
+  },
+  {
+   "n": "Sopa Ramen Sabor Carne 85 Grs Nissin",
+   "m": "NISSIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/898172/7891079012215.jpg?v=639064137945100000",
+   "cadena": "Jumbo",
+   "precio": 1560.0,
+   "link": "https://www.jumbo.com.ar/ramen-sabor-carne-nissin-85-gr/p",
+   "referencia": 2600.0,
+   "precio_2da": 2499.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1503,
+   "pr": {
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/ramen-sabor-carne-nissin-85-gr/p"
+    ],
+    "Jumbo": [
+     1560.0,
+     "https://www.jumbo.com.ar/ramen-sabor-carne-nissin-85-gr/p"
+    ],
+    "Carrefour": [
+     2499.0,
+     "https://www.carrefour.com.ar/ramen-nissin-carne-85-g-471049/p"
     ]
    }
   }
