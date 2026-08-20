@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-20",
- "actualizado": "2026-08-20 10:32",
+ "actualizado": "2026-08-20 11:33",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -109,29 +109,33 @@
    }
   },
   {
-   "n": "Shampoo Cauterización Reparadora 500 Ml Tresemmé",
-   "m": "TRESEMMÉ",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865494/Shampoo-Cauterizaci-n-Reparadora-X-500-Ml-Tresemm-1-1037022.jpg?v=638814514358730000",
+   "n": "Shampoo Men+Care Control Fortificante Anti-Caspa 400 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919600/13710105001.jpg?v=639179932274500000",
    "cadena": "Carrefour",
-   "precio": 6191.4,
-   "link": "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p",
-   "referencia": 10319.0,
-   "precio_2da": 11200.0,
+   "precio": 5154.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-proteccion-anticaspa-400-ml-743875/p",
+   "referencia": 8590.0,
+   "precio_2da": 8887.89,
    "baja_pct": 40.0,
-   "brecha_pct": 44.7,
-   "score": 1789,
+   "brecha_pct": 42.0,
+   "score": 1680,
    "pr": {
     "Jumbo": [
-     11200.0,
-     "https://www.jumbo.com.ar/shampoo-cauterizacion-reparadora-x-500-ml-tresemme/p"
+     10600.0,
+     "https://www.jumbo.com.ar/shampoo-dove-control-fortificante-400-ml-2/p"
+    ],
+    "Comodín": [
+     8887.89,
+     "https://www.comodinencasa.com.ar/shampoo-dove-caspa-control-men-400ml/p"
     ],
     "ChangoMás": [
-     11239.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-cauterizacion-reparadora-500ml-2/p"
+     10569.0,
+     "https://www.masonline.com.ar/shampoo-dove-men-caspa-control-400ml/p"
     ],
     "Carrefour": [
-     6191.4,
-     "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p"
+     5154.0,
+     "https://www.carrefour.com.ar/shampoo-dove-proteccion-anticaspa-400-ml-743875/p"
     ]
    }
   },
@@ -163,6 +167,37 @@
     "ChangoMás": [
      1839.0,
      "https://www.masonline.com.ar/polenta-instantanea-prestopronta-490-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo 3 en 1 Active Fresh 400 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919608/13710524001.jpg?v=639179933154870000",
+   "cadena": "Carrefour",
+   "precio": 5154.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-3-en-1-sport-active-fresh-400-ml-697866/p",
+   "referencia": 8590.0,
+   "precio_2da": 8690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.7,
+   "score": 1628,
+   "pr": {
+    "Vea": [
+     8690.0,
+     "https://www.vea.com.ar/shampoo-para-hombre-dove-active-fresh-3-en-1-400-ml/p"
+    ],
+    "Jumbo": [
+     8741.0,
+     "https://www.jumbo.com.ar/shampoo-para-hombre-dove-active-fresh-3-en-1-400-ml/p"
+    ],
+    "Carrefour": [
+     5154.0,
+     "https://www.carrefour.com.ar/shampoo-dove-3-en-1-sport-active-fresh-400-ml-697866/p"
+    ],
+    "Comodín": [
+     8887.89,
+     "https://www.comodinencasa.com.ar/shampoo-dove-3en1-sport-act-fresh-400ml/p"
     ]
    }
   },
@@ -418,33 +453,6 @@
     "Jumbo": [
      4710.0,
      "https://www.jumbo.com.ar/alimento-purina-one-gato-salmon-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Yogurt Sabor Frutilla Semidescremado 900 Grs La Serenisima",
-   "m": "LA SERENISIMA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/897456/Yogurt-Frutilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053811.jpg?v=639142848113470000",
-   "cadena": "Carrefour",
-   "precio": 2885.35,
-   "link": "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-frutilla-la-serenisima-nutricion-activa-900-grs-772804/p",
-   "referencia": 4439.0,
-   "precio_2da": 5100.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.4,
-   "score": 1520,
-   "pr": {
-    "Vea": [
-     5100.0,
-     "https://www.vea.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p"
-    ],
-    "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/yogur-entero-sabor-frutilla-sachet-900-grs-la-serenisima/p"
-    ],
-    "Carrefour": [
-     2885.35,
-     "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-frutilla-la-serenisima-nutricion-activa-900-grs-772804/p"
     ]
    }
   },
