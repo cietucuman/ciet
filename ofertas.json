@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-19",
- "actualizado": "2026-08-19 14:31",
+ "fecha": "2026-08-20",
+ "actualizado": "2026-08-20 10:32",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-09",
   "2026-08-10",
   "2026-08-11",
   "2026-08-12",
@@ -19,37 +18,11 @@
   "2026-08-16",
   "2026-08-17",
   "2026-08-18",
-  "2026-08-19"
+  "2026-08-19",
+  "2026-08-20"
  ],
- "total": 23,
+ "total": 16,
  "ofertas": [
-  {
-   "n": "Pimienta Negra Molida 23 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/783490/Pimienta-Negra-La-Campagnola-Molida-X23g-1-958786.jpg?v=638212413783770000",
-   "cadena": "ChangoMás",
-   "precio": 929.0,
-   "link": "https://www.masonline.com.ar/pimienta-negra-molida-la-campagnola-23gr-2/p",
-   "referencia": 1929.0,
-   "precio_2da": 1690.0,
-   "baja_pct": 51.8,
-   "brecha_pct": 45.0,
-   "score": 2334,
-   "pr": {
-    "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/pimienta-negra-molida-la-campagnola-23-gr/p"
-    ],
-    "Jumbo": [
-     1850.0,
-     "https://www.jumbo.com.ar/pimienta-negra-molida-la-campagnola-23-gr/p"
-    ],
-    "ChangoMás": [
-     929.0,
-     "https://www.masonline.com.ar/pimienta-negra-molida-la-campagnola-23gr-2/p"
-    ]
-   }
-  },
   {
    "n": "Salsa Golf 209 Grs 220 Ml Dánica",
    "m": "DANICA",
@@ -74,87 +47,6 @@
     "Carrefour": [
      1899.0,
      "https://www.carrefour.com.ar/salsa-golf-danica-220-g-721949/p"
-    ]
-   }
-  },
-  {
-   "n": "Tomillo 15 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/553799/Tomillo-La-Campagnola-X15gr-1-833108.jpg?v=637081747231700000",
-   "cadena": "ChangoMás",
-   "precio": 549.0,
-   "link": "https://www.masonline.com.ar/tomillo-la-campagnola-15g-2/p",
-   "referencia": 1089.0,
-   "precio_2da": 1000.0,
-   "baja_pct": 49.6,
-   "brecha_pct": 45.1,
-   "score": 2236,
-   "pr": {
-    "Vea": [
-     1000.0,
-     "https://www.vea.com.ar/tomillo-la-campagnola-x15gr/p"
-    ],
-    "Jumbo": [
-     1150.0,
-     "https://www.jumbo.com.ar/tomillo-la-campagnola-x15gr/p"
-    ],
-    "ChangoMás": [
-     549.0,
-     "https://www.masonline.com.ar/tomillo-la-campagnola-15g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Nuez Moscada Molida 23 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/741005/Nuez-Moscada-Molida-La-Campagnola-X23gr-1-924787.jpg?v=637997421328400000",
-   "cadena": "ChangoMás",
-   "precio": 1449.0,
-   "link": "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p",
-   "referencia": 2739.0,
-   "precio_2da": 2590.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 44.1,
-   "score": 2075,
-   "pr": {
-    "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/nuez-moscada-molida-la-campagnola-x23gr/p"
-    ],
-    "Jumbo": [
-     2900.0,
-     "https://www.jumbo.com.ar/nuez-moscada-molida-la-campagnola-x23gr/p"
-    ],
-    "ChangoMás": [
-     1449.0,
-     "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Sabor Espresso Macchiato 63 Grs x 10 Un Dolce Gusto",
-   "m": "DOLCE GUSTO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875629/Capsulas-Cortado-116g-Dolce-Gusto-1-1035746.jpg?v=638872404192530000",
-   "cadena": "Carrefour",
-   "precio": 8694.0,
-   "link": "https://www.carrefour.com.ar/capsulas-de-cafe-cortado-dolce-gusto-10-uni-759430/p",
-   "referencia": 14490.0,
-   "precio_2da": 17309.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 49.8,
-   "score": 1991,
-   "pr": {
-    "Jumbo": [
-     17850.0,
-     "https://www.jumbo.com.ar/capsulas-espresso-macchiato-10-un-nescafe-dolce-gusto-2/p"
-    ],
-    "ChangoMás": [
-     17309.0,
-     "https://www.masonline.com.ar/capsulas-de-cafe-nescafe-dolce-gusto-espresso-macchiato-10-u/p"
-    ],
-    "Carrefour": [
-     8694.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-cortado-dolce-gusto-10-uni-759430/p"
     ]
    }
   },
@@ -217,33 +109,29 @@
    }
   },
   {
-   "n": "Papas baston Mc cain horneables en bolsa 700 g",
-   "m": "Mc Cain",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845820/7797906054864_01.jpg?v=639111877198030000",
-   "cadena": "ChangoMás",
-   "precio": 5639.0,
-   "link": "https://www.masonline.com.ar/papas-mc-cain-horneables-corte-tradicional-700-g-2/p",
-   "referencia": 9759.0,
-   "precio_2da": 9700.0,
-   "baja_pct": 42.2,
-   "brecha_pct": 41.9,
-   "score": 1767,
+   "n": "Shampoo Cauterización Reparadora 500 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865494/Shampoo-Cauterizaci-n-Reparadora-X-500-Ml-Tresemm-1-1037022.jpg?v=638814514358730000",
+   "cadena": "Carrefour",
+   "precio": 6191.4,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p",
+   "referencia": 10319.0,
+   "precio_2da": 11200.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 44.7,
+   "score": 1789,
    "pr": {
-    "Carrefour": [
-     9700.0,
-     "https://www.carrefour.com.ar/papas-baston-mc-cain-horneables-en-bolsa-700-g-724924/p"
-    ],
-    "Vea": [
-     9700.0,
-     "https://www.vea.com.ar/papas-horneables-corte-tradicional-700-gr-mc-cain/p"
-    ],
     "Jumbo": [
-     10250.0,
-     "https://www.jumbo.com.ar/papas-horneables-corte-tradicional-700-gr-mc-cain/p"
+     11200.0,
+     "https://www.jumbo.com.ar/shampoo-cauterizacion-reparadora-x-500-ml-tresemme/p"
     ],
     "ChangoMás": [
-     5639.0,
-     "https://www.masonline.com.ar/papas-mc-cain-horneables-corte-tradicional-700-g-2/p"
+     11239.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-cauterizacion-reparadora-500ml-2/p"
+    ],
+    "Carrefour": [
+     6191.4,
+     "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p"
     ]
    }
   },
@@ -279,29 +167,29 @@
    }
   },
   {
-   "n": "Desodorante en barra Old Spice mar profundo 50 g.",
-   "m": "Old Spice",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/518265/7500435141840_01.jpg?v=638507891895470000",
+   "n": "Acondicionador Detox Capilar 500 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865498/Acondicionador-Detox-Capilar-X-500-Ml-Tresemm-1-1037026.jpg?v=638814514369200000",
    "cadena": "Vea",
-   "precio": 5990.0,
-   "link": "https://www.vea.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p",
-   "referencia": 9190.0,
-   "precio_2da": 11419.0,
-   "baja_pct": 34.8,
-   "brecha_pct": 47.5,
-   "score": 1655,
+   "precio": 6450.0,
+   "link": "https://www.vea.com.ar/acondicionador-detox-capilar-x-500-ml-tresemme-2/p",
+   "referencia": 11390.0,
+   "precio_2da": 10319.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 37.5,
+   "score": 1626,
    "pr": {
-    "Carrefour": [
-     11419.0,
-     "https://www.carrefour.com.ar/desodorante-en-barra-old-spice-mar-profundo-50-g-658419/p"
-    ],
     "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p"
+     6450.0,
+     "https://www.vea.com.ar/acondicionador-detox-capilar-x-500-ml-tresemme-2/p"
     ],
     "Jumbo": [
-     11950.0,
-     "https://www.jumbo.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p"
+     11750.0,
+     "https://www.jumbo.com.ar/acondicionador-detox-capilar-x-500-ml-tresemme-2/p"
+    ],
+    "Carrefour": [
+     10319.0,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-detox-capilar-500-ml-760565/p"
     ]
    }
   },
@@ -357,13 +245,13 @@
      17250.0,
      "https://www.jumbo.com.ar/shampoo-anti-caida-510-ml-pantene-2/p"
     ],
-    "Carrefour": [
-     15290.0,
-     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
-    ],
     "ChangoMás": [
      18149.0,
      "https://www.masonline.com.ar/shampoo-pantene-anti-caida-510ml/p"
+    ],
+    "Carrefour": [
+     15290.0,
+     "https://www.carrefour.com.ar/shampoo-anticaida-pantene-biotinamina-b3-para-cabello-debil-510-ml-758032/p"
     ]
    }
   },
@@ -480,87 +368,56 @@
    }
   },
   {
-   "n": "Cápsulas Café Sabor Latte Macchiato Premium Brasil 112,5 Grs x 10 Un Dolce Gusto",
-   "m": "DOLCE GUSTO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875627/Capsulas-Lattemacchiato-166g-Dolce-Gusto-1-1035744.jpg?v=638872404182670000",
-   "cadena": "Carrefour",
-   "precio": 8519.4,
-   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p",
-   "referencia": 14199.0,
-   "precio_2da": 14199.0,
+   "n": "Alimento seco para perro Purina One 2 kg. cachorro",
+   "m": "Purina",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/494076/7613287224897_01.jpg?v=638469736567000000",
+   "cadena": "Jumbo",
+   "precio": 11280.0,
+   "link": "https://www.jumbo.com.ar/alimento-perros-purina-one-cachorro-2-kg/p",
+   "referencia": 18800.0,
+   "precio_2da": 18290.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 38.3,
+   "score": 1533,
    "pr": {
+    "Carrefour": [
+     18290.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-cachorro-669878/p"
+    ],
     "Vea": [
-     14199.0,
-     "https://www.vea.com.ar/capsulas-latte-macchiato-5-un-nescafe-dolce-gusto/p"
+     18290.0,
+     "https://www.vea.com.ar/alimento-perros-purina-one-cachorro-2-kg/p"
     ],
     "Jumbo": [
-     17850.0,
-     "https://www.jumbo.com.ar/capsulas-latte-macchiato-5-un-nescafe-dolce-gusto/p"
-    ],
-    "ChangoMás": [
-     17309.0,
-     "https://www.masonline.com.ar/cafe-en-capsulas-nescafe-dolce-gusto-latte-macchiato-10-u/p"
-    ],
-    "Carrefour": [
-     8519.4,
-     "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p"
+     11280.0,
+     "https://www.jumbo.com.ar/alimento-perros-purina-one-cachorro-2-kg/p"
     ]
    }
   },
   {
-   "n": "Café Instantáneo Original 100 Grs Dolca",
-   "m": "DOLCA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915493/8445291082199.jpg?v=639147347660630000",
-   "cadena": "Carrefour",
-   "precio": 5399.4,
-   "link": "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p",
-   "referencia": 8999.0,
-   "precio_2da": 8999.0,
+   "n": "Alimento seco para gato Purina One 500grs. salmón",
+   "m": "Purina",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/494120/7613287230423_01.jpg?v=638469736700070000",
+   "cadena": "Jumbo",
+   "precio": 4710.0,
+   "link": "https://www.jumbo.com.ar/alimento-purina-one-gato-salmon-500-gr/p",
+   "referencia": 7850.0,
+   "precio_2da": 7609.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     8999.0,
-     "https://www.vea.com.ar/cafe-original100-grs-nescafe-dolca/p"
-    ],
-    "Jumbo": [
-     10500.0,
-     "https://www.jumbo.com.ar/cafe-original100-grs-nescafe-dolca/p"
-    ],
-    "Carrefour": [
-     5399.4,
-     "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Mc Cain Golazo en bolsa 700 grs",
-   "m": "Mc Cain",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/872292/7797906055144_E01.jpg?v=639141927832600000",
-   "cadena": "Vea",
-   "precio": 7950.0,
-   "link": "https://www.vea.com.ar/croquetas-de-papa-golazo-x-700-grs-mc-cain/p",
-   "referencia": 13250.0,
-   "precio_2da": 13069.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.2,
-   "score": 1567,
+   "brecha_pct": 38.1,
+   "score": 1524,
    "pr": {
     "Carrefour": [
-     13069.0,
-     "https://www.carrefour.com.ar/papas-mc-cain-golazo-en-bolsa-700-grs-776800/p"
+     7609.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-gato-purina-one-500grs-salmon-669899/p"
     ],
     "Vea": [
-     7950.0,
-     "https://www.vea.com.ar/croquetas-de-papa-golazo-x-700-grs-mc-cain/p"
+     7690.0,
+     "https://www.vea.com.ar/alimento-purina-one-gato-salmon-500-gr/p"
     ],
     "Jumbo": [
-     13650.0,
-     "https://www.jumbo.com.ar/croquetas-de-papa-golazo-x-700-grs-mc-cain/p"
+     4710.0,
+     "https://www.jumbo.com.ar/alimento-purina-one-gato-salmon-500-gr/p"
     ]
    }
   },
@@ -615,60 +472,6 @@
     "Carrefour": [
      2885.35,
      "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-durazno-la-serenisima-nutricion-activa-900-grs-772808/p"
-    ]
-   }
-  },
-  {
-   "n": "Sopa Ramen Sabor Pollo 85 Grs Nissin",
-   "m": "NISSIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/898170/7891079012208.jpg?v=639064137727630000",
-   "cadena": "Jumbo",
-   "precio": 1560.0,
-   "link": "https://www.jumbo.com.ar/ramen-pollo-nissin-x85gr/p",
-   "referencia": 2600.0,
-   "precio_2da": 2499.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1503,
-   "pr": {
-    "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/ramen-pollo-nissin-x85gr/p"
-    ],
-    "Jumbo": [
-     1560.0,
-     "https://www.jumbo.com.ar/ramen-pollo-nissin-x85gr/p"
-    ],
-    "Carrefour": [
-     2499.0,
-     "https://www.carrefour.com.ar/ramen-nissin-pollo-85-g-471045/p"
-    ]
-   }
-  },
-  {
-   "n": "Sopa Ramen Sabor Carne 85 Grs Nissin",
-   "m": "NISSIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/898172/7891079012215.jpg?v=639064137945100000",
-   "cadena": "Jumbo",
-   "precio": 1560.0,
-   "link": "https://www.jumbo.com.ar/ramen-sabor-carne-nissin-85-gr/p",
-   "referencia": 2600.0,
-   "precio_2da": 2499.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1503,
-   "pr": {
-    "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/ramen-sabor-carne-nissin-85-gr/p"
-    ],
-    "Jumbo": [
-     1560.0,
-     "https://www.jumbo.com.ar/ramen-sabor-carne-nissin-85-gr/p"
-    ],
-    "Carrefour": [
-     2499.0,
-     "https://www.carrefour.com.ar/ramen-nissin-carne-85-g-471049/p"
     ]
    }
   }
