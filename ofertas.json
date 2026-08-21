@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-21",
- "actualizado": "2026-08-21 10:47",
+ "actualizado": "2026-08-21 11:30",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-20",
   "2026-08-21"
  ],
- "total": 77,
+ "total": 71,
  "ofertas": [
   {
    "n": "Alimento húmedo para gato Kingfood 85 g. frutos del mar",
@@ -711,60 +711,6 @@
    }
   },
   {
-   "n": "Salsa Golf 209 Grs 220 Ml Dánica",
-   "m": "DANICA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/785346/Salsa-Golf-Danica-X209g-1-971833.jpg?v=638223765636770000",
-   "cadena": "Vea",
-   "precio": 990.0,
-   "link": "https://www.vea.com.ar/salsa-golf-danica-209-gr/p",
-   "referencia": 1899.0,
-   "precio_2da": 1899.0,
-   "baja_pct": 47.9,
-   "brecha_pct": 47.9,
-   "score": 2291,
-   "pr": {
-    "Vea": [
-     990.0,
-     "https://www.vea.com.ar/salsa-golf-danica-209-gr/p"
-    ],
-    "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/salsa-golf-danica-209-gr/p"
-    ],
-    "Carrefour": [
-     1899.0,
-     "https://www.carrefour.com.ar/salsa-golf-danica-220-g-721949/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Líquido Citronella 900 Cc Jardin",
-   "m": "JARDIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/700631/Limpiador-L-quido-Jard-n-Con-Citronela-900-Cc-1-40675.jpg?v=637880637746500000",
-   "cadena": "Jumbo",
-   "precio": 825.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-jardin-con-citronela-900-cc/p",
-   "referencia": 1650.0,
-   "precio_2da": 1490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.6,
-   "score": 2232,
-   "pr": {
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/limpiador-liquido-jardin-con-citronela-900-cc/p"
-    ],
-    "Jumbo": [
-     825.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-jardin-con-citronela-900-cc/p"
-    ],
-    "Carrefour": [
-     1732.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-jardin-citronella-900-cc/p"
-    ]
-   }
-  },
-  {
    "n": "Limpiador Líquido Jardín Antibacterial Cremoso 900 Cc",
    "m": "JARDIN",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/687261/Limpiador-L-quido-Jard-n-Antibacterial-Cremoso-900-Cc-1-16842.jpg?v=637795857648870000",
@@ -985,6 +931,37 @@
    }
   },
   {
+   "n": "Galletitas Chocolina de chocolate 250 g.",
+   "m": "Chocolinas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/472678/7790040143234_E01.jpg?v=638427616041630000",
+   "cadena": "Jumbo",
+   "precio": 984.5,
+   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
+   "referencia": 1709.51,
+   "precio_2da": 1969.0,
+   "baja_pct": 42.4,
+   "brecha_pct": 50.0,
+   "score": 2121,
+   "pr": {
+    "Carrefour": [
+     1969.0,
+     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
+    ],
+    "Vea": [
+     1969.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "Jumbo": [
+     984.5,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "ChangoMás": [
+     2949.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Limpiador Líquido de Pino 900 Ml Pinoluz",
    "m": "PINOLUZ",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/565831/Limpiador-Liquido-Pinoluz-Aceite-De-Pino-900-Ml-1-41663.jpg?v=637130136665070000",
@@ -1008,68 +985,6 @@
     "Carrefour": [
      2190.0,
      "https://www.carrefour.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-900-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido Procenex pisos lavanda 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179601/7791130683524_01.jpg?v=637468582822500000",
-   "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p",
-   "referencia": 2400.0,
-   "precio_2da": 1990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.7,
-   "score": 1985,
-   "pr": {
-    "Carrefour": [
-     1990.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-900-ml-584252/p"
-    ],
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
-    ],
-    "Comodín": [
-     2293.19,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179606/7791130683661_01.jpg?v=637468582835170000",
-   "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p",
-   "referencia": 2400.0,
-   "precio_2da": 1990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.7,
-   "score": 1985,
-   "pr": {
-    "Carrefour": [
-     1990.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
-    ],
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
-    ],
-    "Comodín": [
-     2293.19,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
     ]
    }
   },
@@ -1105,6 +1020,37 @@
    }
   },
   {
+   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179606/7791130683661_01.jpg?v=637468582835170000",
+   "cadena": "Jumbo",
+   "precio": 1200.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p",
+   "referencia": 2400.0,
+   "precio_2da": 1990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.7,
+   "score": 1985,
+   "pr": {
+    "Carrefour": [
+     1990.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+    ],
+    "Comodín": [
+     2293.19,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
+    ]
+   }
+  },
+  {
    "n": "Limpiador líquido Procenex pisos pino 900 ml.",
    "m": "Procenex",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179612/7791130683685_01.jpg?v=637468582845170000",
@@ -1132,6 +1078,37 @@
     "Comodín": [
      2293.19,
      "https://www.comodinencasa.com.ar/limpiador-procenex-pino-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido Procenex pisos lavanda 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179601/7791130683524_01.jpg?v=637468582822500000",
+   "cadena": "Jumbo",
+   "precio": 1200.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p",
+   "referencia": 2400.0,
+   "precio_2da": 1990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.7,
+   "score": 1985,
+   "pr": {
+    "Carrefour": [
+     1990.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-900-ml-584252/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+    ],
+    "Comodín": [
+     2293.19,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p"
     ]
    }
   },
@@ -1333,6 +1310,41 @@
     "Carrefour": [
      2890.0,
      "https://www.carrefour.com.ar/copos-de-maiz-granix-400-g/p"
+    ],
+    "ChangoMás": [
+     4109.0,
+     "https://www.masonline.com.ar/copos-de-cereal-granix-400-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Chocolinas de chocolate 100 g.",
+   "m": "Chocolinas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/476779/7790040143241_01.jpg?v=638440339180370000",
+   "cadena": "Jumbo",
+   "precio": 700.0,
+   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x100g-2/p",
+   "referencia": 1166.67,
+   "precio_2da": 1219.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 42.6,
+   "score": 1703,
+   "pr": {
+    "Carrefour": [
+     1219.0,
+     "https://www.carrefour.com.ar/galletitas-chocolinas-de-chocolate-100-g-736895/p"
+    ],
+    "Vea": [
+     1250.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x100g-2/p"
+    ],
+    "Jumbo": [
+     700.0,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x100g-2/p"
+    ],
+    "ChangoMás": [
+     1219.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-100-g-2/p"
     ]
    }
   },
@@ -1364,29 +1376,33 @@
    }
   },
   {
-   "n": "Corn Flakes 200gr",
-   "m": "CORN FLAKES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/882840/Cereal-X-200-Gr-Corn-Flakes-1-1047836.jpg?v=639112548460300000",
+   "n": "Limpiador Líquido Citronella 900 Cc Jardin",
+   "m": "JARDIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/700631/Limpiador-L-quido-Jard-n-Con-Citronela-900-Cc-1-40675.jpg?v=637880637746500000",
    "cadena": "Jumbo",
-   "precio": 1680.0,
-   "link": "https://www.jumbo.com.ar/corn-flakes-200gr/p",
-   "referencia": 2800.0,
-   "precio_2da": 2889.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.8,
-   "score": 1674,
+   "precio": 825.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-jardin-con-citronela-900-cc/p",
+   "referencia": 1650.0,
+   "precio_2da": 1249.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 33.9,
+   "score": 1697,
    "pr": {
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/limpiador-liquido-jardin-con-citronela-900-cc/p"
+    ],
     "Jumbo": [
-     1680.0,
-     "https://www.jumbo.com.ar/corn-flakes-200gr/p"
+     825.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-jardin-con-citronela-900-cc/p"
     ],
     "Carrefour": [
-     2889.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-kelloggs-corn-flakes-200-grs-754232/p"
+     1732.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-jardin-citronella-900-cc/p"
     ],
-    "ChangoMás": [
-     2889.0,
-     "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p"
+    "Comodín": [
+     1249.0,
+     "https://www.comodinencasa.com.ar/desod-jardin-antibact-citronella-900cc/p"
     ]
    }
   },
@@ -1484,33 +1500,33 @@
    }
   },
   {
-   "n": "Galletitas Sabor Chocolate 250 Grs Chocolinas",
-   "m": "CHOCOLINAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814283/Galletitas-Chocolinas-X250g-1-1008715.jpg?v=638452605691770000",
+   "n": "Galletitas clásicas Traviata x5 108 g",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/476784/7790040144095_E02.jpg?v=638440339239770000",
    "cadena": "Jumbo",
-   "precio": 984.5,
-   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
-   "referencia": 1450.01,
-   "precio_2da": 1969.0,
-   "baja_pct": 32.1,
-   "brecha_pct": 50.0,
-   "score": 1605,
+   "precio": 1745.4,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p",
+   "referencia": 2909.0,
+   "precio_2da": 2909.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
+    "Carrefour": [
+     2909.0,
+     "https://www.carrefour.com.ar/galletitas-clasicas-traviata-x5-108-g-737518/p"
+    ],
     "Vea": [
-     1969.0,
-     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+     2909.0,
+     "https://www.vea.com.ar/galletitas-traviata-x540g-2/p"
     ],
     "Jumbo": [
-     984.5,
-     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+     1745.4,
+     "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p"
     ],
     "ChangoMás": [
-     2949.0,
-     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
-    ],
-    "Carrefour": [
-     1969.0,
-     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
+     3479.0,
+     "https://www.masonline.com.ar/galletitas-de-agua-traviata-540-g-pack-5u-2/p"
     ]
    }
   },
@@ -1538,157 +1554,6 @@
     "Jumbo": [
      9950.0,
      "https://www.jumbo.com.ar/leche-polvo-fortigrow-370-grs-nido/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas de Agua Sabor Original 540 Grs x 5 Un Traviata",
-   "m": "TRAVIATA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/816919/Galletitas-Traviata-X540g-1-1008721.jpg?v=638470869201230000",
-   "cadena": "Jumbo",
-   "precio": 1745.4,
-   "link": "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p",
-   "referencia": 2909.0,
-   "precio_2da": 2909.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     2909.0,
-     "https://www.vea.com.ar/galletitas-traviata-x540g-2/p"
-    ],
-    "Jumbo": [
-     1745.4,
-     "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p"
-    ],
-    "ChangoMás": [
-     3479.0,
-     "https://www.masonline.com.ar/galletitas-de-agua-traviata-540-g-pack-5u-2/p"
-    ],
-    "Carrefour": [
-     2909.0,
-     "https://www.carrefour.com.ar/galletitas-clasicas-traviata-x5-108-g-737518/p"
-    ]
-   }
-  },
-  {
-   "n": "Alimento húmedo para perro Pedigree 100 g. adultos carne",
-   "m": "Pedigree",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/273967/7797453000796_02.jpg?v=639122880150570000",
-   "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-pouch-adulto-100-gr/p",
-   "referencia": 1125.0,
-   "precio_2da": 1433.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.7,
-   "score": 1589,
-   "pr": {
-    "Carrefour": [
-     1433.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-carne-597820/p"
-    ],
-    "Vea": [
-     1433.0,
-     "https://www.vea.com.ar/alimento-para-perros-pedigree-carne-pouch-adulto-100-gr/p"
-    ],
-    "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-pouch-adulto-100-gr/p"
-    ],
-    "ChangoMás": [
-     1459.0,
-     "https://www.masonline.com.ar/alimento-perro-razas-grandes-carne-pedigree-100-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alimento húmedo para perro Pedigree 85 g. cachorros carne",
-   "m": "Pedigree",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274221/7797453000468_02.jpg?v=639122882059830000",
-   "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-cachorros-85-gr/p",
-   "referencia": 1125.0,
-   "precio_2da": 1433.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.7,
-   "score": 1589,
-   "pr": {
-    "Carrefour": [
-     1433.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-85-g-cachorros-carne-471033/p"
-    ],
-    "Vea": [
-     1433.0,
-     "https://www.vea.com.ar/alimento-para-perros-pedigree-cachorros-85-gr/p"
-    ],
-    "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-cachorros-85-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Alimento húmedo para perro Pedigree 100 g. adultos pequeños carne",
-   "m": "Pedigree",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274113/7797453000475_02.jpg?v=639122880483930000",
-   "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-100-gr/p",
-   "referencia": 1125.0,
-   "precio_2da": 1433.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.7,
-   "score": 1589,
-   "pr": {
-    "Carrefour": [
-     1433.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-pequenos-carne-471034/p"
-    ],
-    "Vea": [
-     1433.0,
-     "https://www.vea.com.ar/alimento-para-perros-pedigree-carne-100-gr/p"
-    ],
-    "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-100-gr/p"
-    ],
-    "ChangoMás": [
-     1459.0,
-     "https://www.masonline.com.ar/alimento-adulto-raza-peq-carne-pouch-pedigree-100-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alimento húmedo para perro Pedigree 100 g. mayores 7 años carne",
-   "m": "Pedigree",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274050/7797453971768_02.jpg?v=639122884499500000",
-   "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p",
-   "referencia": 1125.0,
-   "precio_2da": 1433.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.7,
-   "score": 1589,
-   "pr": {
-    "Carrefour": [
-     1435.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-mayores-7-anos-carne-628442/p"
-    ],
-    "Vea": [
-     1433.0,
-     "https://www.vea.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p"
-    ],
-    "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p"
-    ],
-    "ChangoMás": [
-     1459.0,
-     "https://www.masonline.com.ar/alimento-humedo-perro-pouch-adulto-pedigree-100-gr-2/p"
     ]
    }
   },
@@ -1836,37 +1701,6 @@
    }
   },
   {
-   "n": "Alimento húmedo para gato Whiskas 85 g. pavo",
-   "m": "Whiskas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274046/7797453000437_02.jpg?v=639122883615270000",
-   "cadena": "Jumbo",
-   "precio": 775.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-gatos-whiskas-pasta-pavo-85-gr/p",
-   "referencia": 1162.5,
-   "precio_2da": 1449.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.5,
-   "score": 1550,
-   "pr": {
-    "Carrefour": [
-     1449.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-gato-whiskas-85-g-pavo-475820/p"
-    ],
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/alimento-para-gatos-whiskas-pasta-pavo-85-gr/p"
-    ],
-    "Jumbo": [
-     775.0,
-     "https://www.jumbo.com.ar/alimento-para-gatos-whiskas-pasta-pavo-85-gr/p"
-    ],
-    "ChangoMás": [
-     1459.0,
-     "https://www.masonline.com.ar/alimento-gato-pavo-pocuh-whiskas-85-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Bocaditos de Cereales con Avena y Trigo Sabor Frutilla 180 Grs Granix",
    "m": "GRANIX",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/180915/Bocaditos-De-Cereal-Granix-X-180-Gr-Bocaditos-De-Cereal-Rellenos-Con-Frutilla-Granix-180-Gr-1-13983.jpg?v=636383404402000000",
@@ -1894,29 +1728,29 @@
    }
   },
   {
-   "n": "Semillas Mix Desayuno Chía Sésamo y Lino 150 Grs Genser",
-   "m": "GENSER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/562254/Semillas-Genser-Mix-Desayuno-X150gr-1-841198.jpg?v=637117604260100000",
-   "cadena": "Jumbo",
-   "precio": 1530.0,
-   "link": "https://www.jumbo.com.ar/semillas-mix-desayuno-genser-150-gr/p",
-   "referencia": 2550.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1542,
+   "n": "Salsa Golf 209 Grs 220 Ml Dánica",
+   "m": "DANICA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/785346/Salsa-Golf-Danica-X209g-1-971833.jpg?v=638223765636770000",
+   "cadena": "Vea",
+   "precio": 990.0,
+   "link": "https://www.vea.com.ar/salsa-golf-danica-209-gr/p",
+   "referencia": 1899.0,
+   "precio_2da": 1462.5,
+   "baja_pct": 47.9,
+   "brecha_pct": 32.3,
+   "score": 1546,
    "pr": {
     "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/semillas-mix-desayuno-genser-150-gr/p"
+     990.0,
+     "https://www.vea.com.ar/salsa-golf-danica-209-gr/p"
     ],
     "Jumbo": [
-     1530.0,
-     "https://www.jumbo.com.ar/semillas-mix-desayuno-genser-150-gr/p"
+     1462.5,
+     "https://www.jumbo.com.ar/salsa-golf-danica-209-gr/p"
     ],
     "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/mix-de-semillas-genser-desayuno-150-g/p"
+     1899.0,
+     "https://www.carrefour.com.ar/salsa-golf-danica-220-g-721949/p"
     ]
    }
   },
