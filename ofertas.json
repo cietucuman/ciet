@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-22",
- "actualizado": "2026-08-22 08:09",
+ "actualizado": "2026-08-22 11:53",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,8 +21,66 @@
   "2026-08-21",
   "2026-08-22"
  ],
- "total": 67,
+ "total": 68,
  "ofertas": [
+  {
+   "n": "Alimento húmedo para gato Kingfood 85 g. frutos del mar",
+   "m": "Kingfood",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/161636/7798139793070_02.jpg?v=637467658622430000",
+   "cadena": "Jumbo",
+   "precio": 575.0,
+   "link": "https://www.jumbo.com.ar/humedo-king-food-para-gato-frutos-de-mar-85gr/p",
+   "referencia": 1150.0,
+   "precio_2da": 1150.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     1150.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-gato-kingfood-85-g-frutos-del-mar-631810/p"
+    ],
+    "Vea": [
+     1150.0,
+     "https://www.vea.com.ar/humedo-king-food-para-gato-frutos-de-mar-85gr/p"
+    ],
+    "Jumbo": [
+     575.0,
+     "https://www.jumbo.com.ar/humedo-king-food-para-gato-frutos-de-mar-85gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para gato Kingfood pollo y leche 85 g",
+   "m": "Kingfood",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/203693/7798139796811_02.jpg?v=637581489678070000",
+   "cadena": "Jumbo",
+   "precio": 575.0,
+   "link": "https://www.jumbo.com.ar/alimento-gatos-pouch-king-food-gatito-poll-y-leche-85gr/p",
+   "referencia": 1150.0,
+   "precio_2da": 1149.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2498,
+   "pr": {
+    "Carrefour": [
+     1149.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-gato-kingfood-pollo-y-leche-85-g-668907/p"
+    ],
+    "Vea": [
+     1150.0,
+     "https://www.vea.com.ar/alimento-gatos-pouch-king-food-gatito-poll-y-leche-85gr/p"
+    ],
+    "Jumbo": [
+     575.0,
+     "https://www.jumbo.com.ar/alimento-gatos-pouch-king-food-gatito-poll-y-leche-85gr/p"
+    ],
+    "ChangoMás": [
+     1149.0,
+     "https://www.masonline.com.ar/alimento-para-gato-humedo-king-food-gatito-pollo-y-leche-pouch-85gr-2/p"
+    ]
+   }
+  },
   {
    "n": "Alimento húmedo para perro Kingfood 100 g. adultos carne",
    "m": "Kingfood",
@@ -128,95 +186,6 @@
     "ChangoMás": [
      1359.0,
      "https://www.masonline.com.ar/alimento-humedo-gato-carne-pets-class-x-85-grs-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Desinfectante Pisos Original 420 Ml Lysoform",
-   "m": "LYSOFORM",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900137/Desinfectante-Concentrado-Pisos-Repuesto-420ml-Lysoform-1-838390.jpg?v=639074797232300000",
-   "cadena": "Jumbo",
-   "precio": 1425.0,
-   "link": "https://www.jumbo.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p",
-   "referencia": 2850.0,
-   "precio_2da": 2790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2446,
-   "pr": {
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p"
-    ],
-    "Jumbo": [
-     1425.0,
-     "https://www.jumbo.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p"
-    ],
-    "Comodín": [
-     2868.39,
-     "https://www.comodinencasa.com.ar/limpiador-lysoform-original-dp-420ml/p"
-    ],
-    "Carrefour": [
-     2790.0,
-     "https://www.carrefour.com.ar/desinfectante-concentrado-lysoform-original-limpieza-diaria-y-desinfeccion-del-hogar-420-ml-656140/p"
-    ]
-   }
-  },
-  {
-   "n": "Desinfectante Concentrado para Pisos Original 420 Ml Lysoform",
-   "m": "LYSOFORM",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900136/Desinfectante-Concentrado-Pisos-Lavanda-420ml-Lysoform-1-838385.jpg?v=639074797227430000",
-   "cadena": "Jumbo",
-   "precio": 1425.0,
-   "link": "https://www.jumbo.com.ar/desinfectante-concentrado-lavanda-420-ml-lysoform/p",
-   "referencia": 2850.0,
-   "precio_2da": 2790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2446,
-   "pr": {
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/desinfectante-concentrado-lavanda-420-ml-lysoform/p"
-    ],
-    "Jumbo": [
-     1425.0,
-     "https://www.jumbo.com.ar/desinfectante-concentrado-lavanda-420-ml-lysoform/p"
-    ],
-    "Comodín": [
-     2868.39,
-     "https://www.comodinencasa.com.ar/limpiador-lysoform-lavanda-dp-420ml/p"
-    ],
-    "Carrefour": [
-     2790.0,
-     "https://www.carrefour.com.ar/desinfectante-concentrado-lysoform-lavanda-limpieza-diaria-y-desinfeccion-de-hogar-420-ml-656142/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de pisos Pino Luz aroma pino (botella) 1800 ml.",
-   "m": "Pinoluz",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795365/7793253000912_02.jpg?v=639050307487170000",
-   "cadena": "Jumbo",
-   "precio": 2125.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-1-8-l/p",
-   "referencia": 4250.0,
-   "precio_2da": 4139.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.7,
-   "score": 2433,
-   "pr": {
-    "Carrefour": [
-     4139.0,
-     "https://www.carrefour.com.ar/limpiador-de-pisos-pino-luz-aroma-pino-botella-1800-ml-572709/p"
-    ],
-    "Jumbo": [
-     2125.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-1-8-l/p"
-    ],
-    "Comodín": [
-     4194.09,
-     "https://www.comodinencasa.com.ar/limpiador-pinoluz-aceite-de-pino-1800ml/p"
     ]
    }
   },
@@ -329,9 +298,9 @@
    }
   },
   {
-   "n": "Mermelada El Brocal de frutilla light 400 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/237036/7798088960325_02.jpg?v=637818418721230000",
+   "n": "Mermelada Frutilla Light 400 Gr El Brocal",
+   "m": "EL BROCAL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861572/Mermelada-Frutilla-Light-400-Gr-El-Brocal-1-1519.jpg?v=638793777991930000",
    "cadena": "Jumbo",
    "precio": 4400.0,
    "link": "https://www.jumbo.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p",
@@ -341,10 +310,6 @@
    "brecha_pct": 48.2,
    "score": 2409,
    "pr": {
-    "Carrefour": [
-     8490.0,
-     "https://www.carrefour.com.ar/mermelada-el-brocal-de-frutilla-light-400-g-609937/p"
-    ],
     "Vea": [
      8490.0,
      "https://www.vea.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p"
@@ -352,33 +317,10 @@
     "Jumbo": [
      4400.0,
      "https://www.jumbo.com.ar/mermelada-frutilla-light-400-gr-el-brocal/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de higo El Brocal frasco 420 g.",
-   "m": "El Brocal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214487/7798088960059_02.jpg?v=637678495361800000",
-   "cadena": "Jumbo",
-   "precio": 3625.0,
-   "link": "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p",
-   "referencia": 7250.0,
-   "precio_2da": 6990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2407,
-   "pr": {
+    ],
     "Carrefour": [
-     6990.0,
-     "https://www.carrefour.com.ar/mermelada-de-higo-el-brocal-frasco-420-g/p"
-    ],
-    "Vea": [
-     6990.0,
-     "https://www.vea.com.ar/mermelada-el-brocal-higo-420-gr/p"
-    ],
-    "Jumbo": [
-     3625.0,
-     "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p"
+     8490.0,
+     "https://www.carrefour.com.ar/mermelada-el-brocal-de-frutilla-light-400-g-609937/p"
     ]
    }
   },
@@ -406,6 +348,33 @@
     "Carrefour": [
      6990.0,
      "https://www.carrefour.com.ar/mermelada-el-brocal-de-naranja-inglesa-frasco-420-g-281377/p"
+    ]
+   }
+  },
+  {
+   "n": "Mermelada Sabor Higo 420 Grs El Brocal",
+   "m": "EL BROCAL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861568/Mermelada-El-Brocal-Higo-420-Gr-1-1042.jpg?v=638793777980330000",
+   "cadena": "Jumbo",
+   "precio": 3625.0,
+   "link": "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p",
+   "referencia": 7250.0,
+   "precio_2da": 6990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.1,
+   "score": 2407,
+   "pr": {
+    "Vea": [
+     6990.0,
+     "https://www.vea.com.ar/mermelada-el-brocal-higo-420-gr/p"
+    ],
+    "Jumbo": [
+     3625.0,
+     "https://www.jumbo.com.ar/mermelada-el-brocal-higo-420-gr/p"
+    ],
+    "Carrefour": [
+     6990.0,
+     "https://www.carrefour.com.ar/mermelada-de-higo-el-brocal-frasco-420-g/p"
     ]
    }
   },
@@ -769,9 +738,9 @@
    }
   },
   {
-   "n": "Mermelada de frutilla Dulcor en pote 500 g.",
-   "m": "Dulcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/368135/7793046008095_02.jpg?v=638288315545000000",
+   "n": "Mermelada Sabor Frutilla 500 Grs Dulcor",
+   "m": "DULCOR",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/814271/Mermelada-dulcor-Frutilla-X-500-Gr-1-9535.jpg?v=638452605634400000",
    "cadena": "Jumbo",
    "precio": 1275.0,
    "link": "https://www.jumbo.com.ar/mermelada-dulcor-frutilla-x-500-gr/p",
@@ -781,10 +750,6 @@
    "brecha_pct": 44.0,
    "score": 2200,
    "pr": {
-    "Carrefour": [
-     2550.0,
-     "https://www.carrefour.com.ar/mermelada-de-frutilla-dulcor-en-pote-500-g-512892/p"
-    ],
     "Jumbo": [
      1275.0,
      "https://www.jumbo.com.ar/mermelada-dulcor-frutilla-x-500-gr/p"
@@ -792,6 +757,10 @@
     "Comodín": [
      2276.59,
      "https://www.comodinencasa.com.ar/mermelada-dulcor-frutilla-x-500-gr/p"
+    ],
+    "Carrefour": [
+     2550.0,
+     "https://www.carrefour.com.ar/mermelada-de-frutilla-dulcor-en-pote-500-g-512892/p"
     ]
    }
   },
@@ -827,64 +796,91 @@
    }
   },
   {
-   "n": "Galletitas Chocolina de chocolate 250 g.",
-   "m": "Chocolinas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/472678/7790040143234_E01.jpg?v=638427616041630000",
+   "n": "Limpiador de pisos Pino Luz aroma pino (botella) 1800 ml.",
+   "m": "Pinoluz",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795365/7793253000912_02.jpg?v=639050307487170000",
    "cadena": "Jumbo",
-   "precio": 984.5,
-   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
-   "referencia": 1709.51,
-   "precio_2da": 1969.0,
-   "baja_pct": 42.4,
-   "brecha_pct": 50.0,
-   "score": 2121,
+   "precio": 2125.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-1-8-l/p",
+   "referencia": 4250.0,
+   "precio_2da": 3700.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.6,
+   "score": 2129,
    "pr": {
     "Carrefour": [
-     1969.0,
-     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
-    ],
-    "Vea": [
-     1969.0,
-     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+     4139.0,
+     "https://www.carrefour.com.ar/limpiador-de-pisos-pino-luz-aroma-pino-botella-1800-ml-572709/p"
     ],
     "Jumbo": [
-     984.5,
-     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+     2125.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-1-8-l/p"
     ],
-    "ChangoMás": [
-     2949.0,
-     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    "Comodín": [
+     3700.69,
+     "https://www.comodinencasa.com.ar/limpiador-pinoluz-aceite-de-pino-1800ml/p"
     ]
    }
   },
   {
-   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179606/7791130683661_01.jpg?v=637468582835170000",
+   "n": "Limpiador Desinfectante Pisos Original 420 Ml Lysoform",
+   "m": "LYSOFORM",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900137/Desinfectante-Concentrado-Pisos-Repuesto-420ml-Lysoform-1-838390.jpg?v=639074797232300000",
    "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p",
-   "referencia": 2400.0,
-   "precio_2da": 1990.0,
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p",
+   "referencia": 2850.0,
+   "precio_2da": 2479.39,
    "baja_pct": 50.0,
-   "brecha_pct": 39.7,
-   "score": 1985,
+   "brecha_pct": 42.5,
+   "score": 2126,
    "pr": {
-    "Carrefour": [
-     1990.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
-    ],
     "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+     2790.0,
+     "https://www.vea.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p"
     ],
     "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+     1425.0,
+     "https://www.jumbo.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p"
     ],
     "Comodín": [
-     2293.19,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
+     2479.39,
+     "https://www.comodinencasa.com.ar/limpiador-lysoform-original-dp-420ml/p"
+    ],
+    "Carrefour": [
+     2790.0,
+     "https://www.carrefour.com.ar/desinfectante-concentrado-lysoform-original-limpieza-diaria-y-desinfeccion-del-hogar-420-ml-656140/p"
+    ]
+   }
+  },
+  {
+   "n": "Desinfectante Concentrado para Pisos Original 420 Ml Lysoform",
+   "m": "LYSOFORM",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900136/Desinfectante-Concentrado-Pisos-Lavanda-420ml-Lysoform-1-838385.jpg?v=639074797227430000",
+   "cadena": "Jumbo",
+   "precio": 1425.0,
+   "link": "https://www.jumbo.com.ar/desinfectante-concentrado-lavanda-420-ml-lysoform/p",
+   "referencia": 2850.0,
+   "precio_2da": 2479.39,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.5,
+   "score": 2126,
+   "pr": {
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/desinfectante-concentrado-lavanda-420-ml-lysoform/p"
+    ],
+    "Jumbo": [
+     1425.0,
+     "https://www.jumbo.com.ar/desinfectante-concentrado-lavanda-420-ml-lysoform/p"
+    ],
+    "Comodín": [
+     2479.39,
+     "https://www.comodinencasa.com.ar/limpiador-lysoform-lavanda-dp-420ml/p"
+    ],
+    "Carrefour": [
+     2790.0,
+     "https://www.carrefour.com.ar/desinfectante-concentrado-lysoform-lavanda-limpieza-diaria-y-desinfeccion-de-hogar-420-ml-656142/p"
     ]
    }
   },
@@ -916,6 +912,37 @@
     "Comodín": [
      2293.19,
      "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179606/7791130683661_01.jpg?v=637468582835170000",
+   "cadena": "Jumbo",
+   "precio": 1200.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p",
+   "referencia": 2400.0,
+   "precio_2da": 1990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.7,
+   "score": 1985,
+   "pr": {
+    "Carrefour": [
+     1990.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+    ],
+    "Comodín": [
+     2293.19,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
     ]
    }
   },
@@ -1009,60 +1036,33 @@
    }
   },
   {
-   "n": "Limpiador líquido Procenex pisos lavanda 5 l.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/272155/7791130683852_01.jpg?v=638103340664170000",
-   "cadena": "Jumbo",
-   "precio": 6450.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-5l/p",
-   "referencia": 12900.0,
-   "precio_2da": 10390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.9,
-   "score": 1896,
+   "n": "Yogur Bebible Frutilla Gran Compra 900Gr",
+   "m": "Gran Compra",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834295/7791337009684_E01.jpg?v=639102364701470000",
+   "cadena": "Comodín",
+   "precio": 1033.5,
+   "link": "https://www.comodinencasa.com.ar/alim-gran-compra-frutilla-x-900-gr/p",
+   "referencia": 1750.0,
+   "precio_2da": 1852.5,
+   "baja_pct": 40.9,
+   "brecha_pct": 44.2,
+   "score": 1810,
    "pr": {
     "Carrefour": [
-     10390.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-5-l-584288/p"
-    ],
-    "Vea": [
-     10390.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-5l/p"
-    ],
-    "Jumbo": [
-     6450.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-5l/p"
+     2850.0,
+     "https://www.carrefour.com.ar/yogur-bebible-entero-de-frutilla-gran-compra-900-g-746403/p"
     ],
     "Comodín": [
-     11086.39,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-5lt/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de Pisos Frescura de Lavanda 900 Ml Poett",
-   "m": "POETT",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/761348/Limpiador-Desinfectante-De-Pisos-Poett-Lavanda-900-Ml-1-855459.jpg?v=638053546052300000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-frescura-de-lavanda-900-ml/p",
-   "referencia": 2650.0,
-   "precio_2da": 2096.77,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.8,
-   "score": 1840,
-   "pr": {
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/limpiador-liquido-aromatizante-poett-frescura-de-lavanda-900-ml/p"
+     1033.5,
+     "https://www.comodinencasa.com.ar/alim-gran-compra-frutilla-x-900-gr/p"
     ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-frescura-de-lavanda-900-ml/p"
+    "ChangoMás": [
+     1852.5,
+     "https://www.masonline.com.ar/yogur-bebible-entero-de-frutilla-gran-compra-900-g-2/p"
     ],
     "Tuchanguito": [
-     2096.77,
-     "https://www.tuchanguito.com.ar/productos/limpiador-de-piso-poett-lavanda-900ml/"
+     1952.06,
+     "https://www.tuchanguito.com.ar/productos/yogur-gran-compra-frutilla-900-gr/"
     ]
    }
   },
@@ -1208,39 +1208,8 @@
      "https://www.carrefour.com.ar/copos-de-maiz-granix-400-g/p"
     ],
     "ChangoMás": [
-     3081.75,
+     4109.0,
      "https://www.masonline.com.ar/copos-de-cereal-granix-400-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas Chocolinas de chocolate 100 g.",
-   "m": "Chocolinas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/476779/7790040143241_01.jpg?v=638440339180370000",
-   "cadena": "Jumbo",
-   "precio": 700.0,
-   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x100g-2/p",
-   "referencia": 1166.67,
-   "precio_2da": 1219.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.6,
-   "score": 1703,
-   "pr": {
-    "Carrefour": [
-     1219.0,
-     "https://www.carrefour.com.ar/galletitas-chocolinas-de-chocolate-100-g-736895/p"
-    ],
-    "Vea": [
-     1250.0,
-     "https://www.vea.com.ar/galletitas-chocolinas-x100g-2/p"
-    ],
-    "Jumbo": [
-     700.0,
-     "https://www.jumbo.com.ar/galletitas-chocolinas-x100g-2/p"
-    ],
-    "ChangoMás": [
-     1219.0,
-     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-100-g-2/p"
     ]
    }
   },
@@ -1303,29 +1272,41 @@
    }
   },
   {
-   "n": "Corn Flakes 200gr",
-   "m": "CORN FLAKES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/882840/Cereal-X-200-Gr-Corn-Flakes-1-1047836.jpg?v=639112548460300000",
-   "cadena": "Jumbo",
-   "precio": 1680.0,
-   "link": "https://www.jumbo.com.ar/corn-flakes-200gr/p",
-   "referencia": 2800.0,
-   "precio_2da": 2889.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.8,
-   "score": 1674,
+   "n": "Yogur bebible entero de vainilla Gran Compra 900 g.",
+   "m": "Gran Compra",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834392/7791337009691_E01.jpg?v=639102395726130000",
+   "cadena": "Comodín",
+   "precio": 1033.5,
+   "link": "https://www.comodinencasa.com.ar/alim-gran-compra-vainilla-x-900-gr/p",
+   "referencia": 1750.0,
+   "precio_2da": 1750.01,
+   "baja_pct": 40.9,
+   "brecha_pct": 40.9,
+   "score": 1676,
    "pr": {
-    "Jumbo": [
-     1680.0,
-     "https://www.jumbo.com.ar/corn-flakes-200gr/p"
-    ],
     "Carrefour": [
-     2889.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-kelloggs-corn-flakes-200-grs-754232/p"
+     2850.0,
+     "https://www.carrefour.com.ar/yogur-bebible-entero-de-vainilla-gran-compra-900-g-746404/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/yogur-bebible-vainilla-900-grs-gran-compra/p"
+    ],
+    "Jumbo": [
+     2950.0,
+     "https://www.jumbo.com.ar/yogur-bebible-vainilla-900-grs-gran-compra/p"
+    ],
+    "Comodín": [
+     1033.5,
+     "https://www.comodinencasa.com.ar/alim-gran-compra-vainilla-x-900-gr/p"
     ],
     "ChangoMás": [
-     2889.0,
-     "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p"
+     1852.5,
+     "https://www.masonline.com.ar/yogur-bebible-entero-de-vainilla-gran-compra-900-g-2/p"
+    ],
+    "Tuchanguito": [
+     1750.01,
+     "https://www.tuchanguito.com.ar/productos/yogur-gran-compra-vainilla-900-gr/"
     ]
    }
   },
@@ -1353,6 +1334,37 @@
     "Carrefour": [
      1989.0,
      "https://www.carrefour.com.ar/copos-de-maiz-granix-160-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chocolate 250 Grs Chocolinas",
+   "m": "CHOCOLINAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814283/Galletitas-Chocolinas-X250g-1-1008715.jpg?v=638452605691770000",
+   "cadena": "Jumbo",
+   "precio": 984.5,
+   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
+   "referencia": 1450.01,
+   "precio_2da": 1969.0,
+   "baja_pct": 32.1,
+   "brecha_pct": 50.0,
+   "score": 1605,
+   "pr": {
+    "Vea": [
+     1969.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "Jumbo": [
+     984.5,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "ChangoMás": [
+     2949.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    ],
+    "Carrefour": [
+     1969.0,
+     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
     ]
    }
   },
@@ -1415,33 +1427,91 @@
    }
   },
   {
-   "n": "Galletitas sandwich Traviata x3 324 grs",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/508465/7790040144088_E01.jpg?v=638488762248130000",
+   "n": "Cereales frutal Arcor formis 145 g.",
+   "m": "Formis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/467124/7790040142503_E01.jpg?v=638418969533070000",
    "cadena": "Jumbo",
-   "precio": 1390.8,
-   "link": "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p",
-   "referencia": 2318.0,
+   "precio": 1380.0,
+   "link": "https://www.jumbo.com.ar/cereales-formis-frutal-x145g/p",
+   "referencia": 2300.0,
    "precio_2da": 2290.0,
    "baja_pct": 40.0,
-   "brecha_pct": 39.3,
-   "score": 1571,
+   "brecha_pct": 39.7,
+   "score": 1590,
    "pr": {
     "Carrefour": [
      2290.0,
-     "https://www.carrefour.com.ar/galletitas-sandwich-traviata-x3-324-grs-739531/p"
-    ],
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/galletitas-traviata-324-gr-2/p"
+     "https://www.carrefour.com.ar/cereales-frutal-arcor-formis-145-g-736223/p"
     ],
     "Jumbo": [
-     1390.8,
-     "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p"
+     1380.0,
+     "https://www.jumbo.com.ar/cereales-formis-frutal-x145g/p"
+    ],
+    "Comodín": [
+     2594.19,
+     "https://www.comodinencasa.com.ar/cereal-formis-frutal-145-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pedigree 100 g. mayores 7 años carne",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274050/7797453971768_02.jpg?v=639122884499500000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p",
+   "referencia": 1125.0,
+   "precio_2da": 1433.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 47.7,
+   "score": 1589,
+   "pr": {
+    "Carrefour": [
+     1435.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-mayores-7-anos-carne-628442/p"
+    ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p"
     ],
     "ChangoMás": [
-     2419.0,
-     "https://www.masonline.com.ar/galletitas-traviata-clasicas-324-g-2/p"
+     1459.0,
+     "https://www.masonline.com.ar/alimento-humedo-perro-pouch-adulto-pedigree-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pedigree 100 g. adultos pequeños pollo",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274217/7797453000482_02.jpg?v=639122881609000000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-pollo-100-gr/p",
+   "referencia": 1125.0,
+   "precio_2da": 1424.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 47.3,
+   "score": 1578,
+   "pr": {
+    "Carrefour": [
+     1424.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-pequenos-pollo-471035/p"
+    ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perros-pedigree-pollo-100-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-pollo-100-gr/p"
+    ],
+    "ChangoMás": [
+     1459.0,
+     "https://www.masonline.com.ar/alimento-adulto-raza-peq-pollo-pedigree-pouch-100-gr-2/p"
     ]
    }
   },
@@ -1469,6 +1539,33 @@
     "ChangoMás": [
      1459.0,
      "https://www.masonline.com.ar/alimento-humedo-pouch-gatito-carne-souffle-whiskas-85gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Gallo snacks crackeadas 100 g.",
+   "m": "Gallo Snacks",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318028/7790070418401_01.jpg?v=638180311088900000",
+   "cadena": "Jumbo",
+   "precio": 2070.0,
+   "link": "https://www.jumbo.com.ar/galleta-de-arroz-gallo-snack-crackeadas-x-100-gr-2/p",
+   "referencia": 3450.0,
+   "precio_2da": 3390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.9,
+   "score": 1558,
+   "pr": {
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-gallo-snacks-crackeadas-100-g-718342/p"
+    ],
+    "Jumbo": [
+     2070.0,
+     "https://www.jumbo.com.ar/galleta-de-arroz-gallo-snack-crackeadas-x-100-gr-2/p"
+    ],
+    "ChangoMás": [
+     3429.0,
+     "https://www.masonline.com.ar/galletas-de-arroz-gallo-crackeadas-100-g-2/p"
     ]
    }
   },
@@ -1527,37 +1624,6 @@
     "ChangoMás": [
      1459.0,
      "https://www.masonline.com.ar/alimento-adulto-carne-pouch-whiskas-85-gr-3/p"
-    ]
-   }
-  },
-  {
-   "n": "Alimento húmedo para gato Whiskas 85 g. pavo",
-   "m": "Whiskas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274046/7797453000437_02.jpg?v=639122883615270000",
-   "cadena": "Jumbo",
-   "precio": 775.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-gatos-whiskas-pasta-pavo-85-gr/p",
-   "referencia": 1162.5,
-   "precio_2da": 1449.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.5,
-   "score": 1550,
-   "pr": {
-    "Carrefour": [
-     1449.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-gato-whiskas-85-g-pavo-475820/p"
-    ],
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/alimento-para-gatos-whiskas-pasta-pavo-85-gr/p"
-    ],
-    "Jumbo": [
-     775.0,
-     "https://www.jumbo.com.ar/alimento-para-gatos-whiskas-pasta-pavo-85-gr/p"
-    ],
-    "ChangoMás": [
-     1459.0,
-     "https://www.masonline.com.ar/alimento-gato-pavo-pocuh-whiskas-85-gr-2/p"
     ]
    }
   },
@@ -1836,33 +1902,6 @@
    }
   },
   {
-   "n": "Mermelada Arcor durazno sin azúcar 390 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381345/7790580121303_E01.jpg?v=638315050750570000",
-   "cadena": "Jumbo",
-   "precio": 2550.0,
-   "link": "https://www.jumbo.com.ar/mermelada-arcor-durazno-sin-azucar-390-gr/p",
-   "referencia": 3825.0,
-   "precio_2da": 4690.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 45.6,
-   "score": 1521,
-   "pr": {
-    "Carrefour": [
-     4690.0,
-     "https://www.carrefour.com.ar/mermelada-arcor-durazno-sin-azucar-390-g/p"
-    ],
-    "Jumbo": [
-     2550.0,
-     "https://www.jumbo.com.ar/mermelada-arcor-durazno-sin-azucar-390-gr/p"
-    ],
-    "Comodín": [
-     4812.99,
-     "https://www.comodinencasa.com.ar/mermelada-arcor-durazno-0-azuc-x-390-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Mermelada Arcor de damasco 454 g.",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381295/7790580132170_E01.jpg?v=638315050453930000",
@@ -1888,7 +1927,7 @@
      "https://www.jumbo.com.ar/mermelada-damasco-fruta-arcor-454-gr/p"
     ],
     "Comodín": [
-     3359.19,
+     3420.09,
      "https://www.comodinencasa.com.ar/mermelada-arcor-damasco-x-454-gr/p"
     ]
    }
