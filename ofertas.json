@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-23",
- "actualizado": "2026-08-23 08:07",
+ "actualizado": "2026-08-23 11:11",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-22",
   "2026-08-23"
  ],
- "total": 48,
+ "total": 53,
  "ofertas": [
   {
    "n": "Alimento para Perros Húmedo Sabor Carne Adultos 100 Grs Pet's Class",
@@ -248,33 +248,6 @@
    }
   },
   {
-   "n": "Mermelada Sabor Naranja 420 Grs El Brocal",
-   "m": "EL BROCAL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861571/Mermelada-De-Naranja-420-Gr-El-Brocal-1-1070.jpg?v=638793777989730000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/mermelada-de-naranja-420-gr-el-brocal/p",
-   "referencia": 7000.0,
-   "precio_2da": 6740.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2404,
-   "pr": {
-    "Vea": [
-     6750.0,
-     "https://www.vea.com.ar/mermelada-de-naranja-420-gr-el-brocal/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/mermelada-de-naranja-420-gr-el-brocal/p"
-    ],
-    "Carrefour": [
-     6740.0,
-     "https://www.carrefour.com.ar/mermelada-el-brocal-de-naranja-inglesa-frasco-420-g-281377/p"
-    ]
-   }
-  },
-  {
    "n": "Alimento para Perros Húmedo Sabor Pollo Adulto 340 Grs Pedigree",
    "m": "PEDIGREE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/586392/Alimento-Para-Perros-Pedigree-Pollo-340-Kg-1-7442.jpg?v=637265784134200000",
@@ -461,6 +434,10 @@
      2185.2,
      "https://www.comodinencasa.com.ar/limpiador-pinoluz-aceite-de-pino-900-ml/p"
     ],
+    "ChangoMás": [
+     2289.0,
+     "https://www.masonline.com.ar/limpiador-de-pisos-pino-luz-pino-900-ml-2/p"
+    ],
     "Carrefour": [
      2199.0,
      "https://www.carrefour.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-900-cc/p"
@@ -634,6 +611,33 @@
    }
   },
   {
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
+   "referencia": 5150.0,
+   "precio_2da": 3347.5,
+   "baja_pct": 60.0,
+   "brecha_pct": 38.4,
+   "score": 2301,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ],
+    "Jumbo": [
+     3347.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ]
+   }
+  },
+  {
    "n": "Dulce de frambuesa light Masseube patagónico sin azúcar 260 g.",
    "m": "Masseube",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/178857/7793482000332_02.jpg?v=637468580579130000",
@@ -715,9 +719,9 @@
    }
   },
   {
-   "n": "Limpiador líquido Glade harmony en botella 875 ml",
-   "m": "Glade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/891925/7790520996435_01.jpg?v=639172199395330000",
+   "n": "Limpiador Líquido Multisuperficies Harmony 875 Ml Glade",
+   "m": "GLADE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900271/Limpiador-L-quido-Multisuperficies-Harmony-875ml-Glade-1-1034285.jpg?v=639074797855000000",
    "cadena": "Jumbo",
    "precio": 1600.0,
    "link": "https://www.jumbo.com.ar/limpiador-liquido-multisuperficies-harmony-875-ml-glade/p",
@@ -727,10 +731,6 @@
    "brecha_pct": 44.8,
    "score": 2240,
    "pr": {
-    "Carrefour": [
-     2899.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-glade-hermony-en-botella-875-ml-754119/p"
-    ],
     "Vea": [
      3190.0,
      "https://www.vea.com.ar/limpiador-liquido-multisuperficies-harmony-875-ml-glade/p"
@@ -738,6 +738,14 @@
     "Jumbo": [
      1600.0,
      "https://www.jumbo.com.ar/limpiador-liquido-multisuperficies-harmony-875-ml-glade/p"
+    ],
+    "ChangoMás": [
+     3049.0,
+     "https://www.masonline.com.ar/limpiador-liquido-multisuperficies-glade-harmony-botella-900ml-2/p"
+    ],
+    "Carrefour": [
+     2899.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-glade-hermony-en-botella-875-ml-754119/p"
     ]
    }
   },
@@ -877,37 +885,6 @@
    }
   },
   {
-   "n": "Galletitas Chocolina de chocolate 250 g.",
-   "m": "Chocolinas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/472678/7790040143234_E01.jpg?v=638427616041630000",
-   "cadena": "Jumbo",
-   "precio": 984.5,
-   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
-   "referencia": 1709.51,
-   "precio_2da": 1969.0,
-   "baja_pct": 42.4,
-   "brecha_pct": 50.0,
-   "score": 2121,
-   "pr": {
-    "Carrefour": [
-     2619.0,
-     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
-    ],
-    "Vea": [
-     1969.0,
-     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
-    ],
-    "Jumbo": [
-     984.5,
-     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
-    ],
-    "ChangoMás": [
-     2949.0,
-     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Lava Coche Silisur Siliconado Manzana X 600cc",
    "m": "SILISUR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/193350/Silisur-Shampoo-Siliconado-Manzana-600-C-Shampoo-Siliconado-De-Manzana-Silsur-600-Cc-1-29706.jpg?v=636383542545700000",
@@ -1024,6 +1001,60 @@
    }
   },
   {
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ],
+    "Jumbo": [
+     3347.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "Jumbo": [
+     3347.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ]
+   }
+  },
+  {
    "n": "Copos De Maíz Tradicionales Granix 400 Gr",
    "m": "GRANIX",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/195009/Copos-De-Maiz-Granix-Copos-De-Maiz-Tradicionales-Granix-400-Gr-1-31371.jpg?v=636383559537130000",
@@ -1113,6 +1144,37 @@
    }
   },
   {
+   "n": "Galletitas Sabor Chocolate 250 Grs Chocolinas",
+   "m": "CHOCOLINAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814283/Galletitas-Chocolinas-X250g-1-1008715.jpg?v=638452605691770000",
+   "cadena": "Jumbo",
+   "precio": 984.5,
+   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
+   "referencia": 1450.01,
+   "precio_2da": 1969.0,
+   "baja_pct": 32.1,
+   "brecha_pct": 50.0,
+   "score": 1605,
+   "pr": {
+    "Vea": [
+     1969.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "Jumbo": [
+     984.5,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "ChangoMás": [
+     2949.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    ],
+    "Carrefour": [
+     2619.0,
+     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
+    ]
+   }
+  },
+  {
    "n": "Corn Flakes 200gr",
    "m": "CORN FLAKES",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/882840/Cereal-X-200-Gr-Corn-Flakes-1-1047836.jpg?v=639112548460300000",
@@ -1136,6 +1198,33 @@
     "ChangoMás": [
      2889.0,
      "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Kinder Chocolate 12,5 grs",
+   "m": "Kinder",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/909688/80050315_E01.jpg?v=639213662107800000",
+   "cadena": "Carrefour",
+   "precio": 633.75,
+   "link": "https://www.carrefour.com.ar/kinder-chocolate-12-5-grs-526425/p",
+   "referencia": 1050.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 39.6,
+   "brecha_pct": 39.6,
+   "score": 1572,
+   "pr": {
+    "Carrefour": [
+     633.75,
+     "https://www.carrefour.com.ar/kinder-chocolate-12-5-grs-526425/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chocolate-kinder-12-5-gr/p"
+    ],
+    "Jumbo": [
+     1100.0,
+     "https://www.jumbo.com.ar/chocolate-kinder-12-5-gr/p"
     ]
    }
   },
@@ -1248,12 +1337,12 @@
    }
   },
   {
-   "n": "Alimento húmedo para perro Pedigree 100 g. adultos pequeños pollo",
+   "n": "Alimento húmedo para perro Pedigree 100 g. adultos carne",
    "m": "Pedigree",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274217/7797453000482_02.jpg?v=639122881609000000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/273967/7797453000796_02.jpg?v=639122880150570000",
    "cadena": "Jumbo",
    "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-pollo-100-gr/p",
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-pouch-adulto-100-gr/p",
    "referencia": 1125.0,
    "precio_2da": 1399.0,
    "baja_pct": 33.3,
@@ -1262,19 +1351,108 @@
    "pr": {
     "Carrefour": [
      1399.0,
-     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-pequenos-pollo-471035/p"
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-carne-597820/p"
     ],
     "Vea": [
      1433.0,
-     "https://www.vea.com.ar/alimento-para-perros-pedigree-pollo-100-gr/p"
+     "https://www.vea.com.ar/alimento-para-perros-pedigree-carne-pouch-adulto-100-gr/p"
     ],
     "Jumbo": [
      750.0,
-     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-pollo-100-gr/p"
+     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-pouch-adulto-100-gr/p"
     ],
     "ChangoMás": [
      1459.0,
-     "https://www.masonline.com.ar/alimento-adulto-raza-peq-pollo-pedigree-pouch-100-gr-2/p"
+     "https://www.masonline.com.ar/alimento-perro-razas-grandes-carne-pedigree-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pedigree 85 g. cachorros carne",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274221/7797453000468_02.jpg?v=639122882059830000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-cachorros-85-gr/p",
+   "referencia": 1125.0,
+   "precio_2da": 1399.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 46.4,
+   "score": 1546,
+   "pr": {
+    "Carrefour": [
+     1399.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-85-g-cachorros-carne-471033/p"
+    ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perros-pedigree-cachorros-85-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-cachorros-85-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pedigree 100 g. adultos pequeños carne",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274113/7797453000475_02.jpg?v=639122880483930000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-100-gr/p",
+   "referencia": 1125.0,
+   "precio_2da": 1399.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 46.4,
+   "score": 1546,
+   "pr": {
+    "Carrefour": [
+     1399.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-pequenos-carne-471034/p"
+    ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perros-pedigree-carne-100-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-carne-100-gr/p"
+    ],
+    "ChangoMás": [
+     1459.0,
+     "https://www.masonline.com.ar/alimento-adulto-raza-peq-carne-pouch-pedigree-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pedigree 100 g. mayores 7 años carne",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274050/7797453971768_02.jpg?v=639122884499500000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p",
+   "referencia": 1125.0,
+   "precio_2da": 1399.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 46.4,
+   "score": 1546,
+   "pr": {
+    "Carrefour": [
+     1399.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-mayores-7-anos-carne-628442/p"
+    ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/alimento-para-perros-pedigree-adulto-100-gr/p"
+    ],
+    "ChangoMás": [
+     1459.0,
+     "https://www.masonline.com.ar/alimento-humedo-perro-pouch-adulto-pedigree-100-gr-2/p"
     ]
    }
   },
@@ -1333,33 +1511,6 @@
     "Jumbo": [
      825.0,
      "https://www.jumbo.com.ar/alimento-humedo-para-gato-felix-pescado-blanco-85-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Alimento para Perros Seco Saborizado Cachorros 8 Kg Dogui",
-   "m": "DOGUI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817911/Alimento-Dogui-Cachorros-8kg-1-879436.jpg?v=638481880976500000",
-   "cadena": "Jumbo",
-   "precio": 14550.0,
-   "link": "https://www.jumbo.com.ar/alimento-dogui-cachorros-8-kg/p",
-   "referencia": 24250.0,
-   "precio_2da": 23590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.3,
-   "score": 1533,
-   "pr": {
-    "Vea": [
-     23590.0,
-     "https://www.vea.com.ar/alimento-dogui-cachorros-8-kg/p"
-    ],
-    "Jumbo": [
-     14550.0,
-     "https://www.jumbo.com.ar/alimento-dogui-cachorros-8-kg/p"
-    ],
-    "Comodín": [
-     23680.79,
-     "https://www.comodinencasa.com.ar/alim-dogui-cachorro-carne-c-y-l-x-8kg/p"
     ]
    }
   }
