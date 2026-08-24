@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-24",
- "actualizado": "2026-08-24 11:38",
+ "actualizado": "2026-08-24 14:18",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -51,9 +51,9 @@
    }
   },
   {
-   "n": "Galletas Secas Sabor Queso 96 Grs Traviata",
-   "m": "TRAVIATA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/827543/Galletitas-Queso-Cracker-Kesitas-Traviata-96-Gr-1-1019780.jpg?v=638558014930470000",
+   "n": "Galletitas crackers Traviata + Kesitas 96 g",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547685/7790040143944_E02.jpg?v=638592523063900000",
    "cadena": "ChangoMás",
    "precio": 589.0,
    "link": "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p",
@@ -63,6 +63,10 @@
    "brecha_pct": 39.3,
    "score": 1842,
    "pr": {
+    "Carrefour": [
+     970.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
+    ],
     "Vea": [
      970.0,
      "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
@@ -70,10 +74,6 @@
     "Jumbo": [
      1000.0,
      "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Carrefour": [
-     970.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
     ],
     "Comodín": [
      994.29,
