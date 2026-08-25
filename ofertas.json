@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-24",
- "actualizado": "2026-08-24 14:18",
+ "fecha": "2026-08-25",
+ "actualizado": "2026-08-25 10:43",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-14",
   "2026-08-15",
   "2026-08-16",
   "2026-08-17",
@@ -19,9 +18,10 @@
   "2026-08-21",
   "2026-08-22",
   "2026-08-23",
-  "2026-08-24"
+  "2026-08-24",
+  "2026-08-25"
  ],
- "total": 4,
+ "total": 1,
  "ofertas": [
   {
    "n": "Nuez Moscada Molida 23 Grs La Campagnola",
@@ -47,103 +47,6 @@
     "ChangoMás": [
      1449.0,
      "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas crackers Traviata + Kesitas 96 g",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547685/7790040143944_E02.jpg?v=638592523063900000",
-   "cadena": "ChangoMás",
-   "precio": 589.0,
-   "link": "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p",
-   "referencia": 1109.0,
-   "precio_2da": 970.0,
-   "baja_pct": 46.9,
-   "brecha_pct": 39.3,
-   "score": 1842,
-   "pr": {
-    "Carrefour": [
-     970.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
-    ],
-    "Vea": [
-     970.0,
-     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Jumbo": [
-     1000.0,
-     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Comodín": [
-     994.29,
-     "https://www.comodinencasa.com.ar/galleta-traviata-crack-kesitas-96gr/p"
-    ],
-    "ChangoMás": [
-     589.0,
-     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas crackers Traviata + Rex original 96 g",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/547684/7790040143937_E02.jpg?v=638592523052900000",
-   "cadena": "ChangoMás",
-   "precio": 589.0,
-   "link": "https://www.masonline.com.ar/galletitas-saladas-traviata-rex-sabor-original-96-g-2/p",
-   "referencia": 989.0,
-   "precio_2da": 970.0,
-   "baja_pct": 40.4,
-   "brecha_pct": 39.3,
-   "score": 1589,
-   "pr": {
-    "Carrefour": [
-     970.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-rex-original-96-g-745251/p"
-    ],
-    "Vea": [
-     970.0,
-     "https://www.vea.com.ar/galletitas-cracker-original-traviata-96-gr/p"
-    ],
-    "Jumbo": [
-     1000.0,
-     "https://www.jumbo.com.ar/galletitas-cracker-original-traviata-96-gr/p"
-    ],
-    "Comodín": [
-     994.29,
-     "https://www.comodinencasa.com.ar/galleta-traviata-crack-rex-orig-96gr/p"
-    ],
-    "ChangoMás": [
-     589.0,
-     "https://www.masonline.com.ar/galletitas-saladas-traviata-rex-sabor-original-96-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza IPA 473 Cc Imperial",
-   "m": "IMPERIAL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891199/7793147570743.jpg?v=638996949721100000",
-   "cadena": "Comodín",
-   "precio": 1825.19,
-   "link": "https://www.comodinencasa.com.ar/cerveza-imperial-ipa-lata-473-cc/p",
-   "referencia": 2807.99,
-   "precio_2da": 3322.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.1,
-   "score": 1577,
-   "pr": {
-    "Vea": [
-     3322.0,
-     "https://www.vea.com.ar/cerveza-imperial-ipa-473cc/p"
-    ],
-    "Jumbo": [
-     3425.0,
-     "https://www.jumbo.com.ar/cerveza-imperial-ipa-473cc/p"
-    ],
-    "Comodín": [
-     1825.19,
-     "https://www.comodinencasa.com.ar/cerveza-imperial-ipa-lata-473-cc/p"
     ]
    }
   }
