@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-25",
- "actualizado": "2026-08-25 11:42",
+ "actualizado": "2026-08-25 14:19",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-24",
   "2026-08-25"
  ],
- "total": 2,
+ "total": 3,
  "ofertas": [
   {
    "n": "Nuez Moscada Molida 23 Grs La Campagnola",
@@ -51,29 +51,56 @@
    }
   },
   {
-   "n": "Toallitas Húmedas Huggies Triple Protección 48 U",
-   "m": "HUGGIES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/658794/Toallas-Humedas-Huggies-Triple-Prot-X48-1-875753.jpg?v=637643241766230000",
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
    "cadena": "Carrefour",
-   "precio": 3101.4,
-   "link": "https://www.carrefour.com.ar/toallas-humedas-higgies-triple-proteccion-48-uni-685323/p",
-   "referencia": 5169.0,
-   "precio_2da": 5169.0,
+   "precio": 3594.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
+   "referencia": 5990.0,
+   "precio_2da": 7059.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 49.1,
+   "score": 1963,
    "pr": {
     "Jumbo": [
-     5500.0,
-     "https://www.jumbo.com.ar/toallitas-humedas-huggies-triple-proteccion-48-u/p"
-    ],
-    "ChangoMás": [
-     5169.0,
-     "https://www.masonline.com.ar/toallitas-humedas-huggies-triple-proteccion-48-un-2/p"
+     7200.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
     ],
     "Carrefour": [
-     3101.4,
-     "https://www.carrefour.com.ar/toallas-humedas-higgies-triple-proteccion-48-uni-685323/p"
+     3594.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    ],
+    "ChangoMás": [
+     7059.0,
+     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Efecto Botox 880 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802948/Shampoo-Tresemme-Liso-Efecto-Botox-880-Ml-1-1000671.jpg?v=638375620444300000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-botox-880-cc-730392/p",
+   "referencia": 15290.0,
+   "precio_2da": 17750.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 48.3,
+   "score": 1933,
+   "pr": {
+    "Jumbo": [
+     17750.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+    ],
+    "ChangoMás": [
+     17849.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-botox-880-cc-730392/p"
     ]
    }
   }
