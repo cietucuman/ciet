@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-25",
- "actualizado": "2026-08-25 10:43",
+ "actualizado": "2026-08-25 11:42",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-24",
   "2026-08-25"
  ],
- "total": 1,
+ "total": 2,
  "ofertas": [
   {
    "n": "Nuez Moscada Molida 23 Grs La Campagnola",
@@ -47,6 +47,33 @@
     "ChangoMás": [
      1449.0,
      "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Húmedas Huggies Triple Protección 48 U",
+   "m": "HUGGIES",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/658794/Toallas-Humedas-Huggies-Triple-Prot-X48-1-875753.jpg?v=637643241766230000",
+   "cadena": "Carrefour",
+   "precio": 3101.4,
+   "link": "https://www.carrefour.com.ar/toallas-humedas-higgies-triple-proteccion-48-uni-685323/p",
+   "referencia": 5169.0,
+   "precio_2da": 5169.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Jumbo": [
+     5500.0,
+     "https://www.jumbo.com.ar/toallitas-humedas-huggies-triple-proteccion-48-u/p"
+    ],
+    "ChangoMás": [
+     5169.0,
+     "https://www.masonline.com.ar/toallitas-humedas-huggies-triple-proteccion-48-un-2/p"
+    ],
+    "Carrefour": [
+     3101.4,
+     "https://www.carrefour.com.ar/toallas-humedas-higgies-triple-proteccion-48-uni-685323/p"
     ]
    }
   }
