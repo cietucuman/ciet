@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-25",
- "actualizado": "2026-08-25 14:19",
+ "fecha": "2026-08-26",
+ "actualizado": "2026-08-26 10:48",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-15",
   "2026-08-16",
   "2026-08-17",
   "2026-08-18",
@@ -19,61 +18,240 @@
   "2026-08-22",
   "2026-08-23",
   "2026-08-24",
-  "2026-08-25"
+  "2026-08-25",
+  "2026-08-26"
  ],
- "total": 3,
+ "total": 14,
  "ofertas": [
   {
-   "n": "Nuez Moscada Molida 23 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/741005/Nuez-Moscada-Molida-La-Campagnola-X23gr-1-924787.jpg?v=637997421328400000",
-   "cadena": "ChangoMás",
-   "precio": 1449.0,
-   "link": "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p",
-   "referencia": 2739.0,
-   "precio_2da": 2590.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 44.1,
-   "score": 2075,
+   "n": "Jugo en polvo Verao manzana 7 g. Rinde 1 L",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/272010/7622201717445_E01.jpg?v=638097453944230000",
+   "cadena": "Jumbo",
+   "precio": 145.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p",
+   "referencia": 290.0,
+   "precio_2da": 290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
    "pr": {
+    "Carrefour": [
+     290.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-verao-manzana-7-g-rinde-1-l-711447/p"
+    ],
     "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/nuez-moscada-molida-la-campagnola-x23gr/p"
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
     ],
     "Jumbo": [
-     2900.0,
-     "https://www.jumbo.com.ar/nuez-moscada-molida-la-campagnola-x23gr/p"
-    ],
-    "ChangoMás": [
-     1449.0,
-     "https://www.masonline.com.ar/nuez-moscada-molida-la-campagnola-23-g-2/p"
+     145.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
     ]
    }
   },
   {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
-   "cadena": "Carrefour",
-   "precio": 3594.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 7059.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 49.1,
-   "score": 1963,
+   "n": "Jugo En Polvo Verao Naranja 7gr",
+   "m": "VERAO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775668/Jugo-En-Polvo-Verao-Naranja-7gr-1-941067.jpg?v=638163166846800000",
+   "cadena": "Jumbo",
+   "precio": 145.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p",
+   "referencia": 290.0,
+   "precio_2da": 289.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.8,
+   "score": 2491,
    "pr": {
-    "Jumbo": [
-     7200.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+    "Vea": [
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
     ],
-    "Carrefour": [
-     3594.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    "Jumbo": [
+     145.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
     ],
     "ChangoMás": [
-     7059.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+     289.0,
+     "https://www.masonline.com.ar/verao-jugo-en-polvo-naranja-7g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos monos Lucchetti bolsa 500 g.",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
+   "cadena": "Carrefour",
+   "precio": 1163.5,
+   "link": "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p",
+   "referencia": 2075.0,
+   "precio_2da": 2252.5,
+   "baja_pct": 43.9,
+   "brecha_pct": 48.3,
+   "score": 2124,
+   "pr": {
+    "Carrefour": [
+     1163.5,
+     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
+    ],
+    "Jumbo": [
+     2500.0,
+     "https://www.jumbo.com.ar/fideos-monos-lucchetti-x500-gr-2/p"
+    ],
+    "ChangoMás": [
+     2599.0,
+     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
+    ],
+    "Tuchanguito": [
+     2252.5,
+     "https://www.tuchanguito.com.ar/productos/fid-lucchetti-monos-500-gr/"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas chocolate rellena coco Rumba 110 g.",
+   "m": "Rumba",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/508461/7790040143517_E01.jpg?v=638488762197070000",
+   "cadena": "ChangoMás",
+   "precio": 999.0,
+   "link": "https://www.masonline.com.ar/galletitas-dulces-rumba-rellenas-de-vainilla-110-g-2/p",
+   "referencia": 1869.0,
+   "precio_2da": 1790.0,
+   "baja_pct": 46.5,
+   "brecha_pct": 44.2,
+   "score": 2057,
+   "pr": {
+    "Carrefour": [
+     1790.0,
+     "https://www.carrefour.com.ar/galletitas-chocolate-rellena-coco-rumba-110-g-739661/p"
+    ],
+    "Vea": [
+     1890.0,
+     "https://www.vea.com.ar/galletitas-rumba-110-gr/p"
+    ],
+    "Jumbo": [
+     1900.0,
+     "https://www.jumbo.com.ar/galletitas-rumba-110-gr/p"
+    ],
+    "ChangoMás": [
+     999.0,
+     "https://www.masonline.com.ar/galletitas-dulces-rumba-rellenas-de-vainilla-110-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Goodbye Daños Oil Control 350 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/910632/7790033342163_01.jpg?v=639216240060170000",
+   "cadena": "Carrefour",
+   "precio": 3503.5,
+   "link": "https://www.carrefour.com.ar/shampoo-goodbye-danos-oil-control-350-ml-778485/p",
+   "referencia": 7990.02,
+   "precio_2da": 5390.0,
+   "baja_pct": 56.2,
+   "brecha_pct": 35.0,
+   "score": 1965,
+   "pr": {
+    "Carrefour": [
+     3503.5,
+     "https://www.carrefour.com.ar/shampoo-goodbye-danos-oil-control-350-ml-778485/p"
+    ],
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/shampoo-fructis-oil-control-350ml/p"
+    ],
+    "Jumbo": [
+     5427.5,
+     "https://www.jumbo.com.ar/shampoo-fructis-oil-control-350ml/p"
+    ],
+    "ChangoMás": [
+     8309.0,
+     "https://www.masonline.com.ar/shampoo-garnier-fructis-goodbye-danos-350-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja 7 Grs Bc",
+   "m": "BC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665707/Jugo-En-Polvo-Bc-Naranja7gr-1-878219.jpg?v=637670794122730000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 409.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.9,
+   "score": 1944,
+   "pr": {
+    "Vea": [
+     440.0,
+     "https://www.vea.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     409.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-7-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Ananá 7 Grs Bc",
+   "m": "BC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665694/Jugo-En-Polvo-Bc-Anana-7gr-1-878201.jpg?v=637670794022630000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 409.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.9,
+   "score": 1944,
+   "pr": {
+    "Vea": [
+     440.0,
+     "https://www.vea.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-anana-bc-7-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja Dulce 7 Grs Bc",
+   "m": "BC",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665701/Jugo-En-Polvo-Bc-Naranja-Dulce-7gr-1-878213.jpg?v=637670794044370000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
+   "referencia": 500.0,
+   "precio_2da": 409.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.9,
+   "score": 1944,
+   "pr": {
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     409.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
     ]
    }
   },
@@ -101,6 +279,145 @@
     "Carrefour": [
      9174.0,
      "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-botox-880-cc-730392/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Oreo de chocolate rellenas de menta 118 grs",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912638/7622202373046_01.jpg?v=639220558736130000",
+   "cadena": "Carrefour",
+   "precio": 1252.39,
+   "link": "https://www.carrefour.com.ar/galletitas-oreo-de-chocolate-rellenas-de-menta-118-grs-773823/p",
+   "referencia": 1926.75,
+   "precio_2da": 2590.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 51.6,
+   "score": 1808,
+   "pr": {
+    "Carrefour": [
+     1252.39,
+     "https://www.carrefour.com.ar/galletitas-oreo-de-chocolate-rellenas-de-menta-118-grs-773823/p"
+    ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/galletitas-oreo-de-menta-118gr/p"
+    ],
+    "Jumbo": [
+     2700.0,
+     "https://www.jumbo.com.ar/galletitas-oreo-de-menta-118gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Brillo Lamelar 500 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865493/Acondicionador-Brillo-Lamelar-X-500-Ml-Tresemm-1-1037021.jpg?v=638814514354500000",
+   "cadena": "Carrefour",
+   "precio": 6191.4,
+   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-500-ml-760559/p",
+   "referencia": 10319.0,
+   "precio_2da": 11239.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 44.9,
+   "score": 1796,
+   "pr": {
+    "Jumbo": [
+     11550.0,
+     "https://www.jumbo.com.ar/acondicionador-brillo-lamelar-x-500-ml-tresemme-2/p"
+    ],
+    "ChangoMás": [
+     11239.0,
+     "https://www.masonline.com.ar/acondicionador-tresemme-brillo-lamelar-500ml-2/p"
+    ],
+    "Carrefour": [
+     6191.4,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-500-ml-760559/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas pepas 9 de Oro 500 g.",
+   "m": "9 De Oro",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365075/7792180143273_E02.jpg?v=638267698150300000",
+   "cadena": "Carrefour",
+   "precio": 1864.85,
+   "link": "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p",
+   "referencia": 2869.0,
+   "precio_2da": 3590.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.1,
+   "score": 1682,
+   "pr": {
+    "Carrefour": [
+     1864.85,
+     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p"
+    ],
+    "Vea": [
+     3590.0,
+     "https://www.vea.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ],
+    "Jumbo": [
+     3700.0,
+     "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Formitas de pollo Sadia Nugget Saurio 400 grs",
+   "m": "Sadia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861263/7891515629458_E02.jpg?v=639130066692470000",
+   "cadena": "Carrefour",
+   "precio": 4461.0,
+   "link": "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p",
+   "referencia": 7435.0,
+   "precio_2da": 7248.79,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.5,
+   "score": 1538,
+   "pr": {
+    "Carrefour": [
+     4461.0,
+     "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p"
+    ],
+    "Vea": [
+     7400.0,
+     "https://www.vea.com.ar/nuggets-saurio-x-400-gr-sadia/p"
+    ],
+    "Jumbo": [
+     7650.0,
+     "https://www.jumbo.com.ar/nuggets-saurio-x-400-gr-sadia/p"
+    ],
+    "Comodín": [
+     7248.79,
+     "https://www.comodinencasa.com.ar/nuggets-de-pollo-sadia-saurio-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos al huevo Lucchetti tirabuzón 500 grs",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913981/7790070337085_01.jpg?v=639222223421930000",
+   "cadena": "Carrefour",
+   "precio": 1234.35,
+   "link": "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-tirabuzon-500-grs-733266/p",
+   "referencia": 1899.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.6,
+   "score": 1527,
+   "pr": {
+    "Carrefour": [
+     1234.35,
+     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-tirabuzon-500-grs-733266/p"
+    ],
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/fideos-tirabuzon-al-huevo-n-34-lucchetti-x-500-gr/p"
+    ],
+    "Jumbo": [
+     2200.0,
+     "https://www.jumbo.com.ar/fideos-tirabuzon-al-huevo-n-34-lucchetti-x-500-gr/p"
     ]
    }
   }
