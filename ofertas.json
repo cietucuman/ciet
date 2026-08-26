@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-26",
- "actualizado": "2026-08-26 13:55",
+ "actualizado": "2026-08-26 16:57",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-25",
   "2026-08-26"
  ],
- "total": 32,
+ "total": 35,
  "ofertas": [
   {
    "n": "Jugo en polvo Verao manzana 7 g. Rinde 1 L",
@@ -399,29 +399,56 @@
    }
   },
   {
-   "n": "Galletitas pepas 9 de Oro 500 g.",
-   "m": "9 De Oro",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365075/7792180143273_E02.jpg?v=638267698150300000",
+   "n": "Shampoo Cauterización Reparadora 500 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865494/Shampoo-Cauterizaci-n-Reparadora-X-500-Ml-Tresemm-1-1037022.jpg?v=638814514358730000",
    "cadena": "Carrefour",
-   "precio": 1864.85,
-   "link": "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p",
-   "referencia": 2869.0,
-   "precio_2da": 3590.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 48.1,
-   "score": 1682,
+   "precio": 6191.4,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p",
+   "referencia": 10319.0,
+   "precio_2da": 11239.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 44.9,
+   "score": 1796,
    "pr": {
-    "Carrefour": [
-     1864.85,
-     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p"
-    ],
-    "Vea": [
-     3590.0,
-     "https://www.vea.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
-    ],
     "Jumbo": [
-     3700.0,
-     "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+     11250.0,
+     "https://www.jumbo.com.ar/shampoo-cauterizacion-reparadora-x-500-ml-tresemme/p"
+    ],
+    "ChangoMás": [
+     11239.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-cauterizacion-reparadora-500ml-2/p"
+    ],
+    "Carrefour": [
+     6191.4,
+     "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Brillo Lamelar 500 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865493/Acondicionador-Brillo-Lamelar-X-500-Ml-Tresemm-1-1037021.jpg?v=638814514354500000",
+   "cadena": "Carrefour",
+   "precio": 6191.4,
+   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-500-ml-760559/p",
+   "referencia": 10319.0,
+   "precio_2da": 11239.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 44.9,
+   "score": 1796,
+   "pr": {
+    "Jumbo": [
+     11550.0,
+     "https://www.jumbo.com.ar/acondicionador-brillo-lamelar-x-500-ml-tresemme-2/p"
+    ],
+    "ChangoMás": [
+     11239.0,
+     "https://www.masonline.com.ar/acondicionador-tresemme-brillo-lamelar-500ml-2/p"
+    ],
+    "Carrefour": [
+     6191.4,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-500-ml-760559/p"
     ]
    }
   },
@@ -453,9 +480,9 @@
    }
   },
   {
-   "n": "Yogur Batido Sabor Natural 300 Gr Ser",
-   "m": "SER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869618/Yogur-Batido-Sabor-Natural-300-Gr-Ser-1-972518.jpg?v=638842270263500000",
+   "n": "Yogur batido sabor natural Ser 300 grs",
+   "m": "Ser",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/667559/7791337007208_E01.jpg?v=638841243194200000",
    "cadena": "Vea",
    "precio": 2970.0,
    "link": "https://www.vea.com.ar/yogur-batido-sabor-natural-300-gr-ser/p",
@@ -465,6 +492,10 @@
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
+    "Carrefour": [
+     4950.0,
+     "https://www.carrefour.com.ar/yagur-batido-sabor-natural-ser-300-grs-721998/p"
+    ],
     "Vea": [
      2970.0,
      "https://www.vea.com.ar/yogur-batido-sabor-natural-300-gr-ser/p"
@@ -472,10 +503,6 @@
     "Jumbo": [
      5450.0,
      "https://www.jumbo.com.ar/yogur-batido-sabor-natural-300-gr-ser/p"
-    ],
-    "Carrefour": [
-     4950.0,
-     "https://www.carrefour.com.ar/yagur-batido-sabor-natural-ser-300-grs-721998/p"
     ]
    }
   },
@@ -681,6 +708,37 @@
    }
   },
   {
+   "n": "Rebozador Fortificado 500 Grs Preferido",
+   "m": "PREFERIDO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853971/Rebozador-Preferido-Fortificado-500g-1-1001063.jpg?v=638733300108370000",
+   "cadena": "Vea",
+   "precio": 1259.4,
+   "link": "https://www.vea.com.ar/rebozador-preferido-fortificado-500g/p",
+   "referencia": 2099.0,
+   "precio_2da": 2069.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1565,
+   "pr": {
+    "Vea": [
+     1259.4,
+     "https://www.vea.com.ar/rebozador-preferido-fortificado-500g/p"
+    ],
+    "Jumbo": [
+     2200.0,
+     "https://www.jumbo.com.ar/rebozador-preferido-fortificado-500g/p"
+    ],
+    "Carrefour": [
+     2069.0,
+     "https://www.carrefour.com.ar/rebozador-preferido-en-bolsa-500-g-733211/p"
+    ],
+    "ChangoMás": [
+     2069.0,
+     "https://www.masonline.com.ar/rebozador-preferido-500-g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Yogur Danonino bebible Sabor Vainilla 185 grs",
    "m": "Danonino",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849297/7791337008700_01.jpg?v=639119585173870000",
@@ -789,6 +847,33 @@
     "Jumbo": [
      8050.0,
      "https://www.jumbo.com.ar/maquina-desechable-venus-suave-2u/p"
+    ]
+   }
+  },
+  {
+   "n": "Pan rallado Preferido de ajo y perejil 500 g.",
+   "m": "Preferido",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913985/7790070433237_01.jpg?v=639222224103300000",
+   "cadena": "Vea",
+   "precio": 1499.4,
+   "link": "https://www.vea.com.ar/pan-rall-preferido-ajo-y-perej-fortificado-x500g/p",
+   "referencia": 2499.0,
+   "precio_2da": 2449.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1551,
+   "pr": {
+    "Carrefour": [
+     2449.0,
+     "https://www.carrefour.com.ar/pan-rallado-preferido-de-ajo-y-perejil-500-g-733217/p"
+    ],
+    "Vea": [
+     1499.4,
+     "https://www.vea.com.ar/pan-rall-preferido-ajo-y-perej-fortificado-x500g/p"
+    ],
+    "Jumbo": [
+     2550.0,
+     "https://www.jumbo.com.ar/pan-rall-preferido-ajo-y-perej-fortificado-x500g/p"
     ]
    }
   },
