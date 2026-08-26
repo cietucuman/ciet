@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-26",
- "actualizado": "2026-08-26 10:48",
+ "actualizado": "2026-08-26 13:55",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-25",
   "2026-08-26"
  ],
- "total": 14,
+ "total": 32,
  "ofertas": [
   {
    "n": "Jugo en polvo Verao manzana 7 g. Rinde 1 L",
@@ -109,9 +109,9 @@
    }
   },
   {
-   "n": "Galletitas chocolate rellena coco Rumba 110 g.",
-   "m": "Rumba",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/508461/7790040143517_E01.jpg?v=638488762197070000",
+   "n": "Galletitas Sabor Chocolate y Coco 110 Grs Rumba",
+   "m": "RUMBA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/894409/Galletitas-Rumba-110-Gr-1-1014444.jpg?v=639023602623570000",
    "cadena": "ChangoMás",
    "precio": 999.0,
    "link": "https://www.masonline.com.ar/galletitas-dulces-rumba-rellenas-de-vainilla-110-g-2/p",
@@ -121,10 +121,6 @@
    "brecha_pct": 44.2,
    "score": 2057,
    "pr": {
-    "Carrefour": [
-     1790.0,
-     "https://www.carrefour.com.ar/galletitas-chocolate-rellena-coco-rumba-110-g-739661/p"
-    ],
     "Vea": [
      1890.0,
      "https://www.vea.com.ar/galletitas-rumba-110-gr/p"
@@ -136,37 +132,10 @@
     "ChangoMás": [
      999.0,
      "https://www.masonline.com.ar/galletitas-dulces-rumba-rellenas-de-vainilla-110-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Goodbye Daños Oil Control 350 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/910632/7790033342163_01.jpg?v=639216240060170000",
-   "cadena": "Carrefour",
-   "precio": 3503.5,
-   "link": "https://www.carrefour.com.ar/shampoo-goodbye-danos-oil-control-350-ml-778485/p",
-   "referencia": 7990.02,
-   "precio_2da": 5390.0,
-   "baja_pct": 56.2,
-   "brecha_pct": 35.0,
-   "score": 1965,
-   "pr": {
+    ],
     "Carrefour": [
-     3503.5,
-     "https://www.carrefour.com.ar/shampoo-goodbye-danos-oil-control-350-ml-778485/p"
-    ],
-    "Vea": [
-     5390.0,
-     "https://www.vea.com.ar/shampoo-fructis-oil-control-350ml/p"
-    ],
-    "Jumbo": [
-     5427.5,
-     "https://www.jumbo.com.ar/shampoo-fructis-oil-control-350ml/p"
-    ],
-    "ChangoMás": [
-     8309.0,
-     "https://www.masonline.com.ar/shampoo-garnier-fructis-goodbye-danos-350-ml/p"
+     1790.0,
+     "https://www.carrefour.com.ar/galletitas-chocolate-rellena-coco-rumba-110-g-739661/p"
     ]
    }
   },
@@ -283,6 +252,126 @@
    }
   },
   {
+   "n": "Acondicionador 3 Minute Miracle Nutrición 170 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/844059/Acondicionador-Pantene-3-Minute-Miracle-Nutrici-n-170-Ml-1-1017662.jpg?v=638660722207200000",
+   "cadena": "Vea",
+   "precio": 5950.0,
+   "link": "https://www.vea.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p",
+   "referencia": 10399.0,
+   "precio_2da": 10809.0,
+   "baja_pct": 42.8,
+   "brecha_pct": 45.0,
+   "score": 1923,
+   "pr": {
+    "Vea": [
+     5950.0,
+     "https://www.vea.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     10950.0,
+     "https://www.jumbo.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
+    ],
+    "ChangoMás": [
+     10809.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-pro-v-3-minute-miracle-nutri-perlas-170ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur Cremoso Vainilla Descremado La Serenísima Nutrición Activa 120 grs",
+   "m": "La Serenísima",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849305/7791337010307_01.jpg?v=639119595659930000",
+   "cadena": "Vea",
+   "precio": 714.0,
+   "link": "https://www.vea.com.ar/yogur-cremoso-ffs-sabor-vainilla-descremado-120-grs-la-serenisima/p",
+   "referencia": 1190.0,
+   "precio_2da": 1335.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.5,
+   "score": 1861,
+   "pr": {
+    "Carrefour": [
+     1335.0,
+     "https://www.carrefour.com.ar/yogur-cremoso-vainilla-descremado-la-serenisima-nutricion-activa-120-grs-774679/p"
+    ],
+    "Vea": [
+     714.0,
+     "https://www.vea.com.ar/yogur-cremoso-ffs-sabor-vainilla-descremado-120-grs-la-serenisima/p"
+    ],
+    "Jumbo": [
+     1350.0,
+     "https://www.jumbo.com.ar/yogur-cremoso-ffs-sabor-vainilla-descremado-120-grs-la-serenisima/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogurt Sabor Frutilla Firme Semidescremado 120 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/897774/Yogurt-Firme-Frutilla-120g-Nutrici-n-Activa-La-Seren-sima-1-1053808.jpg?v=639143663112630000",
+   "cadena": "Vea",
+   "precio": 714.0,
+   "link": "https://www.vea.com.ar/yogur-firme-ffs-entero-sabor-frutilla-120-grs-la-serenisima/p",
+   "referencia": 1190.0,
+   "precio_2da": 1335.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.5,
+   "score": 1861,
+   "pr": {
+    "Vea": [
+     714.0,
+     "https://www.vea.com.ar/yogur-firme-ffs-entero-sabor-frutilla-120-grs-la-serenisima/p"
+    ],
+    "Jumbo": [
+     1350.0,
+     "https://www.jumbo.com.ar/yogur-firme-ffs-entero-sabor-frutilla-120-grs-la-serenisima/p"
+    ],
+    "ChangoMás": [
+     1335.0,
+     "https://www.masonline.com.ar/yogur-la-serenisima-firme-entero-de-frutilla-120g-2/p"
+    ],
+    "Carrefour": [
+     1335.0,
+     "https://www.carrefour.com.ar/yogur-firme-entero-sabor-frutilla-la-serenisima-nutricion-activa-120-grs-774685/p"
+    ]
+   }
+  },
+  {
+   "n": "Repuesto Venus Original 2r",
+   "m": "VENUS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/571117/Cartuchos-Para-Afeitar-Gillette-Venus-Sensitive-2-Unidades-1-26874.jpg?v=637157796823570000",
+   "cadena": "Vea",
+   "precio": 6750.0,
+   "link": "https://www.vea.com.ar/repuesto-venus-original-2r/p",
+   "referencia": 12399.0,
+   "precio_2da": 11229.0,
+   "baja_pct": 45.6,
+   "brecha_pct": 39.9,
+   "score": 1817,
+   "pr": {
+    "Vea": [
+     6750.0,
+     "https://www.vea.com.ar/repuesto-venus-original-2r/p"
+    ],
+    "Jumbo": [
+     13350.0,
+     "https://www.jumbo.com.ar/repuesto-venus-original-2r/p"
+    ],
+    "Comodín": [
+     13968.29,
+     "https://www.comodinencasa.com.ar/cartucho-venus-original-2un/p"
+    ],
+    "ChangoMás": [
+     11229.0,
+     "https://www.masonline.com.ar/repuesto-venus-maquina-de-afeitar-2un-2/p"
+    ],
+    "Carrefour": [
+     11229.0,
+     "https://www.carrefour.com.ar/repuesto-para-maquina-de-afeitar-mujer-gillette-venus-original-con-hojas-2-uni-536812/p"
+    ]
+   }
+  },
+  {
    "n": "Galletitas Oreo de chocolate rellenas de menta 118 grs",
    "m": "Oreo",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912638/7622202373046_01.jpg?v=639220558736130000",
@@ -310,33 +399,6 @@
    }
   },
   {
-   "n": "Acondicionador Brillo Lamelar 500 Ml Tresemmé",
-   "m": "TRESEMMÉ",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865493/Acondicionador-Brillo-Lamelar-X-500-Ml-Tresemm-1-1037021.jpg?v=638814514354500000",
-   "cadena": "Carrefour",
-   "precio": 6191.4,
-   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-500-ml-760559/p",
-   "referencia": 10319.0,
-   "precio_2da": 11239.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 44.9,
-   "score": 1796,
-   "pr": {
-    "Jumbo": [
-     11550.0,
-     "https://www.jumbo.com.ar/acondicionador-brillo-lamelar-x-500-ml-tresemme-2/p"
-    ],
-    "ChangoMás": [
-     11239.0,
-     "https://www.masonline.com.ar/acondicionador-tresemme-brillo-lamelar-500ml-2/p"
-    ],
-    "Carrefour": [
-     6191.4,
-     "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-500-ml-760559/p"
-    ]
-   }
-  },
-  {
    "n": "Galletitas pepas 9 de Oro 500 g.",
    "m": "9 De Oro",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365075/7792180143273_E02.jpg?v=638267698150300000",
@@ -360,6 +422,435 @@
     "Jumbo": [
      3700.0,
      "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Patitas De Pollo Granja Del Sol Picantes X 400 Gr",
+   "m": "GRANJA DEL SOL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835016/Patitas-De-Pollo-Granja-Del-Sol-Picantes-X400g-Patitas-De-Pollo-Granja-Del-Sol-Picantes-X-400-Gr-1-1025135.jpg?v=638618493737230000",
+   "cadena": "Vea",
+   "precio": 5334.0,
+   "link": "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-picantes-x-400-gr/p",
+   "referencia": 8500.0,
+   "precio_2da": 9650.0,
+   "baja_pct": 37.2,
+   "brecha_pct": 44.7,
+   "score": 1666,
+   "pr": {
+    "Vea": [
+     5334.0,
+     "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-picantes-x-400-gr/p"
+    ],
+    "Jumbo": [
+     9650.0,
+     "https://www.jumbo.com.ar/patitas-de-pollo-granja-del-sol-picantes-x-400-gr/p"
+    ],
+    "ChangoMás": [
+     9919.0,
+     "https://www.masonline.com.ar/patitas-de-pollo-granja-de-sol-400g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur Batido Sabor Natural 300 Gr Ser",
+   "m": "SER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869618/Yogur-Batido-Sabor-Natural-300-Gr-Ser-1-972518.jpg?v=638842270263500000",
+   "cadena": "Vea",
+   "precio": 2970.0,
+   "link": "https://www.vea.com.ar/yogur-batido-sabor-natural-300-gr-ser/p",
+   "referencia": 4950.0,
+   "precio_2da": 4950.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     2970.0,
+     "https://www.vea.com.ar/yogur-batido-sabor-natural-300-gr-ser/p"
+    ],
+    "Jumbo": [
+     5450.0,
+     "https://www.jumbo.com.ar/yogur-batido-sabor-natural-300-gr-ser/p"
+    ],
+    "Carrefour": [
+     4950.0,
+     "https://www.carrefour.com.ar/yagur-batido-sabor-natural-ser-300-grs-721998/p"
+    ]
+   }
+  },
+  {
+   "n": "Pizza de mozzarella y jamón Sibarita en caja 530 grs",
+   "m": "Sibarita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854581/7790070040046_E01.jpg?v=639123147335230000",
+   "cadena": "Vea",
+   "precio": 10554.0,
+   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p",
+   "referencia": 17590.0,
+   "precio_2da": 17579.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1598,
+   "pr": {
+    "Carrefour": [
+     17579.0,
+     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
+    ],
+    "Vea": [
+     10554.0,
+     "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
+    ],
+    "Jumbo": [
+     18100.0,
+     "https://www.jumbo.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
+    ]
+   }
+  },
+  {
+   "n": "Pizza Sibarita Mozzarella Clásica X470g",
+   "m": "SIBARITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923134/7790070040015.jpg?v=639214548930330000",
+   "cadena": "Vea",
+   "precio": 7494.0,
+   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-clasica-x470g/p",
+   "referencia": 12490.0,
+   "precio_2da": 12479.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.9,
+   "score": 1598,
+   "pr": {
+    "Vea": [
+     7494.0,
+     "https://www.vea.com.ar/pizza-sibarita-mozzarella-clasica-x470g/p"
+    ],
+    "Jumbo": [
+     12900.0,
+     "https://www.jumbo.com.ar/pizza-sibarita-mozzarella-clasica-x470g/p"
+    ],
+    "Carrefour": [
+     12479.0,
+     "https://www.carrefour.com.ar/pizza-de-muzzarella-clasica-sibarita-en-caja-470-grs-752706/p"
+    ],
+    "ChangoMás": [
+     12479.0,
+     "https://www.masonline.com.ar/pizza-a-la-piedra-sibarita-mozzarella-470-g-1u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Patitas De Pollo Granja Del Sol 1100 Gr",
+   "m": "GRANJA DEL SOL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923546/7790070035950.jpg?v=639219641862070000",
+   "cadena": "Vea",
+   "precio": 15594.0,
+   "link": "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-1100-gr/p",
+   "referencia": 25190.0,
+   "precio_2da": 26679.0,
+   "baja_pct": 38.1,
+   "brecha_pct": 41.5,
+   "score": 1583,
+   "pr": {
+    "Vea": [
+     15594.0,
+     "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-1100-gr/p"
+    ],
+    "Jumbo": [
+     27150.0,
+     "https://www.jumbo.com.ar/patitas-de-pollo-granja-del-sol-1100-gr/p"
+    ],
+    "ChangoMás": [
+     26679.0,
+     "https://www.masonline.com.ar/patitas-de-pollo-granja-del-sol-1100g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Relleno para fajitas Granja del Sol pollo y vegetales 500 grs",
+   "m": "Granja Del Sol",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/826708/7790070103918_E01.jpg?v=639087686390670000",
+   "cadena": "Vea",
+   "precio": 6594.0,
+   "link": "https://www.vea.com.ar/relleno-de-vegetales-y-pollo-para-fajitas-500grs-granja-del-sol/p",
+   "referencia": 10990.0,
+   "precio_2da": 10909.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.6,
+   "score": 1582,
+   "pr": {
+    "Carrefour": [
+     10909.0,
+     "https://www.carrefour.com.ar/relleno-para-fajitas-granja-del-sol-pollo-y-vegetales-500-grs-775840/p"
+    ],
+    "Vea": [
+     6594.0,
+     "https://www.vea.com.ar/relleno-de-vegetales-y-pollo-para-fajitas-500grs-granja-del-sol/p"
+    ],
+    "Jumbo": [
+     11200.0,
+     "https://www.jumbo.com.ar/relleno-de-vegetales-y-pollo-para-fajitas-500grs-granja-del-sol/p"
+    ],
+    "ChangoMás": [
+     10909.0,
+     "https://www.masonline.com.ar/relleno-para-fajitas-granja-del-sol-vegetales-y-pollo-500-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur firme sabor frutilla Ser 190 grs",
+   "m": "Ser",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834427/7791337007864_E01.jpg?v=639102409290930000",
+   "cadena": "Vea",
+   "precio": 1734.0,
+   "link": "https://www.vea.com.ar/yogur-firme-sabor-frutilla-190-grs-ser-2/p",
+   "referencia": 2890.0,
+   "precio_2da": 2860.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.4,
+   "score": 1575,
+   "pr": {
+    "Carrefour": [
+     2860.0,
+     "https://www.carrefour.com.ar/yogur-firme-sabor-frutilla-ser-190-grs-717782/p"
+    ],
+    "Vea": [
+     1734.0,
+     "https://www.vea.com.ar/yogur-firme-sabor-frutilla-190-grs-ser-2/p"
+    ],
+    "Jumbo": [
+     3050.0,
+     "https://www.jumbo.com.ar/yogur-firme-sabor-frutilla-190-grs-ser-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Patitas De Pollo Granja Del Sol Con Cheddar X 400 Gr",
+   "m": "GRANJA DEL SOL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835014/Patitas-De-Pollo-Granja-Del-Sol-Con-Cheddar-X4-Patitas-De-Pollo-Granja-Del-Sol-Con-Cheddar-X-400-Gr-1-1025129.jpg?v=638618493719600000",
+   "cadena": "Vea",
+   "precio": 5394.0,
+   "link": "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-con-cheddar-x-400-gr/p",
+   "referencia": 8890.0,
+   "precio_2da": 8979.0,
+   "baja_pct": 39.3,
+   "brecha_pct": 39.9,
+   "score": 1570,
+   "pr": {
+    "Vea": [
+     5394.0,
+     "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-con-cheddar-x-400-gr/p"
+    ],
+    "Jumbo": [
+     9250.0,
+     "https://www.jumbo.com.ar/patitas-de-pollo-granja-del-sol-con-cheddar-x-400-gr/p"
+    ],
+    "ChangoMás": [
+     8979.0,
+     "https://www.masonline.com.ar/patitas-de-pollo-con-cheddar-400-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur firme sabor vainilla Ser 190 grs",
+   "m": "Ser",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834304/7791337007246_E01.jpg?v=639102374694070000",
+   "cadena": "Vea",
+   "precio": 1734.0,
+   "link": "https://www.vea.com.ar/yogur-firme-sabor-vainilla-190-grs-ser/p",
+   "referencia": 2890.0,
+   "precio_2da": 2850.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.2,
+   "score": 1566,
+   "pr": {
+    "Carrefour": [
+     2850.0,
+     "https://www.carrefour.com.ar/yogur-firme-sabor-vainilla-ser-190-grs-717781/p"
+    ],
+    "Vea": [
+     1734.0,
+     "https://www.vea.com.ar/yogur-firme-sabor-vainilla-190-grs-ser/p"
+    ],
+    "Jumbo": [
+     3050.0,
+     "https://www.jumbo.com.ar/yogur-firme-sabor-vainilla-190-grs-ser/p"
+    ],
+    "Comodín": [
+     3267.69,
+     "https://www.comodinencasa.com.ar/yogur-ser-firme-saboriz-vainilla-x190gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur Danonino bebible Sabor Vainilla 185 grs",
+   "m": "Danonino",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849297/7791337008700_01.jpg?v=639119585173870000",
+   "cadena": "Vea",
+   "precio": 1980.0,
+   "link": "https://www.vea.com.ar/yogur-bebible-sabor-vainilla-185-gr-danonino-2/p",
+   "referencia": 3300.0,
+   "precio_2da": 3249.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1562,
+   "pr": {
+    "Carrefour": [
+     3249.0,
+     "https://www.carrefour.com.ar/yogur-danonino-bebible-sabor-vainilla-185-grs-739583/p"
+    ],
+    "Vea": [
+     1980.0,
+     "https://www.vea.com.ar/yogur-bebible-sabor-vainilla-185-gr-danonino-2/p"
+    ],
+    "Jumbo": [
+     3400.0,
+     "https://www.jumbo.com.ar/yogur-bebible-sabor-vainilla-185-gr-danonino-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Bocaditos de pollo Patitas sabor original 400 grs",
+   "m": "Patitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845711/7790070036599_E01.jpg?v=639111815306700000",
+   "cadena": "Vea",
+   "precio": 5334.0,
+   "link": "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-original-x-400-gr/p",
+   "referencia": 8690.0,
+   "precio_2da": 8950.0,
+   "baja_pct": 38.6,
+   "brecha_pct": 40.4,
+   "score": 1560,
+   "pr": {
+    "Carrefour": [
+     8979.0,
+     "https://www.carrefour.com.ar/bocaditos-de-pollo-patitas-sabor-original-400-grs-747508/p"
+    ],
+    "Vea": [
+     5334.0,
+     "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-original-x-400-gr/p"
+    ],
+    "Jumbo": [
+     8950.0,
+     "https://www.jumbo.com.ar/patitas-de-pollo-granja-del-sol-original-x-400-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur Danonino bebible Sabor Frutilla 185 grs",
+   "m": "Danonino",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849296/7791337008694_01.jpg?v=639119584011030000",
+   "cadena": "Vea",
+   "precio": 1980.0,
+   "link": "https://www.vea.com.ar/yogur-bebible-sabor-frutilla-185-gr-danonino-2/p",
+   "referencia": 3300.0,
+   "precio_2da": 3245.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.0,
+   "score": 1559,
+   "pr": {
+    "Carrefour": [
+     3249.0,
+     "https://www.carrefour.com.ar/yogur-danonino-bebible-sabor-frutilla-185-grs-739584/p"
+    ],
+    "Vea": [
+     1980.0,
+     "https://www.vea.com.ar/yogur-bebible-sabor-frutilla-185-gr-danonino-2/p"
+    ],
+    "Jumbo": [
+     3400.0,
+     "https://www.jumbo.com.ar/yogur-bebible-sabor-frutilla-185-gr-danonino-2/p"
+    ],
+    "ChangoMás": [
+     3245.0,
+     "https://www.masonline.com.ar/danonino-bebible-sabor-frutilla-185-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Máquina de Afeitar para Mujer Gillette Venus Suave con Aceite de Aguacate y 3 Hojas 2 Uds",
+   "m": "Gillette",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903503/7702018072392_01.jpg?v=639197295700200000",
+   "cadena": "Vea",
+   "precio": 4530.0,
+   "link": "https://www.vea.com.ar/maquina-desechable-venus-suave-2u/p",
+   "referencia": 7499.0,
+   "precio_2da": 7459.0,
+   "baja_pct": 39.6,
+   "brecha_pct": 39.3,
+   "score": 1555,
+   "pr": {
+    "Carrefour": [
+     7459.0,
+     "https://www.carrefour.com.ar/maquina-de-afeitar-para-mujer-gillette-venus-suave-con-aceite-de-aguacate-y-3-hojas-2-uds-536817/p"
+    ],
+    "Vea": [
+     4530.0,
+     "https://www.vea.com.ar/maquina-desechable-venus-suave-2u/p"
+    ],
+    "Jumbo": [
+     8050.0,
+     "https://www.jumbo.com.ar/maquina-desechable-venus-suave-2u/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur batido Ser PRO+ con proteínas sabor natural 175 grs",
+   "m": "Ser",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834025/7791337009660_01.jpg?v=639102193775570000",
+   "cadena": "Vea",
+   "precio": 2094.0,
+   "link": "https://www.vea.com.ar/yogur-batido-pro-con-proteinas-sabor-natural-175-gr-ser/p",
+   "referencia": 3490.0,
+   "precio_2da": 3415.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.7,
+   "score": 1547,
+   "pr": {
+    "Carrefour": [
+     3415.0,
+     "https://www.carrefour.com.ar/yogur-batido-ser-pro-con-proteinas-sabor-natural-175-grs760422/p"
+    ],
+    "Vea": [
+     2094.0,
+     "https://www.vea.com.ar/yogur-batido-pro-con-proteinas-sabor-natural-175-gr-ser/p"
+    ],
+    "Jumbo": [
+     3518.0,
+     "https://www.jumbo.com.ar/yogur-batido-pro-con-proteinas-sabor-natural-175-gr-ser/p"
+    ],
+    "Comodín": [
+     3872.99,
+     "https://www.comodinencasa.com.ar/yogur-ser-protein-prefo-natural-175g/p"
+    ],
+    "ChangoMás": [
+     3415.0,
+     "https://www.masonline.com.ar/yogur-descremado-ser-pro-batido-sabor-natural-175-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Pizza Sabor Mozzarella a la Piedra x 2 Un 940 Grs Sibarita",
+   "m": "SIBARITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923128/7790070040039.jpg?v=639214545064270000",
+   "cadena": "Vea",
+   "precio": 14274.0,
+   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-x-2-940g/p",
+   "referencia": 23290.0,
+   "precio_2da": 23719.0,
+   "baja_pct": 38.7,
+   "brecha_pct": 39.8,
+   "score": 1542,
+   "pr": {
+    "Vea": [
+     14274.0,
+     "https://www.vea.com.ar/pizza-sibarita-mozzarella-x-2-940g/p"
+    ],
+    "Jumbo": [
+     23719.0,
+     "https://www.jumbo.com.ar/pizza-sibarita-mozzarella-x-2-940g/p"
+    ],
+    "Carrefour": [
+     23719.0,
+     "https://www.carrefour.com.ar/pizza-mozzarella-individual-sibarita-2-uni-752705/p"
     ]
    }
   },
@@ -418,6 +909,41 @@
     "Jumbo": [
      2200.0,
      "https://www.jumbo.com.ar/fideos-tirabuzon-al-huevo-n-34-lucchetti-x-500-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur batido sabor vainilla Ser Calci+ 120 grs",
+   "m": "Ser",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834194/7791337008564_01.jpg?v=639102310096300000",
+   "cadena": "Vea",
+   "precio": 1554.0,
+   "link": "https://www.vea.com.ar/yogur-batido-sabor-vainilla-120-grs-calci-ser/p",
+   "referencia": 2590.0,
+   "precio_2da": 2500.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1514,
+   "pr": {
+    "Carrefour": [
+     2500.0,
+     "https://www.carrefour.com.ar/yogur-batido-sabor-vainilla-calci-120-grs-736391/p"
+    ],
+    "Vea": [
+     1554.0,
+     "https://www.vea.com.ar/yogur-batido-sabor-vainilla-120-grs-calci-ser/p"
+    ],
+    "Jumbo": [
+     2700.0,
+     "https://www.jumbo.com.ar/yogur-batido-sabor-vainilla-120-grs-calci-ser/p"
+    ],
+    "ChangoMás": [
+     2500.0,
+     "https://www.masonline.com.ar/yogur-ser-batido-sabor-vainilla-120-g-2/p"
+    ],
+    "Comodín": [
+     2854.79,
+     "https://www.comodinencasa.com.ar/yogur-ser-calcio-pack-vainilla-120gr/p"
     ]
    }
   }
