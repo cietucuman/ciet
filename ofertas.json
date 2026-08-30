@@ -1,6 +1,6 @@
 {
  "fecha": "2026-08-30",
- "actualizado": "2026-08-30 14:15",
+ "actualizado": "2026-08-30 17:26",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-29",
   "2026-08-30"
  ],
- "total": 28,
+ "total": 33,
  "ofertas": [
   {
    "n": "Chocolate con Almendras 50 Grs Nestlé",
@@ -51,9 +51,9 @@
    }
   },
   {
-   "n": "Chocolate Sabor Blanco 80 Grs Galak",
-   "m": "GALAK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875531/Chocolate-Blanco-Galak-Nestl-X-80-Gr-1-950496.jpg?v=638872403773770000",
+   "n": "Nestlé Galak chocolate blanco 80 grs",
+   "m": "Nestlé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914832/7891000368626_E01.jpg?v=639223069285930000",
    "cadena": "Vea",
    "precio": 2845.0,
    "link": "https://www.vea.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p",
@@ -63,6 +63,10 @@
    "brecha_pct": 48.4,
    "score": 2418,
    "pr": {
+    "Carrefour": [
+     5509.0,
+     "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
+    ],
     "Vea": [
      2845.0,
      "https://www.vea.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
@@ -74,10 +78,6 @@
     "ChangoMás": [
      6069.0,
      "https://www.masonline.com.ar/chocolate-nestle-blanco-galak-80g-2/p"
-    ],
-    "Carrefour": [
-     5509.0,
-     "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
     ]
    }
   },
@@ -136,6 +136,33 @@
    }
   },
   {
+   "n": "Vino tinto Cabernet Sauvignon Chacabuco 750 ml",
+   "m": "Chacabuco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821612/7791843023495_02.jpg?v=639083181509770000",
+   "cadena": "Vea",
+   "precio": 2845.0,
+   "link": "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p",
+   "referencia": 5400.0,
+   "precio_2da": 5309.0,
+   "baja_pct": 47.3,
+   "brecha_pct": 46.4,
+   "score": 2196,
+   "pr": {
+    "Carrefour": [
+     5309.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-chacabuco-en-botella-750-cc-734596/p"
+    ],
+    "Vea": [
+     2845.0,
+     "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p"
+    ],
+    "ChangoMás": [
+     5519.0,
+     "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Lava Coche Silisur Siliconado Manzana X 600cc",
    "m": "SILISUR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/193350/Silisur-Shampoo-Siliconado-Manzana-600-C-Shampoo-Siliconado-De-Manzana-Silsur-600-Cc-1-29706.jpg?v=636383542545700000",
@@ -159,6 +186,33 @@
     "Carrefour": [
      6799.0,
      "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua saborizada limoneto H2OH con gas 1,5 lts",
+   "m": "H2oh!",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308938/7791813421917_E01.jpg?v=638146793673900000",
+   "cadena": "Vea",
+   "precio": 1645.0,
+   "link": "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p",
+   "referencia": 3190.0,
+   "precio_2da": 2750.0,
+   "baja_pct": 48.4,
+   "brecha_pct": 40.2,
+   "score": 1946,
+   "pr": {
+    "Carrefour": [
+     2750.0,
+     "https://www.carrefour.com.ar/agua-saborizada-limoneto-h2oh-con-gas-15-lts-512174/p"
+    ],
+    "Vea": [
+     1645.0,
+     "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p"
+    ],
+    "Jumbo": [
+     3300.0,
+     "https://www.jumbo.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p"
     ]
    }
   },
@@ -244,12 +298,12 @@
    }
   },
   {
-   "n": "Limpiador líquido Procenex pisos lavanda 900 ml.",
+   "n": "Limpiador líquido Procenex pisos jazmín 900 ml.",
    "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179601/7791130683524_01.jpg?v=637468582822500000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179615/7791130683722_01.jpg?v=637468582854230000",
    "cadena": "Comodín",
    "precio": 1199.0,
-   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p",
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p",
    "referencia": 2293.19,
    "precio_2da": 1965.0,
    "baja_pct": 47.7,
@@ -258,19 +312,19 @@
    "pr": {
     "Carrefour": [
      1965.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-900-ml-584252/p"
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-jazmin-900-ml-584265/p"
     ],
     "Vea": [
      1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+     "https://www.vea.com.ar/limpiador-liquido-procenex-extra-fragancia-jazmin-900-ml/p"
     ],
     "Jumbo": [
      2400.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-extra-fragancia-jazmin-900-ml/p"
     ],
     "Comodín": [
      1199.0,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p"
+     "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p"
     ]
    }
   },
@@ -302,37 +356,6 @@
     "Comodín": [
      1199.0,
      "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido Procenex pisos jazmín 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179615/7791130683722_01.jpg?v=637468582854230000",
-   "cadena": "Comodín",
-   "precio": 1199.0,
-   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p",
-   "referencia": 2293.19,
-   "precio_2da": 1965.0,
-   "baja_pct": 47.7,
-   "brecha_pct": 39.0,
-   "score": 1860,
-   "pr": {
-    "Carrefour": [
-     1965.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-jazmin-900-ml-584265/p"
-    ],
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-extra-fragancia-jazmin-900-ml/p"
-    ],
-    "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-extra-fragancia-jazmin-900-ml/p"
-    ],
-    "Comodín": [
-     1199.0,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p"
     ]
    }
   },
@@ -399,6 +422,64 @@
    }
   },
   {
+   "n": "Limpiador líquido Procenex pisos lavanda 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179601/7791130683524_01.jpg?v=637468582822500000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
+   "pr": {
+    "Carrefour": [
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-900-ml-584252/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+    ],
+    "Comodín": [
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Barra de Cereal Sabor Almendras, Maní y Miel 30 Grs Flow",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917700/7790380020233.jpg?v=639162685974570000",
+   "cadena": "Jumbo",
+   "precio": 600.0,
+   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-almendras-30gr/p",
+   "referencia": 1200.0,
+   "precio_2da": 935.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.8,
+   "score": 1791,
+   "pr": {
+    "Vea": [
+     1190.0,
+     "https://www.vea.com.ar/barra-de-cereal-flow-almendras-30gr/p"
+    ],
+    "Jumbo": [
+     600.0,
+     "https://www.jumbo.com.ar/barra-de-cereal-flow-almendras-30gr/p"
+    ],
+    "Carrefour": [
+     935.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-almendras-georgalos-flow-30-g/p"
+    ]
+   }
+  },
+  {
    "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
    "m": "Gatorade",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
@@ -449,6 +530,33 @@
     "Jumbo": [
      3347.5,
      "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Nutrición Tri-Óleos 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919939/13710774172.jpg?v=639180000969770000",
+   "cadena": "Jumbo",
+   "precio": 9120.0,
+   "link": "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p",
+   "referencia": 15200.0,
+   "precio_2da": 15900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 42.6,
+   "score": 1706,
+   "pr": {
+    "Jumbo": [
+     9120.0,
+     "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p"
+    ],
+    "ChangoMás": [
+     17689.0,
+     "https://www.masonline.com.ar/shampoo-dove-nutricion-650-ml/p"
+    ],
+    "Carrefour": [
+     15900.0,
+     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-650-ml-778716/p"
     ]
    }
   },
@@ -546,6 +654,37 @@
     "ChangoMás": [
      2679.0,
      "https://www.masonline.com.ar/toallas-femeninas-always-xtra-suave-8u/p"
+    ]
+   }
+  },
+  {
+   "n": "Pan Rallado Familiar 1 Kg Preferido",
+   "m": "PREFERIDO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853967/Pan-Rallado-Fortificado-Preferido-1-Kg-1-999948.jpg?v=638733300092900000",
+   "cadena": "Vea",
+   "precio": 2290.0,
+   "link": "https://www.vea.com.ar/pan-rallado-fortificado-preferido-1-kg/p",
+   "referencia": 3881.0,
+   "precio_2da": 3799.0,
+   "baja_pct": 41.0,
+   "brecha_pct": 39.7,
+   "score": 1628,
+   "pr": {
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/pan-rallado-fortificado-preferido-1-kg/p"
+    ],
+    "Jumbo": [
+     3883.0,
+     "https://www.jumbo.com.ar/pan-rallado-fortificado-preferido-1-kg/p"
+    ],
+    "ChangoMás": [
+     3949.0,
+     "https://www.masonline.com.ar/pan-rallado-preferido-1-kg-2-2/p"
+    ],
+    "Carrefour": [
+     3799.0,
+     "https://www.carrefour.com.ar/pan-rallado-preferido-fortificado-1-kg-731021/p"
     ]
    }
   },
@@ -666,33 +805,6 @@
    }
   },
   {
-   "n": "Postre Royal de vainilla 43 g.",
-   "m": "Royal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/327172/7622201705077_E01.jpg?v=638200379902970000",
-   "cadena": "Jumbo",
-   "precio": 1020.0,
-   "link": "https://www.jumbo.com.ar/postre-vainilla-royal-43-gr/p",
-   "referencia": 1700.0,
-   "precio_2da": 1670.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.9,
-   "score": 1557,
-   "pr": {
-    "Carrefour": [
-     1670.0,
-     "https://www.carrefour.com.ar/postre-royal-de-vainilla-43-g-716925/p"
-    ],
-    "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/postre-vainilla-royal-43-gr/p"
-    ],
-    "Jumbo": [
-     1020.0,
-     "https://www.jumbo.com.ar/postre-vainilla-royal-43-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Postre Royal de frutilla 75 g.",
    "m": "Royal",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904093/7622201704674_E02.jpg?v=639198896451300000",
@@ -716,6 +828,33 @@
     "Jumbo": [
      1020.0,
      "https://www.jumbo.com.ar/postre-frutilla-royal-75g/p"
+    ]
+   }
+  },
+  {
+   "n": "Postre Royal de vainilla 43 g.",
+   "m": "Royal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/327172/7622201705077_E01.jpg?v=638200379902970000",
+   "cadena": "Jumbo",
+   "precio": 1020.0,
+   "link": "https://www.jumbo.com.ar/postre-vainilla-royal-43-gr/p",
+   "referencia": 1700.0,
+   "precio_2da": 1670.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.9,
+   "score": 1557,
+   "pr": {
+    "Carrefour": [
+     1670.0,
+     "https://www.carrefour.com.ar/postre-royal-de-vainilla-43-g-716925/p"
+    ],
+    "Vea": [
+     1690.0,
+     "https://www.vea.com.ar/postre-vainilla-royal-43-gr/p"
+    ],
+    "Jumbo": [
+     1020.0,
+     "https://www.jumbo.com.ar/postre-vainilla-royal-43-gr/p"
     ]
    }
   },
