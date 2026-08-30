@@ -1,6 +1,6 @@
 {
- "fecha": "2026-08-29",
- "actualizado": "2026-08-29 14:26",
+ "fecha": "2026-08-30",
+ "actualizado": "2026-08-30 14:15",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-19",
   "2026-08-20",
   "2026-08-21",
   "2026-08-22",
@@ -19,9 +18,10 @@
   "2026-08-26",
   "2026-08-27",
   "2026-08-28",
-  "2026-08-29"
+  "2026-08-29",
+  "2026-08-30"
  ],
- "total": 48,
+ "total": 28,
  "ofertas": [
   {
    "n": "Chocolate con Almendras 50 Grs Nestlé",
@@ -51,33 +51,6 @@
    }
   },
   {
-   "n": "Chocolate Sabor Castañas de Cajú Diplomata 80 Grs Nestle",
-   "m": "NESTLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875527/Chocolate-Con-Casta-as-Diplomata-Nestl-80-Gr-1-942888.jpg?v=638872403755330000",
-   "cadena": "Vea",
-   "precio": 2845.0,
-   "link": "https://www.vea.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p",
-   "referencia": 5690.0,
-   "precio_2da": 5690.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Vea": [
-     2845.0,
-     "https://www.vea.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
-    ],
-    "Jumbo": [
-     6150.0,
-     "https://www.jumbo.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
-    ],
-    "Carrefour": [
-     5690.0,
-     "https://www.carrefour.com.ar/nestle-displomata-chocolate-con-castanas-80-grs-710598/p"
-    ]
-   }
-  },
-  {
    "n": "Chocolate Sabor Blanco 80 Grs Galak",
    "m": "GALAK",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/875531/Chocolate-Blanco-Galak-Nestl-X-80-Gr-1-950496.jpg?v=638872403773770000",
@@ -85,10 +58,10 @@
    "precio": 2845.0,
    "link": "https://www.vea.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p",
    "referencia": 5690.0,
-   "precio_2da": 5690.0,
+   "precio_2da": 5509.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "brecha_pct": 48.4,
+   "score": 2418,
    "pr": {
     "Vea": [
      2845.0,
@@ -103,35 +76,35 @@
      "https://www.masonline.com.ar/chocolate-nestle-blanco-galak-80g-2/p"
     ],
     "Carrefour": [
-     5690.0,
+     5509.0,
      "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
     ]
    }
   },
   {
-   "n": "Barras de Cereal Sabor Avellanas y Arándanos 30 Grs Flow",
-   "m": "FLOW",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917706/7790380020271.jpg?v=639162686570070000",
-   "cadena": "Jumbo",
-   "precio": 600.0,
-   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-avellanas-30gr/p",
-   "referencia": 1200.0,
-   "precio_2da": 1190.0,
+   "n": "Chocolate Sabor Castañas de Cajú Diplomata 80 Grs Nestle",
+   "m": "NESTLE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875527/Chocolate-Con-Casta-as-Diplomata-Nestl-80-Gr-1-942888.jpg?v=638872403755330000",
+   "cadena": "Vea",
+   "precio": 2845.0,
+   "link": "https://www.vea.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p",
+   "referencia": 5690.0,
+   "precio_2da": 5459.0,
    "baja_pct": 50.0,
-   "brecha_pct": 49.6,
-   "score": 2479,
+   "brecha_pct": 47.9,
+   "score": 2394,
    "pr": {
     "Vea": [
-     1190.0,
-     "https://www.vea.com.ar/barra-de-cereal-flow-avellanas-30gr/p"
+     2845.0,
+     "https://www.vea.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
     ],
     "Jumbo": [
-     600.0,
-     "https://www.jumbo.com.ar/barra-de-cereal-flow-avellanas-30gr/p"
+     6150.0,
+     "https://www.jumbo.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
     ],
     "Carrefour": [
-     1190.0,
-     "https://www.carrefour.com.ar/barra-de-cereal-flow-cereal-de-avellana-y-arandanos-30-g-730599/p"
+     5459.0,
+     "https://www.carrefour.com.ar/nestle-displomata-chocolate-con-castanas-80-grs-710598/p"
     ]
    }
   },
@@ -143,13 +116,13 @@
    "precio": 1400.0,
    "link": "https://www.jumbo.com.ar/pochoclos-caramelo-g-pop-50-gr-2/p",
    "referencia": 2800.0,
-   "precio_2da": 2690.0,
+   "precio_2da": 2600.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.0,
-   "score": 2398,
+   "brecha_pct": 46.2,
+   "score": 2308,
    "pr": {
     "Carrefour": [
-     2690.0,
+     2600.0,
      "https://www.carrefour.com.ar/pochoclos-gallo-snacks-con-caramelo-50-g-720571/p"
     ],
     "Vea": [
@@ -163,230 +136,29 @@
    }
   },
   {
-   "n": "Vino tinto Malbec Nampe 750 ml",
-   "m": "Nampe",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822008/7791843008911_02.jpg?v=639083181618270000",
-   "cadena": "Jumbo",
-   "precio": 2425.0,
-   "link": "https://www.jumbo.com.ar/vino-nampe-malbec-750cc/p",
-   "referencia": 4850.0,
-   "precio_2da": 4629.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.6,
-   "score": 2381,
+   "n": "Shampoo Lava Coche Silisur Siliconado Manzana X 600cc",
+   "m": "SILISUR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/193350/Silisur-Shampoo-Siliconado-Manzana-600-C-Shampoo-Siliconado-De-Manzana-Silsur-600-Cc-1-29706.jpg?v=636383542545700000",
+   "cadena": "Carrefour",
+   "precio": 6799.0,
+   "link": "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p",
+   "referencia": 12399.0,
+   "precio_2da": 12490.0,
+   "baja_pct": 45.2,
+   "brecha_pct": 45.6,
+   "score": 2058,
    "pr": {
-    "Carrefour": [
-     4675.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-nampe-750-cc/p"
-    ],
     "Vea": [
-     4650.0,
-     "https://www.vea.com.ar/vino-nampe-malbec-750cc/p"
-    ],
-    "Jumbo": [
-     2425.0,
-     "https://www.jumbo.com.ar/vino-nampe-malbec-750cc/p"
+     12490.0,
+     "https://www.vea.com.ar/shampoo-lava-coche-silisur-siliconado-manzana-x-600cc/p"
     ],
     "ChangoMás": [
-     4629.0,
-     "https://www.masonline.com.ar/vino-malbec-nampe-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua saborizada limoneto H2OH con gas 1,5 lts",
-   "m": "H2oh!",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308938/7791813421917_E01.jpg?v=638146793673900000",
-   "cadena": "Vea",
-   "precio": 1645.0,
-   "link": "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p",
-   "referencia": 3190.0,
-   "precio_2da": 3190.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 48.4,
-   "score": 2346,
-   "pr": {
-    "Carrefour": [
-     3190.0,
-     "https://www.carrefour.com.ar/agua-saborizada-limoneto-h2oh-con-gas-15-lts-512174/p"
-    ],
-    "Vea": [
-     1645.0,
-     "https://www.vea.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p"
-    ],
-    "Jumbo": [
-     3300.0,
-     "https://www.jumbo.com.ar/saborizada-h2oh-limoneto-con-gas-1-5lt/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Rose 750 Cc Cordero Con Piel De Lobo",
-   "m": "CORDERO CON PIEL DE LOBO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829228/Vino-Cordero-Con-Piel-De-Lobo-Rose-750cc-1-1021439.jpg?v=638579829656570000",
-   "cadena": "Jumbo",
-   "precio": 3725.0,
-   "link": "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p",
-   "referencia": 7450.0,
-   "precio_2da": 6999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Jumbo": [
-     3725.0,
-     "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p"
+     12999.0,
+     "https://www.masonline.com.ar/shampoo-silisur-siliconado-frag-manzana-x-600-cc-2/p"
     ],
     "Carrefour": [
-     7069.0,
-     "https://www.carrefour.com.ar/vino-rosado-cordero-con-piel-de-lobo-750-ml-748279/p"
-    ],
-    "ChangoMás": [
-     6999.0,
-     "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Malbec 1125 Cc Nampe",
-   "m": "NAMPE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/624753/Vino-Tinto-Nampe-Malbec-1-125-Cc-1-43752.jpg?v=637510296808930000",
-   "cadena": "Jumbo",
-   "precio": 2725.0,
-   "link": "https://www.jumbo.com.ar/vino-nampe-malbec-1125cc-2/p",
-   "referencia": 5450.0,
-   "precio_2da": 5069.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.2,
-   "score": 2312,
-   "pr": {
-    "Vea": [
-     5150.0,
-     "https://www.vea.com.ar/vino-nampe-malbec-1125cc-2/p"
-    ],
-    "Jumbo": [
-     2725.0,
-     "https://www.jumbo.com.ar/vino-nampe-malbec-1125cc-2/p"
-    ],
-    "ChangoMás": [
-     5069.0,
-     "https://www.masonline.com.ar/vino-malbec-nampe-1125-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Chacabuco Cabernet Sauvignon 750cc",
-   "m": "CHACABUCO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/790632/Vino-Chacabuco-Cabernet-Sauvignon-750cc-1-985812.jpg?v=638277561493400000",
-   "cadena": "Vea",
-   "precio": 2845.0,
-   "link": "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p",
-   "referencia": 5400.0,
-   "precio_2da": 5359.0,
-   "baja_pct": 47.3,
-   "brecha_pct": 46.9,
-   "score": 2220,
-   "pr": {
-    "Vea": [
-     2845.0,
-     "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p"
-    ],
-    "ChangoMás": [
-     5519.0,
-     "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p"
-    ],
-    "Carrefour": [
-     5359.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-chacabuco-en-botella-750-cc-734596/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas sandwich Traviata x3 324 grs",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/508465/7790040144088_E01.jpg?v=638488762248130000",
-   "cadena": "ChangoMás",
-   "precio": 1249.0,
-   "link": "https://www.masonline.com.ar/galletitas-traviata-clasicas-324-g-2/p",
-   "referencia": 2419.0,
-   "precio_2da": 2290.0,
-   "baja_pct": 48.4,
-   "brecha_pct": 45.5,
-   "score": 2199,
-   "pr": {
-    "Carrefour": [
-     2290.0,
-     "https://www.carrefour.com.ar/galletitas-sandwich-traviata-x3-324-grs-739531/p"
-    ],
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/galletitas-traviata-324-gr-2/p"
-    ],
-    "Jumbo": [
-     2350.0,
-     "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.0,
-     "https://www.masonline.com.ar/galletitas-traviata-clasicas-324-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179606/7791130683661_01.jpg?v=637468582835170000",
-   "cadena": "Comodín",
-   "precio": 1199.0,
-   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p",
-   "referencia": 2293.19,
-   "precio_2da": 1990.0,
-   "baja_pct": 47.7,
-   "brecha_pct": 39.7,
-   "score": 1897,
-   "pr": {
-    "Carrefour": [
-     1990.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
-    ],
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
-    ],
-    "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
-    ],
-    "Comodín": [
-     1199.0,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de Pisos Limón 900 Ml Procenex",
-   "m": "PROCENEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/796380/Limpiador-L-quido-Procenex-Extra-Fragancia-Procenex-Limpiador-L-quido-Pisos-Lim-n-900ml-1-28333.jpg?v=638319657722200000",
-   "cadena": "Comodín",
-   "precio": 1199.0,
-   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-limon-900ml/p",
-   "referencia": 2293.19,
-   "precio_2da": 1990.0,
-   "baja_pct": 47.7,
-   "brecha_pct": 39.7,
-   "score": 1897,
-   "pr": {
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-limon-900ml/p"
-    ],
-    "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-limon-900ml/p"
-    ],
-    "Comodín": [
-     1199.0,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-limon-900ml/p"
+     6799.0,
+     "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p"
     ]
    }
   },
@@ -418,207 +190,327 @@
    }
   },
   {
-   "n": "Galletitas de salvado Cerealitas 624 g.",
-   "m": "Cerealitas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541604/7622201746032_E01.jpg?v=638568192115870000",
+   "n": "Barra de Cereal Sabor Frutos del Bosque con Yogur 27 Grs Flow",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917699/7790380016199.jpg?v=639162684920030000",
    "cadena": "Jumbo",
-   "precio": 3660.0,
-   "link": "https://www.jumbo.com.ar/galletitas-cracker-cereal-salvado-cerealitas-x3uni-624g/p",
-   "referencia": 6650.0,
-   "precio_2da": 6319.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 42.1,
-   "score": 1892,
-   "pr": {
-    "Carrefour": [
-     6319.0,
-     "https://www.carrefour.com.ar/galletitas-de-salvado-cerealitas-624-g-720566/p"
-    ],
-    "Vea": [
-     6490.0,
-     "https://www.vea.com.ar/galletitas-cracker-cereal-salvado-cerealitas-x3uni-624g/p"
-    ],
-    "Jumbo": [
-     3660.0,
-     "https://www.jumbo.com.ar/galletitas-cracker-cereal-salvado-cerealitas-x3uni-624g/p"
-    ],
-    "Comodín": [
-     6755.89,
-     "https://www.comodinencasa.com.ar/galleta-cerealitas-salvado-3-x-202-gr/p"
-    ],
-    "ChangoMás": [
-     6319.0,
-     "https://www.masonline.com.ar/galletitas-cerealitas-de-salvado-624-g-3u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza sin alcohol Heineken en lata 473 ml",
-   "m": "Heineken",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/652030/7793147574093_02.jpg.jpg?v=638817946170700000",
-   "cadena": "Jumbo",
-   "precio": 1661.0,
-   "link": "https://www.jumbo.com.ar/cerveza-cero-x-473-cc-heineken/p",
-   "referencia": 3322.0,
-   "precio_2da": 2534.25,
+   "precio": 525.0,
+   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-yogur-27gr/p",
+   "referencia": 1050.0,
+   "precio_2da": 840.0,
    "baja_pct": 50.0,
-   "brecha_pct": 34.5,
-   "score": 1723,
+   "brecha_pct": 37.5,
+   "score": 1875,
    "pr": {
-    "Carrefour": [
-     3379.0,
-     "https://www.carrefour.com.ar/cerveza-sin-alcohol-heineken-en-lata-473-ml-761057/p"
+    "Vea": [
+     1000.0,
+     "https://www.vea.com.ar/barra-de-cereal-flow-yogur-27gr/p"
     ],
     "Jumbo": [
-     1661.0,
-     "https://www.jumbo.com.ar/cerveza-cero-x-473-cc-heineken/p"
+     525.0,
+     "https://www.jumbo.com.ar/barra-de-cereal-flow-yogur-27gr/p"
     ],
-    "Comodín": [
-     2587.51,
-     "https://www.comodinencasa.com.ar/cerveza-heineken-0-0-alcohol-473-ml/p"
-    ],
-    "ChangoMás": [
-     2534.25,
-     "https://www.masonline.com.ar/cerveza-rubia-heineken-sin-alcohol-473-cc/p"
+    "Carrefour": [
+     840.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-georgalos-yoghurt-frutos-bosque-flow-27-g-424877/p"
     ]
    }
   },
   {
-   "n": "Galletitas dulces surtidas Terrabusi Variedad 590 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860610/7622202839979_E02.jpg?v=639128998799900000",
-   "cadena": "Jumbo",
-   "precio": 3150.0,
-   "link": "https://www.jumbo.com.ar/galletitas-surtidas-pack-ahorro-590-grs-variedad/p",
-   "referencia": 5250.0,
-   "precio_2da": 5509.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.8,
-   "score": 1713,
+   "n": "Limpiador líquido Procenex gardenia 900 ml",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/689202/7791130963626_01.jpg?v=638911343267700000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-gardenia-900ml/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
    "pr": {
     "Carrefour": [
-     5509.0,
-     "https://www.carrefour.com.ar/galletitas-dulces-surtidas-terrabusi-variedad-590-grs-777680/p"
-    ],
-    "Jumbo": [
-     3150.0,
-     "https://www.jumbo.com.ar/galletitas-surtidas-pack-ahorro-590-grs-variedad/p"
-    ],
-    "ChangoMás": [
-     5509.0,
-     "https://www.masonline.com.ar/galletitas-variedad-de-terrabusi-nuevo-mix-590g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Benjamín 750 ml",
-   "m": "Benjamín",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822215/7790070760579_02.jpg?v=639083181724830000",
-   "cadena": "Vea",
-   "precio": 3095.0,
-   "link": "https://www.vea.com.ar/vino-malbec-750-ml-benjamin/p",
-   "referencia": 6399.0,
-   "precio_2da": 4620.0,
-   "baja_pct": 51.6,
-   "brecha_pct": 33.0,
-   "score": 1704,
-   "pr": {
-    "Carrefour": [
-     4620.0,
-     "https://www.carrefour.com.ar/vino-tinto-benjamin-malbec-750-cc-721778/p"
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-gardenia-900-ml-765405/p"
     ],
     "Vea": [
-     3095.0,
-     "https://www.vea.com.ar/vino-malbec-750-ml-benjamin/p"
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-frescura-de-gardeni-x-900-ml-procenex/p"
     ],
     "Comodín": [
-     5379.99,
-     "https://www.comodinencasa.com.ar/vino-benjamin-nieto-malbec-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     6299.0,
-     "https://www.masonline.com.ar/vino-tinto-benjamin-malbec-750ml-2/p"
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-gardenia-900ml/p"
     ]
    }
   },
   {
-   "n": "Shampoo Nutrición Tri-Óleos 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919939/13710774172.jpg?v=639180000969770000",
+   "n": "Limpiador líquido Procenex pisos lavanda 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179601/7791130683524_01.jpg?v=637468582822500000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
+   "pr": {
+    "Carrefour": [
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-lavanda-900-ml-584252/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-lavanda-900ml/p"
+    ],
+    "Comodín": [
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-lavanda-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179606/7791130683661_01.jpg?v=637468582835170000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
+   "pr": {
+    "Carrefour": [
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
+    ],
+    "Comodín": [
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido Procenex pisos jazmín 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179615/7791130683722_01.jpg?v=637468582854230000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
+   "pr": {
+    "Carrefour": [
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-jazmin-900-ml-584265/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-extra-fragancia-jazmin-900-ml/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-extra-fragancia-jazmin-900-ml/p"
+    ],
+    "Comodín": [
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-jazmin-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido Procenex pisos pino 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179612/7791130683685_01.jpg?v=637468582845170000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-pino-900ml/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
+   "pr": {
+    "Carrefour": [
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-pino-900-ml-584250/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-pino-900ml/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-pino-900ml/p"
+    ],
+    "Comodín": [
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-pino-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido pisos Procenex flores de jardín 900 ml.",
+   "m": "Procenex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/179604/7791130683531_01.jpg?v=637468582827670000",
+   "cadena": "Comodín",
+   "precio": 1199.0,
+   "link": "https://www.comodinencasa.com.ar/limpiador-procenex-flores-de-jardin-900/p",
+   "referencia": 2293.19,
+   "precio_2da": 1965.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 39.0,
+   "score": 1860,
+   "pr": {
+    "Carrefour": [
+     1965.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-pisos-procenex-flores-de-jardin-900-ml-584257/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/limpiador-de-pisos-liquido-procenex-flores-de-jardin-900-ml/p"
+    ],
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/limpiador-de-pisos-liquido-procenex-flores-de-jardin-900-ml/p"
+    ],
+    "Comodín": [
+     1199.0,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-flores-de-jardin-900/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ],
+    "Jumbo": [
+     3347.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ],
+    "Jumbo": [
+     3347.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Atún en aceite La campagnola lomitos 170 g.",
+   "m": "La Campagnola",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381309/7790580131357_E01.jpg?v=638315050509500000",
    "cadena": "Jumbo",
-   "precio": 9120.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p",
-   "referencia": 15200.0,
-   "precio_2da": 15890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.6,
-   "score": 1704,
-   "pr": {
-    "Jumbo": [
-     9120.0,
-     "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p"
-    ],
-    "ChangoMás": [
-     17689.0,
-     "https://www.masonline.com.ar/shampoo-dove-nutricion-650-ml/p"
-    ],
-    "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-650-ml-778716/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Cauterización Reparadora 500 Ml Tresemmé",
-   "m": "TRESEMMÉ",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/865494/Shampoo-Cauterizaci-n-Reparadora-X-500-Ml-Tresemm-1-1037022.jpg?v=638814514358730000",
-   "cadena": "Carrefour",
-   "precio": 6191.4,
-   "link": "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p",
-   "referencia": 9919.0,
-   "precio_2da": 11239.0,
-   "baja_pct": 37.6,
-   "brecha_pct": 44.9,
-   "score": 1688,
-   "pr": {
-    "Jumbo": [
-     11250.0,
-     "https://www.jumbo.com.ar/shampoo-cauterizacion-reparadora-x-500-ml-tresemme/p"
-    ],
-    "Carrefour": [
-     6191.4,
-     "https://www.carrefour.com.ar/shampoo-tresemme-cauterizacion-reparadora-500-ml-760560/p"
-    ],
-    "ChangoMás": [
-     11239.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-cauterizacion-reparadora-500ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas pepas 9 de Oro 500 g.",
-   "m": "9 De Oro",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365075/7792180143273_E02.jpg?v=638267698150300000",
-   "cadena": "Carrefour",
-   "precio": 1864.85,
-   "link": "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p",
-   "referencia": 2869.0,
-   "precio_2da": 3590.0,
+   "precio": 2755.35,
+   "link": "https://www.jumbo.com.ar/atun-la-campagnola-en-aceite-170gr/p",
+   "referencia": 4239.0,
+   "precio_2da": 5290.0,
    "baja_pct": 35.0,
-   "brecha_pct": 48.1,
-   "score": 1682,
+   "brecha_pct": 47.9,
+   "score": 1677,
    "pr": {
     "Carrefour": [
-     1864.85,
-     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p"
+     5809.0,
+     "https://www.carrefour.com.ar/atun-en-aceite-la-campagnola-lomitos-170-g-699549-699549/p"
     ],
     "Vea": [
-     3590.0,
-     "https://www.vea.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+     5290.0,
+     "https://www.vea.com.ar/atun-la-campagnola-en-aceite-170gr/p"
     ],
     "Jumbo": [
-     3700.0,
-     "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+     2755.35,
+     "https://www.jumbo.com.ar/atun-la-campagnola-en-aceite-170gr/p"
+    ],
+    "Comodín": [
+     5950.29,
+     "https://www.comodinencasa.com.ar/atun-la-campagnola-en-aceite-x-170-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Lomito de atún al natural La Campagnola 170 grs",
+   "m": "La Campagnola",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381234/7790580131364_E01.jpg?v=639123920870030000",
+   "cadena": "Jumbo",
+   "precio": 2755.35,
+   "link": "https://www.jumbo.com.ar/atun-al-natural-170-gr-la-campagnola/p",
+   "referencia": 4239.0,
+   "precio_2da": 5290.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 47.9,
+   "score": 1677,
+   "pr": {
+    "Carrefour": [
+     5809.0,
+     "https://www.carrefour.com.ar/lomito-de-atun-al-natural-la-campagnola-170-grs-699550/p"
+    ],
+    "Vea": [
+     5290.0,
+     "https://www.vea.com.ar/atun-al-natural-170-gr-la-campagnola/p"
+    ],
+    "Jumbo": [
+     2755.35,
+     "https://www.jumbo.com.ar/atun-al-natural-170-gr-la-campagnola/p"
+    ],
+    "Comodín": [
+     5950.29,
+     "https://www.comodinencasa.com.ar/atun-la-campagnola-al-natural-x-170-gr/p"
     ]
    }
   },
@@ -644,7 +536,7 @@
      "https://www.jumbo.com.ar/toallitas-femeninas-always-xtra-proteccion-sua/p"
     ],
     "Carrefour": [
-     2679.0,
+     2579.0,
      "https://www.carrefour.com.ar/toalla-femenina-always-xtra-proteccion-suave-8-uni-778369/p"
     ],
     "Comodín": [
@@ -685,60 +577,64 @@
    }
   },
   {
-   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
-   "cadena": "Vea",
-   "precio": 3539.4,
-   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
-   "referencia": 5899.0,
-   "precio_2da": 5899.0,
+   "n": "Galletitas dulces surtidas Terrabusi Variedad 590 grs",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860610/7622202839979_E02.jpg?v=639128998799900000",
+   "cadena": "Jumbo",
+   "precio": 3150.0,
+   "link": "https://www.jumbo.com.ar/galletitas-surtidas-pack-ahorro-590-grs-variedad/p",
+   "referencia": 5250.0,
+   "precio_2da": 5250.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
-    "Vea": [
-     3539.4,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    "Carrefour": [
+     5250.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-surtidas-terrabusi-variedad-590-grs-777680/p"
     ],
     "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+     3150.0,
+     "https://www.jumbo.com.ar/galletitas-surtidas-pack-ahorro-590-grs-variedad/p"
     ],
-    "Carrefour": [
-     5899.0,
-     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
+    "ChangoMás": [
+     5509.0,
+     "https://www.masonline.com.ar/galletitas-variedad-de-terrabusi-nuevo-mix-590g-2/p"
     ]
    }
   },
   {
-   "n": "Rebozador Fortificado 1 Kg Preferido",
-   "m": "PREFERIDO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853975/Rebozador-Preferido-Fortificado-X1kg-1-1001067.jpg?v=638733300122430000",
-   "cadena": "Vea",
-   "precio": 2328.6,
-   "link": "https://www.vea.com.ar/rebozador-preferido-fortificado-x1kg/p",
-   "referencia": 3881.0,
-   "precio_2da": 3880.0,
+   "n": "Galletitas Pepitos con chips de chocolate 357 g. Pack x3 de 119 g.",
+   "m": "Pepitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/676523/7622201735883_E01.jpg?v=638859345304430000",
+   "cadena": "Carrefour",
+   "precio": 3768.0,
+   "link": "https://www.carrefour.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-g-pack-x3-de-119-g-715954/p",
+   "referencia": 6280.0,
+   "precio_2da": 6280.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1599,
+   "score": 1600,
    "pr": {
+    "Carrefour": [
+     3768.0,
+     "https://www.carrefour.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-g-pack-x3-de-119-g-715954/p"
+    ],
     "Vea": [
-     2328.6,
-     "https://www.vea.com.ar/rebozador-preferido-fortificado-x1kg/p"
+     6790.0,
+     "https://www.vea.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-gr-pack-x-3-u-de-119-gr/p"
     ],
     "Jumbo": [
-     3883.0,
-     "https://www.jumbo.com.ar/rebozador-preferido-fortificado-x1kg/p"
-    ],
-    "Carrefour": [
-     3880.0,
-     "https://www.carrefour.com.ar/rebozador-preferido-en-bolsa-1-kg-733212/p"
+     6280.0,
+     "https://www.jumbo.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-gr-pack-x-3-u-de-119-gr/p"
     ],
     "ChangoMás": [
-     3949.0,
-     "https://www.masonline.com.ar/rebozador-preferido-1-kg-2-2/p"
+     6529.0,
+     "https://www.masonline.com.ar/galletitas-pepitos-regular-tripack-357g-2/p"
+    ],
+    "Comodín": [
+     8011.19,
+     "https://www.comodinencasa.com.ar/galleta-pepito-tripack-x-354gr/p"
     ]
    }
   },
@@ -770,95 +666,6 @@
    }
   },
   {
-   "n": "Galletitas Criollitas crackers x5 499 grs",
-   "m": "Criollitas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318989/7790040139015_E01.jpg?v=638803341237200000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/galletitas-criollitas-499-gr-2/p",
-   "referencia": 3500.0,
-   "precio_2da": 3490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.8,
-   "score": 1593,
-   "pr": {
-    "Carrefour": [
-     3490.0,
-     "https://www.carrefour.com.ar/galletitas-criollitas-crackers-x5-499-grs-708531/p"
-    ],
-    "Vea": [
-     3490.0,
-     "https://www.vea.com.ar/galletitas-criollitas-499-gr-2/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/galletitas-criollitas-499-gr-2/p"
-    ],
-    "Comodín": [
-     3560.59,
-     "https://www.comodinencasa.com.ar/galleta-criollitas-original-5-x-100-gr/p"
-    ],
-    "ChangoMás": [
-     3519.0,
-     "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Postre Royal de frutilla 75 g.",
-   "m": "Royal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904093/7622201704674_E02.jpg?v=639198896451300000",
-   "cadena": "Jumbo",
-   "precio": 1020.0,
-   "link": "https://www.jumbo.com.ar/postre-frutilla-royal-75g/p",
-   "referencia": 1700.0,
-   "precio_2da": 1690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1586,
-   "pr": {
-    "Carrefour": [
-     1690.0,
-     "https://www.carrefour.com.ar/postre-royal-de-frutilla-75-g-716923/p"
-    ],
-    "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/postre-frutilla-royal-75g/p"
-    ],
-    "Jumbo": [
-     1020.0,
-     "https://www.jumbo.com.ar/postre-frutilla-royal-75g/p"
-    ]
-   }
-  },
-  {
-   "n": "Postre Royal de vainilla 75 g.",
-   "m": "Royal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/327170/7622201704643_E01.jpg?v=638200379900600000",
-   "cadena": "Jumbo",
-   "precio": 1020.0,
-   "link": "https://www.jumbo.com.ar/postre-vainilla-royal-75g/p",
-   "referencia": 1700.0,
-   "precio_2da": 1690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1586,
-   "pr": {
-    "Carrefour": [
-     1690.0,
-     "https://www.carrefour.com.ar/postre-royal-de-vainilla-75-g-716922/p"
-    ],
-    "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/postre-vainilla-royal-75g/p"
-    ],
-    "Jumbo": [
-     1020.0,
-     "https://www.jumbo.com.ar/postre-vainilla-royal-75g/p"
-    ]
-   }
-  },
-  {
    "n": "Postre Royal de vainilla 43 g.",
    "m": "Royal",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/327172/7622201705077_E01.jpg?v=638200379902970000",
@@ -866,13 +673,13 @@
    "precio": 1020.0,
    "link": "https://www.jumbo.com.ar/postre-vainilla-royal-43-gr/p",
    "referencia": 1700.0,
-   "precio_2da": 1690.0,
+   "precio_2da": 1670.0,
    "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1586,
+   "brecha_pct": 38.9,
+   "score": 1557,
    "pr": {
     "Carrefour": [
-     1690.0,
+     1670.0,
      "https://www.carrefour.com.ar/postre-royal-de-vainilla-43-g-716925/p"
     ],
     "Vea": [
@@ -886,346 +693,83 @@
    }
   },
   {
-   "n": "Toallitas Femeninas Ultrafina x 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859492/Toalla-Femenina-Ultra-Seca-S1-Brazil-8-Unidades-Always-Toalla-Femenina-Always-Ultfina-Sec-S1-8u-1-1035562.jpg?v=638779198575370000",
-   "cadena": "Vea",
-   "precio": 4079.4,
-   "link": "https://www.vea.com.ar/toalla-ultra-seca-8-un-always/p",
-   "referencia": 6799.0,
-   "precio_2da": 6759.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1586,
-   "pr": {
-    "Vea": [
-     4079.4,
-     "https://www.vea.com.ar/toalla-ultra-seca-8-un-always/p"
-    ],
-    "Jumbo": [
-     7050.0,
-     "https://www.jumbo.com.ar/toalla-ultra-seca-8-un-always/p"
-    ],
-    "ChangoMás": [
-     6759.0,
-     "https://www.masonline.com.ar/toallas-femeninas-always-ultrafinas-seca-8u/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
-   "cadena": "Vea",
-   "precio": 5394.0,
-   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
-   "referencia": 8990.0,
-   "precio_2da": 8899.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.4,
-   "score": 1575,
-   "pr": {
-    "Vea": [
-     5394.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Jumbo": [
-     9400.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Carrefour": [
-     8899.0,
-     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
-    ],
-    "ChangoMás": [
-     8949.0,
-     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas de chocolate cookies Cofler 105.6 g",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/515295/7790040143753_E01.jpg?v=638500828885730000",
+   "n": "Postre Royal de frutilla 75 g.",
+   "m": "Royal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904093/7622201704674_E02.jpg?v=639198896451300000",
    "cadena": "Jumbo",
-   "precio": 2310.0,
-   "link": "https://www.jumbo.com.ar/galletitas-cofler-rellenas-banadas-chocolate-105-gr-2/p",
-   "referencia": 3850.0,
-   "precio_2da": 3790.0,
+   "precio": 1020.0,
+   "link": "https://www.jumbo.com.ar/postre-frutilla-royal-75g/p",
+   "referencia": 1700.0,
+   "precio_2da": 1670.0,
    "baja_pct": 40.0,
-   "brecha_pct": 39.1,
-   "score": 1562,
+   "brecha_pct": 38.9,
+   "score": 1557,
    "pr": {
     "Carrefour": [
-     3790.0,
-     "https://www.carrefour.com.ar/galletitas-de-chocolate-cookies-cofler-1056-g-740395/p"
+     1670.0,
+     "https://www.carrefour.com.ar/postre-royal-de-frutilla-75-g-716923/p"
     ],
     "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/galletitas-cofler-rellenas-banadas-chocolate-105-gr-2/p"
+     1690.0,
+     "https://www.vea.com.ar/postre-frutilla-royal-75g/p"
     ],
     "Jumbo": [
-     2310.0,
-     "https://www.jumbo.com.ar/galletitas-cofler-rellenas-banadas-chocolate-105-gr-2/p"
+     1020.0,
+     "https://www.jumbo.com.ar/postre-frutilla-royal-75g/p"
     ]
    }
   },
   {
-   "n": "Yogur Danonino bebible Sabor Frutilla 185 grs",
-   "m": "Danonino",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849296/7791337008694_01.jpg?v=639119584011030000",
+   "n": "Alfajor arroz limón Gallo snacks chocoarroz 22 g. x 6 uni",
+   "m": "Gallo Snacks",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914079/7790070418265_01.jpg?v=639222247919900000",
    "cadena": "Vea",
-   "precio": 1980.0,
-   "link": "https://www.vea.com.ar/yogur-bebible-sabor-frutilla-185-gr-danonino-2/p",
-   "referencia": 3300.0,
-   "precio_2da": 3249.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.1,
-   "score": 1562,
-   "pr": {
-    "Carrefour": [
-     3249.0,
-     "https://www.carrefour.com.ar/yogur-danonino-bebible-sabor-frutilla-185-grs-739584/p"
-    ],
-    "Vea": [
-     1980.0,
-     "https://www.vea.com.ar/yogur-bebible-sabor-frutilla-185-gr-danonino-2/p"
-    ],
-    "Jumbo": [
-     3400.0,
-     "https://www.jumbo.com.ar/yogur-bebible-sabor-frutilla-185-gr-danonino-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Yogur Danonino bebible Sabor Vainilla 185 grs",
-   "m": "Danonino",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849297/7791337008700_01.jpg?v=639119585173870000",
-   "cadena": "Vea",
-   "precio": 1980.0,
-   "link": "https://www.vea.com.ar/yogur-bebible-sabor-vainilla-185-gr-danonino-2/p",
-   "referencia": 3300.0,
-   "precio_2da": 3249.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.1,
-   "score": 1562,
-   "pr": {
-    "Carrefour": [
-     3249.0,
-     "https://www.carrefour.com.ar/yogur-danonino-bebible-sabor-vainilla-185-grs-739583/p"
-    ],
-    "Vea": [
-     1980.0,
-     "https://www.vea.com.ar/yogur-bebible-sabor-vainilla-185-gr-danonino-2/p"
-    ],
-    "Jumbo": [
-     3400.0,
-     "https://www.jumbo.com.ar/yogur-bebible-sabor-vainilla-185-gr-danonino-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Formitas de pollo Sadia Nugget Saurio 400 grs",
-   "m": "Sadia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861263/7891515629458_E02.jpg?v=639130066692470000",
-   "cadena": "Carrefour",
-   "precio": 4461.0,
-   "link": "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p",
-   "referencia": 7435.0,
-   "precio_2da": 7248.79,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1538,
-   "pr": {
-    "Carrefour": [
-     4461.0,
-     "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p"
-    ],
-    "Vea": [
-     7400.0,
-     "https://www.vea.com.ar/nuggets-saurio-x-400-gr-sadia/p"
-    ],
-    "Jumbo": [
-     7650.0,
-     "https://www.jumbo.com.ar/nuggets-saurio-x-400-gr-sadia/p"
-    ],
-    "Comodín": [
-     7248.79,
-     "https://www.comodinencasa.com.ar/nuggets-de-pollo-sadia-saurio-400gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Micelar Suavizante Teatrical 600 ml",
-   "m": "Teatrical",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/901671/650240051623_02.jpg?v=639195504153830000",
-   "cadena": "ChangoMás",
-   "precio": 7169.4,
-   "link": "https://www.masonline.com.ar/agua-micelar-teatrical-suavizante-x-600-ml-2/p",
-   "referencia": 11949.0,
-   "precio_2da": 11605.39,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1529,
-   "pr": {
-    "Carrefour": [
-     11949.0,
-     "https://www.carrefour.com.ar/agua-micelar-suavizante-teatrical-600-ml-678840/p"
-    ],
-    "Comodín": [
-     11605.39,
-     "https://www.comodinencasa.com.ar/agua-micelar-teatrical-suavizante-600gr/p"
-    ],
-    "ChangoMás": [
-     7169.4,
-     "https://www.masonline.com.ar/agua-micelar-teatrical-suavizante-x-600-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Barra de cereal Flow cereal light yogur 24 g.",
-   "m": "Flow Cereal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416758/7790380020172_02.jpg?v=638355808069530000",
-   "cadena": "Jumbo",
-   "precio": 525.0,
-   "link": "https://www.jumbo.com.ar/barra-yoghurt-light-flow-cereal-24-gr-2/p",
-   "referencia": 787.5,
-   "precio_2da": 969.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 45.8,
-   "score": 1527,
-   "pr": {
-    "Carrefour": [
-     969.0,
-     "https://www.carrefour.com.ar/barra-de-cereal-flow-cereal-light-yogur-24-g-730598/p"
-    ],
-    "Vea": [
-     1000.0,
-     "https://www.vea.com.ar/barra-yoghurt-light-flow-cereal-24-gr-2/p"
-    ],
-    "Jumbo": [
-     525.0,
-     "https://www.jumbo.com.ar/barra-yoghurt-light-flow-cereal-24-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas Pepitos con chips de chocolate 357 g. Pack x3 de 119 g.",
-   "m": "Pepitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/676523/7622201735883_E01.jpg?v=638859345304430000",
-   "cadena": "Carrefour",
-   "precio": 3831.0,
-   "link": "https://www.carrefour.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-g-pack-x3-de-119-g-715954/p",
-   "referencia": 6280.0,
-   "precio_2da": 6280.0,
-   "baja_pct": 39.0,
-   "brecha_pct": 39.0,
+   "precio": 5323.5,
+   "link": "https://www.vea.com.ar/alfajor-de-arroz-limon-22-gr-x-6-un-chocoarroz/p",
+   "referencia": 8190.0,
+   "precio_2da": 9415.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.5,
    "score": 1521,
    "pr": {
     "Carrefour": [
-     3831.0,
-     "https://www.carrefour.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-g-pack-x3-de-119-g-715954/p"
+     9415.0,
+     "https://www.carrefour.com.ar/alfajor-arroz-limon-gallo-snacks-chocoarroz-22-g-x-6-uni/p"
     ],
     "Vea": [
-     6790.0,
-     "https://www.vea.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-gr-pack-x-3-u-de-119-gr/p"
-    ],
-    "Jumbo": [
-     6280.0,
-     "https://www.jumbo.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-gr-pack-x-3-u-de-119-gr/p"
+     5323.5,
+     "https://www.vea.com.ar/alfajor-de-arroz-limon-22-gr-x-6-un-chocoarroz/p"
     ],
     "ChangoMás": [
-     6529.0,
-     "https://www.masonline.com.ar/galletitas-pepitos-regular-tripack-357g-2/p"
-    ],
-    "Comodín": [
-     8011.19,
-     "https://www.comodinencasa.com.ar/galleta-pepito-tripack-x-354gr/p"
+     9789.0,
+     "https://www.masonline.com.ar/alfajor-de-arroz-chocoarroz-limon-x-6u-2/p"
     ]
    }
   },
   {
-   "n": "Tableta de chocolate Shot con leche y maní 90 grs",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/805611/7622202333255_E01.jpg?v=639081547201500000",
-   "cadena": "Jumbo",
-   "precio": 3780.0,
-   "link": "https://www.jumbo.com.ar/chocolate-con-mani-x-90-grs-shot/p",
-   "referencia": 6300.0,
-   "precio_2da": 6100.0,
+   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
+   "cadena": "Vea",
+   "precio": 3539.4,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
+   "referencia": 5899.0,
+   "precio_2da": 5689.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1521,
+   "brecha_pct": 37.8,
+   "score": 1511,
    "pr": {
+    "Vea": [
+     3539.4,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    ],
+    "Jumbo": [
+     6100.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
+    ],
     "Carrefour": [
-     6100.0,
-     "https://www.carrefour.com.ar/tableta-de-chocolate-shot-con-leche-y-mani-90-grs-773827/p"
-    ],
-    "Vea": [
-     6100.0,
-     "https://www.vea.com.ar/chocolate-con-mani-x-90-grs-shot/p"
-    ],
-    "Jumbo": [
-     3780.0,
-     "https://www.jumbo.com.ar/chocolate-con-mani-x-90-grs-shot/p"
-    ],
-    "ChangoMás": [
-     6129.0,
-     "https://www.masonline.com.ar/chocolate-con-mani-shot-90-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Hidra Equilibrante Hialuronico Pure 750 Ml Elvive",
-   "m": "ELVIVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906386/Acondicionadoro-Hidra-Equilibrante-750-Ml-Elvive-Acondicionador-Elvive-Hialuronico-Pure-750-Ml-1-972345.jpg?v=639123826735400000",
-   "cadena": "Vea",
-   "precio": 11160.0,
-   "link": "https://www.vea.com.ar/acondicionador-elvive-hialuronico-pure-750-ml/p",
-   "referencia": 17890.0,
-   "precio_2da": 18709.0,
-   "baja_pct": 37.6,
-   "brecha_pct": 40.3,
-   "score": 1518,
-   "pr": {
-    "Vea": [
-     11160.0,
-     "https://www.vea.com.ar/acondicionador-elvive-hialuronico-pure-750-ml/p"
-    ],
-    "Jumbo": [
-     20900.0,
-     "https://www.jumbo.com.ar/acondicionador-elvive-hialuronico-pure-750-ml/p"
-    ],
-    "ChangoMás": [
-     18709.0,
-     "https://www.masonline.com.ar/acondicionador-elvive-l-oreal-paris-hialuronico-pure-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Color Vive para Cabello Teñido 750 Ml Elvive",
-   "m": "ELVIVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/789187/Acondicionador-Elvive-Color-750ml-1-977737.jpg?v=638260690726500000",
-   "cadena": "Vea",
-   "precio": 11160.0,
-   "link": "https://www.vea.com.ar/acondicionador-elvive-color-vive-750-ml/p",
-   "referencia": 17890.0,
-   "precio_2da": 18709.0,
-   "baja_pct": 37.6,
-   "brecha_pct": 40.3,
-   "score": 1518,
-   "pr": {
-    "Vea": [
-     11160.0,
-     "https://www.vea.com.ar/acondicionador-elvive-color-vive-750-ml/p"
-    ],
-    "Jumbo": [
-     20900.0,
-     "https://www.jumbo.com.ar/acondicionador-elvive-color-vive-750-ml/p"
-    ],
-    "ChangoMás": [
-     18709.0,
-     "https://www.masonline.com.ar/acondicionador-elvive-protec-color-vive-750-cc-2/p"
+     5689.0,
+     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
     ]
    }
   },
@@ -1257,145 +801,29 @@
    }
   },
   {
-   "n": "Galletitas crackers Criollitas 100 g.",
-   "m": "Criollitas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365179/7790040377707_E02.jpg?v=638267770989930000",
-   "cadena": "Jumbo",
-   "precio": 480.0,
-   "link": "https://www.jumbo.com.ar/galletitas-de-agua-criollitas-originales-100-gr-2/p",
-   "referencia": 800.0,
-   "precio_2da": 770.0,
+   "n": "Agua Micelar Suavizante Teatrical 600 ml",
+   "m": "Teatrical",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/901671/650240051623_02.jpg?v=639195504153830000",
+   "cadena": "ChangoMás",
+   "precio": 7169.4,
+   "link": "https://www.masonline.com.ar/agua-micelar-teatrical-suavizante-x-600-ml-2/p",
+   "referencia": 11949.0,
+   "precio_2da": 11490.0,
    "baja_pct": 40.0,
-   "brecha_pct": 37.7,
-   "score": 1506,
+   "brecha_pct": 37.6,
+   "score": 1504,
    "pr": {
     "Carrefour": [
-     770.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-criollitas-100-g/p"
+     11490.0,
+     "https://www.carrefour.com.ar/agua-micelar-suavizante-teatrical-600-ml-678840/p"
     ],
-    "Vea": [
-     770.0,
-     "https://www.vea.com.ar/galletitas-de-agua-criollitas-originales-100-gr-2/p"
-    ],
-    "Jumbo": [
-     480.0,
-     "https://www.jumbo.com.ar/galletitas-de-agua-criollitas-originales-100-gr-2/p"
+    "Comodín": [
+     11605.39,
+     "https://www.comodinencasa.com.ar/agua-micelar-teatrical-suavizante-600gr/p"
     ],
     "ChangoMás": [
-     809.0,
-     "https://www.masonline.com.ar/galletitas-de-agua-criollitas-100-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida Isotónica Powerade Frutas Tropicales 995 ml",
-   "m": "Powerade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/790062/7790895006104_01.jpg?v=639038458103030000",
-   "cadena": "Comodín",
-   "precio": 2246.4,
-   "link": "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-frutas-t-995cc/p",
-   "referencia": 3744.0,
-   "precio_2da": 3600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1504,
-   "pr": {
-    "Carrefour": [
-     3600.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-powerade-frutas-tropicales-995-ml-570808/p"
-    ],
-    "Jumbo": [
-     3850.0,
-     "https://www.jumbo.com.ar/bebida-isotonica-frutas-tropicales-995-ml-powerade/p"
-    ],
-    "Comodín": [
-     2246.4,
-     "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-frutas-t-995cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Powerade Mountain Blast 995 ml",
-   "m": "Powerade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/787244/7790895006029_01.jpg?v=639029543843400000",
-   "cadena": "Comodín",
-   "precio": 2246.4,
-   "link": "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-mountain-995cc/p",
-   "referencia": 3744.0,
-   "precio_2da": 3600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1504,
-   "pr": {
-    "Carrefour": [
-     3600.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-powerade-mountain-blast-995-ml-570806/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/isotonico-powerade-mountain-blast-995cc/p"
-    ],
-    "Jumbo": [
-     3850.0,
-     "https://www.jumbo.com.ar/isotonico-powerade-mountain-blast-995cc/p"
-    ],
-    "Comodín": [
-     2246.4,
-     "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-mountain-995cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Powerade Manzana 995 ml",
-   "m": "Powerade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/787246/7790895006036_01.jpg?v=639029544077230000",
-   "cadena": "Comodín",
-   "precio": 2246.4,
-   "link": "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-manzana-995cc/p",
-   "referencia": 3744.0,
-   "precio_2da": 3600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1504,
-   "pr": {
-    "Carrefour": [
-     3600.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-powerade-manzana-995-ml-570807/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/isotonico-powerade-manzana-995cc/p"
-    ],
-    "Comodín": [
-     2246.4,
-     "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-manzana-995cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Elvive Glycolic Cristal 750 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/799641/7790033338159_01.jpg?v=639062669421870000",
-   "cadena": "Carrefour",
-   "precio": 12473.4,
-   "link": "https://www.carrefour.com.ar/acondicionador-elvive-glycolic-cristal-750-ml-775129/p",
-   "referencia": 19989.0,
-   "precio_2da": 20789.0,
-   "baja_pct": 37.6,
-   "brecha_pct": 40.0,
-   "score": 1504,
-   "pr": {
-    "Carrefour": [
-     12473.4,
-     "https://www.carrefour.com.ar/acondicionador-elvive-glycolic-cristal-750-ml-775129/p"
-    ],
-    "Jumbo": [
-     20950.0,
-     "https://www.jumbo.com.ar/acondicionador-brillo-cristalino-glycolic-cristal-x-750-ml-elvive/p"
-    ],
-    "ChangoMás": [
-     20789.0,
-     "https://www.masonline.com.ar/acondicionador-elvive-glycolic-cristal-750-ml/p"
+     7169.4,
+     "https://www.masonline.com.ar/agua-micelar-teatrical-suavizante-x-600-ml-2/p"
     ]
    }
   }
