@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-01",
- "actualizado": "2026-09-01 11:06",
+ "actualizado": "2026-09-01 15:26",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-08-31",
   "2026-09-01"
  ],
- "total": 34,
+ "total": 32,
  "ofertas": [
   {
    "n": "Papas Fritas Sabor A Ketchup Lays X 77 Gr",
@@ -349,13 +349,13 @@
      4153.79,
      "https://www.comodinencasa.com.ar/papas-fritas-lays-barbacoa-77gr/p"
     ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/papas-fritas-lays-sabor-a-barbacoa-77-g/p"
-    ],
     "Carrefour": [
      3999.0,
      "https://www.carrefour.com.ar/papas-fritas-lays-barbacoa-77-grs-762491/p"
+    ],
+    "ChangoMás": [
+     4369.0,
+     "https://www.masonline.com.ar/papas-fritas-lays-sabor-a-barbacoa-77-g/p"
     ]
    }
   },
@@ -793,60 +793,6 @@
    }
   },
   {
-   "n": "Limpiador de piso Pinoluz limón 900 ml",
-   "m": "Pinoluz",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/863964/7793253007324_02.jpg?v=639135132211800000",
-   "cadena": "Carrefour",
-   "precio": 1373.4,
-   "link": "https://www.carrefour.com.ar/limpiador-de-piso-pinoluz-limon-900-ml-778480/p",
-   "referencia": 2289.0,
-   "precio_2da": 2290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1601,
-   "pr": {
-    "Carrefour": [
-     1373.4,
-     "https://www.carrefour.com.ar/limpiador-de-piso-pinoluz-limon-900-ml-778480/p"
-    ],
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/limpiador-liquido-limon-x-900-ml-pinoluz/p"
-    ],
-    "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-limon-x-900-ml-pinoluz/p"
-    ]
-   }
-  },
-  {
-   "n": "Nestlé Chocolate Semiamargo 25 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878838/8445291565364_01.jpg?v=639149705102870000",
-   "cadena": "Carrefour",
-   "precio": 1379.4,
-   "link": "https://www.carrefour.com.ar/nestle-chocolate-semiamargo-25-grs-764049/p",
-   "referencia": 2299.0,
-   "precio_2da": 2299.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     1379.4,
-     "https://www.carrefour.com.ar/nestle-chocolate-semiamargo-25-grs-764049/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/chocolate-semi-amargo-x-25-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     2299.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-nestle-semi-amargo-25-g/p"
-    ]
-   }
-  },
-  {
    "n": "Protectores diarios Kotex esencial 60 uni",
    "m": "Kotex",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/670040/7794626014963_02.jpg?v=638851673754570000",
@@ -878,33 +824,33 @@
    }
   },
   {
-   "n": "Agua Saborizada Cero Sabor Naranja 500 Ml Levite",
-   "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833859/Saborizada-Levite-Cero-Naranja-500cc-1-469025.jpg?v=638615902316830000",
-   "cadena": "Vea",
-   "precio": 1314.0,
-   "link": "https://www.vea.com.ar/saborizada-levite-cero-naranja-500cc/p",
-   "referencia": 2190.0,
-   "precio_2da": 2190.0,
+   "n": "Toallitas Femeninas Nocturna con Alas Extra Protección x 8 Un Kotex",
+   "m": "KOTEX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786916/Toalla-Kotex-Alas-Extra-Suave-Nocturna-X8-1-883199.jpg?v=638240061669630000",
+   "cadena": "Carrefour",
+   "precio": 2537.4,
+   "link": "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-8-uni-691312/p",
+   "referencia": 4229.0,
+   "precio_2da": 4229.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Vea": [
-     1314.0,
-     "https://www.vea.com.ar/saborizada-levite-cero-naranja-500cc/p"
+     4350.0,
+     "https://www.vea.com.ar/toalla-kotex-alas-extra-suave-nocturna-x8/p"
     ],
-    "ChangoMás": [
-     2199.0,
-     "https://www.masonline.com.ar/agua-saborizada-naranja-levite-cero-500cc-2/p"
-    ],
-    "Comodín": [
-     2279.69,
-     "https://www.comodinencasa.com.ar/alimento-liq-levite-naranja-500cc/p"
+    "Jumbo": [
+     4500.0,
+     "https://www.jumbo.com.ar/toalla-kotex-alas-extra-suave-nocturna-x8/p"
     ],
     "Carrefour": [
-     2190.0,
-     "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-500-ml-737260/p"
+     2537.4,
+     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-8-uni-691312/p"
+    ],
+    "ChangoMás": [
+     4229.0,
+     "https://www.masonline.com.ar/toallitas-higienicas-kotex-nocturna-extra-proteccion-8un-2/p"
     ]
    }
   },
