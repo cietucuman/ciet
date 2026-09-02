@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-02",
- "actualizado": "2026-09-02 15:59",
+ "actualizado": "2026-09-02 16:40",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-01",
   "2026-09-02"
  ],
- "total": 20,
+ "total": 18,
  "ofertas": [
   {
    "n": "Aceitunas negras premiun Castell en frasco 190 g.",
@@ -102,13 +102,13 @@
      10920.0,
      "https://www.jumbo.com.ar/shampoo-brillo-anti-residuos-glycolic-cristal-x-750-ml-elvive/p"
     ],
-    "Carrefour": [
-     20789.0,
-     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-cristal-750-ml-775121/p"
-    ],
     "ChangoMás": [
      20789.0,
      "https://www.masonline.com.ar/shampoo-elvive-glycolic-cristal-750-ml/p"
+    ],
+    "Carrefour": [
+     20789.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-cristal-750-ml-775121/p"
     ]
    }
   },
@@ -306,37 +306,6 @@
    }
   },
   {
-   "n": "Limpiador Multiuso Citronella Rinde 5 Lts 150 Ml Multimax",
-   "m": "MULTIMAX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/715830/Limpiador-Multiuso-Para-Diluir-Citronella-Rinde-5-Litros-X-150ml-1-856920.jpg?v=637963042732200000",
-   "cadena": "Carrefour",
-   "precio": 1134.0,
-   "link": "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p",
-   "referencia": 1890.0,
-   "precio_2da": 1890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p"
-    ],
-    "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p"
-    ],
-    "ChangoMás": [
-     2029.0,
-     "https://www.masonline.com.ar/limpiador-liquido-multimax-citronella-rinde-5-litros-2/p"
-    ],
-    "Carrefour": [
-     1134.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p"
-    ]
-   }
-  },
-  {
    "n": "Agua mineral con gas Villavicencio 500 ml",
    "m": "Villavicencio",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915180/7799155000203_01.jpg?v=639226574797930000",
@@ -391,33 +360,6 @@
     "ChangoMás": [
      49119.0,
      "https://www.masonline.com.ar/whisky-finest-ballantines-1-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Queso blanco balance Casancrem 500 grs",
-   "m": "Casancrem",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/843656/7791337061507_01.jpg?v=639110771724870000",
-   "cadena": "Carrefour",
-   "precio": 5153.85,
-   "link": "https://www.carrefour.com.ar/queso-blanco-balance-casancremen-500-grs-748001/p",
-   "referencia": 7929.0,
-   "precio_2da": 9325.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.7,
-   "score": 1566,
-   "pr": {
-    "Carrefour": [
-     5153.85,
-     "https://www.carrefour.com.ar/queso-blanco-balance-casancremen-500-grs-748001/p"
-    ],
-    "Comodín": [
-     10652.79,
-     "https://www.comodinencasa.com.ar/queso-casancrem-balance-500-gr/p"
-    ],
-    "ChangoMás": [
-     9325.0,
-     "https://www.masonline.com.ar/queso-crema-casancrem-balance-500-g/p"
     ]
    }
   },
