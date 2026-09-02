@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-01",
- "actualizado": "2026-09-01 15:26",
+ "fecha": "2026-09-02",
+ "actualizado": "2026-09-02 11:47",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-22",
   "2026-08-23",
   "2026-08-24",
   "2026-08-25",
@@ -19,346 +18,11 @@
   "2026-08-29",
   "2026-08-30",
   "2026-08-31",
-  "2026-09-01"
+  "2026-09-01",
+  "2026-09-02"
  ],
- "total": 32,
+ "total": 16,
  "ofertas": [
-  {
-   "n": "Papas Fritas Sabor A Ketchup Lays X 77 Gr",
-   "m": "LAY´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826831/Papas-fritas-sabor-a-ketchup-Lays-x-77-Gr-Papas-Fritas-Sabor-A-Ketchup-Lays-X-77-Gr-1-972373.jpg?v=638556933825470000",
-   "cadena": "Vea",
-   "precio": 1945.0,
-   "link": "https://www.vea.com.ar/papas-fritas-sabor-a-ketchup-lays-x-77-gr/p",
-   "referencia": 3890.0,
-   "precio_2da": 3900.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.1,
-   "score": 2506,
-   "pr": {
-    "Vea": [
-     1945.0,
-     "https://www.vea.com.ar/papas-fritas-sabor-a-ketchup-lays-x-77-gr/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/papas-fritas-lays-sabor-ketchup-77g-2/p"
-    ],
-    "Carrefour": [
-     3900.0,
-     "https://www.carrefour.com.ar/papas-fritas-sabor-a-ketchup-lays-77-g-721963/p"
-    ]
-   }
-  },
-  {
-   "n": "Snack Ondulados Sabor Queso Crema 85 Grs Cheetos",
-   "m": "CHEETOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/837879/Cheetos-Ondulados-Queso-Crema-Ondulados-Queso-Crema-X-85-Gr-Cheetos-1-1011562.jpg?v=638647978329700000",
-   "cadena": "Vea",
-   "precio": 2000.0,
-   "link": "https://www.vea.com.ar/ondulados-queso-crema-x-85-gr-cheetos/p",
-   "referencia": 4000.0,
-   "precio_2da": 4000.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Vea": [
-     2000.0,
-     "https://www.vea.com.ar/ondulados-queso-crema-x-85-gr-cheetos/p"
-    ],
-    "Carrefour": [
-     4000.0,
-     "https://www.carrefour.com.ar/chizitos-cheetos-ondulados-queso-crema-85-grs-735819/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/cheetos-ondulados-sabor-queso-crema-85-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Snacks Ondulados Sabor Ketchup X 80 Grs Cheetos",
-   "m": "CHEETOS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/896007/Snacks-Ondulados-Sabor-Ketchup-X-80-Grs-Cheetos-1-1054047.jpg?v=639050601803170000",
-   "cadena": "Jumbo",
-   "precio": 1725.0,
-   "link": "https://www.jumbo.com.ar/snacks-ondulados-sabor-ketchup-x-80-grs-cheetos/p",
-   "referencia": 3450.0,
-   "precio_2da": 3399.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.2,
-   "score": 2462,
-   "pr": {
-    "Jumbo": [
-     1725.0,
-     "https://www.jumbo.com.ar/snacks-ondulados-sabor-ketchup-x-80-grs-cheetos/p"
-    ],
-    "Comodín": [
-     3399.0,
-     "https://www.comodinencasa.com.ar/cheetos-ondulados-ketchup-80gr/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/snack-de-maiz-cheetos-sabor-ketchup-80-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Chizitos de maíz sabor a queso Cheetos original 229 g",
-   "m": "Cheetos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904234/7790310985748_E01.jpg?v=639198971415830000",
-   "cadena": "Vea",
-   "precio": 4225.0,
-   "link": "https://www.vea.com.ar/chizitos-cheetos-original-229-g/p",
-   "referencia": 8450.0,
-   "precio_2da": 8319.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.2,
-   "score": 2461,
-   "pr": {
-    "Carrefour": [
-     8319.0,
-     "https://www.carrefour.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-229-g-729771/p"
-    ],
-    "Vea": [
-     4225.0,
-     "https://www.vea.com.ar/chizitos-cheetos-original-229-g/p"
-    ],
-    "Comodín": [
-     8654.89,
-     "https://www.comodinencasa.com.ar/cheetos-queso-x-238-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Maicitos Snacks Salados 265 Grs Pehuamar",
-   "m": "PEHUAMAR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/898064/11130555009.jpg?v=639063453402800000",
-   "cadena": "Vea",
-   "precio": 3145.0,
-   "link": "https://www.vea.com.ar/maicitos-pehuamar-2650r/p",
-   "referencia": 6290.0,
-   "precio_2da": 6139.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.8,
-   "score": 2439,
-   "pr": {
-    "Vea": [
-     3145.0,
-     "https://www.vea.com.ar/maicitos-pehuamar-2650r/p"
-    ],
-    "Carrefour": [
-     6139.0,
-     "https://www.carrefour.com.ar/maicitos-clasicos-pehuamar-265-g-744865/p"
-    ],
-    "ChangoMás": [
-     6709.0,
-     "https://www.masonline.com.ar/chizitos-de-maiz-maicitos-pehuamar-265-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza sin alcohol Heineken en lata 473 ml",
-   "m": "Heineken",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/652030/7793147574093_02.jpg.jpg?v=638817946170700000",
-   "cadena": "Jumbo",
-   "precio": 1661.0,
-   "link": "https://www.jumbo.com.ar/cerveza-cero-x-473-cc-heineken/p",
-   "referencia": 3322.0,
-   "precio_2da": 3234.39,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.6,
-   "score": 2432,
-   "pr": {
-    "Carrefour": [
-     3379.0,
-     "https://www.carrefour.com.ar/cerveza-sin-alcohol-heineken-en-lata-473-ml-761057/p"
-    ],
-    "Jumbo": [
-     1661.0,
-     "https://www.jumbo.com.ar/cerveza-cero-x-473-cc-heineken/p"
-    ],
-    "Comodín": [
-     3234.39,
-     "https://www.comodinencasa.com.ar/cerveza-heineken-0-0-alcohol-473-ml/p"
-    ],
-    "ChangoMás": [
-     3379.0,
-     "https://www.masonline.com.ar/cerveza-rubia-heineken-sin-alcohol-473-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza artesanal Antares Kolsch 473 ml",
-   "m": "Antares",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794098/7798091030329_01.jpg?v=639046450938970000",
-   "cadena": "Vea",
-   "precio": 2449.5,
-   "link": "https://www.vea.com.ar/cerveza-antares-kolsch-473-ml-2/p",
-   "referencia": 4899.0,
-   "precio_2da": 4739.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2416,
-   "pr": {
-    "Carrefour": [
-     4739.0,
-     "https://www.carrefour.com.ar/cerveza-artesanal-antares-kolsch-473-ml-684385/p"
-    ],
-    "Vea": [
-     2449.5,
-     "https://www.vea.com.ar/cerveza-antares-kolsch-473-ml-2/p"
-    ],
-    "ChangoMás": [
-     4739.0,
-     "https://www.masonline.com.ar/cerveza-kolsch-lata-antares-473-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas acanaladas Pehuamar 135 g.",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904218/7790310985441_E01.jpg?v=639198961219600000",
-   "cadena": "Vea",
-   "precio": 2095.0,
-   "link": "https://www.vea.com.ar/papas-fritas-pehuamar-acanaladas-135-g/p",
-   "referencia": 4190.0,
-   "precio_2da": 4050.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2414,
-   "pr": {
-    "Carrefour": [
-     4050.0,
-     "https://www.carrefour.com.ar/papas-fritas-acanaladas-pehuamar-135-g-721966/p"
-    ],
-    "Vea": [
-     2095.0,
-     "https://www.vea.com.ar/papas-fritas-pehuamar-acanaladas-135-g/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/papas-fritas-pehuamar-acanaladas-135g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza artesanal Antares Espiritu Lager 473 ml",
-   "m": "Antares",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551062/7798091030527_02.jpg?v=638599390525330000",
-   "cadena": "Vea",
-   "precio": 2099.5,
-   "link": "https://www.vea.com.ar/cereveza-antares-lager-473-cc-2/p",
-   "referencia": 4199.0,
-   "precio_2da": 4029.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2395,
-   "pr": {
-    "Carrefour": [
-     4029.0,
-     "https://www.carrefour.com.ar/cerveza-artesanal-antares-espiritu-lager-473-ml-746912/p"
-    ],
-    "Vea": [
-     2099.5,
-     "https://www.vea.com.ar/cereveza-antares-lager-473-cc-2/p"
-    ],
-    "ChangoMás": [
-     4029.0,
-     "https://www.masonline.com.ar/cerveza-rubia-antares-lager-liviana-473-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Honey 473 Ml Antares",
-   "m": "ANTARES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/606236/Cerveza-Antares-Honey-473cc-1-852369.jpg?v=637372052036500000",
-   "cadena": "Jumbo",
-   "precio": 2475.0,
-   "link": "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p",
-   "referencia": 4950.0,
-   "precio_2da": 4739.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.8,
-   "score": 2389,
-   "pr": {
-    "Jumbo": [
-     2475.0,
-     "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p"
-    ],
-    "ChangoMás": [
-     4739.0,
-     "https://www.masonline.com.ar/cerveza-honey-lata-antares-473-cc-2/p"
-    ],
-    "Carrefour": [
-     4739.0,
-     "https://www.carrefour.com.ar/cerveza-artesanal-antares-honey-473-ml-684384/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Fritas Ondas Sabor Flamin Hot 70 Grs Lay´s",
-   "m": "LAY´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826820/Papas-Fritas-Lays-Ondas-X70g-1-972358.jpg?v=638556933786830000",
-   "cadena": "Vea",
-   "precio": 1945.0,
-   "link": "https://www.vea.com.ar/papas-fritas-lays-ondas-sabor-a-flamin-hot-70-gr/p",
-   "referencia": 3890.0,
-   "precio_2da": 3689.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.3,
-   "score": 2364,
-   "pr": {
-    "Vea": [
-     1945.0,
-     "https://www.vea.com.ar/papas-fritas-lays-ondas-sabor-a-flamin-hot-70-gr/p"
-    ],
-    "Comodín": [
-     3732.59,
-     "https://www.comodinencasa.com.ar/papas-fritas-lays-ondas-flamin-hot-70gr/p"
-    ],
-    "ChangoMás": [
-     4059.0,
-     "https://www.masonline.com.ar/papas-fritas-lays-ondas-flamin-hot-70g-2/p"
-    ],
-    "Carrefour": [
-     3689.0,
-     "https://www.carrefour.com.ar/papas-fritas-lays-ondas-flamin-hot-70-grs-722441/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Fritas Sabor Barbacoa 77 Grs Lay's",
-   "m": "LAY´S",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/871931/Papa-Fritas-Barbacoa-X-77-Gr-Lays-1-1039046.jpg?v=638853610867630000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-barbacoa-x-77-grs-lays/p",
-   "referencia": 4100.0,
-   "precio_2da": 3999.0,
-   "baja_pct": 48.8,
-   "brecha_pct": 47.5,
-   "score": 2316,
-   "pr": {
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/papas-fritas-barbacoa-x-77-grs-lays/p"
-    ],
-    "Comodín": [
-     4153.79,
-     "https://www.comodinencasa.com.ar/papas-fritas-lays-barbacoa-77gr/p"
-    ],
-    "Carrefour": [
-     3999.0,
-     "https://www.carrefour.com.ar/papas-fritas-lays-barbacoa-77-grs-762491/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/papas-fritas-lays-sabor-a-barbacoa-77-g/p"
-    ]
-   }
-  },
   {
    "n": "Aceitunas negras premiun Castell en frasco 190 g.",
    "m": "Castell",
@@ -391,246 +55,6 @@
    }
   },
   {
-   "n": "Palitos salados Krachitos 70 g.",
-   "m": "Krachitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904445/7794520868952_E01.jpg?v=639199030676130000",
-   "cadena": "Jumbo",
-   "precio": 725.0,
-   "link": "https://www.jumbo.com.ar/palitos-salados-krachitos-70-gr/p",
-   "referencia": 1450.0,
-   "precio_2da": 1290.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.8,
-   "score": 2190,
-   "pr": {
-    "Carrefour": [
-     1290.0,
-     "https://www.carrefour.com.ar/palitos-salados-krachitos-70-g-717256/p"
-    ],
-    "Jumbo": [
-     725.0,
-     "https://www.jumbo.com.ar/palitos-salados-krachitos-70-gr/p"
-    ],
-    "ChangoMás": [
-     1399.0,
-     "https://www.masonline.com.ar/palitos-krachitos-salados-70g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos salados sabor panceta Pep 120 g.",
-   "m": "Pep",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904420/7790310984307_E01.jpg?v=639199025811200000",
-   "cadena": "Jumbo",
-   "precio": 1975.0,
-   "link": "https://www.jumbo.com.ar/palitos-salados-pep-panceta-120-g/p",
-   "referencia": 3950.0,
-   "precio_2da": 3500.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.6,
-   "score": 2179,
-   "pr": {
-    "Carrefour": [
-     3500.0,
-     "https://www.carrefour.com.ar/palitos-salados-sabor-pancetabolsa-pep-120-g-676527/p"
-    ],
-    "Jumbo": [
-     1975.0,
-     "https://www.jumbo.com.ar/palitos-salados-pep-panceta-120-g/p"
-    ],
-    "Comodín": [
-     3842.79,
-     "https://www.comodinencasa.com.ar/palitos-pep-120-gr/p"
-    ],
-    "ChangoMás": [
-     3799.0,
-     "https://www.masonline.com.ar/palitos-pep-comun-120-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza roja Rabieta Honey 473 ml",
-   "m": "Rabieta",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/268991/7798339250182_01.jpg?v=638074042093270000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/cerveza-rabieta-red-honey-473cc-2/p",
-   "referencia": 4200.0,
-   "precio_2da": 3700.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.2,
-   "score": 2162,
-   "pr": {
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/cerveza-roja-rabieta-honey-473-ml-646258/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/cerveza-rabieta-red-honey-473cc-2/p"
-    ],
-    "Comodín": [
-     4055.99,
-     "https://www.comodinencasa.com.ar/cerveza-rabieta-red-honey-lata-473cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Rabieta Helles Munich 473 ml",
-   "m": "Rabieta",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/268992/7798339250212_01.jpg?v=638074042103070000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/cerveza-rabieta-helles-munich-473cc-2/p",
-   "referencia": 4200.0,
-   "precio_2da": 3699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.2,
-   "score": 2161,
-   "pr": {
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/cerveza-rabieta-helles-munich-473-ml-672343/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/cerveza-rabieta-helles-munich-473cc-2/p"
-    ],
-    "Comodín": [
-     4055.99,
-     "https://www.comodinencasa.com.ar/cerveza-rabieta-helles-munich-lata-473cc/p"
-    ],
-    "ChangoMás": [
-     3699.0,
-     "https://www.masonline.com.ar/cerveza-helles-munich-rabieta-473-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Golden Ale 473 Cc Rabieta",
-   "m": "RABIETA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/782026/Cerveza-Rabieta-Golden-Ale-473-Cc-1-850855.jpg?v=638201073966300000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p",
-   "referencia": 4200.0,
-   "precio_2da": 3699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.2,
-   "score": 2161,
-   "pr": {
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/cerveza-rabieta-golden-ale-473cc-2/p"
-    ],
-    "Comodín": [
-     4055.99,
-     "https://www.comodinencasa.com.ar/cerveza-rabieta-golden-ale-lata-473cc/p"
-    ],
-    "ChangoMás": [
-     3699.0,
-     "https://www.masonline.com.ar/cerveza-golden-ale-rabieta-473-cc-2/p"
-    ],
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-rabieta-golden-ale-473-ml-646252/p"
-    ]
-   }
-  },
-  {
-   "n": "Chizitos de maíz sabor a queso Cheetos original 85 g",
-   "m": "Cheetos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904232/7790310985809_E01.jpg?v=639198971153230000",
-   "cadena": "Vea",
-   "precio": 1995.0,
-   "link": "https://www.vea.com.ar/chizitos-cheetos-original-85-g/p",
-   "referencia": 3990.0,
-   "precio_2da": 3399.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.3,
-   "score": 2065,
-   "pr": {
-    "Carrefour": [
-     4050.0,
-     "https://www.carrefour.com.ar/chorizo-de-maiz-sabor-a-queso-cheetos-original-85-g-729769/p"
-    ],
-    "Vea": [
-     1995.0,
-     "https://www.vea.com.ar/chizitos-cheetos-original-85-g/p"
-    ],
-    "Comodín": [
-     3399.0,
-     "https://www.comodinencasa.com.ar/cheetos-queso-x-94-gr/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/cheetos-sabor-queso-85-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Snacks Salados Tubitos de Harina de Maíz Sabor Queso 85 Grs 3D´S",
-   "m": "3D´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826854/Tubitos-De-Harina-De-Ma-z-Sabor-Queso-3d-Mega-Queso-X-85-Gr-1-997759.jpg?v=638556933902530000",
-   "cadena": "Vea",
-   "precio": 1995.0,
-   "link": "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-85-g/p",
-   "referencia": 3990.0,
-   "precio_2da": 3399.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.3,
-   "score": 2065,
-   "pr": {
-    "Vea": [
-     1995.0,
-     "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-85-g/p"
-    ],
-    "Comodín": [
-     3399.0,
-     "https://www.comodinencasa.com.ar/3-ds-mega-queso-x-85gr/p"
-    ],
-    "ChangoMás": [
-     4369.0,
-     "https://www.masonline.com.ar/conos-3d-sabor-queso-85-g-2/p"
-    ],
-    "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/-g-tubitos-de-harina-de-maiz-sabor-queso-d-mega-queso-85-g-729772/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos Salados 165 Grs Pehuamar",
-   "m": "PEHUAMAR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826834/Palitos-salados-Pehuamar-x-165-Gr-Palitos-Salados-Pehuamar-X-165-Gr-1-972376.jpg?v=638556933835100000",
-   "cadena": "Vea",
-   "precio": 1795.0,
-   "link": "https://www.vea.com.ar/palitos-pehuamar-salados-165-g/p",
-   "referencia": 3590.0,
-   "precio_2da": 2999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.1,
-   "score": 2007,
-   "pr": {
-    "Vea": [
-     1795.0,
-     "https://www.vea.com.ar/palitos-pehuamar-salados-165-g/p"
-    ],
-    "Comodín": [
-     2999.0,
-     "https://www.comodinencasa.com.ar/palitos-pehuamar-salados-165-gr/p"
-    ],
-    "ChangoMás": [
-     3949.0,
-     "https://www.masonline.com.ar/palitos-pehuamar-salados-165g-2/p"
-    ],
-    "Carrefour": [
-     3639.0,
-     "https://www.carrefour.com.ar/palitos-salados-pehuamar-165-g-721968/p"
-    ]
-   }
-  },
-  {
    "n": "Agua saborizada limoneto H2OH con gas 2,25 lts",
    "m": "H2oh!",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308966/7791813423911_E01.jpg?v=638146793786800000",
@@ -654,33 +78,6 @@
     "ChangoMás": [
      3449.0,
      "https://www.masonline.com.ar/agua-saborizada-limoneto-h2o-2-25lt-8-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Laurel Hoja Alicante 10 Gr",
-   "m": "ALICANTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/690299/Laurel-Alicante-Hoja-X10g-1-885241.jpg?v=637811625875530000",
-   "cadena": "ChangoMás",
-   "precio": 1339.0,
-   "link": "https://www.masonline.com.ar/laurel-en-hojas-alicante-10-gr-2/p",
-   "referencia": 2259.0,
-   "precio_2da": 2290.0,
-   "baja_pct": 40.7,
-   "brecha_pct": 41.5,
-   "score": 1691,
-   "pr": {
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/laurel-hoja-alicante-10-gr/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/laurel-hoja-alicante-10-gr/p"
-    ],
-    "ChangoMás": [
-     1339.0,
-     "https://www.masonline.com.ar/laurel-en-hojas-alicante-10-gr-2/p"
     ]
    }
   },
@@ -712,6 +109,33 @@
    }
   },
   {
+   "n": "Crema saborizada champignón Las Tres Niñas 190 ml",
+   "m": "Las Tres Niñas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838529/7798338291353_01.jpg?v=639104910146600000",
+   "cadena": "Carrefour",
+   "precio": 1834.5,
+   "link": "https://www.carrefour.com.ar/crema-saborizada-champignon-las-tres-ninas-190-ml-764447/p",
+   "referencia": 2751.75,
+   "precio_2da": 3669.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 50.0,
+   "score": 1667,
+   "pr": {
+    "Carrefour": [
+     1834.5,
+     "https://www.carrefour.com.ar/crema-saborizada-champignon-las-tres-ninas-190-ml-764447/p"
+    ],
+    "Jumbo": [
+     3750.0,
+     "https://www.jumbo.com.ar/salsa-crema-las-tres-ninas-champ-190ml/p"
+    ],
+    "ChangoMás": [
+     3669.0,
+     "https://www.masonline.com.ar/salsa-de-crema-las-tres-ninas-sabor-champignon-190-ml/p"
+    ]
+   }
+  },
+  {
    "n": "Crema saborizada 4 quesos Las Tres Niñas 190 ml",
    "m": "Las Tres Niñas",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838531/7798338291346_01.jpg?v=639104910828930000",
@@ -739,56 +163,56 @@
    }
   },
   {
-   "n": "Papas fritas Saladix sabor cheddar 72 grs",
-   "m": "Saladix",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/803102/7790040153158_E01.jpg?v=639074638986200000",
+   "n": "Fideos municiones Matarazzo 500 g.",
+   "m": "Matarazzo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/889107/7790070320032_02.jpg?v=639166217411030000",
    "cadena": "Jumbo",
-   "precio": 2275.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-saladix-cheddar-x-72-grs-saladix/p",
-   "referencia": 4550.0,
-   "precio_2da": 3399.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.1,
-   "score": 1653,
+   "precio": 1105.2,
+   "link": "https://www.jumbo.com.ar/fideos-municiones-matarazzo-x500-gr-2/p",
+   "referencia": 1842.0,
+   "precio_2da": 1890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.5,
+   "score": 1661,
    "pr": {
     "Carrefour": [
-     3399.0,
-     "https://www.carrefour.com.ar/papas-fritas-saladix-sabor-cheddar-72-grs-775923/p"
+     1890.0,
+     "https://www.carrefour.com.ar/fideos-municiones-matarazzo-500-g-29471/p"
     ],
     "Jumbo": [
-     2275.0,
-     "https://www.jumbo.com.ar/papas-fritas-saladix-cheddar-x-72-grs-saladix/p"
+     1105.2,
+     "https://www.jumbo.com.ar/fideos-municiones-matarazzo-x500-gr-2/p"
     ],
     "ChangoMás": [
-     3399.0,
-     "https://www.masonline.com.ar/papas-fritas-saladix-cheddar-72-g/p"
+     2189.0,
+     "https://www.masonline.com.ar/fideos-municiones-matarazzo-500-gr-2/p"
     ]
    }
   },
   {
-   "n": "Cerveza artesanal Antares Scotch 473 ml",
-   "m": "Antares",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794099/7798091030343_01.jpg?v=639046451199000000",
+   "n": "Chocolate blanco Arcor 25 g.",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914542/7790580607418_E01.jpg?v=639222455418200000",
    "cadena": "Vea",
-   "precio": 2449.5,
-   "link": "https://www.vea.com.ar/cerveza-antares-scotch-473-ml-2/p",
-   "referencia": 3674.25,
-   "precio_2da": 4739.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 48.3,
-   "score": 1610,
+   "precio": 954.0,
+   "link": "https://www.vea.com.ar/chocolate-arcor-blanco-25-gr/p",
+   "referencia": 1590.0,
+   "precio_2da": 1590.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
     "Carrefour": [
-     4739.0,
-     "https://www.carrefour.com.ar/cerveza-artesanal-antares-scotch-473-ml-684386/p"
+     1590.0,
+     "https://www.carrefour.com.ar/chocolate-blanco-arcor-25-g-39295/p"
     ],
     "Vea": [
-     2449.5,
-     "https://www.vea.com.ar/cerveza-antares-scotch-473-ml-2/p"
+     954.0,
+     "https://www.vea.com.ar/chocolate-arcor-blanco-25-gr/p"
     ],
-    "ChangoMás": [
-     4739.0,
-     "https://www.masonline.com.ar/cerveza-scotch-lata-antares-473-cc-2/p"
+    "Comodín": [
+     1647.49,
+     "https://www.comodinencasa.com.ar/chocolate-arcor-blanco-25gr-2/p"
     ]
    }
   },
@@ -824,64 +248,6 @@
    }
   },
   {
-   "n": "Toallitas Femeninas Nocturna con Alas Extra Protección x 8 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786916/Toalla-Kotex-Alas-Extra-Suave-Nocturna-X8-1-883199.jpg?v=638240061669630000",
-   "cadena": "Carrefour",
-   "precio": 2537.4,
-   "link": "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-8-uni-691312/p",
-   "referencia": 4229.0,
-   "precio_2da": 4229.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     4350.0,
-     "https://www.vea.com.ar/toalla-kotex-alas-extra-suave-nocturna-x8/p"
-    ],
-    "Jumbo": [
-     4500.0,
-     "https://www.jumbo.com.ar/toalla-kotex-alas-extra-suave-nocturna-x8/p"
-    ],
-    "Carrefour": [
-     2537.4,
-     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-8-uni-691312/p"
-    ],
-    "ChangoMás": [
-     4229.0,
-     "https://www.masonline.com.ar/toallitas-higienicas-kotex-nocturna-extra-proteccion-8un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Yogur bebible sabor multifruta Ser 190 grs",
-   "m": "Ser",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834333/7791337007185_E01.jpg?v=639102382930430000",
-   "cadena": "Jumbo",
-   "precio": 2118.6,
-   "link": "https://www.jumbo.com.ar/yogur-bebible-sabor-multifruta-190-grs-ser/p",
-   "referencia": 3531.0,
-   "precio_2da": 3530.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1599,
-   "pr": {
-    "Carrefour": [
-     3530.0,
-     "https://www.carrefour.com.ar/yogur-bebible-sabor-multifruta-ser-190-grs-720860/p"
-    ],
-    "Jumbo": [
-     2118.6,
-     "https://www.jumbo.com.ar/yogur-bebible-sabor-multifruta-190-grs-ser/p"
-    ],
-    "Comodín": [
-     4032.09,
-     "https://www.comodinencasa.com.ar/yogur-ser-botellita-multifruta-190-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Agua mineral con gas Villavicencio 500 ml",
    "m": "Villavicencio",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915180/7799155000203_01.jpg?v=639226574797930000",
@@ -913,6 +279,60 @@
    }
   },
   {
+   "n": "Whisky importado Ballantines finest 1 l.",
+   "m": "Ballantines",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821023/5010106111925_01.jpg?v=639083181323970000",
+   "cadena": "Vea",
+   "precio": 29520.0,
+   "link": "https://www.vea.com.ar/whisky-ballantines-finest-1-l/p",
+   "referencia": 49200.0,
+   "precio_2da": 49119.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.9,
+   "score": 1596,
+   "pr": {
+    "Carrefour": [
+     49119.0,
+     "https://www.carrefour.com.ar/whisky-importado-ballantines-finest-1-l/p"
+    ],
+    "Vea": [
+     29520.0,
+     "https://www.vea.com.ar/whisky-ballantines-finest-1-l/p"
+    ],
+    "ChangoMás": [
+     49119.0,
+     "https://www.masonline.com.ar/whisky-finest-ballantines-1-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Whisky Chivas Regal importado 12 años 700 cc.",
+   "m": "Chivas Regal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823739/80432402931_01.jpg?v=639083182089330000",
+   "cadena": "Vea",
+   "precio": 42720.0,
+   "link": "https://www.vea.com.ar/whisky-chivas-12-700-ml/p",
+   "referencia": 71200.0,
+   "precio_2da": 70119.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1563,
+   "pr": {
+    "Carrefour": [
+     70119.0,
+     "https://www.carrefour.com.ar/whisky-chivas-regal-importado-12-anos-700-cc-697600/p"
+    ],
+    "Vea": [
+     42720.0,
+     "https://www.vea.com.ar/whisky-chivas-12-700-ml/p"
+    ],
+    "ChangoMás": [
+     70119.0,
+     "https://www.masonline.com.ar/whisky-chicas-regal-12-700-cc-2/p"
+    ]
+   }
+  },
+  {
    "n": "Máquina de afeitar Bic Soleil femenina pack 2 uni",
    "m": "Bic",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/188599/70330731745_01.jpg?v=637474621077370000",
@@ -940,6 +360,118 @@
     "Comodín": [
      5055.99,
      "https://www.comodinencasa.com.ar/maquina-de-afeitar-bic-soleil-2un/p"
+    ]
+   }
+  },
+  {
+   "n": "Vodka Skyy Pinneapple Infusions en botella 700 ml",
+   "m": "Skyy",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823345/7791200200859_01.jpg?v=639220480144800000",
+   "cadena": "Jumbo",
+   "precio": 8160.0,
+   "link": "https://www.jumbo.com.ar/vodka-infusions-pineapple-700ml-skyy/p",
+   "referencia": 13600.0,
+   "precio_2da": 13199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1527,
+   "pr": {
+    "Carrefour": [
+     13199.0,
+     "https://www.carrefour.com.ar/vodka-skyy-pinneapple-infusions-en-botella-700-ml-771409/p"
+    ],
+    "Jumbo": [
+     8160.0,
+     "https://www.jumbo.com.ar/vodka-infusions-pineapple-700ml-skyy/p"
+    ],
+    "ChangoMás": [
+     13199.0,
+     "https://www.masonline.com.ar/vodka-skyy-infusions-pineapple-700-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Yogur Sabor Vainilla Semidescremado 900 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/897458/Yogurt-Vainilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053814.jpg?v=639142839814700000",
+   "cadena": "Jumbo",
+   "precio": 3099.0,
+   "link": "https://www.jumbo.com.ar/yogur-entero-sabor-vainilla-sachet-900-grs-la-serenisima-2/p",
+   "referencia": 6250.0,
+   "precio_2da": 4435.0,
+   "baja_pct": 50.4,
+   "brecha_pct": 30.1,
+   "score": 1519,
+   "pr": {
+    "Jumbo": [
+     3099.0,
+     "https://www.jumbo.com.ar/yogur-entero-sabor-vainilla-sachet-900-grs-la-serenisima-2/p"
+    ],
+    "ChangoMás": [
+     4435.0,
+     "https://www.masonline.com.ar/yogur-la-serenisima-sachet-clasico-sabor-vainilla-900-g-2/p"
+    ],
+    "Carrefour": [
+     4438.46,
+     "https://www.carrefour.com.ar/sachet-yogur-entero-sabor-vainilla-la-serenisima-nutricion-activa-900-grs-772807/p"
+    ]
+   }
+  },
+  {
+   "n": "Pan Salvado Lactal 560 grs",
+   "m": "Lactal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/919385/7793890258783_01.jpg?v=639232818521270000",
+   "cadena": "Jumbo",
+   "precio": 3899.0,
+   "link": "https://www.jumbo.com.ar/pan-salvado-560-grs-lactal/p",
+   "referencia": 6600.0,
+   "precio_2da": 6190.0,
+   "baja_pct": 40.9,
+   "brecha_pct": 37.0,
+   "score": 1515,
+   "pr": {
+    "Carrefour": [
+     6190.0,
+     "https://www.carrefour.com.ar/pan-salvado-lactal-560-grs-716486/p"
+    ],
+    "Vea": [
+     6390.0,
+     "https://www.vea.com.ar/pan-salvado-560-grs-lactal/p"
+    ],
+    "Jumbo": [
+     3899.0,
+     "https://www.jumbo.com.ar/pan-salvado-560-grs-lactal/p"
+    ]
+   }
+  },
+  {
+   "n": "Máquina de afeitar Bic Soleil Sandalo y Coco 2 uni",
+   "m": "Bic",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/842543/7501843507365_02.jpg?v=639105693497830000",
+   "cadena": "Carrefour",
+   "precio": 4095.0,
+   "link": "https://www.carrefour.com.ar/maquina-de-afeitar-bic-soleil-sandalo-y-coco-2-uni-777721/p",
+   "referencia": 6300.0,
+   "precio_2da": 7190.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.0,
+   "score": 1507,
+   "pr": {
+    "Carrefour": [
+     4095.0,
+     "https://www.carrefour.com.ar/maquina-de-afeitar-bic-soleil-sandalo-y-coco-2-uni-777721/p"
+    ],
+    "Vea": [
+     7190.0,
+     "https://www.vea.com.ar/maquina-desechable-bic-soleil-san-y-coco-2u/p"
+    ],
+    "Jumbo": [
+     7250.0,
+     "https://www.jumbo.com.ar/maquina-desechable-bic-soleil-san-y-coco-2u/p"
+    ],
+    "ChangoMás": [
+     7519.0,
+     "https://www.masonline.com.ar/maquina-de-afeitar-bic-soleil-escape-2-u/p"
     ]
    }
   }
