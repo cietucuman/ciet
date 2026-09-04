@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-04",
- "actualizado": "2026-09-04 11:47",
+ "actualizado": "2026-09-04 15:49",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-03",
   "2026-09-04"
  ],
- "total": 37,
+ "total": 39,
  "ofertas": [
   {
    "n": "Chocolate Sabor Castañas de Cajú Diplomata 80 Grs Nestle",
@@ -206,6 +206,33 @@
    }
   },
   {
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891692/7891150104822.jpg?v=639001945753600000",
+   "cadena": "Carrefour",
+   "precio": 3594.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
+   "referencia": 5990.0,
+   "precio_2da": 7059.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 49.1,
+   "score": 1963,
+   "pr": {
+    "Jumbo": [
+     7200.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+    ],
+    "Carrefour": [
+     3594.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    ],
+    "ChangoMás": [
+     7059.0,
+     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+    ]
+   }
+  },
+  {
    "n": "Galletitas dulces Oreo rellenas con crema 118 g.",
    "m": "Oreo",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912592/7622201735296_01.jpg?v=639220554113730000",
@@ -253,13 +280,48 @@
      14118.83,
      "https://www.vea.com.ar/cafe-molido-seattles-best-coffee-portside-170-g/p"
     ],
-    "ChangoMás": [
-     14679.0,
-     "https://www.masonline.com.ar/cafe-molido-seattle-s-best-house-blend-170-g/p"
-    ],
     "Carrefour": [
      8073.45,
      "https://www.carrefour.com.ar/cafe-molido-house-blend-seattles-best-170-grs-780514/p"
+    ],
+    "ChangoMás": [
+     14679.0,
+     "https://www.masonline.com.ar/cafe-molido-seattle-s-best-house-blend-170-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate para taza Águila semiamargo 150 g.",
+   "m": "Águila",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/172237/7790407031273_01.jpg?v=637468545939500000",
+   "cadena": "Vea",
+   "precio": 4295.0,
+   "link": "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p",
+   "referencia": 8690.0,
+   "precio_2da": 6914.25,
+   "baja_pct": 50.6,
+   "brecha_pct": 37.9,
+   "score": 1916,
+   "pr": {
+    "Carrefour": [
+     8390.0,
+     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-semiamargo-150-g-181791/p"
+    ],
+    "Vea": [
+     4295.0,
+     "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p"
+    ],
+    "Jumbo": [
+     8454.0,
+     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-150-gr/p"
+    ],
+    "Comodín": [
+     8509.39,
+     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-150gr/p"
+    ],
+    "ChangoMás": [
+     6914.25,
+     "https://www.masonline.com.ar/chocolate-taza-aguila-negro-150-gr-2/p"
     ]
    }
   },
@@ -438,41 +500,6 @@
    }
   },
   {
-   "n": "Chocolate para taza Águila semiamargo 150 g.",
-   "m": "Águila",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/172237/7790407031273_01.jpg?v=637468545939500000",
-   "cadena": "Vea",
-   "precio": 4295.0,
-   "link": "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p",
-   "referencia": 8690.0,
-   "precio_2da": 6292.5,
-   "baja_pct": 50.6,
-   "brecha_pct": 31.7,
-   "score": 1605,
-   "pr": {
-    "Carrefour": [
-     6292.5,
-     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-semiamargo-150-g-181791/p"
-    ],
-    "Vea": [
-     4295.0,
-     "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p"
-    ],
-    "Jumbo": [
-     8454.0,
-     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-150-gr/p"
-    ],
-    "Comodín": [
-     8509.39,
-     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-150gr/p"
-    ],
-    "ChangoMás": [
-     6914.25,
-     "https://www.masonline.com.ar/chocolate-taza-aguila-negro-150-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Nescafé Dolca Suave 100 grs",
    "m": "Dolca",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849665/8445291082113_01.jpg?v=639119696290430000",
@@ -554,6 +581,60 @@
    }
   },
   {
+   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15290.0,
+     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Keratina Repara y Protege 510 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865046/Acondicionador-Pantene-Keratina-510ml-Acondicionador-Keratina-X-510-Ml-Pantene-1-1036880.jpg?v=638809545768370000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-keratina-repara-y-protege-reparador-510-ml-760660/p",
+   "referencia": 15290.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     15290.0,
+     "https://www.vea.com.ar/acondicionador-keratina-x-510-ml-pantene/p"
+    ],
+    "Jumbo": [
+     18200.0,
+     "https://www.jumbo.com.ar/acondicionador-keratina-x-510-ml-pantene/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-keratina-repara-y-protege-reparador-510-ml-760660/p"
+    ]
+   }
+  },
+  {
    "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
    "m": "ALWAYS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
@@ -577,6 +658,10 @@
     "Carrefour": [
      5899.0,
      "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
+    ],
+    "ChangoMás": [
+     5919.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
     ]
    }
   },
@@ -608,64 +693,6 @@
     "ChangoMás": [
      2537.4,
      "https://www.masonline.com.ar/toallitas-higienicas-kotex-nocturna-extra-proteccion-8un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Protectores Diarios Cuidado Diario x 100 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/787575/Protectores-Diarios-Kotex-Multifuci-n-Blocker-100-U-1-43350.jpg?v=638242761693130000",
-   "cadena": "Carrefour",
-   "precio": 9300.0,
-   "link": "https://www.carrefour.com.ar/protector-diario-kotex-cuidado-diario-100-uni-586304/p",
-   "referencia": 15500.0,
-   "precio_2da": 15500.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15500.0,
-     "https://www.vea.com.ar/protectores-diarios-multifucion-blocker-100-un-kotex/p"
-    ],
-    "Jumbo": [
-     16550.0,
-     "https://www.jumbo.com.ar/protectores-diarios-multifucion-blocker-100-un-kotex/p"
-    ],
-    "Carrefour": [
-     9300.0,
-     "https://www.carrefour.com.ar/protector-diario-kotex-cuidado-diario-100-uni-586304/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallas Xtra Doble Protección Suave 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781532/Toallas-Femeninas-Always-Extra-Suave-8u-1-957997.jpg?v=638197833874230000",
-   "cadena": "Vea",
-   "precio": 1979.4,
-   "link": "https://www.vea.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p",
-   "referencia": 3299.0,
-   "precio_2da": 3299.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     1979.4,
-     "https://www.vea.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p"
-    ],
-    "Jumbo": [
-     3400.0,
-     "https://www.jumbo.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p"
-    ],
-    "Carrefour": [
-     3299.0,
-     "https://www.carrefour.com.ar/-always-xtra-doble-proteccion-suave-toallas-femeninas-8-uni-720102/p"
-    ],
-    "ChangoMás": [
-     3549.0,
-     "https://www.masonline.com.ar/toallitas-femeninas-always-xtra-doble-proteccion-suave-8u-2/p"
     ]
    }
   },
@@ -875,6 +902,33 @@
     "Carrefour": [
      2429.0,
      "https://www.carrefour.com.ar/agua-de-mesa-sin-gas-nestle-15-lts-557757/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Cofler Aireado 55 Gr",
+   "m": "COFLER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/583090/Chocolate-Cofler-Aireado-55-Gr-1-40287.jpg?v=637234676609700000",
+   "cadena": "Vea",
+   "precio": 3114.0,
+   "link": "https://www.vea.com.ar/chocolate-cofler-aireado-55-gr/p",
+   "referencia": 5190.0,
+   "precio_2da": 5089.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1552,
+   "pr": {
+    "Vea": [
+     3114.0,
+     "https://www.vea.com.ar/chocolate-cofler-aireado-55-gr/p"
+    ],
+    "ChangoMás": [
+     5089.0,
+     "https://www.masonline.com.ar/chocolate-blanco-aireado-cofler-55gr-2/p"
+    ],
+    "Carrefour": [
+     5190.0,
+     "https://www.carrefour.com.ar/chocolate-blanco-cofler-air-55-g-39354/p"
     ]
    }
   },
