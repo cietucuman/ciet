@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-05",
- "actualizado": "2026-09-05 06:33",
+ "actualizado": "2026-09-05 13:38",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,8 +21,39 @@
   "2026-09-04",
   "2026-09-05"
  ],
- "total": 31,
+ "total": 32,
  "ofertas": [
+  {
+   "n": "Chocolate Sabor Blanco 80 Grs Galak",
+   "m": "GALAK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875531/Chocolate-Blanco-Galak-Nestl-X-80-Gr-1-950496.jpg?v=638872403773770000",
+   "cadena": "Carrefour",
+   "precio": 2845.0,
+   "link": "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p",
+   "referencia": 5690.0,
+   "precio_2da": 5690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
+    ],
+    "Jumbo": [
+     6300.0,
+     "https://www.jumbo.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
+    ],
+    "ChangoMás": [
+     6069.0,
+     "https://www.masonline.com.ar/chocolate-nestle-blanco-galak-80g-2/p"
+    ],
+    "Carrefour": [
+     2845.0,
+     "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
+    ]
+   }
+  },
   {
    "n": "Chocolate Nestlé Crunch 45 grs",
    "m": "Nestlé",
@@ -51,6 +82,41 @@
     "ChangoMás": [
      3659.0,
      "https://www.masonline.com.ar/tableta-de-chocolate-nestle-crunch-45-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Clight ananá 7grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812024/7622201702625_E01.jpg?v=639082498866770000",
+   "cadena": "Carrefour",
+   "precio": 280.0,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-anana-7-grs-711433/p",
+   "referencia": 560.0,
+   "precio_2da": 489.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.9,
+   "score": 2143,
+   "pr": {
+    "Carrefour": [
+     280.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-anana-7-grs-711433/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
+    ],
+    "Comodín": [
+     489.99,
+     "https://www.comodinencasa.com.ar/jugo-clight-anana-x-7-gr/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-anana-7g-2/p"
     ]
    }
   },
@@ -113,37 +179,6 @@
     "Carrefour": [
      6490.0,
      "https://www.carrefour.com.ar/chocolate-para-taza-aguila-100-g-16788/p"
-    ]
-   }
-  },
-  {
-   "n": "Nestlé Galak chocolate blanco 80 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914832/7891000368626_E01.jpg?v=639223069285930000",
-   "cadena": "Carrefour",
-   "precio": 2845.0,
-   "link": "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p",
-   "referencia": 4461.5,
-   "precio_2da": 5690.0,
-   "baja_pct": 36.2,
-   "brecha_pct": 50.0,
-   "score": 1812,
-   "pr": {
-    "Carrefour": [
-     2845.0,
-     "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
-    ],
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
-    ],
-    "Jumbo": [
-     6300.0,
-     "https://www.jumbo.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
-    ],
-    "ChangoMás": [
-     6069.0,
-     "https://www.masonline.com.ar/chocolate-nestle-blanco-galak-80g-2/p"
     ]
    }
   },
@@ -369,23 +404,23 @@
      2500.0,
      "https://www.jumbo.com.ar/chocolate-con-leche-cofler-45-gr/p"
     ],
-    "Carrefour": [
-     2290.0,
-     "https://www.carrefour.com.ar/oblea-cofler-graffiti-45-g-41385-41385/p"
-    ],
     "Comodín": [
      2355.19,
      "https://www.comodinencasa.com.ar/chocolate-cofler-graffiti-x-45-gr-2/p"
+    ],
+    "Carrefour": [
+     2290.0,
+     "https://www.carrefour.com.ar/oblea-cofler-graffiti-45-g-41385-41385/p"
     ]
    }
   },
   {
-   "n": "Shampoo Keratina Repara y Protege 510 Ml Pantene",
+   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
    "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865047/Shampoo-Pantene-Keratina-510ml-Shampoo-Keratina-X-510-Ml-Pantene-1-1036881.jpg?v=638809545770700000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
    "cadena": "Carrefour",
    "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p",
+   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
    "referencia": 15290.0,
    "precio_2da": 15290.0,
    "baja_pct": 40.0,
@@ -394,19 +429,15 @@
    "pr": {
     "Vea": [
      15290.0,
-     "https://www.vea.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
+     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
     ],
     "Jumbo": [
-     17250.0,
-     "https://www.jumbo.com.ar/shampoo-keratina-x-510-ml-pantene-2/p"
-    ],
-    "ChangoMás": [
-     18149.0,
-     "https://www.masonline.com.ar/shampoo-pantene-con-keratina-700-cc-2/p"
+     18150.0,
+     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
     ],
     "Carrefour": [
      9174.0,
-     "https://www.carrefour.com.ar/pantene-pro-v-miracles-keratina-repara-y-protege-shampoo-reparador-510-ml-760661/p"
+     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
     ]
    }
   },
@@ -705,29 +736,29 @@
    }
   },
   {
-   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
-   "cadena": "ChangoMás",
-   "precio": 2753.4,
-   "link": "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p",
-   "referencia": 4589.0,
-   "precio_2da": 4490.0,
+   "n": "Chocolate Cofler Aireado 55 Gr",
+   "m": "COFLER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/583090/Chocolate-Cofler-Aireado-55-Gr-1-40287.jpg?v=637234676609700000",
+   "cadena": "Vea",
+   "precio": 3114.0,
+   "link": "https://www.vea.com.ar/chocolate-cofler-aireado-55-gr/p",
+   "referencia": 5190.0,
+   "precio_2da": 5089.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.7,
-   "score": 1547,
+   "brecha_pct": 38.8,
+   "score": 1552,
    "pr": {
-    "Jumbo": [
-     4800.0,
-     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
-    ],
-    "Carrefour": [
-     4490.0,
-     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
+    "Vea": [
+     3114.0,
+     "https://www.vea.com.ar/chocolate-cofler-aireado-55-gr/p"
     ],
     "ChangoMás": [
-     2753.4,
-     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
+     5089.0,
+     "https://www.masonline.com.ar/chocolate-blanco-aireado-cofler-55gr-2/p"
+    ],
+    "Carrefour": [
+     5190.0,
+     "https://www.carrefour.com.ar/chocolate-blanco-cofler-air-55-g-39354/p"
     ]
    }
   },
@@ -794,6 +825,45 @@
    }
   },
   {
+   "n": "Mermelada Arcor de durazno 454 g.",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381265/7790580132163_E01.jpg?v=638315050330100000",
+   "cadena": "Vea",
+   "precio": 1914.0,
+   "link": "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p",
+   "referencia": 3190.0,
+   "precio_2da": 3099.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1530,
+   "pr": {
+    "Carrefour": [
+     3290.0,
+     "https://www.carrefour.com.ar/mermelada-arcor-de-durazno-454-g/p"
+    ],
+    "Vea": [
+     1914.0,
+     "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p"
+    ],
+    "Jumbo": [
+     3450.0,
+     "https://www.jumbo.com.ar/mermeladas-arcor-durazno-454gr/p"
+    ],
+    "Comodín": [
+     3359.19,
+     "https://www.comodinencasa.com.ar/mermelada-arcor-durazno-f-454-gr/p"
+    ],
+    "ChangoMás": [
+     3479.0,
+     "https://www.masonline.com.ar/mermelada-arcor-de-durazno-454gr-2/p"
+    ],
+    "Tuchanguito": [
+     3099.0,
+     "https://www.tuchanguito.com.ar/productos/merm-arcor-durazno-454-gr/"
+    ]
+   }
+  },
+  {
    "n": "Pan blanco Bimbo 580 grs",
    "m": "Bimbo",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/804588/7793890262131_01.jpg?v=639080626520130000",
@@ -817,45 +887,6 @@
     "Jumbo": [
      8750.0,
      "https://www.jumbo.com.ar/pan-blanco-x-580-grs-bimbo/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada Arcor de durazno 454 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381265/7790580132163_E01.jpg?v=638315050330100000",
-   "cadena": "Vea",
-   "precio": 1914.0,
-   "link": "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p",
-   "referencia": 3190.0,
-   "precio_2da": 3089.89,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1522,
-   "pr": {
-    "Carrefour": [
-     3290.0,
-     "https://www.carrefour.com.ar/mermelada-arcor-de-durazno-454-g/p"
-    ],
-    "Vea": [
-     1914.0,
-     "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p"
-    ],
-    "Jumbo": [
-     3450.0,
-     "https://www.jumbo.com.ar/mermeladas-arcor-durazno-454gr/p"
-    ],
-    "Comodín": [
-     3089.89,
-     "https://www.comodinencasa.com.ar/mermelada-arcor-durazno-f-454-gr/p"
-    ],
-    "ChangoMás": [
-     3479.0,
-     "https://www.masonline.com.ar/mermelada-arcor-de-durazno-454gr-2/p"
-    ],
-    "Tuchanguito": [
-     3099.0,
-     "https://www.tuchanguito.com.ar/productos/merm-arcor-durazno-454-gr/"
     ]
    }
   },
