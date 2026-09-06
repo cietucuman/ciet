@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-05",
- "actualizado": "2026-09-05 13:38",
+ "fecha": "2026-09-06",
+ "actualizado": "2026-09-06 08:12",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-26",
   "2026-08-27",
   "2026-08-28",
   "2026-08-29",
@@ -19,22 +18,23 @@
   "2026-09-02",
   "2026-09-03",
   "2026-09-04",
-  "2026-09-05"
+  "2026-09-05",
+  "2026-09-06"
  ],
- "total": 32,
+ "total": 23,
  "ofertas": [
   {
    "n": "Chocolate Sabor Blanco 80 Grs Galak",
    "m": "GALAK",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/875531/Chocolate-Blanco-Galak-Nestl-X-80-Gr-1-950496.jpg?v=638872403773770000",
    "cadena": "Carrefour",
-   "precio": 2845.0,
+   "precio": 2754.5,
    "link": "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p",
-   "referencia": 5690.0,
+   "referencia": 5599.5,
    "precio_2da": 5690.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "baja_pct": 50.8,
+   "brecha_pct": 51.6,
+   "score": 2621,
    "pr": {
     "Vea": [
      5690.0,
@@ -49,7 +49,7 @@
      "https://www.masonline.com.ar/chocolate-nestle-blanco-galak-80g-2/p"
     ],
     "Carrefour": [
-     2845.0,
+     2754.5,
      "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
     ]
    }
@@ -59,16 +59,16 @@
    "m": "Nestlé",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/911235/8445292457521_01.jpg?v=639217057402900000",
    "cadena": "Carrefour",
-   "precio": 1525.0,
+   "precio": 1575.0,
    "link": "https://www.carrefour.com.ar/chocolate-nestle-cruch-45-grs-782285/p",
    "referencia": 3050.0,
    "precio_2da": 2990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.0,
-   "score": 2450,
+   "baja_pct": 48.4,
+   "brecha_pct": 47.3,
+   "score": 2289,
    "pr": {
     "Carrefour": [
-     1525.0,
+     1575.0,
      "https://www.carrefour.com.ar/chocolate-nestle-cruch-45-grs-782285/p"
     ],
     "Vea": [
@@ -86,37 +86,29 @@
    }
   },
   {
-   "n": "Jugo en polvo Clight ananá 7grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812024/7622201702625_E01.jpg?v=639082498866770000",
+   "n": "Shampoo Lava Coche Silisur Siliconado Manzana X 600cc",
+   "m": "SILISUR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/193350/Silisur-Shampoo-Siliconado-Manzana-600-C-Shampoo-Siliconado-De-Manzana-Silsur-600-Cc-1-29706.jpg?v=636383542545700000",
    "cadena": "Carrefour",
-   "precio": 280.0,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-anana-7-grs-711433/p",
-   "referencia": 560.0,
-   "precio_2da": 489.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.9,
-   "score": 2143,
+   "precio": 6799.0,
+   "link": "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p",
+   "referencia": 12399.0,
+   "precio_2da": 12490.0,
+   "baja_pct": 45.2,
+   "brecha_pct": 45.6,
+   "score": 2058,
    "pr": {
-    "Carrefour": [
-     280.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-anana-7-grs-711433/p"
-    ],
     "Vea": [
-     560.0,
-     "https://www.vea.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
-    ],
-    "Jumbo": [
-     553.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-anana-7-grs-clight/p"
-    ],
-    "Comodín": [
-     489.99,
-     "https://www.comodinencasa.com.ar/jugo-clight-anana-x-7-gr/p"
+     12490.0,
+     "https://www.vea.com.ar/shampoo-lava-coche-silisur-siliconado-manzana-x-600cc/p"
     ],
     "ChangoMás": [
-     579.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-anana-7g-2/p"
+     12999.0,
+     "https://www.masonline.com.ar/shampoo-silisur-siliconado-frag-manzana-x-600-cc-2/p"
+    ],
+    "Carrefour": [
+     6799.0,
+     "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p"
     ]
    }
   },
@@ -125,13 +117,13 @@
    "m": "SEATTLE'S BEST COFFEE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/922085/Cafe-Molido-Seattles-Best-Coffee-Portside-170-G-1-1060844.jpg?v=639198346010570000",
    "cadena": "Carrefour",
-   "precio": 8073.45,
+   "precio": 7765.45,
    "link": "https://www.carrefour.com.ar/cafe-molido-house-blend-seattles-best-170-grs-780514/p",
-   "referencia": 14679.0,
+   "referencia": 14119.0,
    "precio_2da": 14118.83,
    "baja_pct": 45.0,
-   "brecha_pct": 42.8,
-   "score": 1927,
+   "brecha_pct": 45.0,
+   "score": 2025,
    "pr": {
     "Vea": [
      14118.83,
@@ -142,43 +134,170 @@
      "https://www.masonline.com.ar/cafe-molido-seattle-s-best-house-blend-170-g/p"
     ],
     "Carrefour": [
-     8073.45,
+     7765.45,
      "https://www.carrefour.com.ar/cafe-molido-house-blend-seattles-best-170-grs-780514/p"
     ]
    }
   },
   {
-   "n": "Chocolate para Taza 100 Grs Aguila",
-   "m": "AGUILA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/582968/Chocolate-Aguila-Para-Taza-100-Gr-1-10739.jpg?v=637234676290200000",
-   "cadena": "Vea",
-   "precio": 3245.0,
-   "link": "https://www.vea.com.ar/chocolate-aguila-para-taza-100-gr/p",
-   "referencia": 6490.0,
-   "precio_2da": 5196.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.6,
-   "score": 1878,
+   "n": "Protectores Diarios Cuidado Diario x 100 Un Kotex",
+   "m": "KOTEX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/787575/Protectores-Diarios-Kotex-Multifuci-n-Blocker-100-U-1-43350.jpg?v=638242761693130000",
+   "cadena": "Carrefour",
+   "precio": 8718.0,
+   "link": "https://www.carrefour.com.ar/protector-diario-kotex-cuidado-diario-100-uni-586304/p",
+   "referencia": 15500.0,
+   "precio_2da": 15500.0,
+   "baja_pct": 43.8,
+   "brecha_pct": 43.8,
+   "score": 1914,
    "pr": {
     "Vea": [
-     3245.0,
-     "https://www.vea.com.ar/chocolate-aguila-para-taza-100-gr/p"
+     15500.0,
+     "https://www.vea.com.ar/protectores-diarios-multifucion-blocker-100-un-kotex/p"
     ],
     "Jumbo": [
-     6700.0,
-     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-100-gr/p"
-    ],
-    "Comodín": [
-     6431.59,
-     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-100gr/p"
-    ],
-    "ChangoMás": [
-     5196.75,
-     "https://www.masonline.com.ar/chocolate-taza-aguila-100-gr-2/p"
+     16550.0,
+     "https://www.jumbo.com.ar/protectores-diarios-multifucion-blocker-100-un-kotex/p"
     ],
     "Carrefour": [
-     6490.0,
-     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-100-g-16788/p"
+     8718.0,
+     "https://www.carrefour.com.ar/protector-diario-kotex-cuidado-diario-100-uni-586304/p"
+    ]
+   }
+  },
+  {
+   "n": "Mermelada frutos del bosque BC La Campagnola 390 grs",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/668361/7790580148973_E02.jpg?v=638842252044770000",
+   "cadena": "Carrefour",
+   "precio": 3383.25,
+   "link": "https://www.carrefour.com.ar/mermelada-frutos-del-bosque-bc-la-campagnola-390-grs-761717/p",
+   "referencia": 5859.0,
+   "precio_2da": 5890.0,
+   "baja_pct": 42.3,
+   "brecha_pct": 42.6,
+   "score": 1798,
+   "pr": {
+    "Carrefour": [
+     3383.25,
+     "https://www.carrefour.com.ar/mermelada-frutos-del-bosque-bc-la-campagnola-390-grs-761717/p"
+    ],
+    "Vea": [
+     5890.0,
+     "https://www.vea.com.ar/mermelada-bc-frutos-rojos-390gr/p"
+    ],
+    "Jumbo": [
+     6050.0,
+     "https://www.jumbo.com.ar/mermelada-bc-frutos-rojos-390gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
     ]
    }
   },
@@ -190,13 +309,13 @@
    "precio": 3791.89,
    "link": "https://www.comodinencasa.com.ar/protector-always-s-aroma-40un/p",
    "referencia": 5633.69,
-   "precio_2da": 8399.0,
+   "precio_2da": 8339.0,
    "baja_pct": 32.7,
-   "brecha_pct": 54.9,
-   "score": 1793,
+   "brecha_pct": 54.5,
+   "score": 1783,
    "pr": {
     "Carrefour": [
-     8399.0,
+     8339.0,
      "https://www.carrefour.com.ar/protectores-diarios-always-xtra-diarios-sin-perfume-40-unidades-726090/p"
     ],
     "Jumbo": [
@@ -214,29 +333,64 @@
    }
   },
   {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
-   "cadena": "Comodín",
-   "precio": 1499.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2615.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 42.7,
-   "score": 1705,
+   "n": "Acondicionador Engrosador Anti-caída con Jalea Real y Extracto de Ortiga 400 Ml Tio Nacho",
+   "m": "Tio Nacho",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916169/7798140257752-1.jpg?v=639155929120730000",
+   "cadena": "Vea",
+   "precio": 3893.5,
+   "link": "https://www.vea.com.ar/acondicionador-engrosador-doypack-400-ml-tio-nacho/p",
+   "referencia": 5990.0,
+   "precio_2da": 7499.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.1,
+   "score": 1683,
    "pr": {
+    "Vea": [
+     3893.5,
+     "https://www.vea.com.ar/acondicionador-engrosador-doypack-400-ml-tio-nacho/p"
+    ],
     "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
+     8000.0,
+     "https://www.jumbo.com.ar/acondicionador-engrosador-doypack-400-ml-tio-nacho/p"
     ],
     "Comodín": [
-     1499.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
+     8021.59,
+     "https://www.comodinencasa.com.ar/acondicionador-tio-nacho-engros-dp-400ml/p"
     ],
     "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
+     7499.0,
+     "https://www.carrefour.com.ar/acondicionador-tio-nacho-engrosador-recargable-doypack-400-ml-724443/p"
+    ],
+    "ChangoMás": [
+     7799.0,
+     "https://www.masonline.com.ar/acondicionador-tio-nacho-engrosador-400-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Tío Nacho Herbolaria Milenaria 415 ml",
+   "m": "Tío Nacho",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/833356/7798140256762_01.jpg?v=639101298985970000",
+   "cadena": "Vea",
+   "precio": 5843.5,
+   "link": "https://www.vea.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p",
+   "referencia": 8990.0,
+   "precio_2da": 11100.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 47.4,
+   "score": 1657,
+   "pr": {
+    "Carrefour": [
+     11100.0,
+     "https://www.carrefour.com.ar/shampoo-tio-nacho-herbolaria-milenaria-415-ml-707209/p"
+    ],
+    "Vea": [
+     5843.5,
+     "https://www.vea.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p"
+    ],
+    "Jumbo": [
+     11250.0,
+     "https://www.jumbo.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p"
     ]
    }
   },
@@ -295,242 +449,6 @@
    }
   },
   {
-   "n": "Chocolate para taza Águila semiamargo 150 g.",
-   "m": "Águila",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/172237/7790407031273_01.jpg?v=637468545939500000",
-   "cadena": "Vea",
-   "precio": 4295.0,
-   "link": "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p",
-   "referencia": 8690.0,
-   "precio_2da": 6292.5,
-   "baja_pct": 50.6,
-   "brecha_pct": 31.7,
-   "score": 1605,
-   "pr": {
-    "Carrefour": [
-     6292.5,
-     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-semiamargo-150-g-181791/p"
-    ],
-    "Vea": [
-     4295.0,
-     "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p"
-    ],
-    "Jumbo": [
-     8454.0,
-     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-150-gr/p"
-    ],
-    "Comodín": [
-     8509.39,
-     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-150gr/p"
-    ],
-    "ChangoMás": [
-     6914.25,
-     "https://www.masonline.com.ar/chocolate-taza-aguila-negro-150-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate blanco Arcor 25 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914542/7790580607418_E01.jpg?v=639222455418200000",
-   "cadena": "Vea",
-   "precio": 954.0,
-   "link": "https://www.vea.com.ar/chocolate-arcor-blanco-25-gr/p",
-   "referencia": 1590.0,
-   "precio_2da": 1590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     1590.0,
-     "https://www.carrefour.com.ar/chocolate-blanco-arcor-25-g-39295/p"
-    ],
-    "Vea": [
-     954.0,
-     "https://www.vea.com.ar/chocolate-arcor-blanco-25-gr/p"
-    ],
-    "Comodín": [
-     1738.99,
-     "https://www.comodinencasa.com.ar/chocolate-arcor-blanco-25gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Air mixto 27 g.",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/172242/7790580103385_01.jpg?v=637468545962630000",
-   "cadena": "Vea",
-   "precio": 1434.0,
-   "link": "https://www.vea.com.ar/chocolate-aireado-cofler-27-gr/p",
-   "referencia": 2390.0,
-   "precio_2da": 2390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     2390.0,
-     "https://www.carrefour.com.ar/chocolate-cofler-air-mixto-27-g/p"
-    ],
-    "Vea": [
-     1434.0,
-     "https://www.vea.com.ar/chocolate-aireado-cofler-27-gr/p"
-    ],
-    "Jumbo": [
-     2750.0,
-     "https://www.jumbo.com.ar/chocolate-aireado-cofler-27-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Con Leche Cofler 45 Gr",
-   "m": "COFLER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/583140/Chocolate-Cofler-Con-Leche-45-Gr-1-226206.jpg?v=637234676858030000",
-   "cadena": "Vea",
-   "precio": 1374.0,
-   "link": "https://www.vea.com.ar/chocolate-con-leche-cofler-45-gr/p",
-   "referencia": 2290.0,
-   "precio_2da": 2290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     1374.0,
-     "https://www.vea.com.ar/chocolate-con-leche-cofler-45-gr/p"
-    ],
-    "Jumbo": [
-     2500.0,
-     "https://www.jumbo.com.ar/chocolate-con-leche-cofler-45-gr/p"
-    ],
-    "Comodín": [
-     2355.19,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-graffiti-x-45-gr-2/p"
-    ],
-    "Carrefour": [
-     2290.0,
-     "https://www.carrefour.com.ar/oblea-cofler-graffiti-45-g-41385-41385/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Keratina Repara y Protege 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865046/Acondicionador-Pantene-Keratina-510ml-Acondicionador-Keratina-X-510-Ml-Pantene-1-1036880.jpg?v=638809545768370000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-keratina-repara-y-protege-reparador-510-ml-760660/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-keratina-x-510-ml-pantene/p"
-    ],
-    "Jumbo": [
-     18200.0,
-     "https://www.jumbo.com.ar/acondicionador-keratina-x-510-ml-pantene/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-keratina-repara-y-protege-reparador-510-ml-760660/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
-   "cadena": "Vea",
-   "precio": 3539.4,
-   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
-   "referencia": 5899.0,
-   "precio_2da": 5899.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     3539.4,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
-    ],
-    "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
-    ],
-    "Carrefour": [
-     5899.0,
-     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
-    ],
-    "ChangoMás": [
-     5919.0,
-     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pan para pancho Bimbo 6 uni",
-   "m": "Bimbo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913586/7793890259087_01.jpg?v=639221622841500000",
-   "cadena": "ChangoMás",
-   "precio": 2508.6,
-   "link": "https://www.masonline.com.ar/pan-para-pancho-bimbo-210g-6u-2/p",
-   "referencia": 4181.0,
-   "precio_2da": 4180.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1599,
-   "pr": {
-    "Carrefour": [
-     4180.0,
-     "https://www.carrefour.com.ar/pan-para-pancho-bimbo-6-uni-717200/p"
-    ],
-    "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/pan-para-pancho-6-un-210-grs-bimbo/p"
-    ],
-    "Jumbo": [
-     4350.0,
-     "https://www.jumbo.com.ar/pan-para-pancho-6-un-210-grs-bimbo/p"
-    ],
-    "ChangoMás": [
-     2508.6,
-     "https://www.masonline.com.ar/pan-para-pancho-bimbo-210g-6u-2/p"
-    ]
-   }
-  },
-  {
    "n": "Toallitas Femeninas Ultrafina x 8 Un Always",
    "m": "ALWAYS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/859492/Toalla-Femenina-Ultra-Seca-S1-Brazil-8-Unidades-Always-Toalla-Femenina-Always-Ultfina-Sec-S1-8u-1-1035562.jpg?v=638779198575370000",
@@ -558,95 +476,29 @@
    }
   },
   {
-   "n": "Agua Mineral Sin Gas 2.25 Lts Nestle",
-   "m": "NESTLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/576843/Agua-Nestle-Pureza-Vital-225-L-1-237464.jpg?v=637189746325270000",
+   "n": "Lustramuebles Blem hidrata y renueva madera aceite de argán en aerosol 360 ml.",
+   "m": "Blem",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/891752/7790520028907_01.jpg?v=639172174474300000",
    "cadena": "Vea",
-   "precio": 1732.8,
-   "link": "https://www.vea.com.ar/agua-nestle-pureza-vital-2-25lt/p",
-   "referencia": 2888.0,
-   "precio_2da": 2869.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1584,
-   "pr": {
-    "Vea": [
-     1732.8,
-     "https://www.vea.com.ar/agua-nestle-pureza-vital-2-25lt/p"
-    ],
-    "Jumbo": [
-     2993.0,
-     "https://www.jumbo.com.ar/agua-nestle-pureza-vital-2-25lt/p"
-    ],
-    "Carrefour": [
-     2870.0,
-     "https://www.carrefour.com.ar/agua-de-mesa-sin-gas-nestle-225-lts-621525/p"
-    ],
-    "ChangoMás": [
-     2869.0,
-     "https://www.masonline.com.ar/agua-sin-gas-pureza-vital-nestle-pureza-vital-2-25cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Always xtra diarios respirable protectores diarios 15 uni",
-   "m": "Always",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/524194/7500435233019_02.jpg?v=638515473245900000",
-   "cadena": "Vea",
-   "precio": 2034.0,
-   "link": "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p",
-   "referencia": 3390.0,
-   "precio_2da": 3359.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.4,
-   "score": 1578,
+   "precio": 4790.0,
+   "link": "https://www.vea.com.ar/lustramuebles-aerosol-madera-aceite-de-argan-360-cc-blem/p",
+   "referencia": 7790.0,
+   "precio_2da": 8100.0,
+   "baja_pct": 38.5,
+   "brecha_pct": 40.9,
+   "score": 1574,
    "pr": {
     "Carrefour": [
-     3359.0,
-     "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p"
+     8750.0,
+     "https://www.carrefour.com.ar/lustramuebles-blem-hidrata-y-renueva-madera-aceite-de-argan-en-aerosol-360-ml-733078/p"
     ],
     "Vea": [
-     2034.0,
-     "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
+     4790.0,
+     "https://www.vea.com.ar/lustramuebles-aerosol-madera-aceite-de-argan-360-cc-blem/p"
     ],
     "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
-    ],
-    "ChangoMás": [
-     3359.0,
-     "https://www.masonline.com.ar/protectores-diarios-always-respirables-sin-perfume-15un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
-   "cadena": "Vea",
-   "precio": 5394.0,
-   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
-   "referencia": 8990.0,
-   "precio_2da": 8899.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.4,
-   "score": 1575,
-   "pr": {
-    "Vea": [
-     5394.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Jumbo": [
-     9400.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
-    ],
-    "Carrefour": [
-     8899.0,
-     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
-    ],
-    "ChangoMás": [
-     8949.0,
-     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
+     8100.0,
+     "https://www.jumbo.com.ar/lustramuebles-aerosol-madera-aceite-de-argan-360-cc-blem/p"
     ]
    }
   },
@@ -678,242 +530,134 @@
    }
   },
   {
-   "n": "Agua Saborizada Sin Gas Sabor Manzanella 500 Ml H2Oh",
-   "m": "H2OH",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872584/Saborizada-Manzana-Sin-Gas-X-500-Cc-H2oh-1-1007673.jpg?v=638864625779870000",
-   "cadena": "Vea",
-   "precio": 849.5,
-   "link": "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p",
-   "referencia": 1274.25,
-   "precio_2da": 1599.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.9,
-   "score": 1562,
-   "pr": {
-    "Vea": [
-     849.5,
-     "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Jumbo": [
-     1700.0,
-     "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Carrefour": [
-     1599.0,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-h2oh-sin-gas-500-ml-704717/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Sin Gas 1.5 Lts Nestle Pureza Vital",
-   "m": "NESTLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/544756/Agua-Nestle-Pureza-Vital-15-L-1-239001.jpg?v=637014360477730000",
-   "cadena": "Vea",
-   "precio": 1480.8,
-   "link": "https://www.vea.com.ar/agua-nestle-pureza-vital-1-5lt/p",
-   "referencia": 2468.0,
-   "precio_2da": 2429.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.0,
-   "score": 1561,
-   "pr": {
-    "Vea": [
-     1480.8,
-     "https://www.vea.com.ar/agua-nestle-pureza-vital-1-5lt/p"
-    ],
-    "Jumbo": [
-     2468.0,
-     "https://www.jumbo.com.ar/agua-nestle-pureza-vital-1-5lt/p"
-    ],
-    "ChangoMás": [
-     2429.0,
-     "https://www.masonline.com.ar/agua-mineral-sin-gas-nestle-pureza-vital-1-5lt-2/p"
-    ],
-    "Carrefour": [
-     2429.0,
-     "https://www.carrefour.com.ar/agua-de-mesa-sin-gas-nestle-15-lts-557757/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Aireado 55 Gr",
-   "m": "COFLER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/583090/Chocolate-Cofler-Aireado-55-Gr-1-40287.jpg?v=637234676609700000",
-   "cadena": "Vea",
-   "precio": 3114.0,
-   "link": "https://www.vea.com.ar/chocolate-cofler-aireado-55-gr/p",
-   "referencia": 5190.0,
-   "precio_2da": 5089.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.8,
-   "score": 1552,
-   "pr": {
-    "Vea": [
-     3114.0,
-     "https://www.vea.com.ar/chocolate-cofler-aireado-55-gr/p"
-    ],
-    "ChangoMás": [
-     5089.0,
-     "https://www.masonline.com.ar/chocolate-blanco-aireado-cofler-55gr-2/p"
-    ],
-    "Carrefour": [
-     5190.0,
-     "https://www.carrefour.com.ar/chocolate-blanco-cofler-air-55-g-39354/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Arcor 25 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914541/7790580607210_E01.jpg?v=639222454868630000",
-   "cadena": "Vea",
-   "precio": 954.0,
-   "link": "https://www.vea.com.ar/chocolate-arcor-con-leche-25-gr/p",
-   "referencia": 1590.0,
-   "precio_2da": 1549.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1536,
-   "pr": {
-    "Carrefour": [
-     1549.0,
-     "https://www.carrefour.com.ar/chocolate-arcor-25-g-310680/p"
-    ],
-    "Vea": [
-     954.0,
-     "https://www.vea.com.ar/chocolate-arcor-con-leche-25-gr/p"
-    ],
-    "Jumbo": [
-     1750.0,
-     "https://www.jumbo.com.ar/chocolate-arcor-con-leche-25-gr/p"
-    ],
-    "Comodín": [
-     1738.99,
-     "https://www.comodinencasa.com.ar/chocolate-arcor-c-leche-25gr-2/p"
-    ],
-    "ChangoMás": [
-     1549.0,
-     "https://www.masonline.com.ar/chocolate-con-leche-arcor-25-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pan Blanco Bimbo 400 grs",
-   "m": "Bimbo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916635/7793890261233_01.jpg?v=639228307018430000",
-   "cadena": "Vea",
-   "precio": 3889.0,
-   "link": "https://www.vea.com.ar/pan-blanco-400-grs-bimbo/p",
-   "referencia": 6290.0,
-   "precio_2da": 6499.0,
-   "baja_pct": 38.2,
-   "brecha_pct": 40.2,
-   "score": 1533,
-   "pr": {
-    "Carrefour": [
-     6499.0,
-     "https://www.carrefour.com.ar/pan-blanco-bimbo-400-grs-753535/p"
-    ],
-    "Vea": [
-     3889.0,
-     "https://www.vea.com.ar/pan-blanco-400-grs-bimbo/p"
-    ],
-    "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/pan-blanco-400-grs-bimbo/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada Arcor de durazno 454 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381265/7790580132163_E01.jpg?v=638315050330100000",
-   "cadena": "Vea",
-   "precio": 1914.0,
-   "link": "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p",
-   "referencia": 3190.0,
-   "precio_2da": 3099.0,
+   "n": "Cereal Sabor Chocolate 400 Grs Nesquik",
+   "m": "NESQUIK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875534/Cereal-Nesquik-400-Gr-1-958271.jpg?v=638872403786930000",
+   "cadena": "Carrefour",
+   "precio": 6545.4,
+   "link": "https://www.carrefour.com.ar/nesquik-cereal-400-grs-721285/p",
+   "referencia": 10909.0,
+   "precio_2da": 10594.49,
    "baja_pct": 40.0,
    "brecha_pct": 38.2,
-   "score": 1530,
-   "pr": {
-    "Carrefour": [
-     3290.0,
-     "https://www.carrefour.com.ar/mermelada-arcor-de-durazno-454-g/p"
-    ],
-    "Vea": [
-     1914.0,
-     "https://www.vea.com.ar/mermeladas-arcor-durazno-454gr/p"
-    ],
-    "Jumbo": [
-     3450.0,
-     "https://www.jumbo.com.ar/mermeladas-arcor-durazno-454gr/p"
-    ],
-    "Comodín": [
-     3359.19,
-     "https://www.comodinencasa.com.ar/mermelada-arcor-durazno-f-454-gr/p"
-    ],
-    "ChangoMás": [
-     3479.0,
-     "https://www.masonline.com.ar/mermelada-arcor-de-durazno-454gr-2/p"
-    ],
-    "Tuchanguito": [
-     3099.0,
-     "https://www.tuchanguito.com.ar/productos/merm-arcor-durazno-454-gr/"
-    ]
-   }
-  },
-  {
-   "n": "Pan blanco Bimbo 580 grs",
-   "m": "Bimbo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/804588/7793890262131_01.jpg?v=639080626520130000",
-   "cadena": "Vea",
-   "precio": 5249.0,
-   "link": "https://www.vea.com.ar/pan-blanco-x-580-grs-bimbo/p",
-   "referencia": 8500.0,
-   "precio_2da": 8745.0,
-   "baja_pct": 38.2,
-   "brecha_pct": 40.0,
    "score": 1529,
    "pr": {
-    "Carrefour": [
-     8745.0,
-     "https://www.carrefour.com.ar/pan-blanco-bimbo-580-grs-771259/p"
-    ],
     "Vea": [
-     5249.0,
-     "https://www.vea.com.ar/pan-blanco-x-580-grs-bimbo/p"
+     11290.0,
+     "https://www.vea.com.ar/cereal-400-grs-nesquik/p"
     ],
     "Jumbo": [
-     8750.0,
-     "https://www.jumbo.com.ar/pan-blanco-x-580-grs-bimbo/p"
+     12450.0,
+     "https://www.jumbo.com.ar/cereal-400-grs-nesquik/p"
+    ],
+    "ChangoMás": [
+     12019.0,
+     "https://www.masonline.com.ar/cereal-nesquik-400gr-2-2/p"
+    ],
+    "Carrefour": [
+     6545.4,
+     "https://www.carrefour.com.ar/nesquik-cereal-400-grs-721285/p"
+    ],
+    "Comodín": [
+     10594.49,
+     "https://www.comodinencasa.com.ar/cereal-nesquik-matinal-400-gr/p"
     ]
    }
   },
   {
-   "n": "Agua Sin Gas 500 Cc Nestle",
-   "m": "NESTLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/544755/Agua-Nestle-Pureza-Vital-500-Cc-1-239000.jpg?v=637014360461300000",
+   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
    "cadena": "Vea",
-   "precio": 1165.8,
-   "link": "https://www.vea.com.ar/agua-nestle-pureza-vital-500cc/p",
-   "referencia": 1943.0,
-   "precio_2da": 1880.0,
+   "precio": 3539.4,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
+   "referencia": 5899.0,
+   "precio_2da": 5689.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1520,
+   "brecha_pct": 37.8,
+   "score": 1511,
    "pr": {
     "Vea": [
-     1165.8,
-     "https://www.vea.com.ar/agua-nestle-pureza-vital-500cc/p"
+     3539.4,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
     ],
     "Jumbo": [
-     1943.0,
-     "https://www.jumbo.com.ar/agua-nestle-pureza-vital-500cc/p"
+     6100.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
     ],
     "Carrefour": [
-     1880.0,
-     "https://www.carrefour.com.ar/agua-de-mesa-sin-gas-nestle-500-ml-557750/p"
+     5689.0,
+     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
+    ],
+    "ChangoMás": [
+     5919.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Aguila Para Taza 150 Gr",
+   "m": "AGUILA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/582946/Chocolate-Aguila-Para-Taza-150-Gr-1-3363.jpg?v=637234676236270000",
+   "cadena": "Vea",
+   "precio": 4295.0,
+   "link": "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p",
+   "referencia": 8690.0,
+   "precio_2da": 6120.0,
+   "baja_pct": 50.6,
+   "brecha_pct": 29.8,
+   "score": 1508,
+   "pr": {
+    "Vea": [
+     4295.0,
+     "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p"
+    ],
+    "Jumbo": [
+     8454.0,
+     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-150-gr/p"
+    ],
+    "Comodín": [
+     8509.39,
+     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-150gr/p"
+    ],
+    "ChangoMás": [
+     6914.25,
+     "https://www.masonline.com.ar/chocolate-taza-aguila-negro-150-gr-2/p"
+    ],
+    "Carrefour": [
+     6120.0,
+     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-semiamargo-150-g-181791/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Femeninas Nocturna con Alas Extra Protección x 8 Un Kotex",
+   "m": "KOTEX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786916/Toalla-Kotex-Alas-Extra-Suave-Nocturna-X8-1-883199.jpg?v=638240061669630000",
+   "cadena": "ChangoMás",
+   "precio": 2537.4,
+   "link": "https://www.masonline.com.ar/toallitas-higienicas-kotex-nocturna-extra-proteccion-8un-2/p",
+   "referencia": 4229.0,
+   "precio_2da": 4069.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1506,
+   "pr": {
+    "Vea": [
+     4350.0,
+     "https://www.vea.com.ar/toalla-kotex-alas-extra-suave-nocturna-x8/p"
+    ],
+    "Jumbo": [
+     4500.0,
+     "https://www.jumbo.com.ar/toalla-kotex-alas-extra-suave-nocturna-x8/p"
+    ],
+    "Carrefour": [
+     4069.0,
+     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-8-uni-691312/p"
+    ],
+    "ChangoMás": [
+     2537.4,
+     "https://www.masonline.com.ar/toallitas-higienicas-kotex-nocturna-extra-proteccion-8un-2/p"
     ]
    }
   },
@@ -925,13 +669,13 @@
    "precio": 5159.4,
    "link": "https://www.masonline.com.ar/protectores-diarios-kotex-esencial-60u-2/p",
    "referencia": 8599.0,
-   "precio_2da": 8290.0,
+   "precio_2da": 8265.0,
    "baja_pct": 40.0,
-   "brecha_pct": 37.8,
-   "score": 1511,
+   "brecha_pct": 37.6,
+   "score": 1503,
    "pr": {
     "Carrefour": [
-     8290.0,
+     8265.0,
      "https://www.carrefour.com.ar/protectores-diarios-kotex-esencial-60-uni-741391/p"
     ],
     "Vea": [
@@ -945,37 +689,6 @@
     "ChangoMás": [
      5159.4,
      "https://www.masonline.com.ar/protectores-diarios-kotex-esencial-60u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua mineral sin gas Villa del Sur 1,65 lts",
-   "m": "Villa Del Sur",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/909721/7790315000149_01.jpg?v=639213688713630000",
-   "cadena": "Vea",
-   "precio": 1434.0,
-   "link": "https://www.vea.com.ar/agua-villa-del-sur-sin-gas-1-65lt/p",
-   "referencia": 2390.0,
-   "precio_2da": 2299.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1505,
-   "pr": {
-    "Carrefour": [
-     2390.0,
-     "https://www.carrefour.com.ar/agua-mineral-sin-gas-villa-del-sur-165-lts-500495/p"
-    ],
-    "Vea": [
-     1434.0,
-     "https://www.vea.com.ar/agua-villa-del-sur-sin-gas-1-65lt/p"
-    ],
-    "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/agua-villa-del-sur-sin-gas-1-65lt/p"
-    ],
-    "ChangoMás": [
-     2299.0,
-     "https://www.masonline.com.ar/agua-mineral-sin-gas-villa-del-sur-1-65-lt-2/p"
     ]
    }
   }
