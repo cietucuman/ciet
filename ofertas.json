@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-06 14:27",
+ "actualizado": "2026-09-06 17:14",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-05",
   "2026-09-06"
  ],
- "total": 18,
+ "total": 20,
  "ofertas": [
   {
    "n": "Chocolate Nestlé Crunch 45 grs",
@@ -51,33 +51,6 @@
     "ChangoMás": [
      3659.0,
      "https://www.masonline.com.ar/tableta-de-chocolate-nestle-crunch-45-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas Nocturna Extra Protección con Alas x 16 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786917/Toalla-Kotex-Alas-Extra-Suave-Nocturna-X16-1-883201.jpg?v=638240061672300000",
-   "cadena": "Carrefour",
-   "precio": 4433.4,
-   "link": "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-16-uni-690324/p",
-   "referencia": 8150.0,
-   "precio_2da": 8190.0,
-   "baja_pct": 45.6,
-   "brecha_pct": 45.9,
-   "score": 2092,
-   "pr": {
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/toalla-kotex-alas-extra-suave-nocturna-x16/p"
-    ],
-    "Jumbo": [
-     8400.0,
-     "https://www.jumbo.com.ar/toalla-kotex-alas-extra-suave-nocturna-x16/p"
-    ],
-    "Carrefour": [
-     4433.4,
-     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-16-uni-690324/p"
     ]
    }
   },
@@ -125,67 +98,156 @@
      14118.83,
      "https://www.vea.com.ar/cafe-molido-seattles-best-coffee-portside-170-g/p"
     ],
-    "ChangoMás": [
-     14679.0,
-     "https://www.masonline.com.ar/cafe-molido-seattle-s-best-house-blend-170-g/p"
-    ],
     "Carrefour": [
      7765.45,
      "https://www.carrefour.com.ar/cafe-molido-house-blend-seattles-best-170-grs-780514/p"
+    ],
+    "ChangoMás": [
+     14679.0,
+     "https://www.masonline.com.ar/cafe-molido-seattle-s-best-house-blend-170-g/p"
     ]
    }
   },
   {
-   "n": "Protectores Diarios Cuidado Diario x 100 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/787575/Protectores-Diarios-Kotex-Multifuci-n-Blocker-100-U-1-43350.jpg?v=638242761693130000",
-   "cadena": "Carrefour",
-   "precio": 8718.0,
-   "link": "https://www.carrefour.com.ar/protector-diario-kotex-cuidado-diario-100-uni-586304/p",
-   "referencia": 15500.0,
-   "precio_2da": 15500.0,
-   "baja_pct": 43.8,
-   "brecha_pct": 43.8,
-   "score": 1914,
+   "n": "Chocolate Aguila Para Taza 150 Gr",
+   "m": "AGUILA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/582946/Chocolate-Aguila-Para-Taza-150-Gr-1-3363.jpg?v=637234676236270000",
+   "cadena": "Vea",
+   "precio": 4295.0,
+   "link": "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p",
+   "referencia": 8690.0,
+   "precio_2da": 6914.25,
+   "baja_pct": 50.6,
+   "brecha_pct": 37.9,
+   "score": 1916,
    "pr": {
     "Vea": [
-     15500.0,
-     "https://www.vea.com.ar/protectores-diarios-multifucion-blocker-100-un-kotex/p"
+     4295.0,
+     "https://www.vea.com.ar/chocolate-aguila-para-taza-150-gr/p"
     ],
     "Jumbo": [
-     16550.0,
-     "https://www.jumbo.com.ar/protectores-diarios-multifucion-blocker-100-un-kotex/p"
+     8454.0,
+     "https://www.jumbo.com.ar/chocolate-aguila-para-taza-150-gr/p"
+    ],
+    "Comodín": [
+     8509.39,
+     "https://www.comodinencasa.com.ar/chocolate-aguila-p-taza-150gr/p"
+    ],
+    "ChangoMás": [
+     6914.25,
+     "https://www.masonline.com.ar/chocolate-taza-aguila-negro-150-gr-2/p"
     ],
     "Carrefour": [
-     8718.0,
-     "https://www.carrefour.com.ar/protector-diario-kotex-cuidado-diario-100-uni-586304/p"
+     8160.0,
+     "https://www.carrefour.com.ar/chocolate-para-taza-aguila-semiamargo-150-g-181791/p"
     ]
    }
   },
   {
-   "n": "Mermelada frutos del bosque BC La Campagnola 390 grs",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/668361/7790580148973_E02.jpg?v=638842252044770000",
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
    "cadena": "Carrefour",
-   "precio": 3383.25,
-   "link": "https://www.carrefour.com.ar/mermelada-frutos-del-bosque-bc-la-campagnola-390-grs-761717/p",
-   "referencia": 5859.0,
-   "precio_2da": 5890.0,
-   "baja_pct": 42.3,
-   "brecha_pct": 42.6,
-   "score": 1798,
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
    "pr": {
     "Carrefour": [
-     3383.25,
-     "https://www.carrefour.com.ar/mermelada-frutos-del-bosque-bc-la-campagnola-390-grs-761717/p"
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
     ],
     "Vea": [
-     5890.0,
-     "https://www.vea.com.ar/mermelada-bc-frutos-rojos-390gr/p"
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
     ],
     "Jumbo": [
-     6050.0,
-     "https://www.jumbo.com.ar/mermelada-bc-frutos-rojos-390gr/p"
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p",
+   "referencia": 3862.5,
+   "precio_2da": 3347.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 38.4,
+   "score": 1789,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
+    ],
+    "Vea": [
+     3347.5,
+     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
+    ],
+    "Jumbo": [
+     5150.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
     ]
    }
   },
@@ -228,10 +290,10 @@
    "precio": 3893.5,
    "link": "https://www.vea.com.ar/acondicionador-engrosador-doypack-400-ml-tio-nacho/p",
    "referencia": 5990.0,
-   "precio_2da": 7799.0,
+   "precio_2da": 7499.0,
    "baja_pct": 35.0,
-   "brecha_pct": 50.1,
-   "score": 1753,
+   "brecha_pct": 48.1,
+   "score": 1683,
    "pr": {
     "Vea": [
      3893.5,
@@ -245,6 +307,10 @@
      8021.59,
      "https://www.comodinencasa.com.ar/acondicionador-tio-nacho-engros-dp-400ml/p"
     ],
+    "Carrefour": [
+     7499.0,
+     "https://www.carrefour.com.ar/acondicionador-tio-nacho-engrosador-recargable-doypack-400-ml-724443/p"
+    ],
     "ChangoMás": [
      7799.0,
      "https://www.masonline.com.ar/acondicionador-tio-nacho-engrosador-400-ml-2/p"
@@ -252,9 +318,9 @@
    }
   },
   {
-   "n": "Shampoo Tío Nacho Herbolaria Milenaria V2 415 Ml",
-   "m": "SUAVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916113/7798140256762-1.jpg?v=639155917420400000",
+   "n": "Shampoo Tío Nacho Herbolaria Milenaria 415 ml",
+   "m": "Tío Nacho",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/833356/7798140256762_01.jpg?v=639101298985970000",
    "cadena": "Vea",
    "precio": 5843.5,
    "link": "https://www.vea.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p",
@@ -264,6 +330,10 @@
    "brecha_pct": 47.4,
    "score": 1657,
    "pr": {
+    "Carrefour": [
+     11100.0,
+     "https://www.carrefour.com.ar/shampoo-tio-nacho-herbolaria-milenaria-415-ml-707209/p"
+    ],
     "Vea": [
      5843.5,
      "https://www.vea.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p"
@@ -271,10 +341,6 @@
     "Jumbo": [
      11250.0,
      "https://www.jumbo.com.ar/shampoo-tio-nacho-herbolaria-milenaria-v2-415-ml-2/p"
-    ],
-    "Carrefour": [
-     11100.0,
-     "https://www.carrefour.com.ar/shampoo-tio-nacho-herbolaria-milenaria-415-ml-707209/p"
     ]
    }
   },
@@ -329,33 +395,6 @@
     "Comodín": [
      2794.49,
      "https://www.comodinencasa.com.ar/agua-mineral-villa-del-sur-s-g-2250cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Yogur Griego con granola Yogurísimo 168 grs",
-   "m": "Yogurísimo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834283/7791337010093_E01.jpg?v=639102362021730000",
-   "cadena": "Carrefour",
-   "precio": 2652.0,
-   "link": "https://www.carrefour.com.ar/yogur-griego-con-granola-yogurisimo-168-grs-765557/p",
-   "referencia": 4395.0,
-   "precio_2da": 4440.0,
-   "baja_pct": 39.7,
-   "brecha_pct": 40.3,
-   "score": 1597,
-   "pr": {
-    "Carrefour": [
-     2652.0,
-     "https://www.carrefour.com.ar/yogur-griego-con-granola-yogurisimo-168-grs-765557/p"
-    ],
-    "Jumbo": [
-     4700.0,
-     "https://www.jumbo.com.ar/yogur-griego-granola-x-168-grs-yogurisimo/p"
-    ],
-    "ChangoMás": [
-     4440.0,
-     "https://www.masonline.com.ar/yogur-griego-yogurisimo-con-granola-168-g/p"
     ]
    }
   },
@@ -437,6 +476,41 @@
     "ChangoMás": [
      11539.0,
      "https://www.masonline.com.ar/shampoo-tio-nacho-reparacion-profunda-415-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Cereal Sabor Chocolate 400 Grs Nesquik",
+   "m": "NESQUIK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875534/Cereal-Nesquik-400-Gr-1-958271.jpg?v=638872403786930000",
+   "cadena": "Carrefour",
+   "precio": 6545.4,
+   "link": "https://www.carrefour.com.ar/nesquik-cereal-400-grs-721285/p",
+   "referencia": 10909.0,
+   "precio_2da": 10594.49,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1529,
+   "pr": {
+    "Vea": [
+     11290.0,
+     "https://www.vea.com.ar/cereal-400-grs-nesquik/p"
+    ],
+    "Jumbo": [
+     12450.0,
+     "https://www.jumbo.com.ar/cereal-400-grs-nesquik/p"
+    ],
+    "ChangoMás": [
+     12019.0,
+     "https://www.masonline.com.ar/cereal-nesquik-400gr-2-2/p"
+    ],
+    "Carrefour": [
+     6545.4,
+     "https://www.carrefour.com.ar/nesquik-cereal-400-grs-721285/p"
+    ],
+    "Comodín": [
+     10594.49,
+     "https://www.comodinencasa.com.ar/cereal-nesquik-matinal-400-gr/p"
     ]
    }
   },
