@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-07",
- "actualizado": "2026-09-07 14:03",
+ "actualizado": "2026-09-07 17:56",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -241,6 +241,33 @@
    }
   },
   {
+   "n": "Shampoo Liso Efecto Botox 880 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802948/Shampoo-Tresemme-Liso-Efecto-Botox-880-Ml-1-1000671.jpg?v=638375620444300000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
+   "referencia": 15290.0,
+   "precio_2da": 17750.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 48.3,
+   "score": 1933,
+   "pr": {
+    "Jumbo": [
+     17750.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+    ],
+    "ChangoMás": [
+     17849.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
+    ]
+   }
+  },
+  {
    "n": "Arroz carnaroli Gallo 500 g",
    "m": "Gallo",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/171054/7790070411792_01.jpg?v=637468537817330000",
@@ -357,6 +384,33 @@
    }
   },
   {
+   "n": "Galletitas pepas 9 de Oro 500 g.",
+   "m": "9 De Oro",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924150/7792180143273_E02.jpg?v=639240566333170000",
+   "cadena": "Carrefour",
+   "precio": 1864.85,
+   "link": "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p",
+   "referencia": 2869.0,
+   "precio_2da": 3590.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.1,
+   "score": 1682,
+   "pr": {
+    "Carrefour": [
+     1864.85,
+     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p"
+    ],
+    "Vea": [
+     3590.0,
+     "https://www.vea.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ],
+    "Jumbo": [
+     3700.0,
+     "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ]
+   }
+  },
+  {
    "n": "Limpiador Multiuso Citronella Rinde 5 Lts 150 Ml Multimax",
    "m": "MULTIMAX",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715830/Limpiador-Multiuso-Para-Diluir-Citronella-Rinde-5-Litros-X-150ml-1-856920.jpg?v=637963042732200000",
@@ -373,71 +427,13 @@
      1950.0,
      "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p"
     ],
-    "Carrefour": [
-     1134.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p"
-    ],
     "ChangoMás": [
      2029.0,
      "https://www.masonline.com.ar/limpiador-liquido-multimax-citronella-rinde-5-litros-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Sabor Blanco 80 Grs Galak",
-   "m": "GALAK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875531/Chocolate-Blanco-Galak-Nestl-X-80-Gr-1-950496.jpg?v=638872403773770000",
-   "cadena": "Carrefour",
-   "precio": 2845.0,
-   "link": "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p",
-   "referencia": 4267.5,
-   "precio_2da": 5690.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 50.0,
-   "score": 1667,
-   "pr": {
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
-    ],
-    "Jumbo": [
-     6300.0,
-     "https://www.jumbo.com.ar/chocolate-blanco-80-grs-galak-nestle-2/p"
-    ],
-    "ChangoMás": [
-     6069.0,
-     "https://www.masonline.com.ar/chocolate-nestle-blanco-galak-80g-2/p"
     ],
     "Carrefour": [
-     2845.0,
-     "https://www.carrefour.com.ar/nestle-galak-chocolate-blanco-80-grs-717830/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas Nocturna Extra Protección con Alas x 16 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786917/Toalla-Kotex-Alas-Extra-Suave-Nocturna-X16-1-883201.jpg?v=638240061672300000",
-   "cadena": "Carrefour",
-   "precio": 4890.0,
-   "link": "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-16-uni-690324/p",
-   "referencia": 8150.0,
-   "precio_2da": 8190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.3,
-   "score": 1612,
-   "pr": {
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/toalla-kotex-alas-extra-suave-nocturna-x16/p"
-    ],
-    "Jumbo": [
-     8400.0,
-     "https://www.jumbo.com.ar/toalla-kotex-alas-extra-suave-nocturna-x16/p"
-    ],
-    "Carrefour": [
-     4890.0,
-     "https://www.carrefour.com.ar/toalla-femenina-kotex-nocturna-16-uni-690324/p"
+     1134.0,
+     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p"
     ]
    }
   },
