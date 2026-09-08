@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-07",
- "actualizado": "2026-09-07 17:56",
+ "fecha": "2026-09-08",
+ "actualizado": "2026-09-08 11:59",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-28",
   "2026-08-29",
   "2026-08-30",
   "2026-08-31",
@@ -19,10 +18,131 @@
   "2026-09-04",
   "2026-09-05",
   "2026-09-06",
-  "2026-09-07"
+  "2026-09-07",
+  "2026-09-08"
  ],
- "total": 17,
+ "total": 25,
  "ofertas": [
+  {
+   "n": "Leche infantil Nutrilon Profutura Etapa 2 brick 200 ml",
+   "m": "Nutrilon",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922332/7795323775331_01.jpg?v=639238860799730000",
+   "cadena": "ChangoMás",
+   "precio": 1589.5,
+   "link": "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p",
+   "referencia": 3179.0,
+   "precio_2da": 3199.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.3,
+   "score": 2516,
+   "pr": {
+    "Carrefour": [
+     3199.0,
+     "https://www.carrefour.com.ar/leche-infantil-nutrilon-profutura-etapa-2-brick-200-ml-722957/p"
+    ],
+    "Vea": [
+     3199.0,
+     "https://www.vea.com.ar/leche-uat-nutrilon-2-200-ml/p"
+    ],
+    "Comodín": [
+     3344.69,
+     "https://www.comodinencasa.com.ar/leche-nutrilon-pro-f-premiun2-bk-200ml/p"
+    ],
+    "ChangoMás": [
+     1589.5,
+     "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche infantil Nutrilon profutura Etapa 3 brick 200 ml",
+   "m": "Nutrilon",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922331/7795323775348_01.jpg?v=639238860605070000",
+   "cadena": "ChangoMás",
+   "precio": 1514.5,
+   "link": "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p",
+   "referencia": 3029.0,
+   "precio_2da": 3029.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     3029.0,
+     "https://www.carrefour.com.ar/leche-infantil-nutrilon-profutura-etapa-3-brick-200-ml-722959/p"
+    ],
+    "Vea": [
+     3099.0,
+     "https://www.vea.com.ar/leche-uat-nutrilon-3-200-ml/p"
+    ],
+    "Comodín": [
+     3140.79,
+     "https://www.comodinencasa.com.ar/leche-nutrilon-pro-f-premiun3-bk-200ml/p"
+    ],
+    "ChangoMás": [
+     1514.5,
+     "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Crema Tonadita tradicional 200 cc.",
+   "m": "Tonadita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838347/7798060850095_02.jpg?v=639106570667170000",
+   "cadena": "ChangoMás",
+   "precio": 1299.5,
+   "link": "https://www.masonline.com.ar/crema-de-leche-tonadita-200g-2/p",
+   "referencia": 2599.0,
+   "precio_2da": 2590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.8,
+   "score": 2491,
+   "pr": {
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/crema-tonadita-tradicional-200-cc/p"
+    ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/crema-de-leche-tonadita-pasteurizada-200-gr/p"
+    ],
+    "Comodín": [
+     2654.09,
+     "https://www.comodinencasa.com.ar/crema-de-leche-tonadita-200-cc/p"
+    ],
+    "ChangoMás": [
+     1299.5,
+     "https://www.masonline.com.ar/crema-de-leche-tonadita-200g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café instantáneo Segafredo frasco 100 g.",
+   "m": "Segafredo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/207435/7798196990016_02.jpg?v=637624858742400000",
+   "cadena": "ChangoMás",
+   "precio": 10489.0,
+   "link": "https://www.masonline.com.ar/cafe-instantaneo-segafredo-preferito-100-g/p",
+   "referencia": 20539.0,
+   "precio_2da": 20539.0,
+   "baja_pct": 48.9,
+   "brecha_pct": 48.9,
+   "score": 2394,
+   "pr": {
+    "Carrefour": [
+     20539.0,
+     "https://www.carrefour.com.ar/cafe-instantaneo-segafredo-frasco-100-g/p"
+    ],
+    "Jumbo": [
+     20550.0,
+     "https://www.jumbo.com.ar/cafe-instantaneo-x-100g-segafredo/p"
+    ],
+    "ChangoMás": [
+     10489.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-segafredo-preferito-100-g/p"
+    ]
+   }
+  },
   {
    "n": "Arroz parboil Gallo oro en bolsa 1 kg",
    "m": "Gallo",
@@ -82,33 +202,6 @@
     "ChangoMás": [
      1319.0,
      "https://www.masonline.com.ar/arroz-gallo-largo-fino-500-g-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Tang sabor pera 15 g",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814764/7622201745738_E01.jpg?v=639082504664770000",
-   "cadena": "Carrefour",
-   "precio": 265.0,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p",
-   "referencia": 530.0,
-   "precio_2da": 465.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.1,
-   "score": 2157,
-   "pr": {
-    "Carrefour": [
-     265.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p"
-    ],
-    "ChangoMás": [
-     549.0,
-     "https://www.masonline.com.ar/tang-jugo-en-polvo-pera-15g-2/p"
-    ],
-    "Comodín": [
-     465.99,
-     "https://www.comodinencasa.com.ar/jugo-tang-supvit-pera-x-18-gr/p"
     ]
    }
   },
@@ -241,29 +334,29 @@
    }
   },
   {
-   "n": "Shampoo Liso Efecto Botox 880 Ml Tresemmé",
-   "m": "TRESEMMÉ",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802948/Shampoo-Tresemme-Liso-Efecto-Botox-880-Ml-1-1000671.jpg?v=638375620444300000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
-   "referencia": 15290.0,
-   "precio_2da": 17750.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 48.3,
-   "score": 1933,
+   "n": "Máquina de afeitar Gillette Prestobarba3 carbono 8 uni",
+   "m": "Gillette",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/637011/7500435245814_02.jpg.jpg?v=638785289846530000",
+   "cadena": "ChangoMás",
+   "precio": 11729.0,
+   "link": "https://www.masonline.com.ar/maquina-afeitar-desechable-gillette-prestobarba-carbono-8u/p",
+   "referencia": 24849.0,
+   "precio_2da": 18636.75,
+   "baja_pct": 52.8,
+   "brecha_pct": 37.1,
+   "score": 1957,
    "pr": {
+    "Carrefour": [
+     18636.75,
+     "https://www.carrefour.com.ar/maquina-de-afeitar-gillette-prestobarba3-carbono-8-uni-759275/p"
+    ],
     "Jumbo": [
-     17750.0,
-     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+     26650.0,
+     "https://www.jumbo.com.ar/maquina-desechable-gillette-prestobarba3-carbono-8u/p"
     ],
     "ChangoMás": [
-     17849.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
-    ],
-    "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
+     11729.0,
+     "https://www.masonline.com.ar/maquina-afeitar-desechable-gillette-prestobarba-carbono-8u/p"
     ]
    }
   },
@@ -353,9 +446,9 @@
    }
   },
   {
-   "n": "Arroz parboil Gallo oro en caja 1 kg",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914011/7790070433091_01.jpg?v=639222228724700000",
+   "n": "Arroz Gallo Oro Selec Paraboil X1kg",
+   "m": "GALLO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853986/Arroz-Gallo-Oro-Selec-Paraboil-X1kg-1-1001173.jpg?v=638733300156200000",
    "cadena": "Jumbo",
    "precio": 1800.0,
    "link": "https://www.jumbo.com.ar/arroz-gallo-oro-selec-paraboil-x1kg/p",
@@ -365,10 +458,6 @@
    "brecha_pct": 35.5,
    "score": 1774,
    "pr": {
-    "Carrefour": [
-     3375.0,
-     "https://www.carrefour.com.ar/arroz-parboil-gallo-oro-en-caja-1-kg-733184/p"
-    ],
     "Vea": [
      2790.0,
      "https://www.vea.com.ar/arroz-gallo-oro-selec-paraboil-x1kg/p"
@@ -380,6 +469,107 @@
     "ChangoMás": [
      3549.0,
      "https://www.masonline.com.ar/arroz-gallo-oro-1-kg-2-2/p"
+    ],
+    "Carrefour": [
+     3375.0,
+     "https://www.carrefour.com.ar/arroz-parboil-gallo-oro-en-caja-1-kg-733184/p"
+    ]
+   }
+  },
+  {
+   "n": "Copos de maíz 3 Arroyos azucarados bolsa 200 g.",
+   "m": "3 Arroyos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/232775/7791019000060_02.jpg?v=637764947522100000",
+   "cadena": "ChangoMás",
+   "precio": 949.0,
+   "link": "https://www.masonline.com.ar/copos-de-maiz-azucarados-3-arroyos-200gr-2/p",
+   "referencia": 1729.0,
+   "precio_2da": 1541.29,
+   "baja_pct": 45.1,
+   "brecha_pct": 38.4,
+   "score": 1734,
+   "pr": {
+    "Carrefour": [
+     1729.0,
+     "https://www.carrefour.com.ar/copos-de-maiz-3-arroyos-azucarados-bolsa-200-g-183269/p"
+    ],
+    "Comodín": [
+     1541.29,
+     "https://www.comodinencasa.com.ar/copos-maiz-3-arroyos-azucarados-200gr/p"
+    ],
+    "ChangoMás": [
+     949.0,
+     "https://www.masonline.com.ar/copos-de-maiz-azucarados-3-arroyos-200gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mermelada damasco La Campagnola 454 g.",
+   "m": "La Campagnola",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381244/7793360131448_E01.jpg?v=638315050247170000",
+   "cadena": "ChangoMás",
+   "precio": 2169.0,
+   "link": "https://www.masonline.com.ar/mermelada-la-campagnola-damasco-454g-2/p",
+   "referencia": 4189.0,
+   "precio_2da": 3379.99,
+   "baja_pct": 48.2,
+   "brecha_pct": 35.8,
+   "score": 1728,
+   "pr": {
+    "Carrefour": [
+     3879.0,
+     "https://www.carrefour.com.ar/mermelada-damasco-la-campagnola-454-g/p"
+    ],
+    "Vea": [
+     3890.0,
+     "https://www.vea.com.ar/mermelada-la-campagnola-damasco-454gr/p"
+    ],
+    "Jumbo": [
+     4050.0,
+     "https://www.jumbo.com.ar/mermelada-la-campagnola-damasco-454gr/p"
+    ],
+    "ChangoMás": [
+     2169.0,
+     "https://www.masonline.com.ar/mermelada-la-campagnola-damasco-454g-2/p"
+    ],
+    "Comodín": [
+     3379.99,
+     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-damasco-x-454-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Mermelada de ciruela La Campagnola 454 g.",
+   "m": "La Campagnola",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381240/7793360131424_E01.jpg?v=638315050232000000",
+   "cadena": "ChangoMás",
+   "precio": 2169.0,
+   "link": "https://www.masonline.com.ar/mermelada-la-campagnola-ciruela-454g-2/p",
+   "referencia": 4189.0,
+   "precio_2da": 3379.99,
+   "baja_pct": 48.2,
+   "brecha_pct": 35.8,
+   "score": 1728,
+   "pr": {
+    "Carrefour": [
+     3879.0,
+     "https://www.carrefour.com.ar/mermelada-de-ciruela-la-campagnola-454-g/p"
+    ],
+    "Vea": [
+     3990.0,
+     "https://www.vea.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
+    ],
+    "Jumbo": [
+     4150.0,
+     "https://www.jumbo.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
+    ],
+    "ChangoMás": [
+     2169.0,
+     "https://www.masonline.com.ar/mermelada-la-campagnola-ciruela-454g-2/p"
+    ],
+    "Comodín": [
+     3379.99,
+     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-ciruela-x-454-g/p"
     ]
    }
   },
@@ -411,29 +601,56 @@
    }
   },
   {
-   "n": "Limpiador Multiuso Citronella Rinde 5 Lts 150 Ml Multimax",
-   "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715830/Limpiador-Multiuso-Para-Diluir-Citronella-Rinde-5-Litros-X-150ml-1-856920.jpg?v=637963042732200000",
+   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
+   "m": "KOTEX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
    "cadena": "Carrefour",
-   "precio": 1134.0,
-   "link": "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p",
-   "referencia": 1890.0,
-   "precio_2da": 1950.0,
+   "precio": 2694.0,
+   "link": "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p",
+   "referencia": 4490.0,
+   "precio_2da": 4589.0,
    "baja_pct": 40.0,
-   "brecha_pct": 41.8,
-   "score": 1674,
+   "brecha_pct": 41.3,
+   "score": 1652,
    "pr": {
     "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p"
-    ],
-    "ChangoMás": [
-     2029.0,
-     "https://www.masonline.com.ar/limpiador-liquido-multimax-citronella-rinde-5-litros-2/p"
+     4800.0,
+     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
     ],
     "Carrefour": [
-     1134.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p"
+     2694.0,
+     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
+    ],
+    "ChangoMás": [
+     4589.0,
+     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas Verdes en Rodajas 110 Grs Castell",
+   "m": "CASTELL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/845695/Aceituna-Verde-Rod-Castell-X-110-Dp-1-1029273.jpg?v=638669577965170000",
+   "cadena": "ChangoMás",
+   "precio": 1289.0,
+   "link": "https://www.masonline.com.ar/aceitunas-verdes-castell-rodajas-110-g/p",
+   "referencia": 1990.88,
+   "precio_2da": 2390.0,
+   "baja_pct": 35.3,
+   "brecha_pct": 46.1,
+   "score": 1624,
+   "pr": {
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
+    ],
+    "Jumbo": [
+     2550.0,
+     "https://www.jumbo.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
+    ],
+    "ChangoMás": [
+     1289.0,
+     "https://www.masonline.com.ar/aceitunas-verdes-castell-rodajas-110-g/p"
     ]
    }
   },
@@ -465,29 +682,68 @@
    }
   },
   {
-   "n": "Shampoo Reparación Profunda Keratina Vegetal 415 Ml Tio Nacho",
-   "m": "Tio Nacho",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/907474/650240073526-1.jpg?v=639126525001700000",
-   "cadena": "Vea",
-   "precio": 6363.5,
-   "link": "https://www.vea.com.ar/shampoo-keratina-vegetal-x-415-ml-tio-nacho/p",
-   "referencia": 9790.0,
-   "precio_2da": 11539.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.9,
-   "score": 1570,
+   "n": "Té en saquitos Green Hills 50 u.",
+   "m": "Green Hills",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192743/7790480008261_02.jpg?v=637515949706670000",
+   "cadena": "Jumbo",
+   "precio": 1886.3,
+   "link": "https://www.jumbo.com.ar/te-green-hills-50-saquitos/p",
+   "referencia": 3170.0,
+   "precio_2da": 3069.0,
+   "baja_pct": 40.5,
+   "brecha_pct": 38.5,
+   "score": 1561,
    "pr": {
+    "Carrefour": [
+     3069.0,
+     "https://www.carrefour.com.ar/te-en-saquitos-green-hills-50-u/p"
+    ],
     "Vea": [
-     6363.5,
-     "https://www.vea.com.ar/shampoo-keratina-vegetal-x-415-ml-tio-nacho/p"
+     3390.0,
+     "https://www.vea.com.ar/te-green-hills-50-saquitos/p"
+    ],
+    "Jumbo": [
+     1886.3,
+     "https://www.jumbo.com.ar/te-green-hills-50-saquitos/p"
     ],
     "Comodín": [
-     11992.09,
-     "https://www.comodinencasa.com.ar/shampoo-tio-nacho-vegetal-415ml/p"
+     3369.59,
+     "https://www.comodinencasa.com.ar/te-green-hills-momentos-clasico-50saq/p"
     ],
     "ChangoMás": [
-     11539.0,
-     "https://www.masonline.com.ar/shampoo-tio-nacho-reparacion-profunda-415-ml/p"
+     3069.0,
+     "https://www.masonline.com.ar/te-en-saquitos-green-hills-50-sq-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Pepitos triple 57 g.",
+   "m": "Pepitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 1950.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 35.9,
+   "score": 1560,
+   "pr": {
+    "Carrefour": [
+     2519.0,
+     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
+    ],
+    "Jumbo": [
+     1950.0,
+     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
+    ],
+    "Comodín": [
+     2827.79,
+     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
     ]
    }
   },
