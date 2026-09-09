@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-08",
- "actualizado": "2026-09-08 11:59",
+ "fecha": "2026-09-09",
+ "actualizado": "2026-09-09 12:08",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-29",
   "2026-08-30",
   "2026-08-31",
   "2026-09-01",
@@ -19,9 +18,10 @@
   "2026-09-05",
   "2026-09-06",
   "2026-09-07",
-  "2026-09-08"
+  "2026-09-08",
+  "2026-09-09"
  ],
- "total": 25,
+ "total": 14,
  "ofertas": [
   {
    "n": "Leche infantil Nutrilon Profutura Etapa 2 brick 200 ml",
@@ -144,192 +144,60 @@
    }
   },
   {
-   "n": "Arroz parboil Gallo oro en bolsa 1 kg",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914063/7790070431417_01.jpg?v=639222245608070000",
-   "cadena": "Jumbo",
-   "precio": 1334.5,
-   "link": "https://www.jumbo.com.ar/arroz-parboil-en-bolsa-1-kg-gallo-oro/p",
-   "referencia": 2669.0,
-   "precio_2da": 2499.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2330,
+   "n": "aderezo sabor asado Hellmanns dp 250 grs",
+   "m": "Hellmanns",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/899069/7794000009431_E02.jpg?v=639186853540070000",
+   "cadena": "Comodín",
+   "precio": 1684.79,
+   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
+   "referencia": 3097.19,
+   "precio_2da": 3490.0,
+   "baja_pct": 45.6,
+   "brecha_pct": 51.7,
+   "score": 2359,
    "pr": {
     "Carrefour": [
-     2499.0,
-     "https://www.carrefour.com.ar/arroz-parboil-gallo-oro-en-bolsa-1-kg-718787/p"
+     3569.0,
+     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
     ],
     "Vea": [
-     2499.0,
-     "https://www.vea.com.ar/arroz-parboil-en-bolsa-1-kg-gallo-oro/p"
-    ],
-    "Jumbo": [
-     1334.5,
-     "https://www.jumbo.com.ar/arroz-parboil-en-bolsa-1-kg-gallo-oro/p"
-    ],
-    "ChangoMás": [
-     2839.0,
-     "https://www.masonline.com.ar/arroz-gallo-parboil-1-kg-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz largo fino 00000 Gallo en bolsa 500 g",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914013/7790070433145_01.jpg?v=639222229182530000",
-   "cadena": "Jumbo",
-   "precio": 675.0,
-   "link": "https://www.jumbo.com.ar/arroz-gallo-largo-fino-selec-x500g/p",
-   "referencia": 1350.0,
-   "precio_2da": 1190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.3,
-   "score": 2164,
-   "pr": {
-    "Carrefour": [
-     1190.0,
-     "https://www.carrefour.com.ar/arroz-largo-fino-00000-gallo-en-bolsa-500-g-733189/p"
-    ],
-    "Vea": [
-     1190.0,
-     "https://www.vea.com.ar/arroz-gallo-largo-fino-selec-x500g/p"
-    ],
-    "Jumbo": [
-     675.0,
-     "https://www.jumbo.com.ar/arroz-gallo-largo-fino-selec-x500g/p"
-    ],
-    "ChangoMás": [
-     1319.0,
-     "https://www.masonline.com.ar/arroz-gallo-largo-fino-500-g-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz largo fino Gallo 00000 en bolsa 1 kg",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914036/7790070431448_01.jpg?v=639222240656230000",
-   "cadena": "Jumbo",
-   "precio": 1275.0,
-   "link": "https://www.jumbo.com.ar/arroz-gallo-largo-fino-1kg/p",
-   "referencia": 2550.0,
-   "precio_2da": 2217.87,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.5,
-   "score": 2126,
-   "pr": {
-    "Carrefour": [
-     2399.0,
-     "https://www.carrefour.com.ar/arroz-largo-fino-gallo-00000-en-bolsa-1-kg-718789/p"
-    ],
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/arroz-gallo-largo-fino-1kg/p"
-    ],
-    "Jumbo": [
-     1275.0,
-     "https://www.jumbo.com.ar/arroz-gallo-largo-fino-1kg/p"
+     3490.0,
+     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
     ],
     "Comodín": [
-     2286.99,
-     "https://www.comodinencasa.com.ar/arroz-gallo-largo-fino-bolsa-x-1-kg/p"
+     1684.79,
+     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
     ],
     "ChangoMás": [
-     2499.0,
-     "https://www.masonline.com.ar/arroz-gallo-largo-fino-1-kg-4/p"
-    ],
-    "Tuchanguito": [
-     2217.87,
-     "https://www.tuchanguito.com.ar/productos/arroz-gallo-largo-fino-bolsa-x-1-kg/"
+     3569.0,
+     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
     ]
    }
   },
   {
-   "n": "Arroz parboil Gallo oro en bolsa 500 g",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914012/7790070433114_01.jpg?v=639222228918870000",
+   "n": "Leche Condensada Descremada Orgánica 395 Grs Nestlé®",
+   "m": "NESTLE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875560/Nestl-Leche-Condensada-Descremada-Org-nica-X-395gr-1-998064.jpg?v=638872403891100000",
    "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/arroz-gallo-parboil-selec-x-500-gr-gallo/p",
-   "referencia": 1500.0,
-   "precio_2da": 1299.0,
+   "precio": 2875.0,
+   "link": "https://www.jumbo.com.ar/leche-condensada-descremada-organica-395-grs-nestle/p",
+   "referencia": 5750.0,
+   "precio_2da": 4999.0,
    "baja_pct": 50.0,
-   "brecha_pct": 42.3,
-   "score": 2113,
+   "brecha_pct": 42.5,
+   "score": 2124,
    "pr": {
-    "Carrefour": [
-     1299.0,
-     "https://www.carrefour.com.ar/arroz-parboil-gallo-oro-en-bolsa-500-g-733186/p"
-    ],
-    "Vea": [
-     1299.0,
-     "https://www.vea.com.ar/arroz-gallo-parboil-selec-x-500-gr-gallo/p"
-    ],
     "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/arroz-gallo-parboil-selec-x-500-gr-gallo/p"
+     2875.0,
+     "https://www.jumbo.com.ar/leche-condensada-descremada-organica-395-grs-nestle/p"
     ],
     "ChangoMás": [
-     1499.0,
-     "https://www.masonline.com.ar/arroz-gallo-oro-500-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz doble Gallo 500 g",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/890029/7790070431431_02.jpg?v=639167095260530000",
-   "cadena": "Jumbo",
-   "precio": 1050.0,
-   "link": "https://www.jumbo.com.ar/arroz-doble-carolina-gallo-500-gr/p",
-   "referencia": 2100.0,
-   "precio_2da": 1799.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.6,
-   "score": 2082,
-   "pr": {
+     5909.0,
+     "https://www.masonline.com.ar/leche-condensada-nestle-descremada-395-g-2/p"
+    ],
     "Carrefour": [
-     1810.0,
-     "https://www.carrefour.com.ar/arroz-doble-gallo-500-g-726294/p"
-    ],
-    "Vea": [
-     1799.0,
-     "https://www.vea.com.ar/arroz-doble-carolina-gallo-500-gr/p"
-    ],
-    "Jumbo": [
-     1050.0,
-     "https://www.jumbo.com.ar/arroz-doble-carolina-gallo-500-gr/p"
-    ],
-    "ChangoMás": [
-     2129.0,
-     "https://www.masonline.com.ar/arroz-doble-carolina-gallo-500gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz integral Gallo en caja 1 kg",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/890047/7790070431585_02.jpg?v=639167115682270000",
-   "cadena": "Jumbo",
-   "precio": 1900.0,
-   "link": "https://www.jumbo.com.ar/arroz-gallo-integral-seleccion-x1kg/p",
-   "referencia": 3800.0,
-   "precio_2da": 3190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.4,
-   "score": 2022,
-   "pr": {
-    "Carrefour": [
-     3190.0,
-     "https://www.carrefour.com.ar/arroz-integral-gallo-en-caja-1-kg-722814/p"
-    ],
-    "Vea": [
-     3190.0,
-     "https://www.vea.com.ar/arroz-gallo-integral-seleccion-x1kg/p"
-    ],
-    "Jumbo": [
-     1900.0,
-     "https://www.jumbo.com.ar/arroz-gallo-integral-seleccion-x1kg/p"
+     4999.0,
+     "https://www.carrefour.com.ar/nestle-leche-condensada-descremada-organica-395-grs-727277/p"
     ]
    }
   },
@@ -357,122 +225,6 @@
     "ChangoMás": [
      11729.0,
      "https://www.masonline.com.ar/maquina-afeitar-desechable-gillette-prestobarba-carbono-8u/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz carnaroli Gallo 500 g",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/171054/7790070411792_01.jpg?v=637468537817330000",
-   "cadena": "Jumbo",
-   "precio": 1775.0,
-   "link": "https://www.jumbo.com.ar/arroz-carnaroli-gallo-x500-gr/p",
-   "referencia": 3550.0,
-   "precio_2da": 2890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.6,
-   "score": 1929,
-   "pr": {
-    "Carrefour": [
-     2990.0,
-     "https://www.carrefour.com.ar/arroz-carnaroli-gallo-500-g/p"
-    ],
-    "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/arroz-carnaroli-gallo-x500-gr/p"
-    ],
-    "Jumbo": [
-     1775.0,
-     "https://www.jumbo.com.ar/arroz-carnaroli-gallo-x500-gr/p"
-    ],
-    "Comodín": [
-     3346.59,
-     "https://www.comodinencasa.com.ar/arroz-gallo-carnaroli-estuche-x-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Saborizada Sin Gas Sabor Manzanella 500 Ml H2Oh",
-   "m": "H2OH",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872584/Saborizada-Manzana-Sin-Gas-X-500-Cc-H2oh-1-1007673.jpg?v=638864625779870000",
-   "cadena": "Jumbo",
-   "precio": 935.0,
-   "link": "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p",
-   "referencia": 1700.0,
-   "precio_2da": 1599.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 41.5,
-   "score": 1869,
-   "pr": {
-    "Vea": [
-     1699.0,
-     "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Jumbo": [
-     935.0,
-     "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Carrefour": [
-     1599.0,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-h2oh-sin-gas-500-ml-704717/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz integral Gallo en bolsa 500 g",
-   "m": "Gallo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914014/7790070433152_01.jpg?v=639222229384030000",
-   "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/arroz-gallo-integral-selec-x-500-gr-gallo/p",
-   "referencia": 1500.0,
-   "precio_2da": 1190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.0,
-   "score": 1849,
-   "pr": {
-    "Carrefour": [
-     1190.0,
-     "https://www.carrefour.com.ar/arroz-integral-gallo-en-bolsa-500-g-733190/p"
-    ],
-    "Vea": [
-     1190.0,
-     "https://www.vea.com.ar/arroz-gallo-integral-selec-x-500-gr-gallo/p"
-    ],
-    "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/arroz-gallo-integral-selec-x-500-gr-gallo/p"
-    ]
-   }
-  },
-  {
-   "n": "Arroz Gallo Oro Selec Paraboil X1kg",
-   "m": "GALLO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853986/Arroz-Gallo-Oro-Selec-Paraboil-X1kg-1-1001173.jpg?v=638733300156200000",
-   "cadena": "Jumbo",
-   "precio": 1800.0,
-   "link": "https://www.jumbo.com.ar/arroz-gallo-oro-selec-paraboil-x1kg/p",
-   "referencia": 3600.0,
-   "precio_2da": 2790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.5,
-   "score": 1774,
-   "pr": {
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/arroz-gallo-oro-selec-paraboil-x1kg/p"
-    ],
-    "Jumbo": [
-     1800.0,
-     "https://www.jumbo.com.ar/arroz-gallo-oro-selec-paraboil-x1kg/p"
-    ],
-    "ChangoMás": [
-     3549.0,
-     "https://www.masonline.com.ar/arroz-gallo-oro-1-kg-2-2/p"
-    ],
-    "Carrefour": [
-     3375.0,
-     "https://www.carrefour.com.ar/arroz-parboil-gallo-oro-en-caja-1-kg-733184/p"
     ]
    }
   },
@@ -574,145 +326,29 @@
    }
   },
   {
-   "n": "Galletitas pepas 9 de Oro 500 g.",
-   "m": "9 De Oro",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924150/7792180143273_E02.jpg?v=639240566333170000",
-   "cadena": "Carrefour",
-   "precio": 1864.85,
-   "link": "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p",
-   "referencia": 2869.0,
-   "precio_2da": 3590.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 48.1,
-   "score": 1682,
-   "pr": {
-    "Carrefour": [
-     1864.85,
-     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p"
-    ],
-    "Vea": [
-     3590.0,
-     "https://www.vea.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
-    ],
-    "Jumbo": [
-     3700.0,
-     "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
-   "cadena": "Carrefour",
-   "precio": 2694.0,
-   "link": "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p",
-   "referencia": 4490.0,
-   "precio_2da": 4589.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.3,
-   "score": 1652,
-   "pr": {
-    "Jumbo": [
-     4800.0,
-     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
-    ],
-    "Carrefour": [
-     2694.0,
-     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
-    ],
-    "ChangoMás": [
-     4589.0,
-     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aceitunas Verdes en Rodajas 110 Grs Castell",
-   "m": "CASTELL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/845695/Aceituna-Verde-Rod-Castell-X-110-Dp-1-1029273.jpg?v=638669577965170000",
+   "n": "Vino Tinto Cabernet Franc 750 Cc Fabre Montmayou",
+   "m": "FABRE MONTMAYOU",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/669752/Vino-Fabre-Terru-o-Cabernet-Franc-Bot-750cc-1-879235.jpg?v=637691637940930000",
    "cadena": "ChangoMás",
-   "precio": 1289.0,
-   "link": "https://www.masonline.com.ar/aceitunas-verdes-castell-rodajas-110-g/p",
-   "referencia": 1990.88,
-   "precio_2da": 2390.0,
-   "baja_pct": 35.3,
-   "brecha_pct": 46.1,
-   "score": 1624,
-   "pr": {
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
-    ],
-    "Jumbo": [
-     2550.0,
-     "https://www.jumbo.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
-    ],
-    "ChangoMás": [
-     1289.0,
-     "https://www.masonline.com.ar/aceitunas-verdes-castell-rodajas-110-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Colágeno Hidratación 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865044/Acondicionador-Pantene-Colageno-510ml-Acondicionador-Colageno-X-510-Ml-Pantene-1-1036878.jpg?v=638809545762430000",
-   "cadena": "Carrefour",
-   "precio": 9174.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p",
-   "referencia": 15290.0,
-   "precio_2da": 15290.0,
+   "precio": 10499.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p",
+   "referencia": 17499.0,
+   "precio_2da": 17500.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
-    "Vea": [
-     15290.0,
-     "https://www.vea.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
-    ],
     "Jumbo": [
-     18150.0,
-     "https://www.jumbo.com.ar/acondicionador-colageno-x-510-ml-pantene-2/p"
+     17500.0,
+     "https://www.jumbo.com.ar/vino-fabre-terruno-cabernet-franc-x-750-cc/p"
     ],
     "Carrefour": [
-     9174.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-pro-v-miracles-colageno-nutre-revitaliza-510-ml-760658/p"
-    ]
-   }
-  },
-  {
-   "n": "Té en saquitos Green Hills 50 u.",
-   "m": "Green Hills",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192743/7790480008261_02.jpg?v=637515949706670000",
-   "cadena": "Jumbo",
-   "precio": 1886.3,
-   "link": "https://www.jumbo.com.ar/te-green-hills-50-saquitos/p",
-   "referencia": 3170.0,
-   "precio_2da": 3069.0,
-   "baja_pct": 40.5,
-   "brecha_pct": 38.5,
-   "score": 1561,
-   "pr": {
-    "Carrefour": [
-     3069.0,
-     "https://www.carrefour.com.ar/te-en-saquitos-green-hills-50-u/p"
-    ],
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/te-green-hills-50-saquitos/p"
-    ],
-    "Jumbo": [
-     1886.3,
-     "https://www.jumbo.com.ar/te-green-hills-50-saquitos/p"
-    ],
-    "Comodín": [
-     3369.59,
-     "https://www.comodinencasa.com.ar/te-green-hills-momentos-clasico-50saq/p"
+     17675.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-franc-fabre-montmayou-750-cc/p"
     ],
     "ChangoMás": [
-     3069.0,
-     "https://www.masonline.com.ar/te-en-saquitos-green-hills-50-sq-2/p"
+     10499.4,
+     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p"
     ]
    }
   },
@@ -748,29 +384,60 @@
    }
   },
   {
-   "n": "Shampoo Bond Intense Repair 200 Ml Dove",
+   "n": "Shampoo Humectación y Coco Antioxi 650 Ml Dove",
    "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919631/13710774166.jpg?v=639179935041900000",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919946/13710774171.jpg?v=639180001337270000",
    "cadena": "Jumbo",
-   "precio": 4320.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-bond-intense-repair-200-ml-2/p",
-   "referencia": 7200.0,
-   "precio_2da": 7059.0,
+   "precio": 9120.0,
+   "link": "https://www.jumbo.com.ar/shampoo-dove-humectcoco-antioxi-650ml/p",
+   "referencia": 15200.0,
+   "precio_2da": 14851.19,
    "baja_pct": 40.0,
-   "brecha_pct": 38.8,
-   "score": 1552,
+   "brecha_pct": 38.6,
+   "score": 1544,
    "pr": {
     "Jumbo": [
-     4320.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-intense-repair-200-ml-2/p"
+     9120.0,
+     "https://www.jumbo.com.ar/shampoo-dove-humectcoco-antioxi-650ml/p"
+    ],
+    "Comodín": [
+     14851.19,
+     "https://www.comodinencasa.com.ar/shampoo-dove-coco-650ml/p"
     ],
     "ChangoMás": [
-     7059.0,
-     "https://www.masonline.com.ar/shampoo-dove-bond-intense-repair-200ml-2/p"
+     17689.0,
+     "https://www.masonline.com.ar/shampoo-dove-humectacion-650-ml/p"
     ],
     "Carrefour": [
-     7059.0,
-     "https://www.carrefour.com.ar/shampoo-dove-bond-repair-peptido-200-ml-743827/p"
+     15890.0,
+     "https://www.carrefour.com.ar/shampoo-dove-humectacion-coco-antioxi-650-ml-778715/p"
+    ]
+   }
+  },
+  {
+   "n": "Bolsa para Horno Maggi Mediterráneo 25 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904601/8445292042987_01.jpg?v=639201504463400000",
+   "cadena": "Jumbo",
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p",
+   "referencia": 2650.0,
+   "precio_2da": 1913.4,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.8,
+   "score": 1538,
+   "pr": {
+    "Carrefour": [
+     1913.4,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
+    ],
+    "Jumbo": [
+     1325.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
     ]
    }
   }
