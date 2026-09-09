@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-09 16:11",
+ "actualizado": "2026-09-09 16:55",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-08",
   "2026-09-09"
  ],
- "total": 27,
+ "total": 26,
  "ofertas": [
   {
    "n": "Máquina de afeitar Gillette Prestobarba3 carbono 8 uni",
@@ -670,33 +670,6 @@
     "ChangoMás": [
      10499.4,
      "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental Colgate Total encías saludables con flúor 90 grs",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/610622/7509546668055_01.jpg?v=638729735376070000",
-   "cadena": "Jumbo",
-   "precio": 4319.25,
-   "link": "https://www.jumbo.com.ar/pasta-dental-encias-saludables-con-fluor-90-grs-colgate-total/p",
-   "referencia": 7038.0,
-   "precio_2da": 7319.0,
-   "baja_pct": 38.6,
-   "brecha_pct": 41.0,
-   "score": 1583,
-   "pr": {
-    "Carrefour": [
-     7319.0,
-     "https://www.carrefour.com.ar/pasta-dental-colgate-total-encias-saludables-con-fluor-90-grs-677548/p"
-    ],
-    "Jumbo": [
-     4319.25,
-     "https://www.jumbo.com.ar/pasta-dental-encias-saludables-con-fluor-90-grs-colgate-total/p"
-    ],
-    "ChangoMás": [
-     7319.0,
-     "https://www.masonline.com.ar/crema-dental-total-12-encias-reforzadas-tub-rec-90g-2/p"
     ]
    }
   },
