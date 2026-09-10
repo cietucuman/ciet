@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-09",
- "actualizado": "2026-09-09 16:55",
+ "fecha": "2026-09-10",
+ "actualizado": "2026-09-10 07:06",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-30",
   "2026-08-31",
   "2026-09-01",
   "2026-09-02",
@@ -19,7 +18,8 @@
   "2026-09-06",
   "2026-09-07",
   "2026-09-08",
-  "2026-09-09"
+  "2026-09-09",
+  "2026-09-10"
  ],
  "total": 26,
  "ofertas": [
@@ -78,37 +78,6 @@
     "ChangoMás": [
      1589.5,
      "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche infantil Nutrilon profutura Etapa 3 brick 200 ml",
-   "m": "Nutrilon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922331/7795323775348_01.jpg?v=639238860605070000",
-   "cadena": "ChangoMás",
-   "precio": 1514.5,
-   "link": "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p",
-   "referencia": 3029.0,
-   "precio_2da": 3029.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
-   "pr": {
-    "Carrefour": [
-     3029.0,
-     "https://www.carrefour.com.ar/leche-infantil-nutrilon-profutura-etapa-3-brick-200-ml-722959/p"
-    ],
-    "Vea": [
-     3099.0,
-     "https://www.vea.com.ar/leche-uat-nutrilon-3-200-ml/p"
-    ],
-    "Comodín": [
-     3140.79,
-     "https://www.comodinencasa.com.ar/leche-nutrilon-pro-f-premiun3-bk-200ml/p"
-    ],
-    "ChangoMás": [
-     1514.5,
-     "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p"
     ]
    }
   },
@@ -256,141 +225,29 @@
    }
   },
   {
-   "n": "Chicles Beldent Menta Refrescante 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p",
-   "referencia": 1050.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 45.0,
-   "score": 2022,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p"
-    ],
-    "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
-    ],
-    "ChangoMás": [
-     1129.0,
-     "https://www.masonline.com.ar/chicles-beldent-de-menta-10gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Menta Power 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882349/77969088_E01.jpg?v=639155711940900000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p",
-   "referencia": 1050.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 45.0,
-   "score": 2022,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p"
-    ],
-    "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-menta-power-x-6-un-beldent/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-menta-power-x-6-un-beldent/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Mentol Frozen 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882351/77969095_E01.jpg?v=639155712181330000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p",
-   "referencia": 1050.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 45.0,
-   "score": 2022,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p"
-    ],
-    "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Infinit mentol 13,3 g.",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
-   "cadena": "Carrefour",
-   "precio": 766.35,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
-   "referencia": 1349.0,
-   "precio_2da": 1390.0,
-   "baja_pct": 43.2,
-   "brecha_pct": 44.9,
-   "score": 1938,
-   "pr": {
-    "Carrefour": [
-     766.35,
-     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
-    ],
-    "Vea": [
-     1390.0,
-     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ],
-    "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Milka triple mousse 55 g.",
+   "n": "Alfajor Milka Super Dulce de Leche Blanco 70 grs",
    "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878652/7622202370045_E01.jpg?v=639149668118530000",
    "cadena": "ChangoMás",
    "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
+   "link": "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p",
    "referencia": 2209.0,
-   "precio_2da": 2200.0,
+   "precio_2da": 2209.0,
    "baja_pct": 43.4,
-   "brecha_pct": 43.2,
-   "score": 1877,
+   "brecha_pct": 43.4,
+   "score": 1887,
    "pr": {
     "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
+     2209.0,
+     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
     ],
-    "Comodín": [
-     2827.79,
-     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
     ],
     "ChangoMás": [
      1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
+     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
     ]
    }
   },
@@ -558,37 +415,6 @@
    }
   },
   {
-   "n": "Always xtra diarios respirable protectores diarios 15 uni",
-   "m": "Always",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/524194/7500435233019_02.jpg?v=638515473245900000",
-   "cadena": "Carrefour",
-   "precio": 2015.4,
-   "link": "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p",
-   "referencia": 3359.0,
-   "precio_2da": 3359.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     2015.4,
-     "https://www.carrefour.com.ar/always-xtra-diarios-respirable-protectores-diarios-15-uni-726081/p"
-    ],
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/protectores-diarios-liners-locion-respirable-15-un-always/p"
-    ],
-    "ChangoMás": [
-     3359.0,
-     "https://www.masonline.com.ar/protectores-diarios-always-respirables-sin-perfume-15un-2/p"
-    ]
-   }
-  },
-  {
    "n": "Pañales Pampers talle RN deluxe 36 uni",
    "m": "Pampers",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862272/7500435237642_02.jpg?v=639130866023270000",
@@ -612,37 +438,6 @@
     "Jumbo": [
      25563.0,
      "https://www.jumbo.com.ar/panales-pampers-premium-care-pequeno-36u/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Pampers talle P deluxe 36 uni",
-   "m": "Pampers",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862251/7500435237611_02.jpg?v=639130864866630000",
-   "cadena": "Carrefour",
-   "precio": 15834.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
-   "referencia": 26390.0,
-   "precio_2da": 26390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     15834.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
-    ],
-    "Vea": [
-     26390.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ],
-    "Jumbo": [
-     27626.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ],
-    "ChangoMás": [
-     28519.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-p-36un-2/p"
     ]
    }
   },
@@ -701,6 +496,153 @@
    }
   },
   {
+   "n": "Chicles Beldent Menta Refrescante 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+    ],
+    "ChangoMás": [
+     1129.0,
+     "https://www.masonline.com.ar/chicles-beldent-de-menta-10gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Menta Power 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882349/77969088_E01.jpg?v=639155711940900000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-menta-power-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-menta-power-x-6-un-beldent/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Mentol Frozen 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882351/77969095_E01.jpg?v=639155712181330000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Infinit mentol 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
+   "cadena": "Carrefour",
+   "precio": 766.35,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
+   "referencia": 1179.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.9,
+   "score": 1570,
+   "pr": {
+    "Carrefour": [
+     766.35,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1450.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Lavandina Ayudín triple poder lavanda 2 l.",
+   "m": "Ayudín",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795382/7793253003722_02.jpg?v=639050312014030000",
+   "cadena": "ChangoMás",
+   "precio": 2072.85,
+   "link": "https://www.masonline.com.ar/lavandina-ayudin-triple-poder-lavanda-2-l-2/p",
+   "referencia": 3749.0,
+   "precio_2da": 3190.0,
+   "baja_pct": 44.7,
+   "brecha_pct": 35.0,
+   "score": 1566,
+   "pr": {
+    "Carrefour": [
+     3190.0,
+     "https://www.carrefour.com.ar/lavandina-ayudin-triple-poder-lavanda-2-l-675801/p"
+    ],
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/lavandina-ayudin-glaciar-triple-poder-la/p"
+    ],
+    "Jumbo": [
+     4000.0,
+     "https://www.jumbo.com.ar/lavandina-ayudin-glaciar-triple-poder-la/p"
+    ],
+    "Comodín": [
+     3678.49,
+     "https://www.comodinencasa.com.ar/lavandina-ayudin-frag-multis-lavanda-2lt/p"
+    ],
+    "ChangoMás": [
+     2072.85,
+     "https://www.masonline.com.ar/lavandina-ayudin-triple-poder-lavanda-2-l-2/p"
+    ]
+   }
+  },
+  {
    "n": "Alfajor Pepitos triple 57 g.",
    "m": "Pepitos",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
@@ -732,33 +674,29 @@
    }
   },
   {
-   "n": "Shampoo Humectación y Coco Antioxi 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919946/13710774171.jpg?v=639180001337270000",
-   "cadena": "Jumbo",
-   "precio": 9120.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-humectcoco-antioxi-650ml/p",
-   "referencia": 15200.0,
-   "precio_2da": 14851.19,
+   "n": "Acondicionador Luminous UV 190 Ml Sedal",
+   "m": "SEDAL",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/855514/Acondicionador-Luminous-Uv-X-190-Ml-Sedal-1-1032586.jpg?v=638749822443800000",
+   "cadena": "ChangoMás",
+   "precio": 2447.4,
+   "link": "https://www.masonline.com.ar/acondicionador-sedal-luminous-uv-190ml/p",
+   "referencia": 4079.0,
+   "precio_2da": 3990.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1544,
+   "brecha_pct": 38.7,
+   "score": 1546,
    "pr": {
     "Jumbo": [
-     9120.0,
-     "https://www.jumbo.com.ar/shampoo-dove-humectcoco-antioxi-650ml/p"
-    ],
-    "Comodín": [
-     14851.19,
-     "https://www.comodinencasa.com.ar/shampoo-dove-coco-650ml/p"
-    ],
-    "ChangoMás": [
-     17689.0,
-     "https://www.masonline.com.ar/shampoo-dove-humectacion-650-ml/p"
+     4400.0,
+     "https://www.jumbo.com.ar/acondicionador-luminous-uv-x-190-ml-sedal-2/p"
     ],
     "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/shampoo-dove-humectacion-coco-antioxi-650-ml-778715/p"
+     3990.0,
+     "https://www.carrefour.com.ar/acondicionador-sedal-luminous-uv-190-ml-756367/p"
+    ],
+    "ChangoMás": [
+     2447.4,
+     "https://www.masonline.com.ar/acondicionador-sedal-luminous-uv-190ml/p"
     ]
    }
   },
@@ -786,6 +724,60 @@
     "Carrefour": [
      6069.0,
      "https://www.carrefour.com.ar/mermelada-dr-cormillot-de-frutilla-sin-azucar-390-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Sabor Tres Sueños 82 Grs Cadbury",
+   "m": "CADBURY",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923974/7622201818739.jpg?v=639223214602700000",
+   "cadena": "Jumbo",
+   "precio": 4800.0,
+   "link": "https://www.jumbo.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p",
+   "referencia": 8000.0,
+   "precio_2da": 7790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.4,
+   "score": 1535,
+   "pr": {
+    "Vea": [
+     7790.0,
+     "https://www.vea.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p"
+    ],
+    "Jumbo": [
+     4800.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p"
+    ],
+    "Carrefour": [
+     7790.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-tres-suenos-82-g-680436/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Golden Pack X 4 Un Oreo",
+   "m": "OREO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/916627/7622202824135-1.jpg?v=639159354245470000",
+   "cadena": "ChangoMás",
+   "precio": 3269.4,
+   "link": "https://www.masonline.com.ar/galletitas-dulces-oreo-golden-4-u-268-g/p",
+   "referencia": 5449.0,
+   "precio_2da": 5239.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1504,
+   "pr": {
+    "Jumbo": [
+     5550.0,
+     "https://www.jumbo.com.ar/galletitas-golden-pack-x-4-un-oreo/p"
+    ],
+    "Carrefour": [
+     5239.0,
+     "https://www.carrefour.com.ar/galletitas-oreo-golden-sabor-vainilla-rellenas-con-crema-display-4-uni-64-grs-c-u-777049/p"
+    ],
+    "ChangoMás": [
+     3269.4,
+     "https://www.masonline.com.ar/galletitas-dulces-oreo-golden-4-u-268-g/p"
     ]
    }
   }
