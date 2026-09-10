@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-10 07:06",
+ "actualizado": "2026-09-10 15:51",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-09",
   "2026-09-10"
  ],
- "total": 26,
+ "total": 27,
  "ofertas": [
   {
    "n": "Máquina de afeitar Gillette Prestobarba3 carbono 8 uni",
@@ -66,10 +66,6 @@
     "Carrefour": [
      3199.0,
      "https://www.carrefour.com.ar/leche-infantil-nutrilon-profutura-etapa-2-brick-200-ml-722957/p"
-    ],
-    "Vea": [
-     3199.0,
-     "https://www.vea.com.ar/leche-uat-nutrilon-2-200-ml/p"
     ],
     "Comodín": [
      3344.69,
@@ -140,33 +136,6 @@
    }
   },
   {
-   "n": "Bolsa para Horno Maggi Mediterráneo 25 grs",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904601/8445292042987_01.jpg?v=639201504463400000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p",
-   "referencia": 2650.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Carrefour": [
-     3189.0,
-     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
-    ]
-   }
-  },
-  {
    "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
    "m": "Maggi",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
@@ -198,6 +167,64 @@
    }
   },
   {
+   "n": "Bolsa para Horno Maggi Mediterráneo 25 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904601/8445292042987_01.jpg?v=639201504463400000",
+   "cadena": "Jumbo",
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p",
+   "referencia": 2650.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.8,
+   "score": 2339,
+   "pr": {
+    "Carrefour": [
+     3189.0,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
+    ],
+    "Jumbo": [
+     1325.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
+    ],
+    "ChangoMás": [
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Corn Flakes 200gr",
+   "m": "CORN FLAKES",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/882840/Cereal-X-200-Gr-Corn-Flakes-1-1047836.jpg?v=639112548460300000",
+   "cadena": "ChangoMás",
+   "precio": 1549.0,
+   "link": "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p",
+   "referencia": 2889.0,
+   "precio_2da": 2889.0,
+   "baja_pct": 46.4,
+   "brecha_pct": 46.4,
+   "score": 2151,
+   "pr": {
+    "Jumbo": [
+     3000.0,
+     "https://www.jumbo.com.ar/corn-flakes-200gr/p"
+    ],
+    "Carrefour": [
+     2889.0,
+     "https://www.carrefour.com.ar/copos-de-maiz-kelloggs-corn-flakes-200-grs-754232/p"
+    ],
+    "ChangoMás": [
+     1549.0,
+     "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p"
+    ]
+   }
+  },
+  {
    "n": "Leche Condensada Descremada Orgánica 395 Grs Nestlé®",
    "m": "NESTLE",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875560/Nestl-Leche-Condensada-Descremada-Org-nica-X-395gr-1-998064.jpg?v=638872403891100000",
@@ -225,29 +252,33 @@
    }
   },
   {
-   "n": "Alfajor Milka Super Dulce de Leche Blanco 70 grs",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878652/7622202370045_E01.jpg?v=639149668118530000",
+   "n": "Cereal de chocolate Kellogs Muesli 255 g.",
+   "m": "Kelloggs",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318196/7896004004990_E02.jpg?v=638180312961730000",
    "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p",
-   "referencia": 2209.0,
-   "precio_2da": 2209.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 43.4,
-   "score": 1887,
+   "precio": 2479.0,
+   "link": "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p",
+   "referencia": 4609.0,
+   "precio_2da": 4490.0,
+   "baja_pct": 46.2,
+   "brecha_pct": 44.8,
+   "score": 2070,
    "pr": {
     "Carrefour": [
-     2209.0,
-     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
+     4490.0,
+     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
+    ],
+    "Vea": [
+     4490.0,
+     "https://www.vea.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
     ],
     "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+     4600.0,
+     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
     ],
     "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
+     2479.0,
+     "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p"
     ]
    }
   },
@@ -411,6 +442,33 @@
     "Comodín": [
      3379.99,
      "https://www.comodinencasa.com.ar/mermelada-la-campagnola-ciruela-x-454-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Paseo 5 semillas 300 g.",
+   "m": "Paseo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929621/7792180007315_02.jpg?v=639246481847070000",
+   "cadena": "Carrefour",
+   "precio": 1084.85,
+   "link": "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p",
+   "referencia": 1669.0,
+   "precio_2da": 2135.19,
+   "baja_pct": 35.0,
+   "brecha_pct": 49.2,
+   "score": 1722,
+   "pr": {
+    "Carrefour": [
+     1084.85,
+     "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+    ],
+    "Comodín": [
+     2135.19,
+     "https://www.comodinencasa.com.ar/galleta-paseo-salvado-5-semillas-x-300gr/p"
     ]
    }
   },
@@ -690,13 +748,13 @@
      4400.0,
      "https://www.jumbo.com.ar/acondicionador-luminous-uv-x-190-ml-sedal-2/p"
     ],
-    "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/acondicionador-sedal-luminous-uv-190-ml-756367/p"
-    ],
     "ChangoMás": [
      2447.4,
      "https://www.masonline.com.ar/acondicionador-sedal-luminous-uv-190ml/p"
+    ],
+    "Carrefour": [
+     3990.0,
+     "https://www.carrefour.com.ar/acondicionador-sedal-luminous-uv-190-ml-756367/p"
     ]
    }
   },
@@ -724,33 +782,6 @@
     "Carrefour": [
      6069.0,
      "https://www.carrefour.com.ar/mermelada-dr-cormillot-de-frutilla-sin-azucar-390-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Sabor Tres Sueños 82 Grs Cadbury",
-   "m": "CADBURY",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923974/7622201818739.jpg?v=639223214602700000",
-   "cadena": "Jumbo",
-   "precio": 4800.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p",
-   "referencia": 8000.0,
-   "precio_2da": 7790.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1535,
-   "pr": {
-    "Vea": [
-     7790.0,
-     "https://www.vea.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p"
-    ],
-    "Jumbo": [
-     4800.0,
-     "https://www.jumbo.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p"
-    ],
-    "Carrefour": [
-     7790.0,
-     "https://www.carrefour.com.ar/chocolate-cadbury-tres-suenos-82-g-680436/p"
     ]
    }
   },
