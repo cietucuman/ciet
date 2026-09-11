@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-11 11:50",
+ "actualizado": "2026-09-11 15:55",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,8 +21,35 @@
   "2026-09-10",
   "2026-09-11"
  ],
- "total": 29,
+ "total": 31,
  "ofertas": [
+  {
+   "n": "Cerveza 0.0 330 Ml Heineken",
+   "m": "HEINEKEN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774493/Cerveza-Heineken-Cero-330cc-1-947634.jpg?v=638150854109100000",
+   "cadena": "Vea",
+   "precio": 1609.0,
+   "link": "https://www.vea.com.ar/cerveza-heineken-cero-330-ml/p",
+   "referencia": 3218.0,
+   "precio_2da": 3269.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.8,
+   "score": 2539,
+   "pr": {
+    "Vea": [
+     1609.0,
+     "https://www.vea.com.ar/cerveza-heineken-cero-330-ml/p"
+    ],
+    "Jumbo": [
+     3270.0,
+     "https://www.jumbo.com.ar/cerveza-heineken-cero-330-ml/p"
+    ],
+    "ChangoMás": [
+     3269.0,
+     "https://www.masonline.com.ar/cerveza-rubia-heineken-cero-sin-alcohol-330-cc/p"
+    ]
+   }
+  },
   {
    "n": "Leche infantil Nutrilon Profutura Etapa 2 brick 200 ml",
    "m": "Nutrilon",
@@ -47,6 +74,33 @@
     "ChangoMás": [
      1589.5,
      "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Bajo Cero 1 Lts Quilmes",
+   "m": "QUILMES",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/907545/12440106101.jpg?v=639129030756070000",
+   "cadena": "Vea",
+   "precio": 1889.0,
+   "link": "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p",
+   "referencia": 3778.0,
+   "precio_2da": 3619.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.8,
+   "score": 2390,
+   "pr": {
+    "Vea": [
+     1889.0,
+     "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
+    ],
+    "Jumbo": [
+     3884.0,
+     "https://www.jumbo.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
+    ],
+    "Carrefour": [
+     3619.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-quilmes-bajo-cero-retornable-1-lt-731862/p"
     ]
    }
   },
@@ -194,6 +248,37 @@
    }
   },
   {
+   "n": "aderezo sabor asado Hellmanns dp 250 grs",
+   "m": "Hellmanns",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/899069/7794000009431_E02.jpg?v=639186853540070000",
+   "cadena": "Comodín",
+   "precio": 1295.99,
+   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
+   "referencia": 2390.99,
+   "precio_2da": 2268.5,
+   "baja_pct": 45.8,
+   "brecha_pct": 42.9,
+   "score": 1963,
+   "pr": {
+    "Carrefour": [
+     2498.3,
+     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
+    ],
+    "Vea": [
+     2268.5,
+     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
+    ],
+    "Comodín": [
+     1295.99,
+     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
+    ],
+    "ChangoMás": [
+     3569.0,
+     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
+    ]
+   }
+  },
+  {
    "n": "Cerveza Rubia 473 Ml Salta",
    "m": "SALTA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
@@ -244,41 +329,6 @@
     "ChangoMás": [
      1249.5,
      "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Mayonesa Sabor Asado 250 Grs Hellmann's",
-   "m": "HELLMANN´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/896188/Mayonesa-Sabor-Asado-X-250-Grs-Hellmanns-1-1054237.jpg?v=639052113924030000",
-   "cadena": "Comodín",
-   "precio": 1295.99,
-   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
-   "referencia": 3097.19,
-   "precio_2da": 1892.0,
-   "baja_pct": 58.2,
-   "brecha_pct": 31.5,
-   "score": 1832,
-   "pr": {
-    "Vea": [
-     2268.5,
-     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
-    ],
-    "Comodín": [
-     1295.99,
-     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
-    ],
-    "ChangoMás": [
-     3569.0,
-     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
-    ],
-    "Tuchanguito": [
-     1892.0,
-     "https://www.tuchanguito.com.ar/productos/mayonesa-hellmanns-asado-250g-w7mu1/"
-    ],
-    "Carrefour": [
-     2498.3,
-     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
     ]
    }
   },
@@ -341,37 +391,6 @@
     "ChangoMás": [
      2619.0,
      "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Milka triple mousse 55 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
-   "referencia": 2209.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 40.5,
-   "score": 1758,
-   "pr": {
-    "Carrefour": [
-     2099.0,
-     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
-    ],
-    "Jumbo": [
-     2332.0,
-     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
-    ],
-    "Comodín": [
-     2827.79,
-     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
     ]
    }
   },
@@ -681,37 +700,6 @@
    }
   },
   {
-   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
-   "cadena": "Vea",
-   "precio": 1550.0,
-   "link": "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
-   "referencia": 2490.0,
-   "precio_2da": 2650.0,
-   "baja_pct": 37.8,
-   "brecha_pct": 41.5,
-   "score": 1567,
-   "pr": {
-    "Carrefour": [
-     3095.0,
-     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
-    ],
-    "Vea": [
-     1550.0,
-     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ],
-    "Jumbo": [
-     2650.0,
-     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ],
-    "ChangoMás": [
-     3189.0,
-     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
-    ]
-   }
-  },
-  {
    "n": "Bolsa para Horno Maggi Mediterráneo 25 grs",
    "m": "Maggi",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904601/8445292042987_01.jpg?v=639201504463400000",
@@ -739,6 +727,37 @@
     "ChangoMás": [
      3189.0,
      "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
+   "cadena": "Vea",
+   "precio": 1550.0,
+   "link": "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
+   "referencia": 2490.0,
+   "precio_2da": 2650.0,
+   "baja_pct": 37.8,
+   "brecha_pct": 41.5,
+   "score": 1567,
+   "pr": {
+    "Carrefour": [
+     3095.0,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
+    ],
+    "Vea": [
+     1550.0,
+     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
+    ],
+    "Jumbo": [
+     2650.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
+    ],
+    "ChangoMás": [
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
     ]
    }
   },
@@ -805,6 +824,37 @@
     "Comodín": [
      2771.19,
      "https://www.comodinencasa.com.ar/postre-ls-clasico-chocolate-2x-95gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Crema saborizada 4 quesos Las Tres Niñas 190 ml",
+   "m": "Las Tres Niñas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838531/7798338291346_01.jpg?v=639104910828930000",
+   "cadena": "Carrefour",
+   "precio": 1834.5,
+   "link": "https://www.carrefour.com.ar/crema-saborizada-4-quesos-las-tres-ninas-190-ml-764446/p",
+   "referencia": 3669.0,
+   "precio_2da": 2655.79,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.9,
+   "score": 1546,
+   "pr": {
+    "Carrefour": [
+     1834.5,
+     "https://www.carrefour.com.ar/crema-saborizada-4-quesos-las-tres-ninas-190-ml-764446/p"
+    ],
+    "Jumbo": [
+     3750.0,
+     "https://www.jumbo.com.ar/salsa-crema-las-tres-ninas-4q-190ml/p"
+    ],
+    "Comodín": [
+     2655.79,
+     "https://www.comodinencasa.com.ar/crema-las-tres-ninas-sab-4-quesos-190ml/p"
+    ],
+    "ChangoMás": [
+     3669.0,
+     "https://www.masonline.com.ar/salsa-de-crema-las-tres-ninas-sabor-4-quesos-190-ml/p"
     ]
    }
   },
