@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-11 15:55",
+ "actualizado": "2026-09-11 17:54",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-10",
   "2026-09-11"
  ],
- "total": 31,
+ "total": 32,
  "ofertas": [
   {
    "n": "Cerveza 0.0 330 Ml Heineken",
@@ -74,33 +74,6 @@
     "ChangoMás": [
      1589.5,
      "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Bajo Cero 1 Lts Quilmes",
-   "m": "QUILMES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/907545/12440106101.jpg?v=639129030756070000",
-   "cadena": "Vea",
-   "precio": 1889.0,
-   "link": "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p",
-   "referencia": 3778.0,
-   "precio_2da": 3619.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.8,
-   "score": 2390,
-   "pr": {
-    "Vea": [
-     1889.0,
-     "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
-    ],
-    "Jumbo": [
-     3884.0,
-     "https://www.jumbo.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
-    ],
-    "Carrefour": [
-     3619.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-quilmes-bajo-cero-retornable-1-lt-731862/p"
     ]
    }
   },
@@ -248,37 +221,6 @@
    }
   },
   {
-   "n": "aderezo sabor asado Hellmanns dp 250 grs",
-   "m": "Hellmanns",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/899069/7794000009431_E02.jpg?v=639186853540070000",
-   "cadena": "Comodín",
-   "precio": 1295.99,
-   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
-   "referencia": 2390.99,
-   "precio_2da": 2268.5,
-   "baja_pct": 45.8,
-   "brecha_pct": 42.9,
-   "score": 1963,
-   "pr": {
-    "Carrefour": [
-     2498.3,
-     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
-    ],
-    "Vea": [
-     2268.5,
-     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
-    ],
-    "Comodín": [
-     1295.99,
-     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
-    ],
-    "ChangoMás": [
-     3569.0,
-     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
-    ]
-   }
-  },
-  {
    "n": "Cerveza Rubia 473 Ml Salta",
    "m": "SALTA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
@@ -333,6 +275,41 @@
    }
   },
   {
+   "n": "Mayonesa Sabor Asado 250 Grs Hellmann's",
+   "m": "HELLMANN´S",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/896188/Mayonesa-Sabor-Asado-X-250-Grs-Hellmanns-1-1054237.jpg?v=639052113924030000",
+   "cadena": "Comodín",
+   "precio": 1295.99,
+   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
+   "referencia": 3097.19,
+   "precio_2da": 1892.0,
+   "baja_pct": 58.2,
+   "brecha_pct": 31.5,
+   "score": 1832,
+   "pr": {
+    "Vea": [
+     2268.5,
+     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
+    ],
+    "Comodín": [
+     1295.99,
+     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
+    ],
+    "ChangoMás": [
+     3569.0,
+     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
+    ],
+    "Tuchanguito": [
+     1892.0,
+     "https://www.tuchanguito.com.ar/productos/mayonesa-hellmanns-asado-250g-w7mu1/"
+    ],
+    "Carrefour": [
+     2498.3,
+     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
+    ]
+   }
+  },
+  {
    "n": "Galletitas Oreo sin gluten 95 g.",
    "m": "Oreo",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/526446/7622202038099_E01.jpg?v=638525990057870000",
@@ -368,6 +345,33 @@
    }
   },
   {
+   "n": "Alfajor Milka Super Dulce de Leche Blanco 70 grs",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878652/7622202370045_E01.jpg?v=639149668118530000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p",
+   "referencia": 2209.0,
+   "precio_2da": 2150.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 41.9,
+   "score": 1819,
+   "pr": {
+    "Carrefour": [
+     2209.0,
+     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
+    ],
+    "Jumbo": [
+     2150.0,
+     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
+    ]
+   }
+  },
+  {
    "n": "Cerveza rubia Schneider 473 ml",
    "m": "Schneider",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
@@ -391,6 +395,37 @@
     "ChangoMás": [
      2619.0,
      "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Milka triple mousse 55 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 2099.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 40.5,
+   "score": 1758,
+   "pr": {
+    "Carrefour": [
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
+    ],
+    "Jumbo": [
+     2332.0,
+     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
+    ],
+    "Comodín": [
+     2827.79,
+     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
     ]
    }
   },
