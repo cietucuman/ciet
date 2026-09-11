@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-10",
- "actualizado": "2026-09-10 15:51",
+ "fecha": "2026-09-11",
+ "actualizado": "2026-09-11 11:50",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-08-31",
   "2026-09-01",
   "2026-09-02",
   "2026-09-03",
@@ -19,37 +18,11 @@
   "2026-09-07",
   "2026-09-08",
   "2026-09-09",
-  "2026-09-10"
+  "2026-09-10",
+  "2026-09-11"
  ],
- "total": 27,
+ "total": 29,
  "ofertas": [
-  {
-   "n": "Máquina de afeitar Gillette Prestobarba3 carbono 8 uni",
-   "m": "Gillette",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/637011/7500435245814_02.jpg.jpg?v=638785289846530000",
-   "cadena": "ChangoMás",
-   "precio": 11729.0,
-   "link": "https://www.masonline.com.ar/maquina-afeitar-desechable-gillette-prestobarba-carbono-8u/p",
-   "referencia": 24849.0,
-   "precio_2da": 24849.0,
-   "baja_pct": 52.8,
-   "brecha_pct": 52.8,
-   "score": 2788,
-   "pr": {
-    "Carrefour": [
-     24849.0,
-     "https://www.carrefour.com.ar/maquina-de-afeitar-gillette-prestobarba3-carbono-8-uni-759275/p"
-    ],
-    "Jumbo": [
-     26650.0,
-     "https://www.jumbo.com.ar/maquina-desechable-gillette-prestobarba3-carbono-8u/p"
-    ],
-    "ChangoMás": [
-     11729.0,
-     "https://www.masonline.com.ar/maquina-afeitar-desechable-gillette-prestobarba-carbono-8u/p"
-    ]
-   }
-  },
   {
    "n": "Leche infantil Nutrilon Profutura Etapa 2 brick 200 ml",
    "m": "Nutrilon",
@@ -78,17 +51,369 @@
    }
   },
   {
+   "n": "Cerveza artesanal Antares Kolsch 473 ml",
+   "m": "Antares",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794098/7798091030329_01.jpg?v=639046450938970000",
+   "cadena": "Vea",
+   "precio": 2595.0,
+   "link": "https://www.vea.com.ar/cerveza-antares-kolsch-473-ml-2/p",
+   "referencia": 5190.0,
+   "precio_2da": 4739.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.2,
+   "score": 2262,
+   "pr": {
+    "Carrefour": [
+     4739.0,
+     "https://www.carrefour.com.ar/cerveza-artesanal-antares-kolsch-473-ml-684385/p"
+    ],
+    "Vea": [
+     2595.0,
+     "https://www.vea.com.ar/cerveza-antares-kolsch-473-ml-2/p"
+    ],
+    "ChangoMás": [
+     4739.0,
+     "https://www.masonline.com.ar/cerveza-kolsch-lata-antares-473-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Pepitos triple 57 g.",
+   "m": "Pepitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 2600.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 51.9,
+   "score": 2256,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
+    ],
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
+    ],
+    "Comodín": [
+     2827.79,
+     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Máquina de afeitar para mujer Gillette Venus Original con 3 hojas 1 uni",
+   "m": "Venus",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862152/7506309841762_01.jpg?v=639130664231730000",
+   "cadena": "Vea",
+   "precio": 10049.5,
+   "link": "https://www.vea.com.ar/maquina-de-afeitar-original-aloe-venus/p",
+   "referencia": 20099.0,
+   "precio_2da": 17589.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.9,
+   "score": 2143,
+   "pr": {
+    "Carrefour": [
+     17589.0,
+     "https://www.carrefour.com.ar/maquina-de-afeitar-para-mujer-gillette-venus-original-con-3-hojas-1-uni-555751/p"
+    ],
+    "Vea": [
+     10049.5,
+     "https://www.vea.com.ar/maquina-de-afeitar-original-aloe-venus/p"
+    ],
+    "Comodín": [
+     23863.89,
+     "https://www.comodinencasa.com.ar/maquina-de-afeitar-venus-original-1un/p"
+    ],
+    "ChangoMás": [
+     17589.0,
+     "https://www.masonline.com.ar/maquina-de-afeitar-venus-1un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza artesanal Antares Scotch 473 ml",
+   "m": "Antares",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794099/7798091030343_01.jpg?v=639046451199000000",
+   "cadena": "Vea",
+   "precio": 2595.0,
+   "link": "https://www.vea.com.ar/cerveza-antares-scotch-473-ml-2/p",
+   "referencia": 4899.0,
+   "precio_2da": 4739.0,
+   "baja_pct": 47.0,
+   "brecha_pct": 45.2,
+   "score": 2128,
+   "pr": {
+    "Carrefour": [
+     4739.0,
+     "https://www.carrefour.com.ar/cerveza-artesanal-antares-scotch-473-ml-684386/p"
+    ],
+    "Vea": [
+     2595.0,
+     "https://www.vea.com.ar/cerveza-antares-scotch-473-ml-2/p"
+    ],
+    "ChangoMás": [
+     4739.0,
+     "https://www.masonline.com.ar/cerveza-scotch-lata-antares-473-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces surtidas Terrabusi Variedad 590 grs",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860610/7622202839979_E02.jpg?v=639128998799900000",
+   "cadena": "Carrefour",
+   "precio": 2990.0,
+   "link": "https://www.carrefour.com.ar/galletitas-dulces-surtidas-terrabusi-variedad-590-grs-777680/p",
+   "referencia": 5509.0,
+   "precio_2da": 5250.0,
+   "baja_pct": 45.7,
+   "brecha_pct": 43.0,
+   "score": 1968,
+   "pr": {
+    "Carrefour": [
+     2990.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-surtidas-terrabusi-variedad-590-grs-777680/p"
+    ],
+    "Jumbo": [
+     5250.0,
+     "https://www.jumbo.com.ar/galletitas-surtidas-pack-ahorro-590-grs-variedad/p"
+    ],
+    "ChangoMás": [
+     5509.0,
+     "https://www.masonline.com.ar/galletitas-variedad-de-terrabusi-nuevo-mix-590g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Rubia 473 Ml Salta",
+   "m": "SALTA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
+   "cadena": "Comodín",
+   "precio": 1449.0,
+   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 2615.0,
+   "baja_pct": 41.9,
+   "brecha_pct": 44.6,
+   "score": 1870,
+   "pr": {
+    "Jumbo": [
+     2803.0,
+     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
+    ],
+    "Comodín": [
+     1449.0,
+     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
+    ],
+    "Carrefour": [
+     2615.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor triple blanco Shot 60 grs",
+   "m": "Shot",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882367/7622202816437_E01.jpg?v=639155719507670000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p",
+   "referencia": 2209.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 42.9,
+   "score": 1865,
+   "pr": {
+    "Carrefour": [
+     2190.0,
+     "https://www.carrefour.com.ar/alfajor-triple-blanco-shot-60-grs-773811/p"
+    ],
+    "Jumbo": [
+     2300.0,
+     "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Mayonesa Sabor Asado 250 Grs Hellmann's",
+   "m": "HELLMANN´S",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/896188/Mayonesa-Sabor-Asado-X-250-Grs-Hellmanns-1-1054237.jpg?v=639052113924030000",
+   "cadena": "Comodín",
+   "precio": 1295.99,
+   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
+   "referencia": 3097.19,
+   "precio_2da": 1892.0,
+   "baja_pct": 58.2,
+   "brecha_pct": 31.5,
+   "score": 1832,
+   "pr": {
+    "Vea": [
+     2268.5,
+     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
+    ],
+    "Comodín": [
+     1295.99,
+     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
+    ],
+    "ChangoMás": [
+     3569.0,
+     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
+    ],
+    "Tuchanguito": [
+     1892.0,
+     "https://www.tuchanguito.com.ar/productos/mayonesa-hellmanns-asado-250g-w7mu1/"
+    ],
+    "Carrefour": [
+     2498.3,
+     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Oreo sin gluten 95 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/526446/7622202038099_E01.jpg?v=638525990057870000",
+   "cadena": "ChangoMás",
+   "precio": 1847.4,
+   "link": "https://www.masonline.com.ar/galletitas-oreo-sin-gluten-95-g-2/p",
+   "referencia": 3079.0,
+   "precio_2da": 3390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 45.5,
+   "score": 1820,
+   "pr": {
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/galletitas-oreo-sin-gluten-95-g-740135/p"
+    ],
+    "Vea": [
+     3390.0,
+     "https://www.vea.com.ar/galletitas-sin-tacc-95-gr-oreo/p"
+    ],
+    "Jumbo": [
+     3450.0,
+     "https://www.jumbo.com.ar/galletitas-sin-tacc-95-gr-oreo/p"
+    ],
+    "ChangoMás": [
+     1847.4,
+     "https://www.masonline.com.ar/galletitas-oreo-sin-gluten-95-g-2/p"
+    ],
+    "Comodín": [
+     3818.89,
+     "https://www.comodinencasa.com.ar/galleta-oreo-sin-gluten-95-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza rubia Schneider 473 ml",
+   "m": "Schneider",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
+   "cadena": "Comodín",
+   "precio": 1449.0,
+   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 2539.0,
+   "baja_pct": 41.9,
+   "brecha_pct": 42.9,
+   "score": 1801,
+   "pr": {
+    "Carrefour": [
+     2539.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
+    ],
+    "Comodín": [
+     1449.0,
+     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
+    ],
+    "ChangoMás": [
+     2619.0,
+     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Milka triple mousse 55 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 2099.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 40.5,
+   "score": 1758,
+   "pr": {
+    "Carrefour": [
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
+    ],
+    "Jumbo": [
+     2332.0,
+     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
+    ],
+    "Comodín": [
+     2827.79,
+     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor triple Oreo 56 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912589/77976307_01.jpg?v=639220553876730000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 2050.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 39.0,
+   "score": 1696,
+   "pr": {
+    "Carrefour": [
+     2050.0,
+     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
+    ],
+    "Jumbo": [
+     2300.0,
+     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+    ]
+   }
+  },
+  {
    "n": "Crema Tonadita tradicional 200 cc.",
    "m": "Tonadita",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838347/7798060850095_02.jpg?v=639106570667170000",
    "cadena": "ChangoMás",
    "precio": 1299.5,
    "link": "https://www.masonline.com.ar/crema-de-leche-tonadita-200g-2/p",
-   "referencia": 2599.0,
+   "referencia": 1949.25,
    "precio_2da": 2590.0,
-   "baja_pct": 50.0,
+   "baja_pct": 33.3,
    "brecha_pct": 49.8,
-   "score": 2491,
+   "score": 1661,
    "pr": {
     "Carrefour": [
      2590.0,
@@ -109,366 +434,195 @@
    }
   },
   {
-   "n": "Café instantáneo Segafredo frasco 100 g.",
-   "m": "Segafredo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/207435/7798196990016_02.jpg?v=637624858742400000",
-   "cadena": "ChangoMás",
-   "precio": 10489.0,
-   "link": "https://www.masonline.com.ar/cafe-instantaneo-segafredo-preferito-100-g/p",
-   "referencia": 20539.0,
-   "precio_2da": 20539.0,
-   "baja_pct": 48.9,
-   "brecha_pct": 48.9,
-   "score": 2394,
-   "pr": {
-    "Carrefour": [
-     20539.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-segafredo-frasco-100-g/p"
-    ],
-    "Jumbo": [
-     20550.0,
-     "https://www.jumbo.com.ar/cafe-instantaneo-x-100g-segafredo/p"
-    ],
-    "ChangoMás": [
-     10489.0,
-     "https://www.masonline.com.ar/cafe-instantaneo-segafredo-preferito-100-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
-   "referencia": 2650.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Carrefour": [
-     3095.0,
-     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ],
-    "ChangoMás": [
-     3189.0,
-     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Bolsa para Horno Maggi Mediterráneo 25 grs",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904601/8445292042987_01.jpg?v=639201504463400000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p",
-   "referencia": 2650.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Carrefour": [
-     3189.0,
-     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
-    ],
-    "ChangoMás": [
-     3189.0,
-     "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Corn Flakes 200gr",
-   "m": "CORN FLAKES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/882840/Cereal-X-200-Gr-Corn-Flakes-1-1047836.jpg?v=639112548460300000",
-   "cadena": "ChangoMás",
-   "precio": 1549.0,
-   "link": "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p",
-   "referencia": 2889.0,
-   "precio_2da": 2889.0,
-   "baja_pct": 46.4,
-   "brecha_pct": 46.4,
-   "score": 2151,
-   "pr": {
-    "Jumbo": [
-     3000.0,
-     "https://www.jumbo.com.ar/corn-flakes-200gr/p"
-    ],
-    "Carrefour": [
-     2889.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-kelloggs-corn-flakes-200-grs-754232/p"
-    ],
-    "ChangoMás": [
-     1549.0,
-     "https://www.masonline.com.ar/copos-de-maiz-kellogs-el-original-corn-flakes-200-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche Condensada Descremada Orgánica 395 Grs Nestlé®",
-   "m": "NESTLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875560/Nestl-Leche-Condensada-Descremada-Org-nica-X-395gr-1-998064.jpg?v=638872403891100000",
-   "cadena": "Jumbo",
-   "precio": 2875.0,
-   "link": "https://www.jumbo.com.ar/leche-condensada-descremada-organica-395-grs-nestle/p",
-   "referencia": 5750.0,
-   "precio_2da": 4999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.5,
-   "score": 2124,
-   "pr": {
-    "Jumbo": [
-     2875.0,
-     "https://www.jumbo.com.ar/leche-condensada-descremada-organica-395-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     5909.0,
-     "https://www.masonline.com.ar/leche-condensada-nestle-descremada-395-g-2/p"
-    ],
-    "Carrefour": [
-     4999.0,
-     "https://www.carrefour.com.ar/nestle-leche-condensada-descremada-organica-395-grs-727277/p"
-    ]
-   }
-  },
-  {
-   "n": "Cereal de chocolate Kellogs Muesli 255 g.",
-   "m": "Kelloggs",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318196/7896004004990_E02.jpg?v=638180312961730000",
-   "cadena": "ChangoMás",
-   "precio": 2479.0,
-   "link": "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p",
-   "referencia": 4609.0,
-   "precio_2da": 4490.0,
-   "baja_pct": 46.2,
-   "brecha_pct": 44.8,
-   "score": 2070,
-   "pr": {
-    "Carrefour": [
-     4490.0,
-     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
-    ],
-    "Vea": [
-     4490.0,
-     "https://www.vea.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
-    ],
-    "Jumbo": [
-     4600.0,
-     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
-    ],
-    "ChangoMás": [
-     2479.0,
-     "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Máquina de afeitar para mujer Gillette Venus Original con 3 hojas 1 uni",
-   "m": "Venus",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862152/7506309841762_01.jpg?v=639130664231730000",
-   "cadena": "Vea",
-   "precio": 10049.5,
-   "link": "https://www.vea.com.ar/maquina-de-afeitar-original-aloe-venus/p",
-   "referencia": 20099.0,
-   "precio_2da": 16062.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.4,
-   "score": 1872,
-   "pr": {
-    "Carrefour": [
-     17589.0,
-     "https://www.carrefour.com.ar/maquina-de-afeitar-para-mujer-gillette-venus-original-con-3-hojas-1-uni-555751/p"
-    ],
-    "Vea": [
-     10049.5,
-     "https://www.vea.com.ar/maquina-de-afeitar-original-aloe-venus/p"
-    ],
-    "Comodín": [
-     16062.19,
-     "https://www.comodinencasa.com.ar/maquina-de-afeitar-venus-original-1un/p"
-    ],
-    "ChangoMás": [
-     17589.0,
-     "https://www.masonline.com.ar/maquina-de-afeitar-venus-1un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Terrabusi blanco glaseado pack 6 uni",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825749/7622300742621_E01.jpg?v=639086663097130000",
-   "cadena": "ChangoMás",
-   "precio": 4199.0,
-   "link": "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-6u-228gr-2/p",
-   "referencia": 7329.0,
-   "precio_2da": 7329.0,
-   "baja_pct": 42.7,
-   "brecha_pct": 42.7,
-   "score": 1824,
-   "pr": {
-    "Carrefour": [
-     7329.0,
-     "https://www.carrefour.com.ar/alfajor-terrabusi-blanco-glaseado-pack-6-uni-520833/p"
-    ],
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p"
-    ],
-    "Jumbo": [
-     8300.0,
-     "https://www.jumbo.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p"
-    ],
-    "Comodín": [
-     9425.59,
-     "https://www.comodinencasa.com.ar/alfajor-terrabusi-glaceado-x-6-un-2/p"
-    ],
-    "ChangoMás": [
-     4199.0,
-     "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-6u-228gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Copos de maíz 3 Arroyos azucarados bolsa 200 g.",
-   "m": "3 Arroyos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/232775/7791019000060_02.jpg?v=637764947522100000",
-   "cadena": "ChangoMás",
-   "precio": 949.0,
-   "link": "https://www.masonline.com.ar/copos-de-maiz-azucarados-3-arroyos-200gr-2/p",
-   "referencia": 1729.0,
-   "precio_2da": 1541.29,
-   "baja_pct": 45.1,
-   "brecha_pct": 38.4,
-   "score": 1734,
-   "pr": {
-    "Carrefour": [
-     1729.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-3-arroyos-azucarados-bolsa-200-g-183269/p"
-    ],
-    "Comodín": [
-     1541.29,
-     "https://www.comodinencasa.com.ar/copos-maiz-3-arroyos-azucarados-200gr/p"
-    ],
-    "ChangoMás": [
-     949.0,
-     "https://www.masonline.com.ar/copos-de-maiz-azucarados-3-arroyos-200gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada damasco La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381244/7793360131448_E01.jpg?v=638315050247170000",
-   "cadena": "ChangoMás",
-   "precio": 2169.0,
-   "link": "https://www.masonline.com.ar/mermelada-la-campagnola-damasco-454g-2/p",
-   "referencia": 4189.0,
-   "precio_2da": 3379.99,
-   "baja_pct": 48.2,
-   "brecha_pct": 35.8,
-   "score": 1728,
-   "pr": {
-    "Carrefour": [
-     3879.0,
-     "https://www.carrefour.com.ar/mermelada-damasco-la-campagnola-454-g/p"
-    ],
-    "Vea": [
-     3890.0,
-     "https://www.vea.com.ar/mermelada-la-campagnola-damasco-454gr/p"
-    ],
-    "Jumbo": [
-     4050.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-damasco-454gr/p"
-    ],
-    "ChangoMás": [
-     2169.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-damasco-454g-2/p"
-    ],
-    "Comodín": [
-     3379.99,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-damasco-x-454-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de ciruela La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381240/7793360131424_E01.jpg?v=638315050232000000",
-   "cadena": "ChangoMás",
-   "precio": 2169.0,
-   "link": "https://www.masonline.com.ar/mermelada-la-campagnola-ciruela-454g-2/p",
-   "referencia": 4189.0,
-   "precio_2da": 3379.99,
-   "baja_pct": 48.2,
-   "brecha_pct": 35.8,
-   "score": 1728,
-   "pr": {
-    "Carrefour": [
-     3879.0,
-     "https://www.carrefour.com.ar/mermelada-de-ciruela-la-campagnola-454-g/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
-    ],
-    "Jumbo": [
-     4150.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
-    ],
-    "ChangoMás": [
-     2169.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-ciruela-454g-2/p"
-    ],
-    "Comodín": [
-     3379.99,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-ciruela-x-454-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas crackers Paseo 5 semillas 300 g.",
-   "m": "Paseo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929621/7792180007315_02.jpg?v=639246481847070000",
+   "n": "Pan para hamburguesa con sésamo Bimbo 4 uni",
+   "m": "Bimbo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913587/7793890259070_01.jpg?v=639221623017000000",
    "cadena": "Carrefour",
-   "precio": 1084.85,
-   "link": "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p",
-   "referencia": 1669.0,
-   "precio_2da": 2135.19,
-   "baja_pct": 35.0,
-   "brecha_pct": 49.2,
-   "score": 1722,
+   "precio": 2508.0,
+   "link": "https://www.carrefour.com.ar/pan-para-hamburguesa-con-sesamo-bimbo-4-uni-718430/p",
+   "referencia": 4180.0,
+   "precio_2da": 4190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.1,
+   "score": 1606,
    "pr": {
     "Carrefour": [
-     1084.85,
-     "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p"
+     2508.0,
+     "https://www.carrefour.com.ar/pan-para-hamburguesa-con-sesamo-bimbo-4-uni-718430/p"
+    ],
+    "Vea": [
+     4190.0,
+     "https://www.vea.com.ar/pan-para-hamburguesa-con-sesamo-4-un-210-grs-bimbo/p"
     ],
     "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+     4350.0,
+     "https://www.jumbo.com.ar/pan-para-hamburguesa-con-sesamo-4-un-210-grs-bimbo/p"
+    ]
+   }
+  },
+  {
+   "n": "Pan para pancho Bimbo 6 uni",
+   "m": "Bimbo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913586/7793890259087_01.jpg?v=639221622841500000",
+   "cadena": "Carrefour",
+   "precio": 2508.0,
+   "link": "https://www.carrefour.com.ar/pan-para-pancho-bimbo-6-uni-717200/p",
+   "referencia": 4180.0,
+   "precio_2da": 4181.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1601,
+   "pr": {
+    "Carrefour": [
+     2508.0,
+     "https://www.carrefour.com.ar/pan-para-pancho-bimbo-6-uni-717200/p"
     ],
-    "Comodín": [
-     2135.19,
-     "https://www.comodinencasa.com.ar/galleta-paseo-salvado-5-semillas-x-300gr/p"
+    "Vea": [
+     4190.0,
+     "https://www.vea.com.ar/pan-para-pancho-6-un-210-grs-bimbo/p"
+    ],
+    "Jumbo": [
+     4350.0,
+     "https://www.jumbo.com.ar/pan-para-pancho-6-un-210-grs-bimbo/p"
+    ],
+    "ChangoMás": [
+     4181.0,
+     "https://www.masonline.com.ar/pan-para-pancho-bimbo-210g-6u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo dental Oral B pro-salud indicator color collection 4 u.",
+   "m": "Oral B",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/517927/7500435113823_02.jpg?v=638507891164470000",
+   "cadena": "Vea",
+   "precio": 9114.0,
+   "link": "https://www.vea.com.ar/cepillo-oral-b-indicator-suave-x4/p",
+   "referencia": 15190.0,
+   "precio_2da": 15190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     15190.0,
+     "https://www.carrefour.com.ar/cepillo-dental-oral-b-pro-salud-indicator-color-collection-4-u/p"
+    ],
+    "Vea": [
+     9114.0,
+     "https://www.vea.com.ar/cepillo-oral-b-indicator-suave-x4/p"
+    ],
+    "Jumbo": [
+     16250.0,
+     "https://www.jumbo.com.ar/cepillo-oral-b-indicator-suave-x4/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Gold Doypack 100 grs",
+   "m": "Nescafé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878703/8445291055070_01.jpg?v=639149694537970000",
+   "cadena": "Vea",
+   "precio": 10439.4,
+   "link": "https://www.vea.com.ar/cafe-doypack-100-grs-nescafe-gold/p",
+   "referencia": 17399.0,
+   "precio_2da": 17399.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     17399.0,
+     "https://www.carrefour.com.ar/nescafe-gold-doypack-100-grs-737519/p"
+    ],
+    "Vea": [
+     10439.4,
+     "https://www.vea.com.ar/cafe-doypack-100-grs-nescafe-gold/p"
+    ],
+    "Jumbo": [
+     21900.0,
+     "https://www.jumbo.com.ar/cafe-doypack-100-grs-nescafe-gold/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Gold Espresso 100 grs",
+   "m": "Nescafé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849333/8445291311572_01.jpg?v=639119639775870000",
+   "cadena": "Vea",
+   "precio": 9774.0,
+   "link": "https://www.vea.com.ar/cafe-espresso-doypack-100-grs-nescafe-gold/p",
+   "referencia": 16290.0,
+   "precio_2da": 16290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     16290.0,
+     "https://www.carrefour.com.ar/nescafe-gold-espresso-100-grs-757168/p"
+    ],
+    "Vea": [
+     9774.0,
+     "https://www.vea.com.ar/cafe-espresso-doypack-100-grs-nescafe-gold/p"
+    ],
+    "Jumbo": [
+     22500.0,
+     "https://www.jumbo.com.ar/cafe-espresso-doypack-100-grs-nescafe-gold/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta dental Oral B extra blanco 70 g.",
+   "m": "Oral B",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/518467/7500435150248_01.jpg?v=638507892369570000",
+   "cadena": "Vea",
+   "precio": 2514.0,
+   "link": "https://www.vea.com.ar/pasta-dental-oral-b-extra-blanco-x-70g/p",
+   "referencia": 4190.0,
+   "precio_2da": 4190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     4190.0,
+     "https://www.carrefour.com.ar/pasta-dental-oral-b-extra-blanco-70-g-664166/p"
+    ],
+    "Vea": [
+     2514.0,
+     "https://www.vea.com.ar/pasta-dental-oral-b-extra-blanco-x-70g/p"
+    ],
+    "Jumbo": [
+     4250.0,
+     "https://www.jumbo.com.ar/pasta-dental-oral-b-extra-blanco-x-70g/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta dental extra blanco Oral B carbón activo 70 grs",
+   "m": "Oral B",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693881/7500435231220_02.jpg?v=638923441534170000",
+   "cadena": "Vea",
+   "precio": 2514.0,
+   "link": "https://www.vea.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p",
+   "referencia": 4190.0,
+   "precio_2da": 4190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     4190.0,
+     "https://www.carrefour.com.ar/pasta-dental-extra-blanco-oral-b-carbon-activo-70-grs-766680/p"
+    ],
+    "Vea": [
+     2514.0,
+     "https://www.vea.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p"
+    ],
+    "Jumbo": [
+     4350.0,
+     "https://www.jumbo.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p"
     ]
    }
   },
@@ -500,33 +654,6 @@
    }
   },
   {
-   "n": "Vino Tinto Cabernet Franc 750 Cc Fabre Montmayou",
-   "m": "FABRE MONTMAYOU",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/669752/Vino-Fabre-Terru-o-Cabernet-Franc-Bot-750cc-1-879235.jpg?v=637691637940930000",
-   "cadena": "ChangoMás",
-   "precio": 10499.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p",
-   "referencia": 17499.0,
-   "precio_2da": 17500.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Jumbo": [
-     17500.0,
-     "https://www.jumbo.com.ar/vino-fabre-terruno-cabernet-franc-x-750-cc/p"
-    ],
-    "Carrefour": [
-     17675.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-franc-fabre-montmayou-750-cc/p"
-    ],
-    "ChangoMás": [
-     10499.4,
-     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-cabernet-franc-2/p"
-    ]
-   }
-  },
-  {
    "n": "Svelty Extra Calcio 370 grs",
    "m": "Svelty",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854263/8445291020047_01.jpg?v=639122869165300000",
@@ -534,17 +661,17 @@
    "precio": 3959.4,
    "link": "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p",
    "referencia": 6599.0,
-   "precio_2da": 6532.5,
+   "precio_2da": 6559.29,
    "baja_pct": 40.0,
-   "brecha_pct": 39.4,
-   "score": 1576,
+   "brecha_pct": 39.6,
+   "score": 1585,
    "pr": {
     "Carrefour": [
      3959.4,
      "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p"
     ],
     "Jumbo": [
-     6532.5,
+     10050.0,
      "https://www.jumbo.com.ar/leche-polvo-extra-calcio-370-grs-svelty/p"
     ],
     "Comodín": [
@@ -554,114 +681,64 @@
    }
   },
   {
-   "n": "Chicles Beldent Menta Refrescante 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p",
-   "referencia": 889.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1574,
+   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
+   "cadena": "Vea",
+   "precio": 1550.0,
+   "link": "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
+   "referencia": 2490.0,
+   "precio_2da": 2650.0,
+   "baja_pct": 37.8,
+   "brecha_pct": 41.5,
+   "score": 1567,
    "pr": {
     "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p"
+     3095.0,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
     ],
     "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+     1550.0,
+     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
     ],
     "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+     2650.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
     ],
     "ChangoMás": [
-     1129.0,
-     "https://www.masonline.com.ar/chicles-beldent-de-menta-10gr-2/p"
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
     ]
    }
   },
   {
-   "n": "Chicles Beldent Menta Power 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882349/77969088_E01.jpg?v=639155711940900000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p",
-   "referencia": 889.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1574,
+   "n": "Bolsa para Horno Maggi Mediterráneo 25 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904601/8445292042987_01.jpg?v=639201504463400000",
+   "cadena": "Vea",
+   "precio": 1550.0,
+   "link": "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p",
+   "referencia": 2490.0,
+   "precio_2da": 2650.0,
+   "baja_pct": 37.8,
+   "brecha_pct": 41.5,
+   "score": 1567,
    "pr": {
     "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p"
+     3189.0,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
     ],
     "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-menta-power-x-6-un-beldent/p"
+     1550.0,
+     "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
     ],
     "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-menta-power-x-6-un-beldent/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Mentol Frozen 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882351/77969095_E01.jpg?v=639155712181330000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p",
-   "referencia": 889.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1574,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p"
+     2650.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
     ],
-    "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Infinit mentol 13,3 g.",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
-   "cadena": "Carrefour",
-   "precio": 766.35,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
-   "referencia": 1179.0,
-   "precio_2da": 1390.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.9,
-   "score": 1570,
-   "pr": {
-    "Carrefour": [
-     766.35,
-     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
-    ],
-    "Vea": [
-     1390.0,
-     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ],
-    "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    "ChangoMás": [
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
     ]
    }
   },
@@ -701,87 +778,64 @@
    }
   },
   {
-   "n": "Alfajor Pepitos triple 57 g.",
-   "m": "Pepitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
-   "referencia": 2209.0,
-   "precio_2da": 1950.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 35.9,
-   "score": 1560,
+   "n": "Postre de chocolate La Serenísima pack x2 95 grs",
+   "m": "La Serenísima",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/899966/7791337010642_01.jpg?v=639189665138700000",
+   "cadena": "Vea",
+   "precio": 1790.0,
+   "link": "https://www.vea.com.ar/postre-chocolate-x-190-grs-la-serenisima/p",
+   "referencia": 3190.0,
+   "precio_2da": 2771.19,
+   "baja_pct": 43.9,
+   "brecha_pct": 35.4,
+   "score": 1554,
    "pr": {
     "Carrefour": [
-     2519.0,
-     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
+     3020.0,
+     "https://www.carrefour.com.ar/postre-de-chocolate-la-serenisima-pack-x2-95-grs-777878/p"
+    ],
+    "Vea": [
+     1790.0,
+     "https://www.vea.com.ar/postre-chocolate-x-190-grs-la-serenisima/p"
     ],
     "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
+     3200.0,
+     "https://www.jumbo.com.ar/postre-chocolate-x-190-grs-la-serenisima/p"
     ],
     "Comodín": [
-     2827.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
+     2771.19,
+     "https://www.comodinencasa.com.ar/postre-ls-clasico-chocolate-2x-95gr/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Luminous UV 190 Ml Sedal",
-   "m": "SEDAL",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/855514/Acondicionador-Luminous-Uv-X-190-Ml-Sedal-1-1032586.jpg?v=638749822443800000",
+   "n": "Nesquik Original Cacao en Polvo Menos azúcar 300 grs",
+   "m": "Nesquik",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854311/8445290559975_01.jpg?v=639122877063330000",
    "cadena": "ChangoMás",
-   "precio": 2447.4,
-   "link": "https://www.masonline.com.ar/acondicionador-sedal-luminous-uv-190ml/p",
-   "referencia": 4079.0,
-   "precio_2da": 3990.0,
+   "precio": 5843.4,
+   "link": "https://www.masonline.com.ar/cacao-nesquik-60a-300g-2/p",
+   "referencia": 9739.0,
+   "precio_2da": 9390.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.7,
-   "score": 1546,
+   "brecha_pct": 37.8,
+   "score": 1511,
    "pr": {
+    "Carrefour": [
+     9390.0,
+     "https://www.carrefour.com.ar/nesquik-original-cacao-en-polvo-menos-azucar-300-grs-719361/p"
+    ],
+    "Vea": [
+     9390.0,
+     "https://www.vea.com.ar/cacao-polvo-menos-azucar-300-grs-nesquik/p"
+    ],
     "Jumbo": [
-     4400.0,
-     "https://www.jumbo.com.ar/acondicionador-luminous-uv-x-190-ml-sedal-2/p"
+     9800.0,
+     "https://www.jumbo.com.ar/cacao-polvo-menos-azucar-300-grs-nesquik/p"
     ],
     "ChangoMás": [
-     2447.4,
-     "https://www.masonline.com.ar/acondicionador-sedal-luminous-uv-190ml/p"
-    ],
-    "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/acondicionador-sedal-luminous-uv-190-ml-756367/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada Cormillot Frut-Light sinAzux390",
-   "m": "Cormillot",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/178797/frutilla.png?v=638536571707800000",
-   "cadena": "ChangoMás",
-   "precio": 3419.0,
-   "link": "https://www.masonline.com.ar/mermelada-cormillot-frutilla-light-sin-azucar-390-gr-2/p",
-   "referencia": 6069.0,
-   "precio_2da": 5277.99,
-   "baja_pct": 43.7,
-   "brecha_pct": 35.2,
-   "score": 1538,
-   "pr": {
-    "Comodín": [
-     5277.99,
-     "https://www.comodinencasa.com.ar/mermelada-cormillot-frut-light-s-azux390/p"
-    ],
-    "ChangoMás": [
-     3419.0,
-     "https://www.masonline.com.ar/mermelada-cormillot-frutilla-light-sin-azucar-390-gr-2/p"
-    ],
-    "Carrefour": [
-     6069.0,
-     "https://www.carrefour.com.ar/mermelada-dr-cormillot-de-frutilla-sin-azucar-390-g/p"
+     5843.4,
+     "https://www.masonline.com.ar/cacao-nesquik-60a-300g-2/p"
     ]
    }
   },
