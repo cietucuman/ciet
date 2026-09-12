@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-11",
- "actualizado": "2026-09-11 17:54",
+ "fecha": "2026-09-12",
+ "actualizado": "2026-09-12 11:17",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-01",
   "2026-09-02",
   "2026-09-03",
   "2026-09-04",
@@ -19,9 +18,10 @@
   "2026-09-08",
   "2026-09-09",
   "2026-09-10",
-  "2026-09-11"
+  "2026-09-11",
+  "2026-09-12"
  ],
- "total": 32,
+ "total": 29,
  "ofertas": [
   {
    "n": "Cerveza 0.0 330 Ml Heineken",
@@ -51,44 +51,17 @@
    }
   },
   {
-   "n": "Leche infantil Nutrilon Profutura Etapa 2 brick 200 ml",
-   "m": "Nutrilon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922332/7795323775331_01.jpg?v=639238860799730000",
-   "cadena": "ChangoMás",
-   "precio": 1589.5,
-   "link": "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p",
-   "referencia": 3179.0,
-   "precio_2da": 3199.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.3,
-   "score": 2516,
-   "pr": {
-    "Carrefour": [
-     3199.0,
-     "https://www.carrefour.com.ar/leche-infantil-nutrilon-profutura-etapa-2-brick-200-ml-722957/p"
-    ],
-    "Comodín": [
-     3344.69,
-     "https://www.comodinencasa.com.ar/leche-nutrilon-pro-f-premiun2-bk-200ml/p"
-    ],
-    "ChangoMás": [
-     1589.5,
-     "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-2-200ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Cerveza artesanal Antares Kolsch 473 ml",
    "m": "Antares",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794098/7798091030329_01.jpg?v=639046450938970000",
    "cadena": "Vea",
    "precio": 2595.0,
    "link": "https://www.vea.com.ar/cerveza-antares-kolsch-473-ml-2/p",
-   "referencia": 5190.0,
+   "referencia": 5044.5,
    "precio_2da": 4739.0,
-   "baja_pct": 50.0,
+   "baja_pct": 48.6,
    "brecha_pct": 45.2,
-   "score": 2262,
+   "score": 2197,
    "pr": {
     "Carrefour": [
      4739.0,
@@ -101,37 +74,6 @@
     "ChangoMás": [
      4739.0,
      "https://www.masonline.com.ar/cerveza-kolsch-lata-antares-473-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Pepitos triple 57 g.",
-   "m": "Pepitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
-   "referencia": 2209.0,
-   "precio_2da": 2600.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 51.9,
-   "score": 2256,
-   "pr": {
-    "Carrefour": [
-     2690.0,
-     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
-    ],
-    "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
-    ],
-    "Comodín": [
-     2827.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
     ]
    }
   },
@@ -221,91 +163,29 @@
    }
   },
   {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
-   "cadena": "Comodín",
-   "precio": 1449.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2615.0,
-   "baja_pct": 41.9,
-   "brecha_pct": 44.6,
+   "n": "Agua Saborizada Sin Gas Sabor Manzanella 500 Ml H2Oh",
+   "m": "H2OH",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872584/Saborizada-Manzana-Sin-Gas-X-500-Cc-H2oh-1-1007673.jpg?v=638864625779870000",
+   "cadena": "Vea",
+   "precio": 934.45,
+   "link": "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p",
+   "referencia": 1699.0,
+   "precio_2da": 1599.0,
+   "baja_pct": 45.0,
+   "brecha_pct": 41.6,
    "score": 1870,
    "pr": {
-    "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
-    ],
-    "Comodín": [
-     1449.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
-    ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple blanco Shot 60 grs",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882367/7622202816437_E01.jpg?v=639155719507670000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p",
-   "referencia": 2209.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 42.9,
-   "score": 1865,
-   "pr": {
-    "Carrefour": [
-     2190.0,
-     "https://www.carrefour.com.ar/alfajor-triple-blanco-shot-60-grs-773811/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Mayonesa Sabor Asado 250 Grs Hellmann's",
-   "m": "HELLMANN´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/896188/Mayonesa-Sabor-Asado-X-250-Grs-Hellmanns-1-1054237.jpg?v=639052113924030000",
-   "cadena": "Comodín",
-   "precio": 1295.99,
-   "link": "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p",
-   "referencia": 3097.19,
-   "precio_2da": 1892.0,
-   "baja_pct": 58.2,
-   "brecha_pct": 31.5,
-   "score": 1832,
-   "pr": {
     "Vea": [
-     2268.5,
-     "https://www.vea.com.ar/mayonesa-sabor-asado-x-250-grs-hellmanns/p"
+     934.45,
+     "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
     ],
-    "Comodín": [
-     1295.99,
-     "https://www.comodinencasa.com.ar/aderezo-hellmanns-asado-dp-250gr/p"
-    ],
-    "ChangoMás": [
-     3569.0,
-     "https://www.masonline.com.ar/mayonesa-hellmanns-asado-250-g/p"
-    ],
-    "Tuchanguito": [
-     1892.0,
-     "https://www.tuchanguito.com.ar/productos/mayonesa-hellmanns-asado-250g-w7mu1/"
+    "Jumbo": [
+     1700.0,
+     "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
     ],
     "Carrefour": [
-     2498.3,
-     "https://www.carrefour.com.ar/aderezo-sabor-asado-hellmanns-dp-250-grs-775394/p"
+     1599.0,
+     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-h2oh-sin-gas-500-ml-704717/p"
     ]
    }
   },
@@ -345,60 +225,6 @@
    }
   },
   {
-   "n": "Alfajor Milka Super Dulce de Leche Blanco 70 grs",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878652/7622202370045_E01.jpg?v=639149668118530000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p",
-   "referencia": 2209.0,
-   "precio_2da": 2150.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 41.9,
-   "score": 1819,
-   "pr": {
-    "Carrefour": [
-     2209.0,
-     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
-    ],
-    "Jumbo": [
-     2150.0,
-     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza rubia Schneider 473 ml",
-   "m": "Schneider",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
-   "cadena": "Comodín",
-   "precio": 1449.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2539.0,
-   "baja_pct": 41.9,
-   "brecha_pct": 42.9,
-   "score": 1801,
-   "pr": {
-    "Carrefour": [
-     2539.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
-    ],
-    "Comodín": [
-     1449.0,
-     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
-    ],
-    "ChangoMás": [
-     2619.0,
-     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
-    ]
-   }
-  },
-  {
    "n": "Alfajor Milka triple mousse 55 g.",
    "m": "Milka",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
@@ -430,118 +256,114 @@
    }
   },
   {
-   "n": "Alfajor triple Oreo 56 g.",
-   "m": "Oreo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912589/77976307_01.jpg?v=639220553876730000",
+   "n": "Alfajor Triple Sabor Mousse Blanco 55 Grs Milka",
+   "m": "MILK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803252/Alfajor-Triple-Milka-Mousse-Blanco-55g-1-24792.jpg?v=638379382556330000",
    "cadena": "ChangoMás",
    "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p",
+   "link": "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p",
    "referencia": 2209.0,
-   "precio_2da": 2050.0,
+   "precio_2da": 2099.0,
    "baja_pct": 43.4,
-   "brecha_pct": 39.0,
-   "score": 1696,
+   "brecha_pct": 40.5,
+   "score": 1758,
    "pr": {
-    "Carrefour": [
-     2050.0,
-     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
+     2332.0,
+     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "ChangoMás": [
      1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
+    ],
+    "Carrefour": [
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
     ]
    }
   },
   {
-   "n": "Crema Tonadita tradicional 200 cc.",
-   "m": "Tonadita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838347/7798060850095_02.jpg?v=639106570667170000",
-   "cadena": "ChangoMás",
-   "precio": 1299.5,
-   "link": "https://www.masonline.com.ar/crema-de-leche-tonadita-200g-2/p",
-   "referencia": 1949.25,
-   "precio_2da": 2590.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 49.8,
-   "score": 1661,
+   "n": "Cerveza Rubia 473 Ml Salta",
+   "m": "SALTA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
+   "cadena": "Comodín",
+   "precio": 1499.0,
+   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 2615.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 42.7,
+   "score": 1705,
    "pr": {
-    "Carrefour": [
-     2590.0,
-     "https://www.carrefour.com.ar/crema-tonadita-tradicional-200-cc/p"
-    ],
-    "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/crema-de-leche-tonadita-pasteurizada-200-gr/p"
+    "Jumbo": [
+     2803.0,
+     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
     ],
     "Comodín": [
-     2654.09,
-     "https://www.comodinencasa.com.ar/crema-de-leche-tonadita-200-cc/p"
+     1499.0,
+     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
     ],
-    "ChangoMás": [
-     1299.5,
-     "https://www.masonline.com.ar/crema-de-leche-tonadita-200g-2/p"
+    "Carrefour": [
+     2615.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
     ]
    }
   },
   {
-   "n": "Pan para hamburguesa con sésamo Bimbo 4 uni",
-   "m": "Bimbo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913587/7793890259070_01.jpg?v=639221623017000000",
-   "cadena": "Carrefour",
-   "precio": 2508.0,
-   "link": "https://www.carrefour.com.ar/pan-para-hamburguesa-con-sesamo-bimbo-4-uni-718430/p",
-   "referencia": 4180.0,
-   "precio_2da": 4190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.1,
-   "score": 1606,
+   "n": "Cerveza blanca Quilmes sin alcohol 473 ml",
+   "m": "Quilmes",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794023/7792798009107_01.jpg?v=639046420525930000",
+   "cadena": "Vea",
+   "precio": 1050.0,
+   "link": "https://www.vea.com.ar/cerveza-quilmes-0-0-lata-473mlx1/p",
+   "referencia": 1575.0,
+   "precio_2da": 2119.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 50.4,
+   "score": 1682,
    "pr": {
     "Carrefour": [
-     2508.0,
-     "https://www.carrefour.com.ar/pan-para-hamburguesa-con-sesamo-bimbo-4-uni-718430/p"
+     2120.0,
+     "https://www.carrefour.com.ar/cerveza-blanca-quilmes-sin-alcohol-473-ml-665462/p"
     ],
     "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/pan-para-hamburguesa-con-sesamo-4-un-210-grs-bimbo/p"
+     1050.0,
+     "https://www.vea.com.ar/cerveza-quilmes-0-0-lata-473mlx1/p"
     ],
-    "Jumbo": [
-     4350.0,
-     "https://www.jumbo.com.ar/pan-para-hamburguesa-con-sesamo-4-un-210-grs-bimbo/p"
+    "ChangoMás": [
+     2119.0,
+     "https://www.masonline.com.ar/cerveza-rubia-0-quilmes-473cc-2/p"
     ]
    }
   },
   {
-   "n": "Pan para pancho Bimbo 6 uni",
-   "m": "Bimbo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/913586/7793890259087_01.jpg?v=639221622841500000",
-   "cadena": "Carrefour",
-   "precio": 2508.0,
-   "link": "https://www.carrefour.com.ar/pan-para-pancho-bimbo-6-uni-717200/p",
-   "referencia": 4180.0,
-   "precio_2da": 4181.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1601,
+   "n": "Cerveza rubia Schneider 473 ml",
+   "m": "Schneider",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
+   "cadena": "Comodín",
+   "precio": 1499.0,
+   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 2539.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 41.0,
+   "score": 1636,
    "pr": {
     "Carrefour": [
-     2508.0,
-     "https://www.carrefour.com.ar/pan-para-pancho-bimbo-6-uni-717200/p"
+     2539.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
     ],
-    "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/pan-para-pancho-6-un-210-grs-bimbo/p"
-    ],
-    "Jumbo": [
-     4350.0,
-     "https://www.jumbo.com.ar/pan-para-pancho-6-un-210-grs-bimbo/p"
+    "Comodín": [
+     1499.0,
+     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
     ],
     "ChangoMás": [
-     4181.0,
-     "https://www.masonline.com.ar/pan-para-pancho-bimbo-210g-6u-2/p"
+     2619.0,
+     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
     ]
    }
   },
@@ -708,6 +530,33 @@
    }
   },
   {
+   "n": "Cerveza rubia Quilmes Bajo cero Retornable 1 lt",
+   "m": "Quilmes",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860525/7792798013999_01.jpg?v=639128904855230000",
+   "cadena": "Vea",
+   "precio": 1889.0,
+   "link": "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p",
+   "referencia": 2833.5,
+   "precio_2da": 3619.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 47.8,
+   "score": 1593,
+   "pr": {
+    "Carrefour": [
+     3619.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-quilmes-bajo-cero-retornable-1-lt-731862/p"
+    ],
+    "Vea": [
+     1889.0,
+     "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
+    ],
+    "Jumbo": [
+     3884.0,
+     "https://www.jumbo.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
+    ]
+   }
+  },
+  {
    "n": "Svelty Extra Calcio 370 grs",
    "m": "Svelty",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854263/8445291020047_01.jpg?v=639122869165300000",
@@ -731,6 +580,118 @@
     "Comodín": [
      6559.29,
      "https://www.comodinencasa.com.ar/leche-svelty-extra-calcio-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Menta Power 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882349/77969088_E01.jpg?v=639155711940900000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-menta-power-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-menta-power-x-6-un-beldent/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Mentol Frozen 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882351/77969095_E01.jpg?v=639155712181330000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Menta Refrescante 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+    ],
+    "ChangoMás": [
+     1129.0,
+     "https://www.masonline.com.ar/chicles-beldent-de-menta-10gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Infinit mentol 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
+   "cadena": "Carrefour",
+   "precio": 766.35,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
+   "referencia": 1179.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.9,
+   "score": 1570,
+   "pr": {
+    "Carrefour": [
+     766.35,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1450.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
     ]
    }
   },
@@ -832,37 +793,6 @@
    }
   },
   {
-   "n": "Postre de chocolate La Serenísima pack x2 95 grs",
-   "m": "La Serenísima",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/899966/7791337010642_01.jpg?v=639189665138700000",
-   "cadena": "Vea",
-   "precio": 1790.0,
-   "link": "https://www.vea.com.ar/postre-chocolate-x-190-grs-la-serenisima/p",
-   "referencia": 3190.0,
-   "precio_2da": 2771.19,
-   "baja_pct": 43.9,
-   "brecha_pct": 35.4,
-   "score": 1554,
-   "pr": {
-    "Carrefour": [
-     3020.0,
-     "https://www.carrefour.com.ar/postre-de-chocolate-la-serenisima-pack-x2-95-grs-777878/p"
-    ],
-    "Vea": [
-     1790.0,
-     "https://www.vea.com.ar/postre-chocolate-x-190-grs-la-serenisima/p"
-    ],
-    "Jumbo": [
-     3200.0,
-     "https://www.jumbo.com.ar/postre-chocolate-x-190-grs-la-serenisima/p"
-    ],
-    "Comodín": [
-     2771.19,
-     "https://www.comodinencasa.com.ar/postre-ls-clasico-chocolate-2x-95gr/p"
-    ]
-   }
-  },
-  {
    "n": "Crema saborizada 4 quesos Las Tres Niñas 190 ml",
    "m": "Las Tres Niñas",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838531/7798338291346_01.jpg?v=639104910828930000",
@@ -890,37 +820,6 @@
     "ChangoMás": [
      3669.0,
      "https://www.masonline.com.ar/salsa-de-crema-las-tres-ninas-sabor-4-quesos-190-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Nesquik Original Cacao en Polvo Menos azúcar 300 grs",
-   "m": "Nesquik",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854311/8445290559975_01.jpg?v=639122877063330000",
-   "cadena": "ChangoMás",
-   "precio": 5843.4,
-   "link": "https://www.masonline.com.ar/cacao-nesquik-60a-300g-2/p",
-   "referencia": 9739.0,
-   "precio_2da": 9390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.8,
-   "score": 1511,
-   "pr": {
-    "Carrefour": [
-     9390.0,
-     "https://www.carrefour.com.ar/nesquik-original-cacao-en-polvo-menos-azucar-300-grs-719361/p"
-    ],
-    "Vea": [
-     9390.0,
-     "https://www.vea.com.ar/cacao-polvo-menos-azucar-300-grs-nesquik/p"
-    ],
-    "Jumbo": [
-     9800.0,
-     "https://www.jumbo.com.ar/cacao-polvo-menos-azucar-300-grs-nesquik/p"
-    ],
-    "ChangoMás": [
-     5843.4,
-     "https://www.masonline.com.ar/cacao-nesquik-60a-300g-2/p"
     ]
    }
   },
