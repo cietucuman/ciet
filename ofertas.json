@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-12",
- "actualizado": "2026-09-12 14:36",
+ "fecha": "2026-09-13",
+ "actualizado": "2026-09-13 13:45",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-02",
   "2026-09-03",
   "2026-09-04",
   "2026-09-05",
@@ -19,9 +18,10 @@
   "2026-09-09",
   "2026-09-10",
   "2026-09-11",
-  "2026-09-12"
+  "2026-09-12",
+  "2026-09-13"
  ],
- "total": 48,
+ "total": 37,
  "ofertas": [
   {
    "n": "Desodorante Antitranspirante Dove Men Invisible Dry en Aerosol 150 ml",
@@ -37,7 +37,7 @@
    "score": 2930,
    "pr": {
     "Carrefour": [
-     5290.0,
+     6089.0,
      "https://www.carrefour.com.ar/desodorante-antitranspirante-dove-men-invisible-dry-en-aerosol-150-ml-554156/p"
     ],
     "Vea": [
@@ -80,7 +80,7 @@
      "https://www.comodinencasa.com.ar/deo-dove-ap-extra-fresh-x-89-gr/p"
     ],
     "Carrefour": [
-     5290.0,
+     6089.0,
      "https://www.carrefour.com.ar/antitranspirante-en-aerosol-dove-men-extra-fresh-150-cc/p"
     ]
    }
@@ -161,7 +161,7 @@
      "https://www.jumbo.com.ar/antitranspirante-fresh-care-granada-y-verbena-roll-on-50-ml-dove/p"
     ],
     "Carrefour": [
-     3390.0,
+     3700.0,
      "https://www.carrefour.com.ar/antitranspirante-en-roll-on-dove-go-fresh-50-cc/p"
     ],
     "Comodín": [
@@ -191,17 +191,71 @@
      3800.0,
      "https://www.jumbo.com.ar/antitranspirante-invisible-care-roll-on-50-ml-dove/p"
     ],
-    "ChangoMás": [
-     3849.0,
-     "https://www.masonline.com.ar/desodorante-dove-roll-on-mujer-invisible-dry-50ml/p"
-    ],
-    "Carrefour": [
-     3390.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-roll-on-dove-invisible-dry-50-cc/p"
-    ],
     "Comodín": [
      1799.4,
      "https://www.comodinencasa.com.ar/deo-dove-w-invisible-dry-roll-on-x-50ml/p"
+    ],
+    "Carrefour": [
+     3700.0,
+     "https://www.carrefour.com.ar/antitranspirante-en-roll-on-dove-invisible-dry-50-cc/p"
+    ],
+    "ChangoMás": [
+     3849.0,
+     "https://www.masonline.com.ar/desodorante-dove-roll-on-mujer-invisible-dry-50ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante Antitranspirante Rexona Clinical Refresh en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917565/7891150089952_01.jpg?v=639229153092270000",
+   "cadena": "Comodín",
+   "precio": 2819.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-refresh-96h-150ml/p",
+   "referencia": 6143.29,
+   "precio_2da": 4996.92,
+   "baja_pct": 54.1,
+   "brecha_pct": 43.6,
+   "score": 2358,
+   "pr": {
+    "Carrefour": [
+     4996.92,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-clinical-refresh-en-aerosol-150-ml-723628/p"
+    ],
+    "Jumbo": [
+     7024.0,
+     "https://www.jumbo.com.ar/desodorante-antitranspirante-rexona-clinical-refresh-150ml/p"
+    ],
+    "Comodín": [
+     2819.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-refresh-96h-150ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante Antitranspirante Rexona Clinical Classic en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922070/7506306214989_01.jpg?v=639238751920730000",
+   "cadena": "Comodín",
+   "precio": 2819.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-class-96h-150ml/p",
+   "referencia": 6143.29,
+   "precio_2da": 4996.92,
+   "baja_pct": 54.1,
+   "brecha_pct": 43.6,
+   "score": 2358,
+   "pr": {
+    "Carrefour": [
+     4996.92,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-clinical-classic-en-aerosol-150-ml-723624/p"
+    ],
+    "Jumbo": [
+     7024.0,
+     "https://www.jumbo.com.ar/antitranspirante-en-aerosol-rexona-clinical-classic-150-ml/p"
+    ],
+    "Comodín": [
+     2819.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-class-96h-150ml/p"
     ]
    }
   },
@@ -213,13 +267,13 @@
    "precio": 1253.0,
    "link": "https://www.comodinencasa.com.ar/jabon-dove-leche-de-coco-90-gr/p",
    "referencia": 2211.09,
-   "precio_2da": 2590.0,
+   "precio_2da": 2595.0,
    "baja_pct": 43.3,
-   "brecha_pct": 51.6,
-   "score": 2237,
+   "brecha_pct": 51.7,
+   "score": 2241,
    "pr": {
     "Carrefour": [
-     2590.0,
+     2595.0,
      "https://www.carrefour.com.ar/jabon-de-tocador-dove-leche-de-coco-90-grs-619284/p"
     ],
     "Comodín": [
@@ -233,68 +287,33 @@
    }
   },
   {
-   "n": "Desodorante Rexona Invisible en Aerosol 150 ml",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917274/7791293032481_01.jpg?v=639228545244730000",
-   "cadena": "Comodín",
-   "precio": 1919.4,
-   "link": "https://www.comodinencasa.com.ar/deo-rexona-women-invisible-90-gr/p",
-   "referencia": 3949.99,
-   "precio_2da": 3372.84,
-   "baja_pct": 51.4,
-   "brecha_pct": 43.1,
-   "score": 2215,
+   "n": "Garbanzos Inalpa secos remojados lata 300 g.",
+   "m": "Inalpa",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895388/7792350067071_02.jpg?v=639180742488630000",
+   "cadena": "Carrefour",
+   "precio": 696.75,
+   "link": "https://www.carrefour.com.ar/garbanzos-inalpa-secos-remojados-lata-300-g-695920/p",
+   "referencia": 1300.0,
+   "precio_2da": 1300.0,
+   "baja_pct": 46.4,
+   "brecha_pct": 46.4,
+   "score": 2153,
    "pr": {
     "Carrefour": [
-     3372.84,
-     "https://www.carrefour.com.ar/desodorante-rexona-invisible-en-aerosol-150-ml-606945/p"
+     696.75,
+     "https://www.carrefour.com.ar/garbanzos-inalpa-secos-remojados-lata-300-g-695920/p"
     ],
     "Vea": [
-     4165.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-rexona-invisible-en-aerosol-150-ml/p"
+     1300.0,
+     "https://www.vea.com.ar/garbanzos-inalpa-secos-x300g/p"
     ],
     "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/desodorante-antitranspirante-rexona-invisible-en-aerosol-150-ml/p"
+     1300.0,
+     "https://www.jumbo.com.ar/garbanzos-inalpa-secos-x300g/p"
     ],
     "ChangoMás": [
-     3794.25,
-     "https://www.masonline.com.ar/desodorante-antitranspirante-rexona-invisible-en-aerosol-150-ml-4/p"
-    ],
-    "Comodín": [
-     1919.4,
-     "https://www.comodinencasa.com.ar/deo-rexona-women-invisible-90-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante Antitranspirante Rexona Men Invisible en Aerosol 150 ml",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917283/7791293022635_01.jpg?v=639228548210770000",
-   "cadena": "Comodín",
-   "precio": 1919.4,
-   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-invisible-x-90-gr/p",
-   "referencia": 3949.99,
-   "precio_2da": 3372.84,
-   "baja_pct": 51.4,
-   "brecha_pct": 43.1,
-   "score": 2215,
-   "pr": {
-    "Carrefour": [
-     3372.84,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-men-invisible-en-aerosol-150-ml-550265/p"
-    ],
-    "Vea": [
-     3910.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-rexona-invisible-men-en-aerosol-150-ml/p"
-    ],
-    "Comodín": [
-     1919.4,
-     "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-invisible-x-90-gr/p"
-    ],
-    "ChangoMás": [
-     3794.25,
-     "https://www.masonline.com.ar/desodorante-antit-en-aerosol-rexona-invisible-150-ml-2/p"
+     1409.0,
+     "https://www.masonline.com.ar/garbanzos-secos-inalpa-x-350g-2/p"
     ]
    }
   },
@@ -312,7 +331,7 @@
    "score": 2153,
    "pr": {
     "Carrefour": [
-     2590.0,
+     2595.0,
      "https://www.carrefour.com.ar/jabon-en-barra-dove-piel-sensible-90-grs-744128/p"
     ],
     "Vea": [
@@ -347,7 +366,7 @@
    "score": 2153,
    "pr": {
     "Carrefour": [
-     2590.0,
+     2595.0,
      "https://www.carrefour.com.ar/jabon-de-tocador-dove-exfoliante-90-grs-397713/p"
     ],
     "Vea": [
@@ -382,7 +401,7 @@
    "score": 2153,
    "pr": {
     "Carrefour": [
-     2590.0,
+     2595.0,
      "https://www.carrefour.com.ar/jabon-de-tocador-dove-karite-y-vainilla-90-grs-607606/p"
     ],
     "Vea": [
@@ -429,7 +448,7 @@
      "https://www.comodinencasa.com.ar/jabon-dove-cuida-protege-90-gr/p"
     ],
     "Carrefour": [
-     2590.0,
+     2595.0,
      "https://www.carrefour.com.ar/jabon-en-barra-dove-antibacterial-cuida-protege-90-grs-666239/p"
     ],
     "ChangoMás": [
@@ -439,84 +458,22 @@
    }
   },
   {
-   "n": "Máquina de afeitar para mujer Gillette Venus Original con 3 hojas 1 uni",
-   "m": "Venus",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862152/7506309841762_01.jpg?v=639130664231730000",
-   "cadena": "Vea",
-   "precio": 10049.5,
-   "link": "https://www.vea.com.ar/maquina-de-afeitar-original-aloe-venus/p",
-   "referencia": 20099.0,
-   "precio_2da": 17589.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.9,
-   "score": 2143,
-   "pr": {
-    "Carrefour": [
-     17589.0,
-     "https://www.carrefour.com.ar/maquina-de-afeitar-para-mujer-gillette-venus-original-con-3-hojas-1-uni-555751/p"
-    ],
-    "Vea": [
-     10049.5,
-     "https://www.vea.com.ar/maquina-de-afeitar-original-aloe-venus/p"
-    ],
-    "Comodín": [
-     23863.89,
-     "https://www.comodinencasa.com.ar/maquina-de-afeitar-venus-original-1un/p"
-    ],
-    "ChangoMás": [
-     17589.0,
-     "https://www.masonline.com.ar/maquina-de-afeitar-venus-1un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante Antitranspirante Rexona Active Emotion en Aerosol 150 ml",
+   "n": "Desodorante Antitranspirante Rexona Sensitive en Aerosol 150 ml",
    "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917277/7791293032443_01.jpg?v=639228546568430000",
-   "cadena": "Comodín",
-   "precio": 1919.4,
-   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-w-active-emotion-x-90-gr/p",
-   "referencia": 3949.99,
-   "precio_2da": 3266.83,
-   "baja_pct": 51.4,
-   "brecha_pct": 41.2,
-   "score": 2120,
-   "pr": {
-    "Carrefour": [
-     3266.83,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-active-emotion-en-aerosol-150-ml-606939/p"
-    ],
-    "Vea": [
-     4165.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-rexona-active-emotion-en-aerosol-150ml/p"
-    ],
-    "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/desodorante-antitranspirante-rexona-active-emotion-en-aerosol-150ml/p"
-    ],
-    "Comodín": [
-     1919.4,
-     "https://www.comodinencasa.com.ar/deo-rexona-ap-w-active-emotion-x-90-gr/p"
-    ],
-    "ChangoMás": [
-     5059.0,
-     "https://www.masonline.com.ar/desodorante-antitranspirante-rexona-control-inteligente-active-emotion-150-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante Rexona Sensitive Men 150 Ml",
-   "m": "REXONA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/903034/Desodorante-Rexona-Sensitive-Men-150-Ml-1-997416.jpg?v=639106643611100000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916784/7791293049496_01.jpg?v=639228329021170000",
    "cadena": "Comodín",
    "precio": 1919.4,
    "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p",
-   "referencia": 3715.39,
-   "precio_2da": 3367.5,
-   "baja_pct": 48.3,
-   "brecha_pct": 43.0,
-   "score": 2079,
+   "referencia": 3949.99,
+   "precio_2da": 3259.5,
+   "baja_pct": 51.4,
+   "brecha_pct": 41.1,
+   "score": 2114,
    "pr": {
+    "Carrefour": [
+     3259.5,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-sensitive-en-aerosol-150-ml-726888/p"
+    ],
     "Vea": [
      3367.5,
      "https://www.vea.com.ar/desodorante-rexona-sensitive-men-150-ml/p"
@@ -524,99 +481,6 @@
     "Comodín": [
      1919.4,
      "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p"
-    ],
-    "Carrefour": [
-     4490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-sensitive-en-aerosol-150-ml-726888/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas dulces surtidas Terrabusi Variedad 590 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860610/7622202839979_E02.jpg?v=639128998799900000",
-   "cadena": "Carrefour",
-   "precio": 2990.0,
-   "link": "https://www.carrefour.com.ar/galletitas-dulces-surtidas-terrabusi-variedad-590-grs-777680/p",
-   "referencia": 5509.0,
-   "precio_2da": 5250.0,
-   "baja_pct": 45.7,
-   "brecha_pct": 43.0,
-   "score": 1968,
-   "pr": {
-    "Carrefour": [
-     2990.0,
-     "https://www.carrefour.com.ar/galletitas-dulces-surtidas-terrabusi-variedad-590-grs-777680/p"
-    ],
-    "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/galletitas-surtidas-pack-ahorro-590-grs-variedad/p"
-    ],
-    "ChangoMás": [
-     5509.0,
-     "https://www.masonline.com.ar/galletitas-variedad-de-terrabusi-nuevo-mix-590g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante Antitranspirante Rexona Antibacterial Protection en Aerosol 150 ml",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917099/7791293049519_01.jpg?v=639228387492800000",
-   "cadena": "Comodín",
-   "precio": 1919.4,
-   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-women-antibacterial-x-90gr/p",
-   "referencia": 4090.89,
-   "precio_2da": 2993.48,
-   "baja_pct": 53.1,
-   "brecha_pct": 35.9,
-   "score": 1905,
-   "pr": {
-    "Carrefour": [
-     2993.48,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-antibacterial-protection-en-aerosol-150-ml-729389/p"
-    ],
-    "Vea": [
-     3816.5,
-     "https://www.vea.com.ar/desodorante-antibacterial-protec-150-ml-rexona/p"
-    ],
-    "Jumbo": [
-     4600.0,
-     "https://www.jumbo.com.ar/desodorante-antibacterial-protec-150-ml-rexona/p"
-    ],
-    "Comodín": [
-     1919.4,
-     "https://www.comodinencasa.com.ar/deo-rexona-ap-women-antibacterial-x-90gr/p"
-    ],
-    "ChangoMás": [
-     3794.25,
-     "https://www.masonline.com.ar/desodorante-antit-en-aerosol-rexona-antibacterial-150-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Saborizada Sin Gas Sabor Manzanella 500 Ml H2Oh",
-   "m": "H2OH",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872584/Saborizada-Manzana-Sin-Gas-X-500-Cc-H2oh-1-1007673.jpg?v=638864625779870000",
-   "cadena": "Vea",
-   "precio": 934.45,
-   "link": "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p",
-   "referencia": 1699.0,
-   "precio_2da": 1599.0,
-   "baja_pct": 45.0,
-   "brecha_pct": 41.6,
-   "score": 1870,
-   "pr": {
-    "Vea": [
-     934.45,
-     "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Jumbo": [
-     1700.0,
-     "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
-    ],
-    "Carrefour": [
-     1599.0,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-h2oh-sin-gas-500-ml-704717/p"
     ]
    }
   },
@@ -628,13 +492,13 @@
    "precio": 1919.4,
    "link": "https://www.comodinencasa.com.ar/deo-rexona-aero-ap-w-skin-care-nutr-x90g/p",
    "referencia": 3949.99,
-   "precio_2da": 2993.48,
+   "precio_2da": 3259.5,
    "baja_pct": 51.4,
-   "brecha_pct": 35.9,
-   "score": 1845,
+   "brecha_pct": 41.1,
+   "score": 2114,
    "pr": {
     "Carrefour": [
-     2993.48,
+     3259.5,
      "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-nutritive-en-aerosol-150-ml-726894/p"
     ],
     "Jumbo": [
@@ -646,7 +510,7 @@
      "https://www.comodinencasa.com.ar/deo-rexona-aero-ap-w-skin-care-nutr-x90g/p"
     ],
     "ChangoMás": [
-     3794.25,
+     5059.0,
      "https://www.masonline.com.ar/antitranspirante-nutritive-rexona-150ml-2/p"
     ]
    }
@@ -659,13 +523,13 @@
    "precio": 1919.4,
    "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-football-fan-x-90-gr/p",
    "referencia": 3949.99,
-   "precio_2da": 2993.48,
+   "precio_2da": 3259.5,
    "baja_pct": 51.4,
-   "brecha_pct": 35.9,
-   "score": 1845,
+   "brecha_pct": 41.1,
+   "score": 2114,
    "pr": {
     "Carrefour": [
-     2993.48,
+     3259.5,
      "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-futbol-fanaticos-en-aerosol-150-ml-726886/p"
     ],
     "Vea": [
@@ -687,122 +551,362 @@
    }
   },
   {
-   "n": "Galletitas Oreo sin gluten 95 g.",
-   "m": "Oreo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/526446/7622202038099_E01.jpg?v=638525990057870000",
-   "cadena": "ChangoMás",
-   "precio": 1847.4,
-   "link": "https://www.masonline.com.ar/galletitas-oreo-sin-gluten-95-g-2/p",
-   "referencia": 3079.0,
-   "precio_2da": 3390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 45.5,
-   "score": 1820,
+   "n": "Desodorante Antitranspirante Rexona Active Emotion en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917277/7791293032443_01.jpg?v=639228546568430000",
+   "cadena": "Comodín",
+   "precio": 1919.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-w-active-emotion-x-90-gr/p",
+   "referencia": 3949.99,
+   "precio_2da": 3259.5,
+   "baja_pct": 51.4,
+   "brecha_pct": 41.1,
+   "score": 2114,
    "pr": {
     "Carrefour": [
-     3390.0,
-     "https://www.carrefour.com.ar/galletitas-oreo-sin-gluten-95-g-740135/p"
+     3259.5,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-active-emotion-en-aerosol-150-ml-606939/p"
     ],
     "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/galletitas-sin-tacc-95-gr-oreo/p"
+     4165.0,
+     "https://www.vea.com.ar/desodorante-antitranspirante-rexona-active-emotion-en-aerosol-150ml/p"
     ],
     "Jumbo": [
-     3450.0,
-     "https://www.jumbo.com.ar/galletitas-sin-tacc-95-gr-oreo/p"
+     5250.0,
+     "https://www.jumbo.com.ar/desodorante-antitranspirante-rexona-active-emotion-en-aerosol-150ml/p"
     ],
     "Comodín": [
-     3818.89,
-     "https://www.comodinencasa.com.ar/galleta-oreo-sin-gluten-95-gr/p"
+     1919.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-ap-w-active-emotion-x-90-gr/p"
     ],
     "ChangoMás": [
-     1847.4,
-     "https://www.masonline.com.ar/galletitas-oreo-sin-gluten-95-g-2/p"
+     5059.0,
+     "https://www.masonline.com.ar/desodorante-antitranspirante-rexona-control-inteligente-active-emotion-150-ml/p"
     ]
    }
   },
   {
-   "n": "Alfajor Milka triple mousse 55 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
-   "referencia": 2209.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 40.5,
-   "score": 1758,
+   "n": "Desodorante Antitranspirante Rexona Antibacterial Protection en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917099/7791293049519_01.jpg?v=639228387492800000",
+   "cadena": "Comodín",
+   "precio": 1919.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-women-antibacterial-x-90gr/p",
+   "referencia": 3949.99,
+   "precio_2da": 3259.5,
+   "baja_pct": 51.4,
+   "brecha_pct": 41.1,
+   "score": 2114,
    "pr": {
     "Carrefour": [
-     2099.0,
-     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
+     3259.5,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-antibacterial-protection-en-aerosol-150-ml-729389/p"
+    ],
+    "Vea": [
+     3816.5,
+     "https://www.vea.com.ar/desodorante-antibacterial-protec-150-ml-rexona/p"
     ],
     "Jumbo": [
-     2332.0,
-     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
+     4600.0,
+     "https://www.jumbo.com.ar/desodorante-antibacterial-protec-150-ml-rexona/p"
     ],
     "Comodín": [
-     2827.79,
-     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
+     1919.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-ap-women-antibacterial-x-90gr/p"
     ],
     "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
+     3794.25,
+     "https://www.masonline.com.ar/desodorante-antit-en-aerosol-rexona-antibacterial-150-ml-2/p"
     ]
    }
   },
   {
-   "n": "Galletitas crackers Paseo 5 semillas 300 g.",
-   "m": "Paseo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929621/7792180007315_02.jpg?v=639246481847070000",
+   "n": "Desodorante Antitranspirante Rexona Men Invisible en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917283/7791293022635_01.jpg?v=639228548210770000",
+   "cadena": "Comodín",
+   "precio": 1919.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-invisible-x-90-gr/p",
+   "referencia": 3949.99,
+   "precio_2da": 3259.5,
+   "baja_pct": 51.4,
+   "brecha_pct": 41.1,
+   "score": 2114,
+   "pr": {
+    "Carrefour": [
+     3259.5,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-men-invisible-en-aerosol-150-ml-550265/p"
+    ],
+    "Vea": [
+     3910.0,
+     "https://www.vea.com.ar/desodorante-antitranspirante-rexona-invisible-men-en-aerosol-150-ml/p"
+    ],
+    "ChangoMás": [
+     3794.25,
+     "https://www.masonline.com.ar/desodorante-antit-en-aerosol-rexona-invisible-150-ml-2/p"
+    ],
+    "Comodín": [
+     1919.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-invisible-x-90-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante en Aerosol para Todo el Cuerpo Dove Men All Body Deo Shea Butter & Cedar 150 m",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/692538/7791293051635_01.jpg?v=638917348512370000",
+   "cadena": "Comodín",
+   "precio": 3888.77,
+   "link": "https://www.comodinencasa.com.ar/deo-dove-men-aob-shea-cedar-150ml/p",
+   "referencia": 6481.29,
+   "precio_2da": 8205.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 52.6,
+   "score": 2104,
+   "pr": {
+    "Carrefour": [
+     8205.0,
+     "https://www.carrefour.com.ar/desodorante-en-aerosol-para-todo-el-cuerpo-dove-men-all-body-deo-shea-butter-cedar-150-ml-765398/p"
+    ],
+    "Comodín": [
+     3888.77,
+     "https://www.comodinencasa.com.ar/deo-dove-men-aob-shea-cedar-150ml/p"
+    ],
+    "ChangoMás": [
+     8539.0,
+     "https://www.masonline.com.ar/desodorante-dove-all-body-deo-shea-butter-cedar-150-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante Rexona Invisible en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917274/7791293032481_01.jpg?v=639228545244730000",
+   "cadena": "Comodín",
+   "precio": 1919.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-women-invisible-90-gr/p",
+   "referencia": 3949.99,
+   "precio_2da": 3246.16,
+   "baja_pct": 51.4,
+   "brecha_pct": 40.9,
+   "score": 2101,
+   "pr": {
+    "Carrefour": [
+     3246.16,
+     "https://www.carrefour.com.ar/desodorante-rexona-invisible-en-aerosol-150-ml-606945/p"
+    ],
+    "Vea": [
+     4165.0,
+     "https://www.vea.com.ar/desodorante-antitranspirante-rexona-invisible-en-aerosol-150-ml/p"
+    ],
+    "Jumbo": [
+     5250.0,
+     "https://www.jumbo.com.ar/desodorante-antitranspirante-rexona-invisible-en-aerosol-150-ml/p"
+    ],
+    "ChangoMás": [
+     3794.25,
+     "https://www.masonline.com.ar/desodorante-antitranspirante-rexona-invisible-en-aerosol-150-ml-4/p"
+    ],
+    "Comodín": [
+     1919.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-women-invisible-90-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Con Leche Cofler 45 Gr",
+   "m": "COFLER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/583140/Chocolate-Cofler-Con-Leche-45-Gr-1-226206.jpg?v=637234676858030000",
    "cadena": "Carrefour",
-   "precio": 1084.85,
-   "link": "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p",
-   "referencia": 1669.0,
-   "precio_2da": 2135.19,
-   "baja_pct": 35.0,
-   "brecha_pct": 49.2,
-   "score": 1722,
+   "precio": 911.6,
+   "link": "https://www.carrefour.com.ar/oblea-cofler-graffiti-45-g-41385-41385/p",
+   "referencia": 2290.0,
+   "precio_2da": 1374.0,
+   "baja_pct": 60.2,
+   "brecha_pct": 33.7,
+   "score": 2026,
    "pr": {
-    "Carrefour": [
-     1084.85,
-     "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p"
+    "Vea": [
+     1374.0,
+     "https://www.vea.com.ar/chocolate-con-leche-cofler-45-gr/p"
     ],
     "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+     2500.0,
+     "https://www.jumbo.com.ar/chocolate-con-leche-cofler-45-gr/p"
     ],
     "Comodín": [
-     2135.19,
-     "https://www.comodinencasa.com.ar/galleta-paseo-salvado-5-semillas-x-300gr/p"
+     2355.19,
+     "https://www.comodinencasa.com.ar/chocolate-cofler-graffiti-x-45-gr-2/p"
+    ],
+    "Carrefour": [
+     911.6,
+     "https://www.carrefour.com.ar/oblea-cofler-graffiti-45-g-41385-41385/p"
     ]
    }
   },
   {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
+   "n": "Crema saborizada 4 quesos Las Tres Niñas 190 ml",
+   "m": "Las Tres Niñas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838531/7798338291346_01.jpg?v=639104910828930000",
+   "cadena": "Carrefour",
+   "precio": 1679.5,
+   "link": "https://www.carrefour.com.ar/crema-saborizada-4-quesos-las-tres-ninas-190-ml-764446/p",
+   "referencia": 3669.0,
+   "precio_2da": 2655.79,
+   "baja_pct": 54.2,
+   "brecha_pct": 36.8,
+   "score": 1993,
+   "pr": {
+    "Carrefour": [
+     1679.5,
+     "https://www.carrefour.com.ar/crema-saborizada-4-quesos-las-tres-ninas-190-ml-764446/p"
+    ],
+    "Jumbo": [
+     3750.0,
+     "https://www.jumbo.com.ar/salsa-crema-las-tres-ninas-4q-190ml/p"
+    ],
+    "Comodín": [
+     2655.79,
+     "https://www.comodinencasa.com.ar/crema-las-tres-ninas-sab-4-quesos-190ml/p"
+    ],
+    "ChangoMás": [
+     3669.0,
+     "https://www.masonline.com.ar/salsa-de-crema-las-tres-ninas-sabor-4-quesos-190-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua Saborizada Sin Gas Sabor Manzanella 500 Ml H2Oh",
+   "m": "H2OH",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872584/Saborizada-Manzana-Sin-Gas-X-500-Cc-H2oh-1-1007673.jpg?v=638864625779870000",
+   "cadena": "Vea",
+   "precio": 934.45,
+   "link": "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p",
+   "referencia": 1699.0,
+   "precio_2da": 1650.0,
+   "baja_pct": 45.0,
+   "brecha_pct": 43.4,
+   "score": 1951,
+   "pr": {
+    "Vea": [
+     934.45,
+     "https://www.vea.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
+    ],
+    "Jumbo": [
+     1700.0,
+     "https://www.jumbo.com.ar/saborizada-manzana-sin-gas-x-500-cc-h2oh-2/p"
+    ],
+    "Carrefour": [
+     1650.0,
+     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-h2oh-sin-gas-500-ml-704717/p"
+    ]
+   }
+  },
+  {
+   "n": "Antitranspirante en aerosol Dove Men+Care Clinical 150 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923490/7791293049625_01.jpg?v=639240376583370000",
+   "cadena": "Comodín",
+   "precio": 4117.79,
+   "link": "https://www.comodinencasa.com.ar/deo-dove-men-clinical-96h-cuidadot-150ml/p",
+   "referencia": 6389.79,
+   "precio_2da": 8819.0,
+   "baja_pct": 35.6,
+   "brecha_pct": 53.3,
+   "score": 1895,
+   "pr": {
+    "Carrefour": [
+     8819.0,
+     "https://www.carrefour.com.ar/antitranspirante-en-aerosol-dove-men-care-clinical-150-ml-725428/p"
+    ],
+    "Comodín": [
+     4117.79,
+     "https://www.comodinencasa.com.ar/deo-dove-men-clinical-96h-cuidadot-150ml/p"
+    ],
+    "ChangoMás": [
+     9169.0,
+     "https://www.masonline.com.ar/antitranspirante-men-care-dove-150ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante femenino Dove all body rapsberry 150 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/692498/7791293051666_01.jpg?v=638917321734400000",
+   "cadena": "Comodín",
+   "precio": 3888.77,
+   "link": "https://www.comodinencasa.com.ar/deo-dove-w-aob-raspberry-150ml/p",
+   "referencia": 6034.09,
+   "precio_2da": 8205.0,
+   "baja_pct": 35.6,
+   "brecha_pct": 52.6,
+   "score": 1870,
+   "pr": {
+    "Carrefour": [
+     8205.0,
+     "https://www.carrefour.com.ar/desodorante-femenino-dove-all-body-rapsberry-150-ml-765397/p"
+    ],
+    "Comodín": [
+     3888.77,
+     "https://www.comodinencasa.com.ar/deo-dove-w-aob-raspberry-150ml/p"
+    ],
+    "ChangoMás": [
+     8539.0,
+     "https://www.masonline.com.ar/desodorante-dove-all-body-deo-raspberry-rose-150-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo dental Oral B pro-salud indicator color collection 4 u.",
+   "m": "Oral B",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/517927/7500435113823_02.jpg?v=638507891164470000",
+   "cadena": "Vea",
+   "precio": 9114.0,
+   "link": "https://www.vea.com.ar/cepillo-oral-b-indicator-suave-x4/p",
+   "referencia": 15190.0,
+   "precio_2da": 16250.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.9,
+   "score": 1757,
+   "pr": {
+    "Carrefour": [
+     16550.0,
+     "https://www.carrefour.com.ar/cepillo-dental-oral-b-pro-salud-indicator-color-collection-4-u/p"
+    ],
+    "Vea": [
+     9114.0,
+     "https://www.vea.com.ar/cepillo-oral-b-indicator-suave-x4/p"
+    ],
+    "Jumbo": [
+     16250.0,
+     "https://www.jumbo.com.ar/cepillo-oral-b-indicator-suave-x4/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza rubia Schneider 473 ml",
+   "m": "Schneider",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
    "cadena": "Comodín",
    "precio": 1499.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
+   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
    "referencia": 2495.99,
    "precio_2da": 2615.0,
    "baja_pct": 39.9,
    "brecha_pct": 42.7,
    "score": 1705,
    "pr": {
-    "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
+    "Carrefour": [
+     2615.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
     ],
     "Comodín": [
      1499.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
+     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
     ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
+    "ChangoMás": [
+     2619.0,
+     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
     ]
    }
   },
@@ -820,7 +924,7 @@
    "score": 1682,
    "pr": {
     "Carrefour": [
-     2120.0,
+     2150.0,
      "https://www.carrefour.com.ar/cerveza-blanca-quilmes-sin-alcohol-473-ml-665462/p"
     ],
     "Vea": [
@@ -834,411 +938,83 @@
    }
   },
   {
-   "n": "Shampoo Nutrición Tri-Óleos 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/919939/13710774172.jpg?v=639180000969770000",
-   "cadena": "Comodín",
-   "precio": 8910.71,
-   "link": "https://www.comodinencasa.com.ar/shampoo-dove-nutricion-650ml/p",
-   "referencia": 14851.19,
-   "precio_2da": 15200.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.4,
-   "score": 1655,
+   "n": "Cera Depilatoria Millefiori Microondas 180g",
+   "m": "MILLEFIORI",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/759129/Cera-Depilatoria-Millefiori-Microondas-180g-1-941421.jpg?v=638040585742570000",
+   "cadena": "Carrefour",
+   "precio": 5276.25,
+   "link": "https://www.carrefour.com.ar/cera-depilatoria-millefiori-para-microondas-care-180-g-708748/p",
+   "referencia": 7874.25,
+   "precio_2da": 10496.79,
+   "baja_pct": 33.0,
+   "brecha_pct": 49.7,
+   "score": 1641,
    "pr": {
     "Jumbo": [
-     15200.0,
-     "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p"
+     10850.0,
+     "https://www.jumbo.com.ar/cera-depilatoria-millefiori-microondas-180g/p"
+    ],
+    "Carrefour": [
+     5276.25,
+     "https://www.carrefour.com.ar/cera-depilatoria-millefiori-para-microondas-care-180-g-708748/p"
     ],
     "Comodín": [
-     8910.71,
-     "https://www.comodinencasa.com.ar/shampoo-dove-nutricion-650ml/p"
-    ],
-    "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-650-ml-778716/p"
+     10496.79,
+     "https://www.comodinencasa.com.ar/cera-millefiori-microondas-2023-180gr/p"
     ]
    }
   },
   {
-   "n": "Cerveza rubia Schneider 473 ml",
-   "m": "Schneider",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
-   "cadena": "Comodín",
-   "precio": 1499.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2539.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 41.0,
-   "score": 1636,
-   "pr": {
-    "Carrefour": [
-     2539.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
-    ],
-    "Comodín": [
-     1499.0,
-     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
-    ],
-    "ChangoMás": [
-     2619.0,
-     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Antitranspirante en aerosol Dove Men+Care Clinical 150 ml",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923490/7791293049625_01.jpg?v=639240376583370000",
-   "cadena": "Comodín",
-   "precio": 4117.79,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-men-clinical-96h-cuidadot-150ml/p",
-   "referencia": 6389.79,
-   "precio_2da": 7490.0,
-   "baja_pct": 35.6,
-   "brecha_pct": 45.0,
-   "score": 1601,
-   "pr": {
-    "Carrefour": [
-     7490.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-aerosol-dove-men-care-clinical-150-ml-725428/p"
-    ],
-    "Comodín": [
-     4117.79,
-     "https://www.comodinencasa.com.ar/deo-dove-men-clinical-96h-cuidadot-150ml/p"
-    ],
-    "ChangoMás": [
-     9169.0,
-     "https://www.masonline.com.ar/antitranspirante-men-care-dove-150ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo dental Oral B pro-salud indicator color collection 4 u.",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/517927/7500435113823_02.jpg?v=638507891164470000",
-   "cadena": "Vea",
-   "precio": 9114.0,
-   "link": "https://www.vea.com.ar/cepillo-oral-b-indicator-suave-x4/p",
-   "referencia": 15190.0,
-   "precio_2da": 15190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     15190.0,
-     "https://www.carrefour.com.ar/cepillo-dental-oral-b-pro-salud-indicator-color-collection-4-u/p"
-    ],
-    "Vea": [
-     9114.0,
-     "https://www.vea.com.ar/cepillo-oral-b-indicator-suave-x4/p"
-    ],
-    "Jumbo": [
-     16250.0,
-     "https://www.jumbo.com.ar/cepillo-oral-b-indicator-suave-x4/p"
-    ]
-   }
-  },
-  {
-   "n": "Nescafé Gold Doypack 100 grs",
-   "m": "Nescafé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878703/8445291055070_01.jpg?v=639149694537970000",
-   "cadena": "Vea",
-   "precio": 10439.4,
-   "link": "https://www.vea.com.ar/cafe-doypack-100-grs-nescafe-gold/p",
-   "referencia": 17399.0,
-   "precio_2da": 17399.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     17399.0,
-     "https://www.carrefour.com.ar/nescafe-gold-doypack-100-grs-737519/p"
-    ],
-    "Vea": [
-     10439.4,
-     "https://www.vea.com.ar/cafe-doypack-100-grs-nescafe-gold/p"
-    ],
-    "Jumbo": [
-     21900.0,
-     "https://www.jumbo.com.ar/cafe-doypack-100-grs-nescafe-gold/p"
-    ]
-   }
-  },
-  {
-   "n": "Nescafé Gold Espresso 100 grs",
-   "m": "Nescafé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849333/8445291311572_01.jpg?v=639119639775870000",
-   "cadena": "Vea",
-   "precio": 9774.0,
-   "link": "https://www.vea.com.ar/cafe-espresso-doypack-100-grs-nescafe-gold/p",
-   "referencia": 16290.0,
-   "precio_2da": 16290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     16290.0,
-     "https://www.carrefour.com.ar/nescafe-gold-espresso-100-grs-757168/p"
-    ],
-    "Vea": [
-     9774.0,
-     "https://www.vea.com.ar/cafe-espresso-doypack-100-grs-nescafe-gold/p"
-    ],
-    "Jumbo": [
-     22500.0,
-     "https://www.jumbo.com.ar/cafe-espresso-doypack-100-grs-nescafe-gold/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental Oral B extra blanco 70 g.",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/518467/7500435150248_01.jpg?v=638507892369570000",
-   "cadena": "Vea",
-   "precio": 2514.0,
-   "link": "https://www.vea.com.ar/pasta-dental-oral-b-extra-blanco-x-70g/p",
-   "referencia": 4190.0,
-   "precio_2da": 4190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     4190.0,
-     "https://www.carrefour.com.ar/pasta-dental-oral-b-extra-blanco-70-g-664166/p"
-    ],
-    "Vea": [
-     2514.0,
-     "https://www.vea.com.ar/pasta-dental-oral-b-extra-blanco-x-70g/p"
-    ],
-    "Jumbo": [
-     4250.0,
-     "https://www.jumbo.com.ar/pasta-dental-oral-b-extra-blanco-x-70g/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental extra blanco Oral B carbón activo 70 grs",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693881/7500435231220_02.jpg?v=638923441534170000",
-   "cadena": "Vea",
-   "precio": 2514.0,
-   "link": "https://www.vea.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p",
-   "referencia": 4190.0,
-   "precio_2da": 4190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     4190.0,
-     "https://www.carrefour.com.ar/pasta-dental-extra-blanco-oral-b-carbon-activo-70-grs-766680/p"
-    ],
-    "Vea": [
-     2514.0,
-     "https://www.vea.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p"
-    ],
-    "Jumbo": [
-     4350.0,
-     "https://www.jumbo.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Pampers talle RN deluxe 36 uni",
-   "m": "Pampers",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862272/7500435237642_02.jpg?v=639130866023270000",
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
    "cadena": "Carrefour",
-   "precio": 14214.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-rn-deluxe-36-uni-732854/p",
-   "referencia": 23690.0,
-   "precio_2da": 23690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
+   "referencia": 3862.5,
+   "precio_2da": 3113.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 33.8,
+   "score": 1573,
    "pr": {
     "Carrefour": [
-     14214.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-rn-deluxe-36-uni-732854/p"
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
     ],
     "Vea": [
-     23690.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-pequeno-36u/p"
+     3113.5,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
     ],
     "Jumbo": [
-     25563.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-pequeno-36u/p"
+     4950.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
     ]
    }
   },
   {
-   "n": "Cerveza rubia Quilmes Bajo cero Retornable 1 lt",
-   "m": "Quilmes",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860525/7792798013999_01.jpg?v=639128904855230000",
-   "cadena": "Vea",
-   "precio": 1889.0,
-   "link": "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p",
-   "referencia": 2833.5,
-   "precio_2da": 3619.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.8,
-   "score": 1593,
-   "pr": {
-    "Carrefour": [
-     3619.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-quilmes-bajo-cero-retornable-1-lt-731862/p"
-    ],
-    "Vea": [
-     1889.0,
-     "https://www.vea.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
-    ],
-    "Jumbo": [
-     3884.0,
-     "https://www.jumbo.com.ar/cerveza-quilmes-bajo-cero-1lt-ret/p"
-    ]
-   }
-  },
-  {
-   "n": "Svelty Extra Calcio 370 grs",
-   "m": "Svelty",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854263/8445291020047_01.jpg?v=639122869165300000",
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
    "cadena": "Carrefour",
-   "precio": 3959.4,
-   "link": "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p",
-   "referencia": 6599.0,
-   "precio_2da": 6559.29,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1585,
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
+   "referencia": 3862.5,
+   "precio_2da": 3113.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 33.8,
+   "score": 1573,
    "pr": {
     "Carrefour": [
-     3959.4,
-     "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p"
-    ],
-    "Jumbo": [
-     10050.0,
-     "https://www.jumbo.com.ar/leche-polvo-extra-calcio-370-grs-svelty/p"
-    ],
-    "Comodín": [
-     6559.29,
-     "https://www.comodinencasa.com.ar/leche-svelty-extra-calcio-400gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Menta Refrescante 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p",
-   "referencia": 889.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1574,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p"
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
     ],
     "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+     3113.5,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ],
     "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
-    ],
-    "ChangoMás": [
-     1129.0,
-     "https://www.masonline.com.ar/chicles-beldent-de-menta-10gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Menta Power 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882349/77969088_E01.jpg?v=639155711940900000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p",
-   "referencia": 889.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1574,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p"
-    ],
-    "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-menta-power-x-6-un-beldent/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-menta-power-x-6-un-beldent/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Mentol Frozen 6 uni",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882351/77969095_E01.jpg?v=639155712181330000",
-   "cadena": "Carrefour",
-   "precio": 577.85,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p",
-   "referencia": 889.0,
-   "precio_2da": 1050.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1574,
-   "pr": {
-    "Carrefour": [
-     577.85,
-     "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p"
-    ],
-    "Vea": [
-     1050.0,
-     "https://www.vea.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Infinit mentol 13,3 g.",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
-   "cadena": "Carrefour",
-   "precio": 766.35,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
-   "referencia": 1179.0,
-   "precio_2da": 1390.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.9,
-   "score": 1570,
-   "pr": {
-    "Carrefour": [
-     766.35,
-     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
-    ],
-    "Vea": [
-     1390.0,
-     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ],
-    "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+     4950.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ]
    }
   },
@@ -1256,7 +1032,7 @@
    "score": 1567,
    "pr": {
     "Carrefour": [
-     3095.0,
+     2850.0,
      "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
     ],
     "Vea": [
@@ -1287,7 +1063,7 @@
    "score": 1567,
    "pr": {
     "Carrefour": [
-     3189.0,
+     2850.0,
      "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
     ],
     "Vea": [
@@ -1301,126 +1077,6 @@
     "ChangoMás": [
      3189.0,
      "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Lavandina Ayudín triple poder lavanda 2 l.",
-   "m": "Ayudín",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795382/7793253003722_02.jpg?v=639050312014030000",
-   "cadena": "ChangoMás",
-   "precio": 2072.85,
-   "link": "https://www.masonline.com.ar/lavandina-ayudin-triple-poder-lavanda-2-l-2/p",
-   "referencia": 3749.0,
-   "precio_2da": 3190.0,
-   "baja_pct": 44.7,
-   "brecha_pct": 35.0,
-   "score": 1566,
-   "pr": {
-    "Carrefour": [
-     3190.0,
-     "https://www.carrefour.com.ar/lavandina-ayudin-triple-poder-lavanda-2-l-675801/p"
-    ],
-    "Vea": [
-     3190.0,
-     "https://www.vea.com.ar/lavandina-ayudin-glaciar-triple-poder-la/p"
-    ],
-    "Jumbo": [
-     4000.0,
-     "https://www.jumbo.com.ar/lavandina-ayudin-glaciar-triple-poder-la/p"
-    ],
-    "Comodín": [
-     3678.49,
-     "https://www.comodinencasa.com.ar/lavandina-ayudin-frag-multis-lavanda-2lt/p"
-    ],
-    "ChangoMás": [
-     2072.85,
-     "https://www.masonline.com.ar/lavandina-ayudin-triple-poder-lavanda-2-l-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante femenino Dove all body rapsberry 150 ml",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/692498/7791293051666_01.jpg?v=638917321734400000",
-   "cadena": "Comodín",
-   "precio": 3888.77,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-w-aob-raspberry-150ml/p",
-   "referencia": 6034.09,
-   "precio_2da": 6899.0,
-   "baja_pct": 35.6,
-   "brecha_pct": 43.6,
-   "score": 1551,
-   "pr": {
-    "Carrefour": [
-     6899.0,
-     "https://www.carrefour.com.ar/desodorante-femenino-dove-all-body-rapsberry-150-ml-765397/p"
-    ],
-    "Comodín": [
-     3888.77,
-     "https://www.comodinencasa.com.ar/deo-dove-w-aob-raspberry-150ml/p"
-    ],
-    "ChangoMás": [
-     8539.0,
-     "https://www.masonline.com.ar/desodorante-dove-all-body-deo-raspberry-rose-150-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante DOVE Men para Todo el Cuerpo All Body Shea Butter & Cedar 150 ml",
-   "m": "Dove",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/182031/deo_dove_all_body_shea_butter_y_cedar.png?v=638929604426530000",
-   "cadena": "Comodín",
-   "precio": 3888.77,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-men-aob-shea-cedar-150ml/p",
-   "referencia": 6034.09,
-   "precio_2da": 6899.0,
-   "baja_pct": 35.6,
-   "brecha_pct": 43.6,
-   "score": 1551,
-   "pr": {
-    "Comodín": [
-     3888.77,
-     "https://www.comodinencasa.com.ar/deo-dove-men-aob-shea-cedar-150ml/p"
-    ],
-    "Carrefour": [
-     6899.0,
-     "https://www.carrefour.com.ar/desodorante-en-aerosol-para-todo-el-cuerpo-dove-men-all-body-deo-shea-butter-cedar-150-ml-765398/p"
-    ],
-    "ChangoMás": [
-     8539.0,
-     "https://www.masonline.com.ar/desodorante-dove-all-body-deo-shea-butter-cedar-150-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Crema saborizada 4 quesos Las Tres Niñas 190 ml",
-   "m": "Las Tres Niñas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838531/7798338291346_01.jpg?v=639104910828930000",
-   "cadena": "Carrefour",
-   "precio": 1834.5,
-   "link": "https://www.carrefour.com.ar/crema-saborizada-4-quesos-las-tres-ninas-190-ml-764446/p",
-   "referencia": 3669.0,
-   "precio_2da": 2655.79,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.9,
-   "score": 1546,
-   "pr": {
-    "Carrefour": [
-     1834.5,
-     "https://www.carrefour.com.ar/crema-saborizada-4-quesos-las-tres-ninas-190-ml-764446/p"
-    ],
-    "Jumbo": [
-     3750.0,
-     "https://www.jumbo.com.ar/salsa-crema-las-tres-ninas-4q-190ml/p"
-    ],
-    "Comodín": [
-     2655.79,
-     "https://www.comodinencasa.com.ar/crema-las-tres-ninas-sab-4-quesos-190ml/p"
-    ],
-    "ChangoMás": [
-     3669.0,
-     "https://www.masonline.com.ar/salsa-de-crema-las-tres-ninas-sabor-4-quesos-190-ml/p"
     ]
    }
   },
@@ -1448,6 +1104,41 @@
     "ChangoMás": [
      3269.4,
      "https://www.masonline.com.ar/galletitas-dulces-oreo-golden-4-u-268-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Oreo sin gluten 95 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/526446/7622202038099_E01.jpg?v=638525990057870000",
+   "cadena": "ChangoMás",
+   "precio": 1847.4,
+   "link": "https://www.masonline.com.ar/galletitas-oreo-sin-gluten-95-g-2/p",
+   "referencia": 3079.0,
+   "precio_2da": 2959.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1503,
+   "pr": {
+    "Carrefour": [
+     2959.0,
+     "https://www.carrefour.com.ar/galletitas-oreo-sin-gluten-95-g-740135/p"
+    ],
+    "Vea": [
+     3390.0,
+     "https://www.vea.com.ar/galletitas-sin-tacc-95-gr-oreo/p"
+    ],
+    "Jumbo": [
+     3450.0,
+     "https://www.jumbo.com.ar/galletitas-sin-tacc-95-gr-oreo/p"
+    ],
+    "Comodín": [
+     3818.89,
+     "https://www.comodinencasa.com.ar/galleta-oreo-sin-gluten-95-gr/p"
+    ],
+    "ChangoMás": [
+     1847.4,
+     "https://www.masonline.com.ar/galletitas-oreo-sin-gluten-95-g-2/p"
     ]
    }
   }
