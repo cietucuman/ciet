@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-14",
- "actualizado": "2026-09-14 15:19",
+ "actualizado": "2026-09-14 18:20",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-13",
   "2026-09-14"
  ],
- "total": 23,
+ "total": 26,
  "ofertas": [
   {
    "n": "Desodorante Antitranspirante Dove Men Invisible Dry en Aerosol 150 ml",
@@ -466,6 +466,33 @@
    }
   },
   {
+   "n": "Desodorante Antitranspirante Rexona Sensitive en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916784/7791293049496_01.jpg?v=639228329021170000",
+   "cadena": "Comodín",
+   "precio": 1919.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p",
+   "referencia": 3949.99,
+   "precio_2da": 2993.48,
+   "baja_pct": 51.4,
+   "brecha_pct": 35.9,
+   "score": 1845,
+   "pr": {
+    "Carrefour": [
+     2993.48,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-sensitive-en-aerosol-150-ml-726888/p"
+    ],
+    "Vea": [
+     3367.5,
+     "https://www.vea.com.ar/desodorante-rexona-sensitive-men-150-ml/p"
+    ],
+    "Comodín": [
+     1919.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p"
+    ]
+   }
+  },
+  {
    "n": "Desodorante Antitranspirante Rexona Nutritive en Aerosol 150 ml",
    "m": "Rexona",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917095/7791293049557_01.jpg?v=639228386457530000",
@@ -586,6 +613,33 @@
    }
   },
   {
+   "n": "Pañal Pampers BabyDry M Jumbo 72un",
+   "m": "Pampers",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/178261/43547.png?v=638500771574530000",
+   "cadena": "Comodín",
+   "precio": 25928.69,
+   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-m-jumbo-72un/p",
+   "referencia": 39890.29,
+   "precio_2da": 47769.15,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.7,
+   "score": 1600,
+   "pr": {
+    "Comodín": [
+     25928.69,
+     "https://www.comodinencasa.com.ar/panal-pampers-babydry-m-jumbo-72un/p"
+    ],
+    "ChangoMás": [
+     47769.15,
+     "https://www.masonline.com.ar/panales-pampers-baby-dry-m-72un-2/p"
+    ],
+    "Carrefour": [
+     56199.0,
+     "https://www.carrefour.com.ar/pampers-baby-dry-hipoalergenico-panales-desechables-talle-m-72-uni-718018/p"
+    ]
+   }
+  },
+  {
    "n": "Pañales Deluxe Protection XG x 58 Un Pampers",
    "m": "PAMPERS",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/808455/Pa-ales-Pampers-Deluxe-Prot-Xgd-58u-1-1006943.jpg?v=638422478356400000",
@@ -636,6 +690,33 @@
     "ChangoMás": [
      62134.15,
      "https://www.masonline.com.ar/panales-pampers-deluxe-protection-g-72un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua Gasificada Sabor Citrus 2.25 Lts H2oh",
+   "m": "H2O",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/769378/Agua-H2oh-Con-Gas-Citrus-2-25lt-1-469258.jpg?v=638120073871770000",
+   "cadena": "Carrefour",
+   "precio": 1947.0,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-citrus-h2oh-con-gas-225-lts-530516/p",
+   "referencia": 3032.0,
+   "precio_2da": 3490.0,
+   "baja_pct": 35.8,
+   "brecha_pct": 44.2,
+   "score": 1582,
+   "pr": {
+    "Vea": [
+     3490.0,
+     "https://www.vea.com.ar/saborizada-h2oh-citrus-con-gas-2-25lt/p"
+    ],
+    "Jumbo": [
+     3500.0,
+     "https://www.jumbo.com.ar/saborizada-h2oh-citrus-con-gas-2-25lt/p"
+    ],
+    "Carrefour": [
+     1947.0,
+     "https://www.carrefour.com.ar/agua-saborizada-citrus-h2oh-con-gas-225-lts-530516/p"
     ]
    }
   },
