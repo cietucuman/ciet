@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-15",
- "actualizado": "2026-09-15 12:33",
+ "actualizado": "2026-09-15 16:37",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -24,33 +24,33 @@
  "total": 20,
  "ofertas": [
   {
-   "n": "Toallitas húmedas higiene Q-Soft para adultos 40 u.",
-   "m": "Q-Soft",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/310418/7790773008404_01.jpg?v=639155743151330000",
-   "cadena": "Jumbo",
-   "precio": 1980.0,
-   "link": "https://www.jumbo.com.ar/toallas-humedas-adultos-qsoft-40-u/p",
-   "referencia": 6600.0,
-   "precio_2da": 3769.35,
-   "baja_pct": 70.0,
-   "brecha_pct": 47.5,
-   "score": 3323,
+   "n": "Plato Hondo Transparente Vidrio Gema Durax",
+   "m": "SD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
+   "cadena": "Vea",
+   "precio": 884.7,
+   "link": "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p",
+   "referencia": 2064.3,
+   "precio_2da": 1959.0,
+   "baja_pct": 57.1,
+   "brecha_pct": 54.8,
+   "score": 3134,
    "pr": {
-    "Carrefour": [
-     3769.35,
-     "https://www.carrefour.com.ar/toallitas-humedas-higiene-q-soft-para-adultos-40-u/p"
+    "Vea": [
+     884.7,
+     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
     ],
     "Jumbo": [
-     1980.0,
-     "https://www.jumbo.com.ar/toallas-humedas-adultos-qsoft-40-u/p"
+     2211.75,
+     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
     ],
-    "Comodín": [
-     8106.79,
-     "https://www.comodinencasa.com.ar/toalla-humeda-q-soft-adultos-x-40-un/p"
+    "Carrefour": [
+     1959.0,
+     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
     ],
     "ChangoMás": [
-     5799.0,
-     "https://www.masonline.com.ar/toallitas-humedas-q-soft-adultos-40-u/p"
+     1959.0,
+     "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p"
     ]
    }
   },
@@ -260,29 +260,37 @@
    }
   },
   {
-   "n": "Alfajor Terrabusi Intenso 55 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915684/7622202296291_E01.jpg?v=639227423285570000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p",
-   "referencia": 2209.0,
-   "precio_2da": 2000.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 37.5,
-   "score": 1630,
+   "n": "Porotos Alubias 500 Grs La Española Gourmet",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776401/Poroto-La-Espa-ola-Alubia-X-500gr-Poroto-La-Espa-ola-Alubia-X-500gr-1-28202.jpg?v=638168349660170000",
+   "cadena": "Vea",
+   "precio": 897.0,
+   "link": "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p",
+   "referencia": 1495.0,
+   "precio_2da": 1525.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.2,
+   "score": 1647,
    "pr": {
-    "Carrefour": [
-     2000.0,
-     "https://www.carrefour.com.ar/alfajor-terrabusi-intenso-55-grs-765346/p"
+    "Vea": [
+     897.0,
+     "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p"
     ],
     "Jumbo": [
-     2150.0,
-     "https://www.jumbo.com.ar/alfajor-sin-gluten-x-50-grs-terrabusi/p"
+     1525.0,
+     "https://www.jumbo.com.ar/poroto-la-espanola-alubia-500-gr/p"
+    ],
+    "Comodín": [
+     2354.59,
+     "https://www.comodinencasa.com.ar/porotos-alubia-la-espanola-x-500-gr/p"
     ],
     "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p"
+     3789.0,
+     "https://www.masonline.com.ar/poroto-alubia-la-espanola-500-gr-2/p"
+    ],
+    "Tuchanguito": [
+     1740.0,
+     "https://www.tuchanguito.com.ar/productos/porotos-alubias-la-espanola-500-gr/"
     ]
    }
   },
