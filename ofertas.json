@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-15",
- "actualizado": "2026-09-15 16:37",
+ "fecha": "2026-09-16",
+ "actualizado": "2026-09-16 08:59",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-05",
   "2026-09-06",
   "2026-09-07",
   "2026-09-08",
@@ -19,9 +18,10 @@
   "2026-09-12",
   "2026-09-13",
   "2026-09-14",
-  "2026-09-15"
+  "2026-09-15",
+  "2026-09-16"
  ],
- "total": 20,
+ "total": 36,
  "ofertas": [
   {
    "n": "Plato Hondo Transparente Vidrio Gema Durax",
@@ -55,6 +55,37 @@
    }
   },
   {
+   "n": "Alimento Dog Chow Alta Proteína 2,7 Kg",
+   "m": "DOG CHOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817950/Alimento-Dogchow-Alta-Proteina-X2-7kg-1-999177.jpg?v=638481882924670000",
+   "cadena": "Vea",
+   "precio": 6795.0,
+   "link": "https://www.vea.com.ar/alimento-dog-chow-alta-proteina-2-7-kg/p",
+   "referencia": 13590.0,
+   "precio_2da": 13259.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.8,
+   "score": 2438,
+   "pr": {
+    "Vea": [
+     6795.0,
+     "https://www.vea.com.ar/alimento-dog-chow-alta-proteina-2-7-kg/p"
+    ],
+    "Comodín": [
+     13411.89,
+     "https://www.comodinencasa.com.ar/alim-dchow-perro-adulto-a-proteina-2-7kg/p"
+    ],
+    "ChangoMás": [
+     13259.0,
+     "https://www.masonline.com.ar/alimento-para-perros-dog-chow-adultos-sabor-a-carne-pollo-y-huevo-2-7kg-2/p"
+    ],
+    "Carrefour": [
+     13259.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-dog-chow-adulto-alta-proteina-27-kg-727206/p"
+    ]
+   }
+  },
+  {
    "n": "Alfajor relleno pasta de maní Full Maní 40 grs",
    "m": "Full Mani",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884798/7790380025191_E02.jpg?v=639160238678270000",
@@ -82,149 +113,261 @@
    }
   },
   {
-   "n": "Leche Sabor Chocolate 190 Ml Nestle",
-   "m": "NESTLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
+   "n": "Enjuague bucal Gum antibacterial menta intensa 500 ml",
+   "m": "Gum",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/630291/7798142356705_01.jpg?v=638772182618300000",
    "cadena": "Jumbo",
-   "precio": 1475.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p",
-   "referencia": 2950.0,
-   "precio_2da": 2829.0,
+   "precio": 6275.0,
+   "link": "https://www.jumbo.com.ar/enjuague-antibacterial-menta-intensa-x-500-ml-gum/p",
+   "referencia": 12550.0,
+   "precio_2da": 11889.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2393,
+   "brecha_pct": 47.2,
+   "score": 2361,
    "pr": {
-    "Jumbo": [
-     1475.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
-    ],
     "Carrefour": [
-     2829.0,
-     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
+     11889.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-gum-antibacterial-menta-intensa-500-ml-758904/p"
+    ],
+    "Jumbo": [
+     6275.0,
+     "https://www.jumbo.com.ar/enjuague-antibacterial-menta-intensa-x-500-ml-gum/p"
     ],
     "ChangoMás": [
-     2829.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+     11889.0,
+     "https://www.masonline.com.ar/enjuague-bucal-gum-fuerte-500-ml/p"
     ]
    }
   },
   {
-   "n": "Desodorante Antitranspirante Dove Men Invisible Dry en Aerosol 150 ml",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917322/7791293022819_01.jpg?v=639228553760800000",
-   "cadena": "Comodín",
-   "precio": 2399.4,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-aer-invisible-dry-x-89-gr/p",
-   "referencia": 3999.0,
-   "precio_2da": 5290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 54.6,
-   "score": 2186,
+   "n": "Nestlé Leche Condensada Sabor Limón 395 grs",
+   "m": "Nestlé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/911014/8445290900630_01.jpg?v=639216386337570000",
+   "cadena": "Carrefour",
+   "precio": 2659.05,
+   "link": "https://www.carrefour.com.ar/nestle-leche-condensada-sabor-limon-395-grs-774578/p",
+   "referencia": 5909.0,
+   "precio_2da": 4390.0,
+   "baja_pct": 55.0,
+   "brecha_pct": 39.4,
+   "score": 2169,
    "pr": {
     "Carrefour": [
-     5290.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-dove-men-invisible-dry-en-aerosol-150-ml-554156/p"
-    ],
-    "Vea": [
-     5290.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-dove-men-care-invisible-dry-150-ml/p"
-    ],
-    "Jumbo": [
-     5800.0,
-     "https://www.jumbo.com.ar/desodorante-antitranspirante-dove-men-care-invisible-dry-150-ml/p"
-    ],
-    "Comodín": [
-     2399.4,
-     "https://www.comodinencasa.com.ar/deo-dove-aer-invisible-dry-x-89-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante Antitranspirante Men Extra Fresh 150 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/685707/Desodorante-Antitranspirante-Dove-Men-Extra-Fresh-En-Aerosol-150-Ml-1-22232.jpg?v=637787433997500000",
-   "cadena": "Comodín",
-   "precio": 2399.4,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-ap-extra-fresh-x-89-gr/p",
-   "referencia": 3999.0,
-   "precio_2da": 5190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 53.8,
-   "score": 2151,
-   "pr": {
-    "Vea": [
-     5190.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-dove-men-extra-fresh-en-aerosol-150-ml/p"
-    ],
-    "Jumbo": [
-     5800.0,
-     "https://www.jumbo.com.ar/desodorante-antitranspirante-dove-men-extra-fresh-en-aerosol-150-ml/p"
-    ],
-    "Comodín": [
-     2399.4,
-     "https://www.comodinencasa.com.ar/deo-dove-ap-extra-fresh-x-89-gr/p"
-    ],
-    "Carrefour": [
-     5290.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-aerosol-dove-men-extra-fresh-150-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche infantil Nutrilon profutura Etapa 3 brick 200 ml",
-   "m": "Nutrilon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922331/7795323775348_01.jpg?v=639238860605070000",
-   "cadena": "ChangoMás",
-   "precio": 1679.0,
-   "link": "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p",
-   "referencia": 3029.0,
-   "precio_2da": 3029.0,
-   "baja_pct": 44.6,
-   "brecha_pct": 44.6,
-   "score": 1986,
-   "pr": {
-    "Carrefour": [
-     3029.0,
-     "https://www.carrefour.com.ar/leche-infantil-nutrilon-profutura-etapa-3-brick-200-ml-722959/p"
-    ],
-    "Comodín": [
-     3140.79,
-     "https://www.comodinencasa.com.ar/leche-nutrilon-pro-f-premiun3-bk-200ml/p"
+     2659.05,
+     "https://www.carrefour.com.ar/nestle-leche-condensada-sabor-limon-395-grs-774578/p"
     ],
     "ChangoMás": [
-     1679.0,
-     "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p"
+     5909.0,
+     "https://www.masonline.com.ar/leche-condensada-nestle-limon-395-g/p"
+    ],
+    "Vea": [
+     5490.0,
+     "https://www.vea.com.ar/leche-condensada-organica-395-grs-nestle/p"
+    ],
+    "Comodín": [
+     4787.19,
+     "https://www.comodinencasa.com.ar/leche-condensada-nestle-light-395gr/p"
+    ],
+    "Tuchanguito": [
+     4390.0,
+     "https://www.tuchanguito.com.ar/productos/leche-nestle-condensada-descremada-395-gr/"
     ]
    }
   },
   {
-   "n": "Desodorante Roll-on Go Fresh Granada y Verbena 50 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869743/Antitranspirante-Fresh-Care-Granada-Y-Verbena-Roll-on-50-Ml-Dove-1-945760.jpg?v=638844753956770000",
-   "cadena": "Comodín",
-   "precio": 1799.4,
-   "link": "https://www.comodinencasa.com.ar/antitranspirante-dove-rol-granada-y-verbena-50ml/p",
-   "referencia": 2999.0,
-   "precio_2da": 3390.0,
+   "n": "Aderezo de Mayonesa Sabor Guacamole 305 Grs Herdez",
+   "m": "HERDEZ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/900849/Aderezo-De-Mayonesa-Sabor-Guacamole-305Gr-Herdez-Aderezo-De-Mayonesa-Herdez-Sabor-Guacamole-305-1-1054966.jpg?v=639082354027700000",
+   "cadena": "Jumbo",
+   "precio": 4650.0,
+   "link": "https://www.jumbo.com.ar/aderezo-de-mayonesa-sabor-guacamole-305gr-herdez/p",
+   "referencia": 7750.0,
+   "precio_2da": 9879.0,
    "baja_pct": 40.0,
-   "brecha_pct": 46.9,
-   "score": 1877,
+   "brecha_pct": 52.9,
+   "score": 2117,
    "pr": {
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/antitranspirante-fresh-care-granada-y-verbena-roll-on-50-ml-dove/p"
-    ],
     "Jumbo": [
-     3800.0,
-     "https://www.jumbo.com.ar/antitranspirante-fresh-care-granada-y-verbena-roll-on-50-ml-dove/p"
+     4650.0,
+     "https://www.jumbo.com.ar/aderezo-de-mayonesa-sabor-guacamole-305gr-herdez/p"
+    ],
+    "ChangoMás": [
+     9879.0,
+     "https://www.masonline.com.ar/mayonesa-herdez-guacamole-305-g/p"
     ],
     "Carrefour": [
-     3390.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-roll-on-dove-go-fresh-50-cc/p"
+     9879.0,
+     "https://www.carrefour.com.ar/aderezo-de-mayonesa-herdez-sabor-guacamole-305-grs-765779/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante Antitranspirante Rexona Clinical Classic en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922070/7506306214989_01.jpg?v=639238751920730000",
+   "cadena": "Comodín",
+   "precio": 2819.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-class-96h-150ml/p",
+   "referencia": 4699.0,
+   "precio_2da": 5268.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.5,
+   "score": 1859,
+   "pr": {
+    "Carrefour": [
+     5769.0,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-clinical-classic-en-aerosol-150-ml-723624/p"
+    ],
+    "Jumbo": [
+     5268.0,
+     "https://www.jumbo.com.ar/antitranspirante-en-aerosol-rexona-clinical-classic-150-ml/p"
     ],
     "Comodín": [
-     1799.4,
-     "https://www.comodinencasa.com.ar/antitranspirante-dove-rol-granada-y-verbena-50ml/p"
+     2819.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-class-96h-150ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Dolca Original 100 grs",
+   "m": "Dolca",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849650/8445291082199_01.jpg?v=639119693404200000",
+   "cadena": "Carrefour",
+   "precio": 4590.0,
+   "link": "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p",
+   "referencia": 8324.5,
+   "precio_2da": 7490.0,
+   "baja_pct": 44.9,
+   "brecha_pct": 38.7,
+   "score": 1737,
+   "pr": {
+    "Carrefour": [
+     4590.0,
+     "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p"
+    ],
+    "Vea": [
+     7490.0,
+     "https://www.vea.com.ar/cafe-original100-grs-nescafe-dolca/p"
+    ],
+    "Jumbo": [
+     10500.0,
+     "https://www.jumbo.com.ar/cafe-original100-grs-nescafe-dolca/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Pera 7grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814699/7622201703202_E01.jpg?v=639082501012000000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Clight limonada rosa 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812003/7622201682026_E01.jpg?v=639082498632170000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Naranja Durazno 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812045/7622201702717_E01.jpg?v=639082499464530000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
     ]
    }
   },
@@ -256,6 +399,37 @@
     "ChangoMás": [
      11499.0,
      "https://www.masonline.com.ar/bolsa-ziploc-chica-50u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Maíz La Española Gourmet Pisado 400 Gr",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645174/Ma-z-La-Espa-ola-Gourmet-Pisado-400-Gr-1-28151.jpg?v=637578552935000000",
+   "cadena": "Vea",
+   "precio": 567.0,
+   "link": "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p",
+   "referencia": 945.0,
+   "precio_2da": 975.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.8,
+   "score": 1674,
+   "pr": {
+    "Vea": [
+     567.0,
+     "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
+    ],
+    "Jumbo": [
+     975.0,
+     "https://www.jumbo.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
+    ],
+    "Carrefour": [
+     1650.0,
+     "https://www.carrefour.com.ar/maiz-blanco-molido-la-espanola-en-bolsa-400-grs-547445/p"
+    ],
+    "Comodín": [
+     1520.49,
+     "https://www.comodinencasa.com.ar/maiz-pisado-blanco-la-espanola-x-400gr/p"
     ]
    }
   },
@@ -322,110 +496,172 @@
    }
   },
   {
-   "n": "Pañal Pampers BabyDry G Jumbo 72un",
-   "m": "Pampers",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/178260/43548.png?v=638500770351330000",
-   "cadena": "Comodín",
-   "precio": 25928.69,
-   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p",
-   "referencia": 39890.29,
-   "precio_2da": 47769.15,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.7,
-   "score": 1600,
+   "n": "Café Sabor Espresso Macchiato 63 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875629/Capsulas-Cortado-116g-Dolce-Gusto-1-1035746.jpg?v=638872404192530000",
+   "cadena": "Carrefour",
+   "precio": 9999.0,
+   "link": "https://www.carrefour.com.ar/capsulas-de-cafe-cortado-dolce-gusto-10-uni-759430/p",
+   "referencia": 16665.0,
+   "precio_2da": 16800.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.5,
+   "score": 1619,
    "pr": {
-    "Comodín": [
-     25928.69,
-     "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p"
-    ],
-    "ChangoMás": [
-     47769.15,
-     "https://www.masonline.com.ar/panales-pampers-baby-dry-g-72un-2/p"
+    "Jumbo": [
+     16800.0,
+     "https://www.jumbo.com.ar/capsulas-espresso-macchiato-10-un-nescafe-dolce-gusto-2/p"
     ],
     "Carrefour": [
-     56199.0,
-     "https://www.carrefour.com.ar/panales-talle-g-pampers-babydry-72-uni-718019/p"
+     9999.0,
+     "https://www.carrefour.com.ar/capsulas-de-cafe-cortado-dolce-gusto-10-uni-759430/p"
+    ],
+    "ChangoMás": [
+     17309.0,
+     "https://www.masonline.com.ar/capsulas-de-cafe-nescafe-dolce-gusto-espresso-macchiato-10-u/p"
     ]
    }
   },
   {
-   "n": "Pañal Pampers BabyDry M Jumbo 72un",
-   "m": "Pampers",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/178261/43547.png?v=638500771574530000",
-   "cadena": "Comodín",
-   "precio": 25928.69,
-   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-m-jumbo-72un/p",
-   "referencia": 39890.29,
-   "precio_2da": 47769.15,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.7,
-   "score": 1600,
+   "n": "Aderezo Chedar 300 Gr Tau",
+   "m": "TAU DELTA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891488/Aderezo-Chedar-Tau-300-Gr-1-870516.jpg?v=638997897931300000",
+   "cadena": "Jumbo",
+   "precio": 3090.0,
+   "link": "https://www.jumbo.com.ar/aderezo-chedar-300-gr-tau/p",
+   "referencia": 5150.0,
+   "precio_2da": 5190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.5,
+   "score": 1618,
    "pr": {
-    "Comodín": [
-     25928.69,
-     "https://www.comodinencasa.com.ar/panal-pampers-babydry-m-jumbo-72un/p"
+    "Vea": [
+     5190.0,
+     "https://www.vea.com.ar/aderezo-chedar-300-gr-tau/p"
     ],
-    "ChangoMás": [
-     47769.15,
-     "https://www.masonline.com.ar/panales-pampers-baby-dry-m-72un-2/p"
+    "Jumbo": [
+     3090.0,
+     "https://www.jumbo.com.ar/aderezo-chedar-300-gr-tau/p"
     ],
     "Carrefour": [
-     56199.0,
-     "https://www.carrefour.com.ar/pampers-baby-dry-hipoalergenico-panales-desechables-talle-m-72-uni-718018/p"
+     5190.0,
+     "https://www.carrefour.com.ar/salsa-cheddar-tau-botella-pet-300-g/p"
     ]
    }
   },
   {
-   "n": "Pañales Deluxe Protection XG x 58 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808455/Pa-ales-Pampers-Deluxe-Prot-Xgd-58u-1-1006943.jpg?v=638422478356400000",
-   "cadena": "Comodín",
-   "precio": 33989.99,
-   "link": "https://www.comodinencasa.com.ar/panal-pampers-deluxe-pro-hiper-xg-58un/p",
-   "referencia": 52292.29,
-   "precio_2da": 62134.15,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.3,
-   "score": 1585,
+   "n": "Milanesa de soja rebozado Good Mark en caja 4 uni",
+   "m": "Good Mark",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854593/7790670052999_E02.jpg?v=639123155958400000",
+   "cadena": "Carrefour",
+   "precio": 2291.4,
+   "link": "https://www.carrefour.com.ar/milanesa-de-soja-rebozado-good-mark-en-caja-4-uni-760315/p",
+   "referencia": 3819.0,
+   "precio_2da": 3819.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
-    "Vea": [
-     63290.0,
-     "https://www.vea.com.ar/panales-deluxe-xg-x-58-un-pampers/p"
+    "Carrefour": [
+     2291.4,
+     "https://www.carrefour.com.ar/milanesa-de-soja-rebozado-good-mark-en-caja-4-uni-760315/p"
     ],
-    "Comodín": [
-     33989.99,
-     "https://www.comodinencasa.com.ar/panal-pampers-deluxe-pro-hiper-xg-58un/p"
+    "Vea": [
+     3990.0,
+     "https://www.vea.com.ar/medallon-de-soja-4-un-x-340-gr-good-mark/p"
+    ],
+    "Jumbo": [
+     4250.0,
+     "https://www.jumbo.com.ar/medallon-de-soja-4-un-x-340-gr-good-mark/p"
     ],
     "ChangoMás": [
-     62134.15,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-xg-58un-2/p"
+     3819.0,
+     "https://www.masonline.com.ar/milanesas-de-soja-goodmark-4-u-340-g/p"
     ]
    }
   },
   {
-   "n": "Pañales Deluxe Protection G x 72 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808457/Pa-ales-Pampers-Deluxe-Prot-Gde-72u-1-1006945.jpg?v=638422478369400000",
-   "cadena": "Comodín",
-   "precio": 33989.99,
-   "link": "https://www.comodinencasa.com.ar/panal-pampers-deluxe-pro-hiper-g-72un/p",
-   "referencia": 52292.29,
-   "precio_2da": 62134.15,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.3,
-   "score": 1585,
+   "n": "Cápsulas Café Sabor Latte Macchiato Premium Brasil 112,5 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875627/Capsulas-Lattemacchiato-166g-Dolce-Gusto-1-1035744.jpg?v=638872404182670000",
+   "cadena": "Carrefour",
+   "precio": 8519.4,
+   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p",
+   "referencia": 14199.0,
+   "precio_2da": 14199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
     "Vea": [
-     63290.0,
-     "https://www.vea.com.ar/panales-deluxe-g-x-72-un-pampers/p"
-    ],
-    "Comodín": [
-     33989.99,
-     "https://www.comodinencasa.com.ar/panal-pampers-deluxe-pro-hiper-g-72un/p"
+     14199.0,
+     "https://www.vea.com.ar/capsulas-latte-macchiato-5-un-nescafe-dolce-gusto/p"
     ],
     "ChangoMás": [
-     62134.15,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-g-72un-2/p"
+     17309.0,
+     "https://www.masonline.com.ar/cafe-en-capsulas-nescafe-dolce-gusto-latte-macchiato-10-u/p"
+    ],
+    "Carrefour": [
+     8519.4,
+     "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p"
+    ]
+   }
+  },
+  {
+   "n": "Café con Leche Premium 158 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875628/Capsulas-Au-Lait-158g-Dolce-Gusto-1-1035745.jpg?v=638872404187330000",
+   "cadena": "Carrefour",
+   "precio": 8094.0,
+   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-cafe-con-leche-10-uni-731464/p",
+   "referencia": 13490.0,
+   "precio_2da": 13490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     13490.0,
+     "https://www.vea.com.ar/cafe-con-leche-158-grs-10-un-dolce-gusto/p"
+    ],
+    "Jumbo": [
+     16800.0,
+     "https://www.jumbo.com.ar/cafe-con-leche-158-grs-10-un-dolce-gusto/p"
+    ],
+    "Carrefour": [
+     8094.0,
+     "https://www.carrefour.com.ar/nescafe-dolce-gusto-cafe-con-leche-10-uni-731464/p"
+    ],
+    "ChangoMás": [
+     17309.0,
+     "https://www.masonline.com.ar/capsulas-de-cafe-nescafe-dolce-gusto-con-leche-10-u/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Lungo Premium 124 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918122/7891000421390.jpg?v=639166146230770000",
+   "cadena": "Carrefour",
+   "precio": 8519.4,
+   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-lungo-10-uni-759431/p",
+   "referencia": 14199.0,
+   "precio_2da": 14199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     14199.0,
+     "https://www.vea.com.ar/capsulas-lungo-10-un-nescafe-dolce-gusto-2/p"
+    ],
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/capsulas-lungo-10-un-nescafe-dolce-gusto-2/p"
+    ],
+    "Carrefour": [
+     8519.4,
+     "https://www.carrefour.com.ar/nescafe-dolce-gusto-lungo-10-uni-759431/p"
     ]
    }
   },
@@ -443,7 +679,7 @@
    "score": 1584,
    "pr": {
     "Carrefour": [
-     7550.0,
+     7346.15,
      "https://www.carrefour.com.ar/papa-tradicional-mc-cain-700-g-724922/p"
     ],
     "Vea": [
@@ -465,141 +701,369 @@
    }
   },
   {
-   "n": "Jabón de Tocador Naturals Oliva y Aloe Vera 125 Grs Palmolive",
-   "m": "PALMOLIVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923236/7509546703213_01.jpg?v=639215582056370000",
-   "cadena": "Vea",
-   "precio": 970.0,
-   "link": "https://www.vea.com.ar/jabon-en-barra-naturals-aloe-vera-y-oliva-x-125-grs-palmolive-2/p",
-   "referencia": 1590.0,
-   "precio_2da": 1629.0,
-   "baja_pct": 39.0,
-   "brecha_pct": 40.5,
-   "score": 1577,
-   "pr": {
-    "Vea": [
-     970.0,
-     "https://www.vea.com.ar/jabon-en-barra-naturals-aloe-vera-y-oliva-x-125-grs-palmolive-2/p"
-    ],
-    "Jumbo": [
-     1650.0,
-     "https://www.jumbo.com.ar/jabon-en-barra-naturals-aloe-vera-y-oliva-x-125-grs-palmolive-2/p"
-    ],
-    "ChangoMás": [
-     1629.0,
-     "https://www.masonline.com.ar/jabon-de-tocador-palmolive-oliva-y-aloe-125-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jabón de Tocador Dove Leche de Coco 90 grs",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917303/7891150034075_01.jpg?v=639228549773670000",
-   "cadena": "Comodín",
-   "precio": 1253.0,
-   "link": "https://www.comodinencasa.com.ar/jabon-dove-leche-de-coco-90-gr/p",
-   "referencia": 1790.0,
-   "precio_2da": 2590.0,
-   "baja_pct": 30.0,
-   "brecha_pct": 51.6,
-   "score": 1549,
+   "n": "Mayonesa Natura 475 g.",
+   "m": "Natura",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898539/7791866001364_E02.jpg?v=639186154883200000",
+   "cadena": "Jumbo",
+   "precio": 1812.6,
+   "link": "https://www.jumbo.com.ar/aderezo-mayonesa-475-gr-natura/p",
+   "referencia": 3021.0,
+   "precio_2da": 2990.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.4,
+   "score": 1575,
    "pr": {
     "Carrefour": [
-     2590.0,
-     "https://www.carrefour.com.ar/jabon-de-tocador-dove-leche-de-coco-90-grs-619284/p"
+     2990.0,
+     "https://www.carrefour.com.ar/mayonesa-natura-475-g/p"
     ],
-    "Comodín": [
-     1253.0,
-     "https://www.comodinencasa.com.ar/jabon-dove-leche-de-coco-90-gr/p"
-    ],
-    "ChangoMás": [
-     2849.0,
-     "https://www.masonline.com.ar/jabon-de-tocador-dove-leche-de-coco-90grs-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante Antitranspirante Dove Men Prot Total 250ml",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/902481/Desodorante-Antitranspirante-Dove-Men-Prot-Total-250ml-1-1056248.jpg?v=639100594463170000",
-   "cadena": "Comodín",
-   "precio": 4479.11,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-men-ap-prot-total-250ml/p",
-   "referencia": 7465.19,
-   "precio_2da": 7290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1542,
-   "pr": {
     "Vea": [
-     7290.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-dove-men-prot-total-250ml-5/p"
+     2990.0,
+     "https://www.vea.com.ar/aderezo-mayonesa-475-gr-natura/p"
     ],
     "Jumbo": [
-     7700.0,
-     "https://www.jumbo.com.ar/desodorante-antitranspirante-dove-men-prot-total-250ml-5/p"
-    ],
-    "Comodín": [
-     4479.11,
-     "https://www.comodinencasa.com.ar/deo-dove-men-ap-prot-total-250ml/p"
+     1812.6,
+     "https://www.jumbo.com.ar/aderezo-mayonesa-475-gr-natura/p"
     ]
    }
   },
   {
-   "n": "Chocolate Sabor Castañas de Cajú Diplomata 80 Grs Nestle",
-   "m": "NESTLE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875527/Chocolate-Con-Casta-as-Diplomata-Nestl-80-Gr-1-942888.jpg?v=638872403755330000",
+   "n": "Mayonesa Heinz limón 200 g.",
+   "m": "Heinz",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898630/7798146138185_E02.jpg?v=639186178518430000",
    "cadena": "Jumbo",
-   "precio": 3510.0,
-   "link": "https://www.jumbo.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p",
-   "referencia": 5850.0,
-   "precio_2da": 5690.0,
+   "precio": 1020.0,
+   "link": "https://www.jumbo.com.ar/mayonesa-heinz-200-gr/p",
+   "referencia": 1700.0,
+   "precio_2da": 1679.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.2,
+   "score": 1570,
+   "pr": {
+    "Carrefour": [
+     1679.0,
+     "https://www.carrefour.com.ar/mayonesa-heinz-limon-200-g/p"
+    ],
+    "Vea": [
+     1690.0,
+     "https://www.vea.com.ar/mayonesa-heinz-200-gr/p"
+    ],
+    "Jumbo": [
+     1020.0,
+     "https://www.jumbo.com.ar/mayonesa-heinz-200-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Formitas de pollo Sadia Nugget Saurio 400 grs",
+   "m": "Sadia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861263/7891515629458_E02.jpg?v=639130066692470000",
+   "cadena": "Carrefour",
+   "precio": 4461.0,
+   "link": "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p",
+   "referencia": 7435.0,
+   "precio_2da": 7248.79,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.5,
+   "score": 1538,
+   "pr": {
+    "Carrefour": [
+     4461.0,
+     "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p"
+    ],
+    "Vea": [
+     7400.0,
+     "https://www.vea.com.ar/nuggets-saurio-x-400-gr-sadia/p"
+    ],
+    "Comodín": [
+     7248.79,
+     "https://www.comodinencasa.com.ar/nuggets-de-pollo-sadia-saurio-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Máquina de afeitar Bic Comfort 3 Soleil 2 u.",
+   "m": "Bic",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/188600/70330731769_01.jpg?v=637474621081600000",
+   "cadena": "Jumbo",
+   "precio": 2640.0,
+   "link": "https://www.jumbo.com.ar/maquina-desechable-bic-soleil-rosa-y-naranja-2u/p",
+   "referencia": 4400.0,
+   "precio_2da": 4279.0,
    "baja_pct": 40.0,
    "brecha_pct": 38.3,
-   "score": 1533,
+   "score": 1532,
    "pr": {
+    "Carrefour": [
+     4279.0,
+     "https://www.carrefour.com.ar/maquina-de-afeitar-bic-comfort-3-soleil-2-u/p"
+    ],
     "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
+     4390.0,
+     "https://www.vea.com.ar/maquina-desechable-bic-soleil-rosa-y-naranja-2u/p"
     ],
     "Jumbo": [
-     3510.0,
-     "https://www.jumbo.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     6069.0,
-     "https://www.masonline.com.ar/tableta-nestle-diplomata-80g-2/p"
+     2640.0,
+     "https://www.jumbo.com.ar/maquina-desechable-bic-soleil-rosa-y-naranja-2u/p"
     ]
    }
   },
   {
-   "n": "Cepillo de dientes Colgate Kids 1 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/348146/7793100151224_01.jpg?v=638237437848900000",
+   "n": "Protectores Diarios Xtra Sin Perfume x 80 Un Always",
+   "m": "ALWAYS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/815526/Always-Xtra-Diarios-Respirable-Protectores-Diarios-80-Unidades-1-989506.jpg?v=638464701842770000",
    "cadena": "Jumbo",
-   "precio": 1250.0,
-   "link": "https://www.jumbo.com.ar/cepillo-de-dientes-kids-1-un-colgate/p",
-   "referencia": 2500.0,
-   "precio_2da": 1792.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.3,
-   "score": 1513,
+   "precio": 10440.0,
+   "link": "https://www.jumbo.com.ar/protectores-diarios-xtra-80-un-respirables-sin-perfume-always/p",
+   "referencia": 17400.0,
+   "precio_2da": 16890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1528,
    "pr": {
-    "Carrefour": [
-     1792.5,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-kids-1-uni-563169/p"
-    ],
     "Jumbo": [
-     1250.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-kids-1-un-colgate/p"
-    ],
-    "Comodín": [
-     2468.99,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-kids-2-anos-x-1un/p"
+     10440.0,
+     "https://www.jumbo.com.ar/protectores-diarios-xtra-80-un-respirables-sin-perfume-always/p"
     ],
     "ChangoMás": [
-     2449.0,
-     "https://www.masonline.com.ar/cepillo-dental-kids-2-dr-rabbit-colgate-2/p"
+     17279.0,
+     "https://www.masonline.com.ar/protectores-diarios-always-respirables-sin-perfume-80un-2/p"
+    ],
+    "Carrefour": [
+     16890.0,
+     "https://www.carrefour.com.ar/protector-diario-always-liners-respirable-80-uni-726087/p"
+    ]
+   }
+  },
+  {
+   "n": "Mostaza Original 500 Grs Savora",
+   "m": "SAVORA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/856850/Mostaza-Original-Doypack-500-Gr-Savora-Mostaza-Savora-Original-Doypack-500-Gr-1-940642.jpg?v=638755979775170000",
+   "cadena": "Jumbo",
+   "precio": 1950.0,
+   "link": "https://www.jumbo.com.ar/mostaza-savora-original-doypack-500-gr/p",
+   "referencia": 3250.0,
+   "precio_2da": 3150.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1524,
+   "pr": {
+    "Vea": [
+     3150.0,
+     "https://www.vea.com.ar/mostaza-savora-original-doypack-500-gr/p"
+    ],
+    "Jumbo": [
+     1950.0,
+     "https://www.jumbo.com.ar/mostaza-savora-original-doypack-500-gr/p"
+    ],
+    "ChangoMás": [
+     3159.0,
+     "https://www.masonline.com.ar/mostaza-savora-original-doypack-500gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas verdes Castell 100 g.",
+   "m": "Castell",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895631/7791675350011_02.jpg?v=639183350354670000",
+   "cadena": "Jumbo",
+   "precio": 930.0,
+   "link": "https://www.jumbo.com.ar/aceitunas-castell-verdes-100-gr/p",
+   "referencia": 1550.0,
+   "precio_2da": 1500.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1520,
+   "pr": {
+    "Carrefour": [
+     1500.0,
+     "https://www.carrefour.com.ar/aceitunas-verdes-castell-100-g-112644/p"
+    ],
+    "Jumbo": [
+     930.0,
+     "https://www.jumbo.com.ar/aceitunas-castell-verdes-100-gr/p"
+    ],
+    "ChangoMás": [
+     1983.2,
+     "https://www.masonline.com.ar/aceitunas-verdes-castell-sabor-ajo-100-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Salsa blanca Alicante sobre 40 g.",
+   "m": "Alicante",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/899565/7790150580424_01.jpg?v=639186959346600000",
+   "cadena": "Jumbo",
+   "precio": 1110.0,
+   "link": "https://www.jumbo.com.ar/salsa-blanca-alicante-40-gr/p",
+   "referencia": 1850.0,
+   "precio_2da": 1790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1520,
+   "pr": {
+    "Carrefour": [
+     1790.0,
+     "https://www.carrefour.com.ar/salsa-blanca-alicante-sobre-40-g-690050/p"
+    ],
+    "Vea": [
+     1790.0,
+     "https://www.vea.com.ar/salsa-blanca-alicante-40-gr/p"
+    ],
+    "Jumbo": [
+     1110.0,
+     "https://www.jumbo.com.ar/salsa-blanca-alicante-40-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Salsa de Soja Tradicional 500 Ml Dos Anclas",
+   "m": "DOS ANCLAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/901558/Salsa-De-Soja-Dos-Anclas-Tradicional-Sin-Tacc-1-837663.jpg?v=639087538474730000",
+   "cadena": "Jumbo",
+   "precio": 3960.0,
+   "link": "https://www.jumbo.com.ar/salsa-de-soja-dos-anclas-tradicional-sin-tacc/p",
+   "referencia": 6600.0,
+   "precio_2da": 6362.79,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1511,
+   "pr": {
+    "Jumbo": [
+     3960.0,
+     "https://www.jumbo.com.ar/salsa-de-soja-dos-anclas-tradicional-sin-tacc/p"
+    ],
+    "Comodín": [
+     6362.79,
+     "https://www.comodinencasa.com.ar/salsa-de-soja-dos-anclas-trad-500cc/p"
+    ],
+    "Carrefour": [
+     6400.0,
+     "https://www.carrefour.com.ar/salsa-de-soja-dos-anclas-libre-de-gluten-500-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas verdes Nucete frasco 200 g.",
+   "m": "Nucete",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895628/7792070004523_01.jpg?v=639183349732730000",
+   "cadena": "Jumbo",
+   "precio": 2490.0,
+   "link": "https://www.jumbo.com.ar/aceitunas-nucete-verdes-200-gr/p",
+   "referencia": 4150.0,
+   "precio_2da": 4000.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1510,
+   "pr": {
+    "Carrefour": [
+     4000.0,
+     "https://www.carrefour.com.ar/aceitunas-verdes-nucete-frasco-200-g/p"
+    ],
+    "Vea": [
+     4000.0,
+     "https://www.vea.com.ar/aceitunas-nucete-verdes-200-gr/p"
+    ],
+    "Jumbo": [
+     2490.0,
+     "https://www.jumbo.com.ar/aceitunas-nucete-verdes-200-gr/p"
+    ],
+    "ChangoMás": [
+     4059.0,
+     "https://www.masonline.com.ar/aceitunas-verdes-nucete-en-salmuera-200-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Salsa Sabor Golf 250 Grs Hellmann's",
+   "m": "HELLMANN´S",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/806762/Aderezo-Hellmanns-Salsa-Golf-250-G-Doypack-1-999916.jpg?v=638403359171270000",
+   "cadena": "Jumbo",
+   "precio": 1830.0,
+   "link": "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p",
+   "referencia": 3050.0,
+   "precio_2da": 2939.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1509,
+   "pr": {
+    "Vea": [
+     2990.0,
+     "https://www.vea.com.ar/salsa-golf-hellmanns-250-gr/p"
+    ],
+    "Jumbo": [
+     1830.0,
+     "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p"
+    ],
+    "Comodín": [
+     3138.79,
+     "https://www.comodinencasa.com.ar/salsa-golf-hellmanns-dp-sin-tacc-x-237gr/p"
+    ],
+    "Carrefour": [
+     2939.0,
+     "https://www.carrefour.com.ar/aderezo-hellmanns-salsa-golf-doypack-250-g-731025/p"
+    ],
+    "ChangoMás": [
+     2939.0,
+     "https://www.masonline.com.ar/salsa-golf-hellmans-250-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mayonesa Heinz con jugo de limón 350 g.",
+   "m": "Heinz",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898629/7798146138178_E02.jpg?v=639186178380730000",
+   "cadena": "Jumbo",
+   "precio": 1620.0,
+   "link": "https://www.jumbo.com.ar/mayonesa-heinz-350-gr/p",
+   "referencia": 2700.0,
+   "precio_2da": 2599.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1507,
+   "pr": {
+    "Carrefour": [
+     2599.0,
+     "https://www.carrefour.com.ar/mayonesa-heinz-con-jugo-de-limon-350-g-21980/p"
+    ],
+    "Vea": [
+     2599.0,
+     "https://www.vea.com.ar/mayonesa-heinz-350-gr/p"
+    ],
+    "Jumbo": [
+     1620.0,
+     "https://www.jumbo.com.ar/mayonesa-heinz-350-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Ketchup Natura 500 cc.",
+   "m": "Natura",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898637/7791866000664_E02.jpg?v=639186180714130000",
+   "cadena": "Jumbo",
+   "precio": 2220.0,
+   "link": "https://www.jumbo.com.ar/ketchup-natura-500-gr/p",
+   "referencia": 3700.0,
+   "precio_2da": 3559.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1505,
+   "pr": {
+    "Carrefour": [
+     3600.0,
+     "https://www.carrefour.com.ar/ketchup-natura-500-cc/p"
+    ],
+    "Vea": [
+     3600.0,
+     "https://www.vea.com.ar/ketchup-natura-500-gr/p"
+    ],
+    "Jumbo": [
+     2220.0,
+     "https://www.jumbo.com.ar/ketchup-natura-500-gr/p"
+    ],
+    "ChangoMás": [
+     3559.0,
+     "https://www.masonline.com.ar/ketchup-natura-500-gr-2/p"
     ]
    }
   }
