@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-16",
- "actualizado": "2026-09-16 08:59",
+ "actualizado": "2026-09-16 15:44",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -202,33 +202,6 @@
    }
   },
   {
-   "n": "Desodorante Antitranspirante Rexona Clinical Classic en Aerosol 150 ml",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922070/7506306214989_01.jpg?v=639238751920730000",
-   "cadena": "Comodín",
-   "precio": 2819.4,
-   "link": "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-class-96h-150ml/p",
-   "referencia": 4699.0,
-   "precio_2da": 5268.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 46.5,
-   "score": 1859,
-   "pr": {
-    "Carrefour": [
-     5769.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-clinical-classic-en-aerosol-150-ml-723624/p"
-    ],
-    "Jumbo": [
-     5268.0,
-     "https://www.jumbo.com.ar/antitranspirante-en-aerosol-rexona-clinical-classic-150-ml/p"
-    ],
-    "Comodín": [
-     2819.4,
-     "https://www.comodinencasa.com.ar/deo-rexona-w-clinical-class-96h-150ml/p"
-    ]
-   }
-  },
-  {
    "n": "Nescafé Dolca Original 100 grs",
    "m": "Dolca",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849650/8445291082199_01.jpg?v=639119693404200000",
@@ -252,6 +225,64 @@
     "Jumbo": [
      10500.0,
      "https://www.jumbo.com.ar/cafe-original100-grs-nescafe-dolca/p"
+    ]
+   }
+  },
+  {
+   "n": "Maíz Pisingallo 400 Grs La Española Gourmet",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859494/Maiz-Pisingallo-Gourmet-400G-La-Espa-ola-Maiz-Pisingallo-La-Espa-ola-Gourmet-400g-1-1035569.jpg?v=638779198581830000",
+   "cadena": "Vea",
+   "precio": 255.0,
+   "link": "https://www.vea.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p",
+   "referencia": 425.0,
+   "precio_2da": 450.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.3,
+   "score": 1733,
+   "pr": {
+    "Vea": [
+     255.0,
+     "https://www.vea.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
+    ],
+    "Jumbo": [
+     450.0,
+     "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
+    ],
+    "Comodín": [
+     812.29,
+     "https://www.comodinencasa.com.ar/maiz-pisingallo-la-espanola-400gr/p"
+    ],
+    "ChangoMás": [
+     1279.0,
+     "https://www.masonline.com.ar/maiz-pisingallo-la-espanola-gourmet-400-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante Antitranspirante Rexona Sensitive en Aerosol 150 ml",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916784/7791293049496_01.jpg?v=639228329021170000",
+   "cadena": "Comodín",
+   "precio": 1919.4,
+   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p",
+   "referencia": 3199.0,
+   "precio_2da": 3367.5,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.0,
+   "score": 1720,
+   "pr": {
+    "Carrefour": [
+     4490.0,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-sensitive-en-aerosol-150-ml-726888/p"
+    ],
+    "Vea": [
+     3367.5,
+     "https://www.vea.com.ar/desodorante-rexona-sensitive-men-150-ml/p"
+    ],
+    "Comodín": [
+     1919.4,
+     "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p"
     ]
    }
   },
@@ -639,33 +670,6 @@
    }
   },
   {
-   "n": "Café Lungo Premium 124 Grs x 10 Un Dolce Gusto",
-   "m": "DOLCE GUSTO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918122/7891000421390.jpg?v=639166146230770000",
-   "cadena": "Carrefour",
-   "precio": 8519.4,
-   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-lungo-10-uni-759431/p",
-   "referencia": 14199.0,
-   "precio_2da": 14199.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     14199.0,
-     "https://www.vea.com.ar/capsulas-lungo-10-un-nescafe-dolce-gusto-2/p"
-    ],
-    "Jumbo": [
-     17850.0,
-     "https://www.jumbo.com.ar/capsulas-lungo-10-un-nescafe-dolce-gusto-2/p"
-    ],
-    "Carrefour": [
-     8519.4,
-     "https://www.carrefour.com.ar/nescafe-dolce-gusto-lungo-10-uni-759431/p"
-    ]
-   }
-  },
-  {
    "n": "Papa tradicional Mc cain 700 g.",
    "m": "Mc Cain",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845817/7797906054826_01.jpg?v=639111875654470000",
@@ -755,29 +759,33 @@
    }
   },
   {
-   "n": "Formitas de pollo Sadia Nugget Saurio 400 grs",
-   "m": "Sadia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861263/7891515629458_E02.jpg?v=639130066692470000",
-   "cadena": "Carrefour",
-   "precio": 4461.0,
-   "link": "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p",
-   "referencia": 7435.0,
-   "precio_2da": 7248.79,
+   "n": "Aceitunas verdes Nucete rellenas con morrón 200 g.",
+   "m": "Nucete",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895623/7792070000495_01.jpg?v=639183348822130000",
+   "cadena": "Jumbo",
+   "precio": 2850.0,
+   "link": "https://www.jumbo.com.ar/aceitunas-nucete-rellenas-con-morron-200-gr/p",
+   "referencia": 4750.0,
+   "precio_2da": 4690.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1538,
+   "brecha_pct": 39.2,
+   "score": 1569,
    "pr": {
     "Carrefour": [
-     4461.0,
-     "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-400-grs-764293/p"
+     4690.0,
+     "https://www.carrefour.com.ar/aceitunas-verdes-nucete-rellenas-con-morron-200-g/p"
     ],
     "Vea": [
-     7400.0,
-     "https://www.vea.com.ar/nuggets-saurio-x-400-gr-sadia/p"
+     4690.0,
+     "https://www.vea.com.ar/aceitunas-nucete-rellenas-con-morron-200-gr/p"
     ],
-    "Comodín": [
-     7248.79,
-     "https://www.comodinencasa.com.ar/nuggets-de-pollo-sadia-saurio-400gr/p"
+    "Jumbo": [
+     2850.0,
+     "https://www.jumbo.com.ar/aceitunas-nucete-rellenas-con-morron-200-gr/p"
+    ],
+    "ChangoMás": [
+     4779.0,
+     "https://www.masonline.com.ar/aceitunas-verdes-rellenas-nucete-con-morron-200-gr-2/p"
     ]
    }
   },
@@ -805,33 +813,6 @@
     "Jumbo": [
      2640.0,
      "https://www.jumbo.com.ar/maquina-desechable-bic-soleil-rosa-y-naranja-2u/p"
-    ]
-   }
-  },
-  {
-   "n": "Protectores Diarios Xtra Sin Perfume x 80 Un Always",
-   "m": "ALWAYS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/815526/Always-Xtra-Diarios-Respirable-Protectores-Diarios-80-Unidades-1-989506.jpg?v=638464701842770000",
-   "cadena": "Jumbo",
-   "precio": 10440.0,
-   "link": "https://www.jumbo.com.ar/protectores-diarios-xtra-80-un-respirables-sin-perfume-always/p",
-   "referencia": 17400.0,
-   "precio_2da": 16890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1528,
-   "pr": {
-    "Jumbo": [
-     10440.0,
-     "https://www.jumbo.com.ar/protectores-diarios-xtra-80-un-respirables-sin-perfume-always/p"
-    ],
-    "ChangoMás": [
-     17279.0,
-     "https://www.masonline.com.ar/protectores-diarios-always-respirables-sin-perfume-80un-2/p"
-    ],
-    "Carrefour": [
-     16890.0,
-     "https://www.carrefour.com.ar/protector-diario-always-liners-respirable-80-uni-726087/p"
     ]
    }
   },
@@ -913,6 +894,33 @@
     "Jumbo": [
      1110.0,
      "https://www.jumbo.com.ar/salsa-blanca-alicante-40-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Mostaza A La Antigua 360 Gr Arytza",
+   "m": "ARYTZA",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898823/7798126291046_02.jpg?v=639186221934870000",
+   "cadena": "Jumbo",
+   "precio": 4620.0,
+   "link": "https://www.jumbo.com.ar/mostaza-a-la-antigua-360-gr-arytza/p",
+   "referencia": 7700.0,
+   "precio_2da": 7450.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     7450.0,
+     "https://www.carrefour.com.ar/mostaza-antigua-arytza-en-frasco-360-g-712665/p"
+    ],
+    "Vea": [
+     7450.0,
+     "https://www.vea.com.ar/mostaza-a-la-antigua-360-gr-arytza/p"
+    ],
+    "Jumbo": [
+     4620.0,
+     "https://www.jumbo.com.ar/mostaza-a-la-antigua-360-gr-arytza/p"
     ]
    }
   },
