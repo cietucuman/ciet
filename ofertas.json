@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-16",
- "actualizado": "2026-09-16 15:44",
+ "fecha": "2026-09-17",
+ "actualizado": "2026-09-17 11:01",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-06",
   "2026-09-07",
   "2026-09-08",
   "2026-09-09",
@@ -19,9 +18,10 @@
   "2026-09-13",
   "2026-09-14",
   "2026-09-15",
-  "2026-09-16"
+  "2026-09-16",
+  "2026-09-17"
  ],
- "total": 36,
+ "total": 72,
  "ofertas": [
   {
    "n": "Plato Hondo Transparente Vidrio Gema Durax",
@@ -55,60 +55,60 @@
    }
   },
   {
-   "n": "Alimento Dog Chow Alta Proteína 2,7 Kg",
-   "m": "DOG CHOW",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817950/Alimento-Dogchow-Alta-Proteina-X2-7kg-1-999177.jpg?v=638481882924670000",
-   "cadena": "Vea",
-   "precio": 6795.0,
-   "link": "https://www.vea.com.ar/alimento-dog-chow-alta-proteina-2-7-kg/p",
-   "referencia": 13590.0,
-   "precio_2da": 13259.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.8,
-   "score": 2438,
+   "n": "Vino tinto Malbec Cafayate 750 ml",
+   "m": "Cafayate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
+   "cadena": "ChangoMás",
+   "precio": 3527.4,
+   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
+   "referencia": 9829.0,
+   "precio_2da": 5939.0,
+   "baja_pct": 64.1,
+   "brecha_pct": 40.6,
+   "score": 2603,
    "pr": {
-    "Vea": [
-     6795.0,
-     "https://www.vea.com.ar/alimento-dog-chow-alta-proteina-2-7-kg/p"
+    "Carrefour": [
+     5939.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
     ],
-    "Comodín": [
-     13411.89,
-     "https://www.comodinencasa.com.ar/alim-dchow-perro-adulto-a-proteina-2-7kg/p"
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
     ],
     "ChangoMás": [
-     13259.0,
-     "https://www.masonline.com.ar/alimento-para-perros-dog-chow-adultos-sabor-a-carne-pollo-y-huevo-2-7kg-2/p"
-    ],
-    "Carrefour": [
-     13259.0,
-     "https://www.carrefour.com.ar/alimento-seco-para-perro-dog-chow-adulto-alta-proteina-27-kg-727206/p"
+     3527.4,
+     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
     ]
    }
   },
   {
-   "n": "Alfajor relleno pasta de maní Full Maní 40 grs",
-   "m": "Full Mani",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884798/7790380025191_E02.jpg?v=639160238678270000",
-   "cadena": "Jumbo",
-   "precio": 475.0,
-   "link": "https://www.jumbo.com.ar/alfajor-con-pasta-de-mani-x-40-grs-full-mani/p",
-   "referencia": 950.0,
-   "precio_2da": 912.0,
+   "n": "Cacao en polvo Chocolino bolsa 180 g.",
+   "m": "Chocolino",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324458/7790150830444_E01.jpg?v=638197801477370000",
+   "cadena": "ChangoMás",
+   "precio": 1229.5,
+   "link": "https://www.masonline.com.ar/cacao-chocolino-fortificado-180gr-2/p",
+   "referencia": 2459.0,
+   "precio_2da": 2459.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2396,
+   "brecha_pct": 50.0,
+   "score": 2500,
    "pr": {
     "Carrefour": [
-     912.0,
-     "https://www.carrefour.com.ar/alfajor-relleno-pasta-de-mani-full-mani-40-grs-779252/p"
+     2459.0,
+     "https://www.carrefour.com.ar/cacao-en-polvo-chocolino-bolsa-180-g/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/cacao-chocolino-180-gr-2/p"
     ],
     "Jumbo": [
-     475.0,
-     "https://www.jumbo.com.ar/alfajor-con-pasta-de-mani-x-40-grs-full-mani/p"
+     2650.0,
+     "https://www.jumbo.com.ar/cacao-chocolino-180-gr-2/p"
     ],
     "ChangoMás": [
-     949.0,
-     "https://www.masonline.com.ar/alfajor-full-mani-40-g/p"
+     1229.5,
+     "https://www.masonline.com.ar/cacao-chocolino-fortificado-180gr-2/p"
     ]
    }
   },
@@ -140,37 +140,29 @@
    }
   },
   {
-   "n": "Nestlé Leche Condensada Sabor Limón 395 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/911014/8445290900630_01.jpg?v=639216386337570000",
-   "cadena": "Carrefour",
-   "precio": 2659.05,
-   "link": "https://www.carrefour.com.ar/nestle-leche-condensada-sabor-limon-395-grs-774578/p",
-   "referencia": 5909.0,
-   "precio_2da": 4390.0,
-   "baja_pct": 55.0,
-   "brecha_pct": 39.4,
-   "score": 2169,
+   "n": "Cacao en polvo Chocolino bolsa 800 g.",
+   "m": "Chocolino",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324432/7790150830482_E01.jpg?v=638197801381970000",
+   "cadena": "ChangoMás",
+   "precio": 5414.5,
+   "link": "https://www.masonline.com.ar/cacao-chocolino-fortificado-900gr-2/p",
+   "referencia": 10829.0,
+   "precio_2da": 10190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2343,
    "pr": {
     "Carrefour": [
-     2659.05,
-     "https://www.carrefour.com.ar/nestle-leche-condensada-sabor-limon-395-grs-774578/p"
+     10190.0,
+     "https://www.carrefour.com.ar/cacao-en-polvo-chocolino-bolsa-800-g/p"
+    ],
+    "Jumbo": [
+     11000.0,
+     "https://www.jumbo.com.ar/cacao-chocolino-800g-2/p"
     ],
     "ChangoMás": [
-     5909.0,
-     "https://www.masonline.com.ar/leche-condensada-nestle-limon-395-g/p"
-    ],
-    "Vea": [
-     5490.0,
-     "https://www.vea.com.ar/leche-condensada-organica-395-grs-nestle/p"
-    ],
-    "Comodín": [
-     4787.19,
-     "https://www.comodinencasa.com.ar/leche-condensada-nestle-light-395gr/p"
-    ],
-    "Tuchanguito": [
-     4390.0,
-     "https://www.tuchanguito.com.ar/productos/leche-nestle-condensada-descremada-395-gr/"
+     5414.5,
+     "https://www.masonline.com.ar/cacao-chocolino-fortificado-900gr-2/p"
     ]
    }
   },
@@ -202,87 +194,338 @@
    }
   },
   {
-   "n": "Nescafé Dolca Original 100 grs",
-   "m": "Dolca",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849650/8445291082199_01.jpg?v=639119693404200000",
-   "cadena": "Carrefour",
-   "precio": 4590.0,
-   "link": "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p",
-   "referencia": 8324.5,
-   "precio_2da": 7490.0,
-   "baja_pct": 44.9,
-   "brecha_pct": 38.7,
-   "score": 1737,
-   "pr": {
-    "Carrefour": [
-     4590.0,
-     "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p"
-    ],
-    "Vea": [
-     7490.0,
-     "https://www.vea.com.ar/cafe-original100-grs-nescafe-dolca/p"
-    ],
-    "Jumbo": [
-     10500.0,
-     "https://www.jumbo.com.ar/cafe-original100-grs-nescafe-dolca/p"
-    ]
-   }
-  },
-  {
-   "n": "Maíz Pisingallo 400 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859494/Maiz-Pisingallo-Gourmet-400G-La-Espa-ola-Maiz-Pisingallo-La-Espa-ola-Gourmet-400g-1-1035569.jpg?v=638779198581830000",
-   "cadena": "Vea",
-   "precio": 255.0,
-   "link": "https://www.vea.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p",
-   "referencia": 425.0,
-   "precio_2da": 450.0,
+   "n": "Vino Chardonnay Capitulo Uno Ruca Malen 750 Ml",
+   "m": "RUCA MALEN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774494/Vino-Ruca-Malen-Cap-Uno-Chardonnay-750-1-947632.jpg?v=638150854115500000",
+   "cadena": "ChangoMás",
+   "precio": 7199.4,
+   "link": "https://www.masonline.com.ar/vino-blanco-ruca-malen-capitulo-uno-chardonnay-750ml-2/p",
+   "referencia": 11999.0,
+   "precio_2da": 14490.0,
    "baja_pct": 40.0,
-   "brecha_pct": 43.3,
-   "score": 1733,
+   "brecha_pct": 50.3,
+   "score": 2013,
    "pr": {
     "Vea": [
-     255.0,
-     "https://www.vea.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
+     14490.0,
+     "https://www.vea.com.ar/vino-ruca-malen-capitulo-uno-chardonnay-750/p"
     ],
     "Jumbo": [
-     450.0,
-     "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
-    ],
-    "Comodín": [
-     812.29,
-     "https://www.comodinencasa.com.ar/maiz-pisingallo-la-espanola-400gr/p"
+     15000.0,
+     "https://www.jumbo.com.ar/vino-ruca-malen-capitulo-uno-chardonnay-750/p"
     ],
     "ChangoMás": [
-     1279.0,
-     "https://www.masonline.com.ar/maiz-pisingallo-la-espanola-gourmet-400-g/p"
+     7199.4,
+     "https://www.masonline.com.ar/vino-blanco-ruca-malen-capitulo-uno-chardonnay-750ml-2/p"
     ]
    }
   },
   {
-   "n": "Desodorante Antitranspirante Rexona Sensitive en Aerosol 150 ml",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916784/7791293049496_01.jpg?v=639228329021170000",
-   "cadena": "Comodín",
-   "precio": 1919.4,
-   "link": "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p",
-   "referencia": 3199.0,
-   "precio_2da": 3367.5,
-   "baja_pct": 40.0,
-   "brecha_pct": 43.0,
-   "score": 1720,
+   "n": "Cafe Bonafide Sensaciones Suave 500Gr",
+   "m": "Bonafide",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/174910/Cafe-Bonafide-Sensaciones-Suave-500Gr.png?v=638209613728400000",
+   "cadena": "Carrefour",
+   "precio": 7117.5,
+   "link": "https://www.carrefour.com.ar/cafe-molido-torrado-suave-sensaciones-500-grs-102664/p",
+   "referencia": 12032.5,
+   "precio_2da": 13945.39,
+   "baja_pct": 40.8,
+   "brecha_pct": 49.0,
+   "score": 2000,
+   "pr": {
+    "Comodín": [
+     13945.39,
+     "https://www.comodinencasa.com.ar/cafe-bonafide-sensaciones-suave-500gr/p"
+    ],
+    "ChangoMás": [
+     15159.0,
+     "https://www.masonline.com.ar/cafe-molido-bonafide-sensaciones-torrado-suave-500-gr-2/p"
+    ],
+    "Carrefour": [
+     7117.5,
+     "https://www.carrefour.com.ar/cafe-molido-torrado-suave-sensaciones-500-grs-102664/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor triple Terrabusi torta 70 g.",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825703/77903860_E01.jpg?v=639086653839170000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-torta-terrabusi-70-gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 42.9,
+   "score": 1865,
    "pr": {
     "Carrefour": [
-     4490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-rexona-sensitive-en-aerosol-150-ml-726888/p"
+     2190.0,
+     "https://www.carrefour.com.ar/alfajor-triple-terrabusi-torta-70-g-666541/p"
     ],
     "Vea": [
-     3367.5,
-     "https://www.vea.com.ar/desodorante-rexona-sensitive-men-150-ml/p"
+     2490.0,
+     "https://www.vea.com.ar/alfajor-terrabusi-triple-torta-70g/p"
+    ],
+    "Jumbo": [
+     2500.0,
+     "https://www.jumbo.com.ar/alfajor-terrabusi-triple-torta-70g/p"
     ],
     "Comodín": [
-     1919.4,
-     "https://www.comodinencasa.com.ar/deo-rexona-ap-aero-men-sensitive-x-90-gr/p"
+     2827.79,
+     "https://www.comodinencasa.com.ar/alfajor-terrabusi-torta-1un-x-70gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-torta-terrabusi-70-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Emilia Cocktail Spritz 200 Cc",
+   "m": "EMILIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/886658/Espumante-Cocktail-Spritz-200Cc-Emilia-Espumante-Emilia-Cocktail-Spritz-200cc-1-1049213.jpg?v=638960638626170000",
+   "cadena": "ChangoMás",
+   "precio": 2309.4,
+   "link": "https://www.masonline.com.ar/cocktail-de-vino-emilia-spritz-200-ml/p",
+   "referencia": 3849.0,
+   "precio_2da": 4290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.2,
+   "score": 1847,
+   "pr": {
+    "Vea": [
+     4290.0,
+     "https://www.vea.com.ar/espumante-cocktail-spritz-200cc-emilia/p"
+    ],
+    "Jumbo": [
+     4500.0,
+     "https://www.jumbo.com.ar/espumante-cocktail-spritz-200cc-emilia/p"
+    ],
+    "ChangoMás": [
+     2309.4,
+     "https://www.masonline.com.ar/cocktail-de-vino-emilia-spritz-200-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Dolca Suave 50 grs",
+   "m": "Dolca",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849669/8445291081895_01.jpg?v=639119697022200000",
+   "cadena": "Carrefour",
+   "precio": 3479.4,
+   "link": "https://www.carrefour.com.ar/nescafe-dolca-suave-50-grs-729424/p",
+   "referencia": 5799.0,
+   "precio_2da": 6450.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 46.1,
+   "score": 1842,
+   "pr": {
+    "Carrefour": [
+     3479.4,
+     "https://www.carrefour.com.ar/nescafe-dolca-suave-50-grs-729424/p"
+    ],
+    "Jumbo": [
+     6450.0,
+     "https://www.jumbo.com.ar/cafe-suave-50-grs-nescafe-dolca/p"
+    ],
+    "ChangoMás": [
+     6699.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-dolca-suave-origenes-50gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mayonesa Clásica Hellmanns sin tacc doypack 475 g.",
+   "m": "Hellmanns",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898688/7794000006072_E01.jpg?v=639186195936630000",
+   "cadena": "Jumbo",
+   "precio": 1314.0,
+   "link": "https://www.jumbo.com.ar/mayonesa-hellmann-s-clasica-sin-tacc-doypack-475-gr/p",
+   "referencia": 2379.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 44.8,
+   "brecha_pct": 40.0,
+   "score": 1791,
+   "pr": {
+    "Carrefour": [
+     2190.0,
+     "https://www.carrefour.com.ar/mayonesa-clasica-hellmanns-sin-tacc-doypack-475-g-694755/p"
+    ],
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/mayonesa-hellmann-s-clasica-sin-tacc-doypack-475-gr/p"
+    ],
+    "Jumbo": [
+     1314.0,
+     "https://www.jumbo.com.ar/mayonesa-hellmann-s-clasica-sin-tacc-doypack-475-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon y Syrah 750 Cc Colón",
+   "m": "COLON",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/801583/Vino-Colon-Cabernet-Sauv-Syrah-750-Cc-1-1000589.jpg?v=638373334973200000",
+   "cadena": "ChangoMás",
+   "precio": 3419.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-colon-cabernet-sauvignon-syrah-750-ml-2/p",
+   "referencia": 5699.0,
+   "precio_2da": 6100.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.9,
+   "score": 1758,
+   "pr": {
+    "Vea": [
+     6190.0,
+     "https://www.vea.com.ar/vino-colon-cabernet-sauvignon-syrah-750-cc-2/p"
+    ],
+    "Jumbo": [
+     6100.0,
+     "https://www.jumbo.com.ar/vino-colon-cabernet-sauvignon-syrah-750-cc-2/p"
+    ],
+    "ChangoMás": [
+     3419.4,
+     "https://www.masonline.com.ar/vino-tinto-colon-cabernet-sauvignon-syrah-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Chardonnay Ruca Malen Capítulo Dos 750 Ml",
+   "m": "RUCA MALEN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853927/Vino-Ruca-Malen-Capitulo-Dos-Chardonnay-750-1-947639.jpg?v=638733299955070000",
+   "cadena": "ChangoMás",
+   "precio": 11519.4,
+   "link": "https://www.masonline.com.ar/vino-blanco-ruca-malen-capitulo-dos-chardonnay-750ml-2/p",
+   "referencia": 19199.0,
+   "precio_2da": 20290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.2,
+   "score": 1729,
+   "pr": {
+    "Vea": [
+     20290.0,
+     "https://www.vea.com.ar/vino-ruca-malen-capitulo-dos-chardonnay-750/p"
+    ],
+    "Jumbo": [
+     20950.0,
+     "https://www.jumbo.com.ar/vino-ruca-malen-capitulo-dos-chardonnay-750/p"
+    ],
+    "ChangoMás": [
+     11519.4,
+     "https://www.masonline.com.ar/vino-blanco-ruca-malen-capitulo-dos-chardonnay-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Arroz Con Leche Light Tregar 180 Gr",
+   "m": "TREGAR",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/180713/Arroz-Con-Leche-Tregar-X-180-Gr-Arroz-Con-Leche-Light-Tregar-180-Gr-1-13280.jpg?v=636383400037530000",
+   "cadena": "Jumbo",
+   "precio": 1200.0,
+   "link": "https://www.jumbo.com.ar/arroz-con-leche-light-tregar-180-gr/p",
+   "referencia": 2400.0,
+   "precio_2da": 1831.49,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.5,
+   "score": 1724,
+   "pr": {
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/arroz-con-leche-light-tregar-180-gr/p"
+    ],
+    "Comodín": [
+     1831.49,
+     "https://www.comodinencasa.com.ar/arroz-con-leche-tregar-light-x-180gr/p"
+    ],
+    "ChangoMás": [
+     2499.0,
+     "https://www.masonline.com.ar/arroz-con-leche-light-tregar-180-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Champagne Mumm Extra Brut 750 Cc",
+   "m": "MUMM",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/550114/Champaña-Mumm-Cuvee-Extra-Brut-750-Cc-1-14431.jpg?v=637056690931770000",
+   "cadena": "ChangoMás",
+   "precio": 7085.4,
+   "link": "https://www.masonline.com.ar/vino-espumante-cuvee-extra-brut-mumm-750-cc-2/p",
+   "referencia": 11809.0,
+   "precio_2da": 12390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 42.8,
+   "score": 1713,
+   "pr": {
+    "Vea": [
+     12390.0,
+     "https://www.vea.com.ar/champana-mumm-cuvee-extra-brut-750-cc/p"
+    ],
+    "Jumbo": [
+     12800.0,
+     "https://www.jumbo.com.ar/champana-mumm-cuvee-extra-brut-750-cc/p"
+    ],
+    "ChangoMás": [
+     7085.4,
+     "https://www.masonline.com.ar/vino-espumante-cuvee-extra-brut-mumm-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Sopa Ramen Sabor a Pollo Picante 85 Grs Nissin",
+   "m": "NISSIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/927995/Ramen-Pollo-Picante-X-85g-Nissin-1-1064982.jpg?v=639250832999330000",
+   "cadena": "ChangoMás",
+   "precio": 1279.85,
+   "link": "https://www.masonline.com.ar/ramen-pollo-picante-nissin-85g-2/p",
+   "referencia": 1969.0,
+   "precio_2da": 2500.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.8,
+   "score": 1708,
+   "pr": {
+    "Vea": [
+     2500.0,
+     "https://www.vea.com.ar/ramen-pollo-picante-x-85g-nissin-2/p"
+    ],
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/ramen-pollo-picante-x-85g-nissin-2/p"
+    ],
+    "ChangoMás": [
+     1279.85,
+     "https://www.masonline.com.ar/ramen-pollo-picante-nissin-85g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta Dental Concentrada Sabor Original 70 Grs Noc 10",
+   "m": "NOC 10",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776743/Crema-Dental-Noc-10-Concentrada-70-Gr-1-590283.jpg?v=638170726264370000",
+   "cadena": "ChangoMás",
+   "precio": 3606.18,
+   "link": "https://www.masonline.com.ar/crema-dental-concentrada-noc-10-70gr-2/p",
+   "referencia": 5459.0,
+   "precio_2da": 7190.0,
+   "baja_pct": 33.9,
+   "brecha_pct": 49.8,
+   "score": 1692,
+   "pr": {
+    "Vea": [
+     7190.0,
+     "https://www.vea.com.ar/pasta-dental-concentrada-70-grs-noc-10/p"
+    ],
+    "Jumbo": [
+     7350.0,
+     "https://www.jumbo.com.ar/pasta-dental-concentrada-70-grs-noc-10/p"
+    ],
+    "ChangoMás": [
+     3606.18,
+     "https://www.masonline.com.ar/crema-dental-concentrada-noc-10-70gr-2/p"
+    ],
+    "Comodín": [
+     7264.39,
+     "https://www.comodinencasa.com.ar/crema-dental-noc-10-concentrada-70gr/p"
     ]
    }
   },
@@ -318,60 +561,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Clight limonada rosa 8 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812003/7622201682026_E01.jpg?v=639082498632170000",
-   "cadena": "Carrefour",
-   "precio": 328.02,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p",
-   "referencia": 560.0,
-   "precio_2da": 553.0,
-   "baja_pct": 41.4,
-   "brecha_pct": 40.7,
-   "score": 1685,
-   "pr": {
-    "Carrefour": [
-     328.02,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p"
-    ],
-    "Vea": [
-     560.0,
-     "https://www.vea.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
-    ],
-    "Jumbo": [
-     553.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Clight Naranja Durazno 7,5 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812045/7622201702717_E01.jpg?v=639082499464530000",
-   "cadena": "Carrefour",
-   "precio": 328.02,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p",
-   "referencia": 560.0,
-   "precio_2da": 553.0,
-   "baja_pct": 41.4,
-   "brecha_pct": 40.7,
-   "score": 1685,
-   "pr": {
-    "Carrefour": [
-     328.02,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p"
-    ],
-    "Vea": [
-     560.0,
-     "https://www.vea.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
-    ],
-    "Jumbo": [
-     553.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
    "m": "Clight",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
@@ -399,6 +588,33 @@
     "ChangoMás": [
      579.0,
      "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Naranja Durazno 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812045/7622201702717_E01.jpg?v=639082499464530000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-durazno-7-5-grs-711435/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
     ]
    }
   },
@@ -490,12 +706,313 @@
      "https://www.comodinencasa.com.ar/porotos-alubia-la-espanola-x-500-gr/p"
     ],
     "ChangoMás": [
-     3789.0,
+     1894.5,
      "https://www.masonline.com.ar/poroto-alubia-la-espanola-500-gr-2/p"
     ],
     "Tuchanguito": [
      1740.0,
      "https://www.tuchanguito.com.ar/productos/porotos-alubias-la-espanola-500-gr/"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Alaris Malbec 750 Cc",
+   "m": "ALARIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581201/Vino-Tinto-Alaris-Malbec-750-Cc-1-245924.jpg?v=637225176778000000",
+   "cadena": "ChangoMás",
+   "precio": 3545.4,
+   "link": "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p",
+   "referencia": 5909.0,
+   "precio_2da": 5990.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.8,
+   "score": 1632,
+   "pr": {
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/vino-tinto-alaris-malbec-750-cc/p"
+    ],
+    "Jumbo": [
+     6200.0,
+     "https://www.jumbo.com.ar/vino-tinto-alaris-malbec-750-cc/p"
+    ],
+    "ChangoMás": [
+     3545.4,
+     "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Terrabusi Intenso 55 grs",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915684/7622202296291_E01.jpg?v=639227423285570000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p",
+   "referencia": 2209.0,
+   "precio_2da": 2000.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 37.5,
+   "score": 1630,
+   "pr": {
+    "Carrefour": [
+     2000.0,
+     "https://www.carrefour.com.ar/alfajor-terrabusi-intenso-55-grs-765346/p"
+    ],
+    "Jumbo": [
+     2150.0,
+     "https://www.jumbo.com.ar/alfajor-sin-gluten-x-50-grs-terrabusi/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Blanco Dulce Blend 750 Cc Canciller",
+   "m": "CANCILLER",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/822759/Vino-Canciller-Blend-Blanco-Dulce-750cc-5-1-1008808.jpg?v=638508243246870000",
+   "cadena": "ChangoMás",
+   "precio": 2045.4,
+   "link": "https://www.masonline.com.ar/vino-blanco-canciller-blend-v-dulce-750-ml-2/p",
+   "referencia": 3409.0,
+   "precio_2da": 3445.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1625,
+   "pr": {
+    "Jumbo": [
+     3600.0,
+     "https://www.jumbo.com.ar/vino-blanco-dulce-canciller-blend/p"
+    ],
+    "Carrefour": [
+     3445.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-blend-canciller-v-en-botella-750-cc/p"
+    ],
+    "ChangoMás": [
+     2045.4,
+     "https://www.masonline.com.ar/vino-blanco-canciller-blend-v-dulce-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec y Cabernet Sauvignon 750 Cc Estancia Mendoza",
+   "m": "ESTANCIA MENDOZA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822785/Vino-Estancia-Mendoza-Cabernet-Sauvignon-Malbe-1-1008929.jpg?v=638508243326500000",
+   "cadena": "ChangoMás",
+   "precio": 2459.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-estancia-mendoza-cabernet-malbec-750-ml-2/p",
+   "referencia": 4099.0,
+   "precio_2da": 4140.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Vea": [
+     4150.0,
+     "https://www.vea.com.ar/vino-malbec-cabernet-sauvignon-estancia-mendoza/p"
+    ],
+    "Jumbo": [
+     4350.0,
+     "https://www.jumbo.com.ar/vino-malbec-cabernet-sauvignon-estancia-mendoza/p"
+    ],
+    "Carrefour": [
+     4140.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-malbec-estancia-mendoza-750-cc-740444/p"
+    ],
+    "ChangoMás": [
+     2459.4,
+     "https://www.masonline.com.ar/vino-tinto-estancia-mendoza-cabernet-malbec-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Los Haroldos Reserva De Familia Malbec 750 Cc",
+   "m": "LOS HAROLDOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/624742/Vino-Tinto-Los-Haroldos-Reserva-De-Familia-Malbec-750-Cc-1-20345.jpg?v=637510296777900000",
+   "cadena": "ChangoMás",
+   "precio": 4847.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-reserva-malbec-los-haroldos-750-cc-2/p",
+   "referencia": 8079.0,
+   "precio_2da": 8160.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Vea": [
+     8390.0,
+     "https://www.vea.com.ar/vino-tinto-los-haroldos-reserva-de-familia-malbec-750-cc/p"
+    ],
+    "Carrefour": [
+     8160.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-los-haroldos-reserva-750-cc/p"
+    ],
+    "ChangoMás": [
+     4847.4,
+     "https://www.masonline.com.ar/vino-tinto-reserva-malbec-los-haroldos-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Rose 750 Cc Cordero Con Piel De Lobo",
+   "m": "CORDERO CON PIEL DE LOBO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829228/Vino-Cordero-Con-Piel-De-Lobo-Rose-750cc-1-1021439.jpg?v=638579829656570000",
+   "cadena": "ChangoMás",
+   "precio": 4199.4,
+   "link": "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p",
+   "referencia": 6999.0,
+   "precio_2da": 7069.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Jumbo": [
+     7450.0,
+     "https://www.jumbo.com.ar/vino-rose-750-cc-cordero-con-piel-de-lobo/p"
+    ],
+    "Carrefour": [
+     7069.0,
+     "https://www.carrefour.com.ar/vino-rosado-cordero-con-piel-de-lobo-750-ml-748279/p"
+    ],
+    "ChangoMás": [
+     4199.4,
+     "https://www.masonline.com.ar/vino-rosado-cordero-con-piel-de-lobo-cabernet-franc-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec 750 Ml Las Perdices",
+   "m": "LAS PERDICES",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/645908/Vino-Tinto-Las-Perdices-Malbec-750-Cc-1-9401.jpg?v=637582878949530000",
+   "cadena": "ChangoMás",
+   "precio": 7043.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-las-perdices-malbec-750-ml/p",
+   "referencia": 11739.0,
+   "precio_2da": 11859.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Jumbo": [
+     12700.0,
+     "https://www.jumbo.com.ar/vino-las-perdices-malbec-750-ml/p"
+    ],
+    "Carrefour": [
+     11859.0,
+     "https://www.carrefour.com.ar/vino-tinto-las-perdices-malbec-botella-750-cc-696812/p"
+    ],
+    "ChangoMás": [
+     7043.4,
+     "https://www.masonline.com.ar/vino-tinto-las-perdices-malbec-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Mumm Léger Spritz 269 Ml",
+   "m": "MUMM",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/774474/Espumante-Mumm-Leger-Spritz-269ml-1-889099.jpg?v=638150854047330000",
+   "cadena": "ChangoMás",
+   "precio": 2363.4,
+   "link": "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p",
+   "referencia": 3939.0,
+   "precio_2da": 3979.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Jumbo": [
+     4150.0,
+     "https://www.jumbo.com.ar/espumante-mumm-leger-spritz-269-ml/p"
+    ],
+    "Carrefour": [
+     3979.0,
+     "https://www.carrefour.com.ar/espumante-mumm-leger-spritz-lata-269-cc-697598/p"
+    ],
+    "ChangoMás": [
+     2363.4,
+     "https://www.masonline.com.ar/espumante-mumm-leger-spritz-269ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Brut Rosé X 750 Cc Pascual Toso",
+   "m": "PASCUAL TOSO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/886877/Espumante-Brut-Ros-X-750-Cc-Pascual-Toso-1-1049423.jpg?v=638961393807170000",
+   "cadena": "ChangoMás",
+   "precio": 9599.4,
+   "link": "https://www.masonline.com.ar/espumante-pascual-toso-rose-brut-750-ml/p",
+   "referencia": 15999.0,
+   "precio_2da": 16159.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Jumbo": [
+     16700.0,
+     "https://www.jumbo.com.ar/espumante-brut-rose-x-750-cc-pascual-toso/p"
+    ],
+    "Carrefour": [
+     16159.0,
+     "https://www.carrefour.com.ar/espumante-pascual-toso-brut-rose-750-ml-769895/p"
+    ],
+    "ChangoMás": [
+     9599.4,
+     "https://www.masonline.com.ar/espumante-pascual-toso-rose-brut-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Cafayate 750 ml",
+   "m": "Cafayate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822138/7790093095221_01.jpg?v=639083181678300000",
+   "cadena": "ChangoMás",
+   "precio": 5897.4,
+   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p",
+   "referencia": 9829.0,
+   "precio_2da": 9925.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1623,
+   "pr": {
+    "Carrefour": [
+     9925.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-reserva-750-cc/p"
+    ],
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/vino-cafayate-reserve-malbec-750cc/p"
+    ],
+    "ChangoMás": [
+     5897.4,
+     "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino blanco dulce natural Dilema 750 ml",
+   "m": "Dilema",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821334/7790314079726_02.jpg?v=639083181376230000",
+   "cadena": "ChangoMás",
+   "precio": 3179.4,
+   "link": "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p",
+   "referencia": 5299.0,
+   "precio_2da": 5349.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1622,
+   "pr": {
+    "Carrefour": [
+     5349.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-natural-emilia-750-ml-556275/p"
+    ],
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/vino-dilema-blanco-dulce-750cc/p"
+    ],
+    "ChangoMás": [
+     3179.4,
+     "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p"
     ]
    }
   },
@@ -581,33 +1098,141 @@
    }
   },
   {
-   "n": "Milanesa de soja rebozado Good Mark en caja 4 uni",
-   "m": "Good Mark",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854593/7790670052999_E02.jpg?v=639123155958400000",
-   "cadena": "Carrefour",
-   "precio": 2291.4,
-   "link": "https://www.carrefour.com.ar/milanesa-de-soja-rebozado-good-mark-en-caja-4-uni-760315/p",
-   "referencia": 3819.0,
-   "precio_2da": 3819.0,
+   "n": "Espumante Sapo De Otro Pozo Extra Brut 750 Cc",
+   "m": "SAPO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/829147/12411608001.jpg?v=638578772743200000",
+   "cadena": "ChangoMás",
+   "precio": 8759.4,
+   "link": "https://www.masonline.com.ar/espumante-sapo-de-otro-pozo-extra-brut-750-ml/p",
+   "referencia": 14599.0,
+   "precio_2da": 14690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1615,
+   "pr": {
+    "Vea": [
+     14690.0,
+     "https://www.vea.com.ar/espumante-sapo-de-otro-pozo-extra-brut-750-cc-2/p"
+    ],
+    "Jumbo": [
+     15050.0,
+     "https://www.jumbo.com.ar/espumante-sapo-de-otro-pozo-extra-brut-750-cc-2/p"
+    ],
+    "ChangoMás": [
+     8759.4,
+     "https://www.masonline.com.ar/espumante-sapo-de-otro-pozo-extra-brut-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Killka 750 ml",
+   "m": "Killka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849740/7798074865191_02.jpg?v=639120300857700000",
+   "cadena": "ChangoMás",
+   "precio": 6059.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p",
+   "referencia": 10099.0,
+   "precio_2da": 10100.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Carrefour": [
-     2291.4,
-     "https://www.carrefour.com.ar/milanesa-de-soja-rebozado-good-mark-en-caja-4-uni-760315/p"
+     10100.0,
+     "https://www.carrefour.com.ar/vino-tinto-killka-malbec-750-cc-723741/p"
     ],
     "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/medallon-de-soja-4-un-x-340-gr-good-mark/p"
-    ],
-    "Jumbo": [
-     4250.0,
-     "https://www.jumbo.com.ar/medallon-de-soja-4-un-x-340-gr-good-mark/p"
+     10190.0,
+     "https://www.vea.com.ar/vino-malbec-750-cc-killka/p"
     ],
     "ChangoMás": [
-     3819.0,
-     "https://www.masonline.com.ar/milanesas-de-soja-goodmark-4-u-340-g/p"
+     6059.4,
+     "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Cabernet Salentein 750 ml",
+   "m": "Salentein",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364559/7798074865276_01.jpg?v=638265118813870000",
+   "cadena": "ChangoMás",
+   "precio": 9419.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-salentein-reserva-cabernet-sauvignon-750-ml-2/p",
+   "referencia": 15699.0,
+   "precio_2da": 15700.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     15700.0,
+     "https://www.carrefour.com.ar/vino-tinto-salentein-cabernet-750-cc-723746/p"
+    ],
+    "Vea": [
+     16890.0,
+     "https://www.vea.com.ar/vino-salentein-reserve-cabernet-sauvignon/p"
+    ],
+    "Jumbo": [
+     17300.0,
+     "https://www.jumbo.com.ar/vino-salentein-reserve-cabernet-sauvignon/p"
+    ],
+    "ChangoMás": [
+     9419.4,
+     "https://www.masonline.com.ar/vino-tinto-salentein-reserva-cabernet-sauvignon-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Cabernet Killka 750 ml",
+   "m": "Killka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364552/7798074865139_01.jpg?v=638265118748630000",
+   "cadena": "ChangoMás",
+   "precio": 6059.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p",
+   "referencia": 10099.0,
+   "precio_2da": 10100.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     10100.0,
+     "https://www.carrefour.com.ar/vino-tinto-killka-cabernet-750-cc-723739/p"
+    ],
+    "Vea": [
+     10590.0,
+     "https://www.vea.com.ar/vino-cabernet-sauvignon-750-cc-killka/p"
+    ],
+    "ChangoMás": [
+     6059.4,
+     "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Callia Esperado 750 ml",
+   "m": "Callia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823569/7798108834339_01.jpg?v=639083182078470000",
+   "cadena": "ChangoMás",
+   "precio": 4079.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-esperado-malbec-750ml-2/p",
+   "referencia": 6799.0,
+   "precio_2da": 6800.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     6800.0,
+     "https://www.carrefour.com.ar/vino-tinto-callia-esperado-malbec-750-cc-723735/p"
+    ],
+    "Jumbo": [
+     7200.0,
+     "https://www.jumbo.com.ar/vino-callia-esperado-malbec/p"
+    ],
+    "ChangoMás": [
+     4079.4,
+     "https://www.masonline.com.ar/vino-tinto-esperado-malbec-750ml-2/p"
     ]
    }
   },
@@ -628,13 +1253,13 @@
      14199.0,
      "https://www.vea.com.ar/capsulas-latte-macchiato-5-un-nescafe-dolce-gusto/p"
     ],
-    "ChangoMás": [
-     17309.0,
-     "https://www.masonline.com.ar/cafe-en-capsulas-nescafe-dolce-gusto-latte-macchiato-10-u/p"
-    ],
     "Carrefour": [
      8519.4,
      "https://www.carrefour.com.ar/nescafe-dolce-gusto-latte-macchiato-10-uni-759432/p"
+    ],
+    "ChangoMás": [
+     17309.0,
+     "https://www.masonline.com.ar/cafe-en-capsulas-nescafe-dolce-gusto-latte-macchiato-10-u/p"
     ]
    }
   },
@@ -670,64 +1295,207 @@
    }
   },
   {
-   "n": "Papa tradicional Mc cain 700 g.",
-   "m": "Mc Cain",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845817/7797906054826_01.jpg?v=639111875654470000",
-   "cadena": "ChangoMás",
-   "precio": 4399.0,
-   "link": "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p",
-   "referencia": 8099.0,
-   "precio_2da": 6734.19,
-   "baja_pct": 45.7,
-   "brecha_pct": 34.7,
-   "score": 1584,
+   "n": "Café Lungo Premium 124 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/918122/7891000421390.jpg?v=639166146230770000",
+   "cadena": "Carrefour",
+   "precio": 8519.4,
+   "link": "https://www.carrefour.com.ar/nescafe-dolce-gusto-lungo-10-uni-759431/p",
+   "referencia": 14199.0,
+   "precio_2da": 14199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
-    "Carrefour": [
-     7346.15,
-     "https://www.carrefour.com.ar/papa-tradicional-mc-cain-700-g-724922/p"
-    ],
     "Vea": [
-     7190.0,
-     "https://www.vea.com.ar/papas-clasicas-corte-tradicional-700-gr-mc-cain/p"
+     14199.0,
+     "https://www.vea.com.ar/capsulas-lungo-10-un-nescafe-dolce-gusto-2/p"
     ],
     "Jumbo": [
-     7400.0,
-     "https://www.jumbo.com.ar/papas-clasicas-corte-tradicional-700-gr-mc-cain/p"
+     17850.0,
+     "https://www.jumbo.com.ar/capsulas-lungo-10-un-nescafe-dolce-gusto-2/p"
     ],
-    "Comodín": [
-     6734.19,
-     "https://www.comodinencasa.com.ar/papas-mc-cain-corte-tradicional-x-720-g/p"
-    ],
-    "ChangoMás": [
-     4399.0,
-     "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p"
+    "Carrefour": [
+     8519.4,
+     "https://www.carrefour.com.ar/nescafe-dolce-gusto-lungo-10-uni-759431/p"
     ]
    }
   },
   {
-   "n": "Mayonesa Natura 475 g.",
-   "m": "Natura",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898539/7791866001364_E02.jpg?v=639186154883200000",
-   "cadena": "Jumbo",
-   "precio": 1812.6,
-   "link": "https://www.jumbo.com.ar/aderezo-mayonesa-475-gr-natura/p",
-   "referencia": 3021.0,
-   "precio_2da": 2990.0,
+   "n": "Vino Gran Cordero Con Piel De Lobo Malbec 750c",
+   "m": "CORDERO CON PIEL DE LOBO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916954/Vino-Gran-Cordero-Con-Piel-De-Lobo-Malbec-750c-1-1058545.jpg?v=639160114325100000",
+   "cadena": "ChangoMás",
+   "precio": 6419.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-gran-cordero-con-piel-de-lobo-malbec-750-ml/p",
+   "referencia": 10699.0,
+   "precio_2da": 10700.0,
    "baja_pct": 40.0,
-   "brecha_pct": 39.4,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     10700.0,
+     "https://www.vea.com.ar/vino-gran-cordero-con-piel-de-lobo-malbec-750c/p"
+    ],
+    "Jumbo": [
+     10700.0,
+     "https://www.jumbo.com.ar/vino-gran-cordero-con-piel-de-lobo-malbec-750c/p"
+    ],
+    "ChangoMás": [
+     6419.4,
+     "https://www.masonline.com.ar/vino-tinto-gran-cordero-con-piel-de-lobo-malbec-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Perro Callejero",
+   "m": "PERRO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/829140/Vino-Perro-Callejero-Cabernet-Sauvignon-750-Cc-1-1021295.jpg?v=638578750978970000",
+   "cadena": "ChangoMás",
+   "precio": 6179.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-perro-callejero-cabernet-sauvignon/p",
+   "referencia": 10299.0,
+   "precio_2da": 10300.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     10300.0,
+     "https://www.vea.com.ar/vino-perro-callejero-cabernet-sauvignon-750-cc/p"
+    ],
+    "Jumbo": [
+     10700.0,
+     "https://www.jumbo.com.ar/vino-perro-callejero-cabernet-sauvignon-750-cc/p"
+    ],
+    "ChangoMás": [
+     6179.4,
+     "https://www.masonline.com.ar/vino-tinto-perro-callejero-cabernet-sauvignon/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Salentein Cuvée Spéciale Extra Brut 750 Ml",
+   "m": "SALENTEIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/927966/12411431003.jpg?v=639245829167330000",
+   "cadena": "ChangoMás",
+   "precio": 10739.4,
+   "link": "https://www.masonline.com.ar/espumante-salentein-extra-brut-750ml-2/p",
+   "referencia": 17899.0,
+   "precio_2da": 17900.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     18190.0,
+     "https://www.vea.com.ar/espumante-salentein-extra-brut-750-ml/p"
+    ],
+    "Jumbo": [
+     18900.0,
+     "https://www.jumbo.com.ar/espumante-salentein-extra-brut-750-ml/p"
+    ],
+    "Carrefour": [
+     17900.0,
+     "https://www.carrefour.com.ar/espumante-salentein-extra-brut-750-cc-719770/p"
+    ],
+    "ChangoMás": [
+     10739.4,
+     "https://www.masonline.com.ar/espumante-salentein-extra-brut-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Salentein Blanc de Blancs 750 Ml",
+   "m": "SALENTEIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/927962/12410382002.jpg?v=639245827923300000",
+   "cadena": "ChangoMás",
+   "precio": 11369.4,
+   "link": "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p",
+   "referencia": 18949.0,
+   "precio_2da": 18950.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     20690.0,
+     "https://www.vea.com.ar/espumante-salentein-blanc-de-blancs-750-ml/p"
+    ],
+    "Jumbo": [
+     21000.0,
+     "https://www.jumbo.com.ar/espumante-salentein-blanc-de-blancs-750-ml/p"
+    ],
+    "Carrefour": [
+     18950.0,
+     "https://www.carrefour.com.ar/espumante-salentein-blanc-de-blancs-750-ml-719772/p"
+    ],
+    "ChangoMás": [
+     11369.4,
+     "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor relleno pasta de maní Full Maní 40 grs",
+   "m": "Full Mani",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884798/7790380025191_E02.jpg?v=639160238678270000",
+   "cadena": "Jumbo",
+   "precio": 475.0,
+   "link": "https://www.jumbo.com.ar/alfajor-con-pasta-de-mani-x-40-grs-full-mani/p",
+   "referencia": 712.5,
+   "precio_2da": 912.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 47.9,
+   "score": 1597,
+   "pr": {
+    "Carrefour": [
+     912.0,
+     "https://www.carrefour.com.ar/alfajor-relleno-pasta-de-mani-full-mani-40-grs-779252/p"
+    ],
+    "Jumbo": [
+     475.0,
+     "https://www.jumbo.com.ar/alfajor-con-pasta-de-mani-x-40-grs-full-mani/p"
+    ],
+    "ChangoMás": [
+     949.0,
+     "https://www.masonline.com.ar/alfajor-full-mani-40-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Mayonesa liviana Hellmanns dp 475 g",
+   "m": "Hellmanns",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898838/7794000007109_E01.jpg?v=639186801815170000",
+   "cadena": "Jumbo",
+   "precio": 1314.0,
+   "link": "https://www.jumbo.com.ar/mayonesa-hellmann-s-liviana-doypack-475-gr/p",
+   "referencia": 2379.0,
+   "precio_2da": 2027.35,
+   "baja_pct": 44.8,
+   "brecha_pct": 35.2,
    "score": 1575,
    "pr": {
     "Carrefour": [
-     2990.0,
-     "https://www.carrefour.com.ar/mayonesa-natura-475-g/p"
+     2190.0,
+     "https://www.carrefour.com.ar/mayonesa-liviana-hellmanns-dp-475-g-714807/p"
     ],
     "Vea": [
-     2990.0,
-     "https://www.vea.com.ar/aderezo-mayonesa-475-gr-natura/p"
+     2190.0,
+     "https://www.vea.com.ar/mayonesa-hellmann-s-liviana-doypack-475-gr/p"
     ],
     "Jumbo": [
-     1812.6,
-     "https://www.jumbo.com.ar/aderezo-mayonesa-475-gr-natura/p"
+     1314.0,
+     "https://www.jumbo.com.ar/mayonesa-hellmann-s-liviana-doypack-475-gr/p"
+    ],
+    "Comodín": [
+     3151.19,
+     "https://www.comodinencasa.com.ar/mayonesa-hellmanns-light-dp-x-475gr/p"
+    ],
+    "ChangoMás": [
+     2027.35,
+     "https://www.masonline.com.ar/mayonesa-hellmanns-light-doypack-475gr-2/p"
     ]
    }
   },
@@ -759,33 +1527,226 @@
    }
   },
   {
-   "n": "Aceitunas verdes Nucete rellenas con morrón 200 g.",
-   "m": "Nucete",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895623/7792070000495_01.jpg?v=639183348822130000",
-   "cadena": "Jumbo",
-   "precio": 2850.0,
-   "link": "https://www.jumbo.com.ar/aceitunas-nucete-rellenas-con-morron-200-gr/p",
-   "referencia": 4750.0,
-   "precio_2da": 4690.0,
+   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Cordero con Piel de Lobo",
+   "m": "CORDERO CON PIEL DE LOBO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885537/Vino-Cordero-Con-Piel-De-Lobo-Cabernet-Sauvign-1-1049210.jpg?v=638949281992330000",
+   "cadena": "ChangoMás",
+   "precio": 4199.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-cabernet-sauvignon-750-ml-2/p",
+   "referencia": 6999.0,
+   "precio_2da": 6890.0,
    "baja_pct": 40.0,
-   "brecha_pct": 39.2,
-   "score": 1569,
+   "brecha_pct": 39.1,
+   "score": 1562,
    "pr": {
-    "Carrefour": [
-     4690.0,
-     "https://www.carrefour.com.ar/aceitunas-verdes-nucete-rellenas-con-morron-200-g/p"
-    ],
     "Vea": [
-     4690.0,
-     "https://www.vea.com.ar/aceitunas-nucete-rellenas-con-morron-200-gr/p"
+     6890.0,
+     "https://www.vea.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
     ],
     "Jumbo": [
-     2850.0,
-     "https://www.jumbo.com.ar/aceitunas-nucete-rellenas-con-morron-200-gr/p"
+     7100.0,
+     "https://www.jumbo.com.ar/vino-cordero-con-piel-de-lobo-cabernet-sauvign-4/p"
     ],
     "ChangoMás": [
-     4779.0,
-     "https://www.masonline.com.ar/aceitunas-verdes-rellenas-nucete-con-morron-200-gr-2/p"
+     4199.4,
+     "https://www.masonline.com.ar/vino-tinto-cordero-con-piel-de-lobo-cabernet-sauvignon-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec 750 Cc Fond de Cave",
+   "m": "FOND DE CAVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/889485/12262158001.jpg?v=638978576835530000",
+   "cadena": "ChangoMás",
+   "precio": 6737.4,
+   "link": "https://www.masonline.com.ar/vino-malbec-fond-de-cave-750-cc-2/p",
+   "referencia": 11229.0,
+   "precio_2da": 11019.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.9,
+   "score": 1554,
+   "pr": {
+    "Vea": [
+     11490.0,
+     "https://www.vea.com.ar/vino-tinto-malbece-x-750-cc-fond-de-cave/p"
+    ],
+    "Jumbo": [
+     11550.0,
+     "https://www.jumbo.com.ar/vino-tinto-malbece-x-750-cc-fond-de-cave/p"
+    ],
+    "Carrefour": [
+     11019.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-750-cc/p"
+    ],
+    "ChangoMás": [
+     6737.4,
+     "https://www.masonline.com.ar/vino-malbec-fond-de-cave-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Fond De Cave Cabernet Sauvignon 750 Cc",
+   "m": "FOND DE CAVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/887742/Vino-Tinto-Fond-De-Cave-Cabernet-Sauvignon-750-Cc-1-247965.jpg?v=638969169896730000",
+   "cadena": "ChangoMás",
+   "precio": 6737.4,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-fond-de-cave-750cc-2/p",
+   "referencia": 11229.0,
+   "precio_2da": 11019.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.9,
+   "score": 1554,
+   "pr": {
+    "Jumbo": [
+     11650.0,
+     "https://www.jumbo.com.ar/vino-tinto-fond-de-cave-cabernet-sauvignon-750-cc/p"
+    ],
+    "Carrefour": [
+     11019.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-fond-de-cave-750-cc/p"
+    ],
+    "ChangoMás": [
+     6737.4,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-fond-de-cave-750cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino rosado dulce Benjamin 750 ml",
+   "m": "Benjamín",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821048/7790070760630_02.jpg?v=639083181327730000",
+   "cadena": "ChangoMás",
+   "precio": 4019.4,
+   "link": "https://www.masonline.com.ar/vino-rosado-benjamin-nieto-750-ml-2/p",
+   "referencia": 6699.0,
+   "precio_2da": 6565.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1551,
+   "pr": {
+    "Carrefour": [
+     6565.0,
+     "https://www.carrefour.com.ar/vino-rosado-dulce-benjamin-750-ml-722942/p"
+    ],
+    "Jumbo": [
+     6850.0,
+     "https://www.jumbo.com.ar/vino-benjamin-coleccion-tardia-rosado-750ml/p"
+    ],
+    "ChangoMás": [
+     4019.4,
+     "https://www.masonline.com.ar/vino-rosado-benjamin-nieto-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Chardonnay Reserva Trapiche 750 Cc",
+   "m": "TRAPICHE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/849109/Vino-Trapiche-Reserva-Chardonnay-750cc-1-1030890.jpg?v=638699709858670000",
+   "cadena": "ChangoMás",
+   "precio": 7487.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-trapiche-reserva-chardonnay-750-ml/p",
+   "referencia": 12479.0,
+   "precio_2da": 12230.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1551,
+   "pr": {
+    "Vea": [
+     12490.0,
+     "https://www.vea.com.ar/vino-trapiche-reserva-chardonnay-750cc-3/p"
+    ],
+    "Jumbo": [
+     12750.0,
+     "https://www.jumbo.com.ar/vino-trapiche-reserva-chardonnay-750cc-3/p"
+    ],
+    "Carrefour": [
+     12230.0,
+     "https://www.carrefour.com.ar/vino-blanco-chardonnay-reserva-trapiche-750-ml-757172/p"
+    ],
+    "ChangoMás": [
+     7487.4,
+     "https://www.masonline.com.ar/vino-tinto-trapiche-reserva-chardonnay-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Dolca Original 100 grs",
+   "m": "Dolca",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849650/8445291082199_01.jpg?v=639119693404200000",
+   "cadena": "Carrefour",
+   "precio": 4590.0,
+   "link": "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p",
+   "referencia": 7650.0,
+   "precio_2da": 7490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.7,
+   "score": 1549,
+   "pr": {
+    "Carrefour": [
+     4590.0,
+     "https://www.carrefour.com.ar/nescafe-dolca-original-100-grs-729429/p"
+    ],
+    "Vea": [
+     7490.0,
+     "https://www.vea.com.ar/cafe-original100-grs-nescafe-dolca/p"
+    ],
+    "Jumbo": [
+     10500.0,
+     "https://www.jumbo.com.ar/cafe-original100-grs-nescafe-dolca/p"
+    ]
+   }
+  },
+  {
+   "n": "Alitas de Pollo Crocantes 400 Grs Sadia",
+   "m": "SADIA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844412/Alitas-De-Pollo-Sadia-Golden-X-400-Gr-Alitas-De-Pollo-Golden-X-400-Gr-Sadia-1-1029169.jpg?v=638663529826230000",
+   "cadena": "ChangoMás",
+   "precio": 5765.4,
+   "link": "https://www.masonline.com.ar/alitas-de-pollo-sadia-crocante-400-g/p",
+   "referencia": 9609.0,
+   "precio_2da": 9364.19,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.4,
+   "score": 1537,
+   "pr": {
+    "Jumbo": [
+     10950.0,
+     "https://www.jumbo.com.ar/alitas-de-pollo-golden-x-400-gr-sadia/p"
+    ],
+    "Comodín": [
+     9364.19,
+     "https://www.comodinencasa.com.ar/alitas-de-pollo-sadia-golden-400gr/p"
+    ],
+    "ChangoMás": [
+     5765.4,
+     "https://www.masonline.com.ar/alitas-de-pollo-sadia-crocante-400-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Sabor Castañas de Cajú Diplomata 80 Grs Nestle",
+   "m": "NESTLE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/875527/Chocolate-Con-Casta-as-Diplomata-Nestl-80-Gr-1-942888.jpg?v=638872403755330000",
+   "cadena": "Jumbo",
+   "precio": 3510.0,
+   "link": "https://www.jumbo.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p",
+   "referencia": 5850.0,
+   "precio_2da": 5690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1533,
+   "pr": {
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
+    ],
+    "Jumbo": [
+     3510.0,
+     "https://www.jumbo.com.ar/chocolate-con-castanas-diplomata-80-grs-nestle/p"
+    ],
+    "ChangoMás": [
+     6069.0,
+     "https://www.masonline.com.ar/tableta-nestle-diplomata-80g-2/p"
     ]
    }
   },
@@ -817,29 +1778,56 @@
    }
   },
   {
-   "n": "Mostaza Original 500 Grs Savora",
-   "m": "SAVORA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/856850/Mostaza-Original-Doypack-500-Gr-Savora-Mostaza-Savora-Original-Doypack-500-Gr-1-940642.jpg?v=638755979775170000",
-   "cadena": "Jumbo",
-   "precio": 1950.0,
-   "link": "https://www.jumbo.com.ar/mostaza-savora-original-doypack-500-gr/p",
-   "referencia": 3250.0,
-   "precio_2da": 3150.0,
+   "n": "Vino Dulce Natural X 750 Cc Finjamos Demencia",
+   "m": "Finjamos Demencia",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869318/Vino-Finjamos-Demencia-Dulce-Natural-750cc-1-1038093.jpg?v=638840650007870000",
+   "cadena": "ChangoMás",
+   "precio": 3863.4,
+   "link": "https://www.masonline.com.ar/vino-blanco-finjamos-demencia-dulce-750-ml/p",
+   "referencia": 6439.0,
+   "precio_2da": 6260.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1524,
+   "brecha_pct": 38.3,
+   "score": 1531,
    "pr": {
     "Vea": [
-     3150.0,
-     "https://www.vea.com.ar/mostaza-savora-original-doypack-500-gr/p"
+     6550.0,
+     "https://www.vea.com.ar/vino-dulce-natural-x-750-cc-finjamos-demencia/p"
     ],
-    "Jumbo": [
-     1950.0,
-     "https://www.jumbo.com.ar/mostaza-savora-original-doypack-500-gr/p"
+    "Carrefour": [
+     6260.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-finjamos-demencia-en-botella-750-ml-761510/p"
     ],
     "ChangoMás": [
-     3159.0,
-     "https://www.masonline.com.ar/mostaza-savora-original-doypack-500gr-2/p"
+     3863.4,
+     "https://www.masonline.com.ar/vino-blanco-finjamos-demencia-dulce-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Chacabuco Cabernet Sauvignon 750cc",
+   "m": "CHACABUCO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/790632/Vino-Chacabuco-Cabernet-Sauvignon-750cc-1-985812.jpg?v=638277561493400000",
+   "cadena": "ChangoMás",
+   "precio": 3311.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p",
+   "referencia": 5519.0,
+   "precio_2da": 5359.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1528,
+   "pr": {
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p"
+    ],
+    "ChangoMás": [
+     3311.4,
+     "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p"
+    ],
+    "Carrefour": [
+     5359.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-chacabuco-en-botella-750-cc-734596/p"
     ]
    }
   },
@@ -865,7 +1853,7 @@
      "https://www.jumbo.com.ar/aceitunas-castell-verdes-100-gr/p"
     ],
     "ChangoMás": [
-     1983.2,
+     1611.35,
      "https://www.masonline.com.ar/aceitunas-verdes-castell-sabor-ajo-100-g/p"
     ]
    }
@@ -894,6 +1882,33 @@
     "Jumbo": [
      1110.0,
      "https://www.jumbo.com.ar/salsa-blanca-alicante-40-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas Verdes en Rodajas 150 Grs Castell",
+   "m": "CASTELL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/339840/Aceitunas-Castell-Verdes-En-Rodajas-X150g-paq-gr-150-1-11631.jpg?v=636439395052030000",
+   "cadena": "Jumbo",
+   "precio": 2040.0,
+   "link": "https://www.jumbo.com.ar/aceitunas-castell-verdes-en-rodajas-150-gr/p",
+   "referencia": 3400.0,
+   "precio_2da": 3290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1520,
+   "pr": {
+    "Vea": [
+     3290.0,
+     "https://www.vea.com.ar/aceitunas-castell-verdes-en-rodajas-150-gr/p"
+    ],
+    "Jumbo": [
+     2040.0,
+     "https://www.jumbo.com.ar/aceitunas-castell-verdes-en-rodajas-150-gr/p"
+    ],
+    "ChangoMás": [
+     3319.0,
+     "https://www.masonline.com.ar/aceituna-verde-castell-en-rodajas-150g-2/p"
     ]
    }
   },
@@ -952,68 +1967,29 @@
    }
   },
   {
-   "n": "Aceitunas verdes Nucete frasco 200 g.",
-   "m": "Nucete",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895628/7792070004523_01.jpg?v=639183349732730000",
-   "cadena": "Jumbo",
-   "precio": 2490.0,
-   "link": "https://www.jumbo.com.ar/aceitunas-nucete-verdes-200-gr/p",
-   "referencia": 4150.0,
-   "precio_2da": 4000.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.7,
-   "score": 1510,
-   "pr": {
-    "Carrefour": [
-     4000.0,
-     "https://www.carrefour.com.ar/aceitunas-verdes-nucete-frasco-200-g/p"
-    ],
-    "Vea": [
-     4000.0,
-     "https://www.vea.com.ar/aceitunas-nucete-verdes-200-gr/p"
-    ],
-    "Jumbo": [
-     2490.0,
-     "https://www.jumbo.com.ar/aceitunas-nucete-verdes-200-gr/p"
-    ],
-    "ChangoMás": [
-     4059.0,
-     "https://www.masonline.com.ar/aceitunas-verdes-nucete-en-salmuera-200-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Salsa Sabor Golf 250 Grs Hellmann's",
-   "m": "HELLMANN´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/806762/Aderezo-Hellmanns-Salsa-Golf-250-G-Doypack-1-999916.jpg?v=638403359171270000",
-   "cadena": "Jumbo",
-   "precio": 1830.0,
-   "link": "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p",
-   "referencia": 3050.0,
-   "precio_2da": 2939.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.7,
-   "score": 1509,
+   "n": "Vino Dulce Chenin y Chardonnay 750 Cc Estancia Mendoza",
+   "m": "ESTANCIA MENDOZA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822756/Vino-Estancia-Mendoza-Chenin-Chardonnay-Dulce-1-1008805.jpg?v=638508243237630000",
+   "cadena": "ChangoMás",
+   "precio": 2519.4,
+   "link": "https://www.masonline.com.ar/vino-blanco-estancia-mendoza-dulce-chenin-chardonnay-750-ml-2-2/p",
+   "referencia": 4099.0,
+   "precio_2da": 4140.0,
+   "baja_pct": 38.5,
+   "brecha_pct": 39.1,
+   "score": 1508,
    "pr": {
     "Vea": [
-     2990.0,
-     "https://www.vea.com.ar/salsa-golf-hellmanns-250-gr/p"
-    ],
-    "Jumbo": [
-     1830.0,
-     "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p"
-    ],
-    "Comodín": [
-     3138.79,
-     "https://www.comodinencasa.com.ar/salsa-golf-hellmanns-dp-sin-tacc-x-237gr/p"
+     4150.0,
+     "https://www.vea.com.ar/vino-chardonnay-dulce-chening-estancia-mendoza/p"
     ],
     "Carrefour": [
-     2939.0,
-     "https://www.carrefour.com.ar/aderezo-hellmanns-salsa-golf-doypack-250-g-731025/p"
+     4140.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-estancia-mendoza-chenin-chardonnay-750-cc/p"
     ],
     "ChangoMás": [
-     2939.0,
-     "https://www.masonline.com.ar/salsa-golf-hellmans-250-g-2/p"
+     2519.4,
+     "https://www.masonline.com.ar/vino-blanco-estancia-mendoza-dulce-chenin-chardonnay-750-ml-2-2/p"
     ]
    }
   },
@@ -1045,33 +2021,29 @@
    }
   },
   {
-   "n": "Ketchup Natura 500 cc.",
-   "m": "Natura",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898637/7791866000664_E02.jpg?v=639186180714130000",
-   "cadena": "Jumbo",
-   "precio": 2220.0,
-   "link": "https://www.jumbo.com.ar/ketchup-natura-500-gr/p",
-   "referencia": 3700.0,
-   "precio_2da": 3559.0,
+   "n": "Vino Tinto Malbec 750 Cc Blend de Extremos El Esteco",
+   "m": "EL ESTECO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/581249/Vino-El-Esteco-Malbec-Bend-De-Extremos-750-Cc-1-772500.jpg?v=637225178110470000",
+   "cadena": "ChangoMás",
+   "precio": 11681.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-el-esteco-blend-de-extremos-malbec-750-ml-2/p",
+   "referencia": 19469.0,
+   "precio_2da": 18725.0,
    "baja_pct": 40.0,
    "brecha_pct": 37.6,
    "score": 1505,
    "pr": {
-    "Carrefour": [
-     3600.0,
-     "https://www.carrefour.com.ar/ketchup-natura-500-cc/p"
-    ],
-    "Vea": [
-     3600.0,
-     "https://www.vea.com.ar/ketchup-natura-500-gr/p"
-    ],
     "Jumbo": [
-     2220.0,
-     "https://www.jumbo.com.ar/ketchup-natura-500-gr/p"
+     19600.0,
+     "https://www.jumbo.com.ar/vino-el-esteco-malbec-bend-de-extremos-750-cc/p"
+    ],
+    "Carrefour": [
+     18725.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-el-esteco-blend-de-ext-750-cc/p"
     ],
     "ChangoMás": [
-     3559.0,
-     "https://www.masonline.com.ar/ketchup-natura-500-gr-2/p"
+     11681.4,
+     "https://www.masonline.com.ar/vino-tinto-el-esteco-blend-de-extremos-malbec-750-ml-2/p"
     ]
    }
   }
