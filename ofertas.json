@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-17",
- "actualizado": "2026-09-17 11:01",
+ "actualizado": "2026-09-17 15:44",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -113,33 +113,6 @@
    }
   },
   {
-   "n": "Enjuague bucal Gum antibacterial menta intensa 500 ml",
-   "m": "Gum",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/630291/7798142356705_01.jpg?v=638772182618300000",
-   "cadena": "Jumbo",
-   "precio": 6275.0,
-   "link": "https://www.jumbo.com.ar/enjuague-antibacterial-menta-intensa-x-500-ml-gum/p",
-   "referencia": 12550.0,
-   "precio_2da": 11889.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.2,
-   "score": 2361,
-   "pr": {
-    "Carrefour": [
-     11889.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-gum-antibacterial-menta-intensa-500-ml-758904/p"
-    ],
-    "Jumbo": [
-     6275.0,
-     "https://www.jumbo.com.ar/enjuague-antibacterial-menta-intensa-x-500-ml-gum/p"
-    ],
-    "ChangoMás": [
-     11889.0,
-     "https://www.masonline.com.ar/enjuague-bucal-gum-fuerte-500-ml/p"
-    ]
-   }
-  },
-  {
    "n": "Cacao en polvo Chocolino bolsa 800 g.",
    "m": "Chocolino",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324432/7790150830482_E01.jpg?v=638197801381970000",
@@ -244,6 +217,33 @@
     "Carrefour": [
      7117.5,
      "https://www.carrefour.com.ar/cafe-molido-torrado-suave-sensaciones-500-grs-102664/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Efecto Botox 880 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802948/Shampoo-Tresemme-Liso-Efecto-Botox-880-Ml-1-1000671.jpg?v=638375620444300000",
+   "cadena": "Carrefour",
+   "precio": 9174.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
+   "referencia": 15519.5,
+   "precio_2da": 17750.0,
+   "baja_pct": 40.9,
+   "brecha_pct": 48.3,
+   "score": 1975,
+   "pr": {
+    "Jumbo": [
+     17750.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+    ],
+    "Carrefour": [
+     9174.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
+    ],
+    "ChangoMás": [
+     17849.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
     ]
    }
   },
@@ -499,37 +499,6 @@
    }
   },
   {
-   "n": "Pasta Dental Concentrada Sabor Original 70 Grs Noc 10",
-   "m": "NOC 10",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776743/Crema-Dental-Noc-10-Concentrada-70-Gr-1-590283.jpg?v=638170726264370000",
-   "cadena": "ChangoMás",
-   "precio": 3606.18,
-   "link": "https://www.masonline.com.ar/crema-dental-concentrada-noc-10-70gr-2/p",
-   "referencia": 5459.0,
-   "precio_2da": 7190.0,
-   "baja_pct": 33.9,
-   "brecha_pct": 49.8,
-   "score": 1692,
-   "pr": {
-    "Vea": [
-     7190.0,
-     "https://www.vea.com.ar/pasta-dental-concentrada-70-grs-noc-10/p"
-    ],
-    "Jumbo": [
-     7350.0,
-     "https://www.jumbo.com.ar/pasta-dental-concentrada-70-grs-noc-10/p"
-    ],
-    "ChangoMás": [
-     3606.18,
-     "https://www.masonline.com.ar/crema-dental-concentrada-noc-10-70gr-2/p"
-    ],
-    "Comodín": [
-     7264.39,
-     "https://www.comodinencasa.com.ar/crema-dental-noc-10-concentrada-70gr/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Clight Pera 7grs",
    "m": "Clight",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814699/7622201703202_E01.jpg?v=639082501012000000",
@@ -561,12 +530,12 @@
    }
   },
   {
-   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
+   "n": "Jugo en polvo Clight limonada rosa 8 grs",
    "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812003/7622201682026_E01.jpg?v=639082498632170000",
    "cadena": "Carrefour",
    "precio": 328.02,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p",
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p",
    "referencia": 560.0,
    "precio_2da": 553.0,
    "baja_pct": 41.4,
@@ -575,19 +544,15 @@
    "pr": {
     "Carrefour": [
      328.02,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p"
     ],
     "Vea": [
      560.0,
-     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
     ],
     "Jumbo": [
      553.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
-    ],
-    "ChangoMás": [
-     579.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
     ]
    }
   },
@@ -615,6 +580,37 @@
     "Jumbo": [
      553.0,
      "https://www.jumbo.com.ar/jugo-en-polvo-naranja-durazno-7-5-grs-clight/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
     ]
    }
   },
@@ -986,33 +982,6 @@
     "ChangoMás": [
      5897.4,
      "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino blanco dulce natural Dilema 750 ml",
-   "m": "Dilema",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821334/7790314079726_02.jpg?v=639083181376230000",
-   "cadena": "ChangoMás",
-   "precio": 3179.4,
-   "link": "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p",
-   "referencia": 5299.0,
-   "precio_2da": 5349.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.6,
-   "score": 1622,
-   "pr": {
-    "Carrefour": [
-     5349.0,
-     "https://www.carrefour.com.ar/vino-blanco-dulce-natural-emilia-750-ml-556275/p"
-    ],
-    "Vea": [
-     5390.0,
-     "https://www.vea.com.ar/vino-dilema-blanco-dulce-750cc/p"
-    ],
-    "ChangoMás": [
-     3179.4,
-     "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p"
     ]
    }
   },
@@ -1554,9 +1523,9 @@
    }
   },
   {
-   "n": "Vino Tinto Malbec 750 Cc Fond de Cave",
-   "m": "FOND DE CAVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/889485/12262158001.jpg?v=638978576835530000",
+   "n": "Vino tinto Malbec Fond de Cave 750 ml",
+   "m": "Fond De Cave",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185278/7790240041460_01.jpg?v=637468594544470000",
    "cadena": "ChangoMás",
    "precio": 6737.4,
    "link": "https://www.masonline.com.ar/vino-malbec-fond-de-cave-750-cc-2/p",
@@ -1566,6 +1535,10 @@
    "brecha_pct": 38.9,
    "score": 1554,
    "pr": {
+    "Carrefour": [
+     11019.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-750-cc/p"
+    ],
     "Vea": [
      11490.0,
      "https://www.vea.com.ar/vino-tinto-malbece-x-750-cc-fond-de-cave/p"
@@ -1573,10 +1546,6 @@
     "Jumbo": [
      11550.0,
      "https://www.jumbo.com.ar/vino-tinto-malbece-x-750-cc-fond-de-cave/p"
-    ],
-    "Carrefour": [
-     11019.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-750-cc/p"
     ],
     "ChangoMás": [
      6737.4,
@@ -1963,6 +1932,41 @@
     "Carrefour": [
      6400.0,
      "https://www.carrefour.com.ar/salsa-de-soja-dos-anclas-libre-de-gluten-500-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Salsa Sabor Golf 250 Grs Hellmann's",
+   "m": "HELLMANN´S",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/806762/Aderezo-Hellmanns-Salsa-Golf-250-G-Doypack-1-999916.jpg?v=638403359171270000",
+   "cadena": "Jumbo",
+   "precio": 1830.0,
+   "link": "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p",
+   "referencia": 3050.0,
+   "precio_2da": 2939.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1509,
+   "pr": {
+    "Vea": [
+     2990.0,
+     "https://www.vea.com.ar/salsa-golf-hellmanns-250-gr/p"
+    ],
+    "Jumbo": [
+     1830.0,
+     "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p"
+    ],
+    "Comodín": [
+     3138.79,
+     "https://www.comodinencasa.com.ar/salsa-golf-hellmanns-dp-sin-tacc-x-237gr/p"
+    ],
+    "Carrefour": [
+     2939.0,
+     "https://www.carrefour.com.ar/aderezo-hellmanns-salsa-golf-doypack-250-g-731025/p"
+    ],
+    "ChangoMás": [
+     2939.0,
+     "https://www.masonline.com.ar/salsa-golf-hellmans-250-g-2/p"
     ]
    }
   },
