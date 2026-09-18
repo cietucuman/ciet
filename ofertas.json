@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-18 12:00",
+ "actualizado": "2026-09-18 16:01",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-17",
   "2026-09-18"
  ],
- "total": 62,
+ "total": 58,
  "ofertas": [
   {
    "n": "Plato Hondo Transparente Vidrio Gema Durax",
@@ -271,33 +271,6 @@
    }
   },
   {
-   "n": "Desodorante en Barra Dragon Blast Cedro 50 Grs Old Spice",
-   "m": "OLD SPICE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891600/Antitranspirante-Dragon-Blast-Aroma-Cedro-X-50-Grs-Old-Spice-1-1051872.jpg?v=638999517800930000",
-   "cadena": "Jumbo",
-   "precio": 5975.0,
-   "link": "https://www.jumbo.com.ar/antitranspirante-dragon-blast-aroma-cedro-x-50-grs-old-spice/p",
-   "referencia": 11300.0,
-   "precio_2da": 10590.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 43.6,
-   "score": 2054,
-   "pr": {
-    "Vea": [
-     10590.0,
-     "https://www.vea.com.ar/antitranspirante-dragon-blast-aroma-cedro-x-50-grs-old-spice/p"
-    ],
-    "Jumbo": [
-     5975.0,
-     "https://www.jumbo.com.ar/antitranspirante-dragon-blast-aroma-cedro-x-50-grs-old-spice/p"
-    ],
-    "Carrefour": [
-     11419.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-barra-secret-coconut-45-grs-768979/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
@@ -522,33 +495,6 @@
    }
   },
   {
-   "n": "Jugo en Polvo Clight Pera 7grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814699/7622201703202_E01.jpg?v=639082501012000000",
-   "cadena": "Carrefour",
-   "precio": 328.02,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p",
-   "referencia": 560.0,
-   "precio_2da": 553.0,
-   "baja_pct": 41.4,
-   "brecha_pct": 40.7,
-   "score": 1685,
-   "pr": {
-    "Carrefour": [
-     328.02,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p"
-    ],
-    "Jumbo": [
-     553.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
-    ],
-    "ChangoMás": [
-     579.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Clight Naranja Durazno 7,5 grs",
    "m": "Clight",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812045/7622201702717_E01.jpg?v=639082499464530000",
@@ -634,33 +580,6 @@
     "ChangoMás": [
      409.0,
      "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-anana-y-banana-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de ananá 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817830/7790580141516_E02.jpg?v=639082512636370000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-anana-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 377.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1684,
-   "pr": {
-    "Carrefour": [
-     377.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-anana-15-grs-750881/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-anana-x-15-gr/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-anana-x-15-gr/p"
     ]
    }
   },
@@ -789,37 +708,6 @@
    }
   },
   {
-   "n": "Té negro en saquitos Green Hills classic 100 uni",
-   "m": "Green Hills",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192745/7790480008285_02.jpg?v=637515949710600000",
-   "cadena": "Jumbo",
-   "precio": 3630.0,
-   "link": "https://www.jumbo.com.ar/te-green-hills-saquitos-200-gr/p",
-   "referencia": 6050.0,
-   "precio_2da": 6190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.4,
-   "score": 1654,
-   "pr": {
-    "Carrefour": [
-     6190.0,
-     "https://www.carrefour.com.ar/te-negro-en-saquitos-green-hills-classic-100-uni-7572/p"
-    ],
-    "Vea": [
-     6190.0,
-     "https://www.vea.com.ar/te-green-hills-saquitos-200-gr/p"
-    ],
-    "Jumbo": [
-     3630.0,
-     "https://www.jumbo.com.ar/te-green-hills-saquitos-200-gr/p"
-    ],
-    "Comodín": [
-     6593.59,
-     "https://www.comodinencasa.com.ar/te-green-hills-momentos-clasico-100saq/p"
-    ]
-   }
-  },
-  {
    "n": "Desodorante Barra Old Spice Mar Profundo 50g",
    "m": "OLD SPICE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/677412/Desodorante-Barra-Old-Spice-Mar-Profundo-50g-1-881673.jpg?v=637733001716800000",
@@ -871,63 +759,13 @@
      2263.99,
      "https://www.comodinencasa.com.ar/porotos-alubia-la-espanola-x-500-gr/p"
     ],
+    "ChangoMás": [
+     1894.5,
+     "https://www.masonline.com.ar/poroto-alubia-la-espanola-500-gr-2/p"
+    ],
     "Tuchanguito": [
      1740.0,
      "https://www.tuchanguito.com.ar/productos/porotos-alubias-la-espanola-500-gr/"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Los Haroldos Reserva De Familia Malbec 750 Cc",
-   "m": "LOS HAROLDOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/624742/Vino-Tinto-Los-Haroldos-Reserva-De-Familia-Malbec-750-Cc-1-20345.jpg?v=637510296777900000",
-   "cadena": "ChangoMás",
-   "precio": 4847.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-reserva-malbec-los-haroldos-750-cc-2/p",
-   "referencia": 8079.0,
-   "precio_2da": 8160.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.6,
-   "score": 1624,
-   "pr": {
-    "Vea": [
-     8390.0,
-     "https://www.vea.com.ar/vino-tinto-los-haroldos-reserva-de-familia-malbec-750-cc/p"
-    ],
-    "Carrefour": [
-     8160.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-los-haroldos-reserva-750-cc/p"
-    ],
-    "ChangoMás": [
-     4847.4,
-     "https://www.masonline.com.ar/vino-tinto-reserva-malbec-los-haroldos-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Cafayate 750 ml",
-   "m": "Cafayate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822138/7790093095221_01.jpg?v=639083181678300000",
-   "cadena": "ChangoMás",
-   "precio": 5897.4,
-   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p",
-   "referencia": 9829.0,
-   "precio_2da": 9925.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.6,
-   "score": 1623,
-   "pr": {
-    "Carrefour": [
-     9925.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-reserva-750-cc/p"
-    ],
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/vino-cafayate-reserve-malbec-750cc/p"
-    ],
-    "ChangoMás": [
-     5897.4,
-     "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p"
     ]
    }
   },
@@ -955,6 +793,37 @@
     "ChangoMás": [
      3179.4,
      "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Dove Regeneración + Retinol 650 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917025/7791293052007_01.jpg?v=639228369513470000",
+   "cadena": "Comodín",
+   "precio": 5999.4,
+   "link": "https://www.comodinencasa.com.ar/shampoo-dove-regeneracion-650ml/p",
+   "referencia": 8910.71,
+   "precio_2da": 11917.5,
+   "baja_pct": 32.7,
+   "brecha_pct": 49.7,
+   "score": 1622,
+   "pr": {
+    "Carrefour": [
+     15890.0,
+     "https://www.carrefour.com.ar/shampoo-dove-regeneracion-retinol-650-ml-778718/p"
+    ],
+    "Vea": [
+     11917.5,
+     "https://www.vea.com.ar/shampoo-dove-regeneracionretinol-650ml/p"
+    ],
+    "Jumbo": [
+     15200.0,
+     "https://www.jumbo.com.ar/shampoo-dove-regeneracionretinol-650ml/p"
+    ],
+    "Comodín": [
+     5999.4,
+     "https://www.comodinencasa.com.ar/shampoo-dove-regeneracion-650ml/p"
     ]
    }
   },
@@ -1044,29 +913,29 @@
    }
   },
   {
-   "n": "Vino tinto Malbec Killka 750 ml",
-   "m": "Killka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849740/7798074865191_02.jpg?v=639120300857700000",
+   "n": "Vino tinto Malbec Reserva Álamos 750 ml",
+   "m": "Alamos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299887/7794450091338_01.jpg?v=638852713201800000",
    "cadena": "ChangoMás",
-   "precio": 6059.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p",
-   "referencia": 10099.0,
-   "precio_2da": 10100.0,
+   "precio": 7757.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-reserva-malbec-alamos-750-cc-2/p",
+   "referencia": 12929.0,
+   "precio_2da": 12990.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 40.3,
+   "score": 1611,
    "pr": {
     "Carrefour": [
-     10100.0,
-     "https://www.carrefour.com.ar/vino-tinto-killka-malbec-750-cc-723741/p"
+     13059.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-reserva-alamos-750-cc/p"
     ],
     "Vea": [
-     10190.0,
-     "https://www.vea.com.ar/vino-malbec-750-cc-killka/p"
+     12990.0,
+     "https://www.vea.com.ar/vino-alamos-malbec-x-750cc/p"
     ],
     "ChangoMás": [
-     6059.4,
-     "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p"
+     7757.4,
+     "https://www.masonline.com.ar/vino-tinto-reserva-malbec-alamos-750-cc-2/p"
     ]
    }
   },
@@ -1094,6 +963,33 @@
     "ChangoMás": [
      6059.4,
      "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Killka 750 ml",
+   "m": "Killka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849740/7798074865191_02.jpg?v=639120300857700000",
+   "cadena": "ChangoMás",
+   "precio": 6059.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p",
+   "referencia": 10099.0,
+   "precio_2da": 10100.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     10100.0,
+     "https://www.carrefour.com.ar/vino-tinto-killka-malbec-750-cc-723741/p"
+    ],
+    "Vea": [
+     10190.0,
+     "https://www.vea.com.ar/vino-malbec-750-cc-killka/p"
+    ],
+    "ChangoMás": [
+     6059.4,
+     "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p"
     ]
    }
   },
@@ -1334,33 +1230,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de naranja 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 360.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.6,
-   "score": 1528,
-   "pr": {
-    "Carrefour": [
-     360.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en polvo Arcor de multifruta 15 grs",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
@@ -1388,6 +1257,60 @@
     "ChangoMás": [
      409.0,
      "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Arcor de naranja 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
+   "referencia": 500.0,
+   "precio_2da": 360.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.6,
+   "score": 1528,
+   "pr": {
+    "Carrefour": [
+     360.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+    ],
+    "Vea": [
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Cabernet Sauvignon Chacabuco 750 ml",
+   "m": "Chacabuco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821612/7791843023495_02.jpg?v=639083181509770000",
+   "cadena": "ChangoMás",
+   "precio": 3311.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p",
+   "referencia": 5519.0,
+   "precio_2da": 5359.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1528,
+   "pr": {
+    "Carrefour": [
+     5359.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-chacabuco-en-botella-750-cc-734596/p"
+    ],
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p"
+    ],
+    "ChangoMás": [
+     3311.4,
+     "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p"
     ]
    }
   },
@@ -1643,41 +1566,6 @@
     "ChangoMás": [
      4459.0,
      "https://www.masonline.com.ar/vinagre-de-manzana-menoyo-1-lt-3/p"
-    ]
-   }
-  },
-  {
-   "n": "Salsa Sabor Golf 250 Grs Hellmann's",
-   "m": "HELLMANN´S",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/806762/Aderezo-Hellmanns-Salsa-Golf-250-G-Doypack-1-999916.jpg?v=638403359171270000",
-   "cadena": "Jumbo",
-   "precio": 1830.0,
-   "link": "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p",
-   "referencia": 3050.0,
-   "precio_2da": 2939.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.7,
-   "score": 1509,
-   "pr": {
-    "Vea": [
-     2990.0,
-     "https://www.vea.com.ar/salsa-golf-hellmanns-250-gr/p"
-    ],
-    "Jumbo": [
-     1830.0,
-     "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p"
-    ],
-    "Comodín": [
-     3138.79,
-     "https://www.comodinencasa.com.ar/salsa-golf-hellmanns-dp-sin-tacc-x-237gr/p"
-    ],
-    "Carrefour": [
-     2939.0,
-     "https://www.carrefour.com.ar/aderezo-hellmanns-salsa-golf-doypack-250-g-731025/p"
-    ],
-    "ChangoMás": [
-     2939.0,
-     "https://www.masonline.com.ar/salsa-golf-hellmans-250-g-2/p"
     ]
    }
   },
