@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-18",
- "actualizado": "2026-09-18 16:01",
+ "fecha": "2026-09-19",
+ "actualizado": "2026-09-19 08:23",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-08",
   "2026-09-09",
   "2026-09-10",
   "2026-09-11",
@@ -19,41 +18,11 @@
   "2026-09-15",
   "2026-09-16",
   "2026-09-17",
-  "2026-09-18"
+  "2026-09-18",
+  "2026-09-19"
  ],
- "total": 58,
+ "total": 69,
  "ofertas": [
-  {
-   "n": "Plato Hondo Transparente Vidrio Gema Durax",
-   "m": "SD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/759703/Plato-Hondo-De-Vidrio-Gema-Mercator-1-8849.jpg?v=638042206168670000",
-   "cadena": "Vea",
-   "precio": 884.7,
-   "link": "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p",
-   "referencia": 2064.3,
-   "precio_2da": 1959.0,
-   "baja_pct": 57.1,
-   "brecha_pct": 54.8,
-   "score": 3134,
-   "pr": {
-    "Vea": [
-     884.7,
-     "https://www.vea.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
-    ],
-    "Jumbo": [
-     2211.75,
-     "https://www.jumbo.com.ar/plato-hondo-de-vidrio-gema-mercator/p"
-    ],
-    "Carrefour": [
-     1959.0,
-     "https://www.carrefour.com.ar/plato-hondo-durax-gema-701099/p"
-    ],
-    "ChangoMás": [
-     1959.0,
-     "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p"
-    ]
-   }
-  },
   {
    "n": "Vino tinto Malbec Cafayate 750 ml",
    "m": "Cafayate",
@@ -136,29 +105,305 @@
    }
   },
   {
-   "n": "Leche Sabor Chocolate 190 Ml Nestle",
-   "m": "NESTLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
-   "cadena": "Carrefour",
-   "precio": 1414.5,
-   "link": "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p",
-   "referencia": 2829.0,
-   "precio_2da": 2829.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "n": "Jabón Líquido Concentrado para Diluir Ala con Bicarbonato 500 ml",
+   "m": "Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/671115/7791290795495_01.jpg?v=638853550166270000",
+   "cadena": "Comodín",
+   "precio": 4199.3,
+   "link": "https://www.comodinencasa.com.ar/jabon-ala-diluir-bicarbonato-500ml/p",
+   "referencia": 8962.79,
+   "precio_2da": 7799.0,
+   "baja_pct": 53.1,
+   "brecha_pct": 46.2,
+   "score": 2453,
    "pr": {
-    "Jumbo": [
-     2950.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
-    ],
     "Carrefour": [
-     1414.5,
-     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
+     10290.0,
+     "https://www.carrefour.com.ar/jabon-liquido-concentrado-para-diluir-ala-con-bicarbonato-500-ml-730415/p"
+    ],
+    "Vea": [
+     8990.0,
+     "https://www.vea.com.ar/jabon-liquido-concentrado-para-diluir-con-bicarbonato-500-ml-ala/p"
+    ],
+    "Jumbo": [
+     10950.0,
+     "https://www.jumbo.com.ar/jabon-liquido-concentrado-para-diluir-con-bicarbonato-500-ml-ala/p"
+    ],
+    "Comodín": [
+     4199.3,
+     "https://www.comodinencasa.com.ar/jabon-ala-diluir-bicarbonato-500ml/p"
     ],
     "ChangoMás": [
-     2829.0,
-     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+     7799.0,
+     "https://www.masonline.com.ar/jabon-liquido-ala-con-bicarbonato-para-diluir-500ml-rinde-3l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón Líquido Concentrado para Diluir Ala Blancos más blancos Baja Espuma 500 ml",
+   "m": "Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922000/7791290796485_01.jpg?v=639238747481700000",
+   "cadena": "Comodín",
+   "precio": 4199.3,
+   "link": "https://www.comodinencasa.com.ar/jabon-ala-diluir-mas-blanco-500ml/p",
+   "referencia": 8962.79,
+   "precio_2da": 7799.0,
+   "baja_pct": 53.1,
+   "brecha_pct": 46.2,
+   "score": 2453,
+   "pr": {
+    "Carrefour": [
+     10290.0,
+     "https://www.carrefour.com.ar/jabon-liquido-concentrado-para-diluir-ala-blancos-baja-espuma-500-ml-762344/p"
+    ],
+    "Vea": [
+     8990.0,
+     "https://www.vea.com.ar/jabon-liquido-para-diluir-blancos-mas-blancos-500-ml-ala/p"
+    ],
+    "Jumbo": [
+     10950.0,
+     "https://www.jumbo.com.ar/jabon-liquido-para-diluir-blancos-mas-blancos-500-ml-ala/p"
+    ],
+    "Comodín": [
+     4199.3,
+     "https://www.comodinencasa.com.ar/jabon-ala-diluir-mas-blanco-500ml/p"
+    ],
+    "ChangoMás": [
+     7799.0,
+     "https://www.masonline.com.ar/jabon-liquido-para-ropa-ala-blancos-mas-blancos-diluible-500-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Concentrado Explosión de Lavanda 500 Ml Comfort",
+   "m": "COMFORT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930235/Suavizante-Comfort-Concentrado-Explosion-De-Lavanda-Bot-500ml-1-1048246.jpg?v=639252781983430000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-explos-lavanda-500ml/p",
+   "referencia": 6592.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 53.7,
+   "brecha_pct": 43.4,
+   "score": 2329,
+   "pr": {
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-concentrado-explosion-de-lavanda-bot-500ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-explos-lavanda-500ml/p"
+    ],
+    "ChangoMás": [
+     5799.0,
+     "https://www.masonline.com.ar/suavizante-para-ropa-comfort-concentrado-explosion-de-lavanda-500-ml/p"
+    ],
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-para-ropa-comfort-explosion-de-lavanda-botella-500-ml-767418/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Comfort Secrets 48 500 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917449/7891150091986_01.jpg?v=639229132688600000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-segredos-n48-500ml/p",
+   "referencia": 6357.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 43.4,
+   "score": 2254,
+   "pr": {
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-comfort-secrets-48-500-ml-762343/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-concentrado-secrets-48-ingredientes-500ml/p"
+    ],
+    "Jumbo": [
+     5622.5,
+     "https://www.jumbo.com.ar/suavizante-comfort-concentrado-secrets-48-ingredientes-500ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-segredos-n48-500ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Concentrado Comfort Brisa Elegante 500 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924002/7891150045460_01.jpg?v=639240541989730000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-expert-care-f-500ml/p",
+   "referencia": 6357.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 43.4,
+   "score": 2254,
+   "pr": {
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-concentrado-comfort-brisa-elegante-500-ml-714275/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-concentrado-fiber-protect-500ml/p"
+    ],
+    "Jumbo": [
+     5622.5,
+     "https://www.jumbo.com.ar/suavizante-comfort-concentrado-fiber-protect-500ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-expert-care-f-500ml/p"
+    ],
+    "ChangoMás": [
+     5799.0,
+     "https://www.masonline.com.ar/suavizante-concentrado-comfort-fiber-protect-500ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Concentrado Comfort Frescor Intenso 500 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693960/7891150000971_01.jpg?v=638924285592070000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-intese-cuid-ess-500ml/p",
+   "referencia": 6357.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 43.4,
+   "score": 2254,
+   "pr": {
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-concentrado-comfort-frescor-intenso-500-ml-714273/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-cocnentrado-cuidado-essencial-500ml/p"
+    ],
+    "Jumbo": [
+     5622.5,
+     "https://www.jumbo.com.ar/suavizante-comfort-cocnentrado-cuidado-essencial-500ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-intese-cuid-ess-500ml/p"
+    ],
+    "ChangoMás": [
+     5799.0,
+     "https://www.masonline.com.ar/suavizante-concentrado-comfort-cuidado-esencial-500ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Comfort Secrets 10 Botella 500 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917352/7891150105836_01.jpg?v=639228558714530000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-segredos-n10-500ml/p",
+   "referencia": 6357.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 43.4,
+   "score": 2254,
+   "pr": {
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-comfort-secrets-10-botella-500-ml-773615/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-concentrado-secrets-10-bot-500-ml/p"
+    ],
+    "Jumbo": [
+     5622.5,
+     "https://www.jumbo.com.ar/suavizante-comfort-concentrado-secrets-10-bot-500-ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-segredos-n10-500ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Concentrado Comfort Puro Cuidado 500 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/315357/7891150039001_01.jpg?v=638801002061470000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-intese-puro-cui-500ml/p",
+   "referencia": 6357.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 43.4,
+   "score": 2254,
+   "pr": {
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-concentrado-comfort-puro-cuidado-500-ml-714274/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-concentrado-hipoalergenico-500ml/p"
+    ],
+    "Jumbo": [
+     5622.5,
+     "https://www.jumbo.com.ar/suavizante-comfort-concentrado-hipoalergenico-500ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-intese-puro-cui-500ml/p"
+    ],
+    "ChangoMás": [
+     5799.0,
+     "https://www.masonline.com.ar/suavizante-concentrado-comfort-puro-cuidado-500ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Concentrado Comfort Energia Floral 500 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921716/7891150025288_01.jpg?v=639238730017530000",
+   "cadena": "Comodín",
+   "precio": 3054.35,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-energia-floral-500ml/p",
+   "referencia": 6357.59,
+   "precio_2da": 5395.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 43.4,
+   "score": 2254,
+   "pr": {
+    "Carrefour": [
+     5395.0,
+     "https://www.carrefour.com.ar/suavizante-concentrado-comfort-energia-floral-500-ml-735792/p"
+    ],
+    "Vea": [
+     8300.0,
+     "https://www.vea.com.ar/suavizante-comfort-concentrado-energia-floral-500ml/p"
+    ],
+    "Jumbo": [
+     5622.5,
+     "https://www.jumbo.com.ar/suavizante-comfort-concentrado-energia-floral-500ml/p"
+    ],
+    "Comodín": [
+     3054.35,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-energia-floral-500ml/p"
+    ],
+    "ChangoMás": [
+     5799.0,
+     "https://www.masonline.com.ar/suavizante-comfort-energia-florar-500-ml-2/p"
     ]
    }
   },
@@ -217,29 +462,56 @@
    }
   },
   {
-   "n": "Antitranspirante en gel Secret Ph Balanc clinical 45 grs",
-   "m": "Secret",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/741046/7500435144636_02.jpg?v=638962365123570000",
-   "cadena": "Jumbo",
-   "precio": 11350.0,
-   "link": "https://www.jumbo.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p",
-   "referencia": 21450.0,
-   "precio_2da": 21439.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 47.1,
-   "score": 2216,
+   "n": "Leche Sabor Chocolate 190 Ml Nestle",
+   "m": "NESTLE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
+   "cadena": "Carrefour",
+   "precio": 1414.5,
+   "link": "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p",
+   "referencia": 2545.0,
+   "precio_2da": 2829.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 50.0,
+   "score": 2221,
    "pr": {
-    "Carrefour": [
-     21439.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-gel-secret-ph-balanc-clinical-45-grs-768977/p"
-    ],
-    "Vea": [
-     22590.0,
-     "https://www.vea.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
-    ],
     "Jumbo": [
-     11350.0,
-     "https://www.jumbo.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
+     2950.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
+    ],
+    "Carrefour": [
+     1414.5,
+     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
+    ],
+    "ChangoMás": [
+     2829.0,
+     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Aderezo de Mayonesa Sabor Guacamole 305 Grs Herdez",
+   "m": "HERDEZ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/900849/Aderezo-De-Mayonesa-Sabor-Guacamole-305Gr-Herdez-Aderezo-De-Mayonesa-Herdez-Sabor-Guacamole-305-1-1054966.jpg?v=639082354027700000",
+   "cadena": "Jumbo",
+   "precio": 4650.0,
+   "link": "https://www.jumbo.com.ar/aderezo-de-mayonesa-sabor-guacamole-305gr-herdez/p",
+   "referencia": 7750.0,
+   "precio_2da": 9879.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 52.9,
+   "score": 2117,
+   "pr": {
+    "Jumbo": [
+     4650.0,
+     "https://www.jumbo.com.ar/aderezo-de-mayonesa-sabor-guacamole-305gr-herdez/p"
+    ],
+    "ChangoMás": [
+     9879.0,
+     "https://www.masonline.com.ar/mayonesa-herdez-guacamole-305-g/p"
+    ],
+    "Carrefour": [
+     9879.0,
+     "https://www.carrefour.com.ar/aderezo-de-mayonesa-herdez-sabor-guacamole-305-grs-765779/p"
     ]
    }
   },
@@ -267,6 +539,33 @@
     "Carrefour": [
      21439.0,
      "https://www.carrefour.com.ar/antitranspirante-en-barra-old-spice-aroma-cedro-50-grs-768967/p"
+    ]
+   }
+  },
+  {
+   "n": "Desodorante en Barra Dragon Blast Cedro 50 Grs Old Spice",
+   "m": "OLD SPICE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891600/Antitranspirante-Dragon-Blast-Aroma-Cedro-X-50-Grs-Old-Spice-1-1051872.jpg?v=638999517800930000",
+   "cadena": "Jumbo",
+   "precio": 5975.0,
+   "link": "https://www.jumbo.com.ar/antitranspirante-dragon-blast-aroma-cedro-x-50-grs-old-spice/p",
+   "referencia": 11300.0,
+   "precio_2da": 10590.0,
+   "baja_pct": 47.1,
+   "brecha_pct": 43.6,
+   "score": 2054,
+   "pr": {
+    "Vea": [
+     10590.0,
+     "https://www.vea.com.ar/antitranspirante-dragon-blast-aroma-cedro-x-50-grs-old-spice/p"
+    ],
+    "Jumbo": [
+     5975.0,
+     "https://www.jumbo.com.ar/antitranspirante-dragon-blast-aroma-cedro-x-50-grs-old-spice/p"
+    ],
+    "Carrefour": [
+     11419.0,
+     "https://www.carrefour.com.ar/antitranspirante-en-barra-secret-coconut-45-grs-768979/p"
     ]
    }
   },
@@ -329,33 +628,6 @@
    }
   },
   {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
-   "cadena": "Comodín",
-   "precio": 1449.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2615.0,
-   "baja_pct": 41.9,
-   "brecha_pct": 44.6,
-   "score": 1870,
-   "pr": {
-    "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
-    ],
-    "Comodín": [
-     1449.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
-    ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
-    ]
-   }
-  },
-  {
    "n": "Leche Condensada Descremada Orgánica 395 Grs Nestlé®",
    "m": "NESTLE",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875560/Nestl-Leche-Condensada-Descremada-Org-nica-X-395gr-1-998064.jpg?v=638872403891100000",
@@ -375,10 +647,6 @@
     "ChangoMás": [
      5909.0,
      "https://www.masonline.com.ar/leche-condensada-nestle-descremada-395-g-2/p"
-    ],
-    "Tuchanguito": [
-     4390.0,
-     "https://www.tuchanguito.com.ar/productos/leche-nestle-condensada-descremada-395-gr/"
     ],
     "Carrefour": [
      1912.5,
@@ -441,6 +709,33 @@
    }
   },
   {
+   "n": "Jabón Líquido Concentrado Ciclos Cortos 800 Ml Skip",
+   "m": "SKIP",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/878671/Detergente-Liquido-Cuidado-Activo-Botella-800-Ml-Skip-1-1039014.jpg?v=638894217780800000",
+   "cadena": "Comodín",
+   "precio": 5142.49,
+   "link": "https://www.comodinencasa.com.ar/jabon-skip-c-cortos-cuidado-a-bot-800ml/p",
+   "referencia": 9723.99,
+   "precio_2da": 8190.0,
+   "baja_pct": 47.1,
+   "brecha_pct": 37.2,
+   "score": 1753,
+   "pr": {
+    "Vea": [
+     11290.0,
+     "https://www.vea.com.ar/jabon-liquido-concentrado-ciclo-corto-cuidado-activo-800-ml-skip/p"
+    ],
+    "Jumbo": [
+     8190.0,
+     "https://www.jumbo.com.ar/jabon-liquido-concentrado-ciclo-corto-cuidado-activo-800-ml-skip/p"
+    ],
+    "Comodín": [
+     5142.49,
+     "https://www.comodinencasa.com.ar/jabon-skip-c-cortos-cuidado-a-bot-800ml/p"
+    ]
+   }
+  },
+  {
    "n": "Arroz Con Leche Light Tregar 180 Gr",
    "m": "TREGAR",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/180713/Arroz-Con-Leche-Tregar-X-180-Gr-Arroz-Con-Leche-Light-Tregar-180-Gr-1-13280.jpg?v=636383400037530000",
@@ -491,6 +786,87 @@
     "ChangoMás": [
      5414.5,
      "https://www.masonline.com.ar/cacao-chocolino-fortificado-900gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Rubia 473 Ml Salta",
+   "m": "SALTA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
+   "cadena": "Comodín",
+   "precio": 1499.0,
+   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 2615.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 42.7,
+   "score": 1705,
+   "pr": {
+    "Jumbo": [
+     2803.0,
+     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
+    ],
+    "Comodín": [
+     1499.0,
+     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
+    ],
+    "Carrefour": [
+     2615.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Clight Pera 7grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814699/7622201703202_E01.jpg?v=639082501012000000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-pera-7-grs-711441/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-pera-7-grs-clight/p"
+    ],
+    "ChangoMás": [
+     579.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-pera-7g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Clight limonada rosa 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/812003/7622201682026_E01.jpg?v=639082498632170000",
+   "cadena": "Carrefour",
+   "precio": 328.02,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p",
+   "referencia": 560.0,
+   "precio_2da": 553.0,
+   "baja_pct": 41.4,
+   "brecha_pct": 40.7,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     328.02,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-rosa-8-grs-693718/p"
+    ],
+    "Vea": [
+     560.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
+    ],
+    "Jumbo": [
+     553.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-rosa-8-grs-clight/p"
     ]
    }
   },
@@ -553,37 +929,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de durazno 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817837/7790580142766_E02.jpg?v=639082513719730000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 377.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1684,
-   "pr": {
-    "Carrefour": [
-     377.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-anana-y-banana-15-g/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en polvo Arcor de limonada 15 grs",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
@@ -611,6 +956,37 @@
     "ChangoMás": [
      409.0,
      "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Arcor de durazno 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817837/7790580142766_E02.jpg?v=639082513719730000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p",
+   "referencia": 500.0,
+   "precio_2da": 377.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 33.7,
+   "score": 1684,
+   "pr": {
+    "Carrefour": [
+     377.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
+    ],
+    "Vea": [
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-anana-y-banana-15-g/p"
     ]
    }
   },
@@ -646,160 +1022,125 @@
    }
   },
   {
-   "n": "Bolsas con Cierre Hermético Plástico 16,5 x 14,9 Cm x 50 Un Ziploc",
-   "m": "ZIPLOC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900124/Bolsas-Herm-ticas-Ziploc-Para-Llevar-Chica-50un-1-169380.jpg?v=639074797173930000",
+   "n": "Té negro en saquitos Green Hills classic 100 uni",
+   "m": "Green Hills",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192745/7790480008285_02.jpg?v=637515949710600000",
    "cadena": "Jumbo",
-   "precio": 5099.5,
-   "link": "https://www.jumbo.com.ar/ziploc-bolsa-llevar-chica-50un/p",
-   "referencia": 10199.0,
-   "precio_2da": 7687.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1683,
-   "pr": {
-    "Vea": [
-     7992.0,
-     "https://www.vea.com.ar/ziploc-bolsa-llevar-chica-50un/p"
-    ],
-    "Jumbo": [
-     5099.5,
-     "https://www.jumbo.com.ar/ziploc-bolsa-llevar-chica-50un/p"
-    ],
-    "Comodín": [
-     7687.69,
-     "https://www.comodinencasa.com.ar/bolsas-ziploc-sandwich-x-50-un/p"
-    ],
-    "ChangoMás": [
-     11499.0,
-     "https://www.masonline.com.ar/bolsa-ziploc-chica-50u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Maíz La Española Gourmet Pisado 400 Gr",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645174/Ma-z-La-Espa-ola-Gourmet-Pisado-400-Gr-1-28151.jpg?v=637578552935000000",
-   "cadena": "Vea",
-   "precio": 567.0,
-   "link": "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p",
-   "referencia": 945.0,
-   "precio_2da": 975.0,
+   "precio": 3630.0,
+   "link": "https://www.jumbo.com.ar/te-green-hills-saquitos-200-gr/p",
+   "referencia": 6050.0,
+   "precio_2da": 6190.0,
    "baja_pct": 40.0,
-   "brecha_pct": 41.8,
-   "score": 1674,
+   "brecha_pct": 41.4,
+   "score": 1654,
    "pr": {
+    "Carrefour": [
+     6190.0,
+     "https://www.carrefour.com.ar/te-negro-en-saquitos-green-hills-classic-100-uni-7572/p"
+    ],
     "Vea": [
-     567.0,
-     "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
+     6190.0,
+     "https://www.vea.com.ar/te-green-hills-saquitos-200-gr/p"
     ],
     "Jumbo": [
-     975.0,
-     "https://www.jumbo.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
-    ],
-    "Carrefour": [
-     1650.0,
-     "https://www.carrefour.com.ar/maiz-blanco-molido-la-espanola-en-bolsa-400-grs-547445/p"
+     3630.0,
+     "https://www.jumbo.com.ar/te-green-hills-saquitos-200-gr/p"
     ],
     "Comodín": [
-     1461.99,
-     "https://www.comodinencasa.com.ar/maiz-pisado-blanco-la-espanola-x-400gr/p"
+     6593.59,
+     "https://www.comodinencasa.com.ar/te-green-hills-momentos-clasico-100saq/p"
     ]
    }
   },
   {
-   "n": "Desodorante Barra Old Spice Mar Profundo 50g",
-   "m": "OLD SPICE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/677412/Desodorante-Barra-Old-Spice-Mar-Profundo-50g-1-881673.jpg?v=637733001716800000",
-   "cadena": "Jumbo",
-   "precio": 5975.0,
-   "link": "https://www.jumbo.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p",
-   "referencia": 11300.0,
-   "precio_2da": 9190.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 35.0,
-   "score": 1649,
-   "pr": {
-    "Vea": [
-     9190.0,
-     "https://www.vea.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p"
-    ],
-    "Jumbo": [
-     5975.0,
-     "https://www.jumbo.com.ar/desodorante-barra-old-spice-mar-profundo-50g-2/p"
-    ],
-    "Carrefour": [
-     11419.0,
-     "https://www.carrefour.com.ar/desodorante-en-barra-old-spice-mar-profundo-50-g-658419/p"
-    ]
-   }
-  },
-  {
-   "n": "Porotos Alubias 500 Grs La Española Gourmet",
-   "m": "LA ESPAÑOLA GOURMET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776401/Poroto-La-Espa-ola-Alubia-X-500gr-Poroto-La-Espa-ola-Alubia-X-500gr-1-28202.jpg?v=638168349660170000",
-   "cadena": "Vea",
-   "precio": 897.0,
-   "link": "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p",
-   "referencia": 1495.0,
-   "precio_2da": 1525.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.2,
-   "score": 1647,
-   "pr": {
-    "Vea": [
-     897.0,
-     "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p"
-    ],
-    "Jumbo": [
-     1525.0,
-     "https://www.jumbo.com.ar/poroto-la-espanola-alubia-500-gr/p"
-    ],
-    "Comodín": [
-     2263.99,
-     "https://www.comodinencasa.com.ar/porotos-alubia-la-espanola-x-500-gr/p"
-    ],
-    "ChangoMás": [
-     1894.5,
-     "https://www.masonline.com.ar/poroto-alubia-la-espanola-500-gr-2/p"
-    ],
-    "Tuchanguito": [
-     1740.0,
-     "https://www.tuchanguito.com.ar/productos/porotos-alubias-la-espanola-500-gr/"
-    ]
-   }
-  },
-  {
-   "n": "Vino blanco dulce natural Dilema 750 ml",
-   "m": "Dilema",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821334/7790314079726_02.jpg?v=639083181376230000",
+   "n": "Alfajor Terrabusi Intenso 55 grs",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915684/7622202296291_E01.jpg?v=639227423285570000",
    "cadena": "ChangoMás",
-   "precio": 3179.4,
-   "link": "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p",
-   "referencia": 5299.0,
-   "precio_2da": 5349.0,
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p",
+   "referencia": 2209.0,
+   "precio_2da": 2000.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 37.5,
+   "score": 1630,
+   "pr": {
+    "Carrefour": [
+     2000.0,
+     "https://www.carrefour.com.ar/alfajor-terrabusi-intenso-55-grs-765346/p"
+    ],
+    "Jumbo": [
+     2150.0,
+     "https://www.jumbo.com.ar/alfajor-sin-gluten-x-50-grs-terrabusi/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Cafayate 750 ml",
+   "m": "Cafayate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822138/7790093095221_01.jpg?v=639083181678300000",
+   "cadena": "ChangoMás",
+   "precio": 5897.4,
+   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p",
+   "referencia": 9829.0,
+   "precio_2da": 9925.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.6,
+   "score": 1623,
+   "pr": {
+    "Carrefour": [
+     9925.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-reserva-750-cc/p"
+    ],
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/vino-cafayate-reserve-malbec-750cc/p"
+    ],
+    "ChangoMás": [
+     5897.4,
+     "https://www.masonline.com.ar/vino-malbec-cafayate-reserve-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Dove Reconstrucción + Aminoácido 650 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917003/7791293052038_01.jpg?v=639228366756070000",
+   "cadena": "Comodín",
+   "precio": 5999.4,
+   "link": "https://www.comodinencasa.com.ar/acondicionador-dove-reconstruccion-650ml/p",
+   "referencia": 8910.71,
+   "precio_2da": 11917.5,
+   "baja_pct": 32.7,
+   "brecha_pct": 49.7,
    "score": 1622,
    "pr": {
     "Carrefour": [
-     5349.0,
-     "https://www.carrefour.com.ar/vino-blanco-dulce-natural-emilia-750-ml-556275/p"
+     15890.0,
+     "https://www.carrefour.com.ar/acondicionador-dove-reconstrucion-aminoacido-650-ml-778713/p"
     ],
     "Vea": [
-     5390.0,
-     "https://www.vea.com.ar/vino-dilema-blanco-dulce-750cc/p"
+     11917.5,
+     "https://www.vea.com.ar/acondicionador-dove-reconstaminoacido-650ml/p"
     ],
-    "ChangoMás": [
-     3179.4,
-     "https://www.masonline.com.ar/vino-blanco-dilema-750-ml-2/p"
+    "Jumbo": [
+     17850.0,
+     "https://www.jumbo.com.ar/acondicionador-dove-reconstaminoacido-650ml/p"
+    ],
+    "Comodín": [
+     5999.4,
+     "https://www.comodinencasa.com.ar/acondicionador-dove-reconstruccion-650ml/p"
     ]
    }
   },
   {
-   "n": "Shampoo Dove Regeneración + Retinol 650 ml",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917025/7791293052007_01.jpg?v=639228369513470000",
+   "n": "Shampoo Regeneración Retinol 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930255/Shampoo-Dove-Regeneracionretinol-650ml-1-1058301.jpg?v=639252782051730000",
    "cadena": "Comodín",
    "precio": 5999.4,
    "link": "https://www.comodinencasa.com.ar/shampoo-dove-regeneracion-650ml/p",
@@ -809,10 +1150,6 @@
    "brecha_pct": 49.7,
    "score": 1622,
    "pr": {
-    "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/shampoo-dove-regeneracion-retinol-650-ml-778718/p"
-    ],
     "Vea": [
      11917.5,
      "https://www.vea.com.ar/shampoo-dove-regeneracionretinol-650ml/p"
@@ -824,37 +1161,6 @@
     "Comodín": [
      5999.4,
      "https://www.comodinencasa.com.ar/shampoo-dove-regeneracion-650ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Humectación y Coco Antioxi 650 Ml Dove",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930252/Acondicionador-Dove-Humectcoco-Antioxi-650ml-1-1058298.jpg?v=639252782041100000",
-   "cadena": "Comodín",
-   "precio": 5999.4,
-   "link": "https://www.comodinencasa.com.ar/acondicionador-dove-coco-650ml/p",
-   "referencia": 8910.71,
-   "precio_2da": 11917.5,
-   "baja_pct": 32.7,
-   "brecha_pct": 49.7,
-   "score": 1622,
-   "pr": {
-    "Vea": [
-     11917.5,
-     "https://www.vea.com.ar/acondicionador-dove-humectcoco-antioxi-650ml/p"
-    ],
-    "Jumbo": [
-     15200.0,
-     "https://www.jumbo.com.ar/acondicionador-dove-humectcoco-antioxi-650ml/p"
-    ],
-    "Comodín": [
-     5999.4,
-     "https://www.comodinencasa.com.ar/acondicionador-dove-coco-650ml/p"
-    ],
-    "Carrefour": [
-     15890.0,
-     "https://www.carrefour.com.ar/acondicionador-dove-humectacion-coco-antioxi-650-ml-778711/p"
     ]
    }
   },
@@ -940,33 +1246,6 @@
    }
   },
   {
-   "n": "Vino tinto Cabernet Killka 750 ml",
-   "m": "Killka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364552/7798074865139_01.jpg?v=638265118748630000",
-   "cadena": "ChangoMás",
-   "precio": 6059.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p",
-   "referencia": 10099.0,
-   "precio_2da": 10100.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     10100.0,
-     "https://www.carrefour.com.ar/vino-tinto-killka-cabernet-750-cc-723739/p"
-    ],
-    "Vea": [
-     10590.0,
-     "https://www.vea.com.ar/vino-cabernet-sauvignon-750-cc-killka/p"
-    ],
-    "ChangoMás": [
-     6059.4,
-     "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Vino tinto Malbec Killka 750 ml",
    "m": "Killka",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849740/7798074865191_02.jpg?v=639120300857700000",
@@ -990,6 +1269,33 @@
     "ChangoMás": [
      6059.4,
      "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Cabernet Killka 750 ml",
+   "m": "Killka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364552/7798074865139_01.jpg?v=638265118748630000",
+   "cadena": "ChangoMás",
+   "precio": 6059.4,
+   "link": "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p",
+   "referencia": 10099.0,
+   "precio_2da": 10100.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     10100.0,
+     "https://www.carrefour.com.ar/vino-tinto-killka-cabernet-750-cc-723739/p"
+    ],
+    "Vea": [
+     10590.0,
+     "https://www.vea.com.ar/vino-cabernet-sauvignon-750-cc-killka/p"
+    ],
+    "ChangoMás": [
+     6059.4,
+     "https://www.masonline.com.ar/vino-tinto-killka-cabernet-sauvignon-750ml-2/p"
     ]
    }
   },
@@ -1021,6 +1327,33 @@
    }
   },
   {
+   "n": "Espumante Salentein Blanc de Blancs 750 Ml",
+   "m": "SALENTEIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/927962/12410382002.jpg?v=639245827923300000",
+   "cadena": "ChangoMás",
+   "precio": 11369.4,
+   "link": "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p",
+   "referencia": 18949.0,
+   "precio_2da": 18950.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     20690.0,
+     "https://www.vea.com.ar/espumante-salentein-blanc-de-blancs-750-ml/p"
+    ],
+    "Carrefour": [
+     18950.0,
+     "https://www.carrefour.com.ar/espumante-salentein-blanc-de-blancs-750-ml-719772/p"
+    ],
+    "ChangoMás": [
+     11369.4,
+     "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Toallitas Femeninas Normal Protect x 8 Un Ladysoft",
    "m": "LADYSOFT",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/844217/Toallas-Femeninas-Ladysoft-Normal-Protect-8-U-1-1001409.jpg?v=638660829821300000",
@@ -1044,68 +1377,6 @@
     "Carrefour": [
      3000.0,
      "https://www.carrefour.com.ar/toallas-femeninas-ladysoft-normal-protect-8-uni-731456/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pro-V Miracles Volumen 400 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808473/Sham-Pantene-Provmir-Volumen-400ml-1-1006989.jpg?v=638422478425000000",
-   "cadena": "Comodín",
-   "precio": 4256.85,
-   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-prov-micracles-vol-400ml/p",
-   "referencia": 6856.77,
-   "precio_2da": 7343.4,
-   "baja_pct": 37.9,
-   "brecha_pct": 42.0,
-   "score": 1594,
-   "pr": {
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/sahmpoo-pro-v-miracles-volumen-400-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     7832.5,
-     "https://www.jumbo.com.ar/sahmpoo-pro-v-miracles-volumen-400-ml-pantene-2/p"
-    ],
-    "Comodín": [
-     4256.85,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-prov-micracles-vol-400ml/p"
-    ],
-    "ChangoMás": [
-     7343.4,
-     "https://www.masonline.com.ar/shampoo-pantene-volumen-400-ml-2/p"
-    ],
-    "Carrefour": [
-     9790.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-volumen-400-cc-733826/p"
-    ]
-   }
-  },
-  {
-   "n": "Mayonesa Natura 237 g.",
-   "m": "Natura",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/898545/7791866001203_E02.jpg?v=639186156694930000",
-   "cadena": "Jumbo",
-   "precio": 960.0,
-   "link": "https://www.jumbo.com.ar/aderezo-mayonesa-natura-237-gr/p",
-   "referencia": 1600.0,
-   "precio_2da": 1590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1585,
-   "pr": {
-    "Carrefour": [
-     1605.0,
-     "https://www.carrefour.com.ar/mayonesa-natura-237-g/p"
-    ],
-    "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/aderezo-mayonesa-natura-237-gr/p"
-    ],
-    "Jumbo": [
-     960.0,
-     "https://www.jumbo.com.ar/aderezo-mayonesa-natura-237-gr/p"
     ]
    }
   },
@@ -1172,6 +1443,33 @@
    }
   },
   {
+   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
+   "cadena": "Jumbo",
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
+   "referencia": 2650.0,
+   "precio_2da": 1913.4,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.8,
+   "score": 1538,
+   "pr": {
+    "Carrefour": [
+     1913.4,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
+    ],
+    "Jumbo": [
+     1325.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
+    ],
+    "ChangoMás": [
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
+    ]
+   }
+  },
+  {
    "n": "Bolsas para Horno Sabor Mediterráneo 25 Grs Maggi",
    "m": "MAGGI",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/900610/Bolsa-Para-Horno-Meditarrea-X-25-Grs-Maggi-1-1055224.jpg?v=639080626093400000",
@@ -1197,7 +1495,7 @@
      "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
     ],
     "ChangoMás": [
-     2072.85,
+     3189.0,
      "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
     ]
    }
@@ -1506,7 +1804,7 @@
      "https://www.comodinencasa.com.ar/salsa-de-soja-dos-anclas-trad-500cc/p"
     ],
     "Carrefour": [
-     6400.0,
+     6559.0,
      "https://www.carrefour.com.ar/salsa-de-soja-dos-anclas-libre-de-gluten-500-ml/p"
     ]
    }
@@ -1566,6 +1864,41 @@
     "ChangoMás": [
      4459.0,
      "https://www.masonline.com.ar/vinagre-de-manzana-menoyo-1-lt-3/p"
+    ]
+   }
+  },
+  {
+   "n": "Salsa Sabor Golf 250 Grs Hellmann's",
+   "m": "HELLMANN´S",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/806762/Aderezo-Hellmanns-Salsa-Golf-250-G-Doypack-1-999916.jpg?v=638403359171270000",
+   "cadena": "Jumbo",
+   "precio": 1830.0,
+   "link": "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p",
+   "referencia": 3050.0,
+   "precio_2da": 2939.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1509,
+   "pr": {
+    "Vea": [
+     2990.0,
+     "https://www.vea.com.ar/salsa-golf-hellmanns-250-gr/p"
+    ],
+    "Jumbo": [
+     1830.0,
+     "https://www.jumbo.com.ar/salsa-golf-hellmanns-250-gr/p"
+    ],
+    "Comodín": [
+     3138.79,
+     "https://www.comodinencasa.com.ar/salsa-golf-hellmanns-dp-sin-tacc-x-237gr/p"
+    ],
+    "Carrefour": [
+     2939.0,
+     "https://www.carrefour.com.ar/aderezo-hellmanns-salsa-golf-doypack-250-g-731025/p"
+    ],
+    "ChangoMás": [
+     2939.0,
+     "https://www.masonline.com.ar/salsa-golf-hellmans-250-g-2/p"
     ]
    }
   },
