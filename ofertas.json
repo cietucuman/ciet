@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-20",
- "actualizado": "2026-09-20 11:10",
+ "actualizado": "2026-09-20 15:28",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-19",
   "2026-09-20"
  ],
- "total": 28,
+ "total": 29,
  "ofertas": [
   {
    "n": "Jabón en Barra Ala Ecolavado 400 grs",
@@ -213,9 +213,9 @@
    }
   },
   {
-   "n": "Cacao Chispitas Granuladas 180 Grs Chocolino",
-   "m": "CHOCOLINO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/669137/Cacao-Chocolino-180g-1-878938.jpg?v=637686238804570000",
+   "n": "Cacao en polvo Chocolino bolsa 180 g.",
+   "m": "Chocolino",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324458/7790150830444_E01.jpg?v=638197801477370000",
    "cadena": "ChangoMás",
    "precio": 1229.5,
    "link": "https://www.masonline.com.ar/cacao-chocolino-fortificado-180gr-2/p",
@@ -225,6 +225,10 @@
    "brecha_pct": 38.1,
    "score": 1907,
    "pr": {
+    "Carrefour": [
+     2339.0,
+     "https://www.carrefour.com.ar/cacao-en-polvo-chocolino-bolsa-180-g/p"
+    ],
     "Vea": [
      2490.0,
      "https://www.vea.com.ar/cacao-chocolino-180-gr-2/p"
@@ -665,6 +669,33 @@
     "Jumbo": [
      3712.5,
      "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
+   "cadena": "Carrefour",
+   "precio": 2062.5,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
+   "referencia": 3862.5,
+   "precio_2da": 3113.5,
+   "baja_pct": 46.6,
+   "brecha_pct": 33.8,
+   "score": 1573,
+   "pr": {
+    "Carrefour": [
+     2062.5,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+    ],
+    "Vea": [
+     3113.5,
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "Jumbo": [
+     3712.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
     ]
    }
   },
