@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-20",
- "actualizado": "2026-09-20 15:28",
+ "fecha": "2026-09-21",
+ "actualizado": "2026-09-21 15:32",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-10",
   "2026-09-11",
   "2026-09-12",
   "2026-09-13",
@@ -19,37 +18,11 @@
   "2026-09-17",
   "2026-09-18",
   "2026-09-19",
-  "2026-09-20"
+  "2026-09-20",
+  "2026-09-21"
  ],
- "total": 29,
+ "total": 10,
  "ofertas": [
-  {
-   "n": "Jabón en Barra Ala Ecolavado 400 grs",
-   "m": "Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923740/7791290793460_01.jpg?v=639240399590330000",
-   "cadena": "Jumbo",
-   "precio": 1675.0,
-   "link": "https://www.jumbo.com.ar/jabon-en-barra-ecolavado-400-gr-ala/p",
-   "referencia": 3350.0,
-   "precio_2da": 3490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 52.0,
-   "score": 2600,
-   "pr": {
-    "Carrefour": [
-     3525.0,
-     "https://www.carrefour.com.ar/jabon-en-barra-ala-ecolavado-400-grs-716095/p"
-    ],
-    "Vea": [
-     3490.0,
-     "https://www.vea.com.ar/jabon-en-barra-ecolavado-400-gr-ala/p"
-    ],
-    "Jumbo": [
-     1675.0,
-     "https://www.jumbo.com.ar/jabon-en-barra-ecolavado-400-gr-ala/p"
-    ]
-   }
-  },
   {
    "n": "Jugo en Polvo Sabor Manzana 7 Grs Bc",
    "m": "BC",
@@ -105,83 +78,29 @@
    }
   },
   {
-   "n": "Desodorante en Crema Clinical Strength Powder Protect 45 Grs Secret",
-   "m": "SECRET",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891603/Desodorantes-Powder-Protect-X-45-Grs-Secret-1-1051875.jpg?v=638999517817070000",
+   "n": "Vino Tinto Rum Barrel Blend 750 Cc Los Intocables",
+   "m": "LOS INTOCABLES",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/716925/Los-Intocables-Rum-Barrel-Blend-Bot-750cc-1-880013.jpg?v=637975785757730000",
    "cadena": "Jumbo",
-   "precio": 11350.0,
-   "link": "https://www.jumbo.com.ar/desodorantes-powder-protect-x-45-grs-secret/p",
-   "referencia": 21450.0,
-   "precio_2da": 20390.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 44.3,
-   "score": 2088,
+   "precio": 7450.0,
+   "link": "https://www.jumbo.com.ar/los-intocables-rum-barrel-blend-botella-750cc/p",
+   "referencia": 14900.0,
+   "precio_2da": 12895.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.2,
+   "score": 2111,
    "pr": {
     "Vea": [
-     20390.0,
-     "https://www.vea.com.ar/desodorantes-powder-protect-x-45-grs-secret/p"
+     14390,
+     "https://www.vea.com.ar/los-intocables-rum-barrel-blend-botella-750cc/p"
     ],
     "Jumbo": [
-     11350.0,
-     "https://www.jumbo.com.ar/desodorantes-powder-protect-x-45-grs-secret/p"
+     7450.0,
+     "https://www.jumbo.com.ar/los-intocables-rum-barrel-blend-botella-750cc/p"
     ],
     "Carrefour": [
-     21439.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-barra-old-spice-aroma-cedro-50-grs-768967/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Lava Coche Silisur Siliconado Manzana X 600cc",
-   "m": "SILISUR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/193350/Silisur-Shampoo-Siliconado-Manzana-600-C-Shampoo-Siliconado-De-Manzana-Silsur-600-Cc-1-29706.jpg?v=636383542545700000",
-   "cadena": "Carrefour",
-   "precio": 6799.0,
-   "link": "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p",
-   "referencia": 12399.0,
-   "precio_2da": 12490.0,
-   "baja_pct": 45.2,
-   "brecha_pct": 45.6,
-   "score": 2058,
-   "pr": {
-    "Vea": [
-     12490.0,
-     "https://www.vea.com.ar/shampoo-lava-coche-silisur-siliconado-manzana-x-600cc/p"
-    ],
-    "ChangoMás": [
-     12999.0,
-     "https://www.masonline.com.ar/shampoo-silisur-siliconado-frag-manzana-x-600-cc-2/p"
-    ],
-    "Carrefour": [
-     6799.0,
-     "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante en Barra Mar Profundo 50 Grs Old Spice",
-   "m": "OLD SPICE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906340/Deo-Old-Spice-Barra-X50g-1-838156.jpg?v=639123826497530000",
-   "cadena": "Jumbo",
-   "precio": 5975.0,
-   "link": "https://www.jumbo.com.ar/deo-old-spice-barra-x50g-2/p",
-   "referencia": 11300.0,
-   "precio_2da": 10190.0,
-   "baja_pct": 47.1,
-   "brecha_pct": 41.4,
-   "score": 1949,
-   "pr": {
-    "Vea": [
-     10190.0,
-     "https://www.vea.com.ar/deo-old-spice-barra-x50g-2/p"
-    ],
-    "Jumbo": [
-     5975.0,
-     "https://www.jumbo.com.ar/deo-old-spice-barra-x50g-2/p"
-    ],
-    "Carrefour": [
-     11419.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-barra-old-spice-mar-profundo-50-g/p"
+     12895.0,
+     "https://www.carrefour.com.ar/vino-tinto-los-intocables-blend-rum-barrel-750-cc-690115/p"
     ]
    }
   },
@@ -213,68 +132,6 @@
    }
   },
   {
-   "n": "Cacao en polvo Chocolino bolsa 180 g.",
-   "m": "Chocolino",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324458/7790150830444_E01.jpg?v=638197801477370000",
-   "cadena": "ChangoMás",
-   "precio": 1229.5,
-   "link": "https://www.masonline.com.ar/cacao-chocolino-fortificado-180gr-2/p",
-   "referencia": 2459.0,
-   "precio_2da": 1987.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.1,
-   "score": 1907,
-   "pr": {
-    "Carrefour": [
-     2339.0,
-     "https://www.carrefour.com.ar/cacao-en-polvo-chocolino-bolsa-180-g/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/cacao-chocolino-180-gr-2/p"
-    ],
-    "Jumbo": [
-     1987.5,
-     "https://www.jumbo.com.ar/cacao-chocolino-180-gr-2/p"
-    ],
-    "ChangoMás": [
-     1229.5,
-     "https://www.masonline.com.ar/cacao-chocolino-fortificado-180gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de multifruta 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 396.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1843,
-   "pr": {
-    "Carrefour": [
-     396.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-15-g/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en polvo Arcor de limonada 15 grs",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
@@ -282,13 +139,13 @@
    "precio": 250.0,
    "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
    "referencia": 500.0,
-   "precio_2da": 396.0,
+   "precio_2da": 377.0,
    "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1843,
+   "brecha_pct": 33.7,
+   "score": 1684,
    "pr": {
     "Carrefour": [
-     396.0,
+     377.0,
      "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
     ],
     "Vea": [
@@ -306,33 +163,6 @@
    }
   },
   {
-   "n": "Jugo en polvo Arcor de naranja 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 396.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1843,
-   "pr": {
-    "Carrefour": [
-     396.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en polvo Arcor de durazno 15 grs",
    "m": "Arcor",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817837/7790580142766_E02.jpg?v=639082513719730000",
@@ -340,13 +170,13 @@
    "precio": 250.0,
    "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p",
    "referencia": 500.0,
-   "precio_2da": 396.0,
+   "precio_2da": 377.0,
    "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1843,
+   "brecha_pct": 33.7,
+   "score": 1684,
    "pr": {
     "Carrefour": [
-     396.0,
+     377.0,
      "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
     ],
     "Vea": [
@@ -371,10 +201,10 @@
    "precio": 250.0,
    "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p",
    "referencia": 500.0,
-   "precio_2da": 396.0,
+   "precio_2da": 377.0,
    "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1843,
+   "brecha_pct": 33.7,
+   "score": 1684,
    "pr": {
     "Vea": [
      410.0,
@@ -389,456 +219,93 @@
      "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
     ],
     "Carrefour": [
-     396.0,
+     377.0,
      "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
     ]
    }
   },
   {
-   "n": "Alfajor Terrabusi Intenso 55 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915684/7622202296291_E01.jpg?v=639227423285570000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p",
-   "referencia": 2209.0,
-   "precio_2da": 2120.0,
-   "baja_pct": 43.4,
-   "brecha_pct": 41.1,
-   "score": 1784,
-   "pr": {
-    "Carrefour": [
-     2120.0,
-     "https://www.carrefour.com.ar/alfajor-terrabusi-intenso-55-grs-765346/p"
-    ],
-    "Jumbo": [
-     2150.0,
-     "https://www.jumbo.com.ar/alfajor-sin-gluten-x-50-grs-terrabusi/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-terrabusi-chocolate-intenso-sin-gluten-55-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida Isotónica Sabor Mountain Blast 995 Cc Powerade",
-   "m": "POWERADE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895165/Isotonico-Powerade-Mountain-Blast-995cc-1-40615.jpg?v=639033970076330000",
-   "cadena": "Carrefour",
-   "precio": 1592.5,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-powerade-mountain-blast-995-ml-570806/p",
-   "referencia": 2340.0,
-   "precio_2da": 3590.0,
-   "baja_pct": 31.9,
-   "brecha_pct": 55.6,
-   "score": 1777,
-   "pr": {
-    "Vea": [
-     3590.0,
-     "https://www.vea.com.ar/isotonico-powerade-mountain-blast-995cc/p"
-    ],
-    "Jumbo": [
-     3600.0,
-     "https://www.jumbo.com.ar/isotonico-powerade-mountain-blast-995cc/p"
-    ],
-    "Comodín": [
-     3744.0,
-     "https://www.comodinencasa.com.ar/bebida-isotonica-powerade-mountain-995cc/p"
-    ],
-    "ChangoMás": [
-     3789.0,
-     "https://www.masonline.com.ar/bebida-isotonica-mountain-blast-powerade-995-cc-2/p"
-    ],
-    "Carrefour": [
-     1592.5,
-     "https://www.carrefour.com.ar/bebida-isotonica-powerade-mountain-blast-995-ml-570806/p"
-    ]
-   }
-  },
-  {
-   "n": "Antitranspirante en gel Secret Fresh Defense Powder Protect Cotton 45 grs",
-   "m": "Secret",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/741041/7500435129374_02.jpg?v=638962365050430000",
+   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
    "cadena": "Jumbo",
-   "precio": 6550.0,
-   "link": "https://www.jumbo.com.ar/desodorante-gel-cotton-x-45-grs-secret/p",
-   "referencia": 12350.0,
-   "precio_2da": 9990.0,
-   "baja_pct": 47.0,
-   "brecha_pct": 34.4,
-   "score": 1617,
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
+   "referencia": 2650.0,
+   "precio_2da": 1913.4,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.8,
+   "score": 1538,
    "pr": {
     "Carrefour": [
-     12750.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-gel-gillette-specializeo-pro-coolwave-45-grs-768969/p"
-    ],
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/desodorante-gel-cotton-x-45-grs-secret/p"
+     1913.4,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
     ],
     "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/desodorante-gel-cotton-x-45-grs-secret/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Cafayate 750 ml",
-   "m": "Cafayate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
-   "cadena": "ChangoMás",
-   "precio": 3527.4,
-   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
-   "referencia": 5897.4,
-   "precio_2da": 5879.0,
-   "baja_pct": 40.2,
-   "brecha_pct": 40.0,
-   "score": 1607,
-   "pr": {
-    "Carrefour": [
-     5879.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
-    ],
-    "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
+     1325.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
     ],
     "ChangoMás": [
-     3527.4,
-     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
     ]
    }
   },
   {
-   "n": "Vino tinto Malbec Killka 750 ml",
-   "m": "Killka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849740/7798074865191_02.jpg?v=639120300857700000",
-   "cadena": "ChangoMás",
-   "precio": 6059.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p",
-   "referencia": 10099.0,
-   "precio_2da": 10100.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     10100.0,
-     "https://www.carrefour.com.ar/vino-tinto-killka-malbec-750-cc-723741/p"
-    ],
-    "Vea": [
-     10190.0,
-     "https://www.vea.com.ar/vino-malbec-750-cc-killka/p"
-    ],
-    "ChangoMás": [
-     6059.4,
-     "https://www.masonline.com.ar/vino-tinto-killka-malbec-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Cabernet Salentein 750 ml",
-   "m": "Salentein",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364559/7798074865276_01.jpg?v=638265118813870000",
-   "cadena": "ChangoMás",
-   "precio": 9419.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-salentein-reserva-cabernet-sauvignon-750-ml-2/p",
-   "referencia": 15699.0,
-   "precio_2da": 15700.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     15700.0,
-     "https://www.carrefour.com.ar/vino-tinto-salentein-cabernet-750-cc-723746/p"
-    ],
-    "Vea": [
-     16890.0,
-     "https://www.vea.com.ar/vino-salentein-reserve-cabernet-sauvignon/p"
-    ],
-    "ChangoMás": [
-     9419.4,
-     "https://www.masonline.com.ar/vino-tinto-salentein-reserva-cabernet-sauvignon-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Reserva Álamos 750 ml",
-   "m": "Alamos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299887/7794450091338_01.jpg?v=638852713201800000",
-   "cadena": "ChangoMás",
-   "precio": 7757.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-reserva-malbec-alamos-750-cc-2/p",
-   "referencia": 12929.0,
-   "precio_2da": 12929.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     12929.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-reserva-alamos-750-cc/p"
-    ],
-    "Vea": [
-     12990.0,
-     "https://www.vea.com.ar/vino-alamos-malbec-x-750cc/p"
-    ],
-    "ChangoMás": [
-     7757.4,
-     "https://www.masonline.com.ar/vino-tinto-reserva-malbec-alamos-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Salentein Blanc de Blancs 750 Ml",
-   "m": "SALENTEIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/927962/12410382002.jpg?v=639245827923300000",
-   "cadena": "ChangoMás",
-   "precio": 11369.4,
-   "link": "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p",
-   "referencia": 18949.0,
-   "precio_2da": 18950.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     20690.0,
-     "https://www.vea.com.ar/espumante-salentein-blanc-de-blancs-750-ml/p"
-    ],
-    "Carrefour": [
-     18950.0,
-     "https://www.carrefour.com.ar/espumante-salentein-blanc-de-blancs-750-ml-719772/p"
-    ],
-    "ChangoMás": [
-     11369.4,
-     "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
-   "cadena": "Carrefour",
-   "precio": 2062.5,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
-   "referencia": 3862.5,
-   "precio_2da": 3113.5,
-   "baja_pct": 46.6,
-   "brecha_pct": 33.8,
-   "score": 1573,
-   "pr": {
-    "Carrefour": [
-     2062.5,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
-    ],
-    "Vea": [
-     3113.5,
-     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
-    ],
-    "Jumbo": [
-     3712.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
-   "cadena": "Carrefour",
-   "precio": 2062.5,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
-   "referencia": 3862.5,
-   "precio_2da": 3113.5,
-   "baja_pct": 46.6,
-   "brecha_pct": 33.8,
-   "score": 1573,
-   "pr": {
-    "Carrefour": [
-     2062.5,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
-    ],
-    "Vea": [
-     3113.5,
-     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ],
-    "Jumbo": [
-     3712.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
-   "cadena": "Carrefour",
-   "precio": 2062.5,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
-   "referencia": 3862.5,
-   "precio_2da": 3113.5,
-   "baja_pct": 46.6,
-   "brecha_pct": 33.8,
-   "score": 1573,
-   "pr": {
-    "Carrefour": [
-     2062.5,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
-    ],
-    "Vea": [
-     3113.5,
-     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
-    ],
-    "Jumbo": [
-     3712.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
-    ]
-   }
-  },
-  {
-   "n": "Reducción de Aceto Balsámico 250 Ml Lira",
-   "m": "LIRA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/771593/Aceto-Balsamico-Lira-Reducci-n-X250ml-1-882320.jpg?v=638132062603470000",
+   "n": "Jugo en polvo Arcor de naranja 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
    "cadena": "Jumbo",
-   "precio": 3000.0,
-   "link": "https://www.jumbo.com.ar/aceto-balsamico-lira-reduccion-x250ml/p",
-   "referencia": 5000.0,
-   "precio_2da": 4890.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.7,
-   "score": 1546,
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
+   "referencia": 500.0,
+   "precio_2da": 360.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.6,
+   "score": 1528,
    "pr": {
+    "Carrefour": [
+     360.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+    ],
     "Vea": [
-     4890.0,
-     "https://www.vea.com.ar/aceto-balsamico-lira-reduccion-x250ml/p"
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
     ],
     "Jumbo": [
-     3000.0,
-     "https://www.jumbo.com.ar/aceto-balsamico-lira-reduccion-x250ml/p"
-    ],
-    "Carrefour": [
-     4900.0,
-     "https://www.carrefour.com.ar/aceto-reduccion-lira-pet-250-cc-700863/p"
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
     ]
    }
   },
   {
-   "n": "Vinagre de vino Menoyo 500 cc.",
-   "m": "Menoyo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/887362/7790130000065_02.jpg?v=639161132466400000",
+   "n": "Jugo en polvo Arcor de multifruta 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
    "cadena": "Jumbo",
-   "precio": 1380.0,
-   "link": "https://www.jumbo.com.ar/vinagre-de-vino-menoyo-500-ml/p",
-   "referencia": 2300.0,
-   "precio_2da": 2219.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.8,
-   "score": 1512,
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
+   "referencia": 500.0,
+   "precio_2da": 360.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.6,
+   "score": 1528,
    "pr": {
     "Carrefour": [
-     2375.0,
-     "https://www.carrefour.com.ar/vinagre-de-vino-menoyo-500-cc/p"
-    ],
-    "Jumbo": [
-     1380.0,
-     "https://www.jumbo.com.ar/vinagre-de-vino-menoyo-500-ml/p"
-    ],
-    "ChangoMás": [
-     2219.0,
-     "https://www.masonline.com.ar/vinagre-de-vino-menoyo-500-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Cabernet Sauvignon Chacabuco 750 ml",
-   "m": "Chacabuco",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821612/7791843023495_02.jpg?v=639083181509770000",
-   "cadena": "ChangoMás",
-   "precio": 3311.4,
-   "link": "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p",
-   "referencia": 5519.0,
-   "precio_2da": 5309.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1505,
-   "pr": {
-    "Carrefour": [
-     5309.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-chacabuco-en-botella-750-cc-734596/p"
+     360.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
     ],
     "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/vino-chacabuco-cabernet-sauvignon-750cc-2/p"
-    ],
-    "ChangoMás": [
-     3311.4,
-     "https://www.masonline.com.ar/vino-tinto-chacabuco-cabernet-sauvignon-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vinagre de manzana Menoyo 1 lt",
-   "m": "Menoyo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/887363/7790130000089_02.jpg?v=639161133124370000",
-   "cadena": "Jumbo",
-   "precio": 2670.0,
-   "link": "https://www.jumbo.com.ar/vinagre-de-manzana-menoyo-1-l/p",
-   "referencia": 4450.0,
-   "precio_2da": 4279.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1504,
-   "pr": {
-    "Carrefour": [
-     4279.0,
-     "https://www.carrefour.com.ar/vinagre-de-manzana-menoyo-1-lt-181620/p"
-    ],
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/vinagre-de-manzana-menoyo-1-l/p"
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
     ],
     "Jumbo": [
-     2670.0,
-     "https://www.jumbo.com.ar/vinagre-de-manzana-menoyo-1-l/p"
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
     ],
     "ChangoMás": [
-     4459.0,
-     "https://www.masonline.com.ar/vinagre-de-manzana-menoyo-1-lt-3/p"
-    ]
-   }
-  },
-  {
-   "n": "Vinagre de manzana Menoyo 500 cc.",
-   "m": "Menoyo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/887359/7790130000027_02.jpg?v=639161131031630000",
-   "cadena": "Jumbo",
-   "precio": 1680.0,
-   "link": "https://www.jumbo.com.ar/vinagre-de-manzana-menoyo-500-ml/p",
-   "referencia": 2800.0,
-   "precio_2da": 2690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1502,
-   "pr": {
-    "Carrefour": [
-     2699.0,
-     "https://www.carrefour.com.ar/vinagre-de-manzana-menoyo-500-cc/p"
-    ],
-    "Vea": [
-     2690.0,
-     "https://www.vea.com.ar/vinagre-de-manzana-menoyo-500-ml/p"
-    ],
-    "Jumbo": [
-     1680.0,
-     "https://www.jumbo.com.ar/vinagre-de-manzana-menoyo-500-ml/p"
-    ],
-    "ChangoMás": [
-     2719.0,
-     "https://www.masonline.com.ar/vinagre-de-manzana-menoyo-500-cc-2/p"
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-15-g/p"
     ]
    }
   }
