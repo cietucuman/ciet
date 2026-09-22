@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-21",
- "actualizado": "2026-09-21 15:32",
+ "fecha": "2026-09-22",
+ "actualizado": "2026-09-22 12:18",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-11",
   "2026-09-12",
   "2026-09-13",
   "2026-09-14",
@@ -19,293 +18,89 @@
   "2026-09-18",
   "2026-09-19",
   "2026-09-20",
-  "2026-09-21"
+  "2026-09-21",
+  "2026-09-22"
  ],
- "total": 10,
+ "total": 3,
  "ofertas": [
   {
-   "n": "Jugo en Polvo Sabor Manzana 7 Grs Bc",
-   "m": "BC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665691/Jugo-En-Polvo-Bc-Manzana-Roja-7gr-1-878198.jpg?v=637670794015230000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.0,
-   "score": 2249,
-   "pr": {
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-manzana-roja-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja 7 Grs Bc",
-   "m": "BC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/665707/Jugo-En-Polvo-Bc-Naranja7gr-1-878219.jpg?v=637670794122730000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.0,
-   "score": 2249,
-   "pr": {
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-de-naranja-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-naranja-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Rum Barrel Blend 750 Cc Los Intocables",
-   "m": "LOS INTOCABLES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/716925/Los-Intocables-Rum-Barrel-Blend-Bot-750cc-1-880013.jpg?v=637975785757730000",
-   "cadena": "Jumbo",
-   "precio": 7450.0,
-   "link": "https://www.jumbo.com.ar/los-intocables-rum-barrel-blend-botella-750cc/p",
-   "referencia": 14900.0,
-   "precio_2da": 12895.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.2,
-   "score": 2111,
-   "pr": {
-    "Vea": [
-     14390,
-     "https://www.vea.com.ar/los-intocables-rum-barrel-blend-botella-750cc/p"
-    ],
-    "Jumbo": [
-     7450.0,
-     "https://www.jumbo.com.ar/los-intocables-rum-barrel-blend-botella-750cc/p"
-    ],
-    "Carrefour": [
-     12895.0,
-     "https://www.carrefour.com.ar/vino-tinto-los-intocables-blend-rum-barrel-750-cc-690115/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 409.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.9,
-   "score": 1944,
-   "pr": {
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de limonada 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 377.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1684,
+   "n": "Leche infantil Vital Etapa 3 brick 200 ml",
+   "m": "Vital Infantil",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922316/7795323775263_01.jpg?v=639238859685300000",
+   "cadena": "ChangoMás",
+   "precio": 1289.0,
+   "link": "https://www.masonline.com.ar/leche-infantil-vital-3-200ml-2-2/p",
+   "referencia": 2269.0,
+   "precio_2da": 2250.0,
+   "baja_pct": 43.2,
+   "brecha_pct": 42.7,
+   "score": 1845,
    "pr": {
     "Carrefour": [
-     377.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
+     2250.0,
+     "https://www.carrefour.com.ar/leche-infantil-vital-etapa-3-brick-200-ml-722979/p"
     ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
+    "Comodín": [
+     2616.69,
+     "https://www.comodinencasa.com.ar/leche-vital-infantil-3-brick-200ml/p"
     ],
     "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
+     1289.0,
+     "https://www.masonline.com.ar/leche-infantil-vital-3-200ml-2-2/p"
     ]
    }
   },
   {
-   "n": "Jugo en polvo Arcor de durazno 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817837/7790580142766_E02.jpg?v=639082513719730000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 377.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1684,
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930236/Shampoo-Dove-Bond-Uv-Repair-200ml-1-1048833.jpg?v=639252781986400000",
+   "cadena": "Carrefour",
+   "precio": 3594.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
+   "referencia": 5990.0,
+   "precio_2da": 6007.09,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.2,
+   "score": 1607,
    "pr": {
-    "Carrefour": [
-     377.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-durazno-15-grs-750888/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
-    ],
     "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-durazno-15g/p"
+     7850.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
     ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-anana-y-banana-15-g/p"
+    "Comodín": [
+     6007.09,
+     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
+    ],
+    "Carrefour": [
+     3594.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
     ]
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Manzana 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/843618/Jugo-En-Polvo-Arcor-Manzana-15gr-1-1028014.jpg?v=638658132369800000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 377.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1684,
-   "pr": {
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
-    ],
-    "Carrefour": [
-     377.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
-    ]
-   }
-  },
-  {
-   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
-   "referencia": 2650.0,
-   "precio_2da": 1913.4,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.8,
-   "score": 1538,
+   "n": "Pizza de mozzarella y jamón Sibarita en caja 530 grs",
+   "m": "Sibarita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854581/7790070040046_E01.jpg?v=639123147335230000",
+   "cadena": "Vea",
+   "precio": 10554.0,
+   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p",
+   "referencia": 17590.0,
+   "precio_2da": 17579.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1598,
    "pr": {
     "Carrefour": [
-     1913.4,
-     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ],
-    "ChangoMás": [
-     3189.0,
-     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de naranja 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817839/7790580143237_E01.jpg?v=639082514006900000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 360.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.6,
-   "score": 1528,
-   "pr": {
-    "Carrefour": [
-     360.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+     17579.0,
+     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
     ],
     "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+     10554.0,
+     "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
     ],
     "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de multifruta 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 360.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.6,
-   "score": 1528,
-   "pr": {
-    "Carrefour": [
-     360.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-15-g/p"
+     18100,
+     "https://www.jumbo.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
     ]
    }
   }
