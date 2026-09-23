@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-22",
- "actualizado": "2026-09-22 12:18",
+ "fecha": "2026-09-23",
+ "actualizado": "2026-09-23 14:26",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-12",
   "2026-09-13",
   "2026-09-14",
   "2026-09-15",
@@ -19,88 +18,979 @@
   "2026-09-19",
   "2026-09-20",
   "2026-09-21",
-  "2026-09-22"
+  "2026-09-22",
+  "2026-09-23"
  ],
- "total": 3,
+ "total": 33,
  "ofertas": [
   {
-   "n": "Leche infantil Vital Etapa 3 brick 200 ml",
-   "m": "Vital Infantil",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922316/7795323775263_01.jpg?v=639238859685300000",
-   "cadena": "ChangoMás",
-   "precio": 1289.0,
-   "link": "https://www.masonline.com.ar/leche-infantil-vital-3-200ml-2-2/p",
-   "referencia": 2269.0,
-   "precio_2da": 2250.0,
-   "baja_pct": 43.2,
-   "brecha_pct": 42.7,
-   "score": 1845,
-   "pr": {
-    "Carrefour": [
-     2250.0,
-     "https://www.carrefour.com.ar/leche-infantil-vital-etapa-3-brick-200-ml-722979/p"
-    ],
-    "Comodín": [
-     2616.69,
-     "https://www.comodinencasa.com.ar/leche-vital-infantil-3-brick-200ml/p"
-    ],
-    "ChangoMás": [
-     1289.0,
-     "https://www.masonline.com.ar/leche-infantil-vital-3-200ml-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930236/Shampoo-Dove-Bond-Uv-Repair-200ml-1-1048833.jpg?v=639252781986400000",
+   "n": "Tubitos de harina de maíz sabor queso 3D mega queso 43 g.",
+   "m": "3D",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905464/7790310985113_E01.jpg?v=639201744279000000",
    "cadena": "Carrefour",
-   "precio": 3594.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 6007.09,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.2,
-   "score": 1607,
-   "pr": {
-    "Jumbo": [
-     7850.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
-    ],
-    "Comodín": [
-     6007.09,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
-    ],
-    "Carrefour": [
-     3594.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
-    ]
-   }
-  },
-  {
-   "n": "Pizza de mozzarella y jamón Sibarita en caja 530 grs",
-   "m": "Sibarita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854581/7790070040046_E01.jpg?v=639123147335230000",
-   "cadena": "Vea",
-   "precio": 10554.0,
-   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p",
-   "referencia": 17590.0,
-   "precio_2da": 17579.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1598,
+   "precio": 1120.5,
+   "link": "https://www.carrefour.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-43-g-706849/p",
+   "referencia": 2490.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 55.0,
+   "brecha_pct": 55.0,
+   "score": 3025,
    "pr": {
     "Carrefour": [
-     17579.0,
-     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
+     1120.5,
+     "https://www.carrefour.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-43-g-706849/p"
     ],
     "Vea": [
-     10554.0,
-     "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
+     2490.0,
+     "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p"
     ],
     "Jumbo": [
-     18100,
-     "https://www.jumbo.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
+     2700.0,
+     "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas fritas sabor a jamón serrano Lays 122 g.",
+   "m": "Lays",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904221/7790310985618_E01.jpg?v=639198961673070000",
+   "cadena": "Carrefour",
+   "precio": 2634.45,
+   "link": "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-122-g-722437/p",
+   "referencia": 5790.0,
+   "precio_2da": 5790.0,
+   "baja_pct": 54.5,
+   "brecha_pct": 54.5,
+   "score": 2970,
+   "pr": {
+    "Carrefour": [
+     2634.45,
+     "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-122-g-722437/p"
+    ],
+    "Vea": [
+     5790.0,
+     "https://www.vea.com.ar/papas-fritas-lays-jamon-serrano-122-g/p"
+    ],
+    "Jumbo": [
+     6250.0,
+     "https://www.jumbo.com.ar/papas-fritas-lays-jamon-serrano-122-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas fritas sabor a jamón serrano Lays 77 g.",
+   "m": "Lays",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896500/7790310985434_E01.jpg?v=639184213402630000",
+   "cadena": "Carrefour",
+   "precio": 1896.38,
+   "link": "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-77-g-721956/p",
+   "referencia": 3890.0,
+   "precio_2da": 4020.69,
+   "baja_pct": 51.2,
+   "brecha_pct": 52.8,
+   "score": 2708,
+   "pr": {
+    "Carrefour": [
+     1896.38,
+     "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-77-g-721956/p"
+    ],
+    "Comodín": [
+     4020.69,
+     "https://www.comodinencasa.com.ar/papas-fritas-lays-jamon-serrano-77gr/p"
+    ],
+    "ChangoMás": [
+     4369.0,
+     "https://www.masonline.com.ar/papas-fritas-lays-sabor-jamon-serrano-77g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas fritas Lays clásicas 40 g.",
+   "m": "Lays",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896469/7790310985236_E01.jpg?v=639184211264770000",
+   "cadena": "Carrefour",
+   "precio": 1213.88,
+   "link": "https://www.carrefour.com.ar/papas-fritas-lays-clasicas-40-g-721302/p",
+   "referencia": 2490.0,
+   "precio_2da": 2473.19,
+   "baja_pct": 51.2,
+   "brecha_pct": 50.9,
+   "score": 2610,
+   "pr": {
+    "Carrefour": [
+     1213.88,
+     "https://www.carrefour.com.ar/papas-fritas-lays-clasicas-40-g-721302/p"
+    ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/papas-fritas-lays-clasicas-40-g/p"
+    ],
+    "Jumbo": [
+     2750.0,
+     "https://www.jumbo.com.ar/papas-fritas-lays-clasicas-40-g/p"
+    ],
+    "Comodín": [
+     2473.19,
+     "https://www.comodinencasa.com.ar/papas-fritas-lays-clasicas-40-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas Fritas Lays barbacoa 77 grs",
+   "m": "Lays",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896538/7790310987766_E01.jpg?v=639184216433900000",
+   "cadena": "Carrefour",
+   "precio": 2129.89,
+   "link": "https://www.carrefour.com.ar/papas-fritas-lays-barbacoa-77-grs-762491/p",
+   "referencia": 4369.0,
+   "precio_2da": 4153.79,
+   "baja_pct": 51.2,
+   "brecha_pct": 48.7,
+   "score": 2497,
+   "pr": {
+    "Carrefour": [
+     2129.89,
+     "https://www.carrefour.com.ar/papas-fritas-lays-barbacoa-77-grs-762491/p"
+    ],
+    "Jumbo": [
+     4350.0,
+     "https://www.jumbo.com.ar/papas-fritas-barbacoa-x-77-grs-lays/p"
+    ],
+    "Comodín": [
+     4153.79,
+     "https://www.comodinencasa.com.ar/papas-fritas-lays-barbacoa-77gr/p"
+    ],
+    "ChangoMás": [
+     4369.0,
+     "https://www.masonline.com.ar/papas-fritas-lays-sabor-a-barbacoa-77-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Topline menta 14 g.",
+   "m": "Topline",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916017/77931764_E01.jpg?v=639227570023670000",
+   "cadena": "Carrefour",
+   "precio": 668.85,
+   "link": "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p",
+   "referencia": 1145.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 41.6,
+   "brecha_pct": 51.9,
+   "score": 2157,
+   "pr": {
+    "Carrefour": [
+     668.85,
+     "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicle-top-line-xplosive-14-gr/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/chicle-top-line-xplosive-14-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Antitranspirante Dove Clinical Crema 58 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923904/75079437_01.jpg?v=639240409951200000",
+   "cadena": "Comodín",
+   "precio": 6804.71,
+   "link": "https://www.comodinencasa.com.ar/deo-dove-clinical-w-soft-solid-crema-58g/p",
+   "referencia": 11341.19,
+   "precio_2da": 14290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 52.4,
+   "score": 2095,
+   "pr": {
+    "Carrefour": [
+     14290.0,
+     "https://www.carrefour.com.ar/antitranspirante-dove-clinical-crema-58-grs-763468/p"
+    ],
+    "Vea": [
+     14290.0,
+     "https://www.vea.com.ar/desodorante-antitranspirante-femenino-clinical-x-58-gr-dove/p"
+    ],
+    "Jumbo": [
+     18225.0,
+     "https://www.jumbo.com.ar/desodorante-antitranspirante-femenino-clinical-x-58-gr-dove/p"
+    ],
+    "ChangoMás": [
+     20169.0,
+     "https://www.masonline.com.ar/desodorante-dove-clinical-58-g/p"
+    ],
+    "Comodín": [
+     6804.71,
+     "https://www.comodinencasa.com.ar/deo-dove-clinical-w-soft-solid-crema-58g/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Cafayate 750 ml",
+   "m": "Cafayate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
+   "cadena": "Carrefour",
+   "precio": 3959.53,
+   "link": "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p",
+   "referencia": 9925.0,
+   "precio_2da": 5879.0,
+   "baja_pct": 60.1,
+   "brecha_pct": 32.6,
+   "score": 1962,
+   "pr": {
+    "Carrefour": [
+     3959.53,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
+    ],
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
+    ],
+    "ChangoMás": [
+     5879.0,
+     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Infinit menta 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916024/7622201421496_E01.jpg?v=639227572917070000",
+   "cadena": "Carrefour",
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p",
+   "referencia": 1179.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 39.1,
+   "brecha_pct": 48.3,
+   "score": 1889,
+   "pr": {
+    "Carrefour": [
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Baby Dry XG x 58 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/826609/13810407002.jpg?v=638555256662900000",
+   "cadena": "Comodín",
+   "precio": 26810.87,
+   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-xg-jumbo-58un/p",
+   "referencia": 41247.49,
+   "precio_2da": 56199.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 52.3,
+   "score": 1830,
+   "pr": {
+    "Jumbo": [
+     59900.0,
+     "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-xg-x-58-un-pampers/p"
+    ],
+    "Comodín": [
+     26810.87,
+     "https://www.comodinencasa.com.ar/panal-pampers-babydry-xg-jumbo-58un/p"
+    ],
+    "Carrefour": [
+     56199.0,
+     "https://www.carrefour.com.ar/panales-pampers-baby-dry-xg-58-uni-718017/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Infinit mentol 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
+   "cadena": "Carrefour",
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
+   "referencia": 1179.0,
+   "precio_2da": 1349.0,
+   "baja_pct": 39.1,
+   "brecha_pct": 46.8,
+   "score": 1827,
+   "pr": {
+    "Carrefour": [
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1450.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "ChangoMás": [
+     1349.0,
+     "https://www.masonline.com.ar/chicles-beldent-infinit-spearmint-13-3g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicle adulto atomic strong Topline 7 14 g.",
+   "m": "Topline",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916019/77939753_E01.jpg?v=639227570722530000",
+   "cadena": "Carrefour",
+   "precio": 668.85,
+   "link": "https://www.carrefour.com.ar/chicle-adulto-atomic-strong-topline-7-14-g-74419/p",
+   "referencia": 1029.0,
+   "precio_2da": 1360.79,
+   "baja_pct": 35.0,
+   "brecha_pct": 50.8,
+   "score": 1780,
+   "pr": {
+    "Carrefour": [
+     668.85,
+     "https://www.carrefour.com.ar/chicle-adulto-atomic-strong-topline-7-14-g-74419/p"
+    ],
+    "Vea": [
+     1450.0,
+     "https://www.vea.com.ar/chicle-top-line-7-atomic-strong-14-7-gr/p"
+    ],
+    "Jumbo": [
+     1800.0,
+     "https://www.jumbo.com.ar/chicle-top-line-7-atomic-strong-14-7-gr/p"
+    ],
+    "Comodín": [
+     1360.79,
+     "https://www.comodinencasa.com.ar/chicle-top-line-7-strong-x-14-7-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón líquido para ropa fina oscura Ala Camellito dp 450 ml",
+   "m": "Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915298/7791290796850_01.jpg?v=639226736523300000",
+   "cadena": "Comodín",
+   "precio": 2155.91,
+   "link": "https://www.comodinencasa.com.ar/detergente-ala-camellito-r-osc-dp-450ml/p",
+   "referencia": 3593.19,
+   "precio_2da": 3800.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.3,
+   "score": 1731,
+   "pr": {
+    "Carrefour": [
+     3800.0,
+     "https://www.carrefour.com.ar/jabon-liquido-para-ropa-fina-oscura-ala-camellito-dp-450-ml-784290/p"
+    ],
+    "Jumbo": [
+     4000.0,
+     "https://www.jumbo.com.ar/jabon-liquido-ala-camellito-baja-espuma-ropa-o/p"
+    ],
+    "Comodín": [
+     2155.91,
+     "https://www.comodinencasa.com.ar/detergente-ala-camellito-r-osc-dp-450ml/p"
+    ],
+    "ChangoMás": [
+     3949.0,
+     "https://www.masonline.com.ar/jabon-liquido-ala-camellito-ropa-oscura-450ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón líquido para ropa fina bebé Ala Camellito dp 450 ml",
+   "m": "Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915299/7791290796867_01.jpg?v=639226737672500000",
+   "cadena": "Comodín",
+   "precio": 2155.91,
+   "link": "https://www.comodinencasa.com.ar/detergente-ala-camellito-bebe-dp-450ml/p",
+   "referencia": 3593.19,
+   "precio_2da": 3800.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.3,
+   "score": 1731,
+   "pr": {
+    "Carrefour": [
+     3800.0,
+     "https://www.carrefour.com.ar/jabon-liquido-para-ropa-fina-bebe-ala-camellito-dp-450-ml-784291/p"
+    ],
+    "Vea": [
+     3900.0,
+     "https://www.vea.com.ar/jabon-liquido-ala-camellito-baja-espuma-para-b/p"
+    ],
+    "Jumbo": [
+     4000.0,
+     "https://www.jumbo.com.ar/jabon-liquido-ala-camellito-baja-espuma-para-b/p"
+    ],
+    "Comodín": [
+     2155.91,
+     "https://www.comodinencasa.com.ar/detergente-ala-camellito-bebe-dp-450ml/p"
+    ],
+    "ChangoMás": [
+     3949.0,
+     "https://www.masonline.com.ar/jabon-liquido-ala-camellito-bebe-450ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Menta Refrescante 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p",
+   "referencia": 889.0,
+   "precio_2da": 1129.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.8,
+   "score": 1709,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-menta-refrescante-6-uni-670221/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-menta-refrescante-x-6-un-beldent/p"
+    ],
+    "ChangoMás": [
+     1129.0,
+     "https://www.masonline.com.ar/chicles-beldent-de-menta-10gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Tuti Fruti 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882353/77969101_E01.jpg?v=639155712400770000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-tuti-fruti-6-uni-670218/p",
+   "referencia": 889.0,
+   "precio_2da": 1079.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.4,
+   "score": 1626,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-tuti-fruti-6-uni-670218/p"
+    ],
+    "Jumbo": [
+     1150.0,
+     "https://www.jumbo.com.ar/chicles-tuti-fruti-x-6-un-beldent/p"
+    ],
+    "ChangoMás": [
+     1079.0,
+     "https://www.masonline.com.ar/chicle-globo-poseidon-beldent-10gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Svelty Extra Calcio 370 grs",
+   "m": "Svelty",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854263/8445291020047_01.jpg?v=639122869165300000",
+   "cadena": "Carrefour",
+   "precio": 3959.4,
+   "link": "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p",
+   "referencia": 6599.0,
+   "precio_2da": 6622.79,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.2,
+   "score": 1609,
+   "pr": {
+    "Carrefour": [
+     3959.4,
+     "https://www.carrefour.com.ar/svelty-extra-calcio-370-grs-729420/p"
+    ],
+    "Jumbo": [
+     7035.0,
+     "https://www.jumbo.com.ar/leche-polvo-extra-calcio-370-grs-svelty/p"
+    ],
+    "Comodín": [
+     6622.79,
+     "https://www.comodinencasa.com.ar/leche-svelty-extra-calcio-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante Downy Mistico 900 ml Rinde 2 lt Perfume Sofisticado Frutal",
+   "m": "Downy",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/855567/7500435160001_01.jpg?v=639125453718630000",
+   "cadena": "Comodín",
+   "precio": 9170.65,
+   "link": "https://www.comodinencasa.com.ar/suavizante-downy-mistico-900ml/p",
+   "referencia": 14108.69,
+   "precio_2da": 16919.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.8,
+   "score": 1603,
+   "pr": {
+    "Carrefour": [
+     16919.0,
+     "https://www.carrefour.com.ar/suavizante-downy-mistico-900-ml-rinde-2-lt-perfume-sofisticado-frutal-748594/p"
+    ],
+    "Comodín": [
+     9170.65,
+     "https://www.comodinencasa.com.ar/suavizante-downy-mistico-900ml/p"
+    ],
+    "ChangoMás": [
+     17939.0,
+     "https://www.masonline.com.ar/suavizante-concentrado-downy-mistico-900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas Sabor Jamón Ibérico 40 Grs Twistos",
+   "m": "TWISTOS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/843659/Mini-Tostaditas-Twistos-Jamon-Ib-rico-40gr-1-1028188.jpg?v=638658132505000000",
+   "cadena": "Carrefour",
+   "precio": 1439.4,
+   "link": "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p",
+   "referencia": 2399.0,
+   "precio_2da": 2399.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Jumbo": [
+     2500.0,
+     "https://www.jumbo.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
+    ],
+    "ChangoMás": [
+     2399.0,
+     "https://www.masonline.com.ar/snack-jamon-twistos-40-gr-2/p"
+    ],
+    "Carrefour": [
+     1439.4,
+     "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p"
+    ]
+   }
+  },
+  {
+   "n": "Detergente Magistral Ultra Marina Botella 750 ml",
+   "m": "Magistral",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776043/7790990003145_01.jpg?v=639004762947270000",
+   "cadena": "Carrefour",
+   "precio": 4023.5,
+   "link": "https://www.carrefour.com.ar/detergente-magistral-ultra-marina-en-botella-750-ml-741300/p",
+   "referencia": 6190.0,
+   "precio_2da": 7400.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.6,
+   "score": 1597,
+   "pr": {
+    "Carrefour": [
+     4023.5,
+     "https://www.carrefour.com.ar/detergente-magistral-ultra-marina-en-botella-750-ml-741300/p"
+    ],
+    "Jumbo": [
+     7400.0,
+     "https://www.jumbo.com.ar/detergente-magistral-ultra-marina-botella-750-ml/p"
+    ],
+    "ChangoMás": [
+     8569.0,
+     "https://www.masonline.com.ar/detergente-magistral-ultra-desengrasante-marina-750ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Nutrición Tri-Óleos 650 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930257/Shampoo-Dove-Nutritri-Oleos-650ml-1-1058306.jpg?v=639252782060700000",
+   "cadena": "Comodín",
+   "precio": 5999.4,
+   "link": "https://www.comodinencasa.com.ar/shampoo-dove-nutricion-650ml/p",
+   "referencia": 9454.85,
+   "precio_2da": 10617.0,
+   "baja_pct": 36.5,
+   "brecha_pct": 43.5,
+   "score": 1590,
+   "pr": {
+    "Jumbo": [
+     15850.0,
+     "https://www.jumbo.com.ar/shampoo-dove-nutritri-oleos-650ml/p"
+    ],
+    "Comodín": [
+     5999.4,
+     "https://www.comodinencasa.com.ar/shampoo-dove-nutricion-650ml/p"
+    ],
+    "ChangoMás": [
+     18409.0,
+     "https://www.masonline.com.ar/shampoo-dove-nutricion-650-ml/p"
+    ],
+    "Carrefour": [
+     10617.0,
+     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-650-ml-778716/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón Liquido Ala Camellito Ropa Delicada Doypack 900 ml",
+   "m": "Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928507/7791290795273_01.jpg?v=639244004512330000",
+   "cadena": "Comodín",
+   "precio": 3925.61,
+   "link": "https://www.comodinencasa.com.ar/deterg-ala-camell-r-fina-reg-dp-x-900-ml/p",
+   "referencia": 6542.69,
+   "precio_2da": 6490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.5,
+   "score": 1581,
+   "pr": {
+    "Carrefour": [
+     6490.0,
+     "https://www.carrefour.com.ar/jabon-liquido-ala-camellito-ropa-delicada-doypack-900-ml-725771/p"
+    ],
+    "Comodín": [
+     3925.61,
+     "https://www.comodinencasa.com.ar/deterg-ala-camell-r-fina-reg-dp-x-900-ml/p"
+    ],
+    "ChangoMás": [
+     7239.0,
+     "https://www.masonline.com.ar/jabon-liquido-ala-ropa-fina-900ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón Liquido Ala Camellito Baja Espuma para Ropa Delicada Doypack 900 ml",
+   "m": "Ala",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923928/7791290795297_01.jpg?v=639240411531500000",
+   "cadena": "Comodín",
+   "precio": 3925.61,
+   "link": "https://www.comodinencasa.com.ar/deterg-ala-camell-r-fina-matic-dp-x900ml/p",
+   "referencia": 6542.69,
+   "precio_2da": 6490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.5,
+   "score": 1581,
+   "pr": {
+    "Carrefour": [
+     6490.0,
+     "https://www.carrefour.com.ar/jabon-liquido-ala-camellito-baja-espuma-para-ropa-delicada-doypack-900-ml-725773/p"
+    ],
+    "Vea": [
+     6490.0,
+     "https://www.vea.com.ar/jabon-liquido-para-ropa-fina-hipoalergenico-900-ml-doypack-ala-camellito/p"
+    ],
+    "Jumbo": [
+     7200.0,
+     "https://www.jumbo.com.ar/jabon-liquido-para-ropa-fina-hipoalergenico-900-ml-doypack-ala-camellito/p"
+    ],
+    "Comodín": [
+     3925.61,
+     "https://www.comodinencasa.com.ar/deterg-ala-camell-r-fina-matic-dp-x900ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador 3 Minute Miracle Restauración 170 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/602037/Acondicionador-Diario-Pantene-Pro-v-3-Minute-Miracle-Restauraci-n-170-Ml-1-23005.jpg?v=637353042710970000",
+   "cadena": "Comodín",
+   "precio": 6390.27,
+   "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-3mm-restau-170ml/p",
+   "referencia": 9831.19,
+   "precio_2da": 11650.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.1,
+   "score": 1580,
+   "pr": {
+    "Jumbo": [
+     11650.0,
+     "https://www.jumbo.com.ar/acondicionador-diario-pantene-pro-v-3-minute-miracle-restauracion-170-ml/p"
+    ],
+    "Comodín": [
+     6390.27,
+     "https://www.comodinencasa.com.ar/acondicionador-pantene-3mm-restau-170ml/p"
+    ],
+    "ChangoMás": [
+     11889.0,
+     "https://www.masonline.com.ar/acondicionador-diario-pantene-pro-v-3-minute-miracle-restauracion-170ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Equilibrio Raíz y Puntas 700 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/815524/Pantene-Pro-v-Miracles-Equilibrio-Ra-z-Puntas-Shampoo-Equilibrante-700-Ml-1-978403.jpg?v=638464701834700000",
+   "cadena": "Comodín",
+   "precio": 9952.79,
+   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p",
+   "referencia": 15311.99,
+   "precio_2da": 18100.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1575,
+   "pr": {
+    "Jumbo": [
+     18100.0,
+     "https://www.jumbo.com.ar/shampoo-equilibrante-equilibrio-raiz-y-puntas-700-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     18649.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-700ml-2/p"
+    ],
+    "Comodín": [
+     9952.79,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Menta Power 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882349/77969088_E01.jpg?v=639155711940900000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-menta-power-6-uni-670219/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-menta-power-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-menta-power-x-6-un-beldent/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Mentol Frozen 6 uni",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882351/77969095_E01.jpg?v=639155712181330000",
+   "cadena": "Carrefour",
+   "precio": 577.85,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p",
+   "referencia": 889.0,
+   "precio_2da": 1050.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 45.0,
+   "score": 1574,
+   "pr": {
+    "Carrefour": [
+     577.85,
+     "https://www.carrefour.com.ar/chicles-beldent-mentol-frozen-6-uni-670216/p"
+    ],
+    "Vea": [
+     1050.0,
+     "https://www.vea.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/chicles-mentol-frozen-x-6-un-beldent/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Baby Dry Hipoalergénico G X 72 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/826603/13810410002.jpg?v=638555252680370000",
+   "cadena": "Comodín",
+   "precio": 26810.87,
+   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p",
+   "referencia": 41247.49,
+   "precio_2da": 47769.15,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.9,
+   "score": 1536,
+   "pr": {
+    "Jumbo": [
+     51200.0,
+     "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-g-x-72-un-pampers/p"
+    ],
+    "Comodín": [
+     26810.87,
+     "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p"
+    ],
+    "ChangoMás": [
+     47769.15,
+     "https://www.masonline.com.ar/panales-pampers-baby-dry-g-72un-2/p"
+    ],
+    "Carrefour": [
+     56199.0,
+     "https://www.carrefour.com.ar/panales-talle-g-pampers-babydry-72-uni-718019/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pro-V Miracles Volumen 400 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808471/Aco-Pantene-Provmir-Volumen-400-Ml-1-1006987.jpg?v=638422478417600000",
+   "cadena": "Comodín",
+   "precio": 4256.85,
+   "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-prom-vol-400ml/p",
+   "referencia": 5798.06,
+   "precio_2da": 9990.0,
+   "baja_pct": 26.6,
+   "brecha_pct": 57.4,
+   "score": 1525,
+   "pr": {
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/acondicionador-pro-v-miracles-volumen-400-ml-pantene/p"
+    ],
+    "Comodín": [
+     4256.85,
+     "https://www.comodinencasa.com.ar/acondicionador-pantene-prom-vol-400ml/p"
+    ],
+    "ChangoMás": [
+     12239.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-volumen-400-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Pantene detox 400 cc.",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417567/7500435229821_02.jpg?v=638357591224670000",
+   "cadena": "Comodín",
+   "precio": 4256.85,
+   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-detox-400ml/p",
+   "referencia": 5798.06,
+   "precio_2da": 9790.0,
+   "baja_pct": 26.6,
+   "brecha_pct": 56.5,
+   "score": 1502,
+   "pr": {
+    "Carrefour": [
+     9790.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-detox-400-cc-723888/p"
+    ],
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/shampoo-pro-v-miracles-detox-limpia-purifica-400-ml-pantene/p"
+    ],
+    "Jumbo": [
+     10700.0,
+     "https://www.jumbo.com.ar/shampoo-pro-v-miracles-detox-limpia-purifica-400-ml-pantene/p"
+    ],
+    "Comodín": [
+     4256.85,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-detox-400ml/p"
+    ],
+    "ChangoMás": [
+     12239.0,
+     "https://www.masonline.com.ar/shampoo-pantene-detox-400ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Pantene equilibrio 400 cc.",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417600/7500435209694_02.jpg?v=638357591310500000",
+   "cadena": "Comodín",
+   "precio": 4256.85,
+   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-400ml/p",
+   "referencia": 5798.06,
+   "precio_2da": 9790.0,
+   "baja_pct": 26.6,
+   "brecha_pct": 56.5,
+   "score": 1502,
+   "pr": {
+    "Carrefour": [
+     9790.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-equilibrio-400-cc-723895/p"
+    ],
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/shampoo-pro-v-miracles-detox-equilibrio-400-ml-pantene/p"
+    ],
+    "Jumbo": [
+     12050.0,
+     "https://www.jumbo.com.ar/shampoo-pro-v-miracles-detox-equilibrio-400-ml-pantene/p"
+    ],
+    "Comodín": [
+     4256.85,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-400ml/p"
+    ],
+    "ChangoMás": [
+     12239.0,
+     "https://www.masonline.com.ar/shampoo-pantene-equilibrio-400ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene equilibrio 400 cc.",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417514/7500435230018_02.jpg?v=638357591084570000",
+   "cadena": "Comodín",
+   "precio": 4256.85,
+   "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-equilibrio-400ml/p",
+   "referencia": 5798.06,
+   "precio_2da": 9790.0,
+   "baja_pct": 26.6,
+   "brecha_pct": 56.5,
+   "score": 1502,
+   "pr": {
+    "Carrefour": [
+     9790.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-equilibrio-400-cc-723894/p"
+    ],
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/acondicionador-pro-v-miracles-equilibrio-400-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     11750.0,
+     "https://www.jumbo.com.ar/acondicionador-pro-v-miracles-equilibrio-400-ml-pantene-2/p"
+    ],
+    "Comodín": [
+     4256.85,
+     "https://www.comodinencasa.com.ar/acondicionador-pantene-equilibrio-400ml/p"
+    ],
+    "ChangoMás": [
+     12239.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-400ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Infinito 400 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808462/Sham-Pantene-Provmir-Liso-Infinito-400ml-1-1006950.jpg?v=638422478391800000",
+   "cadena": "Comodín",
+   "precio": 4256.85,
+   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-prom-liso-inf-400ml/p",
+   "referencia": 5798.06,
+   "precio_2da": 9790.0,
+   "baja_pct": 26.6,
+   "brecha_pct": 56.5,
+   "score": 1502,
+   "pr": {
+    "Vea": [
+     9990.0,
+     "https://www.vea.com.ar/shampoo-pantene-provmir-liso-infinito-400-ml/p"
+    ],
+    "Jumbo": [
+     10950.0,
+     "https://www.jumbo.com.ar/shampoo-pantene-provmir-liso-infinito-400-ml/p"
+    ],
+    "ChangoMás": [
+     12239.0,
+     "https://www.masonline.com.ar/shampoo-pantene-liso-400-ml-2/p"
+    ],
+    "Carrefour": [
+     9790.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-liso-infinito-pro-v-miracles-400-ml-733819/p"
+    ],
+    "Comodín": [
+     4256.85,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-prom-liso-inf-400ml/p"
     ]
    }
   }
