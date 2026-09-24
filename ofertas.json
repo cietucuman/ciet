@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-23",
- "actualizado": "2026-09-23 15:49",
+ "actualizado": "2026-09-23 21:23",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-09-22",
   "2026-09-23"
  ],
- "total": 33,
+ "total": 27,
  "ofertas": [
   {
    "n": "Tubitos de harina de maíz sabor queso 3D mega queso 43 g.",
@@ -74,6 +74,33 @@
     "Jumbo": [
      6250.0,
      "https://www.jumbo.com.ar/papas-fritas-lays-jamon-serrano-122-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas fritas sabor a jamón serrano Lays 77 g.",
+   "m": "Lays",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896500/7790310985434_E01.jpg?v=639184213402630000",
+   "cadena": "Carrefour",
+   "precio": 1896.38,
+   "link": "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-77-g-721956/p",
+   "referencia": 3890.0,
+   "precio_2da": 4020.69,
+   "baja_pct": 51.2,
+   "brecha_pct": 52.8,
+   "score": 2708,
+   "pr": {
+    "Carrefour": [
+     1896.38,
+     "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-77-g-721956/p"
+    ],
+    "Comodín": [
+     4020.69,
+     "https://www.comodinencasa.com.ar/papas-fritas-lays-jamon-serrano-77gr/p"
+    ],
+    "ChangoMás": [
+     4369.0,
+     "https://www.masonline.com.ar/papas-fritas-lays-sabor-jamon-serrano-77g-2/p"
     ]
    }
   },
@@ -191,13 +218,13 @@
      18225.0,
      "https://www.jumbo.com.ar/desodorante-antitranspirante-femenino-clinical-x-58-gr-dove/p"
     ],
-    "ChangoMás": [
-     20169.0,
-     "https://www.masonline.com.ar/desodorante-dove-clinical-58-g/p"
-    ],
     "Comodín": [
      6804.71,
      "https://www.comodinencasa.com.ar/deo-dove-clinical-w-soft-solid-crema-58g/p"
+    ],
+    "ChangoMás": [
+     20169.0,
+     "https://www.masonline.com.ar/desodorante-dove-clinical-58-g/p"
     ]
    }
   },
@@ -252,33 +279,6 @@
     "Jumbo": [
      1500.0,
      "https://www.jumbo.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Baby Dry XG x 58 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/826609/13810407002.jpg?v=638555256662900000",
-   "cadena": "Comodín",
-   "precio": 26810.87,
-   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-xg-jumbo-58un/p",
-   "referencia": 41247.49,
-   "precio_2da": 56199.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 52.3,
-   "score": 1830,
-   "pr": {
-    "Jumbo": [
-     59900.0,
-     "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-xg-x-58-un-pampers/p"
-    ],
-    "Comodín": [
-     26810.87,
-     "https://www.comodinencasa.com.ar/panal-pampers-babydry-xg-jumbo-58un/p"
-    ],
-    "Carrefour": [
-     56199.0,
-     "https://www.carrefour.com.ar/panales-pampers-baby-dry-xg-58-uni-718017/p"
     ]
    }
   },
@@ -360,10 +360,6 @@
     "Carrefour": [
      3800.0,
      "https://www.carrefour.com.ar/jabon-liquido-para-ropa-fina-bebe-ala-camellito-dp-450-ml-784291/p"
-    ],
-    "Vea": [
-     3900.0,
-     "https://www.vea.com.ar/jabon-liquido-ala-camellito-baja-espuma-para-b/p"
     ],
     "Jumbo": [
      4000.0,
@@ -488,64 +484,6 @@
     "Comodín": [
      6622.79,
      "https://www.comodinencasa.com.ar/leche-svelty-extra-calcio-400gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930236/Shampoo-Dove-Bond-Uv-Repair-200ml-1-1048833.jpg?v=639252781986400000",
-   "cadena": "Carrefour",
-   "precio": 3594.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 6007.09,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.2,
-   "score": 1607,
-   "pr": {
-    "Jumbo": [
-     7850.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
-    ],
-    "Carrefour": [
-     3594.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
-    ],
-    "Comodín": [
-     6007.09,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
-    ],
-    "ChangoMás": [
-     7409.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Suavizante Downy Mistico 900 ml Rinde 2 lt Perfume Sofisticado Frutal",
-   "m": "Downy",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/855567/7500435160001_01.jpg?v=639125453718630000",
-   "cadena": "Comodín",
-   "precio": 9170.65,
-   "link": "https://www.comodinencasa.com.ar/suavizante-downy-mistico-900ml/p",
-   "referencia": 14108.69,
-   "precio_2da": 16919.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.8,
-   "score": 1603,
-   "pr": {
-    "Carrefour": [
-     16919.0,
-     "https://www.carrefour.com.ar/suavizante-downy-mistico-900-ml-rinde-2-lt-perfume-sofisticado-frutal-748594/p"
-    ],
-    "Comodín": [
-     9170.65,
-     "https://www.comodinencasa.com.ar/suavizante-downy-mistico-900ml/p"
-    ],
-    "ChangoMás": [
-     17939.0,
-     "https://www.masonline.com.ar/suavizante-concentrado-downy-mistico-900ml/p"
     ]
    }
   },
@@ -801,33 +739,6 @@
    }
   },
   {
-   "n": "Acondicionador Pro-V Miracles Volumen 400 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808471/Aco-Pantene-Provmir-Volumen-400-Ml-1-1006987.jpg?v=638422478417600000",
-   "cadena": "Comodín",
-   "precio": 4256.85,
-   "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-prom-vol-400ml/p",
-   "referencia": 5798.06,
-   "precio_2da": 9990.0,
-   "baja_pct": 26.6,
-   "brecha_pct": 57.4,
-   "score": 1525,
-   "pr": {
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/acondicionador-pro-v-miracles-volumen-400-ml-pantene/p"
-    ],
-    "Comodín": [
-     4256.85,
-     "https://www.comodinencasa.com.ar/acondicionador-pantene-prom-vol-400ml/p"
-    ],
-    "ChangoMás": [
-     12239.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-volumen-400-ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Pantene detox 400 cc.",
    "m": "Pantene",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417567/7500435229821_02.jpg?v=638357591224670000",
@@ -859,111 +770,6 @@
     "ChangoMás": [
      12239.0,
      "https://www.masonline.com.ar/shampoo-pantene-detox-400ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pantene equilibrio 400 cc.",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417600/7500435209694_02.jpg?v=638357591310500000",
-   "cadena": "Comodín",
-   "precio": 4256.85,
-   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-400ml/p",
-   "referencia": 5798.06,
-   "precio_2da": 9790.0,
-   "baja_pct": 26.6,
-   "brecha_pct": 56.5,
-   "score": 1502,
-   "pr": {
-    "Carrefour": [
-     9790.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-equilibrio-400-cc-723895/p"
-    ],
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/shampoo-pro-v-miracles-detox-equilibrio-400-ml-pantene/p"
-    ],
-    "Jumbo": [
-     12050.0,
-     "https://www.jumbo.com.ar/shampoo-pro-v-miracles-detox-equilibrio-400-ml-pantene/p"
-    ],
-    "Comodín": [
-     4256.85,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-400ml/p"
-    ],
-    "ChangoMás": [
-     12239.0,
-     "https://www.masonline.com.ar/shampoo-pantene-equilibrio-400ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Pantene equilibrio 400 cc.",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417514/7500435230018_02.jpg?v=638357591084570000",
-   "cadena": "Comodín",
-   "precio": 4256.85,
-   "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-equilibrio-400ml/p",
-   "referencia": 5798.06,
-   "precio_2da": 9790.0,
-   "baja_pct": 26.6,
-   "brecha_pct": 56.5,
-   "score": 1502,
-   "pr": {
-    "Carrefour": [
-     9790.0,
-     "https://www.carrefour.com.ar/acondicionador-pantene-equilibrio-400-cc-723894/p"
-    ],
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/acondicionador-pro-v-miracles-equilibrio-400-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     11750.0,
-     "https://www.jumbo.com.ar/acondicionador-pro-v-miracles-equilibrio-400-ml-pantene-2/p"
-    ],
-    "Comodín": [
-     4256.85,
-     "https://www.comodinencasa.com.ar/acondicionador-pantene-equilibrio-400ml/p"
-    ],
-    "ChangoMás": [
-     12239.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-400ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pro-V Miracles Volumen 400 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808473/Sham-Pantene-Provmir-Volumen-400ml-1-1006989.jpg?v=638422478425000000",
-   "cadena": "Comodín",
-   "precio": 4256.85,
-   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-prov-micracles-vol-400ml/p",
-   "referencia": 5798.06,
-   "precio_2da": 9790.0,
-   "baja_pct": 26.6,
-   "brecha_pct": 56.5,
-   "score": 1502,
-   "pr": {
-    "Vea": [
-     9990.0,
-     "https://www.vea.com.ar/sahmpoo-pro-v-miracles-volumen-400-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     12050.0,
-     "https://www.jumbo.com.ar/sahmpoo-pro-v-miracles-volumen-400-ml-pantene-2/p"
-    ],
-    "Comodín": [
-     4256.85,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-prov-micracles-vol-400ml/p"
-    ],
-    "ChangoMás": [
-     12239.0,
-     "https://www.masonline.com.ar/shampoo-pantene-volumen-400-ml-2/p"
-    ],
-    "Carrefour": [
-     9790.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-prov-miracles-volumen-400-cc-733826/p"
     ]
    }
   },
