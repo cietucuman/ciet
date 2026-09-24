@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-23",
- "actualizado": "2026-09-23 21:23",
+ "fecha": "2026-09-24",
+ "actualizado": "2026-09-24 16:47",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-13",
   "2026-09-14",
   "2026-09-15",
   "2026-09-16",
@@ -19,9 +18,10 @@
   "2026-09-20",
   "2026-09-21",
   "2026-09-22",
-  "2026-09-23"
+  "2026-09-23",
+  "2026-09-24"
  ],
- "total": 27,
+ "total": 30,
  "ofertas": [
   {
    "n": "Tubitos de harina de maíz sabor queso 3D mega queso 43 g.",
@@ -167,64 +167,37 @@
    }
   },
   {
-   "n": "Chicles Topline menta 14 g.",
-   "m": "Topline",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916017/77931764_E01.jpg?v=639227570023670000",
-   "cadena": "Carrefour",
-   "precio": 668.85,
-   "link": "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p",
-   "referencia": 1145.0,
-   "precio_2da": 1390.0,
-   "baja_pct": 41.6,
-   "brecha_pct": 51.9,
-   "score": 2157,
+   "n": "Chocolate taza 60 cacao Bonafide 100 g.",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914743/7792360094319_02.jpg?v=639223044285200000",
+   "cadena": "Jumbo",
+   "precio": 3225.0,
+   "link": "https://www.jumbo.com.ar/chocolate-amargo-60cacao-bonafide-100-gr/p",
+   "referencia": 6450.0,
+   "precio_2da": 5660.79,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.0,
+   "score": 2151,
    "pr": {
     "Carrefour": [
-     668.85,
-     "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p"
+     6199.0,
+     "https://www.carrefour.com.ar/chocolate-taza-60-cacao-bonafide-100-g/p"
     ],
     "Vea": [
-     1390.0,
-     "https://www.vea.com.ar/chicle-top-line-xplosive-14-gr/p"
+     6199.0,
+     "https://www.vea.com.ar/chocolate-amargo-60cacao-bonafide-100-gr/p"
     ],
     "Jumbo": [
-     1500.0,
-     "https://www.jumbo.com.ar/chicle-top-line-xplosive-14-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Antitranspirante Dove Clinical Crema 58 grs",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923904/75079437_01.jpg?v=639240409951200000",
-   "cadena": "Comodín",
-   "precio": 6804.71,
-   "link": "https://www.comodinencasa.com.ar/deo-dove-clinical-w-soft-solid-crema-58g/p",
-   "referencia": 11341.19,
-   "precio_2da": 14290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 52.4,
-   "score": 2095,
-   "pr": {
-    "Carrefour": [
-     14290.0,
-     "https://www.carrefour.com.ar/antitranspirante-dove-clinical-crema-58-grs-763468/p"
-    ],
-    "Vea": [
-     14290.0,
-     "https://www.vea.com.ar/desodorante-antitranspirante-femenino-clinical-x-58-gr-dove/p"
-    ],
-    "Jumbo": [
-     18225.0,
-     "https://www.jumbo.com.ar/desodorante-antitranspirante-femenino-clinical-x-58-gr-dove/p"
+     3225.0,
+     "https://www.jumbo.com.ar/chocolate-amargo-60cacao-bonafide-100-gr/p"
     ],
     "Comodín": [
-     6804.71,
-     "https://www.comodinencasa.com.ar/deo-dove-clinical-w-soft-solid-crema-58g/p"
+     5660.79,
+     "https://www.comodinencasa.com.ar/chocolate-bonafide-p-taza-60-cacao-100gr-2/p"
     ],
     "ChangoMás": [
-     20169.0,
-     "https://www.masonline.com.ar/desodorante-dove-clinical-58-g/p"
+     6059.0,
+     "https://www.masonline.com.ar/chocolate-bonafide-cacao-60-100g-2/p"
     ]
    }
   },
@@ -256,60 +229,29 @@
    }
   },
   {
-   "n": "Chicles Beldent Infinit menta 13,3 g.",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916024/7622201421496_E01.jpg?v=639227572917070000",
+   "n": "Chicles Topline menta 14 g.",
+   "m": "Topline",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916017/77931764_E01.jpg?v=639227570023670000",
    "cadena": "Carrefour",
-   "precio": 718.25,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p",
-   "referencia": 1179.0,
+   "precio": 668.85,
+   "link": "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p",
+   "referencia": 1029.0,
    "precio_2da": 1390.0,
-   "baja_pct": 39.1,
-   "brecha_pct": 48.3,
-   "score": 1889,
+   "baja_pct": 35.0,
+   "brecha_pct": 51.9,
+   "score": 1816,
    "pr": {
     "Carrefour": [
-     718.25,
-     "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p"
+     668.85,
+     "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p"
     ],
     "Vea": [
      1390.0,
-     "https://www.vea.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+     "https://www.vea.com.ar/chicle-top-line-xplosive-14-gr/p"
     ],
     "Jumbo": [
      1500.0,
-     "https://www.jumbo.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Infinit mentol 13,3 g.",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
-   "cadena": "Carrefour",
-   "precio": 718.25,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
-   "referencia": 1179.0,
-   "precio_2da": 1349.0,
-   "baja_pct": 39.1,
-   "brecha_pct": 46.8,
-   "score": 1827,
-   "pr": {
-    "Carrefour": [
-     718.25,
-     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
-    ],
-    "Vea": [
-     1390.0,
-     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ],
-    "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ],
-    "ChangoMás": [
-     1349.0,
-     "https://www.masonline.com.ar/chicles-beldent-infinit-spearmint-13-3g-2/p"
+     "https://www.jumbo.com.ar/chicle-top-line-xplosive-14-gr/p"
     ]
    }
   },
@@ -345,68 +287,6 @@
    }
   },
   {
-   "n": "Jabón líquido para ropa fina bebé Ala Camellito dp 450 ml",
-   "m": "Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915299/7791290796867_01.jpg?v=639226737672500000",
-   "cadena": "Comodín",
-   "precio": 2155.91,
-   "link": "https://www.comodinencasa.com.ar/detergente-ala-camellito-bebe-dp-450ml/p",
-   "referencia": 3593.19,
-   "precio_2da": 3800.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 43.3,
-   "score": 1731,
-   "pr": {
-    "Carrefour": [
-     3800.0,
-     "https://www.carrefour.com.ar/jabon-liquido-para-ropa-fina-bebe-ala-camellito-dp-450-ml-784291/p"
-    ],
-    "Jumbo": [
-     4000.0,
-     "https://www.jumbo.com.ar/jabon-liquido-ala-camellito-baja-espuma-para-b/p"
-    ],
-    "Comodín": [
-     2155.91,
-     "https://www.comodinencasa.com.ar/detergente-ala-camellito-bebe-dp-450ml/p"
-    ],
-    "ChangoMás": [
-     3949.0,
-     "https://www.masonline.com.ar/jabon-liquido-ala-camellito-bebe-450ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Jabón líquido para ropa fina oscura Ala Camellito dp 450 ml",
-   "m": "Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915298/7791290796850_01.jpg?v=639226736523300000",
-   "cadena": "Comodín",
-   "precio": 2155.91,
-   "link": "https://www.comodinencasa.com.ar/detergente-ala-camellito-r-osc-dp-450ml/p",
-   "referencia": 3593.19,
-   "precio_2da": 3800.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 43.3,
-   "score": 1731,
-   "pr": {
-    "Carrefour": [
-     3800.0,
-     "https://www.carrefour.com.ar/jabon-liquido-para-ropa-fina-oscura-ala-camellito-dp-450-ml-784290/p"
-    ],
-    "Jumbo": [
-     4000.0,
-     "https://www.jumbo.com.ar/jabon-liquido-ala-camellito-baja-espuma-ropa-o/p"
-    ],
-    "Comodín": [
-     2155.91,
-     "https://www.comodinencasa.com.ar/detergente-ala-camellito-r-osc-dp-450ml/p"
-    ],
-    "ChangoMás": [
-     3949.0,
-     "https://www.masonline.com.ar/jabon-liquido-ala-camellito-ropa-oscura-450ml/p"
-    ]
-   }
-  },
-  {
    "n": "Chicles Beldent Menta Refrescante 6 uni",
    "m": "Beldent",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882347/77969071_E01.jpg?v=639155711703830000",
@@ -434,6 +314,149 @@
    }
   },
   {
+   "n": "Chicles Beldent Infinit menta 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916024/7622201421496_E01.jpg?v=639227572917070000",
+   "cadena": "Carrefour",
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p",
+   "referencia": 1105.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.3,
+   "score": 1691,
+   "pr": {
+    "Carrefour": [
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Baby Dry Hipoalergénico G X 72 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/826603/13810410002.jpg?v=638555252680370000",
+   "cadena": "Comodín",
+   "precio": 26810.87,
+   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p",
+   "referencia": 41247.49,
+   "precio_2da": 51200.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 47.6,
+   "score": 1667,
+   "pr": {
+    "Jumbo": [
+     51200.0,
+     "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-g-x-72-un-pampers/p"
+    ],
+    "Comodín": [
+     26810.87,
+     "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p"
+    ],
+    "ChangoMás": [
+     56199.0,
+     "https://www.masonline.com.ar/panales-pampers-baby-dry-g-72un-2/p"
+    ],
+    "Carrefour": [
+     56199.0,
+     "https://www.carrefour.com.ar/panales-talle-g-pampers-babydry-72-uni-718019/p"
+    ]
+   }
+  },
+  {
+   "n": "Mix Tartas Choclo X 500 Grs Green Life",
+   "m": "GREEN LIFE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/901159/Mix-Tartas-Choclo-X-500-Grs-Green-Life-1-1055531.jpg?v=639083326666570000",
+   "cadena": "ChangoMás",
+   "precio": 4901.4,
+   "link": "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p",
+   "referencia": 8169.0,
+   "precio_2da": 8382.98,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.5,
+   "score": 1661,
+   "pr": {
+    "Vea": [
+     10400.0,
+     "https://www.vea.com.ar/mix-tartas-choclo-x-500-grs-green-life/p"
+    ],
+    "Comodín": [
+     8382.98,
+     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-cho-ceb-pim-500gr/p"
+    ],
+    "ChangoMás": [
+     4901.4,
+     "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Mix Tartas Brocoli Zanahoria y Cebolla x 500 Grs GREEN LIFE",
+   "m": "GREEN LIFE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/922458/901157-800-auto.jpg?v=639203418562500000",
+   "cadena": "ChangoMás",
+   "precio": 4901.4,
+   "link": "https://www.masonline.com.ar/mix-para-tarta-green-life-brocoli-zanahoria-cebolla-500-g/p",
+   "referencia": 8169.0,
+   "precio_2da": 8382.98,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.5,
+   "score": 1661,
+   "pr": {
+    "Jumbo": [
+     11200.0,
+     "https://www.jumbo.com.ar/mix-tartas-green-life-brocoli-x-500-gr/p"
+    ],
+    "Comodín": [
+     8382.98,
+     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-ac-es-ce-pi-500gr/p"
+    ],
+    "ChangoMás": [
+     4901.4,
+     "https://www.masonline.com.ar/mix-para-tarta-green-life-brocoli-zanahoria-cebolla-500-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Infinit mentol 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
+   "cadena": "Carrefour",
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
+   "referencia": 1105.0,
+   "precio_2da": 1349.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.8,
+   "score": 1636,
+   "pr": {
+    "Carrefour": [
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1450.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "ChangoMás": [
+     1349.0,
+     "https://www.masonline.com.ar/chicles-beldent-infinit-spearmint-13-3g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Chicles Beldent Tuti Fruti 6 uni",
    "m": "Beldent",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882353/77969101_E01.jpg?v=639155712400770000",
@@ -457,6 +480,33 @@
     "ChangoMás": [
      1079.0,
      "https://www.masonline.com.ar/chicle-globo-poseidon-beldent-10gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pan Brioche para hamburguesa Bimbo Artesano 4 uni",
+   "m": "Artesano",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/827916/7793890259018_E01.jpg?v=639089232546870000",
+   "cadena": "ChangoMás",
+   "precio": 3449.4,
+   "link": "https://www.masonline.com.ar/pan-bimbo-tipo-artesano-brioche-240g-4u-2/p",
+   "referencia": 5749.0,
+   "precio_2da": 5790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1617,
+   "pr": {
+    "Carrefour": [
+     5790.0,
+     "https://www.carrefour.com.ar/pan-brioche-para-hamburguesa-bimbo-artesano-4-uni-715677/p"
+    ],
+    "Jumbo": [
+     6600.0,
+     "https://www.jumbo.com.ar/pan-brioche-de-hamburguesa-artesano-4-un-240-grs-bimbo/p"
+    ],
+    "ChangoMás": [
+     3449.4,
+     "https://www.masonline.com.ar/pan-bimbo-tipo-artesano-brioche-240g-4u-2/p"
     ]
    }
   },
@@ -511,60 +561,6 @@
     "Carrefour": [
      1439.4,
      "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p"
-    ]
-   }
-  },
-  {
-   "n": "Detergente Magistral Ultra Marina Botella 750 ml",
-   "m": "Magistral",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776043/7790990003145_01.jpg?v=639004762947270000",
-   "cadena": "Carrefour",
-   "precio": 4023.5,
-   "link": "https://www.carrefour.com.ar/detergente-magistral-ultra-marina-en-botella-750-ml-741300/p",
-   "referencia": 6190.0,
-   "precio_2da": 7400.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.6,
-   "score": 1597,
-   "pr": {
-    "Carrefour": [
-     4023.5,
-     "https://www.carrefour.com.ar/detergente-magistral-ultra-marina-en-botella-750-ml-741300/p"
-    ],
-    "Jumbo": [
-     7400.0,
-     "https://www.jumbo.com.ar/detergente-magistral-ultra-marina-botella-750-ml/p"
-    ],
-    "ChangoMás": [
-     8569.0,
-     "https://www.masonline.com.ar/detergente-magistral-ultra-desengrasante-marina-750ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Jabón Liquido Ala Camellito Ropa Delicada Doypack 900 ml",
-   "m": "Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928507/7791290795273_01.jpg?v=639244004512330000",
-   "cadena": "Comodín",
-   "precio": 3925.61,
-   "link": "https://www.comodinencasa.com.ar/deterg-ala-camell-r-fina-reg-dp-x-900-ml/p",
-   "referencia": 6542.69,
-   "precio_2da": 6490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.5,
-   "score": 1581,
-   "pr": {
-    "Carrefour": [
-     6490.0,
-     "https://www.carrefour.com.ar/jabon-liquido-ala-camellito-ropa-delicada-doypack-900-ml-725771/p"
-    ],
-    "Comodín": [
-     3925.61,
-     "https://www.comodinencasa.com.ar/deterg-ala-camell-r-fina-reg-dp-x-900-ml/p"
-    ],
-    "ChangoMás": [
-     7239.0,
-     "https://www.masonline.com.ar/jabon-liquido-ala-ropa-fina-900ml-2/p"
     ]
    }
   },
@@ -708,33 +704,110 @@
    }
   },
   {
-   "n": "Pañales Baby Dry Hipoalergénico G X 72 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/826603/13810410002.jpg?v=638555252680370000",
-   "cadena": "Comodín",
-   "precio": 26810.87,
-   "link": "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p",
-   "referencia": 41247.49,
-   "precio_2da": 47769.15,
+   "n": "Desodorante en Aerosol Axe Marine 230 ml",
+   "m": "Axe",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923306/7791293050614_01.jpg?v=639240360567430000",
+   "cadena": "Carrefour",
+   "precio": 3308.5,
+   "link": "https://www.carrefour.com.ar/desodorante-bodyspray-axe-marine-230-cc-730746/p",
+   "referencia": 5090.0,
+   "precio_2da": 5886.39,
    "baja_pct": 35.0,
-   "brecha_pct": 43.9,
-   "score": 1536,
+   "brecha_pct": 43.8,
+   "score": 1533,
    "pr": {
+    "Carrefour": [
+     3308.5,
+     "https://www.carrefour.com.ar/desodorante-bodyspray-axe-marine-230-cc-730746/p"
+    ],
     "Jumbo": [
-     51200.0,
-     "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-g-x-72-un-pampers/p"
+     6000.0,
+     "https://www.jumbo.com.ar/desodorante-en-aerosol-marine-230-ml-axe/p"
     ],
     "Comodín": [
-     26810.87,
-     "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p"
+     5886.39,
+     "https://www.comodinencasa.com.ar/deo-axe-bs-marine-230ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Helado Sabor Crema Americana Palito Bombón x 18 Un 655 Grs Frigor",
+   "m": "FRIGOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/853194/Helado-Palito-Bombon-Frigor-Crema-Americana-655-Gr-1-887750.jpg?v=638727251009700000",
+   "cadena": "Jumbo",
+   "precio": 16260.0,
+   "link": "https://www.jumbo.com.ar/helado-palito-bombon-crema-americana-655-gr-frigor/p",
+   "referencia": 27100.0,
+   "precio_2da": 26339.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1531,
+   "pr": {
+    "Vea": [
+     26790.0,
+     "https://www.vea.com.ar/helado-palito-bombon-crema-americana-655-gr-frigor/p"
     ],
-    "ChangoMás": [
-     47769.15,
-     "https://www.masonline.com.ar/panales-pampers-baby-dry-g-72un-2/p"
+    "Jumbo": [
+     16260.0,
+     "https://www.jumbo.com.ar/helado-palito-bombon-crema-americana-655-gr-frigor/p"
     ],
     "Carrefour": [
-     56199.0,
-     "https://www.carrefour.com.ar/panales-talle-g-pampers-babydry-72-uni-718019/p"
+     26339.0,
+     "https://www.carrefour.com.ar/helado-frigor-palito-bombon-en-caja-18-uni--699715/p"
+    ]
+   }
+  },
+  {
+   "n": "Helado Sabor Crema Cookies x 1 Un 400 Grs Seitu",
+   "m": "SEITU",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891505/Helado-Premium-Sei-Tu-Crema-Cookies-400-Gr-1-942312.jpg?v=638997898003370000",
+   "cadena": "Jumbo",
+   "precio": 4350.0,
+   "link": "https://www.jumbo.com.ar/helado-premium-sei-tu-crema-cookies-400-gr/p",
+   "referencia": 7250.0,
+   "precio_2da": 7000.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.9,
+   "score": 1514,
+   "pr": {
+    "Vea": [
+     7000.0,
+     "https://www.vea.com.ar/helado-premium-sei-tu-crema-cookies-400-gr/p"
+    ],
+    "Jumbo": [
+     4350.0,
+     "https://www.jumbo.com.ar/helado-premium-sei-tu-crema-cookies-400-gr/p"
+    ],
+    "ChangoMás": [
+     7179.0,
+     "https://www.masonline.com.ar/helado-de-dulce-de-leche-con-cookies-seitu-400g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Helado Pote Premium Sei Tu Super Chocolate 400 Gr",
+   "m": "SEITU",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/891503/Helado-Pote-Premium-Sei-Tu-Super-Chocolate-400-Gr-1-942300.jpg?v=638997897994300000",
+   "cadena": "Jumbo",
+   "precio": 4230.0,
+   "link": "https://www.jumbo.com.ar/helado-pote-premium-sei-tu-super-chocolate-400-gr/p",
+   "referencia": 7050.0,
+   "precio_2da": 6800.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1512,
+   "pr": {
+    "Vea": [
+     6800.0,
+     "https://www.vea.com.ar/helado-pote-premium-sei-tu-super-chocolate-400-gr/p"
+    ],
+    "Jumbo": [
+     4230.0,
+     "https://www.jumbo.com.ar/helado-pote-premium-sei-tu-super-chocolate-400-gr/p"
+    ],
+    "ChangoMás": [
+     7179.0,
+     "https://www.masonline.com.ar/helado-de-chocolate-con-dulce-de-leche-repostero-y-chocolate-blanco-seitu-400g-2/p"
     ]
    }
   },
