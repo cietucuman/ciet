@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-26",
- "actualizado": "2026-09-26 10:36",
+ "actualizado": "2026-09-26 15:53",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -20,36 +20,32 @@
   "2026-09-24",
   "2026-09-26"
  ],
- "total": 54,
+ "total": 71,
  "ofertas": [
   {
-   "n": "Copos de maíz Zucaritas azucarados 490 g.",
-   "m": "Kelloggs",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318194/7896004004969_E02.jpg?v=638180312938500000",
+   "n": "Papas fritas sabor a jamón serrano Lays 122 g.",
+   "m": "Lays",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904221/7790310985618_E01.jpg?v=639198961673070000",
    "cadena": "Carrefour",
-   "precio": 2583.0,
-   "link": "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p",
-   "referencia": 4642.5,
-   "precio_2da": 6319.0,
-   "baja_pct": 44.4,
-   "brecha_pct": 59.1,
-   "score": 2623,
+   "precio": 2634.45,
+   "link": "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-122-g-722437/p",
+   "referencia": 5790.0,
+   "precio_2da": 5790.0,
+   "baja_pct": 54.5,
+   "brecha_pct": 54.5,
+   "score": 2970,
    "pr": {
     "Carrefour": [
-     2583.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p"
+     2634.45,
+     "https://www.carrefour.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-122-g-722437/p"
+    ],
+    "Vea": [
+     5790.0,
+     "https://www.vea.com.ar/papas-fritas-lays-jamon-serrano-122-g/p"
     ],
     "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
-    ],
-    "Comodín": [
-     6325.29,
-     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-490gr/p"
-    ],
-    "ChangoMás": [
-     6319.0,
-     "https://www.masonline.com.ar/cereal-zucaritas-490g-2/p"
+     6250.0,
+     "https://www.jumbo.com.ar/papas-fritas-lays-jamon-serrano-122-g/p"
     ]
    }
   },
@@ -70,6 +66,10 @@
      1213.88,
      "https://www.carrefour.com.ar/papas-fritas-lays-clasicas-40-g-721302/p"
     ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/papas-fritas-lays-clasicas-40-g/p"
+    ],
     "Jumbo": [
      2750.0,
      "https://www.jumbo.com.ar/papas-fritas-lays-clasicas-40-g/p"
@@ -81,29 +81,37 @@
    }
   },
   {
-   "n": "Limpiador desinfectante Ayudín lavanda 900 ml.",
-   "m": "Ayudín",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/226667/7793253004699_01.jpg?v=639126533178430000",
-   "cadena": "Jumbo",
-   "precio": 1550.0,
-   "link": "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-900-ml/p",
-   "referencia": 3100.0,
-   "precio_2da": 3190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 51.4,
-   "score": 2571,
+   "n": "Copos de maíz Zucaritas azucarados 490 g.",
+   "m": "Kelloggs",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318194/7896004004969_E02.jpg?v=638180312938500000",
+   "cadena": "Carrefour",
+   "precio": 2583.0,
+   "link": "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p",
+   "referencia": 4642.5,
+   "precio_2da": 6190.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 58.3,
+   "score": 2585,
    "pr": {
     "Carrefour": [
-     3190.0,
-     "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-lavanda-900-ml/p"
+     2583.0,
+     "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p"
+    ],
+    "Vea": [
+     6190.0,
+     "https://www.vea.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
     ],
     "Jumbo": [
-     1550.0,
-     "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-900-ml/p"
+     6550.0,
+     "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
+    ],
+    "Comodín": [
+     6325.29,
+     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-490gr/p"
     ],
     "ChangoMás": [
-     3209.0,
-     "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-lavanda-900-ml-2/p"
+     6319.0,
+     "https://www.masonline.com.ar/cereal-zucaritas-490g-2/p"
     ]
    }
   },
@@ -131,33 +139,6 @@
     "Carrefour": [
      2829.0,
      "https://www.carrefour.com.ar/desinfectante-concentrado-lysoform-lavanda-limpieza-diaria-y-desinfeccion-de-hogar-420-ml-656142/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido aromatizante Poett alegra tu día 1.8 lts.",
-   "m": "Poett",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/267822/7793253003654_01.jpg?v=638072250821830000",
-   "cadena": "Jumbo",
-   "precio": 2325.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-1-8-l/p",
-   "referencia": 4650.0,
-   "precio_2da": 4590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.3,
-   "score": 2467,
-   "pr": {
-    "Carrefour": [
-     4590.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-18-lts-674810/p"
-    ],
-    "Jumbo": [
-     2325.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-1-8-l/p"
-    ],
-    "ChangoMás": [
-     5039.0,
-     "https://www.masonline.com.ar/limpiador-desinfectante-de-pisos-poett-alegra-tu-dia-1-8-l-2/p"
     ]
    }
   },
@@ -195,7 +176,7 @@
   {
    "n": "Limpiador Multiuso Ultraconcentrado Lavanda 35 Ml Multimax",
    "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715808/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-1-Litro-X-35ml-1-841174.jpg?v=637963042649570000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/715808/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-1-Litro-X-35ml-1-841174.jpg?v=637963042649570000",
    "cadena": "Jumbo",
    "precio": 325.0,
    "link": "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p",
@@ -205,6 +186,10 @@
    "brecha_pct": 49.2,
    "score": 2461,
    "pr": {
+    "Vea": [
+     640.0,
+     "https://www.vea.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
+    ],
     "Jumbo": [
      325.0,
      "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
@@ -249,7 +234,7 @@
   {
    "n": "Limpiador Desinfectante Pisos Original 420 Ml Lysoform",
    "m": "LYSOFORM",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/900137/Desinfectante-Concentrado-Pisos-Repuesto-420ml-Lysoform-1-838390.jpg?v=639074797232300000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900137/Desinfectante-Concentrado-Pisos-Repuesto-420ml-Lysoform-1-838390.jpg?v=639074797232300000",
    "cadena": "Jumbo",
    "precio": 1425.0,
    "link": "https://www.jumbo.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p",
@@ -259,6 +244,10 @@
    "brecha_pct": 48.9,
    "score": 2446,
    "pr": {
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p"
+    ],
     "Jumbo": [
      1425.0,
      "https://www.jumbo.com.ar/desinfectante-concentrado-original-420-ml-lysoform/p"
@@ -270,6 +259,33 @@
     "Carrefour": [
      2790.0,
      "https://www.carrefour.com.ar/desinfectante-concentrado-lysoform-original-limpieza-diaria-y-desinfeccion-del-hogar-420-ml-656140/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Líquido Música en Primavera 900 Ml Poett",
+   "m": "POETT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/761362/Limpiador-Desinfectante-De-Pisos-Poett-M-sica-En-Primavera-900-Ml-1-858639.jpg?v=638053546096470000",
+   "cadena": "Jumbo",
+   "precio": 1275.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-musica-en-primavera-900-ml-2/p",
+   "referencia": 2550.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.8,
+   "score": 2440,
+   "pr": {
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/limpiador-liquido-aromatizante-poett-musica-en-primavera-900-ml-2/p"
+    ],
+    "Jumbo": [
+     1275.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-musica-en-primavera-900-ml-2/p"
+    ],
+    "ChangoMás": [
+     2749.0,
+     "https://www.masonline.com.ar/limpiador-desinfectante-de-pisos-poett-musica-en-primavera-900-ml-2/p"
     ]
    }
   },
@@ -297,6 +313,60 @@
     "ChangoMás": [
      1949.0,
      "https://www.masonline.com.ar/limpiador-liquido-multimax-citronella-rinde-5-litros-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Lavavajillas Detergente Para Diluir Aloe Vera Rinde 300ml X 100ml",
+   "m": "MULTIMAX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/715814/Lavavajillas-Detergente-Para-Diluir-Aloe-Vera-Rinde-300ml-X-100ml-1-843914.jpg?v=637963042668670000",
+   "cadena": "Jumbo",
+   "precio": 500.0,
+   "link": "https://www.jumbo.com.ar/lavavajillas-detergente-para-diluir-aloe-vera-rinde-300ml-x-100ml/p",
+   "referencia": 1000.0,
+   "precio_2da": 969.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.4,
+   "score": 2420,
+   "pr": {
+    "Vea": [
+     980.0,
+     "https://www.vea.com.ar/lavavajillas-detergente-para-diluir-aloe-vera-rinde-300ml-x-100ml/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/lavavajillas-detergente-para-diluir-aloe-vera-rinde-300ml-x-100ml/p"
+    ],
+    "ChangoMás": [
+     969.0,
+     "https://www.masonline.com.ar/lavavajillas-detergente-multimax-para-diluir-aloe-vera-rinde-300-ml-100-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento seco para perro Purina One 2 kg. adulto grande cordero",
+   "m": "Purina",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/161205/7613287227294_01.jpg?v=637467655944370000",
+   "cadena": "Jumbo",
+   "precio": 8875.0,
+   "link": "https://www.jumbo.com.ar/alimento-perros-purina-one-adulto-mediano-grande-cordero-2-kg/p",
+   "referencia": 17750.0,
+   "precio_2da": 17190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.4,
+   "score": 2419,
+   "pr": {
+    "Carrefour": [
+     17200.0,
+     "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-adulto-grande-cordero-669891/p"
+    ],
+    "Vea": [
+     17190.0,
+     "https://www.vea.com.ar/alimento-perros-purina-one-adulto-mediano-grande-cordero-2-kg/p"
+    ],
+    "Jumbo": [
+     8875.0,
+     "https://www.jumbo.com.ar/alimento-perros-purina-one-adulto-mediano-grande-cordero-2-kg/p"
     ]
    }
   },
@@ -344,6 +414,10 @@
      4590.0,
      "https://www.carrefour.com.ar/limpiador-liquido-aromatizante-poett-suavidad-de-algodon-18-lts-674807/p"
     ],
+    "Vea": [
+     4590.0,
+     "https://www.vea.com.ar/limpiador-liquido-aromatizante-poett-suavidad-de-algodon-1-8-lts/p"
+    ],
     "Jumbo": [
      2375.0,
      "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-suavidad-de-algodon-1-8-lts/p"
@@ -351,6 +425,68 @@
     "ChangoMás": [
      5039.0,
      "https://www.masonline.com.ar/limpiador-desinfectante-de-pisos-poett-suavidad-de-algodon-1-8-l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador líquido aromatizante Poett alegra tu día 1.8 lts.",
+   "m": "Poett",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/267822/7793253003654_01.jpg?v=638072250821830000",
+   "cadena": "Jumbo",
+   "precio": 2325.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-1-8-l/p",
+   "referencia": 4650.0,
+   "precio_2da": 4490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.2,
+   "score": 2411,
+   "pr": {
+    "Carrefour": [
+     4590.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-18-lts-674810/p"
+    ],
+    "Vea": [
+     4490.0,
+     "https://www.vea.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-1-8-l/p"
+    ],
+    "Jumbo": [
+     2325.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-1-8-l/p"
+    ],
+    "ChangoMás": [
+     5039.0,
+     "https://www.masonline.com.ar/limpiador-desinfectante-de-pisos-poett-alegra-tu-dia-1-8-l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador desinfectante Ayudín lavanda 900 ml.",
+   "m": "Ayudín",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/226667/7793253004699_01.jpg?v=639126533178430000",
+   "cadena": "Jumbo",
+   "precio": 1550.0,
+   "link": "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-900-ml/p",
+   "referencia": 3100.0,
+   "precio_2da": 2990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.2,
+   "score": 2408,
+   "pr": {
+    "Carrefour": [
+     3190.0,
+     "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-lavanda-900-ml/p"
+    ],
+    "Vea": [
+     2990.0,
+     "https://www.vea.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-900-ml/p"
+    ],
+    "Jumbo": [
+     1550.0,
+     "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-900-ml/p"
+    ],
+    "ChangoMás": [
+     3209.0,
+     "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-lavanda-900-ml-2/p"
     ]
    }
   },
@@ -371,6 +507,10 @@
      1149.0,
      "https://www.carrefour.com.ar/alimento-humedo-para-perro-kingfood-100-g-adultos-carne-631808/p"
     ],
+    "Vea": [
+     1150.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-kingfood-adulto-carne-100gr/p"
+    ],
     "Jumbo": [
      600.0,
      "https://www.jumbo.com.ar/alimento-para-perro-humedo-kingfood-adulto-carne-100gr/p"
@@ -378,6 +518,60 @@
     "ChangoMás": [
      1149.0,
      "https://www.masonline.com.ar/alimento-para-perro-humedo-king-food-carne-pouch-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Liquido Multisuperficies Glade Paraíso Azul Fragancia Duradera para Pisos y Supe",
+   "m": "Glade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/891937/7790520996497_01.jpg?v=639172200169130000",
+   "cadena": "Jumbo",
+   "precio": 2725.0,
+   "link": "https://www.jumbo.com.ar/limpiador-inodoro-gel-removedor-sarro-citrica-500cc-lysoform/p",
+   "referencia": 5450.0,
+   "precio_2da": 5190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.5,
+   "score": 2375,
+   "pr": {
+    "Carrefour": [
+     5279.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-multisuperficies-glade-paraiso-azul-fragancia-duradera-para-pisos-y-superficies-1800-ml-754123/p"
+    ],
+    "Vea": [
+     5190.0,
+     "https://www.vea.com.ar/limpiador-inodoro-gel-removedor-sarro-citrica-500cc-lysoform/p"
+    ],
+    "Jumbo": [
+     2725.0,
+     "https://www.jumbo.com.ar/limpiador-inodoro-gel-removedor-sarro-citrica-500cc-lysoform/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador de Pisos Campos de Lavanda 1760 Ml Glade",
+   "m": "GLADE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/876637/7790520996473-1.jpg?v=639196374832870000",
+   "cadena": "Jumbo",
+   "precio": 2725.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-multisuperficies-lavanda-1760-ml-glade/p",
+   "referencia": 5450.0,
+   "precio_2da": 5190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.5,
+   "score": 2375,
+   "pr": {
+    "Vea": [
+     5190.0,
+     "https://www.vea.com.ar/limpiador-liquido-multisuperficies-lavanda-1760-ml-glade/p"
+    ],
+    "Jumbo": [
+     2725.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-multisuperficies-lavanda-1760-ml-glade/p"
+    ],
+    "Comodín": [
+     5484.99,
+     "https://www.comodinencasa.com.ar/limpiador-glade-lavanda-1760-ml/p"
     ]
    }
   },
@@ -425,6 +619,10 @@
      3569.0,
      "https://www.carrefour.com.ar/condimento-sabor-al-horno-knorr-cebolla-y-ajo-21-g-682685/p"
     ],
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/bolsa-horno-y-condimento-ajo-y-cebolla-21-grs-knorr/p"
+    ],
     "Jumbo": [
      1875.0,
      "https://www.jumbo.com.ar/bolsa-horno-y-condimento-ajo-y-cebolla-21-grs-knorr/p"
@@ -436,29 +634,29 @@
    }
   },
   {
-   "n": "Condimento sabor al horno Knorr limón y orégano 21 g.",
-   "m": "Knorr",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900723/7794000004887_01.jpg?v=639191216288870000",
+   "n": "Vino Blanco Chardonnay 750 Ml Emilia",
+   "m": "EMILIA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/788882/Vino-Emilia-Chardonnay-750ml-1-974630.jpg?v=638258098224600000",
    "cadena": "Jumbo",
-   "precio": 1875.0,
-   "link": "https://www.jumbo.com.ar/bolsa-horno-y-condimento-limon-21-grs-knorr/p",
-   "referencia": 3750.0,
-   "precio_2da": 3559.0,
+   "precio": 4575.0,
+   "link": "https://www.jumbo.com.ar/vino-emilia-chardonnay-750ml/p",
+   "referencia": 9150.0,
+   "precio_2da": 8699.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.3,
-   "score": 2366,
+   "brecha_pct": 47.4,
+   "score": 2370,
    "pr": {
-    "Carrefour": [
-     3559.0,
-     "https://www.carrefour.com.ar/condimento-sabor-al-horno-knorr-limon-y-oregano-21-g-682682/p"
-    ],
     "Jumbo": [
-     1875.0,
-     "https://www.jumbo.com.ar/bolsa-horno-y-condimento-limon-21-grs-knorr/p"
+     4575.0,
+     "https://www.jumbo.com.ar/vino-emilia-chardonnay-750ml/p"
     ],
     "ChangoMás": [
-     3579.0,
-     "https://www.masonline.com.ar/condimento-sabor-al-horno-knorr-limon-y-oregano-21-g-2/p"
+     8999.0,
+     "https://www.masonline.com.ar/vino-blanco-emilia-chardonnay-750-ml-2/p"
+    ],
+    "Carrefour": [
+     8699.0,
+     "https://www.carrefour.com.ar/vino-blanco-sauvignon-blanc-emilia-750-ml-722949/p"
     ]
    }
   },
@@ -506,6 +704,10 @@
      16799.0,
      "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-adulto-mini-carne-669881/p"
     ],
+    "Vea": [
+     17190.0,
+     "https://www.vea.com.ar/alimento-para-perro-purina-one-adulto-mediano-pequeno-carne-2kg/p"
+    ],
     "Jumbo": [
      8875.0,
      "https://www.jumbo.com.ar/alimento-para-perro-purina-one-adulto-mediano-pequeno-carne-2kg/p"
@@ -513,33 +715,6 @@
     "ChangoMás": [
      16799.0,
      "https://www.masonline.com.ar/purina-one-adulto-mini-carnex2kg-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Chardonnay 750 Cc Benjamin",
-   "m": "BENJAMIN",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786353/Vino-Benjamin-Chardonnay-750cc-1-971967.jpg?v=638234014238600000",
-   "cadena": "Jumbo",
-   "precio": 3475.0,
-   "link": "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p",
-   "referencia": 6950.0,
-   "precio_2da": 6565.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.1,
-   "score": 2353,
-   "pr": {
-    "Jumbo": [
-     3475.0,
-     "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p"
-    ],
-    "Carrefour": [
-     6565.0,
-     "https://www.carrefour.com.ar/vino-blanco-dulce-natural-benjamin-750-ml-721783/p"
-    ],
-    "ChangoMás": [
-     6699.0,
-     "https://www.masonline.com.ar/vino-blanco-nieto-senetiner-benjamin-chardonnay-750ml-2/p"
     ]
    }
   },
@@ -560,6 +735,10 @@
      939.0,
      "https://www.carrefour.com.ar/lavavajillas-detergente-multimax-para-diluir-limon-rinde-300-ml-100-ml-660613/p"
     ],
+    "Vea": [
+     960.0,
+     "https://www.vea.com.ar/lavavajillas-detergente-para-diluir-limon-rinde-300ml-x-100ml/p"
+    ],
     "Jumbo": [
      500.0,
      "https://www.jumbo.com.ar/lavavajillas-detergente-para-diluir-limon-rinde-300ml-x-100ml/p"
@@ -567,60 +746,6 @@
     "ChangoMás": [
      969.0,
      "https://www.masonline.com.ar/lavavajilla-multimax-limon-100ml-rinde-300ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Concentrado Multimax Cocina 100ml",
-   "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/764037/Limpiador-Concentrado-Multimax-Cocina-100ml-1-940380.jpg?v=638083786208630000",
-   "cadena": "Jumbo",
-   "precio": 525.0,
-   "link": "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p",
-   "referencia": 1050.0,
-   "precio_2da": 979.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.4,
-   "score": 2319,
-   "pr": {
-    "Jumbo": [
-     525.0,
-     "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p"
-    ],
-    "ChangoMás": [
-     1029.0,
-     "https://www.masonline.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-2/p"
-    ],
-    "Carrefour": [
-     979.0,
-     "https://www.carrefour.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-709108/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador para Baño Concentrado 100 Ml Multimax",
-   "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/764039/Limpiador-Concentrado-Multimax-Ba-o-100ml-Limpiador-Concentrado-Multimax-Ba-o-100ml-1-940363.jpg?v=638083786214900000",
-   "cadena": "Jumbo",
-   "precio": 525.0,
-   "link": "https://www.jumbo.com.ar/limpiador-concentrado-multimax-bano-100ml/p",
-   "referencia": 1050.0,
-   "precio_2da": 979.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.4,
-   "score": 2319,
-   "pr": {
-    "Jumbo": [
-     525.0,
-     "https://www.jumbo.com.ar/limpiador-concentrado-multimax-bano-100ml/p"
-    ],
-    "ChangoMás": [
-     1029.0,
-     "https://www.masonline.com.ar/limpiador-de-bano-multimax-100-cc-2/p"
-    ],
-    "Carrefour": [
-     979.0,
-     "https://www.carrefour.com.ar/limpiador-de-bano-multimax-100-cc-709110/p"
     ]
    }
   },
@@ -641,6 +766,10 @@
      5069.0,
      "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-floral-18-l/p"
     ],
+    "Vea": [
+     5300.0,
+     "https://www.vea.com.ar/limpiador-desinfectante-ayudin-floral-botella-1-8-l/p"
+    ],
     "Jumbo": [
      2725.0,
      "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-floral-botella-1-8-l/p"
@@ -648,6 +777,153 @@
     "ChangoMás": [
      5429.0,
      "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-floral-1-8-l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador para Baño Concentrado 100 Ml Multimax",
+   "m": "MULTIMAX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/764039/Limpiador-Concentrado-Multimax-Ba-o-100ml-Limpiador-Concentrado-Multimax-Ba-o-100ml-1-940363.jpg?v=638083786214900000",
+   "cadena": "Jumbo",
+   "precio": 525.0,
+   "link": "https://www.jumbo.com.ar/limpiador-concentrado-multimax-bano-100ml/p",
+   "referencia": 1050.0,
+   "precio_2da": 970.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.9,
+   "score": 2294,
+   "pr": {
+    "Vea": [
+     970.0,
+     "https://www.vea.com.ar/limpiador-concentrado-multimax-bano-100ml/p"
+    ],
+    "Jumbo": [
+     525.0,
+     "https://www.jumbo.com.ar/limpiador-concentrado-multimax-bano-100ml/p"
+    ],
+    "ChangoMás": [
+     1029.0,
+     "https://www.masonline.com.ar/limpiador-de-bano-multimax-100-cc-2/p"
+    ],
+    "Carrefour": [
+     979.0,
+     "https://www.carrefour.com.ar/limpiador-de-bano-multimax-100-cc-709110/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Concentrado Multimax Cocina 100ml",
+   "m": "MULTIMAX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/764037/Limpiador-Concentrado-Multimax-Cocina-100ml-1-940380.jpg?v=638083786208630000",
+   "cadena": "Jumbo",
+   "precio": 525.0,
+   "link": "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p",
+   "referencia": 1050.0,
+   "precio_2da": 970.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.9,
+   "score": 2294,
+   "pr": {
+    "Vea": [
+     970.0,
+     "https://www.vea.com.ar/limpiador-concentrado-multimax-cocina-100ml/p"
+    ],
+    "Jumbo": [
+     525.0,
+     "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p"
+    ],
+    "ChangoMás": [
+     1029.0,
+     "https://www.masonline.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-2/p"
+    ],
+    "Carrefour": [
+     979.0,
+     "https://www.carrefour.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-709108/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pet's Class 100 g. adulto pollo",
+   "m": "Pet's Class",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/161657/7798139796668_02.jpg?v=637467658718100000",
+   "cadena": "Jumbo",
+   "precio": 700.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-adulto-pollo-100gr/p",
+   "referencia": 1400.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.7,
+   "score": 2287,
+   "pr": {
+    "Carrefour": [
+     1290.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pet-s-class-100-g-adulto-pollo-655927/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-pets-class-adulto-pollo-100gr/p"
+    ],
+    "Jumbo": [
+     700.0,
+     "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-adulto-pollo-100gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para perro Pet's Class 85 g. cachorro pollo y leche",
+   "m": "Pet's Class",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/161599/7798139791755_02.jpg?v=637467658430870000",
+   "cadena": "Jumbo",
+   "precio": 700.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-cachorro-pollo-y-leche-85gr/p",
+   "referencia": 1400.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.7,
+   "score": 2287,
+   "pr": {
+    "Carrefour": [
+     1290.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pet-s-class-85-g-cachorro-pollo-y-leche-535042/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-pets-class-cachorro-pollo-y-leche-85gr/p"
+    ],
+    "Jumbo": [
+     700.0,
+     "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-cachorro-pollo-y-leche-85gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para gato Pet's Class 85 g. gatito pollo y leche",
+   "m": "Pet's Class",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/161661/7798139796682_02.jpg?v=637467658735330000",
+   "cadena": "Jumbo",
+   "precio": 700.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-gato-humedo-pets-class-cachorro-pollo-y-leche-85gr/p",
+   "referencia": 1400.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.7,
+   "score": 2287,
+   "pr": {
+    "Carrefour": [
+     1290.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-gato-pet-s-class-85-g-gatito-pollo-y-leche-655929/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/alimento-para-gato-humedo-pets-class-cachorro-pollo-y-leche-85gr/p"
+    ],
+    "Jumbo": [
+     700.0,
+     "https://www.jumbo.com.ar/alimento-para-gato-humedo-pets-class-cachorro-pollo-y-leche-85gr/p"
+    ],
+    "ChangoMás": [
+     1359.0,
+     "https://www.masonline.com.ar/alimento-humedo-gatitos-poll-leche-pets-class-x85gr-2/p"
     ]
    }
   },
@@ -668,6 +944,10 @@
      1290.0,
      "https://www.carrefour.com.ar/alimento-humedo-para-perro-pet-s-class-100-g-carne-535038/p"
     ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-pets-class-adulto-carne-100gr/p"
+    ],
     "Jumbo": [
      700.0,
      "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-adulto-carne-100gr/p"
@@ -675,6 +955,37 @@
     "ChangoMás": [
      1359.0,
      "https://www.masonline.com.ar/alimento-humedo-perro-carne-pets-class-x-100-grs-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para gato Pet's Class 85 g. adulto carne",
+   "m": "Pet's Class",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/161659/7798139796675_02.jpg?v=637467658727200000",
+   "cadena": "Jumbo",
+   "precio": 700.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-adulto-carne-85gr/p",
+   "referencia": 1400.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.7,
+   "score": 2287,
+   "pr": {
+    "Carrefour": [
+     1290.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-gato-pet-s-class-85-g-adulto-carne-655928/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-pets-class-adulto-carne-85gr/p"
+    ],
+    "Jumbo": [
+     700.0,
+     "https://www.jumbo.com.ar/alimento-para-perro-humedo-pets-class-adulto-carne-85gr/p"
+    ],
+    "ChangoMás": [
+     1359.0,
+     "https://www.masonline.com.ar/alimento-humedo-gato-carne-pets-class-x-85-grs-2/p"
     ]
    }
   },
@@ -695,6 +1006,10 @@
      17730.0,
      "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-cachorro-669878/p"
     ],
+    "Vea": [
+     18290.0,
+     "https://www.vea.com.ar/alimento-para-perro-purina-one-cachorro-mediano-grande-carne-2kg/p"
+    ],
     "Jumbo": [
      9650.0,
      "https://www.jumbo.com.ar/alimento-para-perro-purina-one-cachorro-mediano-grande-carne-2kg/p"
@@ -702,33 +1017,6 @@
     "ChangoMás": [
      18459.0,
      "https://www.masonline.com.ar/alimento-para-perro-purina-one-cachorro-2kg-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Lager 473 Cc Antares",
-   "m": "ANTARES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835230/Cereveza-Antares-Lager-473-Cc-Sixpack-1-1023068.jpg?v=638622922340530000",
-   "cadena": "Jumbo",
-   "precio": 2125.0,
-   "link": "https://www.jumbo.com.ar/cereveza-antares-lager-473-cc-2/p",
-   "referencia": 4400.0,
-   "precio_2da": 3800.0,
-   "baja_pct": 51.7,
-   "brecha_pct": 44.1,
-   "score": 2279,
-   "pr": {
-    "Jumbo": [
-     2125.0,
-     "https://www.jumbo.com.ar/cereveza-antares-lager-473-cc-2/p"
-    ],
-    "ChangoMás": [
-     4029.0,
-     "https://www.masonline.com.ar/cerveza-rubia-antares-lager-liviana-473-ml/p"
-    ],
-    "Carrefour": [
-     3800.0,
-     "https://www.carrefour.com.ar/cerveza-artesanal-antares-espiritu-lager-473-ml-746912/p"
     ]
    }
   },
@@ -748,6 +1036,10 @@
     "Carrefour": [
      5269.0,
      "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-lavanda-18-l/p"
+    ],
+    "Vea": [
+     5300.0,
+     "https://www.vea.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-1-8-l/p"
     ],
     "Jumbo": [
      2800.0,
@@ -776,6 +1068,10 @@
      1100.0,
      "https://www.carrefour.com.ar/alimento-humedo-para-perro-kingfood-85-g-cachorros-pollo-631809/p"
     ],
+    "Vea": [
+     1100.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-king-food-cachorro-pollo-y-leche-85gr/p"
+    ],
     "Jumbo": [
      600.0,
      "https://www.jumbo.com.ar/alimento-para-perro-humedo-king-food-cachorro-pollo-y-leche-85gr/p"
@@ -787,56 +1083,56 @@
    }
   },
   {
-   "n": "Condimento sabor al horno Knorr tipo criollo 21 g.",
-   "m": "Knorr",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/276828/7794000004924_01.jpg?v=638127857225970000",
+   "n": "Leche Sabor Chocolate 190 Ml Nestle",
+   "m": "NESTLE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
    "cadena": "Jumbo",
-   "precio": 1875.0,
-   "link": "https://www.jumbo.com.ar/bolsa-horno-y-condimento-tipo-criollo-21-grs-knorr/p",
-   "referencia": 3750.0,
-   "precio_2da": 3429.0,
+   "precio": 1475.0,
+   "link": "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p",
+   "referencia": 2950.0,
+   "precio_2da": 2700.0,
    "baja_pct": 50.0,
-   "brecha_pct": 45.3,
-   "score": 2266,
+   "brecha_pct": 45.4,
+   "score": 2269,
    "pr": {
-    "Carrefour": [
-     3569.0,
-     "https://www.carrefour.com.ar/condimento-sabor-al-horno-knorr-tipo-criollo-21-g-682686/p"
-    ],
     "Jumbo": [
-     1875.0,
-     "https://www.jumbo.com.ar/bolsa-horno-y-condimento-tipo-criollo-21-grs-knorr/p"
+     1475.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
+    ],
+    "Carrefour": [
+     2700.0,
+     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
     ],
     "ChangoMás": [
-     3429.0,
-     "https://www.masonline.com.ar/condimento-sabor-al-horno-knorr-tipo-criollo-21-g-2/p"
+     2829.0,
+     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
     ]
    }
   },
   {
-   "n": "Vino Rosado Dulce Malbec 750 Cc Emilia",
-   "m": "EMILIA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/791469/Vino-Emilia-Dulce-Nat-Mb-ros-750cc-1-986817.jpg?v=638288338064800000",
+   "n": "Limpiador Líquido Frescura Tropical 1,8 Lts Poett",
+   "m": "POETT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/843096/Limpiador-De-Piso-Poett-Frescura-Tropical-1-8l-1-1028636.jpg?v=638654784501600000",
    "cadena": "Jumbo",
-   "precio": 4825.0,
-   "link": "https://www.jumbo.com.ar/vino-emilia-dulce-nat-mb-rose-750cc/p",
-   "referencia": 9650.0,
-   "precio_2da": 8789.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.1,
-   "score": 2255,
+   "precio": 2400.0,
+   "link": "https://www.jumbo.com.ar/limpiador-de-piso-frescura-tropical-x-1-8-l-poett/p",
+   "referencia": 4675.0,
+   "precio_2da": 4490.0,
+   "baja_pct": 48.7,
+   "brecha_pct": 46.5,
+   "score": 2265,
    "pr": {
-    "Jumbo": [
-     4825.0,
-     "https://www.jumbo.com.ar/vino-emilia-dulce-nat-mb-rose-750cc/p"
+    "Vea": [
+     4490.0,
+     "https://www.vea.com.ar/limpiador-de-piso-frescura-tropical-x-1-8-l-poett/p"
     ],
-    "Carrefour": [
-     8789.0,
-     "https://www.carrefour.com.ar/vino-roaso-malbec-dulce-natural-emilia-750-ml-725350/p"
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/limpiador-de-piso-frescura-tropical-x-1-8-l-poett/p"
     ],
     "ChangoMás": [
-     8999.0,
-     "https://www.masonline.com.ar/vino-rosado-emilia-dulce-natural-750-ml/p"
+     5039.0,
+     "https://www.masonline.com.ar/limpiador-desinfectante-de-pisos-poett-despertar-de-energia-1-8-l-2/p"
     ]
    }
   },
@@ -857,6 +1153,10 @@
      16130.0,
      "https://www.carrefour.com.ar/alimento-seco-para-perro-purina-one-2-kg-adulto-grande-carne-669887/p"
     ],
+    "Vea": [
+     17190.0,
+     "https://www.vea.com.ar/alimento-para-perro-purina-one-adulto-mediano-grande-carne-2kg/p"
+    ],
     "Jumbo": [
      8875.0,
      "https://www.jumbo.com.ar/alimento-para-perro-purina-one-adulto-mediano-grande-carne-2kg/p"
@@ -864,6 +1164,33 @@
     "ChangoMás": [
      16799.0,
      "https://www.masonline.com.ar/alimento-para-perro-purina-one-adulto-grande-carne-2kg-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Desinfectante de Superficies Lysoform Lavanda Botella 1760 ml",
+   "m": "Lysoform",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/710240/7790520028440_01.jpg?v=638936334553800000",
+   "cadena": "Jumbo",
+   "precio": 3625.0,
+   "link": "https://www.jumbo.com.ar/limpiador-desinfectante-de-superficies-lavanda-1760ml-lysoform-2/p",
+   "referencia": 7250.0,
+   "precio_2da": 6549.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.6,
+   "score": 2232,
+   "pr": {
+    "Carrefour": [
+     6549.0,
+     "https://www.carrefour.com.ar/limpiador-desinfectante-de-superficies-lysoform-lavanda-botella-1760-ml-762349/p"
+    ],
+    "Vea": [
+     6790.0,
+     "https://www.vea.com.ar/limpiador-desinfectante-de-superficies-lavanda-1760ml-lysoform-2/p"
+    ],
+    "Jumbo": [
+     3625.0,
+     "https://www.jumbo.com.ar/limpiador-desinfectante-de-superficies-lavanda-1760ml-lysoform-2/p"
     ]
    }
   },
@@ -884,6 +1211,10 @@
      1433.0,
      "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-carne-597820/p"
     ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perro-pedigree-adulto-mediano-grande-carne-100gr/p"
+    ],
     "Jumbo": [
      800.0,
      "https://www.jumbo.com.ar/alimento-para-perro-pedigree-adulto-mediano-grande-carne-100gr/p"
@@ -895,9 +1226,36 @@
    }
   },
   {
+   "n": "Alimento húmedo para perro Pedigree 85 g. cachorros carne",
+   "m": "Pedigree",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274221/7797453000468_02.jpg?v=639122882059830000",
+   "cadena": "Jumbo",
+   "precio": 800.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perro-humedo-pedigree-cachorro-mediano-grande-carne-85gr/p",
+   "referencia": 1600.0,
+   "precio_2da": 1433.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.2,
+   "score": 2209,
+   "pr": {
+    "Carrefour": [
+     1433.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-85-g-cachorros-carne-471033/p"
+    ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-pedigree-cachorro-mediano-grande-carne-85gr/p"
+    ],
+    "Jumbo": [
+     800.0,
+     "https://www.jumbo.com.ar/alimento-para-perro-humedo-pedigree-cachorro-mediano-grande-carne-85gr/p"
+    ]
+   }
+  },
+  {
    "n": "Limpiador para Pisos Original 450 Ml Cif",
    "m": "CIF",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/932345/Limpiador-Desinfectante-Para-Pisos-Original-450-Ml-Cif-1-1011440.jpg?v=639259475419800000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/932345/Limpiador-Desinfectante-Para-Pisos-Original-450-Ml-Cif-1-1011440.jpg?v=639259475419800000",
    "cadena": "Jumbo",
    "precio": 1725.0,
    "link": "https://www.jumbo.com.ar/limpiador-desinfectante-para-pisos-original-450-ml-cif/p",
@@ -907,6 +1265,10 @@
    "brecha_pct": 44.1,
    "score": 2204,
    "pr": {
+    "Vea": [
+     3290.0,
+     "https://www.vea.com.ar/limpiador-desinfectante-para-pisos-original-450-ml-cif/p"
+    ],
     "Jumbo": [
      1725.0,
      "https://www.jumbo.com.ar/limpiador-desinfectante-para-pisos-original-450-ml-cif/p"
@@ -938,6 +1300,10 @@
      1424.0,
      "https://www.carrefour.com.ar/alimento-humedo-para-perro-pedigree-100-g-adultos-pollo-597821/p"
     ],
+    "Vea": [
+     1433.0,
+     "https://www.vea.com.ar/alimento-para-perro-pedigree-adulto-mediano-grande-pollo-100gr/p"
+    ],
     "Jumbo": [
      800.0,
      "https://www.jumbo.com.ar/alimento-para-perro-pedigree-adulto-mediano-grande-pollo-100gr/p"
@@ -949,29 +1315,56 @@
    }
   },
   {
-   "n": "Acondicionador Largo Saludable 970 Ml Plusbelle",
-   "m": "PLUSBELLE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/892917/Acondicionador-Largo-Saludable-970-Ml-Plusbelle-1-971538.jpg?v=639003731486970000",
-   "cadena": "Carrefour",
-   "precio": 3178.5,
-   "link": "https://www.carrefour.com.ar/plusbelle-esencia-acondicionador-largo-saludable-970-ml-700349/p",
-   "referencia": 5584.5,
-   "precio_2da": 6450.0,
-   "baja_pct": 43.1,
-   "brecha_pct": 50.7,
-   "score": 2185,
+   "n": "Alimento para Perros Húmedo Sabor Pollo Adulto 340 Grs Pedigree",
+   "m": "PEDIGREE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/586392/Alimento-Para-Perros-Pedigree-Pollo-340-Kg-1-7442.jpg?v=637265784134200000",
+   "cadena": "Jumbo",
+   "precio": 2525.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perro-humedo-pedigree-adulto-mediano-grande-pollo-340gr/p",
+   "referencia": 5050.0,
+   "precio_2da": 4490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.8,
+   "score": 2188,
    "pr": {
+    "Vea": [
+     4490.0,
+     "https://www.vea.com.ar/alimento-para-perro-humedo-pedigree-adulto-mediano-grande-pollo-340gr/p"
+    ],
     "Jumbo": [
-     6450.0,
-     "https://www.jumbo.com.ar/acondicionador-largo-saludable-970-ml-plusbelle/p"
+     2525.0,
+     "https://www.jumbo.com.ar/alimento-para-perro-humedo-pedigree-adulto-mediano-grande-pollo-340gr/p"
     ],
     "ChangoMás": [
-     7129.0,
-     "https://www.masonline.com.ar/acondicionador-plusbelle-esencia-largo-saludable-970ml-2-2/p"
+     4859.0,
+     "https://www.masonline.com.ar/alimento-adulto-pollo-lata-pedigree-340-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Honey 473 Ml Antares",
+   "m": "ANTARES",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/606236/Cerveza-Antares-Honey-473cc-1-852369.jpg?v=637372052036500000",
+   "cadena": "Jumbo",
+   "precio": 2600.0,
+   "link": "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p",
+   "referencia": 5200.0,
+   "precio_2da": 4509.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.3,
+   "score": 2117,
+   "pr": {
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p"
+    ],
+    "ChangoMás": [
+     4739.0,
+     "https://www.masonline.com.ar/cerveza-honey-lata-antares-473-cc-2/p"
     ],
     "Carrefour": [
-     3178.5,
-     "https://www.carrefour.com.ar/plusbelle-esencia-acondicionador-largo-saludable-970-ml-700349/p"
+     4509.0,
+     "https://www.carrefour.com.ar/cerveza-artesanal-antares-honey-473-ml-684384/p"
     ]
    }
   },
@@ -1084,6 +1477,60 @@
    }
   },
   {
+   "n": "Limpiador Líquido Jardín Antibacterial Cremoso 900 Cc",
+   "m": "JARDIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/687261/Limpiador-L-quido-Jard-n-Antibacterial-Cremoso-900-Cc-1-16842.jpg?v=637795857648870000",
+   "cadena": "Jumbo",
+   "precio": 875.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-jardin-x-900-cc-3/p",
+   "referencia": 1750.0,
+   "precio_2da": 1490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.3,
+   "score": 2064,
+   "pr": {
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/limpiador-liquido-jardin-x-900-cc-3/p"
+    ],
+    "Jumbo": [
+     875.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-jardin-x-900-cc-3/p"
+    ],
+    "Carrefour": [
+     1732.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-jardin-arpege-900-cc-6359/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Líquido Jardín Antibacterial Cremoso 900 Cc",
+   "m": "JARDIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/687262/Limpiador-L-quido-Jard-n-Antibacterial-Cremoso-900-Cc-1-16876.jpg?v=637795857652300000",
+   "cadena": "Jumbo",
+   "precio": 875.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-jardin-x-900-cc-9/p",
+   "referencia": 1750.0,
+   "precio_2da": 1490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.3,
+   "score": 2064,
+   "pr": {
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/limpiador-liquido-jardin-x-900-cc-9/p"
+    ],
+    "Jumbo": [
+     875.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-jardin-x-900-cc-9/p"
+    ],
+    "Carrefour": [
+     1732.0,
+     "https://www.carrefour.com.ar/limpiador-liquido-jardin-lavanda-900-cc/p"
+    ]
+   }
+  },
+  {
    "n": "Vino Tinto Blend Malbec y Cabernet Sauvignon 750 Ml Benjamin",
    "m": "BENJAMIN",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/788878/Vino-Benjamin-Blend-Malbec-Cab-Sauv-750ml-1-974626.jpg?v=638258098207100000",
@@ -1111,6 +1558,33 @@
    }
   },
   {
+   "n": "Limpiador Líquido Marina 5 Lts Procenex",
+   "m": "PROCENEX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/796389/Limpiador-L-quido-Procenex-Extra-Fragancia-Procenex-Limpiador-L-quido-Pisos-Marina-5l-1-28819.jpg?v=638319657759030000",
+   "cadena": "Jumbo",
+   "precio": 6200.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-5l/p",
+   "referencia": 12400.0,
+   "precio_2da": 10390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.3,
+   "score": 2016,
+   "pr": {
+    "Vea": [
+     10390.0,
+     "https://www.vea.com.ar/limpiador-liquido-procenex-pisos-marina-5l/p"
+    ],
+    "Jumbo": [
+     6200.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-5l/p"
+    ],
+    "Comodín": [
+     11972.49,
+     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-5lt/p"
+    ]
+   }
+  },
+  {
    "n": "Vino Blanco Torrontés 750 Ml Benjamin",
    "m": "BENJAMIN NIETO",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/788879/Vino-Benjamin-Torront-s-750ml-1-974627.jpg?v=638258098211300000",
@@ -1134,6 +1608,37 @@
     "ChangoMás": [
      6699.0,
      "https://www.masonline.com.ar/vino-blanco-benjamin-nieto-torrontes-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche chocolatada ​Cindor 1 lt",
+   "m": "Cindor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/870468/7791337007253_E01.jpg?v=639137801667600000",
+   "cadena": "Vea",
+   "precio": 4650.0,
+   "link": "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p",
+   "referencia": 8390.0,
+   "precio_2da": 7890.0,
+   "baja_pct": 44.6,
+   "brecha_pct": 41.1,
+   "score": 1831,
+   "pr": {
+    "Carrefour": [
+     7890.0,
+     "https://www.carrefour.com.ar/leche-chocolatada-cindor-1-lt-719377/p"
+    ],
+    "Vea": [
+     4650.0,
+     "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p"
+    ],
+    "Jumbo": [
+     8715.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-1-l-cindor-2/p"
+    ],
+    "ChangoMás": [
+     8219.0,
+     "https://www.masonline.com.ar/leche-chocolatada-cindor-1-l-2/p"
     ]
    }
   },
@@ -1181,6 +1686,10 @@
      668.85,
      "https://www.carrefour.com.ar/chicles-topline-menta-14-g-41063/p"
     ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicle-top-line-xplosive-14-gr/p"
+    ],
     "Jumbo": [
      1500.0,
      "https://www.jumbo.com.ar/chicle-top-line-xplosive-14-gr/p"
@@ -1208,6 +1717,10 @@
      400.0,
      "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
     ],
+    "Vea": [
+     410.0,
+     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
     "Jumbo": [
      225.0,
      "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
@@ -1219,33 +1732,6 @@
     "ChangoMás": [
      409.0,
      "https://www.masonline.com.ar/jugo-en-polvo-limonada-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Plusbelle Esencia Shampoo Largo saludable 970 ml",
-   "m": "Plusbelle",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/778832/7790740000455_01.jpg?v=639009756524800000",
-   "cadena": "Carrefour",
-   "precio": 3178.5,
-   "link": "https://www.carrefour.com.ar/plusbelle-esencia-shampoo-largo-saludable-970-ml-700341/p",
-   "referencia": 4890.0,
-   "precio_2da": 6550.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 51.5,
-   "score": 1802,
-   "pr": {
-    "Carrefour": [
-     3178.5,
-     "https://www.carrefour.com.ar/plusbelle-esencia-shampoo-largo-saludable-970-ml-700341/p"
-    ],
-    "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/shampoo-esencia-largo-salud-970-ml-plusbelle/p"
-    ],
-    "ChangoMás": [
-     7129.0,
-     "https://www.masonline.com.ar/shampoo-plusbelle-esencia-largo-saludable-970ml-2/p"
     ]
    }
   },
@@ -1266,6 +1752,10 @@
      668.85,
      "https://www.carrefour.com.ar/chicle-adulto-atomic-strong-topline-7-14-g-74419/p"
     ],
+    "Vea": [
+     1450.0,
+     "https://www.vea.com.ar/chicle-top-line-7-atomic-strong-14-7-gr/p"
+    ],
     "Jumbo": [
      1800.0,
      "https://www.jumbo.com.ar/chicle-top-line-7-atomic-strong-14-7-gr/p"
@@ -1273,6 +1763,33 @@
     "Comodín": [
      1360.79,
      "https://www.comodinencasa.com.ar/chicle-top-line-7-strong-x-14-7-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador de Pisos Alegra Tu Día 900 Ml Poett",
+   "m": "POETT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/761366/Limpiador-Definfectante-De-Pisos-Poett-Alegra-Tu-D-a-900-Ml-1-858643.jpg?v=638053546111800000",
+   "cadena": "Jumbo",
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-900-ml/p",
+   "referencia": 2650.0,
+   "precio_2da": 2018.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.4,
+   "score": 1718,
+   "pr": {
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-900-ml/p"
+    ],
+    "Jumbo": [
+     1325.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-aromatizante-poett-alegra-tu-dia-900-ml/p"
+    ],
+    "Comodín": [
+     2018.69,
+     "https://www.comodinencasa.com.ar/limpiador-poett-alegra-tu-dia-x-900-ml/p"
     ]
    }
   },
@@ -1304,83 +1821,56 @@
    }
   },
   {
-   "n": "Alfajor Milka Super Dulce de Leche 70 grs",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878650/7622202370021_E01.jpg?v=639149667462930000",
-   "cadena": "Jumbo",
-   "precio": 1290.0,
-   "link": "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-x-70-grs-milka/p",
-   "referencia": 2150.0,
-   "precio_2da": 2209.0,
+   "n": "Mix Tartas Choclo X 500 Grs Green Life",
+   "m": "GREEN LIFE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/901159/Mix-Tartas-Choclo-X-500-Grs-Green-Life-1-1055531.jpg?v=639083326666570000",
+   "cadena": "ChangoMás",
+   "precio": 4901.4,
+   "link": "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p",
+   "referencia": 8169.0,
+   "precio_2da": 8382.98,
    "baja_pct": 40.0,
-   "brecha_pct": 41.6,
-   "score": 1664,
+   "brecha_pct": 41.5,
+   "score": 1661,
    "pr": {
-    "Carrefour": [
-     2209.0,
-     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-70-grs-777682/p"
+    "Vea": [
+     10400.0,
+     "https://www.vea.com.ar/mix-tartas-choclo-x-500-grs-green-life/p"
     ],
-    "Jumbo": [
-     1290.0,
-     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-x-70-grs-milka/p"
+    "Comodín": [
+     8382.98,
+     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-cho-ceb-pim-500gr/p"
     ],
     "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-70-g/p"
+     4901.4,
+     "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p"
     ]
    }
   },
   {
-   "n": "Alfajor triple blanco Terrabusi 70 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882361/7622202805554_E01.jpg?v=639155716199430000",
-   "cadena": "Jumbo",
-   "precio": 1290.0,
-   "link": "https://www.jumbo.com.ar/alfajor-triple-blanco-con-dulce-de-leche-x-70-grs-terrabusi/p",
-   "referencia": 2150.0,
-   "precio_2da": 2209.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.6,
-   "score": 1664,
-   "pr": {
-    "Carrefour": [
-     2209.0,
-     "https://www.carrefour.com.ar/alfajor-triple-blanco-terrabusi-70-grs-777684/p"
-    ],
-    "Jumbo": [
-     1290.0,
-     "https://www.jumbo.com.ar/alfajor-triple-blanco-con-dulce-de-leche-x-70-grs-terrabusi/p"
-    ],
-    "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-terrabusi-triple-blanco-70-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Chicles Beldent Infinit mentol 13,3 g.",
-   "m": "Beldent",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
+   "n": "Tubitos de harina de maíz sabor queso 3D mega queso 43 g.",
+   "m": "3D",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905464/7790310985113_E01.jpg?v=639201744279000000",
    "cadena": "Carrefour",
-   "precio": 718.25,
-   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
-   "referencia": 1105.0,
-   "precio_2da": 1349.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.8,
-   "score": 1636,
+   "precio": 1120.5,
+   "link": "https://www.carrefour.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-43-g-706849/p",
+   "referencia": 2394.5,
+   "precio_2da": 1620.0,
+   "baja_pct": 53.2,
+   "brecha_pct": 30.8,
+   "score": 1640,
    "pr": {
     "Carrefour": [
-     718.25,
-     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
+     1120.5,
+     "https://www.carrefour.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-43-g-706849/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p"
     ],
     "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
-    ],
-    "ChangoMás": [
-     1349.0,
-     "https://www.masonline.com.ar/chicles-beldent-infinit-spearmint-13-3g-2/p"
+     1620.0,
+     "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p"
     ]
    }
   },
@@ -1470,33 +1960,118 @@
    }
   },
   {
-   "n": "Desodorante en Aerosol Axe Musk 230 ml",
-   "m": "Axe",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923310/7791293050607_01.jpg?v=639240361036300000",
-   "cadena": "Carrefour",
-   "precio": 3308.5,
-   "link": "https://www.carrefour.com.ar/desodorante-en-aerosol-axe-musk-230-ml-730747/p",
-   "referencia": 5090.0,
-   "precio_2da": 5886.39,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.8,
-   "score": 1533,
+   "n": "Toallitas Xtra Triple Proteccion Suave Noche Seca 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791978/Always-Xtra-Triple-Protecci-n-Noche-Seca-8x12it-Toa-Fem-Always-Xtra-Noche-Seca-8u-1-989509.jpg?v=638291901772170000",
+   "cadena": "Vea",
+   "precio": 3714.0,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p",
+   "referencia": 6190.0,
+   "precio_2da": 6190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
-    "Carrefour": [
-     3308.5,
-     "https://www.carrefour.com.ar/desodorante-en-aerosol-axe-musk-230-ml-730747/p"
+    "Vea": [
+     3714.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
     ],
     "Jumbo": [
-     6000.0,
-     "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-230-ml-axe/p"
+     6500.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-seca-8-un-always/p"
     ],
-    "Comodín": [
-     5886.39,
-     "https://www.comodinencasa.com.ar/deo-axe-bs-musk-230ml/p"
+    "Carrefour": [
+     6190.0,
+     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
     ],
     "ChangoMás": [
-     5919.0,
-     "https://www.masonline.com.ar/desodorante-musk-axe-230ml-2/p"
+     6269.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
+   "cadena": "Vea",
+   "precio": 5694.0,
+   "link": "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p",
+   "referencia": 9490.0,
+   "precio_2da": 9479.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.9,
+   "score": 1597,
+   "pr": {
+    "Vea": [
+     5694.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Jumbo": [
+     9950.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Carrefour": [
+     9479.0,
+     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
+    ],
+    "ChangoMás": [
+     9479.0,
+     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Femeninas Ultrafina x 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859492/Toalla-Femenina-Ultra-Seca-S1-Brazil-8-Unidades-Always-Toalla-Femenina-Always-Ultfina-Sec-S1-8u-1-1035562.jpg?v=638779198575370000",
+   "cadena": "Vea",
+   "precio": 4314.0,
+   "link": "https://www.vea.com.ar/toalla-ultra-seca-8-un-always/p",
+   "referencia": 7190.0,
+   "precio_2da": 7169.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.8,
+   "score": 1593,
+   "pr": {
+    "Vea": [
+     4314.0,
+     "https://www.vea.com.ar/toalla-ultra-seca-8-un-always/p"
+    ],
+    "Jumbo": [
+     7500.0,
+     "https://www.jumbo.com.ar/toalla-ultra-seca-8-un-always/p"
+    ],
+    "ChangoMás": [
+     7169.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-ultrafinas-seca-8u/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta dental Oral B 3D White 140 grs",
+   "m": "Oral B",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693878/7500435177054_02.jpg?v=638923424072830000",
+   "cadena": "Jumbo",
+   "precio": 7590.0,
+   "link": "https://www.jumbo.com.ar/crema-dental-oral-b-3dw-140gr/p",
+   "referencia": 12650.0,
+   "precio_2da": 12245.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1521,
+   "pr": {
+    "Carrefour": [
+     12245.0,
+     "https://www.carrefour.com.ar/pasta-dental-oral-b-3d-white-140-grs-766678/p"
+    ],
+    "Jumbo": [
+     7590.0,
+     "https://www.jumbo.com.ar/crema-dental-oral-b-3dw-140gr/p"
+    ],
+    "Comodín": [
+     14799.19,
+     "https://www.comodinencasa.com.ar/crema-dental-oral-b-3d-white-140g/p"
     ]
    }
   }
