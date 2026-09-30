@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-28",
- "actualizado": "2026-09-28 19:19",
+ "fecha": "2026-09-30",
+ "actualizado": "2026-09-30 16:53",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,8 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-18",
-  "2026-09-19",
   "2026-09-20",
   "2026-09-21",
   "2026-09-22",
@@ -18,154 +16,236 @@
   "2026-09-24",
   "2026-09-26",
   "2026-09-27",
-  "2026-09-28"
+  "2026-09-28",
+  "2026-09-30"
  ],
- "total": 65,
+ "total": 42,
  "ofertas": [
   {
-   "n": "Jabón Líquido Antibacterial Balance 200 Ml Protex",
-   "m": "PROTEX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/923267/7891024027226_01.jpg?v=639215584558500000",
-   "cadena": "Carrefour",
-   "precio": 1185.0,
-   "link": "https://www.carrefour.com.ar/jabon-liquido-palmolive-aromatherapy-feel-dynamic-doypack-200-ml-626868/p",
-   "referencia": 2616.75,
-   "precio_2da": 2267.85,
-   "baja_pct": 54.7,
-   "brecha_pct": 47.7,
-   "score": 2613,
+   "n": "Sabor en Polvo Sabor Crema y Verdeo 4 Un 30 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915071/Sabor-En-Polvo-Crema-Verdeo-En-Sobres-4-Un-Alicante-1-1058617.jpg?v=639143913693330000",
+   "cadena": "Vea",
+   "precio": 775.0,
+   "link": "https://www.vea.com.ar/sabor-en-polvo-crema-verdeo-en-sobres-4-un-alicante-2/p",
+   "referencia": 1550.0,
+   "precio_2da": 1699.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 54.4,
+   "score": 2719,
    "pr": {
-    "Jumbo": [
-     3350.0,
-     "https://www.jumbo.com.ar/jabon-liq-protex-refil-balance-200ml/p"
-    ],
-    "ChangoMás": [
-     2267.85,
-     "https://www.masonline.com.ar/protex-balance-200-ml-2/p"
-    ],
-    "Carrefour": [
-     1185.0,
-     "https://www.carrefour.com.ar/jabon-liquido-palmolive-aromatherapy-feel-dynamic-doypack-200-ml-626868/p"
-    ]
-   }
-  },
-  {
-   "n": "Copos de maíz Zucaritas azucarados 490 g.",
-   "m": "Kelloggs",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318194/7896004004969_E02.jpg?v=638180312938500000",
-   "cadena": "Carrefour",
-   "precio": 2583.0,
-   "link": "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p",
-   "referencia": 4487.75,
-   "precio_2da": 6190.0,
-   "baja_pct": 42.4,
-   "brecha_pct": 58.3,
-   "score": 2473,
-   "pr": {
-    "Carrefour": [
-     2583.0,
-     "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-490-g-719205/p"
-    ],
     "Vea": [
-     6190.0,
-     "https://www.vea.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
-    ],
-    "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-490-gr/p"
+     775.0,
+     "https://www.vea.com.ar/sabor-en-polvo-crema-verdeo-en-sobres-4-un-alicante-2/p"
     ],
     "Comodín": [
-     6325.29,
-     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-490gr/p"
+     2218.39,
+     "https://www.comodinencasa.com.ar/caldo-sab-alicante-crema-y-verdeo-4-sob/p"
     ],
     "ChangoMás": [
-     6319.0,
-     "https://www.masonline.com.ar/cereal-zucaritas-490g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Piattelli",
-   "m": "PIATELLI",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/612056/Vino-Piatelli-Cabernet-Sauv-X750cc-bot-cc-750-1-4455.jpg?v=637397106157670000",
-   "cadena": "Jumbo",
-   "precio": 8725.0,
-   "link": "https://www.jumbo.com.ar/vino-piatelli-cabernet-sauv-x750cc-bot-cc-750-2/p",
-   "referencia": 17450.0,
-   "precio_2da": 17250.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.4,
-   "score": 2471,
-   "pr": {
-    "Jumbo": [
-     8725.0,
-     "https://www.jumbo.com.ar/vino-piatelli-cabernet-sauv-x750cc-bot-cc-750-2/p"
-    ],
-    "ChangoMás": [
-     17299.0,
-     "https://www.masonline.com.ar/vino-tinto-piattelli-cabernet-sauvignon-750-ml-2/p"
+     1699.0,
+     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-crema-verdeo-30-gr-2/p"
     ],
     "Carrefour": [
-     17250.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-piatelli-reserva-cafayate-750-ml-761551/p"
+     1699.0,
+     "https://www.carrefour.com.ar/saborizador-crema-verdeo-alicante-sobres-4-uni/p"
     ]
    }
   },
   {
-   "n": "Vino Chardonnay 750 Cc Santa Julia",
-   "m": "SANTA JULIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/799272/Vino-Santa-Julia-Chardonnay-750cc-1-999191.jpg?v=638345361796200000",
-   "cadena": "Jumbo",
-   "precio": 3450.0,
-   "link": "https://www.jumbo.com.ar/vino-santa-julia-chardonnay-750cc/p",
-   "referencia": 6900.0,
-   "precio_2da": 6639.0,
+   "n": "Saborizador sabor 4 Quesos x 4 Un 30 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/687322/Saborizador-Alicante-4q-4s-1-876394.jpg?v=637795857823200000",
+   "cadena": "Vea",
+   "precio": 775.0,
+   "link": "https://www.vea.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p",
+   "referencia": 1550.0,
+   "precio_2da": 1629.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.0,
-   "score": 2402,
+   "brecha_pct": 52.4,
+   "score": 2621,
    "pr": {
     "Vea": [
-     6690.0,
-     "https://www.vea.com.ar/vino-santa-julia-chardonnay-750cc/p"
-    ],
-    "Jumbo": [
-     3450.0,
-     "https://www.jumbo.com.ar/vino-santa-julia-chardonnay-750cc/p"
-    ],
-    "Carrefour": [
-     6639.0,
-     "https://www.carrefour.com.ar/vino-blanco-chardonnay-roble-santa-julia-750-ml-129666/p"
+     775.0,
+     "https://www.vea.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p"
     ],
     "ChangoMás": [
-     6639.0,
-     "https://www.masonline.com.ar/vino-blanco-santa-julia-chardonnay-750-ml-2/p"
+     1699.0,
+     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-4-quesos-30-gr-2/p"
+    ],
+    "Carrefour": [
+     1629.0,
+     "https://www.carrefour.com.ar/saborizador-4-quesos-alicante-sobre-x-4-uni/p"
     ]
    }
   },
   {
-   "n": "Alfajor Happy food relleno de mani sin tacc 3x 50 g.",
-   "m": "Happy Food",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915581/7798308250052_02.jpg?v=639227396215700000",
-   "cadena": "Jumbo",
-   "precio": 2550.0,
-   "link": "https://www.jumbo.com.ar/alfajor-de-pasta-de-mani-y-chocolate-150-gr-x-3-un-happy-food/p",
-   "referencia": 5100.0,
-   "precio_2da": 4890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2393,
+   "n": "Leche Sabor Chocolate 190 Ml Nestle",
+   "m": "NESTLE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/889733/Leche-Chocolatada-190ml-Nestl-1-1040072.jpg?v=638980401985600000",
+   "cadena": "ChangoMás",
+   "precio": 1359.0,
+   "link": "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p",
+   "referencia": 2829.0,
+   "precio_2da": 2700.0,
+   "baja_pct": 52.0,
+   "brecha_pct": 49.7,
+   "score": 2581,
    "pr": {
-    "Carrefour": [
-     4969.0,
-     "https://www.carrefour.com.ar/alfajor-happy-food-relleno-de-mani-sin-tacc-3x-50-g-699926/p"
+    "Jumbo": [
+     2950.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-190ml-nestle/p"
     ],
+    "Carrefour": [
+     2700.0,
+     "https://www.carrefour.com.ar/nestle-chocolatada-lista-para-tomar-190-ml-768623/p"
+    ],
+    "ChangoMás": [
+     1359.0,
+     "https://www.masonline.com.ar/leche-chocolatada-nestle-lista-190-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Blanco Dulce Blend 750 Cc Canciller",
+   "m": "CANCILLER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822759/Vino-Canciller-Blend-Blanco-Dulce-750cc-5-1-1008808.jpg?v=638508243246870000",
+   "cadena": "ChangoMás",
+   "precio": 1704.5,
+   "link": "https://www.masonline.com.ar/vino-blanco-canciller-blend-v-dulce-750-ml-2/p",
+   "referencia": 3409.0,
+   "precio_2da": 3445.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.5,
+   "score": 2526,
+   "pr": {
     "Vea": [
-     4890.0,
-     "https://www.vea.com.ar/alfajor-de-pasta-de-mani-y-chocolate-150-gr-x-3-un-happy-food/p"
+     3490.0,
+     "https://www.vea.com.ar/vino-blanco-dulce-canciller-blend/p"
     ],
     "Jumbo": [
-     2550.0,
-     "https://www.jumbo.com.ar/alfajor-de-pasta-de-mani-y-chocolate-150-gr-x-3-un-happy-food/p"
+     3600.0,
+     "https://www.jumbo.com.ar/vino-blanco-dulce-canciller-blend/p"
+    ],
+    "Carrefour": [
+     3445.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-blend-canciller-v-en-botella-750-cc/p"
+    ],
+    "ChangoMás": [
+     1704.5,
+     "https://www.masonline.com.ar/vino-blanco-canciller-blend-v-dulce-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aperitivo cocktail con alcohol rose Emilia en botella 750 cc.",
+   "m": "Emilia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823259/7790070764027_02.jpg?v=639083181989670000",
+   "cadena": "ChangoMás",
+   "precio": 5499.5,
+   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p",
+   "referencia": 10999.0,
+   "precio_2da": 11109.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.5,
+   "score": 2525,
+   "pr": {
+    "Carrefour": [
+     11109.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746900/p"
+    ],
+    "Jumbo": [
+     11550.0,
+     "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     5499.5,
+     "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Perro Callejero",
+   "m": "PERRO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/829140/Vino-Perro-Callejero-Cabernet-Sauvignon-750-Cc-1-1021295.jpg?v=638578750978970000",
+   "cadena": "ChangoMás",
+   "precio": 5149.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-perro-callejero-cabernet-sauvignon/p",
+   "referencia": 10299.0,
+   "precio_2da": 10300.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     10300.0,
+     "https://www.vea.com.ar/vino-perro-callejero-cabernet-sauvignon-750-cc/p"
+    ],
+    "Jumbo": [
+     10700.0,
+     "https://www.jumbo.com.ar/vino-perro-callejero-cabernet-sauvignon-750-cc/p"
+    ],
+    "ChangoMás": [
+     5149.5,
+     "https://www.masonline.com.ar/vino-tinto-perro-callejero-cabernet-sauvignon/p"
+    ],
+    "Carrefour": [
+     10399.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-perro-callejero-en-botella-750-cc-748289/p"
+    ]
+   }
+  },
+  {
+   "n": "Caldo Knorr de verdura Balance 12 uni",
+   "m": "Knorr",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900895/7794000008519_E01.jpg?v=639191330252570000",
+   "cadena": "Jumbo",
+   "precio": 1750.0,
+   "link": "https://www.jumbo.com.ar/caldo-de-verduras-balance-en-cubos-12-un-knorr/p",
+   "referencia": 3500.0,
+   "precio_2da": 3399.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.5,
+   "score": 2426,
+   "pr": {
+    "Carrefour": [
+     3399.0,
+     "https://www.carrefour.com.ar/caldo-knorr-de-verdura-balance-12-uni-737141/p"
+    ],
+    "Jumbo": [
+     1750.0,
+     "https://www.jumbo.com.ar/caldo-de-verduras-balance-en-cubos-12-un-knorr/p"
+    ],
+    "ChangoMás": [
+     3409.0,
+     "https://www.masonline.com.ar/caldo-knorr-balance-de-verduras-114-g-12u-2-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Caldo Knorr de gallina deshidratado Balance 12 cubos",
+   "m": "Knorr",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900896/7794000008526_E01.jpg?v=639191330471930000",
+   "cadena": "Vea",
+   "precio": 1695.0,
+   "link": "https://www.vea.com.ar/caldo-de-gallina-balance-en-cubos-12-un-knorr/p",
+   "referencia": 3390.0,
+   "precio_2da": 3279.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.3,
+   "score": 2415,
+   "pr": {
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/caldo-knorr-de-gallina-deshidratado-balance-12-cubos-737142/p"
+    ],
+    "Vea": [
+     1695.0,
+     "https://www.vea.com.ar/caldo-de-gallina-balance-en-cubos-12-un-knorr/p"
+    ],
+    "ChangoMás": [
+     3279.0,
+     "https://www.masonline.com.ar/caldo-knorr-sabor-gallina-deshidratado-114-g-12u-2/p"
     ]
    }
   },
@@ -183,1308 +263,527 @@
    "score": 2388,
    "pr": {
     "Carrefour": [
-     2819.0,
-     "https://www.carrefour.com.ar/margarina-danica-soft-light-en-pote-200-g-726174/p"
-    ],
-    "Vea": [
      2690.0,
-     "https://www.vea.com.ar/margarina-danica-vegetal-200g/p"
+     "https://www.carrefour.com.ar/margarina-danica-soft-light-en-pote-200-g-726174/p"
     ],
     "Jumbo": [
      1405.0,
      "https://www.jumbo.com.ar/margarina-danica-vegetal-200g/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Negro Sabor Dulce de Leche 45 Grs Entre Dos",
-   "m": "ENTRE DOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865005/Alfajor-Negro-X-45-Gr-Entre-Dos-1-1037009.jpg?v=638809492741570000",
-   "cadena": "Jumbo",
-   "precio": 575.0,
-   "link": "https://www.jumbo.com.ar/alfajor-negro-x-45-gr-entre-dos-2/p",
-   "referencia": 1150.0,
-   "precio_2da": 1100.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.7,
-   "score": 2386,
-   "pr": {
-    "Vea": [
-     1100.0,
-     "https://www.vea.com.ar/alfajor-negro-x-45-gr-entre-dos-2/p"
-    ],
-    "Jumbo": [
-     575.0,
-     "https://www.jumbo.com.ar/alfajor-negro-x-45-gr-entre-dos-2/p"
-    ],
-    "Carrefour": [
-     1100.0,
-     "https://www.carrefour.com.ar/alfajor-entre-dos-de-chocolate-negro-45-grs-743830/p"
-    ]
-   }
-  },
-  {
-   "n": "Arbajor De Dulce De Leche 50 Grs Arbanit",
-   "m": "ARBANIT",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/881140/Arbajor-De-Dulce-De-Leche-50-Grs-Arbanit-1-1046768.jpg?v=638917806431800000",
-   "cadena": "Jumbo",
-   "precio": 1075.0,
-   "link": "https://www.jumbo.com.ar/arbajor-de-dulce-de-leche-50-grs-arbanit-2/p",
-   "referencia": 2150.0,
-   "precio_2da": 2050.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.6,
-   "score": 2378,
-   "pr": {
-    "Vea": [
-     2050.0,
-     "https://www.vea.com.ar/arbajor-de-dulce-de-leche-50-grs-arbanit-2/p"
-    ],
-    "Jumbo": [
-     1075.0,
-     "https://www.jumbo.com.ar/arbajor-de-dulce-de-leche-50-grs-arbanit-2/p"
     ],
     "ChangoMás": [
-     2079.0,
-     "https://www.masonline.com.ar/alfajor-arbanit-relleno-con-dulce-de-leche-50-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajores Negros de Mousse 128 Grs x 6 Un Jorgito",
-   "m": "JORGITO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/189070/Alfajores-Jorgito-Negros-Con-Mousse-Alfajores-Mini-Negros-Con-Mousse-Jorgito-128-Gr-1-25418.jpg?v=636383499274800000",
-   "cadena": "Jumbo",
-   "precio": 2225.0,
-   "link": "https://www.jumbo.com.ar/alfajores-mini-negros-con-mousse-jorgito-128-gr/p",
-   "referencia": 4450.0,
-   "precio_2da": 4190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.9,
-   "score": 2345,
-   "pr": {
-    "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/alfajores-mini-negros-con-mousse-jorgito-128-gr/p"
-    ],
-    "Jumbo": [
-     2225.0,
-     "https://www.jumbo.com.ar/alfajores-mini-negros-con-mousse-jorgito-128-gr/p"
-    ],
-    "Carrefour": [
-     4209.0,
-     "https://www.carrefour.com.ar/alfajorcito-jorgito-chocolate-con-mousse-6-u/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Block con maní 1 kg",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914652/7790580115579_E01.jpg?v=639222494009570000",
-   "cadena": "Jumbo",
-   "precio": 22475.0,
-   "link": "https://www.jumbo.com.ar/chocolate-con-mani-blockazo-cofler1-kg/p",
-   "referencia": 44950.0,
-   "precio_2da": 41990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2324,
-   "pr": {
-    "Carrefour": [
-     46115.0,
-     "https://www.carrefour.com.ar/chocolate-cofler-block-con-mani-1-kg/p"
-    ],
-    "Vea": [
-     41990.0,
-     "https://www.vea.com.ar/chocolate-con-mani-blockazo-cofler1-kg/p"
-    ],
-    "Jumbo": [
-     22475.0,
-     "https://www.jumbo.com.ar/chocolate-con-mani-blockazo-cofler1-kg/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet 750 Ml Escorihuela Gascon",
-   "m": "ESCORIHUELA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/428072/Vino-Tinto-Escorihuela-Gascon-Cabernet-Sauvignon-750-Cc-1-249050.jpg?v=636495161303470000",
-   "cadena": "Jumbo",
-   "precio": 6425.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p",
-   "referencia": 12850.0,
-   "precio_2da": 12000.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2323,
-   "pr": {
-    "Jumbo": [
-     6425.0,
-     "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p"
-    ],
-    "Carrefour": [
-     12000.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-escorihuela-gascon-750-cc/p"
-    ],
-    "ChangoMás": [
-     13000.0,
-     "https://www.masonline.com.ar/vino-tinto-escorihuela-gascon-cabernet-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajores Negros Sabor Dulce de Leche 270 Grs x 6 Un Entre Dos",
-   "m": "ENTRE DOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835875/Alfajores-Negros-Entre-Dos-Dulce-De-Leche-270-Gr-1-1018833.jpg?v=638628105780600000",
-   "cadena": "Jumbo",
-   "precio": 3725.0,
-   "link": "https://www.jumbo.com.ar/alfajores-negros-entre-dos-dulce-de-leche-270-gr/p",
-   "referencia": 7450.0,
-   "precio_2da": 6900.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.0,
-   "score": 2301,
-   "pr": {
-    "Vea": [
-     7050.0,
-     "https://www.vea.com.ar/alfajores-negros-entre-dos-dulce-de-leche-270-gr/p"
-    ],
-    "Jumbo": [
-     3725.0,
-     "https://www.jumbo.com.ar/alfajores-negros-entre-dos-dulce-de-leche-270-gr/p"
-    ],
-    "Carrefour": [
-     6900.0,
-     "https://www.carrefour.com.ar/alfajor-de-chocolate-negro-entre-dos-x6-45-g-743831/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Pinot Noir 750 Cc Saint Felicien",
-   "m": "ALTURA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/886874/Vino-Saint-Felicien-Pinot-Noir-X-750-Cc-1-1049420.jpg?v=638961393793270000",
-   "cadena": "Jumbo",
-   "precio": 9150.0,
-   "link": "https://www.jumbo.com.ar/vino-pinot-noir-x-750-cc-saint-felicien/p",
-   "referencia": 18300.0,
-   "precio_2da": 16945.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.0,
-   "score": 2300,
-   "pr": {
-    "Jumbo": [
-     9150.0,
-     "https://www.jumbo.com.ar/vino-pinot-noir-x-750-cc-saint-felicien/p"
-    ],
-    "Carrefour": [
-     16945.0,
-     "https://www.carrefour.com.ar/vino-tinto-pinot-saint-felicen-en-botella-750-ml-775526/p"
-    ],
-    "ChangoMás": [
-     16949.0,
-     "https://www.masonline.com.ar/vino-tinto-saint-felicien-pinot-noir-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Sabor Mousse 252 Grs x 6 Un Milka",
-   "m": "MILKA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775568/Alfajor-Simple-Milka-Mousse-6ux42g-1-18747.jpg?v=638163166382270000",
-   "cadena": "Jumbo",
-   "precio": 4650.0,
-   "link": "https://www.jumbo.com.ar/alfajor-milka-simple-mousse-42-gr-display-6-u/p",
-   "referencia": 9300.0,
-   "precio_2da": 8600.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.9,
-   "score": 2297,
-   "pr": {
-    "Vea": [
-     8990.0,
-     "https://www.vea.com.ar/alfajor-milka-simple-mousse-42-gr-display-6-u/p"
-    ],
-    "Jumbo": [
-     4650.0,
-     "https://www.jumbo.com.ar/alfajor-milka-simple-mousse-42-gr-display-6-u/p"
-    ],
-    "Carrefour": [
-     8600.0,
-     "https://www.carrefour.com.ar/alfajor-milka-mousse-42-g-display-6-uni-528728/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Malbec Double Oak 750 Cc Los Intocables",
-   "m": "SHORTORN",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/925236/Vino-Double-Oak-X-750-Cc-Los-Intocables-1-1061037.jpg?v=639229226641970000",
-   "cadena": "Jumbo",
-   "precio": 6900.0,
-   "link": "https://www.jumbo.com.ar/vino-double-oak-x-750-cc-los-intocables-2/p",
-   "referencia": 13800.0,
-   "precio_2da": 12765.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.9,
-   "score": 2297,
-   "pr": {
-    "Jumbo": [
-     6900.0,
-     "https://www.jumbo.com.ar/vino-double-oak-x-750-cc-los-intocables-2/p"
-    ],
-    "Carrefour": [
-     12765.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-los-intocables-double-oak-750-ml-756363/p"
-    ],
-    "ChangoMás": [
-     13809.0,
-     "https://www.masonline.com.ar/vino-tinto-los-intocables-doble-oak-malbec-750-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Sabor Dulce de Leche 330 Grs x 6 Un Jorgito",
-   "m": "JORGITO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/193754/Alfajores-Jorgito-Negros-C-dceleche-Alfajor-Negro-Con-Dulce-De-Leche-Jorgito-330-Gr-1-30113.jpg?v=636383546048700000",
-   "cadena": "Jumbo",
-   "precio": 4450.0,
-   "link": "https://www.jumbo.com.ar/alfajor-negro-con-dulce-de-leche-jorgito-330-gr/p",
-   "referencia": 8900.0,
-   "precio_2da": 8225.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.9,
-   "score": 2295,
-   "pr": {
-    "Vea": [
-     8650.0,
-     "https://www.vea.com.ar/alfajor-negro-con-dulce-de-leche-jorgito-330-gr/p"
-    ],
-    "Jumbo": [
-     4450.0,
-     "https://www.jumbo.com.ar/alfajor-negro-con-dulce-de-leche-jorgito-330-gr/p"
-    ],
-    "Carrefour": [
-     8225.0,
-     "https://www.carrefour.com.ar/alfajor-jorgito-chocolate-6-u/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida Frizzante Sabor Blue 473 Cc Frizze",
-   "m": "FRIZZE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/863164/Frizante-Frizze-Blue-473cc-1-879974.jpg?v=638798097661800000",
-   "cadena": "Jumbo",
-   "precio": 1450.0,
-   "link": "https://www.jumbo.com.ar/frizante-frizze-blue-473cc/p",
-   "referencia": 2900.0,
-   "precio_2da": 2647.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.2,
-   "score": 2261,
-   "pr": {
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/frizante-frizze-blue-473cc/p"
-    ],
-    "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/frizante-frizze-blue-473cc/p"
-    ],
-    "Carrefour": [
-     2647.0,
-     "https://www.carrefour.com.ar/frizante-frizze-blue-evolution-lata-473-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajores Blancos 300 Grs x 6 Un Jorgito",
-   "m": "JORGITO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/193834/Alfajores-Jorgito-Blancos-Alfajores-Jorgito-Blanco-300-Gr-1-30193.jpg?v=636383546752970000",
-   "cadena": "Jumbo",
-   "precio": 4550.0,
-   "link": "https://www.jumbo.com.ar/alfajores-jorgito-blanco-300-gr/p",
-   "referencia": 9100.0,
-   "precio_2da": 8225.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.7,
-   "score": 2234,
-   "pr": {
-    "Vea": [
-     8650.0,
-     "https://www.vea.com.ar/alfajores-jorgito-blanco-300-gr/p"
-    ],
-    "Jumbo": [
-     4550.0,
-     "https://www.jumbo.com.ar/alfajores-jorgito-blanco-300-gr/p"
-    ],
-    "Carrefour": [
-     8225.0,
-     "https://www.carrefour.com.ar/alfajor-jorgito-bano-azucarado-6-u/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler 55 Gr.",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/860712/Chocolate-Cofler-55-Gr-1-242355.jpg?v=638787621947670000",
-   "cadena": "Jumbo",
-   "precio": 2412.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cofler-55-gr/p",
-   "referencia": 4824.0,
-   "precio_2da": 4339.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.4,
-   "score": 2221,
-   "pr": {
-    "Vea": [
-     4390.0,
-     "https://www.vea.com.ar/chocolate-cofler-55-gr/p"
-    ],
-    "Jumbo": [
-     2412.0,
-     "https://www.jumbo.com.ar/chocolate-cofler-55-gr/p"
-    ],
-    "Carrefour": [
-     4339.0,
-     "https://www.carrefour.com.ar/tableta-de-chocolate-tres-placeres-cofler-55-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Negro Sabor de Dulce de Leche 150 Grs x 3 Un Happy Food",
-   "m": "happy food",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/777266/Alfajor-Dulce-Leche-Happy-Food-X3-150gr-1-956761.jpg?v=638174289850170000",
-   "cadena": "Jumbo",
-   "precio": 2600.0,
-   "link": "https://www.jumbo.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p",
-   "referencia": 5200.0,
-   "precio_2da": 4649.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.1,
-   "score": 2204,
-   "pr": {
-    "Vea": [
-     4890.0,
-     "https://www.vea.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p"
-    ],
-    "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/alfajor-dulce-de-leche-150-gr-x-3-un-happy-food/p"
-    ],
-    "Carrefour": [
-     4649.0,
-     "https://www.carrefour.com.ar/alfajor-happy-food-de-dulce-leche-50-g-x-3-uni-699927-699927/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor sin gluten Jorgito x6 50 grs",
-   "m": "Jorgito",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915683/7790957000415_E02.jpg?v=639227422822130000",
-   "cadena": "Jumbo",
-   "precio": 5700.0,
-   "link": "https://www.jumbo.com.ar/alfajor-sin-gluten-x-50-gr-jorgito-2/p",
-   "referencia": 11400.0,
-   "precio_2da": 10190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.1,
-   "score": 2203,
-   "pr": {
-    "Carrefour": [
-     10689.0,
-     "https://www.carrefour.com.ar/alfajor-sin-gluten-jorgito-x6-50-grs-765345/p"
-    ],
-    "Vea": [
-     10190.0,
-     "https://www.vea.com.ar/alfajor-sin-gluten-x-50-gr-jorgito-2/p"
-    ],
-    "Jumbo": [
-     5700.0,
-     "https://www.jumbo.com.ar/alfajor-sin-gluten-x-50-gr-jorgito-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Block Miti Miti 170 Grs Cofler",
-   "m": "COFLER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774905/Chocolate-Block-Miti-Miti-X170g-1-947744.jpg?v=638157118282270000",
-   "cadena": "Jumbo",
-   "precio": 4950.0,
-   "link": "https://www.jumbo.com.ar/chocolate-miti-miti-cofler-x170-gr/p",
-   "referencia": 9900.0,
-   "precio_2da": 8850.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.1,
-   "score": 2203,
-   "pr": {
-    "Vea": [
-     8850.0,
-     "https://www.vea.com.ar/chocolate-miti-miti-cofler-x170-gr/p"
-    ],
-    "Jumbo": [
-     4950.0,
-     "https://www.jumbo.com.ar/chocolate-miti-miti-cofler-x170-gr/p"
-    ],
-    "ChangoMás": [
-     9459.0,
-     "https://www.masonline.com.ar/chocolate-cofler-block-miti-miti-170g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Margarina dorada Danica en pote 210 g.",
-   "m": "Dánica",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/838056/7791620187778_02.jpg?v=639106518994030000",
-   "cadena": "Jumbo",
-   "precio": 1475.0,
-   "link": "https://www.jumbo.com.ar/margarina-vegetal-danica-dorada-cremosa-210g/p",
-   "referencia": 2950.0,
-   "precio_2da": 2617.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.7,
-   "score": 2183,
-   "pr": {
-    "Carrefour": [
      2819.0,
-     "https://www.carrefour.com.ar/margarina-dorada-danica-en-pote-210-g-726175/p"
-    ],
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/margarina-vegetal-danica-dorada-cremosa-210g/p"
+     "https://www.masonline.com.ar/margarina-danica-soft-light-100-vegetal-200-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Saborizador finas hierbas Knorr bolsa para horno 21 grs",
+   "m": "Knorr",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900863/7794000009318_02.jpg?v=639191315935770000",
+   "cadena": "Jumbo",
+   "precio": 1875.0,
+   "link": "https://www.jumbo.com.ar/bolsa-de-horno-finas-hierbas-x-21-grs-knorr/p",
+   "referencia": 3750.0,
+   "precio_2da": 3559.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.3,
+   "score": 2366,
+   "pr": {
+    "Carrefour": [
+     3559.0,
+     "https://www.carrefour.com.ar/saborizador-finas-hierbas-knorr-bolsa-pra-horno-21-grs-772616/p"
     ],
     "Jumbo": [
-     1475.0,
-     "https://www.jumbo.com.ar/margarina-vegetal-danica-dorada-cremosa-210g/p"
-    ],
-    "Comodín": [
-     2617.69,
-     "https://www.comodinencasa.com.ar/margarina-danica-dorada-soft-pote-x-250/p"
+     1875.0,
+     "https://www.jumbo.com.ar/bolsa-de-horno-finas-hierbas-x-21-grs-knorr/p"
     ],
     "ChangoMás": [
-     2929.0,
-     "https://www.masonline.com.ar/margarina-danica-dorada-cremosa-100-vegetal-210-g-2/p"
+     3559.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-knorr-finas-hierbas-21-g/p"
     ]
    }
   },
   {
-   "n": "Aperitivo cocktail con alcohol rose Emilia en botella 750 cc.",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823259/7790070764027_02.jpg?v=639083181989670000",
+   "n": "Saborizador Sabor Finas Hierbas x 4 Un 30 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/682254/Saborizador-Alicante-Fin-Hie-4s-1-876401.jpg?v=637759677764170000",
    "cadena": "Jumbo",
-   "precio": 6325.0,
-   "link": "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p",
-   "referencia": 12650.0,
-   "precio_2da": 10999.0,
+   "precio": 900.0,
+   "link": "https://www.jumbo.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p",
+   "referencia": 1800.0,
+   "precio_2da": 1629.0,
    "baja_pct": 50.0,
-   "brecha_pct": 42.5,
-   "score": 2125,
+   "brecha_pct": 44.8,
+   "score": 2238,
    "pr": {
-    "Carrefour": [
-     10999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746900/p"
-    ],
     "Jumbo": [
-     6325.0,
-     "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p"
+     900.0,
+     "https://www.jumbo.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p"
     ],
     "ChangoMás": [
-     10999.0,
-     "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p"
+     1699.0,
+     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-finas-hierbas-30-gr-2/p"
+    ],
+    "Carrefour": [
+     1629.0,
+     "https://www.carrefour.com.ar/saborizador-finas-hierbas-alicante-sobre-x-4-uni/p"
     ]
    }
   },
   {
-   "n": "Aperitivo cocktail con alcohol con spritz Emilia en botella 750 cc.",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821081/7790070764041_02.jpg?v=639083181331630000",
-   "cadena": "Jumbo",
-   "precio": 6325.0,
-   "link": "https://www.jumbo.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p",
-   "referencia": 12650.0,
-   "precio_2da": 10890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.9,
-   "score": 2096,
+   "n": "Yerba mate suave Unión 4flex 1 kg.",
+   "m": "Unión",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/202465/7790387014617_02.jpg?v=637562654681970000",
+   "cadena": "ChangoMás",
+   "precio": 2499.0,
+   "link": "https://www.masonline.com.ar/yerba-mate-union-con-palo-4flex-1kg-2/p",
+   "referencia": 4783.2,
+   "precio_2da": 4590.0,
+   "baja_pct": 47.8,
+   "brecha_pct": 45.6,
+   "score": 2175,
    "pr": {
     "Carrefour": [
-     10999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-con-spritz-emilia-750-ml-746902/p"
-    ],
-    "Vea": [
-     10890.0,
-     "https://www.vea.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
-    ],
-    "Jumbo": [
-     6325.0,
-     "https://www.jumbo.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     10999.0,
-     "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Con Avellanas Cofler Arcor",
-   "m": "COFLER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/867569/Chocolate-Con-Avellanas-Cofler-Arcor-1-1037450.jpg?v=638828229940200000",
-   "cadena": "Jumbo",
-   "precio": 5125.0,
-   "link": "https://www.jumbo.com.ar/chocolate-con-avellanas-cofler-arcor/p",
-   "referencia": 10250.0,
-   "precio_2da": 8809.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.8,
-   "score": 2091,
-   "pr": {
-    "Vea": [
-     9399.0,
-     "https://www.vea.com.ar/chocolate-con-avellanas-cofler-arcor/p"
-    ],
-    "Jumbo": [
-     5125.0,
-     "https://www.jumbo.com.ar/chocolate-con-avellanas-cofler-arcor/p"
-    ],
-    "Comodín": [
-     8809.19,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-avellana-140gr/p"
-    ],
-    "Carrefour": [
-     9349.0,
-     "https://www.carrefour.com.ar/tableta-de-chocolate-con-avellanas-cofler-140-grs-771516/p"
-    ],
-    "ChangoMás": [
-     8979.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-cofler-con-avellanas-140-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Cocktail Rosé 200cc Emilia",
-   "m": "EMILIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/886657/Espumante-Cocktail-Ros-200Cc-Emilia-Espumante-Emilia-Cocktail-Ros-200cc-1-1049212.jpg?v=638960638622730000",
-   "cadena": "Jumbo",
-   "precio": 2250.0,
-   "link": "https://www.jumbo.com.ar/espumante-cocktail-rose-200cc-emilia/p",
-   "referencia": 4500.0,
-   "precio_2da": 3850.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.6,
-   "score": 2078,
-   "pr": {
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/espumante-cocktail-rose-200cc-emilia/p"
-    ],
-    "Jumbo": [
-     2250.0,
-     "https://www.jumbo.com.ar/espumante-cocktail-rose-200cc-emilia/p"
-    ],
-    "Carrefour": [
-     3850.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-emilia-cocktail-spritz-200-ml-768711/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Elvive Glycolic Gloss 200 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551650/7509552937343_01.jpg?v=638604501070630000",
-   "cadena": "Vea",
-   "precio": 4830.0,
-   "link": "https://www.vea.com.ar/shampoo-elvive-glyco-gloss-200-ml/p",
-   "referencia": 8990.0,
-   "precio_2da": 8609.0,
-   "baja_pct": 46.3,
-   "brecha_pct": 43.9,
-   "score": 2031,
-   "pr": {
-    "Carrefour": [
-     8609.0,
-     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p"
-    ],
-    "Vea": [
-     4830.0,
-     "https://www.vea.com.ar/shampoo-elvive-glyco-gloss-200-ml/p"
-    ],
-    "Comodín": [
-     10087.99,
-     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-gloss-200ml/p"
-    ],
-    "ChangoMás": [
-     9349.0,
-     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler 55 g",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914614/7790580103484_E01.jpg?v=639222482767600000",
-   "cadena": "Jumbo",
-   "precio": 2325.0,
-   "link": "https://www.jumbo.com.ar/chocolate-con-leche-cofler-55-gr/p",
-   "referencia": 4650.0,
-   "precio_2da": 3892.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.3,
-   "score": 2014,
-   "pr": {
-    "Carrefour": [
-     4750.0,
-     "https://www.carrefour.com.ar/chocolate-cofler-55-g-39929-39929/p"
-    ],
-    "Vea": [
      4590.0,
-     "https://www.vea.com.ar/chocolate-con-leche-cofler-55-gr/p"
+     "https://www.carrefour.com.ar/yerba-mate-suave-union-4flex-1-kg/p"
     ],
-    "Jumbo": [
-     2325.0,
-     "https://www.jumbo.com.ar/chocolate-con-leche-cofler-55-gr/p"
-    ],
-    "Comodín": [
-     3892.99,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-leche-x-55-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler con almendras 55 g",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914613/7790580033507_E01.jpg?v=639222482436470000",
-   "cadena": "Jumbo",
-   "precio": 2325.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cofler-con-almendras-55-gr/p",
-   "referencia": 4650.0,
-   "precio_2da": 3892.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.3,
-   "score": 2014,
-   "pr": {
-    "Carrefour": [
-     4339.0,
-     "https://www.carrefour.com.ar/chocolate-cofler-con-almendras-55-g-41900-41900/p"
-    ],
-    "Jumbo": [
-     2325.0,
-     "https://www.jumbo.com.ar/chocolate-cofler-con-almendras-55-gr/p"
-    ],
-    "Comodín": [
-     3892.99,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-leche-y-almend-x-55-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Blanco & Cookies 55 Gr",
-   "m": "COFLER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/860701/Chocolate-Cofler-Blanco-Cookies-55-Gr-1-5429.jpg?v=638787621903000000",
-   "cadena": "Jumbo",
-   "precio": 2325.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cofler-blanco-cookies-55-gr/p",
-   "referencia": 4650.0,
-   "precio_2da": 3892.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.3,
-   "score": 2014,
-   "pr": {
     "Vea": [
-     4390.0,
-     "https://www.vea.com.ar/chocolate-cofler-blanco-cookies-55-gr/p"
+     5290.0,
+     "https://www.vea.com.ar/yerba-mate-4flex-union-1-kg/p"
     ],
     "Jumbo": [
-     2325.0,
-     "https://www.jumbo.com.ar/chocolate-cofler-blanco-cookies-55-gr/p"
+     5600.0,
+     "https://www.jumbo.com.ar/yerba-mate-4flex-union-1-kg/p"
     ],
-    "Comodín": [
-     3892.99,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-blanco-c-cookies-x-55gr-2/p"
+    "ChangoMás": [
+     2499.0,
+     "https://www.masonline.com.ar/yerba-mate-union-con-palo-4flex-1kg-2/p"
     ]
    }
   },
   {
-   "n": "Alfajor Milka Super Dulce de Leche Blanco 70 grs",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878652/7622202370045_E01.jpg?v=639149668118530000",
+   "n": "Jugo en polvo BC La Campagnola manzana roja 7 g.",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822943/7790580129972_02.jpg?v=639083181869330000",
    "cadena": "Jumbo",
-   "precio": 1225.0,
-   "link": "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p",
-   "referencia": 2300.0,
-   "precio_2da": 2119.0,
-   "baja_pct": 46.7,
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
+   "referencia": 450.0,
+   "precio_2da": 389.0,
+   "baja_pct": 50.0,
    "brecha_pct": 42.2,
-   "score": 1972,
+   "score": 2108,
    "pr": {
     "Carrefour": [
-     2119.0,
-     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p"
     ],
     "Jumbo": [
-     1225.0,
-     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+     225.0,
+     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
     ],
     "ChangoMás": [
-     2119.0,
-     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-manzana-roja-bc-7-gr-2/p"
     ]
    }
   },
   {
-   "n": "Vino tinto Malbec Fabre Montmayou 750 ml",
-   "m": "Fabre Montmayou",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/300075/7798000213515_01.jpg?v=638133806684700000",
+   "n": "Jugo en Polvo Sabor Naranja Dulce 7 Grs Bc",
+   "m": "BC",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665701/Jugo-En-Polvo-Bc-Naranja-Dulce-7gr-1-878213.jpg?v=637670794044370000",
    "cadena": "Jumbo",
-   "precio": 7100.0,
-   "link": "https://www.jumbo.com.ar/vino-h-j-fabre-malbec-merlot-x-750-ml/p",
-   "referencia": 14200.0,
-   "precio_2da": 11666.58,
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
+   "referencia": 450.0,
+   "precio_2da": 389.0,
    "baja_pct": 50.0,
-   "brecha_pct": 39.1,
-   "score": 1957,
+   "brecha_pct": 42.2,
+   "score": 2108,
    "pr": {
-    "Carrefour": [
-     11666.58,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-fabre-montmayou-750-cc/p"
-    ],
     "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/vino-h-j-fabre-malbec-merlot-x-750-ml/p"
+     225.0,
+     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
     ],
     "ChangoMás": [
-     17499.0,
-     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-malbec-2/p"
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
     ]
    }
   },
   {
-   "n": "Tableta chocolate con maní Cofler block flow 300 g",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914603/7790580103743_E01.jpg?v=639222479561500000",
-   "cadena": "Jumbo",
-   "precio": 7725.0,
-   "link": "https://www.jumbo.com.ar/chocolate-block-con-leche-cofler-300-gr/p",
-   "referencia": 15450.0,
-   "precio_2da": 12589.99,
+   "n": "Vino Tinto Malbec 750 Cc Blend de Extremos El Esteco",
+   "m": "EL ESTECO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/581249/Vino-El-Esteco-Malbec-Bend-De-Extremos-750-Cc-1-772500.jpg?v=637225178110470000",
+   "cadena": "ChangoMás",
+   "precio": 9734.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-el-esteco-blend-de-extremos-malbec-750-ml-2/p",
+   "referencia": 19469.0,
+   "precio_2da": 16769.99,
    "baja_pct": 50.0,
-   "brecha_pct": 38.6,
-   "score": 1932,
+   "brecha_pct": 42.0,
+   "score": 2098,
    "pr": {
-    "Carrefour": [
-     14739.0,
-     "https://www.carrefour.com.ar/tableta-chocolate-con-mani-cofler-block-flow-300-g-70926/p"
-    ],
-    "Vea": [
-     14500.0,
-     "https://www.vea.com.ar/chocolate-block-con-leche-cofler-300-gr/p"
-    ],
     "Jumbo": [
-     7725.0,
-     "https://www.jumbo.com.ar/chocolate-block-con-leche-cofler-300-gr/p"
+     19600.0,
+     "https://www.jumbo.com.ar/vino-el-esteco-malbec-bend-de-extremos-750-cc/p"
+    ],
+    "Comodín": [
+     16769.99,
+     "https://www.comodinencasa.com.ar/vino-el-esteco-blend-ext-malbec-x-750-ml/p"
+    ],
+    "Carrefour": [
+     18725.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-el-esteco-blend-de-ext-750-cc/p"
     ],
     "ChangoMás": [
-     15329.0,
-     "https://www.masonline.com.ar/chocolate-c-mani-cofler-block-300gr-2/p"
-    ],
-    "Comodín": [
-     12589.99,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-block-x-300-gr-2/p"
+     9734.5,
+     "https://www.masonline.com.ar/vino-tinto-el-esteco-blend-de-extremos-malbec-750-ml-2/p"
     ]
    }
   },
   {
-   "n": "Vino Eugenio Bustos Leyenda Malbec 750cc",
-   "m": "EUGENIO BUSTOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581133/Vino-Tinto-Egenio-Bustos-Leyenda-Malbec-750-Cc-1-36354.jpg?v=637225176579230000",
-   "cadena": "Carrefour",
-   "precio": 2943.48,
-   "link": "https://www.carrefour.com.ar/vino-eugenio-bustos-malbec-leyenda-750-cc/p",
-   "referencia": 4415.0,
-   "precio_2da": 6975.29,
-   "baja_pct": 33.3,
-   "brecha_pct": 57.8,
-   "score": 1927,
-   "pr": {
-    "Vea": [
-     8490.0,
-     "https://www.vea.com.ar/vino-eugenio-bustos-leyenda-malbec-750cc-2/p"
-    ],
-    "Comodín": [
-     6975.29,
-     "https://www.comodinencasa.com.ar/vino-eugenio-bustos-leyenda-malbec-750cc/p"
-    ],
-    "Carrefour": [
-     2943.48,
-     "https://www.carrefour.com.ar/vino-eugenio-bustos-malbec-leyenda-750-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Nescafé Dolce Gusto Cappuccino Dulce de Leche 10 uni",
-   "m": "Dolce Gusto",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/789961/7891000421512_E01.jpg?v=639038389698300000",
-   "cadena": "Jumbo",
-   "precio": 8925.0,
-   "link": "https://www.jumbo.com.ar/capsulas-dulce-de-leche-223g-dolce-gusto-2/p",
-   "referencia": 17850.0,
-   "precio_2da": 14495.59,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.4,
-   "score": 1921,
-   "pr": {
-    "Carrefour": [
-     16639.0,
-     "https://www.carrefour.com.ar/nescafe-dolca-gusto-cappuccino-dulce-de-leche-10-uni-762385/p"
-    ],
-    "Jumbo": [
-     8925.0,
-     "https://www.jumbo.com.ar/capsulas-dulce-de-leche-223g-dolce-gusto-2/p"
-    ],
-    "Comodín": [
-     14495.59,
-     "https://www.comodinencasa.com.ar/capsulas-dolce-gusto-cap-caram-milk-10un/p"
-    ]
-   }
-  },
-  {
-   "n": "Tableta chocolate dark 73 Hersheys 85 g.",
-   "m": "Hersheys",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914771/7899970401657_02.jpg?v=639223054192330000",
-   "cadena": "Jumbo",
-   "precio": 3700.0,
-   "link": "https://www.jumbo.com.ar/chocolate-dark-hershey-s-85gr/p",
-   "referencia": 7400.0,
-   "precio_2da": 6008.09,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.4,
-   "score": 1921,
-   "pr": {
-    "Carrefour": [
-     8500.0,
-     "https://www.carrefour.com.ar/tableta-chocolate-dark-73-hersheys-85-g/p"
-    ],
-    "Vea": [
-     7400.0,
-     "https://www.vea.com.ar/chocolate-dark-hershey-s-85gr/p"
-    ],
-    "Jumbo": [
-     3700.0,
-     "https://www.jumbo.com.ar/chocolate-dark-hershey-s-85gr/p"
-    ],
-    "Comodín": [
-     6008.09,
-     "https://www.comodinencasa.com.ar/chocolate-hersheys-esp-dark-73-ca-85g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida Frizzante Sabor Blue 1 Lts Frizze",
-   "m": "FRIZZE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808305/Frizante-Frizze-Blue-1lt-1-856971.jpg?v=638421611430200000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/frizante-frizze-blue-1lt/p",
-   "referencia": 4375.0,
-   "precio_2da": 3327.99,
-   "baja_pct": 52.0,
-   "brecha_pct": 36.9,
-   "score": 1919,
-   "pr": {
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/frizante-frizze-blue-1lt/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/frizante-frizze-blue-1lt/p"
-    ],
-    "Carrefour": [
-     3909.0,
-     "https://www.carrefour.com.ar/frizzante-evolution-blue-frizze-1-l-672826/p"
-    ],
-    "Comodín": [
-     3327.99,
-     "https://www.comodinencasa.com.ar/vino-frizze-evolution-new-blue-1lt/p"
-    ],
-    "ChangoMás": [
-     4399.0,
-     "https://www.masonline.com.ar/espumante-evolution-blue-frizze-1-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Terrabusi blanco glaseado pack 6 uni",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825749/7622300742621_E01.jpg?v=639086663097130000",
-   "cadena": "Jumbo",
-   "precio": 4150.0,
-   "link": "https://www.jumbo.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p",
-   "referencia": 8300.0,
-   "precio_2da": 6695.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.0,
-   "score": 1901,
-   "pr": {
-    "Carrefour": [
-     6695.0,
-     "https://www.carrefour.com.ar/alfajor-terrabusi-blanco-glaseado-pack-6-uni-520833/p"
-    ],
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p"
-    ],
-    "Jumbo": [
-     4150.0,
-     "https://www.jumbo.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p"
-    ],
-    "Comodín": [
-     9425.59,
-     "https://www.comodinencasa.com.ar/alfajor-terrabusi-glaceado-x-6-un-2/p"
-    ],
-    "ChangoMás": [
-     7609.0,
-     "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-6u-228gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate con leche Hersheys 82 grs",
-   "m": "Hersheys",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/886226/7899970402814_E02.jpg?v=639160876121430000",
-   "cadena": "Jumbo",
-   "precio": 2300.0,
-   "link": "https://www.jumbo.com.ar/hersheys-chocolate-con-leche-82gr/p",
-   "referencia": 4600.0,
-   "precio_2da": 3682.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.5,
-   "score": 1877,
-   "pr": {
-    "Carrefour": [
-     5000.0,
-     "https://www.carrefour.com.ar/chocolate-con-leche-hersheys-82-grs-777686/p"
-    ],
-    "Vea": [
-     4200.0,
-     "https://www.vea.com.ar/hersheys-chocolate-con-leche-82gr/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/hersheys-chocolate-con-leche-82gr/p"
-    ],
-    "Comodín": [
-     3682.69,
-     "https://www.comodinencasa.com.ar/chocolate-hersheys-con-leche-82-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Block con maní 170 g",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914627/7790580105013_E01.jpg?v=639222486169200000",
-   "cadena": "Jumbo",
-   "precio": 4950.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cofler-block-con-mani-170-gr/p",
-   "referencia": 9900.0,
-   "precio_2da": 7798.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.5,
-   "score": 1826,
-   "pr": {
-    "Carrefour": [
-     8509.0,
-     "https://www.carrefour.com.ar/chocolate-cofler-block-con-mani-170-g/p"
-    ],
-    "Vea": [
-     8850.0,
-     "https://www.vea.com.ar/chocolate-cofler-block-con-mani-170-gr/p"
-    ],
-    "Jumbo": [
-     4950.0,
-     "https://www.jumbo.com.ar/chocolate-cofler-block-con-mani-170-gr/p"
-    ],
-    "Comodín": [
-     7798.19,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-block-x-170-gr-2/p"
-    ],
-    "ChangoMás": [
-     9409.0,
-     "https://www.masonline.com.ar/chocolate-c-mani-cofler-block-170gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Milka Super Dulce de Leche 70 grs",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878650/7622202370021_E01.jpg?v=639149667462930000",
-   "cadena": "Jumbo",
-   "precio": 1075.0,
-   "link": "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-x-70-grs-milka/p",
-   "referencia": 2150.0,
-   "precio_2da": 1690.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.4,
-   "score": 1820,
-   "pr": {
-    "Carrefour": [
-     2119.0,
-     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-70-grs-777682/p"
-    ],
-    "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/alfajor-simple-super-dulce-de-leche-x-70-grs-milka/p"
-    ],
-    "Jumbo": [
-     1075.0,
-     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-x-70-grs-milka/p"
-    ],
-    "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-70-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple blanco Terrabusi 70 grs",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882361/7622202805554_E01.jpg?v=639155716199430000",
-   "cadena": "Jumbo",
-   "precio": 1075.0,
-   "link": "https://www.jumbo.com.ar/alfajor-triple-blanco-con-dulce-de-leche-x-70-grs-terrabusi/p",
-   "referencia": 2150.0,
-   "precio_2da": 1690.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.4,
-   "score": 1820,
-   "pr": {
-    "Carrefour": [
-     1742.5,
-     "https://www.carrefour.com.ar/alfajor-triple-blanco-terrabusi-70-grs-777684/p"
-    ],
-    "Vea": [
-     1690.0,
-     "https://www.vea.com.ar/alfajor-triple-blanco-con-dulce-de-leche-x-70-grs-terrabusi/p"
-    ],
-    "Jumbo": [
-     1075.0,
-     "https://www.jumbo.com.ar/alfajor-triple-blanco-con-dulce-de-leche-x-70-grs-terrabusi/p"
-    ],
-    "ChangoMás": [
-     2209.0,
-     "https://www.masonline.com.ar/alfajor-terrabusi-triple-blanco-70-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Fructis Hydraliss 350ml",
-   "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906397/Shampoo-Fructis-Hydraliss-350ml-1-989541.jpg?v=639123826783400000",
+   "n": "Aceite de oliva extra virgen Lira pet 500 cc.",
+   "m": "Lira",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914072/7790070231833_01.jpg?v=639222246999370000",
    "cadena": "Vea",
-   "precio": 5160.0,
-   "link": "https://www.vea.com.ar/shampoo-fructis-hydraliss-350ml/p",
-   "referencia": 8990.0,
-   "precio_2da": 8990.0,
-   "baja_pct": 42.6,
-   "brecha_pct": 42.6,
-   "score": 1815,
+   "precio": 7395.0,
+   "link": "https://www.vea.com.ar/aceite-oliva-lira-extra-virgen-pet-500ml/p",
+   "referencia": 13599.0,
+   "precio_2da": 13599.0,
+   "baja_pct": 45.6,
+   "brecha_pct": 45.6,
+   "score": 2081,
+   "pr": {
+    "Carrefour": [
+     13599.0,
+     "https://www.carrefour.com.ar/aceite-de-oliva-extra-virgen-lira-pet-500-cc/p"
+    ],
+    "Vea": [
+     7395.0,
+     "https://www.vea.com.ar/aceite-oliva-lira-extra-virgen-pet-500ml/p"
+    ],
+    "Comodín": [
+     15458.59,
+     "https://www.comodinencasa.com.ar/aceite-lira-oliva-extra-virgen-500cc/p"
+    ],
+    "ChangoMás": [
+     15619.0,
+     "https://www.masonline.com.ar/aceite-oliva-extra-virgen-lira-500-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Yerba mate Mañanita bajo polvo 4flex 1 kg",
+   "m": "Mañanita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/183639/7790387015317_02.jpg?v=637468591274730000",
+   "cadena": "ChangoMás",
+   "precio": 2499.0,
+   "link": "https://www.masonline.com.ar/yerba-mate-4f-mananita-1kg-2/p",
+   "referencia": 4783.2,
+   "precio_2da": 4389.0,
+   "baja_pct": 47.8,
+   "brecha_pct": 43.1,
+   "score": 2056,
+   "pr": {
+    "Carrefour": [
+     4389.0,
+     "https://www.carrefour.com.ar/yerba-mate-mananita-bajo-polvo-4flex-1-kg/p"
+    ],
+    "Vea": [
+     5290.0,
+     "https://www.vea.com.ar/yerba-mate-4flex-mananita-1-kg/p"
+    ],
+    "Jumbo": [
+     5650.0,
+     "https://www.jumbo.com.ar/yerba-mate-4flex-mananita-1-kg/p"
+    ],
+    "Comodín": [
+     5213.59,
+     "https://www.comodinencasa.com.ar/yerba-mananita-4-flex-c-palo-1kg/p"
+    ],
+    "ChangoMás": [
+     2499.0,
+     "https://www.masonline.com.ar/yerba-mate-4f-mananita-1kg-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche chocolatada ​Cindor 1 lt",
+   "m": "Cindor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/870468/7791337007253_E01.jpg?v=639137801667600000",
+   "cadena": "Vea",
+   "precio": 4490.0,
+   "link": "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p",
+   "referencia": 8390.0,
+   "precio_2da": 7890.0,
+   "baja_pct": 46.5,
+   "brecha_pct": 43.1,
+   "score": 2003,
+   "pr": {
+    "Carrefour": [
+     7890.0,
+     "https://www.carrefour.com.ar/leche-chocolatada-cindor-1-lt-719377/p"
+    ],
+    "Vea": [
+     4490.0,
+     "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p"
+    ],
+    "Jumbo": [
+     8061.0,
+     "https://www.jumbo.com.ar/leche-chocolatada-1-l-cindor-2/p"
+    ],
+    "ChangoMás": [
+     8219.0,
+     "https://www.masonline.com.ar/leche-chocolatada-cindor-1-l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Barra de Cereal Sabor Almendras con piso de chocolate 30 Grs Flow",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917705/7790380020240.jpg?v=639162686279030000",
+   "cadena": "Vea",
+   "precio": 595.0,
+   "link": "https://www.vea.com.ar/barra-flow-almendras-chocolate-30gr/p",
+   "referencia": 1190.0,
+   "precio_2da": 979.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.2,
+   "score": 1961,
    "pr": {
     "Vea": [
-     5160.0,
-     "https://www.vea.com.ar/shampoo-fructis-hydraliss-350ml/p"
-    ],
-    "ChangoMás": [
-     9349.0,
-     "https://www.masonline.com.ar/shampoo-fructis-hydra-liss-350ml-2/p"
+     595.0,
+     "https://www.vea.com.ar/barra-flow-almendras-chocolate-30gr/p"
     ],
     "Carrefour": [
-     8990.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-hydraliss-350-ml-723842/p"
+     979.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-almendras-chocolate-georgalos-flow-30-g/p"
+    ],
+    "ChangoMás": [
+     1149.0,
+     "https://www.masonline.com.ar/barra-de-cereal-flow-almendras-con-chocolate-x-30-gr-2/p"
     ]
    }
   },
   {
-   "n": "Mascarilla Intensiva Hidratación 270 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844062/Mascarilla-Intensiva-Pantene-Hidrataci-n-270-Ml-1-1017665.jpg?v=638660722219230000",
+   "n": "Bebida Vegetal Sabor Almendras 1 Lts Silk",
+   "m": "Silk",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/902899/7791337007901.jpg?v=639105642318500000",
+   "cadena": "Vea",
+   "precio": 3750.0,
+   "link": "https://www.vea.com.ar/bebida-a-base-de-almendras-endulzada-1-lts-silk/p",
+   "referencia": 6790.0,
+   "precio_2da": 6659.0,
+   "baja_pct": 44.8,
+   "brecha_pct": 43.7,
+   "score": 1956,
+   "pr": {
+    "Vea": [
+     3750.0,
+     "https://www.vea.com.ar/bebida-a-base-de-almendras-endulzada-1-lts-silk/p"
+    ],
+    "Jumbo": [
+     7300.0,
+     "https://www.jumbo.com.ar/bebida-a-base-de-almendras-endulzada-1-lts-silk/p"
+    ],
+    "ChangoMás": [
+     6659.0,
+     "https://www.masonline.com.ar/bebida-vegetal-silk-a-base-de-almendras-1l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida Vegetal Sabor Coco 1 Lts Silk",
+   "m": "Silk",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/902907/7791337007932.jpg?v=639105643792100000",
+   "cadena": "Vea",
+   "precio": 3750.0,
+   "link": "https://www.vea.com.ar/bebida-a-base-de-coco-sin-azucar-1-lts-silk/p",
+   "referencia": 6790.0,
+   "precio_2da": 6499.0,
+   "baja_pct": 44.8,
+   "brecha_pct": 42.3,
+   "score": 1894,
+   "pr": {
+    "Vea": [
+     3750.0,
+     "https://www.vea.com.ar/bebida-a-base-de-coco-sin-azucar-1-lts-silk/p"
+    ],
+    "Jumbo": [
+     7300.0,
+     "https://www.jumbo.com.ar/bebida-a-base-de-coco-sin-azucar-1-lts-silk/p"
+    ],
+    "ChangoMás": [
+     6499.0,
+     "https://www.masonline.com.ar/bebida-vegetal-silk-a-base-de-coco-sin-azucar-1l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja y Mango 15 Grs Arcor",
+   "m": "ARCOR",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835186/Jugo-En-Polvo-Arcor-Naranja-Manzana-15gr-1-1025851.jpg?v=638622057759570000",
    "cadena": "Jumbo",
-   "precio": 6300.0,
-   "link": "https://www.jumbo.com.ar/mascarilla-intensiva-hidratacion-270-ml-pantene-2/p",
-   "referencia": 10395.0,
-   "precio_2da": 11639.0,
-   "baja_pct": 39.4,
-   "brecha_pct": 45.9,
-   "score": 1807,
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p",
+   "referencia": 500.0,
+   "precio_2da": 396.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 36.9,
+   "score": 1843,
    "pr": {
     "Jumbo": [
-     6300.0,
-     "https://www.jumbo.com.ar/mascarilla-intensiva-hidratacion-270-ml-pantene-2/p"
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p"
     ],
     "ChangoMás": [
-     11649.0,
-     "https://www.masonline.com.ar/mascarilla-capilar-pantene-hidratacion-270-cc-2/p"
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-mango-15-g/p"
     ],
     "Carrefour": [
-     11639.0,
-     "https://www.carrefour.com.ar/mascarilla-intensiva-pantene-pro-v-hidratacion-270-ml-741044/p"
+     396.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-mango-15-grs-750885/p"
     ]
    }
   },
   {
-   "n": "Alfajor Blanco X 45 Gr Entre Dos",
-   "m": "ENTRE DOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865004/Alfajor-Blanco-X-45-Gr-Entre-Dos-1-1037008.jpg?v=638809492137030000",
+   "n": "Vino Blanco Dulce Natural Chenin 750 Ml Chacabuco",
+   "m": "CHACABUCO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/624756/Vino-Chacabuco-Chenin-Dulce-750-Ml-1-243276.jpg?v=637510296818000000",
    "cadena": "Jumbo",
-   "precio": 575.0,
-   "link": "https://www.jumbo.com.ar/alfajor-blanco-x-45-gr-entre-dos-2/p",
-   "referencia": 1150.0,
-   "precio_2da": 900.0,
+   "precio": 4050.0,
+   "link": "https://www.jumbo.com.ar/vino-blanco-chenin-dulce-natural-750-ml-chacabuco/p",
+   "referencia": 8100.0,
+   "precio_2da": 6370.0,
    "baja_pct": 50.0,
-   "brecha_pct": 36.1,
+   "brecha_pct": 36.4,
+   "score": 1821,
+   "pr": {
+    "Jumbo": [
+     4050.0,
+     "https://www.jumbo.com.ar/vino-blanco-chenin-dulce-natural-750-ml-chacabuco/p"
+    ],
+    "Comodín": [
+     7836.39,
+     "https://www.comodinencasa.com.ar/vino-chacabuco-chenin-dulce-nat-750cc/p"
+    ],
+    "Carrefour": [
+     6370.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-chenin-chacabuco-750-cc-38928/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822139/7790580129941_02.jpg?v=639083181678770000",
+   "cadena": "Jumbo",
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p",
+   "referencia": 450.0,
+   "precio_2da": 352.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 36.2,
+   "score": 1809,
+   "pr": {
+    "Carrefour": [
+     400.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
+    ],
+    "Vea": [
+     410.0,
+     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
+    "Comodín": [
+     352.59,
+     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-limonada-bc-7-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Cafayate 750 ml",
+   "m": "Cafayate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
+   "cadena": "ChangoMás",
+   "precio": 2939.5,
+   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
+   "referencia": 9829.0,
+   "precio_2da": 3959.53,
+   "baja_pct": 70.1,
+   "brecha_pct": 25.8,
    "score": 1806,
    "pr": {
-    "Vea": [
-     1100.0,
-     "https://www.vea.com.ar/alfajor-blanco-x-45-gr-entre-dos-2/p"
-    ],
-    "Jumbo": [
-     575.0,
-     "https://www.jumbo.com.ar/alfajor-blanco-x-45-gr-entre-dos-2/p"
-    ],
     "Carrefour": [
-     900.0,
-     "https://www.carrefour.com.ar/alfajor-blanco-entre-dos-45-grs-753430/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Air 27 g.",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914602/7790580103361_02.jpg?v=639222478437270000",
-   "cadena": "Jumbo",
-   "precio": 1375.0,
-   "link": "https://www.jumbo.com.ar/chocolate-aireado-cofler-27-gr-2/p",
-   "referencia": 2750.0,
-   "precio_2da": 2137.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.7,
-   "score": 1784,
-   "pr": {
-    "Carrefour": [
-     2137.5,
-     "https://www.carrefour.com.ar/chocolate-cofler-air-27-g/p"
+     3959.53,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
     ],
     "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/chocolate-aireado-cofler-27-gr-2/p"
-    ],
-    "Jumbo": [
-     1375.0,
-     "https://www.jumbo.com.ar/chocolate-aireado-cofler-27-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Cofler Air mixto 27 g.",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/172242/7790580103385_01.jpg?v=637468545962630000",
-   "cadena": "Jumbo",
-   "precio": 1375.0,
-   "link": "https://www.jumbo.com.ar/chocolate-aireado-cofler-27-gr/p",
-   "referencia": 2750.0,
-   "precio_2da": 2137.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.7,
-   "score": 1784,
-   "pr": {
-    "Carrefour": [
-     2137.5,
-     "https://www.carrefour.com.ar/chocolate-cofler-air-mixto-27-g/p"
-    ],
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/chocolate-aireado-cofler-27-gr/p"
-    ],
-    "Jumbo": [
-     1375.0,
-     "https://www.jumbo.com.ar/chocolate-aireado-cofler-27-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Tableta chocolate con maní Cofler block 38 g",
-   "m": "Cofler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914563/77953124_E01.jpg?v=639222461197700000",
-   "cadena": "Jumbo",
-   "precio": 1400.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cofler-block-mani-38-gr/p",
-   "referencia": 2800.0,
-   "precio_2da": 2160.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.2,
-   "score": 1760,
-   "pr": {
-    "Carrefour": [
-     2570.0,
-     "https://www.carrefour.com.ar/tableta-chocolate-con-mani-cofler-block-38-g-71106/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/chocolate-cofler-block-mani-38-gr/p"
-    ],
-    "Jumbo": [
-     1400.0,
-     "https://www.jumbo.com.ar/chocolate-cofler-block-mani-38-gr/p"
-    ],
-    "Comodín": [
-     2160.69,
-     "https://www.comodinencasa.com.ar/chocolate-cofler-block-x-38gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papel Higienico Triple Hoja 4 Uni X 30mt",
-   "m": "ELEGANTE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/809040/Papel-Higienico-Triple-Hoja-4-Uni-X-30mt-1-857222.jpg?v=638430898927430000",
-   "cadena": "Jumbo",
-   "precio": 3900.0,
-   "link": "https://www.jumbo.com.ar/papel-higienico-triple-hoja-4-uni-x-30mt/p",
-   "referencia": 6500.0,
-   "precio_2da": 6729.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.0,
-   "score": 1682,
-   "pr": {
-    "Jumbo": [
-     3900.0,
-     "https://www.jumbo.com.ar/papel-higienico-triple-hoja-4-uni-x-30mt/p"
+     5990.0,
+     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
     ],
     "ChangoMás": [
-     6999.0,
-     "https://www.masonline.com.ar/papel-higienico-elegante-4x30mts-2/p"
-    ],
-    "Carrefour": [
-     6729.0,
-     "https://www.carrefour.com.ar/papel-higienico-elegante-triple-hoja-4-u/p"
+     2939.5,
+     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
     ]
    }
   },
   {
-   "n": "Pasta Dental Colgate Smiles Barbie 100 g.",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/805730/7509546003122_01.jpg?v=639081619979000000",
+   "n": "Vino Tinto Trapiche Fond De Cave Reserva Malbec 750 Cc",
+   "m": "FOND DE CAVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581055/Vino-Tinto-Trapiche-Fond-De-Cave-Reserva-Malbec-750-Cc-1-11393.jpg?v=637225176280300000",
+   "cadena": "ChangoMás",
+   "precio": 7479.5,
+   "link": "https://www.masonline.com.ar/vino-malbec-fond-de-cave-reserva-750-cc-2/p",
+   "referencia": 14959.0,
+   "precio_2da": 11662.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.9,
+   "score": 1793,
+   "pr": {
+    "Vea": [
+     15390.0,
+     "https://www.vea.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p"
+    ],
+    "Jumbo": [
+     11662.5,
+     "https://www.jumbo.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p"
+    ],
+    "Carrefour": [
+     14389.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-reserva-750-cc/p"
+    ],
+    "ChangoMás": [
+     7479.5,
+     "https://www.masonline.com.ar/vino-malbec-fond-de-cave-reserva-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta Dental Smiles Barbie 100 Grs Colgate",
+   "m": "COLGATE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/893862/7509546003122_04.jpg?v=639016001352930000",
    "cadena": "Jumbo",
    "precio": 3465.0,
    "link": "https://www.jumbo.com.ar/pasta-dental-smiles-barbie-100-grs-colgate/p",
    "referencia": 6300.0,
-   "precio_2da": 5529.0,
+   "precio_2da": 5749.0,
    "baja_pct": 45.0,
-   "brecha_pct": 37.3,
-   "score": 1680,
+   "brecha_pct": 39.7,
+   "score": 1788,
    "pr": {
-    "Carrefour": [
-     5529.0,
-     "https://www.carrefour.com.ar/pasta-dental-colgate-smiles-barbie-100-g-464080/p"
-    ],
     "Jumbo": [
      3465.0,
      "https://www.jumbo.com.ar/pasta-dental-smiles-barbie-100-grs-colgate/p"
@@ -1492,296 +791,315 @@
     "Comodín": [
      6201.59,
      "https://www.comodinencasa.com.ar/crema-dental-colgate-smiles-barbie-100gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Espumante Navarro Correas Extra Brut 750 Cc",
-   "m": "NAVARRO CORREAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/889486/12411448001.jpg?v=638978577828700000",
-   "cadena": "Jumbo",
-   "precio": 9425.0,
-   "link": "https://www.jumbo.com.ar/champana-extra-brut-x-750-cc-navarro-correas/p",
-   "referencia": 18850.0,
-   "precio_2da": 14129.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.3,
-   "score": 1665,
-   "pr": {
-    "Vea": [
-     18390.0,
-     "https://www.vea.com.ar/champana-extra-brut-x-750-cc-navarro-correas/p"
-    ],
-    "Jumbo": [
-     9425.0,
-     "https://www.jumbo.com.ar/champana-extra-brut-x-750-cc-navarro-correas/p"
-    ],
-    "Carrefour": [
-     14129.0,
-     "https://www.carrefour.com.ar/espumante-extra-brut-navarro-correas-750-cc/p"
     ],
     "ChangoMás": [
-     16109.0,
-     "https://www.masonline.com.ar/vino-espumante-extra-brut-navarro-correas-750cc-2/p"
+     5749.0,
+     "https://www.masonline.com.ar/crema-dental-jr-barbie-colgate-100gr-2/p"
     ]
    }
   },
   {
-   "n": "Vino Tinto Malbec 750 Ml Finca Las Moras",
-   "m": "LAS MORAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581030/Vino-Tinto-Las-Moras-Malbec-750-Cc-1-3343.jpg?v=637225176170800000",
+   "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
    "cadena": "Jumbo",
-   "precio": 2875.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-las-moras-malbec-750-cc/p",
-   "referencia": 5750.0,
-   "precio_2da": 4281.75,
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
+   "referencia": 500.0,
+   "precio_2da": 389.0,
    "baja_pct": 50.0,
-   "brecha_pct": 32.9,
-   "score": 1643,
+   "brecha_pct": 35.7,
+   "score": 1787,
    "pr": {
     "Vea": [
-     5490.0,
-     "https://www.vea.com.ar/vino-tinto-las-moras-malbec-750-cc/p"
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
     ],
     "Jumbo": [
-     2875.0,
-     "https://www.jumbo.com.ar/vino-tinto-las-moras-malbec-750-cc/p"
-    ],
-    "Carrefour": [
-     5239.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-finca-las-moras-750-cc/p"
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
     ],
     "ChangoMás": [
-     4281.75,
-     "https://www.masonline.com.ar/vino-malbec-finca-las-moras-750-cc-2/p"
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
+    ],
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Colageno Y Vitamina C 190 Ml Sedal",
-   "m": "SEDAL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781228/Acondicionador-Sedal-Colageno-Y-Vitamina-C-190ml-1-957363.jpg?v=638193299664870000",
-   "cadena": "Vea",
-   "precio": 2520.0,
-   "link": "https://www.vea.com.ar/acondicionador-colageno-y-vitamina-c-190-ml-sedal/p",
-   "referencia": 4190.0,
-   "precio_2da": 4275.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 41.1,
-   "score": 1636,
+   "n": "Vino Chardonnay Fair For Life 750 Cc Finca Las Moras",
+   "m": "FINCA LAS MORAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915854/7791540054280 -002-.jpg?v=639154777591100000",
+   "cadena": "ChangoMás",
+   "precio": 3859.5,
+   "link": "https://www.masonline.com.ar/vino-tinto-finca-las-moras-fair-for-life-cabernet-sauvignon-750ml-2/p",
+   "referencia": 5789.25,
+   "precio_2da": 8290.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 53.4,
+   "score": 1781,
    "pr": {
     "Vea": [
-     2520.0,
-     "https://www.vea.com.ar/acondicionador-colageno-y-vitamina-c-190-ml-sedal/p"
-    ],
-    "ChangoMás": [
-     4449.0,
-     "https://www.masonline.com.ar/acondicionador-sedal-colageno-y-vit-c-190ml-2/p"
-    ],
-    "Carrefour": [
-     4275.0,
-     "https://www.carrefour.com.ar/acondicionador-sedal-colageno-y-vitamina-c-190-ml-715016/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Bon O Bon blanco 40 g",
-   "m": "Bon O Bon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/192345/7790040613607_01.jpg?v=637515947571100000",
-   "cadena": "Jumbo",
-   "precio": 700.0,
-   "link": "https://www.jumbo.com.ar/alfajores-bon-o-bon-blancos-40-gr/p",
-   "referencia": 1400.0,
-   "precio_2da": 1039.2,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.6,
-   "score": 1632,
-   "pr": {
-    "Carrefour": [
-     1279.0,
-     "https://www.carrefour.com.ar/alfajor-bon-o-bon-blanco-40-g-432017/p"
-    ],
-    "Vea": [
-     1290.0,
-     "https://www.vea.com.ar/alfajores-bon-o-bon-blancos-40-gr/p"
+     8290.0,
+     "https://www.vea.com.ar/vino-chardonnay-fair-for-life-750-cc-finca-las-moras/p"
     ],
     "Jumbo": [
-     700.0,
-     "https://www.jumbo.com.ar/alfajores-bon-o-bon-blancos-40-gr/p"
+     8600.0,
+     "https://www.jumbo.com.ar/vino-chardonnay-fair-for-life-750-cc-finca-las-moras/p"
+    ],
+    "ChangoMás": [
+     3859.5,
+     "https://www.masonline.com.ar/vino-tinto-finca-las-moras-fair-for-life-cabernet-sauvignon-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Yerba mate Amanda tradicional 1 kg.",
+   "m": "Amanda",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/782861/7792710000175_01.jpg?v=639016566112270000",
+   "cadena": "ChangoMás",
+   "precio": 2499.0,
+   "link": "https://www.masonline.com.ar/yarba-mate-amanda-con-palo-x-1-kg-2/p",
+   "referencia": 5289.0,
+   "precio_2da": 3740.0,
+   "baja_pct": 52.8,
+   "brecha_pct": 33.2,
+   "score": 1750,
+   "pr": {
+    "Carrefour": [
+     3740.0,
+     "https://www.carrefour.com.ar/yerba-mate-amanda-tradicional-1-kg/p"
     ],
     "Comodín": [
-     1039.2,
-     "https://www.comodinencasa.com.ar/alfajor-bon-o-bon-blanco-x-40-gr-2/p"
+     4300.39,
+     "https://www.comodinencasa.com.ar/yerba-amanda-1kg/p"
     ],
     "ChangoMás": [
-     1459.0,
-     "https://www.masonline.com.ar/alfajor-chocolate-blanco-bon-o-bon-40-gr-2/p"
+     2499.0,
+     "https://www.masonline.com.ar/yarba-mate-amanda-con-palo-x-1-kg-2/p"
     ]
    }
   },
   {
-   "n": "Alfajor blanco Entre Dos estuche x6",
-   "m": "Entre Dos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915645/714604060505_E02.jpg?v=639227413503470000",
+   "n": "Jugo en Polvo Sabor Manzana 15 Grs Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/843618/Jugo-En-Polvo-Arcor-Manzana-15gr-1-1028014.jpg?v=638658132369800000",
    "cadena": "Jumbo",
-   "precio": 3725.0,
-   "link": "https://www.jumbo.com.ar/alfajores-blancos-entre-dos-dulce-de-leche-270-gr/p",
-   "referencia": 7450.0,
-   "precio_2da": 5485.0,
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p",
+   "referencia": 500.0,
+   "precio_2da": 377.0,
    "baja_pct": 50.0,
-   "brecha_pct": 32.1,
-   "score": 1604,
+   "brecha_pct": 33.7,
+   "score": 1684,
    "pr": {
-    "Carrefour": [
-     5485.0,
-     "https://www.carrefour.com.ar/alfajor-blanco-entre-dos-estuche-x6-753429/p"
-    ],
     "Vea": [
-     7050.0,
-     "https://www.vea.com.ar/alfajores-blancos-entre-dos-dulce-de-leche-270-gr/p"
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
     ],
     "Jumbo": [
-     3725.0,
-     "https://www.jumbo.com.ar/alfajores-blancos-entre-dos-dulce-de-leche-270-gr/p"
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
+    ],
+    "Carrefour": [
+     377.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
     ]
    }
   },
   {
-   "n": "Yogur Descremado Tregar Vainilla 125g",
-   "m": "TREGAR",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/776289/Yogur-Descremado-Vainilla-Tregar-125g-1-950213.jpg?v=638167377852530000",
-   "cadena": "Jumbo",
-   "precio": 690.0,
-   "link": "https://www.jumbo.com.ar/yogur-descremado-tregar-vainilla-125g/p",
-   "referencia": 1150.0,
-   "precio_2da": 1150.0,
+   "n": "Nachos sabor a queso Doritos 200 g.",
+   "m": "Doritos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904460/7790310985571_E01.jpg?v=639199033551530000",
+   "cadena": "Carrefour",
+   "precio": 5465.4,
+   "link": "https://www.carrefour.com.ar/nachos-sabor-a-queso-doritos-200-g-721960/p",
+   "referencia": 9109.0,
+   "precio_2da": 9109.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
-    "Jumbo": [
-     690.0,
-     "https://www.jumbo.com.ar/yogur-descremado-tregar-vainilla-125g/p"
-    ],
-    "ChangoMás": [
-     1159.0,
-     "https://www.masonline.com.ar/yogur-tregar-descremado-de-vainilla-125g-2/p"
-    ],
     "Carrefour": [
-     1150.0,
-     "https://www.carrefour.com.ar/yogur-descremado-firme-tregar-de-vainilla-125-g-718161/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pro-v Miracles Detox Limpia y Purifica 750 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/837446/Shampoo-Pantene-Pro-v-Miracles-Detox-Limpia-Purifica-750-Ml-1-978395.jpg?v=638641821787170000",
-   "cadena": "Jumbo",
-   "precio": 10860.0,
-   "link": "https://www.jumbo.com.ar/shampoo-pro-v-miracles-detox-limpia-purifica-750-ml-pantene/p",
-   "referencia": 18100.0,
-   "precio_2da": 18013.89,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.7,
-   "score": 1589,
-   "pr": {
-    "Jumbo": [
-     10860.0,
-     "https://www.jumbo.com.ar/shampoo-pro-v-miracles-detox-limpia-purifica-750-ml-pantene/p"
+     5465.4,
+     "https://www.carrefour.com.ar/nachos-sabor-a-queso-doritos-200-g-721960/p"
     ],
     "Comodín": [
-     18013.89,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-detox-750m/p"
+     9396.39,
+     "https://www.comodinencasa.com.ar/doritos-queso-200-gr/p"
     ],
     "ChangoMás": [
-     19399.0,
-     "https://www.masonline.com.ar/shampoo-pantene-detox-750ml-2/p"
-    ],
-    "Carrefour": [
-     18649.0,
-     "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-shampoo-detox-750-ml-723891/p"
+     9109.0,
+     "https://www.masonline.com.ar/doritos-sabor-queso-200g-2/p"
     ]
    }
   },
   {
-   "n": "Galletitas Macucas Rellenas 85g",
-   "m": "MACUCAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830815/Galletitas-Macucas-Rellenas-85g-1-1021887.jpg?v=638588146715900000",
-   "cadena": "Carrefour",
-   "precio": 520.0,
-   "link": "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-85-g-744854/p",
-   "referencia": 800.0,
-   "precio_2da": 950.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.3,
-   "score": 1584,
-   "pr": {
-    "Vea": [
-     950.0,
-     "https://www.vea.com.ar/galletitas-macucas-rellenas-85g/p"
-    ],
-    "Jumbo": [
-     1000.0,
-     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-85g/p"
-    ],
-    "Carrefour": [
-     520.0,
-     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-85-g-744854/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Elvive RT Extreme 200 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922679/7509552791365_01.jpg?v=639239565436600000",
-   "cadena": "Jumbo",
-   "precio": 4890.0,
-   "link": "https://www.jumbo.com.ar/shampoo-elvive-reparacion-extreme-200-ml/p",
-   "referencia": 8150.0,
-   "precio_2da": 7990.0,
+   "n": "Vodka Absolut raspberri botella 700 cc.",
+   "m": "Absolut",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821069/7312040350056_01.jpg?v=639083181331170000",
+   "cadena": "Vea",
+   "precio": 19014.0,
+   "link": "https://www.vea.com.ar/vodka-absolut-raspberri-700-ml-2/p",
+   "referencia": 31690.0,
+   "precio_2da": 31690.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.8,
-   "score": 1552,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
     "Carrefour": [
-     7990.0,
-     "https://www.carrefour.com.ar/shampoo-elvive-rt-extreme-200-ml-726163/p"
+     31690.0,
+     "https://www.carrefour.com.ar/vodka-absolut-raspberri-botella-700-cc-697601/p"
     ],
-    "Jumbo": [
-     4890.0,
-     "https://www.jumbo.com.ar/shampoo-elvive-reparacion-extreme-200-ml/p"
+    "Vea": [
+     19014.0,
+     "https://www.vea.com.ar/vodka-absolut-raspberri-700-ml-2/p"
     ],
     "ChangoMás": [
-     8309.0,
-     "https://www.masonline.com.ar/shampoo-elvive-reparacion-total-5-extreme-200-cc-2/p"
+     31799.0,
+     "https://www.masonline.com.ar/vodka-raspberri-absolut-700-cc-2/p"
     ]
    }
   },
   {
-   "n": "Alfajor triple blanco Shot 60 grs",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882367/7622202816437_E01.jpg?v=639155719507670000",
-   "cadena": "Jumbo",
-   "precio": 1150.0,
-   "link": "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p",
-   "referencia": 1725.0,
-   "precio_2da": 2119.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 45.7,
-   "score": 1524,
+   "n": "Whisky importado Ballantines finest 1 l.",
+   "m": "Ballantines",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821023/5010106111925_01.jpg?v=639083181323970000",
+   "cadena": "Vea",
+   "precio": 29520.0,
+   "link": "https://www.vea.com.ar/whisky-ballantines-finest-1-l/p",
+   "referencia": 49200.0,
+   "precio_2da": 49119.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.9,
+   "score": 1596,
    "pr": {
     "Carrefour": [
-     2119.0,
-     "https://www.carrefour.com.ar/alfajor-triple-blanco-shot-60-grs-773811/p"
+     49119.0,
+     "https://www.carrefour.com.ar/whisky-importado-ballantines-finest-1-l/p"
     ],
-    "Jumbo": [
-     1150.0,
-     "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
+    "Vea": [
+     29520.0,
+     "https://www.vea.com.ar/whisky-ballantines-finest-1-l/p"
     ],
     "ChangoMás": [
-     2239.0,
-     "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
+     49119.0,
+     "https://www.masonline.com.ar/whisky-finest-ballantines-1-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Gin Sabor Pink Strawberry 700 Ml Beefeater",
+   "m": "BEEFEATER",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/550224/Gin-Beefeater-Pink-700ml-1-475123.jpg?v=637056691448670000",
+   "cadena": "Jumbo",
+   "precio": 23550.0,
+   "link": "https://www.jumbo.com.ar/gin-beefeater-pink-700-ml/p",
+   "referencia": 39250.0,
+   "precio_2da": 38859.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.4,
+   "score": 1576,
+   "pr": {
+    "Jumbo": [
+     23550.0,
+     "https://www.jumbo.com.ar/gin-beefeater-pink-700-ml/p"
+    ],
+    "ChangoMás": [
+     38859.0,
+     "https://www.masonline.com.ar/gin-beefeater-pink-700cc-2/p"
+    ],
+    "Carrefour": [
+     38859.0,
+     "https://www.carrefour.com.ar/gin-beefeater-london-pink-700-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Whisky Chivas Regal importado 12 años 700 cc.",
+   "m": "Chivas Regal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823739/80432402931_01.jpg?v=639083182089330000",
+   "cadena": "Vea",
+   "precio": 42720.0,
+   "link": "https://www.vea.com.ar/whisky-chivas-12-700-ml/p",
+   "referencia": 71200.0,
+   "precio_2da": 70119.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1563,
+   "pr": {
+    "Carrefour": [
+     70119.0,
+     "https://www.carrefour.com.ar/whisky-chivas-regal-importado-12-anos-700-cc-697600/p"
+    ],
+    "Vea": [
+     42720.0,
+     "https://www.vea.com.ar/whisky-chivas-12-700-ml/p"
+    ],
+    "ChangoMás": [
+     70119.0,
+     "https://www.masonline.com.ar/whisky-chicas-regal-12-700-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Rosado Dulce Blend 750 Cc Finca Las Moras",
+   "m": "FINCA LAS MORAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/766989/Vino-Finca-Las-Moras-Rosado-Dulce-750cc-1-46134.jpg?v=638108949797670000",
+   "cadena": "ChangoMás",
+   "precio": 2854.5,
+   "link": "https://www.masonline.com.ar/vino-rosado-dulce-finca-las-moras-750-cc-2/p",
+   "referencia": 4281.75,
+   "precio_2da": 5289.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 46.0,
+   "score": 1534,
+   "pr": {
+    "Jumbo": [
+     5900.0,
+     "https://www.jumbo.com.ar/vino-finca-las-moras-rosado-dulce-750cc/p"
+    ],
+    "Carrefour": [
+     5289.0,
+     "https://www.carrefour.com.ar/vino-rosado-dulce-finca-las-moras-750-ml-586185/p"
+    ],
+    "ChangoMás": [
+     2854.5,
+     "https://www.masonline.com.ar/vino-rosado-dulce-finca-las-moras-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo dental indicator clásico Oral B x 3 uni",
+   "m": "Oral B",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/221765/7500435153393_01.jpg?v=637705140716300000",
+   "cadena": "Jumbo",
+   "precio": 8850.0,
+   "link": "https://www.jumbo.com.ar/cepillo-oral-b-indicator-medio-x3/p",
+   "referencia": 14750.0,
+   "precio_2da": 14290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1523,
+   "pr": {
+    "Carrefour": [
+     14290.0,
+     "https://www.carrefour.com.ar/cepillo-dental-indicator-clasico-oral-b-x-3-uni/p"
+    ],
+    "Vea": [
+     14290.0,
+     "https://www.vea.com.ar/cepillo-oral-b-indicator-medio-x3/p"
+    ],
+    "Jumbo": [
+     8850.0,
+     "https://www.jumbo.com.ar/cepillo-oral-b-indicator-medio-x3/p"
     ]
    }
   },
@@ -1799,7 +1117,7 @@
    "score": 1517,
    "pr": {
     "Carrefour": [
-     2100.0,
+     2249.0,
      "https://www.carrefour.com.ar/mayonesa-danica-dp-500-g-722816/p"
     ],
     "Vea": [
@@ -1817,60 +1135,56 @@
    }
   },
   {
-   "n": "Shampoo Lava Coche Silisur Siliconado Manzana X 600cc",
-   "m": "SILISUR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/193350/Silisur-Shampoo-Siliconado-Manzana-600-C-Shampoo-Siliconado-De-Manzana-Silsur-600-Cc-1-29706.jpg?v=636383542545700000",
-   "cadena": "Carrefour",
-   "precio": 6799.0,
-   "link": "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p",
-   "referencia": 12999.0,
-   "precio_2da": 9966.39,
-   "baja_pct": 47.7,
-   "brecha_pct": 31.8,
-   "score": 1516,
+   "n": "Vodka Sernova Candy Glow en botella 700 ml",
+   "m": "Sernova",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822169/7790290101787_02.jpg?v=639083181693370000",
+   "cadena": "Vea",
+   "precio": 8040.0,
+   "link": "https://www.vea.com.ar/vodka-candy-glow-x-700-cc-sernova/p",
+   "referencia": 13400.0,
+   "precio_2da": 12937.6,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.9,
+   "score": 1514,
    "pr": {
+    "Carrefour": [
+     13800.0,
+     "https://www.carrefour.com.ar/vodka-sernova-candy-glow-en-botella-700-ml-767310/p"
+    ],
     "Vea": [
-     12490.0,
-     "https://www.vea.com.ar/shampoo-lava-coche-silisur-siliconado-manzana-x-600cc/p"
+     8040.0,
+     "https://www.vea.com.ar/vodka-candy-glow-x-700-cc-sernova/p"
     ],
     "Comodín": [
-     9966.39,
-     "https://www.comodinencasa.com.ar/shampoo-siliconado-silisur-manzana-600cc/p"
-    ],
-    "ChangoMás": [
-     11049.15,
-     "https://www.masonline.com.ar/shampoo-silisur-siliconado-frag-manzana-x-600-cc-2/p"
-    ],
-    "Carrefour": [
-     6799.0,
-     "https://www.carrefour.com.ar/lava-autos-silisur-con-silicona-600-cc/p"
+     12937.6,
+     "https://www.comodinencasa.com.ar/vodka-sernova-candy-glow-700-cc/p"
     ]
    }
   },
   {
-   "n": "Bocaditos de pollo Patitas sabor cheddar fp 400 grs",
-   "m": "Patitas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845713/7790070035714_E01.jpg?v=639111816465770000",
+   "n": "Shampoo Fructis Hydraliss 350ml",
+   "m": "FRUCTIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906397/Shampoo-Fructis-Hydraliss-350ml-1-989541.jpg?v=639123826783400000",
    "cadena": "Vea",
-   "precio": 5394.0,
-   "link": "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-con-cheddar-x-400-gr/p",
+   "precio": 5160.0,
+   "link": "https://www.vea.com.ar/shampoo-fructis-hydraliss-350ml/p",
    "referencia": 8990.0,
-   "precio_2da": 8639.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1502,
+   "precio_2da": 7990.0,
+   "baja_pct": 42.6,
+   "brecha_pct": 35.4,
+   "score": 1509,
    "pr": {
-    "Carrefour": [
-     8639.0,
-     "https://www.carrefour.com.ar/bocaditos-de-pollo-patitas-sabor-cheddar-fd-400-grs-747511/p"
-    ],
     "Vea": [
-     5394.0,
-     "https://www.vea.com.ar/patitas-de-pollo-granja-del-sol-con-cheddar-x-400-gr/p"
+     5160.0,
+     "https://www.vea.com.ar/shampoo-fructis-hydraliss-350ml/p"
     ],
     "ChangoMás": [
-     8639.0,
-     "https://www.masonline.com.ar/patitas-de-pollo-con-cheddar-400-g/p"
+     9349.0,
+     "https://www.masonline.com.ar/shampoo-fructis-hydra-liss-350ml-2/p"
+    ],
+    "Carrefour": [
+     7990.0,
+     "https://www.carrefour.com.ar/shampoo-fructis-hydraliss-350-ml-723842/p"
     ]
    }
   },
