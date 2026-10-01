@@ -1,6 +1,6 @@
 {
- "fecha": "2026-09-30",
- "actualizado": "2026-09-30 16:53",
+ "fecha": "2026-10-01",
+ "actualizado": "2026-10-01 12:52",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-20",
   "2026-09-21",
   "2026-09-22",
   "2026-09-23",
@@ -17,65 +16,39 @@
   "2026-09-26",
   "2026-09-27",
   "2026-09-28",
-  "2026-09-30"
+  "2026-09-30",
+  "2026-10-01"
  ],
- "total": 42,
+ "total": 111,
  "ofertas": [
   {
-   "n": "Sabor en Polvo Sabor Crema y Verdeo 4 Un 30 Grs Alicante",
-   "m": "ALICANTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915071/Sabor-En-Polvo-Crema-Verdeo-En-Sobres-4-Un-Alicante-1-1058617.jpg?v=639143913693330000",
-   "cadena": "Vea",
-   "precio": 775.0,
-   "link": "https://www.vea.com.ar/sabor-en-polvo-crema-verdeo-en-sobres-4-un-alicante-2/p",
-   "referencia": 1550.0,
-   "precio_2da": 1699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 54.4,
-   "score": 2719,
+   "n": "Galletitas clásicas Traviata x5 108 g",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929673/7790040144095_E02.jpg?v=639246504106430000",
+   "cadena": "Jumbo",
+   "precio": 1454.5,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p",
+   "referencia": 3346.0,
+   "precio_2da": 2890.0,
+   "baja_pct": 56.5,
+   "brecha_pct": 49.7,
+   "score": 2808,
    "pr": {
-    "Vea": [
-     775.0,
-     "https://www.vea.com.ar/sabor-en-polvo-crema-verdeo-en-sobres-4-un-alicante-2/p"
+    "Carrefour": [
+     2909.0,
+     "https://www.carrefour.com.ar/galletitas-clasicas-traviata-x5-108-g-737518/p"
     ],
-    "Comodín": [
-     2218.39,
-     "https://www.comodinencasa.com.ar/caldo-sab-alicante-crema-y-verdeo-4-sob/p"
+    "Vea": [
+     2890.0,
+     "https://www.vea.com.ar/galletitas-traviata-x540g-2/p"
+    ],
+    "Jumbo": [
+     1454.5,
+     "https://www.jumbo.com.ar/galletitas-traviata-x540g-2/p"
     ],
     "ChangoMás": [
-     1699.0,
-     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-crema-verdeo-30-gr-2/p"
-    ],
-    "Carrefour": [
-     1699.0,
-     "https://www.carrefour.com.ar/saborizador-crema-verdeo-alicante-sobres-4-uni/p"
-    ]
-   }
-  },
-  {
-   "n": "Saborizador sabor 4 Quesos x 4 Un 30 Grs Alicante",
-   "m": "ALICANTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/687322/Saborizador-Alicante-4q-4s-1-876394.jpg?v=637795857823200000",
-   "cadena": "Vea",
-   "precio": 775.0,
-   "link": "https://www.vea.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p",
-   "referencia": 1550.0,
-   "precio_2da": 1629.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 52.4,
-   "score": 2621,
-   "pr": {
-    "Vea": [
-     775.0,
-     "https://www.vea.com.ar/saborizador-4-quesos-en-sobres-4-un-alicante/p"
-    ],
-    "ChangoMás": [
-     1699.0,
-     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-4-quesos-30-gr-2/p"
-    ],
-    "Carrefour": [
-     1629.0,
-     "https://www.carrefour.com.ar/saborizador-4-quesos-alicante-sobre-x-4-uni/p"
+     2909.0,
+     "https://www.masonline.com.ar/galletitas-de-agua-traviata-540-g-pack-5u-2/p"
     ]
    }
   },
@@ -107,145 +80,377 @@
    }
   },
   {
-   "n": "Vino Blanco Dulce Blend 750 Cc Canciller",
-   "m": "CANCILLER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822759/Vino-Canciller-Blend-Blanco-Dulce-750cc-5-1-1008808.jpg?v=638508243246870000",
-   "cadena": "ChangoMás",
-   "precio": 1704.5,
-   "link": "https://www.masonline.com.ar/vino-blanco-canciller-blend-v-dulce-750-ml-2/p",
-   "referencia": 3409.0,
-   "precio_2da": 3445.0,
+   "n": "Mini tostadas de jamón ibérico Twistos 155 g.",
+   "m": "Twistos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939704/7790310984475_E01.jpg?v=639258619776670000",
+   "cadena": "Jumbo",
+   "precio": 2775.0,
+   "link": "https://www.jumbo.com.ar/mini-tostadas-de-jamon-iberico-twistos-x-155-gr/p",
+   "referencia": 5550.0,
+   "precio_2da": 5590.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2526,
+   "brecha_pct": 50.4,
+   "score": 2518,
    "pr": {
-    "Vea": [
-     3490.0,
-     "https://www.vea.com.ar/vino-blanco-dulce-canciller-blend/p"
+    "Carrefour": [
+     5590.0,
+     "https://www.carrefour.com.ar/mini-tostaditas-de-jamon-iberico-twistos-155-g-678682/p"
     ],
     "Jumbo": [
-     3600.0,
-     "https://www.jumbo.com.ar/vino-blanco-dulce-canciller-blend/p"
-    ],
-    "Carrefour": [
-     3445.0,
-     "https://www.carrefour.com.ar/vino-blanco-dulce-blend-canciller-v-en-botella-750-cc/p"
+     2775.0,
+     "https://www.jumbo.com.ar/mini-tostadas-de-jamon-iberico-twistos-x-155-gr/p"
     ],
     "ChangoMás": [
-     1704.5,
-     "https://www.masonline.com.ar/vino-blanco-canciller-blend-v-dulce-750-ml-2/p"
+     5619.0,
+     "https://www.masonline.com.ar/snack-jamon-twistos-155-gr-2/p"
     ]
    }
   },
   {
-   "n": "Aperitivo cocktail con alcohol rose Emilia en botella 750 cc.",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823259/7790070764027_02.jpg?v=639083181989670000",
-   "cadena": "ChangoMás",
-   "precio": 5499.5,
-   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p",
-   "referencia": 10999.0,
-   "precio_2da": 11109.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.5,
-   "score": 2525,
-   "pr": {
-    "Carrefour": [
-     11109.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746900/p"
-    ],
-    "Jumbo": [
-     11550.0,
-     "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     5499.5,
-     "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Cc Perro Callejero",
-   "m": "PERRO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/829140/Vino-Perro-Callejero-Cabernet-Sauvignon-750-Cc-1-1021295.jpg?v=638578750978970000",
-   "cadena": "ChangoMás",
-   "precio": 5149.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-perro-callejero-cabernet-sauvignon/p",
-   "referencia": 10299.0,
-   "precio_2da": 10300.0,
+   "n": "Vino tinto Cabernet Malbec Rutini 750 ml",
+   "m": "Rutini",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299770/7790577001663_01.jpg?v=639059919256170000",
+   "cadena": "Jumbo",
+   "precio": 9850.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-rutini-cabernet-malbec-750-cc/p",
+   "referencia": 19700.0,
+   "precio_2da": 19700.0,
    "baja_pct": 50.0,
    "brecha_pct": 50.0,
    "score": 2500,
    "pr": {
+    "Carrefour": [
+     19895.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-malbec-rutini-750-ml-151277/p"
+    ],
     "Vea": [
-     10300.0,
-     "https://www.vea.com.ar/vino-perro-callejero-cabernet-sauvignon-750-cc/p"
+     19700.0,
+     "https://www.vea.com.ar/vino-tinto-rutini-cabernet-malbec-750-cc/p"
     ],
     "Jumbo": [
-     10700.0,
-     "https://www.jumbo.com.ar/vino-perro-callejero-cabernet-sauvignon-750-cc/p"
-    ],
-    "ChangoMás": [
-     5149.5,
-     "https://www.masonline.com.ar/vino-tinto-perro-callejero-cabernet-sauvignon/p"
-    ],
-    "Carrefour": [
-     10399.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-perro-callejero-en-botella-750-cc-748289/p"
+     9850.0,
+     "https://www.jumbo.com.ar/vino-tinto-rutini-cabernet-malbec-750-cc/p"
     ]
    }
   },
   {
-   "n": "Caldo Knorr de verdura Balance 12 uni",
-   "m": "Knorr",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900895/7794000008519_E01.jpg?v=639191330252570000",
+   "n": "Galletitas Saladas Sabor Queso 250 Grs Kesitas",
+   "m": "KESITAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/827539/Galletitas-Kesitas-250-Gr-1-1019773.jpg?v=638558014916870000",
    "cadena": "Jumbo",
    "precio": 1750.0,
-   "link": "https://www.jumbo.com.ar/caldo-de-verduras-balance-en-cubos-12-un-knorr/p",
+   "link": "https://www.jumbo.com.ar/galletitas-kesitas-250-gr/p",
    "referencia": 3500.0,
-   "precio_2da": 3399.0,
+   "precio_2da": 3479.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.5,
-   "score": 2426,
+   "brecha_pct": 49.7,
+   "score": 2485,
    "pr": {
-    "Carrefour": [
-     3399.0,
-     "https://www.carrefour.com.ar/caldo-knorr-de-verdura-balance-12-uni-737141/p"
-    ],
     "Jumbo": [
      1750.0,
-     "https://www.jumbo.com.ar/caldo-de-verduras-balance-en-cubos-12-un-knorr/p"
+     "https://www.jumbo.com.ar/galletitas-kesitas-250-gr/p"
     ],
     "ChangoMás": [
-     3409.0,
-     "https://www.masonline.com.ar/caldo-knorr-balance-de-verduras-114-g-12u-2-2/p"
+     3479.0,
+     "https://www.masonline.com.ar/galletitas-snacks-kesitas-queso-250-g-2/p"
+    ],
+    "Carrefour": [
+     3629.0,
+     "https://www.carrefour.com.ar/galletitas-sabor-queso-kesitas-en-estuche-250-g-745253/p"
     ]
    }
   },
   {
-   "n": "Caldo Knorr de gallina deshidratado Balance 12 cubos",
-   "m": "Knorr",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900896/7794000008526_E01.jpg?v=639191330471930000",
-   "cadena": "Vea",
-   "precio": 1695.0,
-   "link": "https://www.vea.com.ar/caldo-de-gallina-balance-en-cubos-12-un-knorr/p",
-   "referencia": 3390.0,
-   "precio_2da": 3279.0,
+   "n": "Galletitas Smams con chips sin TACC 150 g.",
+   "m": "Smams",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/920660/7798181511004_02.jpg?v=639234545799900000",
+   "cadena": "Jumbo",
+   "precio": 2150.0,
+   "link": "https://www.jumbo.com.ar/galletitas-con-chips-de-chocolate-sin-gluten-x-150-gr-smams/p",
+   "referencia": 4300.0,
+   "precio_2da": 4199.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2415,
+   "brecha_pct": 48.8,
+   "score": 2440,
    "pr": {
     "Carrefour": [
-     3390.0,
-     "https://www.carrefour.com.ar/caldo-knorr-de-gallina-deshidratado-balance-12-cubos-737142/p"
+     4199.0,
+     "https://www.carrefour.com.ar/galletitas-smams-con-chips-sin-tacc-150-g/p"
     ],
-    "Vea": [
-     1695.0,
-     "https://www.vea.com.ar/caldo-de-gallina-balance-en-cubos-12-un-knorr/p"
+    "Jumbo": [
+     2150.0,
+     "https://www.jumbo.com.ar/galletitas-con-chips-de-chocolate-sin-gluten-x-150-gr-smams/p"
     ],
     "ChangoMás": [
-     3279.0,
-     "https://www.masonline.com.ar/caldo-knorr-sabor-gallina-deshidratado-114-g-12u-2/p"
+     4199.0,
+     "https://www.masonline.com.ar/galletitas-smams-c-chips-de-chocolate-150g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Chardonnay 750 Cc Puramun",
+   "m": "PURAMUN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788656/Vino-Puramun-Chardonnay-1-889175.jpg?v=638254641757400000",
+   "cadena": "Jumbo",
+   "precio": 7975.0,
+   "link": "https://www.jumbo.com.ar/vino-chardonnay-750-cc-puramun/p",
+   "referencia": 15950.0,
+   "precio_2da": 15449.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.4,
+   "score": 2419,
+   "pr": {
+    "Vea": [
+     15490.0,
+     "https://www.vea.com.ar/vino-chardonnay-750-cc-puramun/p"
+    ],
+    "Jumbo": [
+     7975.0,
+     "https://www.jumbo.com.ar/vino-chardonnay-750-cc-puramun/p"
+    ],
+    "Carrefour": [
+     15449.0,
+     "https://www.carrefour.com.ar/vino-blanco-resero-brick-1-lt-566932/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Pepas Sabor Vainilla y Membrillo 150 Grs Smams",
+   "m": "SMAMS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/650747/Galletitas-Smams-Con-Membrillo-X150gr-1-855293.jpg?v=637595826556030000",
+   "cadena": "Jumbo",
+   "precio": 1750.0,
+   "link": "https://www.jumbo.com.ar/galletitas-con-membrillo-150-gr-smams-2/p",
+   "referencia": 3500.0,
+   "precio_2da": 3390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.4,
+   "score": 2419,
+   "pr": {
+    "Jumbo": [
+     1750.0,
+     "https://www.jumbo.com.ar/galletitas-con-membrillo-150-gr-smams-2/p"
+    ],
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/pepas-sin-tacc-con-membrillo-smams-paquete-150-g/p"
+    ],
+    "ChangoMás": [
+     3449.0,
+     "https://www.masonline.com.ar/pepas-con-membrillo-smams-sin-tacc-150g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Blend 1125 Cc Canciller",
+   "m": "CANCILLER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/813394/Vino-Canciller-Blend-Tinto-1125cc-3-1-1008797.jpg?v=638441481996270000",
+   "cadena": "Jumbo",
+   "precio": 2175.0,
+   "link": "https://www.jumbo.com.ar/vino-canciller-blend-tinto-1125cc/p",
+   "referencia": 4350.0,
+   "precio_2da": 4210.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.3,
+   "score": 2417,
+   "pr": {
+    "Vea": [
+     4290.0,
+     "https://www.vea.com.ar/vino-canciller-blend-tinto-1125cc/p"
+    ],
+    "Jumbo": [
+     2175.0,
+     "https://www.jumbo.com.ar/vino-canciller-blend-tinto-1125cc/p"
+    ],
+    "Carrefour": [
+     4210.0,
+     "https://www.carrefour.com.ar/vino-tinto-blend-iii-canciller-en-botella-1125-cc-740439/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces rellenas de vainilla Amor 110 grs",
+   "m": "Amor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924190/7790040143531_E01.jpg?v=639240577221930000",
+   "cadena": "Jumbo",
+   "precio": 875.0,
+   "link": "https://www.jumbo.com.ar/galletitas-amor-x110g-2/p",
+   "referencia": 1750.0,
+   "precio_2da": 1690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.2,
+   "score": 2411,
+   "pr": {
+    "Carrefour": [
+     1690.0,
+     "https://www.carrefour.com.ar/galletitas-dulce-rellenas-de-vainilla-amor-110-grs-737507/p"
+    ],
+    "Vea": [
+     1690.0,
+     "https://www.vea.com.ar/galletitas-amor-x110g-2/p"
+    ],
+    "Jumbo": [
+     875.0,
+     "https://www.jumbo.com.ar/galletitas-amor-x110g-2/p"
+    ],
+    "ChangoMás": [
+     1759.0,
+     "https://www.masonline.com.ar/galletitas-dulces-amor-rellenas-sbaor-almendra-110-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Granix sin sal 600 grs",
+   "m": "Granix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860600/7790045827740_02.jpg?v=639128995738070000",
+   "cadena": "Jumbo",
+   "precio": 2825.0,
+   "link": "https://www.jumbo.com.ar/galletitas-sin-sal-tripack-x-600-gr-granix/p",
+   "referencia": 5650.0,
+   "precio_2da": 5450.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.2,
+   "score": 2408,
+   "pr": {
+    "Carrefour": [
+     5479.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-granix-sin-sal-600-grs-777730/p"
+    ],
+    "Vea": [
+     5450.0,
+     "https://www.vea.com.ar/galletitas-sin-sal-tripack-x-600-gr-granix/p"
+    ],
+    "Jumbo": [
+     2825.0,
+     "https://www.jumbo.com.ar/galletitas-sin-sal-tripack-x-600-gr-granix/p"
+    ],
+    "ChangoMás": [
+     5479.0,
+     "https://www.masonline.com.ar/galletitas-granix-sin-sal-3-en-1-600-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Mini Tostadas Twistos Queso 95 G",
+   "m": "TWISTOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/615373/Mini-Tostadas-Twistos-Queso-95g-1-856023.jpg?v=637418712459900000",
+   "cadena": "Jumbo",
+   "precio": 2050.0,
+   "link": "https://www.jumbo.com.ar/mini-tostadas-twistos-queso-95-g/p",
+   "referencia": 4100.0,
+   "precio_2da": 3938.49,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.9,
+   "score": 2397,
+   "pr": {
+    "Vea": [
+     3990.0,
+     "https://www.vea.com.ar/mini-tostadas-twistos-queso-95-g/p"
+    ],
+    "Jumbo": [
+     2050.0,
+     "https://www.jumbo.com.ar/mini-tostadas-twistos-queso-95-g/p"
+    ],
+    "Comodín": [
+     3938.49,
+     "https://www.comodinencasa.com.ar/mini-twistos-tostaditas-queso-95-gr-2/p"
+    ],
+    "Carrefour": [
+     3949.0,
+     "https://www.carrefour.com.ar/mini-tostaditas-twistos-sabor-queso-95-grs-671347/p"
+    ],
+    "ChangoMás": [
+     3949.0,
+     "https://www.masonline.com.ar/minitostaditas-twistos-cuatro-quesos-95-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Salvado Dulce 250 Grs Frutigran",
+   "m": "FRUTIGRAN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/539279/Galletitas-Frutigran-Salvado-Dulce-250-Gr-1-41475.jpg?v=636989736725900000",
+   "cadena": "Jumbo",
+   "precio": 1250.0,
+   "link": "https://www.jumbo.com.ar/galletitas-frutigran-salvado-dulce-250-gr/p",
+   "referencia": 2500.0,
+   "precio_2da": 2399.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.9,
+   "score": 2395,
+   "pr": {
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/galletitas-frutigran-salvado-dulce-250-gr/p"
+    ],
+    "Jumbo": [
+     1250.0,
+     "https://www.jumbo.com.ar/galletitas-frutigran-salvado-dulce-250-gr/p"
+    ],
+    "ChangoMás": [
+     2399.0,
+     "https://www.masonline.com.ar/galletitas-frutigran-salvado-granix-250-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas sandwich Traviata x3 324 grs",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929675/7790040144088_E01.jpg?v=639246505371600000",
+   "cadena": "Jumbo",
+   "precio": 1120.0,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p",
+   "referencia": 2196.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 49.0,
+   "brecha_pct": 48.9,
+   "score": 2394,
+   "pr": {
+    "Carrefour": [
+     2190.0,
+     "https://www.carrefour.com.ar/galletitas-sandwich-traviata-x3-324-grs-739531/p"
+    ],
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/galletitas-traviata-324-gr-2/p"
+    ],
+    "Jumbo": [
+     1120.0,
+     "https://www.jumbo.com.ar/galletitas-traviata-324-gr-2/p"
+    ],
+    "ChangoMás": [
+     2289.0,
+     "https://www.masonline.com.ar/galletitas-traviata-clasicas-324-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Semillas y Chips 207 Grs Cereal Mix",
+   "m": "CEREAL MIX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/698157/Galletas-Cereal-Mix-Semillas-chips-X207g-1-887760.jpg?v=637866922213730000",
+   "cadena": "Jumbo",
+   "precio": 1300.0,
+   "link": "https://www.jumbo.com.ar/galletas-cereal-mix-semillas-chips-x207g/p",
+   "referencia": 2600.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.8,
+   "score": 2390,
+   "pr": {
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/galletas-cereal-mix-semillas-chips-x207g/p"
+    ],
+    "Jumbo": [
+     1300.0,
+     "https://www.jumbo.com.ar/galletas-cereal-mix-semillas-chips-x207g/p"
+    ],
+    "Carrefour": [
+     2490.0,
+     "https://www.carrefour.com.ar/galletitas-cereal-mix-avena-semilla-frutilla-207-g-697574/p"
+    ],
+    "ChangoMás": [
+     2689.0,
+     "https://www.masonline.com.ar/galletitas-cereal-mix-semillas-y-chips-207g-2/p"
     ]
    }
   },
@@ -271,45 +476,1275 @@
      "https://www.jumbo.com.ar/margarina-danica-vegetal-200g/p"
     ],
     "ChangoMás": [
-     2819.0,
+     2929.0,
      "https://www.masonline.com.ar/margarina-danica-soft-light-100-vegetal-200-g-2/p"
     ]
    }
   },
   {
-   "n": "Saborizador finas hierbas Knorr bolsa para horno 21 grs",
-   "m": "Knorr",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900863/7794000009318_02.jpg?v=639191315935770000",
+   "n": "Galletitas Criollitas crackers x5 499 grs",
+   "m": "Criollitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318989/7790040139015_E01.jpg?v=638803341237200000",
    "cadena": "Jumbo",
-   "precio": 1875.0,
-   "link": "https://www.jumbo.com.ar/bolsa-de-horno-finas-hierbas-x-21-grs-knorr/p",
-   "referencia": 3750.0,
-   "precio_2da": 3559.0,
+   "precio": 1825.0,
+   "link": "https://www.jumbo.com.ar/galletitas-criollitas-499-gr-2/p",
+   "referencia": 3650.0,
+   "precio_2da": 3490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.7,
+   "score": 2385,
+   "pr": {
+    "Carrefour": [
+     3490.0,
+     "https://www.carrefour.com.ar/galletitas-criollitas-crackers-x5-499-grs-708531/p"
+    ],
+    "Vea": [
+     3490.0,
+     "https://www.vea.com.ar/galletitas-criollitas-499-gr-2/p"
+    ],
+    "Jumbo": [
+     1825.0,
+     "https://www.jumbo.com.ar/galletitas-criollitas-499-gr-2/p"
+    ],
+    "Comodín": [
+     3560.59,
+     "https://www.comodinencasa.com.ar/galleta-criollitas-original-5-x-100-gr/p"
+    ],
+    "ChangoMás": [
+     3519.0,
+     "https://www.masonline.com.ar/galletitas-crackers-criollitas-499gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas Sabor Jamón Ibérico 40 Grs Twistos",
+   "m": "TWISTOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/843659/Mini-Tostaditas-Twistos-Jamon-Ib-rico-40gr-1-1028188.jpg?v=638658132505000000",
+   "cadena": "Jumbo",
+   "precio": 1250.0,
+   "link": "https://www.jumbo.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p",
+   "referencia": 2500.0,
+   "precio_2da": 2390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.7,
+   "score": 2385,
+   "pr": {
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
+    ],
+    "Jumbo": [
+     1250.0,
+     "https://www.jumbo.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
+    ],
+    "ChangoMás": [
+     2399.0,
+     "https://www.masonline.com.ar/snack-jamon-twistos-40-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas sandwich Traviata 108 g",
+   "m": "Traviata",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929676/7790040144071_E01.jpg?v=639246505514670000",
+   "cadena": "Jumbo",
+   "precio": 450.0,
+   "link": "https://www.jumbo.com.ar/galletitas-traviata-108g/p",
+   "referencia": 900.0,
+   "precio_2da": 860.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.7,
+   "score": 2384,
+   "pr": {
+    "Carrefour": [
+     860.0,
+     "https://www.carrefour.com.ar/galletitas-sandwich-traviata-108-g-741032/p"
+    ],
+    "Vea": [
+     860.0,
+     "https://www.vea.com.ar/galletitas-traviata-108g/p"
+    ],
+    "Jumbo": [
+     450.0,
+     "https://www.jumbo.com.ar/galletitas-traviata-108g/p"
+    ],
+    "ChangoMás": [
+     869.0,
+     "https://www.masonline.com.ar/galletitas-traviata-sabor-original-108-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chocolate Baño Blanco 52 Grs Bonafide",
+   "m": "DONUTS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917647/Galletitas-Donuts-Blancas-52gr-1-1059236.jpg?v=639162057910030000",
+   "cadena": "Jumbo",
+   "precio": 675.0,
+   "link": "https://www.jumbo.com.ar/galletitas-donuts-blancas-52gr/p",
+   "referencia": 1350.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.7,
+   "score": 2384,
+   "pr": {
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/galletitas-donuts-blancas-52gr/p"
+    ],
+    "Jumbo": [
+     675.0,
+     "https://www.jumbo.com.ar/galletitas-donuts-blancas-52gr/p"
+    ],
+    "ChangoMás": [
+     2479.0,
+     "https://www.masonline.com.ar/galletitas-donuts-chocolate-blanco-52g-2/p"
+    ],
+    "Carrefour": [
+     1779.0,
+     "https://www.carrefour.com.ar/galletitas-bonafide-donuts-choco-blanco-52-grs-783367/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Granix salvado 240 g.",
+   "m": "Granix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929630/7790045826200_02.jpg?v=639246486081900000",
+   "cadena": "Jumbo",
+   "precio": 1100.0,
+   "link": "https://www.jumbo.com.ar/galletitas-salvado-granix-240-gr-2/p",
+   "referencia": 2200.0,
+   "precio_2da": 2100.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.6,
+   "score": 2381,
+   "pr": {
+    "Carrefour": [
+     2100.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-granix-salvado-240-g/p"
+    ],
+    "Vea": [
+     2100.0,
+     "https://www.vea.com.ar/galletitas-salvado-granix-240-gr-2/p"
+    ],
+    "Jumbo": [
+     1100.0,
+     "https://www.jumbo.com.ar/galletitas-salvado-granix-240-gr-2/p"
+    ],
+    "ChangoMás": [
+     2119.0,
+     "https://www.masonline.com.ar/galletitas-granix-salvado-240-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Snacks Sabor Clásica 144 Grs x 6 Un Club Social",
+   "m": "CLUB SOCIAL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885425/Galletitas-Originales-144Grs-Club-Social-Galletitas-Club-Social-Original-144g-1-1048893.jpg?v=638948650372400000",
+   "cadena": "Jumbo",
+   "precio": 1675.0,
+   "link": "https://www.jumbo.com.ar/galletitas-club-social-original-144g/p",
+   "referencia": 3350.0,
+   "precio_2da": 3190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.5,
+   "score": 2375,
+   "pr": {
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/galletitas-club-social-original-144g/p"
+    ],
+    "Jumbo": [
+     1675.0,
+     "https://www.jumbo.com.ar/galletitas-club-social-original-144g/p"
+    ],
+    "ChangoMás": [
+     3229.0,
+     "https://www.masonline.com.ar/galletitas-club-social-original-144-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec Reserva 750 Cc Santa Julia",
+   "m": "SANTA JULIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/800535/Vino-Santa-Julia-Rva-Malbec-750cc-1-1000062.jpg?v=638355731093900000",
+   "cadena": "Jumbo",
+   "precio": 5250.0,
+   "link": "https://www.jumbo.com.ar/vino-santa-julia-rva-malbec-750cc/p",
+   "referencia": 10500.0,
+   "precio_2da": 9999.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.5,
+   "score": 2375,
+   "pr": {
+    "Vea": [
+     10200.0,
+     "https://www.vea.com.ar/vino-santa-julia-rva-malbec-750cc/p"
+    ],
+    "Jumbo": [
+     5250.0,
+     "https://www.jumbo.com.ar/vino-santa-julia-rva-malbec-750cc/p"
+    ],
+    "Carrefour": [
+     10009.0,
+     "https://www.carrefour.com.ar/vino-tinto-santa-julia-reserva-malbec-en-botella-750-cc-730270/p"
+    ],
+    "ChangoMás": [
+     9999.0,
+     "https://www.masonline.com.ar/vino-tinto-santa-julia-reserva-malbec-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas De Agua Sandwich 200 Grs Granagua",
+   "m": "GRANAGUA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/650672/Galletitas-De-Agua-Granagua-200-Gr-1-6402.jpg?v=637595826340770000",
+   "cadena": "Jumbo",
+   "precio": 975.0,
+   "link": "https://www.jumbo.com.ar/galletitas-de-agua-granagua-200-gr/p",
+   "referencia": 1950.0,
+   "precio_2da": 1855.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.4,
+   "score": 2372,
+   "pr": {
+    "Vea": [
+     1890.0,
+     "https://www.vea.com.ar/galletitas-de-agua-granagua-200-gr/p"
+    ],
+    "Jumbo": [
+     975.0,
+     "https://www.jumbo.com.ar/galletitas-de-agua-granagua-200-gr/p"
+    ],
+    "ChangoMás": [
+     1869.0,
+     "https://www.masonline.com.ar/galletitas-granix-sandwich-granagua-200-g/p"
+    ],
+    "Carrefour": [
+     1855.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-granix-200-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Frutigran avena y pasas de uva 250 g.",
+   "m": "Granix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917642/7790045001188_02.jpg?v=639229281977700000",
+   "cadena": "Jumbo",
+   "precio": 1575.0,
+   "link": "https://www.jumbo.com.ar/galletitas-frutigran-avena-y-pasas-250-gr/p",
+   "referencia": 3150.0,
+   "precio_2da": 2990.0,
    "baja_pct": 50.0,
    "brecha_pct": 47.3,
    "score": 2366,
    "pr": {
     "Carrefour": [
-     3559.0,
-     "https://www.carrefour.com.ar/saborizador-finas-hierbas-knorr-bolsa-pra-horno-21-grs-772616/p"
+     3449.0,
+     "https://www.carrefour.com.ar/galletitas-frutigran-avena-y-pasas-de-uva-250-g/p"
+    ],
+    "Vea": [
+     2990.0,
+     "https://www.vea.com.ar/galletitas-frutigran-avena-y-pasas-250-gr/p"
     ],
     "Jumbo": [
-     1875.0,
-     "https://www.jumbo.com.ar/bolsa-de-horno-finas-hierbas-x-21-grs-knorr/p"
+     1575.0,
+     "https://www.jumbo.com.ar/galletitas-frutigran-avena-y-pasas-250-gr/p"
     ],
     "ChangoMás": [
-     3559.0,
-     "https://www.masonline.com.ar/bolsa-para-horno-knorr-finas-hierbas-21-g/p"
+     3029.0,
+     "https://www.masonline.com.ar/galletitas-frutigran-avena-y-pasas-granix-250-gr-2/p"
     ]
    }
   },
   {
-   "n": "Saborizador Sabor Finas Hierbas x 4 Un 30 Grs Alicante",
-   "m": "ALICANTE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/682254/Saborizador-Alicante-Fin-Hie-4s-1-876401.jpg?v=637759677764170000",
+   "n": "Galletitas de chocolate Macucas 110 g.",
+   "m": "Macucas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924229/7790040145337_E02.jpg?v=639240596275030000",
+   "cadena": "Jumbo",
+   "precio": 650.0,
+   "link": "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p",
+   "referencia": 1300.0,
+   "precio_2da": 1230.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.2,
+   "score": 2358,
+   "pr": {
+    "Carrefour": [
+     1230.0,
+     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/galletitas-macucas-rellenas-110g/p"
+    ],
+    "Jumbo": [
+     650.0,
+     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Bagley cracker cereal salvado x3 507 grs",
+   "m": "Bagley",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318916/7790040136243_E01.jpg?v=638791363924730000",
+   "cadena": "Jumbo",
+   "precio": 2425.0,
+   "link": "https://www.jumbo.com.ar/galletas-cereales-salvado-bagley-507-gr-2/p",
+   "referencia": 4850.0,
+   "precio_2da": 4590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.2,
+   "score": 2358,
+   "pr": {
+    "Carrefour": [
+     4590.0,
+     "https://www.carrefour.com.ar/galletitas-bagley-cracker-cereal-salvado-x3-507-grs-695632/p"
+    ],
+    "Vea": [
+     4590.0,
+     "https://www.vea.com.ar/galletas-cereales-salvado-bagley-507-gr-2/p"
+    ],
+    "Jumbo": [
+     2425.0,
+     "https://www.jumbo.com.ar/galletas-cereales-salvado-bagley-507-gr-2/p"
+    ],
+    "ChangoMás": [
+     4829.0,
+     "https://www.masonline.com.ar/galletitas-con-salvado-cereales-bagley-tripack-507g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas integral Bauducco 142 g.",
+   "m": "Bauducco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939698/7891962060460_E02.jpg?v=639258618310800000",
+   "cadena": "Jumbo",
+   "precio": 1475.0,
+   "link": "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p",
+   "referencia": 2950.0,
+   "precio_2da": 2790.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.1,
+   "score": 2357,
+   "pr": {
+    "Carrefour": [
+     2790.0,
+     "https://www.carrefour.com.ar/tostadas-integral-bauducco-142-g/p"
+    ],
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/tostada-bauducco-integral-142gr/p"
+    ],
+    "Jumbo": [
+     1475.0,
+     "https://www.jumbo.com.ar/tostada-bauducco-integral-142gr/p"
+    ],
+    "ChangoMás": [
+     2979.0,
+     "https://www.masonline.com.ar/tostadas-bauducco-integrales-142-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas Bauducco clásicas 142 g.",
+   "m": "Bauducco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939699/7891962060453_E02.jpg?v=639258618686470000",
+   "cadena": "Jumbo",
+   "precio": 1475.0,
+   "link": "https://www.jumbo.com.ar/tostada-bauducco-clasica-142gr/p",
+   "referencia": 2950.0,
+   "precio_2da": 2790.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.1,
+   "score": 2357,
+   "pr": {
+    "Carrefour": [
+     2790.0,
+     "https://www.carrefour.com.ar/tostadas-bauducco-clasicas-142-g/p"
+    ],
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/tostada-bauducco-clasica-142gr/p"
+    ],
+    "Jumbo": [
+     1475.0,
+     "https://www.jumbo.com.ar/tostada-bauducco-clasica-142gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas multigrano Bauducco 142 g.",
+   "m": "Bauducco",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939697/7891962060477_E02.jpg?v=639258617997800000",
+   "cadena": "Jumbo",
+   "precio": 1475.0,
+   "link": "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p",
+   "referencia": 2950.0,
+   "precio_2da": 2790.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.1,
+   "score": 2357,
+   "pr": {
+    "Carrefour": [
+     2790.0,
+     "https://www.carrefour.com.ar/tostadas-multigrano-bauducco-142-g/p"
+    ],
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/tostada-bauducco-multigrano-142gr/p"
+    ],
+    "Jumbo": [
+     1475.0,
+     "https://www.jumbo.com.ar/tostada-bauducco-multigrano-142gr/p"
+    ],
+    "ChangoMás": [
+     2979.0,
+     "https://www.masonline.com.ar/tostadas-bauducco-multigranos-142gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet 750 Ml Escorihuela Gascon",
+   "m": "ESCORIHUELA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/428072/Vino-Tinto-Escorihuela-Gascon-Cabernet-Sauvignon-750-Cc-1-249050.jpg?v=636495161303470000",
+   "cadena": "Jumbo",
+   "precio": 6425.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p",
+   "referencia": 12850.0,
+   "precio_2da": 12120.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.0,
+   "score": 2349,
+   "pr": {
+    "Jumbo": [
+     6425.0,
+     "https://www.jumbo.com.ar/vino-tinto-cabernet-750-ml-escorihuela-gascon/p"
+    ],
+    "Carrefour": [
+     12120.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-escorihuela-gascon-750-cc/p"
+    ],
+    "ChangoMás": [
+     13000.0,
+     "https://www.masonline.com.ar/vino-tinto-escorihuela-gascon-cabernet-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Donuts leche Bonafide x24 78 grs",
+   "m": "Bonafide",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924308/7792360096818_E02.jpg?v=639240652202300000",
+   "cadena": "Jumbo",
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/galletitas-donuts-leche-78g/p",
+   "referencia": 2750.0,
+   "precio_2da": 2589.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2345,
+   "pr": {
+    "Carrefour": [
+     2589.0,
+     "https://www.carrefour.com.ar/donuts-leche-bonafide-x24-78-grs-756715/p"
+    ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/galletitas-donuts-leche-78g/p"
+    ],
+    "Jumbo": [
+     1375.0,
+     "https://www.jumbo.com.ar/galletitas-donuts-leche-78g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chocolate Blanco 78 Grs Bonafide",
+   "m": "DONUTS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/867567/Galletitas-Donuts-Blanca-78g-1-1037426.jpg?v=638828229933470000",
+   "cadena": "Jumbo",
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/galletitas-donuts-blanca-78g/p",
+   "referencia": 2750.0,
+   "precio_2da": 2589.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2345,
+   "pr": {
+    "Jumbo": [
+     1375.0,
+     "https://www.jumbo.com.ar/galletitas-donuts-blanca-78g/p"
+    ],
+    "Comodín": [
+     2804.89,
+     "https://www.comodinencasa.com.ar/donuts-bonafide-chocolate-blanco-78gr-2/p"
+    ],
+    "Carrefour": [
+     2589.0,
+     "https://www.carrefour.com.ar/donuts-blanca-bonafide-x24-78-grs-756716/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec 750 Cc Casillero del Diablo",
+   "m": "CASILLERO DEL DIABLO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/780806/Vino-Casillero-Del-Diablo-Malbec-X-750-Cc-1-31428.jpg?v=638192649821430000",
+   "cadena": "Jumbo",
+   "precio": 5100.0,
+   "link": "https://www.jumbo.com.ar/casillero-del-diablo-malbec-x-750-cc/p",
+   "referencia": 10200.0,
+   "precio_2da": 9595.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.8,
+   "score": 2342,
+   "pr": {
+    "Vea": [
+     9790.0,
+     "https://www.vea.com.ar/casillero-del-diablo-malbec-x-750-cc/p"
+    ],
+    "Jumbo": [
+     5100.0,
+     "https://www.jumbo.com.ar/casillero-del-diablo-malbec-x-750-cc/p"
+    ],
+    "Carrefour": [
+     9595.0,
+     "https://www.carrefour.com.ar/vino-tinto-casillero-del-diablo-malbec-750-cc-696656/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas crackers Smams 150 g. sin TACC",
+   "m": "Smams",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929623/7798181510212_02.jpg?v=639246482249870000",
+   "cadena": "Jumbo",
+   "precio": 2075.0,
+   "link": "https://www.jumbo.com.ar/galletitas-crackers-de-agua-150-gr-smams/p",
+   "referencia": 4150.0,
+   "precio_2da": 3899.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.8,
+   "score": 2339,
+   "pr": {
+    "Carrefour": [
+     3899.0,
+     "https://www.carrefour.com.ar/galletas-crackers-smams-150-g-sin-tacc/p"
+    ],
+    "Jumbo": [
+     2075.0,
+     "https://www.jumbo.com.ar/galletitas-crackers-de-agua-150-gr-smams/p"
+    ],
+    "ChangoMás": [
+     3899.0,
+     "https://www.masonline.com.ar/galletitas-crackers-smams-sin-tacc-x-150-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Surtido Diversion X400g",
+   "m": "DIVERSION",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814285/Galletitas-Surtido-Diversion-X400g-1-1008720.jpg?v=638452605697700000",
+   "cadena": "Jumbo",
+   "precio": 1540.0,
+   "link": "https://www.jumbo.com.ar/galletitas-surtido-diversion-x400g-2/p",
+   "referencia": 3080.0,
+   "precio_2da": 2890.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.7,
+   "score": 2336,
+   "pr": {
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/galletitas-surtido-diversion-x400g-2/p"
+    ],
+    "Jumbo": [
+     1540.0,
+     "https://www.jumbo.com.ar/galletitas-surtido-diversion-x400g-2/p"
+    ],
+    "ChangoMás": [
+     3269.0,
+     "https://www.masonline.com.ar/galletitas-dulces-diversion-surtido-400-g-2/p"
+    ],
+    "Carrefour": [
+     2890.0,
+     "https://www.carrefour.com.ar/galletitas-surtido-diversion-en-bolsa-400-g-737813/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Club Social sabor jamón x6 23.5 grs",
+   "m": "Club Social",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/272198/7622210691835_E01.jpg?v=639130006739530000",
+   "cadena": "Jumbo",
+   "precio": 1700.0,
+   "link": "https://www.jumbo.com.ar/galletitas-crackers-club-social-jamon-6u-x-24g/p",
+   "referencia": 3350.0,
+   "precio_2da": 3229.0,
+   "baja_pct": 49.3,
+   "brecha_pct": 47.4,
+   "score": 2332,
+   "pr": {
+    "Carrefour": [
+     3229.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-club-social-sabor-jamon-x6-23-5-grs-628581/p"
+    ],
+    "Vea": [
+     3390.0,
+     "https://www.vea.com.ar/galletitas-crackers-club-social-jamon-6u-x-24g/p"
+    ],
+    "Jumbo": [
+     1700.0,
+     "https://www.jumbo.com.ar/galletitas-crackers-club-social-jamon-6u-x-24g/p"
+    ],
+    "ChangoMás": [
+     3229.0,
+     "https://www.masonline.com.ar/galletitas-sabor-jamon-club-social-144gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Bagley cracker cereal salvado 169 g.",
+   "m": "Bagley",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/319014/7790040136250_E01.jpg?v=638181155204200000",
+   "cadena": "Jumbo",
+   "precio": 875.0,
+   "link": "https://www.jumbo.com.ar/galletas-cereales-salvado-bagley-169-gr-2/p",
+   "referencia": 1750.0,
+   "precio_2da": 1639.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.6,
+   "score": 2331,
+   "pr": {
+    "Carrefour": [
+     1639.0,
+     "https://www.carrefour.com.ar/galletitas-bagley-cracker-cereal-salvado-169-g-695633/p"
+    ],
+    "Vea": [
+     1690.0,
+     "https://www.vea.com.ar/galletas-cereales-salvado-bagley-169-gr-2/p"
+    ],
+    "Jumbo": [
+     875.0,
+     "https://www.jumbo.com.ar/galletas-cereales-salvado-bagley-169-gr-2/p"
+    ],
+    "ChangoMás": [
+     1639.0,
+     "https://www.masonline.com.ar/galletitas-con-salvado-cereales-bagley-169g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Polvorita Choco Y Vaini 152g",
+   "m": "BAGLEY",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/827976/Galletitas-Polvorita-Choco-Y-Vainilla-152-Gramos-Galletitas-Polvorita-Choco-Y-Vaini-152g-1-1019789.jpg?v=638563954928500000",
+   "cadena": "Jumbo",
+   "precio": 850.0,
+   "link": "https://www.jumbo.com.ar/galletitas-polvorita-choco-y-vaini-152g/p",
+   "referencia": 1700.0,
+   "precio_2da": 1590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.5,
+   "score": 2327,
+   "pr": {
+    "Vea": [
+     1590.0,
+     "https://www.vea.com.ar/galletitas-polvorita-choco-y-vaini-152g/p"
+    ],
+    "Jumbo": [
+     850.0,
+     "https://www.jumbo.com.ar/galletitas-polvorita-choco-y-vaini-152g/p"
+    ],
+    "Carrefour": [
+     1650.0,
+     "https://www.carrefour.com.ar/galletita-rellena-de-vainilla-polvorita-en-paquete-152-g-745255/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Integra de cacao y chocolate 200 grs",
+   "m": "Integra",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929189/7798343751521_02.jpg?v=639245568613930000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/galletitas-cacao-chocolate-200g-integra/p",
+   "referencia": 3950.0,
+   "precio_2da": 3690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.5,
+   "score": 2324,
+   "pr": {
+    "Carrefour": [
+     3790.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-integra-de-cacao-y-chocolate-200-grs-759468/p"
+    ],
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/galletitas-cacao-chocolate-200g-integra/p"
+    ],
+    "Jumbo": [
+     1975.0,
+     "https://www.jumbo.com.ar/galletitas-cacao-chocolate-200g-integra/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Mani & Almendras 200g Integra",
+   "m": "INTEGRA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/883407/Galletitas-Mani-Almendras-200g-Integra-1-1035779.jpg?v=638935797833800000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/galletitas-mani-almendras-200g-integra/p",
+   "referencia": 3950.0,
+   "precio_2da": 3690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.5,
+   "score": 2324,
+   "pr": {
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/galletitas-mani-almendras-200g-integra/p"
+    ],
+    "Jumbo": [
+     1975.0,
+     "https://www.jumbo.com.ar/galletitas-mani-almendras-200g-integra/p"
+    ],
+    "Carrefour": [
+     3790.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-integra-de-mani-y-almendras-200-grs-759466/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Arándanos y Chía 200 Grs Integra",
+   "m": "INTEGRA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/883409/Galletitas-Arandanos-Chia-200g-Integra-1-1035781.jpg?v=638935797842770000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/galletitas-arandanos-chia-200g-integra/p",
+   "referencia": 3950.0,
+   "precio_2da": 3690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.5,
+   "score": 2324,
+   "pr": {
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/galletitas-arandanos-chia-200g-integra/p"
+    ],
+    "Jumbo": [
+     1975.0,
+     "https://www.jumbo.com.ar/galletitas-arandanos-chia-200g-integra/p"
+    ],
+    "Carrefour": [
+     3780.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-integra-de-arandanos-y-chia-200-grs-759467/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Rutitni 750 ml",
+   "m": "Rutini",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/299962/7790577001151_01.jpg?v=638133806278100000",
+   "cadena": "Jumbo",
+   "precio": 18500.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-rutini-malbec-750-cc/p",
+   "referencia": 37000.0,
+   "precio_2da": 34472.89,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.3,
+   "score": 2317,
+   "pr": {
+    "Carrefour": [
+     37369.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-rutini-750-cc/p"
+    ],
+    "Jumbo": [
+     18500.0,
+     "https://www.jumbo.com.ar/vino-tinto-rutini-malbec-750-cc/p"
+    ],
+    "Comodín": [
+     34472.89,
+     "https://www.comodinencasa.com.ar/vino-rutini-malbec-750cc/p"
+    ],
+    "ChangoMás": [
+     36999.0,
+     "https://www.masonline.com.ar/vino-malbec-rutini-750-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Saladas Salvado 208 Grs Cerealitas",
+   "m": "CEREALITAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/846478/Galletitas-Cracker-Cereal-Salvado-Cerealitas-208g-1-958705.jpg?v=638678865856130000",
+   "cadena": "Jumbo",
+   "precio": 1250.0,
+   "link": "https://www.jumbo.com.ar/galletitas-cracker-cereal-salvado-cerealitas-208g-3/p",
+   "referencia": 2500.0,
+   "precio_2da": 2329.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.3,
+   "score": 2316,
+   "pr": {
+    "Jumbo": [
+     1250.0,
+     "https://www.jumbo.com.ar/galletitas-cracker-cereal-salvado-cerealitas-208g-3/p"
+    ],
+    "Comodín": [
+     2488.79,
+     "https://www.comodinencasa.com.ar/galleta-cerealitas-salvado-x-202-gr/p"
+    ],
+    "ChangoMás": [
+     2329.0,
+     "https://www.masonline.com.ar/galletitas-cerealitas-de-salvado-208-g-2/p"
+    ],
+    "Carrefour": [
+     2329.0,
+     "https://www.carrefour.com.ar/galletitas-de-salvado-cerealitas-208-g-720565/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Lincoln chocolate Terrabusi 153 g.",
+   "m": "Lincoln",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825753/7622300742676_E01.jpg?v=639086663730300000",
+   "cadena": "Jumbo",
+   "precio": 1075.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-lincoln-chocolate-terrabusi-153-gr-2/p",
+   "referencia": 2150.0,
+   "precio_2da": 1999.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.2,
+   "score": 2311,
+   "pr": {
+    "Carrefour": [
+     1999.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-lincoln-terrabusi-153-g-520829/p"
+    ],
+    "Jumbo": [
+     1075.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-lincoln-chocolate-terrabusi-153-gr-2/p"
+    ],
+    "ChangoMás": [
+     1999.0,
+     "https://www.masonline.com.ar/galletitas-chocolate-terrabusi-lincoln-153grs-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Arrocitas 3 cereales 101 g.",
+   "m": "Arrocitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939578/7790538009516_02.jpg?v=639258563217200000",
+   "cadena": "Jumbo",
+   "precio": 1025.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-gr/p",
+   "referencia": 2050.0,
+   "precio_2da": 1905.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.2,
+   "score": 2310,
+   "pr": {
+    "Carrefour": [
+     1905.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-g/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-gr/p"
+    ],
+    "Jumbo": [
+     1025.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-arrocitas-3-cereales-101-gr/p"
+    ],
+    "ChangoMás": [
+     2049.0,
+     "https://www.masonline.com.ar/galleta-arroz-3-cereales-arrocitas-101gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Pepas Sabor Membrillo 320 Grs Trio",
+   "m": "TRIO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/831928/7791787100924.jpg?v=638609632361430000",
+   "cadena": "Jumbo",
+   "precio": 1225.0,
+   "link": "https://www.jumbo.com.ar/pepas-trio-x320g-2/p",
+   "referencia": 2450.0,
+   "precio_2da": 2269.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.0,
+   "score": 2301,
+   "pr": {
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/pepas-trio-x320g-2/p"
+    ],
+    "Jumbo": [
+     1225.0,
+     "https://www.jumbo.com.ar/pepas-trio-x320g-2/p"
+    ],
+    "ChangoMás": [
+     2269.0,
+     "https://www.masonline.com.ar/galletitas-pepas-trio-320-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas de hojaldre Hojalmar triangulos 150 g.",
+   "m": "Hojalmar",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917641/7793450000128_E02.jpg?v=639229280989530000",
+   "cadena": "Jumbo",
+   "precio": 1075.0,
+   "link": "https://www.jumbo.com.ar/galletitas-hojalmar-de-hojaldre-2/p",
+   "referencia": 2150.0,
+   "precio_2da": 1990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.0,
+   "score": 2299,
+   "pr": {
+    "Carrefour": [
+     2089.0,
+     "https://www.carrefour.com.ar/galletitas-de-hojaldre-hojalmar-triangulos-150-g-78467/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/galletitas-hojalmar-de-hojaldre-2/p"
+    ],
+    "Jumbo": [
+     1075.0,
+     "https://www.jumbo.com.ar/galletitas-hojalmar-de-hojaldre-2/p"
+    ],
+    "ChangoMás": [
+     2089.0,
+     "https://www.masonline.com.ar/galletitas-hojal-triangul-hojalmar-150-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Smams sin TACC polvorón limón 120 g.",
+   "m": "Smams",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/920762/7798181511202_02.jpg?v=639234559890100000",
+   "cadena": "Jumbo",
+   "precio": 1400.0,
+   "link": "https://www.jumbo.com.ar/polvorones-limon-veggies-120-gr-smams-2/p",
+   "referencia": 2800.0,
+   "precio_2da": 2590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.9,
+   "score": 2297,
+   "pr": {
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/galletitas-smams-sin-tacc-polvoron-limon-120-g-704093/p"
+    ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/polvorones-limon-veggies-120-gr-smams-2/p"
+    ],
+    "Jumbo": [
+     1400.0,
+     "https://www.jumbo.com.ar/polvorones-limon-veggies-120-gr-smams-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Maná de vainilla livianas x3 408 grs",
+   "m": "Maná",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/920766/7790040137844_E02.jpg.jpg?v=639234561072770000",
+   "cadena": "Jumbo",
+   "precio": 1850.0,
+   "link": "https://www.jumbo.com.ar/galletitas-vainilla-mana-408-gr-2/p",
+   "referencia": 3700.0,
+   "precio_2da": 3419.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.9,
+   "score": 2295,
+   "pr": {
+    "Carrefour": [
+     3419.0,
+     "https://www.carrefour.com.ar/galletitas-mana-de-vainilla-livianas-x3-408-grs-704899/p"
+    ],
+    "Vea": [
+     3490.0,
+     "https://www.vea.com.ar/galletitas-vainilla-mana-408-gr-2/p"
+    ],
+    "Jumbo": [
+     1850.0,
+     "https://www.jumbo.com.ar/galletitas-vainilla-mana-408-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Lincoln clásicas Terrabusi 219 g.",
+   "m": "Lincoln",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825721/7622201735319_E01.jpg?v=639086656845830000",
+   "cadena": "Jumbo",
+   "precio": 1475.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-lincoln-clasicas-terrabusi-219-gr-2/p",
+   "referencia": 2950.0,
+   "precio_2da": 2690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.2,
+   "score": 2258,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-lincoln-clasicas-terrabusi-219-g-720550/p"
+    ],
+    "Vea": [
+     2690.0,
+     "https://www.vea.com.ar/galletitas-dulces-lincoln-clasicas-terrabusi-219-gr-2/p"
+    ],
+    "Jumbo": [
+     1475.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-lincoln-clasicas-terrabusi-219-gr-2/p"
+    ],
+    "ChangoMás": [
+     2759.0,
+     "https://www.masonline.com.ar/galletitas-lincoln-terrabusi-219gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas de hojaldre Hojalmar larguitas 150 g.",
+   "m": "Hojalmar",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917655/7793450000159_E02.jpg?v=639229286578930000",
+   "cadena": "Jumbo",
+   "precio": 1075.0,
+   "link": "https://www.jumbo.com.ar/galletitas-hojalmar-de-hojaldre-2-2/p",
+   "referencia": 2150.0,
+   "precio_2da": 1959.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.1,
+   "score": 2256,
+   "pr": {
+    "Carrefour": [
+     2029.0,
+     "https://www.carrefour.com.ar/galletitas-de-hojaldre-hojalmar-larguitas-150-g-384585/p"
+    ],
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/galletitas-hojalmar-de-hojaldre-2-2/p"
+    ],
+    "Jumbo": [
+     1075.0,
+     "https://www.jumbo.com.ar/galletitas-hojalmar-de-hojaldre-2-2/p"
+    ],
+    "ChangoMás": [
+     1959.0,
+     "https://www.masonline.com.ar/galletitas-hojaldr-largui-hojalmar-150-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Integral Avena Y Pasas 225 Gr Cachafaz",
+   "m": "CACHAFAZ",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/829048/11121604004.jpg?v=638575999051270000",
+   "cadena": "Jumbo",
+   "precio": 1975.0,
+   "link": "https://www.jumbo.com.ar/galletitas-integral-avena-y-pasas-225-gr-cachafaz/p",
+   "referencia": 3950.0,
+   "precio_2da": 3599.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.1,
+   "score": 2256,
+   "pr": {
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/galletitas-integral-avena-y-pasas-225-gr-cachafaz/p"
+    ],
+    "Jumbo": [
+     1975.0,
+     "https://www.jumbo.com.ar/galletitas-integral-avena-y-pasas-225-gr-cachafaz/p"
+    ],
+    "ChangoMás": [
+     3599.0,
+     "https://www.masonline.com.ar/galletitas-integral-avena-y-pasas-cachafaz-225gr-2/p"
+    ],
+    "Carrefour": [
+     3769.0,
+     "https://www.carrefour.com.ar/galletitas-cachafaz-avena-y-pasas-de-uva-225-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chips de Chocolate 255 Grs Frutigran",
+   "m": "FRUTIGRAN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/197414/Galletitas-Granix-Frutigran-Galletitas-Frutigran-Con-Chips-De-Chocolate-255-Gr-1-33785.jpg?v=636383591395930000",
+   "cadena": "Jumbo",
+   "precio": 1800.0,
+   "link": "https://www.jumbo.com.ar/galletitas-con-chips-de-chocolate-frutigran-255-gr-2/p",
+   "referencia": 3600.0,
+   "precio_2da": 3279.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.1,
+   "score": 2255,
+   "pr": {
+    "Vea": [
+     3490.0,
+     "https://www.vea.com.ar/galletitas-con-chips-de-chocolate-frutigran-255-gr-2/p"
+    ],
+    "Jumbo": [
+     1800.0,
+     "https://www.jumbo.com.ar/galletitas-con-chips-de-chocolate-frutigran-255-gr-2/p"
+    ],
+    "Carrefour": [
+     3279.0,
+     "https://www.carrefour.com.ar/galletitas-frutigran-avena-y-chips-de-chocolate-255-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Tostadas de arroz Molinos del Bosque 150 g.",
+   "m": "Molinos del Bosque",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939603/7798142880019_02.jpg?v=639258570886670000",
+   "cadena": "Jumbo",
+   "precio": 1500.0,
+   "link": "https://www.jumbo.com.ar/tostadas-de-arroz-sin-tacc-150-gr-carilo/p",
+   "referencia": 3000.0,
+   "precio_2da": 2729.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.0,
+   "score": 2252,
+   "pr": {
+    "Carrefour": [
+     2729.0,
+     "https://www.carrefour.com.ar/tostadas-de-arroz-molinos-del-bosque-150-g/p"
+    ],
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/tostadas-de-arroz-sin-tacc-150-gr-carilo/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/tostadas-de-arroz-sin-tacc-150-gr-carilo/p"
+    ],
+    "Comodín": [
+     3619.19,
+     "https://www.comodinencasa.com.ar/galleta-de-arroz-m-del-bosque-origi-150g/p"
+    ],
+    "ChangoMás": [
+     2729.0,
+     "https://www.masonline.com.ar/galletas-arroz-original-carilo-150gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para gato Whiskas 85 g. sardina",
+   "m": "Whiskas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/274182/7797453000543_02.jpg?v=639122881483730000",
+   "cadena": "Jumbo",
+   "precio": 825.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-gato-humedo-whiskas-adulto-sardina-85gr/p",
+   "referencia": 1650.0,
+   "precio_2da": 1500.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.0,
+   "score": 2250,
+   "pr": {
+    "Carrefour": [
+     1500.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-gato-whiskas-85-g-sardina-512070/p"
+    ],
+    "Jumbo": [
+     825.0,
+     "https://www.jumbo.com.ar/alimento-para-gato-humedo-whiskas-adulto-sardina-85gr/p"
+    ],
+    "ChangoMás": [
+     1579.0,
+     "https://www.masonline.com.ar/alimento-adulto-sardina-pouch-whiskas-85-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento húmedo para gato Whiskas 85 g. pescado souffle",
+   "m": "Whiskas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/273958/7797453001496_02.jpg?v=639122885023830000",
+   "cadena": "Jumbo",
+   "precio": 825.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-gato-humedo-whiskas-adulto-pescado-souffle-85gr/p",
+   "referencia": 1650.0,
+   "precio_2da": 1500.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.0,
+   "score": 2250,
+   "pr": {
+    "Carrefour": [
+     1500.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-gato-whiskas-85-g-pescado-souffle-620572/p"
+    ],
+    "Jumbo": [
+     825.0,
+     "https://www.jumbo.com.ar/alimento-para-gato-humedo-whiskas-adulto-pescado-souffle-85gr/p"
+    ],
+    "ChangoMás": [
+     1579.0,
+     "https://www.masonline.com.ar/alimento-humedo-pouch-pescado-souffle-whiskas-85gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Orgánicas Avena Y Miel 170 Gr Cachafaz",
+   "m": "CACHAFAZ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/829041/11121091001.jpg?v=638575996351130000",
+   "cadena": "Jumbo",
+   "precio": 1375.0,
+   "link": "https://www.jumbo.com.ar/galletitas-organicas-avena-y-miel-170-gr-cachafaz-2/p",
+   "referencia": 2750.0,
+   "precio_2da": 2499.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.0,
+   "score": 2249,
+   "pr": {
+    "Jumbo": [
+     1375.0,
+     "https://www.jumbo.com.ar/galletitas-organicas-avena-y-miel-170-gr-cachafaz-2/p"
+    ],
+    "ChangoMás": [
+     2599.0,
+     "https://www.masonline.com.ar/galletitas-organicas-avena-y-miel-cachafaz-170-gr-2/p"
+    ],
+    "Carrefour": [
+     2499.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-cachafaz-miel-y-avena-organicas-170-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Criollitas 100 g.",
+   "m": "Criollitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929611/7790040377707_E02.jpg?v=639246476426830000",
+   "cadena": "Jumbo",
+   "precio": 425.0,
+   "link": "https://www.jumbo.com.ar/galletitas-de-agua-criollitas-originales-100-gr-2/p",
+   "referencia": 850.0,
+   "precio_2da": 770.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.8,
+   "score": 2240,
+   "pr": {
+    "Carrefour": [
+     770.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-criollitas-100-g/p"
+    ],
+    "Vea": [
+     770.0,
+     "https://www.vea.com.ar/galletitas-de-agua-criollitas-originales-100-gr-2/p"
+    ],
+    "Jumbo": [
+     425.0,
+     "https://www.jumbo.com.ar/galletitas-de-agua-criollitas-originales-100-gr-2/p"
+    ],
+    "ChangoMás": [
+     809.0,
+     "https://www.masonline.com.ar/galletitas-de-agua-criollitas-100-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Saladas Talitas Clásicas 100 Grs Tosti",
+   "m": "TOSTI",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665684/Talitas-Tosti-Clasica-X100g-1-878094.jpg?v=637670793998500000",
    "cadena": "Jumbo",
    "precio": 900.0,
-   "link": "https://www.jumbo.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p",
+   "link": "https://www.jumbo.com.ar/talitas-tosti-clasica-x100g-2/p",
    "referencia": 1800.0,
    "precio_2da": 1629.0,
    "baja_pct": 50.0,
@@ -318,228 +1753,422 @@
    "pr": {
     "Jumbo": [
      900.0,
-     "https://www.jumbo.com.ar/saborizador-finas-hierbas-en-sobres-4-un-alicante/p"
-    ],
-    "ChangoMás": [
-     1699.0,
-     "https://www.masonline.com.ar/saborizador-en-polvo-alicante-finas-hierbas-30-gr-2/p"
+     "https://www.jumbo.com.ar/talitas-tosti-clasica-x100g-2/p"
     ],
     "Carrefour": [
      1629.0,
-     "https://www.carrefour.com.ar/saborizador-finas-hierbas-alicante-sobre-x-4-uni/p"
+     "https://www.carrefour.com.ar/cintitas-tosti-clasicas-100-g/p"
+    ],
+    "ChangoMás": [
+     1699.0,
+     "https://www.masonline.com.ar/talitas-clasicas-tosti-x100gr-2/p"
     ]
    }
   },
   {
-   "n": "Yerba mate suave Unión 4flex 1 kg.",
-   "m": "Unión",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/202465/7790387014617_02.jpg?v=637562654681970000",
-   "cadena": "ChangoMás",
-   "precio": 2499.0,
-   "link": "https://www.masonline.com.ar/yerba-mate-union-con-palo-4flex-1kg-2/p",
-   "referencia": 4783.2,
-   "precio_2da": 4590.0,
-   "baja_pct": 47.8,
-   "brecha_pct": 45.6,
-   "score": 2175,
+   "n": "Galletitas Frutigran semillas de chia y lino 240 g.",
+   "m": "Granix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917677/7790045825395_E02.jpg?v=639229294325570000",
+   "cadena": "Jumbo",
+   "precio": 1600.0,
+   "link": "https://www.jumbo.com.ar/galletitas-con-chia-y-lino-frutigran-240-gr-2/p",
+   "referencia": 3200.0,
+   "precio_2da": 2890.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.6,
+   "score": 2232,
    "pr": {
     "Carrefour": [
-     4590.0,
-     "https://www.carrefour.com.ar/yerba-mate-suave-union-4flex-1-kg/p"
+     3449.0,
+     "https://www.carrefour.com.ar/galletitas-frutigran-semillas-de-chia-y-lino-240-g/p"
     ],
     "Vea": [
-     5290.0,
-     "https://www.vea.com.ar/yerba-mate-4flex-union-1-kg/p"
+     2890.0,
+     "https://www.vea.com.ar/galletitas-con-chia-y-lino-frutigran-240-gr-2/p"
     ],
     "Jumbo": [
-     5600.0,
-     "https://www.jumbo.com.ar/yerba-mate-4flex-union-1-kg/p"
+     1600.0,
+     "https://www.jumbo.com.ar/galletitas-con-chia-y-lino-frutigran-240-gr-2/p"
     ],
     "ChangoMás": [
-     2499.0,
-     "https://www.masonline.com.ar/yerba-mate-union-con-palo-4flex-1kg-2/p"
+     3019.0,
+     "https://www.masonline.com.ar/galletita-frutigran-avena-chia-y-lino-granix-240-gr-2/p"
     ]
    }
   },
   {
-   "n": "Jugo en polvo BC La Campagnola manzana roja 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822943/7790580129972_02.jpg?v=639083181869330000",
+   "n": "Galletitas Formis Dulce De Leche 54gr",
+   "m": "FORMIS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930729/Galletitas-Formis-Dulce-De-Leche-54gr-1-942977.jpg?v=639257098028670000",
    "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 389.0,
+   "precio": 475.0,
+   "link": "https://www.jumbo.com.ar/galletitas-formis-dulce-de-leche-54gr/p",
+   "referencia": 950.0,
+   "precio_2da": 850.0,
    "baja_pct": 50.0,
-   "brecha_pct": 42.2,
-   "score": 2108,
-   "pr": {
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-manzana-roja-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja Dulce 7 Grs Bc",
-   "m": "BC",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665701/Jugo-En-Polvo-Bc-Naranja-Dulce-7gr-1-878213.jpg?v=637670794044370000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 389.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.2,
-   "score": 2108,
+   "brecha_pct": 44.1,
+   "score": 2206,
    "pr": {
     "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
+     475.0,
+     "https://www.jumbo.com.ar/galletitas-formis-dulce-de-leche-54gr/p"
     ],
     "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
+     850.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-formis-vainilla-rellenas-de-frutilla-54-grs-779316/p"
+    ],
+    "Comodín": [
+     863.19,
+     "https://www.comodinencasa.com.ar/galleta-formis-vainilla-rell-frut-54gr/p"
+    ],
+    "ChangoMás": [
+     929.0,
+     "https://www.masonline.com.ar/galletitas-formis-animales-frutilla-54g/p"
     ]
    }
   },
   {
-   "n": "Vino Tinto Malbec 750 Cc Blend de Extremos El Esteco",
-   "m": "EL ESTECO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/581249/Vino-El-Esteco-Malbec-Bend-De-Extremos-750-Cc-1-772500.jpg?v=637225178110470000",
-   "cadena": "ChangoMás",
-   "precio": 9734.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-el-esteco-blend-de-extremos-malbec-750-ml-2/p",
-   "referencia": 19469.0,
-   "precio_2da": 16769.99,
+   "n": "Galletitas Formis Dulce De Leche 54gr",
+   "m": "FORMIS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930726/Galletitas-Formis-Dulce-De-Leche-54gr-1-942968.jpg?v=639257098020370000",
+   "cadena": "Jumbo",
+   "precio": 475.0,
+   "link": "https://www.jumbo.com.ar/galletitas-formis-dulce-de-leche-54gr-2/p",
+   "referencia": 950.0,
+   "precio_2da": 850.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.1,
+   "score": 2206,
+   "pr": {
+    "Jumbo": [
+     475.0,
+     "https://www.jumbo.com.ar/galletitas-formis-dulce-de-leche-54gr-2/p"
+    ],
+    "Comodín": [
+     863.19,
+     "https://www.comodinencasa.com.ar/galleta-formis-chocolate-rell-ddl-54gr/p"
+    ],
+    "ChangoMás": [
+     929.0,
+     "https://www.masonline.com.ar/galletitas-formis-animales-dulce-de-leche-54g/p"
+    ],
+    "Carrefour": [
+     850.0,
+     "https://www.carrefour.com.ar/galletitas-dulce-formis-chocolate-rellenas-de-dulce-de-leche-54-grs-779314/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Coco 153 Grs Lincoln",
+   "m": "LINCOLN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/901828/Galletitas-Dulces-Lincoln-Coco-Terrabusi-153-Gr-1-44116.jpg?v=639110759022030000",
+   "cadena": "Jumbo",
+   "precio": 1075.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-lincoln-coco-terrabusi-153-gr-2/p",
+   "referencia": 2150.0,
+   "precio_2da": 1920.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.0,
+   "score": 2201,
+   "pr": {
+    "Vea": [
+     2150.0,
+     "https://www.vea.com.ar/galletitas-dulces-lincoln-coco-terrabusi-153-gr-2/p"
+    ],
+    "Jumbo": [
+     1075.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-lincoln-coco-terrabusi-153-gr-2/p"
+    ],
+    "Carrefour": [
+     1920.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-lincoln-coco-terrabusi-153-g-521106/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Hogareñas mix de cereales 185 g.",
+   "m": "Hogareñas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318964/7790040136090_E01.jpg?v=638797216020800000",
+   "cadena": "Jumbo",
+   "precio": 850.0,
+   "link": "https://www.jumbo.com.ar/galletitas-hogarenas-mix-de-cereal-x185g-2/p",
+   "referencia": 1700.0,
+   "precio_2da": 1500.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.3,
+   "score": 2167,
+   "pr": {
+    "Carrefour": [
+     1500.0,
+     "https://www.carrefour.com.ar/galletitas-hogarenas-mix-de-cereales-185-g-691476/p"
+    ],
+    "Vea": [
+     1500.0,
+     "https://www.vea.com.ar/galletitas-hogarenas-mix-de-cereal-x185g-2/p"
+    ],
+    "Jumbo": [
+     850.0,
+     "https://www.jumbo.com.ar/galletitas-hogarenas-mix-de-cereal-x185g-2/p"
+    ],
+    "ChangoMás": [
+     1639.0,
+     "https://www.masonline.com.ar/galletitas-hogarenas-mix-cereales-x-185g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Trío frolitas 300 g.",
+   "m": "Trio",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917663/7791787000644_E02.jpg?v=639229288176700000",
+   "cadena": "Jumbo",
+   "precio": 1225.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-trio-frolitas-300-gr/p",
+   "referencia": 2450.0,
+   "precio_2da": 2159.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.3,
+   "score": 2163,
+   "pr": {
+    "Carrefour": [
+     2159.0,
+     "https://www.carrefour.com.ar/galletitas-trio-frolitas-300-g/p"
+    ],
+    "ChangoMás": [
+     2239.0,
+     "https://www.masonline.com.ar/galletas-frolitas-con-membrillo-trio-300-gr-2/p"
+    ],
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/galletitas-dulces-trio-frolitas-300-gr/p"
+    ],
+    "Jumbo": [
+     1225.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-trio-frolitas-300-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Melitas vainilla miel 159 g.",
+   "m": "Melitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318904/7790040139770_E01.jpg?v=638803342152700000",
+   "cadena": "Jumbo",
+   "precio": 725.0,
+   "link": "https://www.jumbo.com.ar/galletitas-melitas-159-gr-2/p",
+   "referencia": 1450.0,
+   "precio_2da": 1271.6,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.0,
+   "score": 2149,
+   "pr": {
+    "Carrefour": [
+     1390.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-melitas-vainilla-miel-159-g-713281/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/galletitas-melitas-159-gr-2/p"
+    ],
+    "Jumbo": [
+     725.0,
+     "https://www.jumbo.com.ar/galletitas-melitas-159-gr-2/p"
+    ],
+    "ChangoMás": [
+     1509.0,
+     "https://www.masonline.com.ar/galletitas-melitas-159g-2/p"
+    ],
+    "Comodín": [
+     1271.6,
+     "https://www.comodinencasa.com.ar/galleta-melitas-clasica-x-170-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Hogareñas 7 semillas 189 g.",
+   "m": "Hogareñas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318962/7790040136069_E01.jpg?v=638797216361100000",
+   "cadena": "Jumbo",
+   "precio": 850.0,
+   "link": "https://www.jumbo.com.ar/galletitas-hogarenas-7-semillas-x189g/p",
+   "referencia": 1700.0,
+   "precio_2da": 1490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.0,
+   "score": 2148,
+   "pr": {
+    "Carrefour": [
+     1490.0,
+     "https://www.carrefour.com.ar/galletitas-hogarenas-7-semillas-189-g-691473/p"
+    ],
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/galletitas-hogarenas-7-semillas-x189g/p"
+    ],
+    "Jumbo": [
+     850.0,
+     "https://www.jumbo.com.ar/galletitas-hogarenas-7-semillas-x189g/p"
+    ],
+    "ChangoMás": [
+     1719.0,
+     "https://www.masonline.com.ar/galletitas-hogarenas-7-semillas-189-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alimento Para Perros Dog Chow Salmón 100 Gr",
+   "m": "DOG CHOW",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/925468/Alimento-Para-Perros-Dog-Chow-Salm-n-100-Gr-1-1063393.jpg?v=639229234282230000",
+   "cadena": "Jumbo",
+   "precio": 950.0,
+   "link": "https://www.jumbo.com.ar/alimento-para-perros-dog-chow-salmon-100-gr-2/p",
+   "referencia": 1900.0,
+   "precio_2da": 1653.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.5,
+   "score": 2127,
+   "pr": {
+    "Jumbo": [
+     950.0,
+     "https://www.jumbo.com.ar/alimento-para-perros-dog-chow-salmon-100-gr-2/p"
+    ],
+    "Comodín": [
+     1653.59,
+     "https://www.comodinencasa.com.ar/alim-dog-chow-humedo-adul-pq-salmon-100g/p"
+    ],
+    "Carrefour": [
+     1769.0,
+     "https://www.carrefour.com.ar/alimento-humedo-para-perro-dog-chow-adultos-pequenos-salmon-100-g-636717/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas con chips Cofler 120 g.",
+   "m": "Cofler",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776294/7790040127944_E02.jpg?v=639005376338430000",
+   "cadena": "Jumbo",
+   "precio": 1025.0,
+   "link": "https://www.jumbo.com.ar/galletita-cofler-cookies-120-gr-2/p",
+   "referencia": 2050.0,
+   "precio_2da": 1780.29,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.4,
+   "score": 2121,
+   "pr": {
+    "Carrefour": [
+     1939.0,
+     "https://www.carrefour.com.ar/galletitas-con-chips-cofler-120-g/p"
+    ],
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/galletita-cofler-cookies-120-gr-2/p"
+    ],
+    "Jumbo": [
+     1025.0,
+     "https://www.jumbo.com.ar/galletita-cofler-cookies-120-gr-2/p"
+    ],
+    "ChangoMás": [
+     2069.0,
+     "https://www.masonline.com.ar/galletitas-dulces-cofler-con-chips-120gr-2/p"
+    ],
+    "Comodín": [
+     1780.29,
+     "https://www.comodinencasa.com.ar/galleta-cofler-x-120-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Boca de Dama Terrabusi 170 g.",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825731/7622201808860_E01.jpg?v=639086658301930000",
+   "cadena": "Jumbo",
+   "precio": 875.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-boca-de-dama-terrabusi-170-gr/p",
+   "referencia": 1750.0,
+   "precio_2da": 1509.0,
    "baja_pct": 50.0,
    "brecha_pct": 42.0,
-   "score": 2098,
+   "score": 2101,
    "pr": {
-    "Jumbo": [
-     19600.0,
-     "https://www.jumbo.com.ar/vino-el-esteco-malbec-bend-de-extremos-750-cc/p"
-    ],
-    "Comodín": [
-     16769.99,
-     "https://www.comodinencasa.com.ar/vino-el-esteco-blend-ext-malbec-x-750-ml/p"
-    ],
     "Carrefour": [
-     18725.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-el-esteco-blend-de-ext-750-cc/p"
+     1569.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-boca-de-dama-terrabusi-170-g-680263/p"
+    ],
+    "Vea": [
+     1650.0,
+     "https://www.vea.com.ar/galletitas-dulces-boca-de-dama-terrabusi-170-gr/p"
+    ],
+    "Jumbo": [
+     875.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-boca-de-dama-terrabusi-170-gr/p"
     ],
     "ChangoMás": [
-     9734.5,
-     "https://www.masonline.com.ar/vino-tinto-el-esteco-blend-de-extremos-malbec-750-ml-2/p"
+     1509.0,
+     "https://www.masonline.com.ar/galletitas-terrabusi-boca-de-dama-170gr-2/p"
+    ],
+    "Comodín": [
+     1922.99,
+     "https://www.comodinencasa.com.ar/galleta-terrabusi-boca-de-dama-x-160-gr/p"
     ]
    }
   },
   {
-   "n": "Aceite de oliva extra virgen Lira pet 500 cc.",
-   "m": "Lira",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914072/7790070231833_01.jpg?v=639222246999370000",
-   "cadena": "Vea",
-   "precio": 7395.0,
-   "link": "https://www.vea.com.ar/aceite-oliva-lira-extra-virgen-pet-500ml/p",
-   "referencia": 13599.0,
-   "precio_2da": 13599.0,
-   "baja_pct": 45.6,
-   "brecha_pct": 45.6,
-   "score": 2081,
+   "n": "Galletitas de Agua Clásica 535 Grs x 5 Un Media Tarde",
+   "m": "MEDIA TARDE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/805913/Galletitas-Media-Tarde-Sandwich-X535gr-1-1001740.jpg?v=638399147578470000",
+   "cadena": "Jumbo",
+   "precio": 2000.0,
+   "link": "https://www.jumbo.com.ar/galletitas-media-tarde-sandwich-x535gr/p",
+   "referencia": 4000.0,
+   "precio_2da": 3389.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.0,
+   "score": 2049,
    "pr": {
+    "Jumbo": [
+     2000.0,
+     "https://www.jumbo.com.ar/galletitas-media-tarde-sandwich-x535gr/p"
+    ],
     "Carrefour": [
-     13599.0,
-     "https://www.carrefour.com.ar/aceite-de-oliva-extra-virgen-lira-pet-500-cc/p"
-    ],
-    "Vea": [
-     7395.0,
-     "https://www.vea.com.ar/aceite-oliva-lira-extra-virgen-pet-500ml/p"
-    ],
-    "Comodín": [
-     15458.59,
-     "https://www.comodinencasa.com.ar/aceite-lira-oliva-extra-virgen-500cc/p"
+     3389.0,
+     "https://www.carrefour.com.ar/galletitas-sandwich-mediatarde-x5-353-grs-733628/p"
     ],
     "ChangoMás": [
-     15619.0,
-     "https://www.masonline.com.ar/aceite-oliva-extra-virgen-lira-500-ml-2/p"
+     3799.0,
+     "https://www.masonline.com.ar/galletitas-media-tarde-535-g-2/p"
     ]
    }
   },
   {
-   "n": "Yerba mate Mañanita bajo polvo 4flex 1 kg",
-   "m": "Mañanita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/183639/7790387015317_02.jpg?v=637468591274730000",
-   "cadena": "ChangoMás",
-   "precio": 2499.0,
-   "link": "https://www.masonline.com.ar/yerba-mate-4f-mananita-1kg-2/p",
-   "referencia": 4783.2,
-   "precio_2da": 4389.0,
-   "baja_pct": 47.8,
-   "brecha_pct": 43.1,
-   "score": 2056,
+   "n": "Tostadas de arroz Molinos del Bosque sin sal 150 g.",
+   "m": "Molinos del Bosque",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939604/7798142880026_02.jpg?v=639258571022300000",
+   "cadena": "Jumbo",
+   "precio": 1500.0,
+   "link": "https://www.jumbo.com.ar/tostadas-de-arroz-sin-sal-150-gr-carilo/p",
+   "referencia": 3000.0,
+   "precio_2da": 2469.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.2,
+   "score": 1962,
    "pr": {
     "Carrefour": [
-     4389.0,
-     "https://www.carrefour.com.ar/yerba-mate-mananita-bajo-polvo-4flex-1-kg/p"
+     2729.0,
+     "https://www.carrefour.com.ar/tostadas-de-arroz-molinos-del-bosque-sin-sal-150-g-45606/p"
     ],
     "Vea": [
-     5290.0,
-     "https://www.vea.com.ar/yerba-mate-4flex-mananita-1-kg/p"
+     2790.0,
+     "https://www.vea.com.ar/tostadas-de-arroz-sin-sal-150-gr-carilo/p"
     ],
     "Jumbo": [
-     5650.0,
-     "https://www.jumbo.com.ar/yerba-mate-4flex-mananita-1-kg/p"
+     1500.0,
+     "https://www.jumbo.com.ar/tostadas-de-arroz-sin-sal-150-gr-carilo/p"
     ],
     "Comodín": [
-     5213.59,
-     "https://www.comodinencasa.com.ar/yerba-mananita-4-flex-c-palo-1kg/p"
+     3619.19,
+     "https://www.comodinencasa.com.ar/galleta-de-arroz-m-del-bosque-s-sal-150g/p"
     ],
     "ChangoMás": [
-     2499.0,
-     "https://www.masonline.com.ar/yerba-mate-4f-mananita-1kg-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche chocolatada ​Cindor 1 lt",
-   "m": "Cindor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/870468/7791337007253_E01.jpg?v=639137801667600000",
-   "cadena": "Vea",
-   "precio": 4490.0,
-   "link": "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p",
-   "referencia": 8390.0,
-   "precio_2da": 7890.0,
-   "baja_pct": 46.5,
-   "brecha_pct": 43.1,
-   "score": 2003,
-   "pr": {
-    "Carrefour": [
-     7890.0,
-     "https://www.carrefour.com.ar/leche-chocolatada-cindor-1-lt-719377/p"
-    ],
-    "Vea": [
-     4490.0,
-     "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p"
-    ],
-    "Jumbo": [
-     8061.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-1-l-cindor-2/p"
-    ],
-    "ChangoMás": [
-     8219.0,
-     "https://www.masonline.com.ar/leche-chocolatada-cindor-1-l-2/p"
+     2469.0,
+     "https://www.masonline.com.ar/galletas-de-arroz-sin-sal-carilo-150gr-2/p"
     ]
    }
   },
@@ -571,6 +2200,37 @@
    }
   },
   {
+   "n": "Galletitas dulces Formis vainilla rellenas de chocolate 90 grs",
+   "m": "Formis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896611/7790040153462_E01.jpg?v=639184343115100000",
+   "cadena": "Jumbo",
+   "precio": 625.0,
+   "link": "https://www.jumbo.com.ar/galletitas-formis-dulce-de-leche-90gr/p",
+   "referencia": 1250.0,
+   "precio_2da": 1027.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.2,
+   "score": 1959,
+   "pr": {
+    "Carrefour": [
+     1027.5,
+     "https://www.carrefour.com.ar/galletitas-dulces-formis-vainilla-rellenas-de-chocolate-90-grs-778972/p"
+    ],
+    "Jumbo": [
+     625.0,
+     "https://www.jumbo.com.ar/galletitas-formis-dulce-de-leche-90gr/p"
+    ],
+    "Comodín": [
+     1441.49,
+     "https://www.comodinencasa.com.ar/galleta-formis-vainilla-rell-choco-90gr/p"
+    ],
+    "ChangoMás": [
+     1629.0,
+     "https://www.masonline.com.ar/galletitas-formis-animales-chocolate-90g/p"
+    ]
+   }
+  },
+  {
    "n": "Bebida Vegetal Sabor Almendras 1 Lts Silk",
    "m": "Silk",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/902899/7791337007901.jpg?v=639105642318500000",
@@ -594,6 +2254,126 @@
     "ChangoMás": [
      6659.0,
      "https://www.masonline.com.ar/bebida-vegetal-silk-a-base-de-almendras-1l-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chocolate 250 Grs Chocolinas",
+   "m": "CHOCOLINAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/814283/Galletitas-Chocolinas-X250g-1-1008715.jpg?v=638452605691770000",
+   "cadena": "Jumbo",
+   "precio": 1063.5,
+   "link": "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p",
+   "referencia": 1843.4,
+   "precio_2da": 1969.0,
+   "baja_pct": 42.3,
+   "brecha_pct": 46.0,
+   "score": 1946,
+   "pr": {
+    "Vea": [
+     1990.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "Jumbo": [
+     1063.5,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "ChangoMás": [
+     2949.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    ],
+    "Carrefour": [
+     1969.0,
+     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers La Providencia 303 g.",
+   "m": "La Providencia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929643/7798141972371_02.jpg?v=639246490392330000",
+   "cadena": "Jumbo",
+   "precio": 1009.0,
+   "link": "https://www.jumbo.com.ar/galletita-cracker-clasica-la-providencia-303-gr-2/p",
+   "referencia": 2018.0,
+   "precio_2da": 1649.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.8,
+   "score": 1941,
+   "pr": {
+    "Carrefour": [
+     1649.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-la-providencia-303-g/p"
+    ],
+    "Vea": [
+     1690.0,
+     "https://www.vea.com.ar/galletita-cracker-clasica-la-providencia-303-gr-2/p"
+    ],
+    "Jumbo": [
+     1009.0,
+     "https://www.jumbo.com.ar/galletita-cracker-clasica-la-providencia-303-gr-2/p"
+    ],
+    "ChangoMás": [
+     2309.0,
+     "https://www.masonline.com.ar/galletitas-crackers-la-providencia-303g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas Cebolla Y Crema X 120 Grs Crujitas",
+   "m": "PASEO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900340/Galletas-Crujitas-Cebolla-Y-Crema-120g-Galletas-Cebolla-Y-Crema-X-120-Grs-Crujitas-1-1055160.jpg?v=639074798131730000",
+   "cadena": "Jumbo",
+   "precio": 1150.0,
+   "link": "https://www.jumbo.com.ar/galletas-cebolla-y-crema-x-120-grs-crujitas/p",
+   "referencia": 2300.0,
+   "precio_2da": 1869.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.5,
+   "score": 1923,
+   "pr": {
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/galletas-cebolla-y-crema-x-120-grs-crujitas/p"
+    ],
+    "Jumbo": [
+     1150.0,
+     "https://www.jumbo.com.ar/galletas-cebolla-y-crema-x-120-grs-crujitas/p"
+    ],
+    "ChangoMás": [
+     1869.0,
+     "https://www.masonline.com.ar/galletitas-saladas-9-de-oro-crujitas-cebolla-y-crema-120-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas crackers Paseo 5 semillas 300 g.",
+   "m": "Paseo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929621/7792180007315_02.jpg?v=639246481847070000",
+   "cadena": "Jumbo",
+   "precio": 1225.0,
+   "link": "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p",
+   "referencia": 2450.0,
+   "precio_2da": 1985.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.3,
+   "score": 1914,
+   "pr": {
+    "Carrefour": [
+     1985.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p"
+    ],
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+    ],
+    "Jumbo": [
+     1225.0,
+     "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+    ],
+    "Comodín": [
+     2135.19,
+     "https://www.comodinencasa.com.ar/galleta-paseo-salvado-5-semillas-x-300gr/p"
     ]
    }
   },
@@ -625,29 +2405,149 @@
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Naranja y Mango 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835186/Jugo-En-Polvo-Arcor-Naranja-Manzana-15gr-1-1025851.jpg?v=638622057759570000",
+   "n": "Galletitas dulces Cereal Mix de avena y pasas 207 grs",
+   "m": "Cereal Mix",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/570073/7790040135741_E01.jpg?v=638627082635730000",
    "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p",
-   "referencia": 500.0,
-   "precio_2da": 396.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1843,
+   "precio": 1300.0,
+   "link": "https://www.jumbo.com.ar/galletas-avena-y-pasas-de-uva-cereal-mix-207-gr-2/p",
+   "referencia": 2145.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 47.8,
+   "score": 1883,
    "pr": {
+    "Carrefour": [
+     2490.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-cereal-mix-de-avena-y-pasas-207-grs-748625/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/galletas-avena-y-pasas-de-uva-cereal-mix-207-gr-2/p"
+    ],
     "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p"
+     1300.0,
+     "https://www.jumbo.com.ar/galletas-avena-y-pasas-de-uva-cereal-mix-207-gr-2/p"
     ],
     "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-mango-15-g/p"
-    ],
+     2689.0,
+     "https://www.masonline.com.ar/galletitas-cereal-mix-avena-y-pasas-207g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas coco Coquitas 260 g.",
+   "m": "Coquitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924214/7790040143265_E01.jpg?v=639240589550130000",
+   "cadena": "Jumbo",
+   "precio": 1400.0,
+   "link": "https://www.jumbo.com.ar/galletitas-rellenas-260g-coquitas/p",
+   "referencia": 2310.0,
+   "precio_2da": 2679.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 47.7,
+   "score": 1881,
+   "pr": {
     "Carrefour": [
-     396.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-mango-15-grs-750885/p"
+     2679.0,
+     "https://www.carrefour.com.ar/galletitas-coco-coquitas-260-g-741031/p"
+    ],
+    "Vea": [
+     2690.0,
+     "https://www.vea.com.ar/galletitas-rellenas-260g-coquitas/p"
+    ],
+    "Jumbo": [
+     1400.0,
+     "https://www.jumbo.com.ar/galletitas-rellenas-260g-coquitas/p"
+    ],
+    "ChangoMás": [
+     2679.0,
+     "https://www.masonline.com.ar/galletitas-dulces-coquitas-260-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas pepas 9 de Oro 500 g.",
+   "m": "9 De Oro",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924150/7792180143273_E02.jpg?v=639240566333170000",
+   "cadena": "Jumbo",
+   "precio": 1850.0,
+   "link": "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p",
+   "referencia": 3700.0,
+   "precio_2da": 2949.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.3,
+   "score": 1863,
+   "pr": {
+    "Carrefour": [
+     2949.0,
+     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-500-g-724194/p"
+    ],
+    "Vea": [
+     3590.0,
+     "https://www.vea.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ],
+    "Jumbo": [
+     1850.0,
+     "https://www.jumbo.com.ar/pepas-membrillo-9-de-oro-500-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Anillitos Terrabusi 300 g.",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825719/7622201504007_E01.jpg?v=639086656567730000",
+   "cadena": "Jumbo",
+   "precio": 1900.0,
+   "link": "https://www.jumbo.com.ar/galletitas-dulces-anillitos-terrabusi-300-gr/p",
+   "referencia": 3135.0,
+   "precio_2da": 3579.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 46.9,
+   "score": 1848,
+   "pr": {
+    "Carrefour": [
+     3579.0,
+     "https://www.carrefour.com.ar/galletitas-dulce-anillitos-terrabusi-300-g-694961/p"
+    ],
+    "Vea": [
+     3590.0,
+     "https://www.vea.com.ar/galletitas-dulces-anillitos-terrabusi-300-gr/p"
+    ],
+    "Jumbo": [
+     1900.0,
+     "https://www.jumbo.com.ar/galletitas-dulces-anillitos-terrabusi-300-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletas de arroz Dos Hermanos slim dulce 100 g.",
+   "m": "Dos Hermanos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939597/7790503198702_02.jpg?v=639258569983130000",
+   "cadena": "Jumbo",
+   "precio": 725.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-dos-hermanos-dulces-100gr/p",
+   "referencia": 1196.25,
+   "precio_2da": 1359.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 46.7,
+   "score": 1838,
+   "pr": {
+    "Carrefour": [
+     1359.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-dos-hermanos-slim-dulce-100-g/p"
+    ],
+    "Vea": [
+     1400.0,
+     "https://www.vea.com.ar/galletas-de-arroz-dos-hermanos-dulces-100gr/p"
+    ],
+    "Jumbo": [
+     725.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-dos-hermanos-dulces-100gr/p"
+    ],
+    "ChangoMás": [
+     1519.0,
+     "https://www.masonline.com.ar/galletas-de-arroz-dos-hermanos-dulces-100g-2/p"
     ]
    }
   },
@@ -679,95 +2579,56 @@
    }
   },
   {
-   "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822139/7790580129941_02.jpg?v=639083181678770000",
+   "n": "Galletitas Rellenas de Chocolate Sabor Chocolate 160 Grs 9 De Oro",
+   "m": "9 DE ORO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/470734/Silla-Metalica-Silver-Galleta-9-De-Oro-Chocolate-Rellena-Choco-X160g-1-306579.jpg?v=636689525593200000",
    "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 352.59,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.2,
-   "score": 1809,
+   "precio": 1400.0,
+   "link": "https://www.jumbo.com.ar/galleta-de-chocolate-rellena-sabor-chocolate-9-de-oro-160-gr-2/p",
+   "referencia": 2310.0,
+   "precio_2da": 2599.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 46.1,
+   "score": 1817,
    "pr": {
-    "Carrefour": [
-     400.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
     "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
+     1400.0,
+     "https://www.jumbo.com.ar/galleta-de-chocolate-rellena-sabor-chocolate-9-de-oro-160-gr-2/p"
     ],
-    "Comodín": [
-     352.59,
-     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/galleta-de-chocolate-9-de-oro-con-relleno-de-chocolate-160-g-635374/p"
     ],
     "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-limonada-bc-7-gr-2/p"
+     2599.0,
+     "https://www.masonline.com.ar/galletas-dulces-9-de-oro-rellena-de-chocolate-160gr-2/p"
     ]
    }
   },
   {
-   "n": "Vino tinto Malbec Cafayate 750 ml",
-   "m": "Cafayate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822202/7790093521782_01.jpg?v=639083181722970000",
-   "cadena": "ChangoMás",
-   "precio": 2939.5,
-   "link": "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p",
-   "referencia": 9829.0,
-   "precio_2da": 3959.53,
-   "baja_pct": 70.1,
-   "brecha_pct": 25.8,
-   "score": 1806,
+   "n": "Galletas de arroz Arrocitas sésamo y lino sin sal 101 g.",
+   "m": "Arrocitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939582/7790538009578_02.jpg?v=639258567191100000",
+   "cadena": "Jumbo",
+   "precio": 1025.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p",
+   "referencia": 1691.25,
+   "precio_2da": 1900.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 46.1,
+   "score": 1814,
    "pr": {
     "Carrefour": [
-     3959.53,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-cafayate-750-cc/p"
+     1900.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-arrocitas-sesamo-y-lino-sin-sal-101-g/p"
     ],
     "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/vino-cafayate-malbec-750-ml/p"
-    ],
-    "ChangoMás": [
-     2939.5,
-     "https://www.masonline.com.ar/vino-malbec-cafayate-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Trapiche Fond De Cave Reserva Malbec 750 Cc",
-   "m": "FOND DE CAVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581055/Vino-Tinto-Trapiche-Fond-De-Cave-Reserva-Malbec-750-Cc-1-11393.jpg?v=637225176280300000",
-   "cadena": "ChangoMás",
-   "precio": 7479.5,
-   "link": "https://www.masonline.com.ar/vino-malbec-fond-de-cave-reserva-750-cc-2/p",
-   "referencia": 14959.0,
-   "precio_2da": 11662.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1793,
-   "pr": {
-    "Vea": [
-     15390.0,
-     "https://www.vea.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p"
+     1990.0,
+     "https://www.vea.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p"
     ],
     "Jumbo": [
-     11662.5,
-     "https://www.jumbo.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p"
-    ],
-    "Carrefour": [
-     14389.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-reserva-750-cc/p"
-    ],
-    "ChangoMás": [
-     7479.5,
-     "https://www.masonline.com.ar/vino-malbec-fond-de-cave-reserva-750-cc-2/p"
+     1025.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-sesamo-y-lino-sin-sal-arrocitas-101-gr-2/p"
     ]
    }
   },
@@ -799,118 +2660,343 @@
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Naranja Dulce 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
+   "n": "Galletas de arroz Macrobiótica dulces 102 g.",
+   "m": "Macrobiótica",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939583/7790538009615_02.jpg?v=639258567328400000",
    "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
-   "referencia": 500.0,
-   "precio_2da": 389.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.7,
-   "score": 1787,
+   "precio": 975.0,
+   "link": "https://www.jumbo.com.ar/galletas-de-arroz-macrobiotica-dulces-102-gr/p",
+   "referencia": 1608.75,
+   "precio_2da": 1779.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 45.2,
+   "score": 1780,
    "pr": {
+    "Carrefour": [
+     1779.0,
+     "https://www.carrefour.com.ar/galletas-de-arroz-macrobiotica-dulces-102-g/p"
+    ],
     "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+     1990.0,
+     "https://www.vea.com.ar/galletas-de-arroz-macrobiotica-dulces-102-gr/p"
     ],
     "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+     975.0,
+     "https://www.jumbo.com.ar/galletas-de-arroz-macrobiotica-dulces-102-gr/p"
     ],
     "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
-    ],
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+     1979.0,
+     "https://www.masonline.com.ar/galleta-arroz-dulces-macrobiotica-102-gr-2/p"
     ]
    }
   },
   {
-   "n": "Vino Chardonnay Fair For Life 750 Cc Finca Las Moras",
-   "m": "FINCA LAS MORAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/915854/7791540054280 -002-.jpg?v=639154777591100000",
-   "cadena": "ChangoMás",
-   "precio": 3859.5,
-   "link": "https://www.masonline.com.ar/vino-tinto-finca-las-moras-fair-for-life-cabernet-sauvignon-750ml-2/p",
-   "referencia": 5789.25,
-   "precio_2da": 8290.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 53.4,
-   "score": 1781,
+   "n": "Galletita Mana Chocolate Y Vainilla X152 Gr",
+   "m": "MANA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/894366/Galletita-Mana-Chocolate-Y-Vainilla-X152-Gr-1-859556.jpg?v=639023602458430000",
+   "cadena": "Jumbo",
+   "precio": 900.0,
+   "link": "https://www.jumbo.com.ar/galletita-mana-chocolate-y-vainilla-x152-gr-2/p",
+   "referencia": 1485.0,
+   "precio_2da": 1627.69,
+   "baja_pct": 39.4,
+   "brecha_pct": 44.7,
+   "score": 1761,
    "pr": {
     "Vea": [
-     8290.0,
-     "https://www.vea.com.ar/vino-chardonnay-fair-for-life-750-cc-finca-las-moras/p"
+     1690.0,
+     "https://www.vea.com.ar/galletita-mana-chocolate-y-vainilla-x152-gr-2/p"
     ],
     "Jumbo": [
-     8600.0,
-     "https://www.jumbo.com.ar/vino-chardonnay-fair-for-life-750-cc-finca-las-moras/p"
+     900.0,
+     "https://www.jumbo.com.ar/galletita-mana-chocolate-y-vainilla-x152-gr-2/p"
     ],
     "ChangoMás": [
-     3859.5,
-     "https://www.masonline.com.ar/vino-tinto-finca-las-moras-fair-for-life-cabernet-sauvignon-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Yerba mate Amanda tradicional 1 kg.",
-   "m": "Amanda",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/782861/7792710000175_01.jpg?v=639016566112270000",
-   "cadena": "ChangoMás",
-   "precio": 2499.0,
-   "link": "https://www.masonline.com.ar/yarba-mate-amanda-con-palo-x-1-kg-2/p",
-   "referencia": 5289.0,
-   "precio_2da": 3740.0,
-   "baja_pct": 52.8,
-   "brecha_pct": 33.2,
-   "score": 1750,
-   "pr": {
+     1869.0,
+     "https://www.masonline.com.ar/galletitas-de-chocolate-mana-rellenas-de-vainilla-152g-2/p"
+    ],
     "Carrefour": [
-     3740.0,
-     "https://www.carrefour.com.ar/yerba-mate-amanda-tradicional-1-kg/p"
+     1690.0,
+     "https://www.carrefour.com.ar/galletitas-chocolate-rellenas-vainilla-mana-152-g-675037/p"
     ],
     "Comodín": [
-     4300.39,
-     "https://www.comodinencasa.com.ar/yerba-amanda-1kg/p"
-    ],
-    "ChangoMás": [
-     2499.0,
-     "https://www.masonline.com.ar/yarba-mate-amanda-con-palo-x-1-kg-2/p"
+     1627.69,
+     "https://www.comodinencasa.com.ar/galleta-mana-rell-vain-x-165-gr/p"
     ]
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Manzana 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/843618/Jugo-En-Polvo-Arcor-Manzana-15gr-1-1028014.jpg?v=638658132369800000",
+   "n": "Galletitas Coquitas de coco 177 g.",
+   "m": "Coquitas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924199/7790040143258_E01.jpg?v=639240579872400000",
    "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p",
-   "referencia": 500.0,
-   "precio_2da": 377.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.7,
-   "score": 1684,
+   "precio": 1050.0,
+   "link": "https://www.jumbo.com.ar/galletitas-coquitas-177-gr-2/p",
+   "referencia": 1732.5,
+   "precio_2da": 1890.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 44.4,
+   "score": 1751,
    "pr": {
+    "Carrefour": [
+     1890.0,
+     "https://www.carrefour.com.ar/galletitas-coquitas-de-coco-177-g-739532/p"
+    ],
     "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+     1890.0,
+     "https://www.vea.com.ar/galletitas-coquitas-177-gr-2/p"
     ],
     "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+     1050.0,
+     "https://www.jumbo.com.ar/galletitas-coquitas-177-gr-2/p"
     ],
     "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
+     1989.0,
+     "https://www.masonline.com.ar/galletitas-dulces-coquitas-con-coco-177-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Oreo 4paqx6un 258g",
+   "m": "OREO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885424/Galletitas-258Grs-4Paquetes-de-6Un-Oreo-Galletitas-Oreo-4paqx6un-258g-1-1048892.jpg?v=638948650368800000",
+   "cadena": "Jumbo",
+   "precio": 2875.0,
+   "link": "https://www.jumbo.com.ar/galletitas-oreo-4paqx6un-258g/p",
+   "referencia": 5750.0,
+   "precio_2da": 4410.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.8,
+   "score": 1740,
+   "pr": {
+    "Vea": [
+     5490.0,
+     "https://www.vea.com.ar/galletitas-oreo-4paqx6un-258g/p"
+    ],
+    "Jumbo": [
+     2875.0,
+     "https://www.jumbo.com.ar/galletitas-oreo-4paqx6un-258g/p"
     ],
     "Carrefour": [
-     377.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
+     4410.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-de-chocolate-oreo-rellenas-de-vainilla-x4-43-grs-768034/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Merengadas fresa x3 264 grs",
+   "m": "Merengadas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/318930/7790040139091_E01.jpg?v=639135174698630000",
+   "cadena": "Jumbo",
+   "precio": 2325.0,
+   "link": "https://www.jumbo.com.ar/galletitas-merengadas-frutilla-264g-2/p",
+   "referencia": 3836.25,
+   "precio_2da": 4120.09,
+   "baja_pct": 39.4,
+   "brecha_pct": 43.6,
+   "score": 1716,
+   "pr": {
+    "Carrefour": [
+     4250.0,
+     "https://www.carrefour.com.ar/galletitas-merengadas-fresa-x3-264-grs-708528/p"
+    ],
+    "Vea": [
+     4250.0,
+     "https://www.vea.com.ar/galletitas-merengadas-frutilla-264g-2/p"
+    ],
+    "Jumbo": [
+     2325.0,
+     "https://www.jumbo.com.ar/galletitas-merengadas-frutilla-264g-2/p"
+    ],
+    "Comodín": [
+     4120.09,
+     "https://www.comodinencasa.com.ar/galleta-merengada-x-279-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Terrabusi blanco glaseado pack 6 uni",
+   "m": "Terrabusi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825749/7622300742621_E01.jpg?v=639086663097130000",
+   "cadena": "ChangoMás",
+   "precio": 4199.0,
+   "link": "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-6u-228gr-2/p",
+   "referencia": 7609.0,
+   "precio_2da": 6709.0,
+   "baja_pct": 44.8,
+   "brecha_pct": 37.4,
+   "score": 1677,
+   "pr": {
+    "Carrefour": [
+     6709.0,
+     "https://www.carrefour.com.ar/alfajor-terrabusi-blanco-glaseado-pack-6-uni-520833/p"
+    ],
+    "Vea": [
+     8190.0,
+     "https://www.vea.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p"
+    ],
+    "Jumbo": [
+     8000.0,
+     "https://www.jumbo.com.ar/alfajor-terrabusi-blanco-glaseado-228-gr-6-u/p"
+    ],
+    "Comodín": [
+     9425.59,
+     "https://www.comodinencasa.com.ar/alfajor-terrabusi-glaceado-x-6-un-2/p"
+    ],
+    "ChangoMás": [
+     4199.0,
+     "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-6u-228gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Manon 182 Gr",
+   "m": "MANON",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/901842/Galletitas-Manon-182-Gr-1-1008350.jpg?v=639087754011930000",
+   "cadena": "Jumbo",
+   "precio": 925.0,
+   "link": "https://www.jumbo.com.ar/galletitas-manon-182-gr/p",
+   "referencia": 1526.25,
+   "precio_2da": 1599.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 42.2,
+   "score": 1661,
+   "pr": {
+    "Vea": [
+     1790.0,
+     "https://www.vea.com.ar/galletitas-manon-182-gr/p"
+    ],
+    "Jumbo": [
+     925.0,
+     "https://www.jumbo.com.ar/galletitas-manon-182-gr/p"
+    ],
+    "ChangoMás": [
+     1769.0,
+     "https://www.masonline.com.ar/galletitas-manon-182-g-2/p"
+    ],
+    "Carrefour": [
+     1599.0,
+     "https://www.carrefour.com.ar/galletitas-manon-182-g-720548/p"
+    ],
+    "Comodín": [
+     1917.79,
+     "https://www.comodinencasa.com.ar/galleta-manon-x-178-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas sabor original Rex 225 g.",
+   "m": "Rex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905751/7790040144125_E01.jpg?v=639202557100000000",
+   "cadena": "Jumbo",
+   "precio": 1825.0,
+   "link": "https://www.jumbo.com.ar/galletitas-rex-225-gr/p",
+   "referencia": 3650.0,
+   "precio_2da": 2721.75,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.9,
+   "score": 1647,
+   "pr": {
+    "Carrefour": [
+     2721.75,
+     "https://www.carrefour.com.ar/galletitas-sabor-original-rex-225-g-745254/p"
+    ],
+    "Vea": [
+     3490.0,
+     "https://www.vea.com.ar/galletitas-rex-225-gr/p"
+    ],
+    "Jumbo": [
+     1825.0,
+     "https://www.jumbo.com.ar/galletitas-rex-225-gr/p"
+    ],
+    "ChangoMás": [
+     3729.0,
+     "https://www.masonline.com.ar/galletitas-snacks-rex-sabor-original-225-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aperitivo cocktail con alcohol rose Emilia en botella 750 cc.",
+   "m": "Emilia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823259/7790070764027_02.jpg?v=639083181989670000",
+   "cadena": "ChangoMás",
+   "precio": 6599.4,
+   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p",
+   "referencia": 10999.0,
+   "precio_2da": 11109.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Carrefour": [
+     11109.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-rose-emilia-750-ml-746900/p"
+    ],
+    "Jumbo": [
+     11550.0,
+     "https://www.jumbo.com.ar/espumante-emilia-cocktail-rose-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     6599.4,
+     "https://www.masonline.com.ar/cocktail-espumante-emilia-rose-a-base-de-vino-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Espumante Emilia Cocktail Clarea X 750 Cc",
+   "m": "EMILIA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835167/Espumante-Emilia-Cocktail-Clarea-750cc-1-1025741.jpg?v=638622057696870000",
+   "cadena": "ChangoMás",
+   "precio": 6599.4,
+   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-clarea-a-base-de-vino-750-ml/p",
+   "referencia": 10999.0,
+   "precio_2da": 11109.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.6,
+   "score": 1624,
+   "pr": {
+    "Vea": [
+     12490.0,
+     "https://www.vea.com.ar/espumante-emilia-cocktail-clarea-x-750-cc/p"
+    ],
+    "Jumbo": [
+     12950.0,
+     "https://www.jumbo.com.ar/espumante-emilia-cocktail-clarea-x-750-cc/p"
+    ],
+    "Carrefour": [
+     11109.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-clarea-emilia-750-ml-746899/p"
+    ],
+    "ChangoMás": [
+     6599.4,
+     "https://www.masonline.com.ar/cocktail-espumante-emilia-clarea-a-base-de-vino-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Malbec Fabre Montmayou 750 ml",
+   "m": "Fabre Montmayou",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/300075/7798000213515_01.jpg?v=638133806684700000",
+   "cadena": "Jumbo",
+   "precio": 7100.0,
+   "link": "https://www.jumbo.com.ar/vino-h-j-fabre-malbec-merlot-x-750-ml/p",
+   "referencia": 14200.0,
+   "precio_2da": 10499.4,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.4,
+   "score": 1619,
+   "pr": {
+    "Carrefour": [
+     11783.92,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-fabre-montmayou-750-cc/p"
+    ],
+    "Jumbo": [
+     7100.0,
+     "https://www.jumbo.com.ar/vino-h-j-fabre-malbec-merlot-x-750-ml/p"
+    ],
+    "ChangoMás": [
+     10499.4,
+     "https://www.masonline.com.ar/vino-tinto-fabre-montmayou-reserva-terruno-malbec-2/p"
     ]
    }
   },
@@ -942,164 +3028,157 @@
    }
   },
   {
-   "n": "Vodka Absolut raspberri botella 700 cc.",
-   "m": "Absolut",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821069/7312040350056_01.jpg?v=639083181331170000",
-   "cadena": "Vea",
-   "precio": 19014.0,
-   "link": "https://www.vea.com.ar/vodka-absolut-raspberri-700-ml-2/p",
-   "referencia": 31690.0,
-   "precio_2da": 31690.0,
+   "n": "Espumante Salentein Blanc De Blancs 750 Ml",
+   "m": "SALENTEIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/927962/12410382002.jpg?v=639245827923300000",
+   "cadena": "ChangoMás",
+   "precio": 11369.4,
+   "link": "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p",
+   "referencia": 18949.0,
+   "precio_2da": 18950.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
-    "Carrefour": [
-     31690.0,
-     "https://www.carrefour.com.ar/vodka-absolut-raspberri-botella-700-cc-697601/p"
-    ],
     "Vea": [
-     19014.0,
-     "https://www.vea.com.ar/vodka-absolut-raspberri-700-ml-2/p"
-    ],
-    "ChangoMás": [
-     31799.0,
-     "https://www.masonline.com.ar/vodka-raspberri-absolut-700-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Whisky importado Ballantines finest 1 l.",
-   "m": "Ballantines",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821023/5010106111925_01.jpg?v=639083181323970000",
-   "cadena": "Vea",
-   "precio": 29520.0,
-   "link": "https://www.vea.com.ar/whisky-ballantines-finest-1-l/p",
-   "referencia": 49200.0,
-   "precio_2da": 49119.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.9,
-   "score": 1596,
-   "pr": {
-    "Carrefour": [
-     49119.0,
-     "https://www.carrefour.com.ar/whisky-importado-ballantines-finest-1-l/p"
-    ],
-    "Vea": [
-     29520.0,
-     "https://www.vea.com.ar/whisky-ballantines-finest-1-l/p"
-    ],
-    "ChangoMás": [
-     49119.0,
-     "https://www.masonline.com.ar/whisky-finest-ballantines-1-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Gin Sabor Pink Strawberry 700 Ml Beefeater",
-   "m": "BEEFEATER",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/550224/Gin-Beefeater-Pink-700ml-1-475123.jpg?v=637056691448670000",
-   "cadena": "Jumbo",
-   "precio": 23550.0,
-   "link": "https://www.jumbo.com.ar/gin-beefeater-pink-700-ml/p",
-   "referencia": 39250.0,
-   "precio_2da": 38859.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.4,
-   "score": 1576,
-   "pr": {
-    "Jumbo": [
-     23550.0,
-     "https://www.jumbo.com.ar/gin-beefeater-pink-700-ml/p"
-    ],
-    "ChangoMás": [
-     38859.0,
-     "https://www.masonline.com.ar/gin-beefeater-pink-700cc-2/p"
+     20690.0,
+     "https://www.vea.com.ar/espumante-salentein-blanc-de-blancs-750-ml/p"
     ],
     "Carrefour": [
-     38859.0,
-     "https://www.carrefour.com.ar/gin-beefeater-london-pink-700-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Whisky Chivas Regal importado 12 años 700 cc.",
-   "m": "Chivas Regal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823739/80432402931_01.jpg?v=639083182089330000",
-   "cadena": "Vea",
-   "precio": 42720.0,
-   "link": "https://www.vea.com.ar/whisky-chivas-12-700-ml/p",
-   "referencia": 71200.0,
-   "precio_2da": 70119.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.1,
-   "score": 1563,
-   "pr": {
-    "Carrefour": [
-     70119.0,
-     "https://www.carrefour.com.ar/whisky-chivas-regal-importado-12-anos-700-cc-697600/p"
-    ],
-    "Vea": [
-     42720.0,
-     "https://www.vea.com.ar/whisky-chivas-12-700-ml/p"
+     18950.0,
+     "https://www.carrefour.com.ar/espumante-salentein-blanc-de-blancs-750-ml-719772/p"
     ],
     "ChangoMás": [
-     70119.0,
-     "https://www.masonline.com.ar/whisky-chicas-regal-12-700-cc-2/p"
+     11369.4,
+     "https://www.masonline.com.ar/espumante-salentein-blanc-de-blancs-750ml-2/p"
     ]
    }
   },
   {
-   "n": "Vino Rosado Dulce Blend 750 Cc Finca Las Moras",
-   "m": "FINCA LAS MORAS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/766989/Vino-Finca-Las-Moras-Rosado-Dulce-750cc-1-46134.jpg?v=638108949797670000",
+   "n": "Champagne Mumm Extra Brut 750 Cc",
+   "m": "MUMM",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/550114/Champaña-Mumm-Cuvee-Extra-Brut-750-Cc-1-14431.jpg?v=637056690931770000",
    "cadena": "ChangoMás",
-   "precio": 2854.5,
-   "link": "https://www.masonline.com.ar/vino-rosado-dulce-finca-las-moras-750-cc-2/p",
-   "referencia": 4281.75,
-   "precio_2da": 5289.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.0,
-   "score": 1534,
+   "precio": 7085.4,
+   "link": "https://www.masonline.com.ar/vino-espumante-cuvee-extra-brut-mumm-750-cc-2/p",
+   "referencia": 11809.0,
+   "precio_2da": 11809.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
     "Jumbo": [
-     5900.0,
-     "https://www.jumbo.com.ar/vino-finca-las-moras-rosado-dulce-750cc/p"
+     13000.0,
+     "https://www.jumbo.com.ar/champana-mumm-cuvee-extra-brut-750-cc/p"
     ],
     "Carrefour": [
-     5289.0,
-     "https://www.carrefour.com.ar/vino-rosado-dulce-finca-las-moras-750-ml-586185/p"
+     11809.0,
+     "https://www.carrefour.com.ar/espumante-extra-brut-mumm-750-cc/p"
     ],
     "ChangoMás": [
-     2854.5,
-     "https://www.masonline.com.ar/vino-rosado-dulce-finca-las-moras-750-cc-2/p"
+     7085.4,
+     "https://www.masonline.com.ar/vino-espumante-cuvee-extra-brut-mumm-750-cc-2/p"
     ]
    }
   },
   {
-   "n": "Cepillo dental indicator clásico Oral B x 3 uni",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/221765/7500435153393_01.jpg?v=637705140716300000",
-   "cadena": "Jumbo",
-   "precio": 8850.0,
-   "link": "https://www.jumbo.com.ar/cepillo-oral-b-indicator-medio-x3/p",
-   "referencia": 14750.0,
-   "precio_2da": 14290.0,
+   "n": "Aperitivo cocktail con alcohol con spritz Emilia en botella 750 cc.",
+   "m": "Emilia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821081/7790070764041_02.jpg?v=639083181331630000",
+   "cadena": "ChangoMás",
+   "precio": 6599.4,
+   "link": "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p",
+   "referencia": 10999.0,
+   "precio_2da": 10990.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.1,
-   "score": 1523,
+   "brecha_pct": 40.0,
+   "score": 1598,
    "pr": {
     "Carrefour": [
-     14290.0,
-     "https://www.carrefour.com.ar/cepillo-dental-indicator-clasico-oral-b-x-3-uni/p"
+     11109.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-cocktail-con-spritz-emilia-750-ml-746902/p"
     ],
     "Vea": [
-     14290.0,
-     "https://www.vea.com.ar/cepillo-oral-b-indicator-medio-x3/p"
+     10990.0,
+     "https://www.vea.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
     ],
     "Jumbo": [
-     8850.0,
-     "https://www.jumbo.com.ar/cepillo-oral-b-indicator-medio-x3/p"
+     11550.0,
+     "https://www.jumbo.com.ar/espumante-emilia-cocktail-spritz-x-750-cc/p"
+    ],
+    "ChangoMás": [
+     6599.4,
+     "https://www.masonline.com.ar/cocktail-espumante-emilia-spritz-a-base-de-vino-750-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Sabor Chocolate con Leche 80 Grs Bauducco",
+   "m": "BAUDUCCO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/890165/Biscuit-Bauducco-Chocolate-Con-Leche-80-Gr-1-1051138.jpg?v=638984723253270000",
+   "cadena": "Jumbo",
+   "precio": 1850.0,
+   "link": "https://www.jumbo.com.ar/biscuit-chocolate-con-leche-x-80-grs-bauducco/p",
+   "referencia": 3052.5,
+   "precio_2da": 3044.09,
+   "baja_pct": 39.4,
+   "brecha_pct": 39.2,
+   "score": 1545,
+   "pr": {
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/biscuit-chocolate-con-leche-x-80-grs-bauducco/p"
+    ],
+    "Jumbo": [
+     1850.0,
+     "https://www.jumbo.com.ar/biscuit-chocolate-con-leche-x-80-grs-bauducco/p"
+    ],
+    "ChangoMás": [
+     4099.0,
+     "https://www.masonline.com.ar/galletitas-bauducco-chocolate-con-leche-80g/p"
+    ],
+    "Carrefour": [
+     3190.0,
+     "https://www.carrefour.com.ar/galletitas-cubo-bauducco-chocolate-con-leche-80-grs-772744/p"
+    ],
+    "Comodín": [
+     3044.09,
+     "https://www.comodinencasa.com.ar/galleta-bauducco-choco-biscuit-80gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Salvado x 3 Un 624 Grs Cerealitas",
+   "m": "CEREALITAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/846476/Galletitas-Cracker-Cereal-Salvado-Cerealitas-X3uni-624g-1-957296.jpg?v=638678865850030000",
+   "cadena": "Jumbo",
+   "precio": 3375.0,
+   "link": "https://www.jumbo.com.ar/galletitas-cracker-cereal-salvado-cerealitas-x3uni-624g/p",
+   "referencia": 6750.0,
+   "precio_2da": 4867.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.7,
+   "score": 1533,
+   "pr": {
+    "Vea": [
+     4867.5,
+     "https://www.vea.com.ar/galletitas-cracker-cereal-salvado-cerealitas-x3uni-624g/p"
+    ],
+    "Jumbo": [
+     3375.0,
+     "https://www.jumbo.com.ar/galletitas-cracker-cereal-salvado-cerealitas-x3uni-624g/p"
+    ],
+    "Comodín": [
+     6755.89,
+     "https://www.comodinencasa.com.ar/galleta-cerealitas-salvado-3-x-202-gr/p"
+    ],
+    "ChangoMás": [
+     6439.0,
+     "https://www.masonline.com.ar/galletitas-cerealitas-de-salvado-624-g-3u-2/p"
+    ],
+    "Carrefour": [
+     6319.0,
+     "https://www.carrefour.com.ar/galletitas-de-salvado-cerealitas-624-g-720566/p"
     ]
    }
   },
@@ -1135,29 +3214,33 @@
    }
   },
   {
-   "n": "Vodka Sernova Candy Glow en botella 700 ml",
-   "m": "Sernova",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822169/7790290101787_02.jpg?v=639083181693370000",
-   "cadena": "Vea",
-   "precio": 8040.0,
-   "link": "https://www.vea.com.ar/vodka-candy-glow-x-700-cc-sernova/p",
-   "referencia": 13400.0,
-   "precio_2da": 12937.6,
+   "n": "Yogur Firme Entero Sabor Frutilla La Serenísima Nutrición Activa 480 grs",
+   "m": "La Serenísima",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912731/7791337010796_02.jpg?v=639220659958030000",
+   "cadena": "Jumbo",
+   "precio": 2970.0,
+   "link": "https://www.jumbo.com.ar/yogur-firme-frutilla-480g-nutricion-activa-la-serenisima/p",
+   "referencia": 4950.0,
+   "precio_2da": 4769.0,
    "baja_pct": 40.0,
-   "brecha_pct": 37.9,
-   "score": 1514,
+   "brecha_pct": 37.7,
+   "score": 1509,
    "pr": {
     "Carrefour": [
-     13800.0,
-     "https://www.carrefour.com.ar/vodka-sernova-candy-glow-en-botella-700-ml-767310/p"
+     4769.0,
+     "https://www.carrefour.com.ar/yogur-firme-entero-sabor-frutilla-la-serenisima-nutricion-activa-480-grs-783814/p"
     ],
-    "Vea": [
-     8040.0,
-     "https://www.vea.com.ar/vodka-candy-glow-x-700-cc-sernova/p"
+    "Jumbo": [
+     2970.0,
+     "https://www.jumbo.com.ar/yogur-firme-frutilla-480g-nutricion-activa-la-serenisima/p"
+    ],
+    "ChangoMás": [
+     4769.0,
+     "https://www.masonline.com.ar/yogur-firme-entero-la-serenisima-frutilla-4u-480g/p"
     ],
     "Comodín": [
-     12937.6,
-     "https://www.comodinencasa.com.ar/vodka-sernova-candy-glow-700-cc/p"
+     5229.99,
+     "https://www.comodinencasa.com.ar/yogur-ls-firme-entero-frutilla-x4-480g/p"
     ]
    }
   },
