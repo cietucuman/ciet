@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-05",
- "actualizado": "2026-10-05 04:33",
+ "fecha": "2026-10-06",
+ "actualizado": "2026-10-06 07:52",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -15,88 +15,23 @@
   "2026-09-30",
   "2026-10-01",
   "2026-10-02",
-  "2026-10-05"
+  "2026-10-05",
+  "2026-10-06"
  ],
- "total": 58,
+ "total": 53,
  "ofertas": [
-  {
-   "n": "Enjuague bucal Colgate Total carbón activado 250 ml",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/621125/7509546686622_01.jpg?v=638748023698700000",
-   "cadena": "Comodín",
-   "precio": 2664.49,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-t12-carbona-250ml/p",
-   "referencia": 5328.99,
-   "precio_2da": 6490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 58.9,
-   "score": 2947,
-   "pr": {
-    "Carrefour": [
-     6490.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-total-carbon-activado-250-ml-722028/p"
-    ],
-    "Vea": [
-     6490.0,
-     "https://www.vea.com.ar/enjuague-bucal-carbon-250-ml-colgate-total/p"
-    ],
-    "Jumbo": [
-     6800.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-carbon-250-ml-colgate-total/p"
-    ],
-    "Comodín": [
-     2664.49,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-t12-carbona-250ml/p"
-    ],
-    "ChangoMás": [
-     6719.0,
-     "https://www.masonline.com.ar/enjuague-bucal-colgate-total-12-carbon-activado-250ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de dientes Kolynos master plus 1 uni",
-   "m": "Kolynos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/477728/7753442000390_01.jpg?v=638441171476030000",
-   "cadena": "Comodín",
-   "precio": 985.39,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-kolynos-master-plus/p",
-   "referencia": 1970.79,
-   "precio_2da": 2390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 58.8,
-   "score": 2939,
-   "pr": {
-    "Carrefour": [
-     2390.0,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-kolynos-master-plus-1-uni-727090/p"
-    ],
-    "Jumbo": [
-     2700.0,
-     "https://www.jumbo.com.ar/cepillo-dental-kolynos-master/p"
-    ],
-    "Comodín": [
-     985.39,
-     "https://www.comodinencasa.com.ar/cepillo-dental-kolynos-master-plus/p"
-    ],
-    "ChangoMás": [
-     2449.0,
-     "https://www.masonline.com.ar/cepillo-de-dientes-kolynos-master-plus-1u-2/p"
-    ]
-   }
-  },
   {
    "n": "Enjuague bucal Colgate Plax minions 250 cc",
    "m": "Colgate",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/670945/7891024030806_01.jpg?v=638853378880700000",
    "cadena": "Comodín",
-   "precio": 2452.85,
+   "precio": 2358.49,
    "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-minion-250ml/p",
    "referencia": 4905.69,
    "precio_2da": 5590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 56.1,
-   "score": 2806,
+   "baja_pct": 51.9,
+   "brecha_pct": 57.8,
+   "score": 3002,
    "pr": {
     "Carrefour": [
      5590.0,
@@ -107,217 +42,43 @@
      "https://www.masonline.com.ar/enjuague-bucal-colgate-plax-ninos-minions-250ml-2/p"
     ],
     "Comodín": [
-     2452.85,
+     2358.49,
      "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-minion-250ml/p"
     ]
    }
   },
   {
-   "n": "Enjuague bucal Colgate Plax ice infinity 180 ml",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/683073/7891024039625_01.jpg?v=638887005082670000",
-   "cadena": "Comodín",
-   "precio": 1769.59,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-180ml/p",
-   "referencia": 3539.19,
-   "precio_2da": 3990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.6,
-   "score": 2782,
+   "n": "Alfajor Pepitos triple 57 g.",
+   "m": "Pepitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
+   "referencia": 2569.0,
+   "precio_2da": 2690.0,
+   "baja_pct": 51.4,
+   "brecha_pct": 53.6,
+   "score": 2750,
    "pr": {
     "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180-ml-717589/p"
+     2690.0,
+     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
     ],
     "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml/p"
+     2690.0,
+     "https://www.vea.com.ar/alfajor-pepitos-triple-57g/p"
     ],
     "Jumbo": [
-     4000.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml/p"
+     2750.0,
+     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
     ],
     "Comodín": [
-     1769.59,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-180ml/p"
+     2983.79,
+     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
     ],
     "ChangoMás": [
-     4129.0,
-     "https://www.masonline.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Enjuague bucal Colgate Plax Ice Infinity 60 ml",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727416/7891024027363_01.jpg?v=638948400847600000",
-   "cadena": "Comodín",
-   "precio": 757.15,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-60ml/p",
-   "referencia": 1514.29,
-   "precio_2da": 1699.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.4,
-   "score": 2772,
-   "pr": {
-    "Carrefour": [
-     1699.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-ice-infinity-60-ml-717591/p"
-    ],
-    "Jumbo": [
-     1800.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-colgate-plax-ice-infinity-60-ml/p"
-    ],
-    "Comodín": [
-     757.15,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-60ml/p"
-    ],
-    "ChangoMás": [
-     1769.0,
-     "https://www.masonline.com.ar/enjuague-bucal-colgate-total-12-clean-mint-60ml-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Enjuague Bucal Plax Odor Control 250 Ml Colgate",
-   "m": "COLGATE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/876546/Enjuague-Bucal-Plax-Odor-Control-250-Ml-Colgate-1-947360.jpg?v=638881041945370000",
-   "cadena": "Comodín",
-   "precio": 2498.09,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-ice-in-250ml/p",
-   "referencia": 4996.19,
-   "precio_2da": 5605.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.4,
-   "score": 2772,
-   "pr": {
-    "Jumbo": [
-     5800.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-plax-odor-control-250-ml-colgate-2/p"
-    ],
-    "Comodín": [
-     2498.09,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-ice-in-250ml/p"
-    ],
-    "ChangoMás": [
-     5609.0,
-     "https://www.masonline.com.ar/enjuague-bucal-colgate-plax-ice-infinity-250ml-2/p"
-    ],
-    "Carrefour": [
-     5605.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-odor-control-250-ml-717314/p"
-    ]
-   }
-  },
-  {
-   "n": "Enjuague Bucal Odor Control Cero Alcohol 500 Ml Colgate",
-   "m": "COLGATE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/876547/Enjuague-Bucal-Plax-Odor-Control-500-Ml-Colgate-1-947361.jpg?v=638881041947570000",
-   "cadena": "Comodín",
-   "precio": 3493.89,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-pla-ice-fus-500ml/p",
-   "referencia": 6987.79,
-   "precio_2da": 7790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.1,
-   "score": 2757,
-   "pr": {
-    "Vea": [
-     7790.0,
-     "https://www.vea.com.ar/enjuague-bucal-plax-odor-control-500-ml-colgate-2/p"
-    ],
-    "Jumbo": [
-     7850.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-plax-odor-control-500-ml-colgate-2/p"
-    ],
-    "Comodín": [
-     3493.89,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-pla-ice-fus-500ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Enjuague bucal Colgate Plax Fresh mint 750 ml",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/683045/7509546679617_01.jpg?v=638887002677600000",
-   "cadena": "Comodín",
-   "precio": 4364.89,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-menta-750ml/p",
-   "referencia": 8729.79,
-   "precio_2da": 9318.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 53.2,
-   "score": 2658,
-   "pr": {
-    "Carrefour": [
-     9700.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-fresh-mint-750-ml-717599/p"
-    ],
-    "Jumbo": [
-     9318.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-plax-fresh-mint-750-ml-colgate-2/p"
-    ],
-    "Comodín": [
-     4364.89,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-menta-750ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Gomitas Mogul Sandia Extreme 50Gr",
-   "m": "Mogul",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/173980/Gomitas-Mogul-Sandia-Extreme-50Gr.png?v=638146528528870000",
-   "cadena": "Comodín",
-   "precio": 708.55,
-   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-sandia-extreme-50gr-2/p",
-   "referencia": 1417.09,
-   "precio_2da": 1489.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 52.4,
-   "score": 2621,
-   "pr": {
-    "Comodín": [
-     708.55,
-     "https://www.comodinencasa.com.ar/gomitas-mogul-sandia-extreme-50gr-2/p"
-    ],
-    "Carrefour": [
-     1489.0,
-     "https://www.carrefour.com.ar/gomitas-mogul-extreme-acido-frutales-sandia-50-g/p"
-    ],
-    "ChangoMás": [
-     1629.0,
-     "https://www.masonline.com.ar/gomitas-sabor-sandia-extreme-mogul-x-50gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de Dientes Medio Max White x 2 Un Colgate",
-   "m": "COLGATE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833366/Cepillo-De-Dientes-Colgate-Max-White-Medio-2-X-1-U-1-47291.jpg?v=638610936417630000",
-   "cadena": "Comodín",
-   "precio": 3667.05,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-max-whit-m-2x1-x1/p",
-   "referencia": 7334.09,
-   "precio_2da": 7449.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.8,
-   "score": 2539,
-   "pr": {
-    "Vea": [
-     7690.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-max-white-medio-2-un-colgate/p"
-    ],
-    "Jumbo": [
-     7850.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-max-white-medio-2-un-colgate/p"
-    ],
-    "Comodín": [
-     3667.05,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-max-whit-m-2x1-x1/p"
-    ],
-    "ChangoMás": [
-     7449.0,
-     "https://www.masonline.com.ar/cepillo-dental-max-white-colgate-2-x-1-2/p"
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
     ]
    }
   },
@@ -326,13 +87,13 @@
    "m": "ARCOR",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/872323/Dientes-Mogul-Arcor-80-Gr-1-1039195.jpg?v=638859441978830000",
    "cadena": "Comodín",
-   "precio": 945.7,
+   "precio": 909.33,
    "link": "https://www.comodinencasa.com.ar/gomitas-mogul-dientes-80gr/p",
    "referencia": 1891.4,
    "precio_2da": 1889.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.9,
-   "score": 2497,
+   "baja_pct": 51.9,
+   "brecha_pct": 51.9,
+   "score": 2693,
    "pr": {
     "Vea": [
      1890.0,
@@ -343,7 +104,7 @@
      "https://www.jumbo.com.ar/dientes-mogul-x-80-gr-arcor/p"
     ],
     "Comodín": [
-     945.7,
+     909.33,
      "https://www.comodinencasa.com.ar/gomitas-mogul-dientes-80gr/p"
     ],
     "ChangoMás": [
@@ -357,20 +118,20 @@
    "m": "MOGUL",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/872326/Eucaliptus-Mogul-Arcor-80-Gr-1-1039198.jpg?v=638859441988470000",
    "cadena": "Comodín",
-   "precio": 945.7,
+   "precio": 909.33,
    "link": "https://www.comodinencasa.com.ar/gomitas-mogul-eucaliptus-80gr/p",
    "referencia": 1891.4,
    "precio_2da": 1889.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.9,
-   "score": 2497,
+   "baja_pct": 51.9,
+   "brecha_pct": 51.9,
+   "score": 2693,
    "pr": {
     "Vea": [
      1890.0,
      "https://www.vea.com.ar/eucaliptus-mogul-x-80-gr-arcor/p"
     ],
     "Comodín": [
-     945.7,
+     909.33,
      "https://www.comodinencasa.com.ar/gomitas-mogul-eucaliptus-80gr/p"
     ],
     "ChangoMás": [
@@ -380,29 +141,126 @@
    }
   },
   {
-   "n": "Gomitas Jelly Beans Sabor Surtido 80 Grs Mogul",
-   "m": "MOGUL",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/872324/Jelly-Beans-Mogul-Arcor-80-Gr-1-1039196.jpg?v=638859441981970000",
+   "n": "Moras Mogul X 80 Gr Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872321/Moras-Mogul-Arcor-80-Gr-1-1039193.jpg?v=638859441971600000",
    "cadena": "Comodín",
-   "precio": 945.7,
-   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-jelly-beans-80gr/p",
+   "precio": 909.33,
+   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-fruti-moras-80gr/p",
    "referencia": 1891.4,
-   "precio_2da": 1889.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.9,
-   "score": 2497,
+   "precio_2da": 1790.0,
+   "baja_pct": 51.9,
+   "brecha_pct": 49.2,
+   "score": 2555,
    "pr": {
+    "Vea": [
+     1790.0,
+     "https://www.vea.com.ar/moras-mogul-x-80-gr-arcor/p"
+    ],
     "Jumbo": [
-     2050.0,
-     "https://www.jumbo.com.ar/jelly-beans-mogul-x-80-gr-arcor/p"
+     1850.0,
+     "https://www.jumbo.com.ar/moras-mogul-x-80-gr-arcor/p"
+    ],
+    "Carrefour": [
+     1889.0,
+     "https://www.carrefour.com.ar/gomitas-moras-mogul-80-grs-762634/p"
     ],
     "Comodín": [
-     945.7,
-     "https://www.comodinencasa.com.ar/gomitas-mogul-jelly-beans-80gr/p"
+     909.33,
+     "https://www.comodinencasa.com.ar/gomitas-mogul-fruti-moras-80gr/p"
     ],
     "ChangoMás": [
      1889.0,
-     "https://www.masonline.com.ar/gomitas-mogul-jelly-beans-80-g/p"
+     "https://www.masonline.com.ar/gomitas-mogul-moras-80-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Gomitas Mogul Sandia Extreme 50Gr",
+   "m": "Mogul",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/173980/Gomitas-Mogul-Sandia-Extreme-50Gr.png?v=638146528528870000",
+   "cadena": "Comodín",
+   "precio": 719.15,
+   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-sandia-extreme-50gr-2/p",
+   "referencia": 1417.09,
+   "precio_2da": 1489.0,
+   "baja_pct": 49.3,
+   "brecha_pct": 51.7,
+   "score": 2546,
+   "pr": {
+    "Comodín": [
+     719.15,
+     "https://www.comodinencasa.com.ar/gomitas-mogul-sandia-extreme-50gr-2/p"
+    ],
+    "Carrefour": [
+     1489.0,
+     "https://www.carrefour.com.ar/gomitas-mogul-extreme-acido-frutales-sandia-50-g/p"
+    ],
+    "ChangoMás": [
+     1629.0,
+     "https://www.masonline.com.ar/gomitas-sabor-sandia-extreme-mogul-x-50gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nestlé Chocolate con leche 45 grs",
+   "m": "Nestlé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923233/8445291565173_01.jpg?v=639240348359770000",
+   "cadena": "Carrefour",
+   "precio": 1864.5,
+   "link": "https://www.carrefour.com.ar/nestle-chocolate-con-leche-45-grs-764048/p",
+   "referencia": 3729.0,
+   "precio_2da": 3790.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.8,
+   "score": 2540,
+   "pr": {
+    "Carrefour": [
+     1864.5,
+     "https://www.carrefour.com.ar/nestle-chocolate-con-leche-45-grs-764048/p"
+    ],
+    "Vea": [
+     3790.0,
+     "https://www.vea.com.ar/chocolate-leche-suave-y-cremoso-x-45-grs-nestle/p"
+    ],
+    "Jumbo": [
+     4100.0,
+     "https://www.jumbo.com.ar/chocolate-leche-suave-y-cremoso-x-45-grs-nestle/p"
+    ],
+    "ChangoMás": [
+     3879.0,
+     "https://www.masonline.com.ar/tableta-de-chocolate-nestle-leche-45-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallas Nocturnas Xtra Noches Tranquilas Suave 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/815525/Always-Xtra-Noches-Tranquilas-Suave-Toallas-Nocturnas-16-Unidades-1-989505.jpg?v=638464701838870000",
+   "cadena": "Comodín",
+   "precio": 3212.49,
+   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-pro-noc-suav-16un/p",
+   "referencia": 5345.59,
+   "precio_2da": 7979.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 59.7,
+   "score": 2384,
+   "pr": {
+    "Vea": [
+     8190.0,
+     "https://www.vea.com.ar/toallas-nocturnas-xtra-noches-tranquilas-suave-16-un-always/p"
+    ],
+    "Comodín": [
+     3212.49,
+     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-pro-noc-suav-16un/p"
+    ],
+    "Carrefour": [
+     7990.0,
+     "https://www.carrefour.com.ar/always-xtra-noches-tranquilas-suave-toallas-nocturnas-16-uni-726076/p"
+    ],
+    "ChangoMás": [
+     7979.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-suave-16un-2/p"
     ]
    }
   },
@@ -411,20 +269,20 @@
    "m": "MOGUL",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/586075/Gomitas-Mogul-Oso-Extreme-1-849365.jpg?v=637258009358600000",
    "cadena": "Comodín",
-   "precio": 708.55,
+   "precio": 719.15,
    "link": "https://www.comodinencasa.com.ar/gomas-mogul-oso-extreme-50gr-2/p",
    "referencia": 1417.09,
    "precio_2da": 1380.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.7,
-   "score": 2433,
+   "baja_pct": 49.3,
+   "brecha_pct": 47.9,
+   "score": 2359,
    "pr": {
     "Jumbo": [
      1550.0,
      "https://www.jumbo.com.ar/mogul-oso-extreme/p"
     ],
     "Comodín": [
-     708.55,
+     719.15,
      "https://www.comodinencasa.com.ar/gomas-mogul-oso-extreme-50gr-2/p"
     ],
     "Carrefour": [
@@ -434,79 +292,17 @@
    }
   },
   {
-   "n": "Leche Sabor Chocolate 200 Ml Nesquik",
-   "m": "NESQUIK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869191/Leche-Chocolotada-200ml-Nesquik-1-1035783.jpg?v=638840434187500000",
-   "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p",
-   "referencia": 2400.0,
-   "precio_2da": 2279.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.3,
-   "score": 2367,
-   "pr": {
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/leche-chocolotada-200ml-nesquik/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p"
-    ],
-    "ChangoMás": [
-     2279.0,
-     "https://www.masonline.com.ar/chocolatada-nesquik-original-200-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Fructis Hydraliss 200ml",
-   "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/798744/Shampoo-Fructis-Hydraliss-200ml-Shampoo-Fructis-Hydra-Liss-200ml-1-989547.jpg?v=638340290603270000",
-   "cadena": "Carrefour",
-   "precio": 2699.4,
-   "link": "https://www.carrefour.com.ar/shampoo-fructis-hydraliss-200-ml-723843/p",
-   "referencia": 4499.0,
-   "precio_2da": 6050.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 55.4,
-   "score": 2215,
-   "pr": {
-    "Vea": [
-     6590.0,
-     "https://www.vea.com.ar/shampoo-fructis-hydraliss-200ml/p"
-    ],
-    "Jumbo": [
-     6050.0,
-     "https://www.jumbo.com.ar/shampoo-fructis-hydraliss-200ml/p"
-    ],
-    "Comodín": [
-     7064.79,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-hydra-liss-200ml/p"
-    ],
-    "ChangoMás": [
-     6849.0,
-     "https://www.masonline.com.ar/shampoo-fructis-hydra-liss-200ml-2/p"
-    ],
-    "Carrefour": [
-     2699.4,
-     "https://www.carrefour.com.ar/shampoo-fructis-hydraliss-200-ml-723843/p"
-    ]
-   }
-  },
-  {
    "n": "Oso Extreme Mogul X 80 Gr Arcor",
    "m": "MOGUL",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/872320/Oso-Extreme-Mogul-Arcor-80-Gr-1-1039192.jpg?v=638859441967700000",
    "cadena": "Comodín",
-   "precio": 945.7,
+   "precio": 909.33,
    "link": "https://www.comodinencasa.com.ar/gomitas-mogul-oso-extreme-80gr/p",
    "referencia": 1891.4,
    "precio_2da": 1659.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.0,
-   "score": 2150,
+   "baja_pct": 51.9,
+   "brecha_pct": 45.2,
+   "score": 2346,
    "pr": {
     "Vea": [
      1890.0,
@@ -521,7 +317,7 @@
      "https://www.carrefour.com.ar/gomitas-frutal-mogul-extreme-oso-80-grs-762633/p"
     ],
     "Comodín": [
-     945.7,
+     909.33,
      "https://www.comodinencasa.com.ar/gomitas-mogul-oso-extreme-80gr/p"
     ],
     "ChangoMás": [
@@ -531,99 +327,735 @@
    }
   },
   {
-   "n": "Gomitas Anillos Sabor Surtido 80 Grs Mogul",
-   "m": "MOGUL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872325/Anillos-Mogul-Arcor-80-Gr-1-1039197.jpg?v=638859441985700000",
+   "n": "Cepillo de dientes Kolynos master plus 1 uni",
+   "m": "Kolynos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/477728/7753442000390_01.jpg?v=638441171476030000",
    "cadena": "Comodín",
-   "precio": 945.7,
-   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-anillos-80gr/p",
-   "referencia": 1891.4,
-   "precio_2da": 1659.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.0,
-   "score": 2150,
-   "pr": {
-    "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/anillos-mogul-x-80-gr-arcor/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/anillos-mogul-x-80-gr-arcor/p"
-    ],
-    "Carrefour": [
-     1669.0,
-     "https://www.carrefour.com.ar/gomitas-anillo-frutales-mogul-80-grs-762636/p"
-    ],
-    "Comodín": [
-     945.7,
-     "https://www.comodinencasa.com.ar/gomitas-mogul-anillos-80gr/p"
-    ],
-    "ChangoMás": [
-     1659.0,
-     "https://www.masonline.com.ar/gomitas-mogul-anillos-80-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de piso Pinoluz limón 900 ml",
-   "m": "Pinoluz",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/863964/7793253007324_02.jpg?v=639135132211800000",
-   "cadena": "Carrefour",
-   "precio": 1190.0,
-   "link": "https://www.carrefour.com.ar/limpiador-de-piso-pinoluz-limon-900-ml-778480/p",
-   "referencia": 2399.0,
-   "precio_2da": 2014.49,
-   "baja_pct": 50.4,
-   "brecha_pct": 40.9,
-   "score": 2063,
+   "precio": 1114.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-kolynos-master-plus/p",
+   "referencia": 1970.79,
+   "precio_2da": 2390.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 53.4,
+   "score": 2319,
    "pr": {
     "Carrefour": [
-     1190.0,
-     "https://www.carrefour.com.ar/limpiador-de-piso-pinoluz-limon-900-ml-778480/p"
-    ],
-    "Vea": [
      2390.0,
-     "https://www.vea.com.ar/limpiador-liquido-limon-x-900-ml-pinoluz/p"
+     "https://www.carrefour.com.ar/cepillo-de-dientes-kolynos-master-plus-1-uni-727090/p"
     ],
     "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-limon-x-900-ml-pinoluz/p"
+     2700.0,
+     "https://www.jumbo.com.ar/cepillo-dental-kolynos-master/p"
     ],
     "Comodín": [
-     2014.49,
-     "https://www.comodinencasa.com.ar/limpiador-pinoluz-limon-900ml/p"
-    ],
-    "ChangoMás": [
-     2349.0,
-     "https://www.masonline.com.ar/limpiador-liquido-para-pisos-pinoluz-limon-900-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido Pinoluz aceite de pino 900 cc.",
-   "m": "Pinoluz",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795364/7793253000905_02.jpg?v=639050307247670000",
-   "cadena": "Carrefour",
-   "precio": 1190.0,
-   "link": "https://www.carrefour.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-900-cc/p",
-   "referencia": 2350.0,
-   "precio_2da": 2014.49,
-   "baja_pct": 49.4,
-   "brecha_pct": 40.9,
-   "score": 2020,
-   "pr": {
-    "Carrefour": [
-     1190.0,
-     "https://www.carrefour.com.ar/limpiador-liquido-pinoluz-aceite-de-pino-900-cc/p"
-    ],
-    "Comodín": [
-     2014.49,
-     "https://www.comodinencasa.com.ar/limpiador-pinoluz-aceite-de-pino-900-ml/p"
+     1114.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-kolynos-master-plus/p"
     ],
     "ChangoMás": [
      2449.0,
-     "https://www.masonline.com.ar/limpiador-de-pisos-pino-luz-pino-900-ml-2/p"
+     "https://www.masonline.com.ar/cepillo-de-dientes-kolynos-master-plus-1u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Coco Hidratación y Frizz 200 Ml Fructis",
+   "m": "FRUCTIS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807221/Shampoo-Fructis-Liso-Coco-200ml-1-999758.jpg?v=638410270052930000",
+   "cadena": "Carrefour",
+   "precio": 2699.4,
+   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p",
+   "referencia": 4499.0,
+   "precio_2da": 6200.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 56.5,
+   "score": 2258,
+   "pr": {
+    "Jumbo": [
+     6200.0,
+     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-200ml-3/p"
+    ],
+    "ChangoMás": [
+     6589.0,
+     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-200ml-2/p"
+    ],
+    "Carrefour": [
+     2699.4,
+     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p"
+    ]
+   }
+  },
+  {
+   "n": "Café tostado molido La Virginia intenso 250 grs",
+   "m": "La Virginia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943874/7790150037201_01.jpg?v=639268276860900000",
+   "cadena": "ChangoMás",
+   "precio": 7089.0,
+   "link": "https://www.masonline.com.ar/cafe-molido-la-virginia-tostado-intenso-250-g/p",
+   "referencia": 14749.0,
+   "precio_2da": 12499.0,
+   "baja_pct": 51.9,
+   "brecha_pct": 43.3,
+   "score": 2248,
+   "pr": {
+    "Carrefour": [
+     14749.0,
+     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-intenso-250-grs-760591/p"
+    ],
+    "Vea": [
+     13290.0,
+     "https://www.vea.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
+    ],
+    "Jumbo": [
+     14600.0,
+     "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
+    ],
+    "Comodín": [
+     12499.0,
+     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-intenso-250gr/p"
+    ],
+    "ChangoMás": [
+     7089.0,
+     "https://www.masonline.com.ar/cafe-molido-la-virginia-tostado-intenso-250-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Enjuague bucal Colgate Total carbón activado 500 ml",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/621117/7509546686615_01.jpg?v=638748022427130000",
+   "cadena": "Comodín",
+   "precio": 3712.99,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-t12-carbona-500ml/p",
+   "referencia": 7723.09,
+   "precio_2da": 6435.0,
+   "baja_pct": 51.9,
+   "brecha_pct": 42.3,
+   "score": 2196,
+   "pr": {
+    "Carrefour": [
+     9590.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-colgate-total-carbon-activado-500-ml-722029/p"
+    ],
+    "Jumbo": [
+     6435.0,
+     "https://www.jumbo.com.ar/enjuague-bucal-total-carbon-500-ml-colgate-2/p"
+    ],
+    "Comodín": [
+     3712.99,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-t12-carbona-500ml/p"
+    ],
+    "ChangoMás": [
+     9739.0,
+     "https://www.masonline.com.ar/enjuague-bucal-colgate-total-12-carbon-activado-500ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate Extra Clean firme doble acción 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/601886/7702010630422_01.jpg?v=638695204393870000",
+   "cadena": "Comodín",
+   "precio": 2544.99,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-mediano-2un/p",
+   "referencia": 5293.59,
+   "precio_2da": 4199.25,
+   "baja_pct": 51.9,
+   "brecha_pct": 39.4,
+   "score": 2045,
+   "pr": {
+    "Carrefour": [
+     4199.25,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-firme-doble-accion-2-uni-664202/p"
+    ],
+    "Vea": [
+     5590.0,
+     "https://www.vea.com.ar/cepillo-de-dientes-extra-clean-firme-doble-accion-2-u-colgate/p"
+    ],
+    "Jumbo": [
+     5800.0,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-extra-clean-firme-doble-accion-2-u-colgate/p"
+    ],
+    "Comodín": [
+     2544.99,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-mediano-2un/p"
+    ],
+    "ChangoMás": [
+     5599.0,
+     "https://www.masonline.com.ar/cepillo-dental-extra-clean-colgate-2-x-1-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate Smiles Minions/Barbie 1 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/766790/7591083011098_01.jpg?v=638987422895000000",
+   "cadena": "Comodín",
+   "precio": 1951.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-smiles-2-5-an-x1u/p",
+   "referencia": 4059.19,
+   "precio_2da": 3217.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 39.3,
+   "score": 2043,
+   "pr": {
+    "Carrefour": [
+     3236.25,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-smiles-minions-barbie-1-uni-352487/p"
+    ],
+    "Vea": [
+     3217.5,
+     "https://www.vea.com.ar/cepillo-de-dientes-colgate-smiles-minions-barbie-1-u/p"
+    ],
+    "Jumbo": [
+     3300.0,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-colgate-smiles-minions-barbie-1-u/p"
+    ],
+    "Comodín": [
+     1951.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-smiles-2-5-an-x1u/p"
+    ],
+    "ChangoMás": [
+     4279.0,
+     "https://www.masonline.com.ar/cepillo-dental-smiles-2-a-5-anos-barbie-colgate-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Enjuague bucal Colgate Total carbón activado 250 ml",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/621125/7509546686622_01.jpg?v=638748023698700000",
+   "cadena": "Comodín",
+   "precio": 2561.99,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-t12-carbona-250ml/p",
+   "referencia": 5328.99,
+   "precio_2da": 4218.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 39.3,
+   "score": 2039,
+   "pr": {
+    "Carrefour": [
+     6490.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-colgate-total-carbon-activado-250-ml-722028/p"
+    ],
+    "Vea": [
+     4218.5,
+     "https://www.vea.com.ar/enjuague-bucal-carbon-250-ml-colgate-total/p"
+    ],
+    "Jumbo": [
+     4420.0,
+     "https://www.jumbo.com.ar/enjuague-bucal-carbon-250-ml-colgate-total/p"
+    ],
+    "Comodín": [
+     2561.99,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-t12-carbona-250ml/p"
+    ],
+    "ChangoMás": [
+     6719.0,
+     "https://www.masonline.com.ar/enjuague-bucal-colgate-total-12-carbon-activado-250ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor triple SHOT con maní 60 g",
+   "m": "Shot",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882369/77956699_E01.jpg?v=639155719741170000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p",
+   "referencia": 2334.0,
+   "precio_2da": 2209.0,
+   "baja_pct": 46.5,
+   "brecha_pct": 43.4,
+   "score": 2018,
+   "pr": {
+    "Carrefour": [
+     2209.0,
+     "https://www.carrefour.com.ar/alfajor-triple-shot-con-mani-60-g-353207/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
+    ],
+    "Jumbo": [
+     2550.0,
+     "https://www.jumbo.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
+    ],
+    "Comodín": [
+     2983.79,
+     "https://www.comodinencasa.com.ar/alfajor-triple-shot-1un-x-60gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de Dientes Medio Max White x 2 Un Colgate",
+   "m": "COLGATE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833366/Cepillo-De-Dientes-Colgate-Max-White-Medio-2-X-1-U-1-47291.jpg?v=638610936417630000",
+   "cadena": "Comodín",
+   "precio": 3525.99,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-max-whit-m-2x1-x1/p",
+   "referencia": 7334.09,
+   "precio_2da": 5767.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 38.9,
+   "score": 2018,
+   "pr": {
+    "Vea": [
+     5767.5,
+     "https://www.vea.com.ar/cepillo-de-dientes-max-white-medio-2-un-colgate/p"
+    ],
+    "Jumbo": [
+     5887.5,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-max-white-medio-2-un-colgate/p"
+    ],
+    "Comodín": [
+     3525.99,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-max-whit-m-2x1-x1/p"
+    ],
+    "ChangoMás": [
+     7449.0,
+     "https://www.masonline.com.ar/cepillo-dental-max-white-colgate-2-x-1-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate triple acción 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/516123/7702010631207_01.jpg?v=638503379864400000",
+   "cadena": "Comodín",
+   "precio": 2740.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-accion-2x1/p",
+   "referencia": 5700.29,
+   "precio_2da": 4417.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 38.0,
+   "score": 1971,
+   "pr": {
+    "Carrefour": [
+     4417.5,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-triple-accion-2-uni-494588/p"
+    ],
+    "Vea": [
+     4417.5,
+     "https://www.vea.com.ar/cepillo-de-dientes-triple-accion-cabezal-compacto-2-un-colgate/p"
+    ],
+    "Jumbo": [
+     4575.0,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-triple-accion-cabezal-compacto-2-un-colgate/p"
+    ],
+    "Comodín": [
+     2740.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-accion-2x1/p"
+    ],
+    "ChangoMás": [
+     6019.0,
+     "https://www.masonline.com.ar/cepillo-dental-triple-accion-colgate-2x1-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate Slim Soft charcoal 3 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/571812/7509546074399_01.jpg?v=638634098835070000",
+   "cadena": "Comodín",
+   "precio": 7109.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-carb-3u/p",
+   "referencia": 14787.79,
+   "precio_2da": 11426.25,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.8,
+   "score": 1962,
+   "pr": {
+    "Carrefour": [
+     11426.25,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slim-soft-charcoal-3-uni-623927/p"
+    ],
+    "Jumbo": [
+     12037.5,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-slim-soft-black-3-un-colgate/p"
+    ],
+    "Comodín": [
+     7109.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-carb-3u/p"
+    ],
+    "ChangoMás": [
+     15839.0,
+     "https://www.masonline.com.ar/cepillo-de-dientes-colgate-slim-soft-black-pack-3u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Enjuague bucal Colgate Plax Ice Infinity 60 ml",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727416/7891024027363_01.jpg?v=638948400847600000",
+   "cadena": "Comodín",
+   "precio": 727.99,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-60ml/p",
+   "referencia": 1514.29,
+   "precio_2da": 1170.0,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.8,
+   "score": 1962,
+   "pr": {
+    "Carrefour": [
+     1699.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-ice-infinity-60-ml-717591/p"
+    ],
+    "Jumbo": [
+     1170.0,
+     "https://www.jumbo.com.ar/enjuague-bucal-colgate-plax-ice-infinity-60-ml/p"
+    ],
+    "Comodín": [
+     727.99,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-60ml/p"
+    ],
+    "ChangoMás": [
+     1769.0,
+     "https://www.masonline.com.ar/enjuague-bucal-colgate-total-12-clean-mint-60ml-2-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate slim soft black 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/601892/7509546061689_01.jpg?v=638695208019870000",
+   "cadena": "Comodín",
+   "precio": 5478.99,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-s-black-x2u/p",
+   "referencia": 11396.39,
+   "precio_2da": 8805.0,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.8,
+   "score": 1961,
+   "pr": {
+    "Carrefour": [
+     8805.0,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slim-soft-black-2-uni-576876/p"
+    ],
+    "Vea": [
+     8992.5,
+     "https://www.vea.com.ar/cepillo-de-dientes-slim-soft-charcoal-2-un-colgate/p"
+    ],
+    "Jumbo": [
+     9150.0,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-slim-soft-charcoal-2-un-colgate/p"
+    ],
+    "Comodín": [
+     5478.99,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-s-black-x2u/p"
+    ],
+    "ChangoMás": [
+     12209.0,
+     "https://www.masonline.com.ar/cepillo-dental-slim-soft-black-colgate-2x1-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de Dientes Suave Total Whitening x 2 Un Colgate",
+   "m": "COLGATE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/849789/Cepillo-Dental-Colgate-Total-Whitening-2-Pack-1-1027984.jpg?v=638701437897500000",
+   "cadena": "Comodín",
+   "precio": 5798.99,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-total-whitening-2un/p",
+   "referencia": 12061.99,
+   "precio_2da": 9318.75,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.8,
+   "score": 1961,
+   "pr": {
+    "Vea": [
+     9742.5,
+     "https://www.vea.com.ar/cepillo-de-dientes-total-whitening-suave-2-un-colgate/p"
+    ],
+    "Jumbo": [
+     10087.5,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-total-whitening-suave-2-un-colgate/p"
+    ],
+    "Comodín": [
+     5798.99,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-total-whitening-2un/p"
+    ],
+    "Carrefour": [
+     9318.75,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-total-whitening-suave-2-uni-750821/p"
+    ],
+    "ChangoMás": [
+     12419.0,
+     "https://www.masonline.com.ar/cepillo-dental-colgate-black-whitening-suave-2u/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo Dental Colgate Encias Charcoal 2Un",
+   "m": "Colgate",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/176827/45201.png?v=638392211990570000",
+   "cadena": "Comodín",
+   "precio": 6186.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-encias-charcoal-2un/p",
+   "referencia": 12867.99,
+   "precio_2da": 9936.75,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.7,
+   "score": 1960,
+   "pr": {
+    "Comodín": [
+     6186.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-encias-charcoal-2un/p"
+    ],
+    "Carrefour": [
+     9936.75,
+     "https://www.carrefour.com.ar/cepillo-dental-colgate-encias-therapy-carbon-2-uni-717588/p"
+    ],
+    "ChangoMás": [
+     13779.0,
+     "https://www.masonline.com.ar/cepillo-dental-colgate-encias-therapy-charcoal-2un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate triple acción 3 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/549788/99176369226_01.jpg?v=638597798838100000",
+   "cadena": "Comodín",
+   "precio": 4029.99,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-acc-3x2un/p",
+   "referencia": 8382.39,
+   "precio_2da": 6442.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.4,
+   "score": 1944,
+   "pr": {
+    "Carrefour": [
+     6442.5,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-triple-accion-3-uni-612621/p"
+    ],
+    "Vea": [
+     6442.5,
+     "https://www.vea.com.ar/cepillo-de-dientes-triple-accion-3-un-colgate/p"
+    ],
+    "Jumbo": [
+     6787.5,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-triple-accion-3-un-colgate/p"
+    ],
+    "Comodín": [
+     4029.99,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-acc-3x2un/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo De dientes Colgate Twister medio 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727399/7702010130632_01.jpg?v=638948399754900000",
+   "cadena": "Comodín",
+   "precio": 3132.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-tw-porta-cabez-2u/p",
+   "referencia": 6515.59,
+   "precio_2da": 4968.75,
+   "baja_pct": 51.9,
+   "brecha_pct": 37.0,
+   "score": 1919,
+   "pr": {
+    "Carrefour": [
+     4968.75,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-twister-medio-2-uni-710191/p"
+    ],
+    "Comodín": [
+     3132.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-tw-porta-cabez-2u/p"
+    ],
+    "ChangoMás": [
+     6879.0,
+     "https://www.masonline.com.ar/cepillo-dental-colgate-twister-bipack-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo Dental Medio Extra Clean x 3 Un Colgate",
+   "m": "COLGATE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833360/Cepillo-Dental-Colgate-Extra-Clean-Medio-Cerdas-Multinivel-3u-1-28703.jpg?v=638610936395070000",
+   "cadena": "Comodín",
+   "precio": 3426.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-3x2/p",
+   "referencia": 7127.19,
+   "precio_2da": 5433.75,
+   "baja_pct": 51.9,
+   "brecha_pct": 36.9,
+   "score": 1918,
+   "pr": {
+    "Vea": [
+     6990.0,
+     "https://www.vea.com.ar/cepillo-dental-colgate-extra-clean-medio-cerdas-multinivel-3u/p"
+    ],
+    "Jumbo": [
+     7500.0,
+     "https://www.jumbo.com.ar/cepillo-dental-colgate-extra-clean-medio-cerdas-multinivel-3u/p"
+    ],
+    "Comodín": [
+     3426.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-3x2/p"
+    ],
+    "Carrefour": [
+     5433.75,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-cerdas-multinivel-3-uni-481031/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo De Dientes Colgate Zig Zag Charcoal Medio 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914206/7509546673042_01.jpg?v=639222300352100000",
+   "cadena": "Comodín",
+   "precio": 2937.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-charcoal-2un/p",
+   "referencia": 6109.99,
+   "precio_2da": 4642.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 36.7,
+   "score": 1907,
+   "pr": {
+    "Carrefour": [
+     4642.5,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-zig-zag-charcoal-medio-2-uni-710192/p"
+    ],
+    "Comodín": [
+     2937.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-charcoal-2un/p"
+    ],
+    "ChangoMás": [
+     6459.0,
+     "https://www.masonline.com.ar/cepillo-dental-colgate-zig-zag-charcoal-2u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de dientes Colgate Kids 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541004/7509546073453_01.jpg?v=638563882423230000",
+   "cadena": "Comodín",
+   "precio": 1514.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-kids-tandy-2x1/p",
+   "referencia": 3150.19,
+   "precio_2da": 2392.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 36.7,
+   "score": 1906,
+   "pr": {
+    "Carrefour": [
+     2392.5,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-kids-2-uni-626865/p"
+    ],
+    "Jumbo": [
+     2550.0,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-kids-2-un-colgate/p"
+    ],
+    "Comodín": [
+     1514.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-kids-tandy-2x1/p"
+    ],
+    "ChangoMás": [
+     3329.0,
+     "https://www.masonline.com.ar/pack-cepillo-kids-5-colgate-2-un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor triple blanco Shot 60 grs",
+   "m": "Shot",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882367/7622202816437_E01.jpg?v=639155719507670000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p",
+   "referencia": 2239.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 44.2,
+   "brecha_pct": 42.9,
+   "score": 1898,
+   "pr": {
+    "Carrefour": [
+     2239.0,
+     "https://www.carrefour.com.ar/alfajor-triple-blanco-shot-60-grs-773811/p"
+    ],
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
+    ],
+    "Jumbo": [
+     2300.0,
+     "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Cepillo de Dientes Colgate Extra Clean Medio 1 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/509151/5900273001566_01.jpg?v=638490413829500000",
+   "cadena": "Comodín",
+   "precio": 1379.49,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extr-clean-m-1un/p",
+   "referencia": 2869.39,
+   "precio_2da": 2167.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 36.4,
+   "score": 1888,
+   "pr": {
+    "Carrefour": [
+     2167.5,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-1-uni-294735/p"
+    ],
+    "Vea": [
+     2890.0,
+     "https://www.vea.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-1-u/p"
+    ],
+    "Jumbo": [
+     3100.0,
+     "https://www.jumbo.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-1-u/p"
+    ],
+    "Comodín": [
+     1379.49,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extr-clean-m-1un/p"
+    ],
+    "ChangoMás": [
+     3029.0,
+     "https://www.masonline.com.ar/cepillo-colgate-extra-clean-mediano-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Enjuague Bucal Plax Odor Control 250 Ml Colgate",
+   "m": "COLGATE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/876546/Enjuague-Bucal-Plax-Odor-Control-250-Ml-Colgate-1-947360.jpg?v=638881041945370000",
+   "cadena": "Comodín",
+   "precio": 2401.99,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-ice-in-250ml/p",
+   "referencia": 4996.19,
+   "precio_2da": 3770.0,
+   "baja_pct": 51.9,
+   "brecha_pct": 36.3,
+   "score": 1884,
+   "pr": {
+    "Jumbo": [
+     3770.0,
+     "https://www.jumbo.com.ar/enjuague-bucal-plax-odor-control-250-ml-colgate-2/p"
+    ],
+    "Comodín": [
+     2401.99,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-ice-in-250ml/p"
+    ],
+    "ChangoMás": [
+     5609.0,
+     "https://www.masonline.com.ar/enjuague-bucal-colgate-plax-ice-infinity-250ml-2/p"
+    ],
+    "Carrefour": [
+     5605.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-odor-control-250-ml-717314/p"
     ]
    }
   },
@@ -659,370 +1091,536 @@
    }
   },
   {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
+   "n": "Gomitas Jelly Beans Sabor Surtido 80 Grs Mogul",
+   "m": "MOGUL",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/872324/Jelly-Beans-Mogul-Arcor-80-Gr-1-1039196.jpg?v=638859441981970000",
    "cadena": "Comodín",
-   "precio": 1449.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2615.0,
-   "baja_pct": 41.9,
-   "brecha_pct": 44.6,
-   "score": 1870,
+   "precio": 909.33,
+   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-jelly-beans-80gr/p",
+   "referencia": 1418.55,
+   "precio_2da": 1889.0,
+   "baja_pct": 35.9,
+   "brecha_pct": 51.9,
+   "score": 1862,
    "pr": {
     "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
+     2050.0,
+     "https://www.jumbo.com.ar/jelly-beans-mogul-x-80-gr-arcor/p"
     ],
     "Comodín": [
-     1449.0,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
-    ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Nestlé Crunch 45 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/911235/8445292457521_01.jpg?v=639217057402900000",
-   "cadena": "Carrefour",
-   "precio": 1525.0,
-   "link": "https://www.carrefour.com.ar/chocolate-nestle-cruch-45-grs-782285/p",
-   "referencia": 2440.0,
-   "precio_2da": 3039.0,
-   "baja_pct": 37.5,
-   "brecha_pct": 49.8,
-   "score": 1868,
-   "pr": {
-    "Carrefour": [
-     1525.0,
-     "https://www.carrefour.com.ar/chocolate-nestle-cruch-45-grs-782285/p"
-    ],
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/chocolate-con-leche-crunch-45gr/p"
-    ],
-    "Jumbo": [
-     3550.0,
-     "https://www.jumbo.com.ar/chocolate-con-leche-crunch-45gr/p"
+     909.33,
+     "https://www.comodinencasa.com.ar/gomitas-mogul-jelly-beans-80gr/p"
     ],
     "ChangoMás": [
-     3039.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-nestle-crunch-45-g/p"
+     1889.0,
+     "https://www.masonline.com.ar/gomitas-mogul-jelly-beans-80-g/p"
     ]
    }
   },
   {
-   "n": "Cerveza Rubia 473 Cc Norte",
-   "m": "NORTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/693223/Cerveza-Rubia-Norte-Lata-473-Cc-1-886868.jpg?v=637828905841300000",
+   "n": "Crema corporal Hinds rosa plus 250 ml",
+   "m": "Hinds",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383182/7794640173073_01.jpg?v=638315925155330000",
    "cadena": "Comodín",
-   "precio": 1449.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2595.0,
-   "baja_pct": 41.9,
-   "brecha_pct": 44.2,
-   "score": 1852,
+   "precio": 3569.0,
+   "link": "https://www.comodinencasa.com.ar/crema-hinds-rosa-plus-250ml/p",
+   "referencia": 6445.99,
+   "precio_2da": 6089.0,
+   "baja_pct": 44.6,
+   "brecha_pct": 41.4,
+   "score": 1847,
    "pr": {
+    "Carrefour": [
+     6089.0,
+     "https://www.carrefour.com.ar/crema-corporal-hinds-rosa-plus-250-ml-697468/p"
+    ],
     "Vea": [
-     2595.0,
-     "https://www.vea.com.ar/cerveza-norte-rubia-473cc/p"
+     6290.0,
+     "https://www.vea.com.ar/crema-corporal-rosa-plus-250-ml-hinds/p"
     ],
     "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-norte-rubia-473cc/p"
+     6550.0,
+     "https://www.jumbo.com.ar/crema-corporal-rosa-plus-250-ml-hinds/p"
+    ],
+    "ChangoMás": [
+     6329.0,
+     "https://www.masonline.com.ar/crema-corporal-hinds-rosa-plus-250-ml-2/p"
     ],
     "Comodín": [
-     1449.0,
-     "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p"
-    ],
-    "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-blanca-norte-473-ml-724631/p"
+     3569.0,
+     "https://www.comodinencasa.com.ar/crema-hinds-rosa-plus-250ml/p"
     ]
    }
   },
   {
-   "n": "Cepillo de dientes Colgate Slim Soft base twinpack 2 uni",
+   "n": "Alfajor Milka triple mousse 55 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
+   "referencia": 2274.0,
+   "precio_2da": 2099.0,
+   "baja_pct": 45.1,
+   "brecha_pct": 40.5,
+   "score": 1823,
+   "pr": {
+    "Carrefour": [
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
+    ],
+    "Jumbo": [
+     2351.0,
+     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
+    ],
+    "Comodín": [
+     2983.79,
+     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Enjuague bucal Colgate Plax ice infinity 180 ml",
    "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/516122/7591083017793_01.jpg?v=638503379378700000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/683073/7891024039625_01.jpg?v=638887005082670000",
    "cadena": "Comodín",
-   "precio": 5698.19,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-2x1/p",
-   "referencia": 11396.39,
-   "precio_2da": 8992.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.6,
-   "score": 1832,
+   "precio": 1701.49,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-180ml/p",
+   "referencia": 3539.19,
+   "precio_2da": 2593.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 34.4,
+   "score": 1786,
    "pr": {
     "Carrefour": [
-     8992.5,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slim-soft-base-twinpack-2-uni-562386/p"
+     3990.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180-ml-717589/p"
+    ],
+    "Vea": [
+     2593.5,
+     "https://www.vea.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml/p"
+    ],
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml/p"
     ],
     "Comodín": [
-     5698.19,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-2x1/p"
+     1701.49,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-180ml/p"
     ],
     "ChangoMás": [
-     12209.0,
-     "https://www.masonline.com.ar/cepillo-dental-colgate-slim-soft-2u/p"
+     4129.0,
+     "https://www.masonline.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml-2/p"
     ]
    }
   },
   {
-   "n": "Pasta dental extra blanco Oral B carbón activo 140 grs",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693882/7500435231213_02.jpg?v=638923442832770000",
+   "n": "Enjuague Bucal Odor Control Cero Alcohol 500 Ml Colgate",
+   "m": "COLGATE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/876547/Enjuague-Bucal-Plax-Odor-Control-500-Ml-Colgate-1-947361.jpg?v=638881041947570000",
+   "cadena": "Comodín",
+   "precio": 3359.49,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-pla-ice-fus-500ml/p",
+   "referencia": 6987.79,
+   "precio_2da": 5063.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 33.7,
+   "score": 1747,
+   "pr": {
+    "Vea": [
+     5063.5,
+     "https://www.vea.com.ar/enjuague-bucal-plax-odor-control-500-ml-colgate-2/p"
+    ],
+    "Jumbo": [
+     5102.5,
+     "https://www.jumbo.com.ar/enjuague-bucal-plax-odor-control-500-ml-colgate-2/p"
+    ],
+    "Comodín": [
+     3359.49,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-pla-ice-fus-500ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallas Nocturnas Xtra Noches Tranquilas Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/815531/Always-Xtra-Noches-Tranquilas-Seca-Toallas-Nocturnas-16-Unidades-1-989544.jpg?v=638464701867730000",
+   "cadena": "Comodín",
+   "precio": 5391.49,
+   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noc-sec-16un/p",
+   "referencia": 8971.51,
+   "precio_2da": 9479.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 43.1,
+   "score": 1721,
+   "pr": {
+    "Vea": [
+     10190.0,
+     "https://www.vea.com.ar/toallas-nocturnas-xtra-noches-tranquilas-seca-16-un-always/p"
+    ],
+    "Carrefour": [
+     9899.0,
+     "https://www.carrefour.com.ar/always-xtra-noches-tranquilas-seca-toallas-nocturnas-16-uni-726074/p"
+    ],
+    "Comodín": [
+     5391.49,
+     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noc-sec-16un/p"
+    ],
+    "ChangoMás": [
+     9479.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-16un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Milka Oreo bis oblea 105,6 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914696/7622210719829_E01.jpg?v=639222505765800000",
    "cadena": "Carrefour",
-   "precio": 4901.4,
-   "link": "https://www.carrefour.com.ar/pasta-dental-extra-blanco-oral-b-carbon-activo-140-grs-766681/p",
-   "referencia": 8169.0,
-   "precio_2da": 8950.0,
+   "precio": 2970.0,
+   "link": "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p",
+   "referencia": 4950.0,
+   "precio_2da": 5109.0,
    "baja_pct": 40.0,
-   "brecha_pct": 45.2,
-   "score": 1809,
+   "brecha_pct": 41.9,
+   "score": 1675,
    "pr": {
     "Carrefour": [
-     4901.4,
-     "https://www.carrefour.com.ar/pasta-dental-extra-blanco-oral-b-carbon-activo-140-grs-766681/p"
+     2970.0,
+     "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p"
     ],
     "Jumbo": [
-     8950.0,
-     "https://www.jumbo.com.ar/crema-dental-oral-b-extra-blanco-carbon-140g/p"
-    ],
-    "Comodín": [
-     9810.39,
-     "https://www.comodinencasa.com.ar/crema-dental-oral-b-extra-bl-carbon-140g/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza rubia Schneider 473 ml",
-   "m": "Schneider",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794073/7793147118860_01.jpg?v=639046439848000000",
-   "cadena": "Comodín",
-   "precio": 1449.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2539.0,
-   "baja_pct": 41.9,
-   "brecha_pct": 42.9,
-   "score": 1801,
-   "pr": {
-    "Carrefour": [
-     2539.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-schneider-473-ml-176451/p"
-    ],
-    "Comodín": [
-     1449.0,
-     "https://www.comodinencasa.com.ar/cerveza-schneider-lata-x-473-cc/p"
+     5300.0,
+     "https://www.jumbo.com.ar/chocolate-milka-oreo-bis-oblea-105-6-gr-3/p"
     ],
     "ChangoMás": [
-     2619.0,
-     "https://www.masonline.com.ar/cerveza-en-lata-schneider-473-cc-2/p"
+     5109.0,
+     "https://www.masonline.com.ar/oblea-milka-bis-oreo-x-105-6-gr-2/p"
     ]
    }
   },
   {
-   "n": "Cepillo de dientes Colgate triple acción 2 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/516123/7702010631207_01.jpg?v=638503379864400000",
-   "cadena": "Comodín",
-   "precio": 2850.15,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-accion-2x1/p",
-   "referencia": 5700.29,
-   "precio_2da": 4417.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.5,
-   "score": 1774,
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
+   "cadena": "ChangoMás",
+   "precio": 2279.0,
+   "link": "https://www.masonline.com.ar/bebida-isotonica-manzana-gatorade-1-25-lt-2/p",
+   "referencia": 3749.0,
+   "precio_2da": 3975.0,
+   "baja_pct": 39.2,
+   "brecha_pct": 42.7,
+   "score": 1673,
    "pr": {
     "Carrefour": [
-     4417.5,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-triple-accion-2-uni-494588/p"
+     4120.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
+    ],
+    "Jumbo": [
+     3975.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ],
+    "ChangoMás": [
+     2279.0,
+     "https://www.masonline.com.ar/bebida-isotonica-manzana-gatorade-1-25-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "cadena": "ChangoMás",
+   "precio": 2279.0,
+   "link": "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p",
+   "referencia": 3749.0,
+   "precio_2da": 3975.0,
+   "baja_pct": 39.2,
+   "brecha_pct": 42.7,
+   "score": 1673,
+   "pr": {
+    "Carrefour": [
+     4120.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
     ],
     "Vea": [
-     5890.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-triple-accion-cabezal-compacto-2-un-colgate/p"
+     4790.0,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ],
     "Jumbo": [
-     6100.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-triple-accion-cabezal-compacto-2-un-colgate/p"
-    ],
-    "Comodín": [
-     2850.15,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-accion-2x1/p"
+     3975.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ],
     "ChangoMás": [
-     6019.0,
-     "https://www.masonline.com.ar/cepillo-dental-triple-accion-colgate-2x1-2/p"
+     2279.0,
+     "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p"
     ]
    }
   },
   {
-   "n": "Cepillo de dientes Colgate Slim Soft charcoal 3 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/571812/7509546074399_01.jpg?v=638634098835070000",
-   "cadena": "Comodín",
-   "precio": 7393.89,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-carb-3u/p",
-   "referencia": 14787.79,
-   "precio_2da": 11426.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.3,
-   "score": 1765,
+   "n": "Queso fundido Adler jamón 100 g",
+   "m": "Adler",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834436/7791564012488_E01.jpg?v=639102410408300000",
+   "cadena": "Carrefour",
+   "precio": 1754.35,
+   "link": "https://www.carrefour.com.ar/queso-fundido-adler-jamon-100-g/p",
+   "referencia": 2699.0,
+   "precio_2da": 3300.99,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.9,
+   "score": 1640,
    "pr": {
     "Carrefour": [
-     11426.25,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slim-soft-charcoal-3-uni-623927/p"
-    ],
-    "Jumbo": [
-     16050.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-slim-soft-black-3-un-colgate/p"
+     1754.35,
+     "https://www.carrefour.com.ar/queso-fundido-adler-jamon-100-g/p"
     ],
     "Comodín": [
-     7393.89,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-carb-3u/p"
+     3300.99,
+     "https://www.comodinencasa.com.ar/queso-adler-jamon-x-100-gr/p"
     ],
     "ChangoMás": [
-     15839.0,
-     "https://www.masonline.com.ar/cepillo-de-dientes-colgate-slim-soft-black-pack-3u-2/p"
+     3389.0,
+     "https://www.masonline.com.ar/queso-fundido-jamon-adler-100gr-2/p"
     ]
    }
   },
   {
-   "n": "Cepillo de dientes Colgate slim soft black 2 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/601892/7509546061689_01.jpg?v=638695208019870000",
+   "n": "Toallas Xtra Doble Protección Suave 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781532/Toallas-Femeninas-Always-Extra-Suave-8u-1-957997.jpg?v=638197833874230000",
    "cadena": "Comodín",
-   "precio": 5698.19,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-s-black-x2u/p",
-   "referencia": 11396.39,
-   "precio_2da": 8805.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.3,
-   "score": 1764,
-   "pr": {
-    "Carrefour": [
-     8805.0,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slim-soft-black-2-uni-576876/p"
-    ],
-    "Vea": [
-     11990.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-slim-soft-charcoal-2-un-colgate/p"
-    ],
-    "Jumbo": [
-     12200.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-slim-soft-charcoal-2-un-colgate/p"
-    ],
-    "Comodín": [
-     5698.19,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-s-black-x2u/p"
-    ],
-    "ChangoMás": [
-     12209.0,
-     "https://www.masonline.com.ar/cepillo-dental-slim-soft-black-colgate-2x1-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de Dientes Suave Total Whitening x 2 Un Colgate",
-   "m": "COLGATE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/849789/Cepillo-Dental-Colgate-Total-Whitening-2-Pack-1-1027984.jpg?v=638701437897500000",
-   "cadena": "Comodín",
-   "precio": 6030.99,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-total-whitening-2un/p",
-   "referencia": 12061.99,
-   "precio_2da": 9318.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.3,
-   "score": 1764,
+   "precio": 1385.49,
+   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-doble-prot-suave-8un/p",
+   "referencia": 2305.51,
+   "precio_2da": 2340.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 40.8,
+   "score": 1628,
    "pr": {
     "Vea": [
-     12990.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-total-whitening-suave-2-un-colgate/p"
+     3490.0,
+     "https://www.vea.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p"
     ],
     "Jumbo": [
-     13450.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-total-whitening-suave-2-un-colgate/p"
-    ],
-    "Comodín": [
-     6030.99,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-total-whitening-2un/p"
+     2340.0,
+     "https://www.jumbo.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p"
     ],
     "Carrefour": [
-     9318.75,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-total-whitening-suave-2-uni-750821/p"
+     3490.0,
+     "https://www.carrefour.com.ar/-always-xtra-doble-proteccion-suave-toallas-femeninas-8-uni-720102/p"
+    ],
+    "Comodín": [
+     1385.49,
+     "https://www.comodinencasa.com.ar/toalla-always-xtra-doble-prot-suave-8un/p"
     ],
     "ChangoMás": [
-     12419.0,
-     "https://www.masonline.com.ar/cepillo-dental-colgate-black-whitening-suave-2u/p"
+     2957.15,
+     "https://www.masonline.com.ar/toallitas-femeninas-always-xtra-doble-proteccion-suave-8u-2/p"
     ]
    }
   },
   {
-   "n": "Cepillo De Dientes Sensitive Therapy 1 Un Colgate",
-   "m": "COLGATE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/881769/Cepillo-De-Dientes-Sensitive-Therapy-1-Un-Colgate-1-1000518.jpg?v=638919058190230000",
+   "n": "Toallitas Femeninas Xtra Triple Protección Suave x 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/792070/Always-Xtra-Trip-Prot-Dia-Suav-T1-8x24it-Toa-Fem-Always-Xtra-Triple-Prot-Suave-8u-1-989507.jpg?v=638294385905300000",
    "cadena": "Comodín",
-   "precio": 4419.49,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-pro-alivio-single/p",
-   "referencia": 8838.99,
-   "precio_2da": 6828.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.3,
-   "score": 1764,
+   "precio": 1720.99,
+   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-dia-sua-8un/p",
+   "referencia": 2863.75,
+   "precio_2da": 2892.5,
+   "baja_pct": 39.9,
+   "brecha_pct": 40.5,
+   "score": 1616,
    "pr": {
     "Vea": [
-     9490.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-sensitive-therapy-1-un-colgate/p"
+     4190.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-8-un-always/p"
     ],
     "Jumbo": [
-     9850.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-sensitive-therapy-1-un-colgate/p"
+     2892.5,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-8-un-always/p"
     ],
     "Comodín": [
-     4419.49,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-pro-alivio-single/p"
-    ],
-    "ChangoMás": [
-     9459.0,
-     "https://www.masonline.com.ar/cepillo-dental-colgate-sensitive-pro-alivio-single-1un-2/p"
+     1720.99,
+     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-dia-sua-8un/p"
     ],
     "Carrefour": [
-     6828.75,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-sensitive-therapy-1-uni-730491/p"
+     4190.0,
+     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-suave-toallas-8-uni-726080/p"
     ]
    }
   },
   {
-   "n": "Cepillo Dental Colgate Encias Charcoal 2Un",
+   "n": "Enjuague bucal Colgate Plax Fresh mint 750 ml",
    "m": "Colgate",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/176827/45201.png?v=638392211990570000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/683045/7509546679617_01.jpg?v=638887002677600000",
    "cadena": "Comodín",
-   "precio": 6433.99,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-encias-charcoal-2un/p",
-   "referencia": 12867.99,
-   "precio_2da": 9936.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.3,
-   "score": 1763,
+   "precio": 4196.99,
+   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-menta-750ml/p",
+   "referencia": 8729.79,
+   "precio_2da": 6056.7,
+   "baja_pct": 51.9,
+   "brecha_pct": 30.7,
+   "score": 1594,
    "pr": {
-    "Comodín": [
-     6433.99,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-encias-charcoal-2un/p"
-    ],
     "Carrefour": [
-     9936.75,
-     "https://www.carrefour.com.ar/cepillo-dental-colgate-encias-therapy-carbon-2-uni-717588/p"
+     9700.0,
+     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-fresh-mint-750-ml-717599/p"
+    ],
+    "Jumbo": [
+     6056.7,
+     "https://www.jumbo.com.ar/enjuague-bucal-plax-fresh-mint-750-ml-colgate-2/p"
+    ],
+    "Comodín": [
+     4196.99,
+     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-menta-750ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Porotos colorados Inalpa secos remojados 300 g.",
+   "m": "Inalpa",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/895390/7792350067095_02.jpg?v=639180742765400000",
+   "cadena": "Comodín",
+   "precio": 848.24,
+   "link": "https://www.comodinencasa.com.ar/porotos-inalpa-secos-remoj-colorad-350gr/p",
+   "referencia": 1176.29,
+   "precio_2da": 1979.0,
+   "baja_pct": 27.9,
+   "brecha_pct": 57.1,
+   "score": 1593,
+   "pr": {
+    "Carrefour": [
+     1979.0,
+     "https://www.carrefour.com.ar/porotos-colorados-inalpa-secos-remojados-300-g-695922/p"
+    ],
+    "Comodín": [
+     848.24,
+     "https://www.comodinencasa.com.ar/porotos-inalpa-secos-remoj-colorad-350gr/p"
     ],
     "ChangoMás": [
-     13779.0,
-     "https://www.masonline.com.ar/cepillo-dental-colgate-encias-therapy-charcoal-2un-2/p"
+     1979.0,
+     "https://www.masonline.com.ar/porotos-colorados-secos-remojados-inalpa-300g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas dulces Soriano palmeritas 200 g.",
+   "m": "Soriano",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/919572/7792184003337_02.jpg?v=639233654570100000",
+   "cadena": "Carrefour",
+   "precio": 2766.0,
+   "link": "https://www.carrefour.com.ar/galletitas-dulces-soriano-palmeritas-200-g/p",
+   "referencia": 4610.0,
+   "precio_2da": 4589.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.7,
+   "score": 1589,
+   "pr": {
+    "Carrefour": [
+     2766.0,
+     "https://www.carrefour.com.ar/galletitas-dulces-soriano-palmeritas-200-g/p"
+    ],
+    "Vea": [
+     4690.0,
+     "https://www.vea.com.ar/palmerita-soriano-200-gr/p"
+    ],
+    "ChangoMás": [
+     4589.0,
+     "https://www.masonline.com.ar/galletitas-soriano-palmeritas-200g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche Sabor Chocolate 200 Ml Nesquik",
+   "m": "NESQUIK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869191/Leche-Chocolotada-200ml-Nesquik-1-1035783.jpg?v=638840434187500000",
+   "cadena": "Jumbo",
+   "precio": 1200.0,
+   "link": "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p",
+   "referencia": 1800.0,
+   "precio_2da": 2279.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 47.3,
+   "score": 1578,
+   "pr": {
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/leche-chocolotada-200ml-nesquik/p"
+    ],
+    "Jumbo": [
+     1200.0,
+     "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p"
+    ],
+    "ChangoMás": [
+     2279.0,
+     "https://www.masonline.com.ar/chocolatada-nesquik-original-200-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Gomitas Acido Extreme Mogul 35 Gr",
+   "m": "MOGUL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/201945/Gomitas-Mogul-Acido-Gomitas-Mogul-Acido-extreme-bsa-gr-35-1-38330.jpg?v=636383636774630000",
+   "cadena": "Comodín",
+   "precio": 412.53,
+   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-acido-extremo-rollo-35gr-2/p",
+   "referencia": 599.0,
+   "precio_2da": 810.0,
+   "baja_pct": 31.1,
+   "brecha_pct": 49.1,
+   "score": 1528,
+   "pr": {
+    "Vea": [
+     810.0,
+     "https://www.vea.com.ar/gomitas-acido-extreme-mogul-35-gr-2/p"
+    ],
+    "Jumbo": [
+     950.0,
+     "https://www.jumbo.com.ar/gomitas-acido-extreme-mogul-35-gr-2/p"
+    ],
+    "Comodín": [
+     412.53,
+     "https://www.comodinencasa.com.ar/gomitas-mogul-acido-extremo-rollo-35gr-2/p"
+    ],
+    "Carrefour": [
+     935.0,
+     "https://www.carrefour.com.ar/gomitas-mogul-extreme-acidas-35-g-74323/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
+   "cadena": "ChangoMás",
+   "precio": 2279.0,
+   "link": "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p",
+   "referencia": 3749.0,
+   "precio_2da": 3712.5,
+   "baja_pct": 39.2,
+   "brecha_pct": 38.6,
+   "score": 1514,
+   "pr": {
+    "Carrefour": [
+     4120.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+    ],
+    "Vea": [
+     4790.0,
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "Jumbo": [
+     3712.5,
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "ChangoMás": [
+     2279.0,
+     "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
     ]
    }
   },
@@ -1033,11 +1631,11 @@
    "cadena": "Carrefour",
    "precio": 778.47,
    "link": "https://www.carrefour.com.ar/alfajor-terrabusi-blanco-glaseado-38-g-530359/p",
-   "referencia": 1333.33,
+   "referencia": 1211.92,
    "precio_2da": 1349.0,
-   "baja_pct": 41.6,
+   "baja_pct": 35.8,
    "brecha_pct": 42.3,
-   "score": 1760,
+   "score": 1513,
    "pr": {
     "Carrefour": [
      778.47,
@@ -1050,710 +1648,6 @@
     "ChangoMás": [
      1349.0,
      "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-38-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de dientes Colgate Smiles Minions/Barbie 1 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/766790/7591083011098_01.jpg?v=638987422895000000",
-   "cadena": "Comodín",
-   "precio": 2029.59,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-smiles-2-5-an-x1u/p",
-   "referencia": 4059.19,
-   "precio_2da": 3111.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.8,
-   "score": 1739,
-   "pr": {
-    "Carrefour": [
-     3111.75,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-smiles-minions-barbie-1-uni-352487/p"
-    ],
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-colgate-smiles-minions-barbie-1-u/p"
-    ],
-    "Jumbo": [
-     4400.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-colgate-smiles-minions-barbie-1-u/p"
-    ],
-    "Comodín": [
-     2029.59,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-smiles-2-5-an-x1u/p"
-    ],
-    "ChangoMás": [
-     4279.0,
-     "https://www.masonline.com.ar/cepillo-dental-smiles-2-a-5-anos-barbie-colgate-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo De dientes Colgate Twister medio 2 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/727399/7702010130632_01.jpg?v=638948399754900000",
-   "cadena": "Comodín",
-   "precio": 3257.79,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-tw-porta-cabez-2u/p",
-   "referencia": 6515.59,
-   "precio_2da": 4968.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.4,
-   "score": 1722,
-   "pr": {
-    "Carrefour": [
-     4968.75,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-twister-medio-2-uni-710191/p"
-    ],
-    "Comodín": [
-     3257.79,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-tw-porta-cabez-2u/p"
-    ],
-    "ChangoMás": [
-     6879.0,
-     "https://www.masonline.com.ar/cepillo-dental-colgate-twister-bipack-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de dientes Colgate triple acción 3 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/549788/99176369226_01.jpg?v=638597798838100000",
-   "cadena": "Comodín",
-   "precio": 4191.19,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-acc-3x2un/p",
-   "referencia": 8382.39,
-   "precio_2da": 6390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.4,
-   "score": 1721,
-   "pr": {
-    "Carrefour": [
-     6390.0,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-triple-accion-3-uni-612621/p"
-    ],
-    "Vea": [
-     8590.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-triple-accion-3-un-colgate/p"
-    ],
-    "Jumbo": [
-     9050.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-triple-accion-3-un-colgate/p"
-    ],
-    "Comodín": [
-     4191.19,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-triple-acc-3x2un/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo Dental Medio Extra Clean x 3 Un Colgate",
-   "m": "COLGATE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833360/Cepillo-Dental-Colgate-Extra-Clean-Medio-Cerdas-Multinivel-3u-1-28703.jpg?v=638610936395070000",
-   "cadena": "Comodín",
-   "precio": 3563.59,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-3x2/p",
-   "referencia": 7127.19,
-   "precio_2da": 5433.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.4,
-   "score": 1721,
-   "pr": {
-    "Vea": [
-     6990.0,
-     "https://www.vea.com.ar/cepillo-dental-colgate-extra-clean-medio-cerdas-multinivel-3u/p"
-    ],
-    "Jumbo": [
-     7500.0,
-     "https://www.jumbo.com.ar/cepillo-dental-colgate-extra-clean-medio-cerdas-multinivel-3u/p"
-    ],
-    "Comodín": [
-     3563.59,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-3x2/p"
-    ],
-    "Carrefour": [
-     5433.75,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-cerdas-multinivel-3-uni-481031/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de dientes Colgate Extra Clean firme doble acción 2 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/601886/7702010630422_01.jpg?v=638695204393870000",
-   "cadena": "Comodín",
-   "precio": 2646.79,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-mediano-2un/p",
-   "referencia": 5293.59,
-   "precio_2da": 4034.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.4,
-   "score": 1720,
-   "pr": {
-    "Carrefour": [
-     4034.25,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-firme-doble-accion-2-uni-664202/p"
-    ],
-    "Vea": [
-     5590.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-extra-clean-firme-doble-accion-2-u-colgate/p"
-    ],
-    "Jumbo": [
-     5800.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-extra-clean-firme-doble-accion-2-u-colgate/p"
-    ],
-    "Comodín": [
-     2646.79,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extra-clean-mediano-2un/p"
-    ],
-    "ChangoMás": [
-     5599.0,
-     "https://www.masonline.com.ar/cepillo-dental-extra-clean-colgate-2-x-1-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo De Dientes Colgate Zig Zag Charcoal Medio 2 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914206/7509546673042_01.jpg?v=639222300352100000",
-   "cadena": "Comodín",
-   "precio": 3054.99,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-charcoal-2un/p",
-   "referencia": 6109.99,
-   "precio_2da": 4642.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.2,
-   "score": 1710,
-   "pr": {
-    "Carrefour": [
-     4642.5,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-zig-zag-charcoal-medio-2-uni-710192/p"
-    ],
-    "Comodín": [
-     3054.99,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-charcoal-2un/p"
-    ],
-    "ChangoMás": [
-     6459.0,
-     "https://www.masonline.com.ar/cepillo-dental-colgate-zig-zag-charcoal-2u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de dientes Colgate Kids 2 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541004/7509546073453_01.jpg?v=638563882423230000",
-   "cadena": "Comodín",
-   "precio": 1575.09,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-kids-tandy-2x1/p",
-   "referencia": 3150.19,
-   "precio_2da": 2392.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.2,
-   "score": 1708,
-   "pr": {
-    "Carrefour": [
-     2392.5,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-kids-2-uni-626865/p"
-    ],
-    "Jumbo": [
-     3400.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-kids-2-un-colgate/p"
-    ],
-    "Comodín": [
-     1575.09,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-kids-tandy-2x1/p"
-    ],
-    "ChangoMás": [
-     3329.0,
-     "https://www.masonline.com.ar/pack-cepillo-kids-5-colgate-2-un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Pampers talle P deluxe 36 uni",
-   "m": "Pampers",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862251/7500435237611_02.jpg?v=639130864866630000",
-   "cadena": "Carrefour",
-   "precio": 15834.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
-   "referencia": 26390.0,
-   "precio_2da": 27470.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.4,
-   "score": 1694,
-   "pr": {
-    "Carrefour": [
-     15834.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
-    ],
-    "Vea": [
-     27790.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ],
-    "Jumbo": [
-     27470.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-36u/p"
-    ]
-   }
-  },
-  {
-   "n": "Cepillo de Dientes Colgate Extra Clean Medio 1 uni",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/509151/5900273001566_01.jpg?v=638490413829500000",
-   "cadena": "Comodín",
-   "precio": 1434.69,
-   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extr-clean-m-1un/p",
-   "referencia": 2869.39,
-   "precio_2da": 2167.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.8,
-   "score": 1690,
-   "pr": {
-    "Carrefour": [
-     2167.5,
-     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-1-uni-294735/p"
-    ],
-    "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-1-u/p"
-    ],
-    "Jumbo": [
-     3100.0,
-     "https://www.jumbo.com.ar/cepillo-de-dientes-colgate-extra-clean-medio-1-u/p"
-    ],
-    "Comodín": [
-     1434.69,
-     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-extr-clean-m-1un/p"
-    ],
-    "ChangoMás": [
-     3029.0,
-     "https://www.masonline.com.ar/cepillo-colgate-extra-clean-mediano-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental Oral B 3D White 140 grs",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693878/7500435177054_02.jpg?v=638923424072830000",
-   "cadena": "Carrefour",
-   "precio": 7347.0,
-   "link": "https://www.carrefour.com.ar/pasta-dental-oral-b-3d-white-140-grs-766678/p",
-   "referencia": 12245.0,
-   "precio_2da": 12650.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.9,
-   "score": 1677,
-   "pr": {
-    "Carrefour": [
-     7347.0,
-     "https://www.carrefour.com.ar/pasta-dental-oral-b-3d-white-140-grs-766678/p"
-    ],
-    "Jumbo": [
-     12650.0,
-     "https://www.jumbo.com.ar/crema-dental-oral-b-3dw-140gr/p"
-    ],
-    "Comodín": [
-     14799.19,
-     "https://www.comodinencasa.com.ar/crema-dental-oral-b-3d-white-140g/p"
-    ]
-   }
-  },
-  {
-   "n": "Edulcorante Líquido Clásico 400 Cc Chuker",
-   "m": "CHUKER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788527/Edulcorante-Chuker-Clasico-Liquido-X400ml-1-972864.jpg?v=638253993791130000",
-   "cadena": "Carrefour",
-   "precio": 3311.4,
-   "link": "https://www.carrefour.com.ar/edulcorante-liquido-chuker-clasico-400-g-719370/p",
-   "referencia": 5519.0,
-   "precio_2da": 5690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.8,
-   "score": 1672,
-   "pr": {
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/edulcorante-liquido-clasico-chuker-400-ml-2/p"
-    ],
-    "Jumbo": [
-     5850.0,
-     "https://www.jumbo.com.ar/edulcorante-liquido-clasico-chuker-400-ml-2/p"
-    ],
-    "Carrefour": [
-     3311.4,
-     "https://www.carrefour.com.ar/edulcorante-liquido-chuker-clasico-400-g-719370/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido Procenex pisos marina 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/934937/7791130683661_01.jpg?v=639251693385800000",
-   "cadena": "Carrefour",
-   "precio": 1293.5,
-   "link": "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p",
-   "referencia": 1990.0,
-   "precio_2da": 2473.19,
-   "baja_pct": 35.0,
-   "brecha_pct": 47.7,
-   "score": 1669,
-   "pr": {
-    "Carrefour": [
-     1293.5,
-     "https://www.carrefour.com.ar/limpiador-liquido-procenex-pisos-marina-900-ml-584261/p"
-    ],
-    "Jumbo": [
-     2500.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-procenex-pisos-marina-900ml/p"
-    ],
-    "Comodín": [
-     2473.19,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-marina-900ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador líquido pisos Procenex flores de jardín 900 ml.",
-   "m": "Procenex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/934935/7791130683531_01.jpg?v=639251693175170000",
-   "cadena": "Carrefour",
-   "precio": 1293.5,
-   "link": "https://www.carrefour.com.ar/limpiador-liquido-pisos-procenex-flores-de-jardin-900-ml-584257/p",
-   "referencia": 1990.0,
-   "precio_2da": 2473.19,
-   "baja_pct": 35.0,
-   "brecha_pct": 47.7,
-   "score": 1669,
-   "pr": {
-    "Carrefour": [
-     1293.5,
-     "https://www.carrefour.com.ar/limpiador-liquido-pisos-procenex-flores-de-jardin-900-ml-584257/p"
-    ],
-    "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/limpiador-de-pisos-liquido-procenex-flores-de-jardin-900-ml/p"
-    ],
-    "Comodín": [
-     2473.19,
-     "https://www.comodinencasa.com.ar/limpiador-procenex-flores-de-jardin-900/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Pampers talle RN deluxe 36 uni",
-   "m": "Pampers",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/862272/7500435237642_02.jpg?v=639130866023270000",
-   "cadena": "Carrefour",
-   "precio": 14214.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-rn-deluxe-36-uni-732854/p",
-   "referencia": 23690.0,
-   "precio_2da": 23720.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.1,
-   "score": 1603,
-   "pr": {
-    "Carrefour": [
-     14214.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-rn-deluxe-36-uni-732854/p"
-    ],
-    "Vea": [
-     25190.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-pequeno-36u/p"
-    ],
-    "Jumbo": [
-     23720.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-pequeno-36u/p"
-    ]
-   }
-  },
-  {
-   "n": "Tintura Crema Triple Cuidado Tono N° 5,7 Chocolate Caramelo 1 Un Excellence",
-   "m": "EXCELLENCE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/850921/Coloracion-Renovacion-Tono-5-7-Excellence-1-1031451.jpg?v=638709213792470000",
-   "cadena": "Carrefour",
-   "precio": 14994.0,
-   "link": "https://www.carrefour.com.ar/kit-tintura-excellence-creme-tono-5-7-chocolate-caramelo-1-uni-753932/p",
-   "referencia": 24990.0,
-   "precio_2da": 24989.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Jumbo": [
-     26200.0,
-     "https://www.jumbo.com.ar/coloracion-renovacion-tono-5-7-excellence/p"
-    ],
-    "Carrefour": [
-     14994.0,
-     "https://www.carrefour.com.ar/kit-tintura-excellence-creme-tono-5-7-chocolate-caramelo-1-uni-753932/p"
-    ],
-    "ChangoMás": [
-     24989.0,
-     "https://www.masonline.com.ar/coloracion-excellence-6-rubio-oscuro-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Antitranspirante en gel Secret Ph Balanc clinical 45 grs",
-   "m": "Secret",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/741046/7500435144636_02.jpg?v=638962365123570000",
-   "cadena": "Carrefour",
-   "precio": 13605.0,
-   "link": "https://www.carrefour.com.ar/antitranspirante-en-gel-secret-ph-balanc-clinical-45-grs-768977/p",
-   "referencia": 22675.0,
-   "precio_2da": 22590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.8,
-   "score": 1591,
-   "pr": {
-    "Carrefour": [
-     13605.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-gel-secret-ph-balanc-clinical-45-grs-768977/p"
-    ],
-    "Vea": [
-     22590.0,
-     "https://www.vea.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
-    ],
-    "Jumbo": [
-     22700.0,
-     "https://www.jumbo.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas Triple Protección x 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/815527/Always-Xtra-Triple-Protecci-n-Suave-Toallas-16-Unidades-1-989513.jpg?v=638464701848100000",
-   "cadena": "Comodín",
-   "precio": 2994.69,
-   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-dia-sua-16un/p",
-   "referencia": 4791.51,
-   "precio_2da": 5167.5,
-   "baja_pct": 37.5,
-   "brecha_pct": 42.0,
-   "score": 1577,
-   "pr": {
-    "Vea": [
-     7290.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-16-un-always/p"
-    ],
-    "Jumbo": [
-     5167.5,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-16-un-always/p"
-    ],
-    "Comodín": [
-     2994.69,
-     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-dia-sua-16un/p"
-    ],
-    "Carrefour": [
-     7290.0,
-     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-suave-toallas-16-uni-726079/p"
-    ],
-    "ChangoMás": [
-     7279.0,
-     "https://www.masonline.com.ar/toalla-femenina-always-maxima-proteccion-suave-16un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental extra blanco Oral B carbón activo 70 grs",
-   "m": "Oral B",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/693881/7500435231220_02.jpg?v=638923441534170000",
-   "cadena": "Carrefour",
-   "precio": 2634.0,
-   "link": "https://www.carrefour.com.ar/pasta-dental-extra-blanco-oral-b-carbon-activo-70-grs-766680/p",
-   "referencia": 4319.5,
-   "precio_2da": 4390.0,
-   "baja_pct": 39.0,
-   "brecha_pct": 40.0,
-   "score": 1561,
-   "pr": {
-    "Carrefour": [
-     2634.0,
-     "https://www.carrefour.com.ar/pasta-dental-extra-blanco-oral-b-carbon-activo-70-grs-766680/p"
-    ],
-    "Vea": [
-     4390.0,
-     "https://www.vea.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p"
-    ],
-    "Jumbo": [
-     4650.0,
-     "https://www.jumbo.com.ar/crema-dental-oral-b-extra-blanco-carbon-70g/p"
-    ],
-    "Comodín": [
-     5307.19,
-     "https://www.comodinencasa.com.ar/crema-dental-oral-b-extra-bla-carbon-70g/p"
-    ]
-   }
-  },
-  {
-   "n": "Gomitas Acido Extreme Mogul 35 Gr",
-   "m": "MOGUL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/201945/Gomitas-Mogul-Acido-Gomitas-Mogul-Acido-extreme-bsa-gr-35-1-38330.jpg?v=636383636774630000",
-   "cadena": "Comodín",
-   "precio": 406.49,
-   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-acido-extremo-rollo-35gr-2/p",
-   "referencia": 599.0,
-   "precio_2da": 790.0,
-   "baja_pct": 32.1,
-   "brecha_pct": 48.5,
-   "score": 1560,
-   "pr": {
-    "Vea": [
-     810.0,
-     "https://www.vea.com.ar/gomitas-acido-extreme-mogul-35-gr-2/p"
-    ],
-    "Jumbo": [
-     950.0,
-     "https://www.jumbo.com.ar/gomitas-acido-extreme-mogul-35-gr-2/p"
-    ],
-    "Comodín": [
-     406.49,
-     "https://www.comodinencasa.com.ar/gomitas-mogul-acido-extremo-rollo-35gr-2/p"
-    ],
-    "Carrefour": [
-     790.0,
-     "https://www.carrefour.com.ar/gomitas-mogul-extreme-acidas-35-g-74323/p"
-    ]
-   }
-  },
-  {
-   "n": "Nachos sabor a queso Doritos 129 g.",
-   "m": "Doritos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904459/7790310985656_E01.jpg?v=639199033408500000",
-   "cadena": "Carrefour",
-   "precio": 3390.0,
-   "link": "https://www.carrefour.com.ar/nachos-sabor-a-queso-doritos-129-g-721955/p",
-   "referencia": 5599.0,
-   "precio_2da": 5599.0,
-   "baja_pct": 39.5,
-   "brecha_pct": 39.5,
-   "score": 1557,
-   "pr": {
-    "Carrefour": [
-     3390.0,
-     "https://www.carrefour.com.ar/nachos-sabor-a-queso-doritos-129-g-721955/p"
-    ],
-    "Comodín": [
-     5786.59,
-     "https://www.comodinencasa.com.ar/doritos-queso-129-gr/p"
-    ],
-    "ChangoMás": [
-     5599.0,
-     "https://www.masonline.com.ar/doritos-sabor-queso-129g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Tiritas de pollo congeladas Sadia Golden en bolsa 300 grs",
-   "m": "Sadia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861261/7891515586812_E02.jpg?v=639130065661130000",
-   "cadena": "Jumbo",
-   "precio": 4320.0,
-   "link": "https://www.jumbo.com.ar/tiritas-de-pollo-golden-x-300-gr-sadia/p",
-   "referencia": 7200.0,
-   "precio_2da": 7023.19,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1540,
-   "pr": {
-    "Carrefour": [
-     7205.0,
-     "https://www.carrefour.com.ar/tiritas-de-pollo-congeladas-sadia-golden-en-bolsa-300-grs-750429/p"
-    ],
-    "Jumbo": [
-     4320.0,
-     "https://www.jumbo.com.ar/tiritas-de-pollo-golden-x-300-gr-sadia/p"
-    ],
-    "Comodín": [
-     7023.19,
-     "https://www.comodinencasa.com.ar/tiritas-de-pollo-sadia-golden-300gr/p"
-    ],
-    "ChangoMás": [
-     7209.0,
-     "https://www.masonline.com.ar/tiritas-de-pechuga-de-pollo-sadia-golden-rebozadas-300-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Lavandina Ayudín triple poder pureza glaciar 2 l.",
-   "m": "Ayudín",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795392/7793253003753_02.jpg?v=639050313407370000",
-   "cadena": "Carrefour",
-   "precio": 2073.5,
-   "link": "https://www.carrefour.com.ar/lavandina-ayudin-triple-poder-pureza-glaciar-2-l-675804/p",
-   "referencia": 3190.0,
-   "precio_2da": 3678.49,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.6,
-   "score": 1527,
-   "pr": {
-    "Carrefour": [
-     2073.5,
-     "https://www.carrefour.com.ar/lavandina-ayudin-triple-poder-pureza-glaciar-2-l-675804/p"
-    ],
-    "Comodín": [
-     3678.49,
-     "https://www.comodinencasa.com.ar/lavandina-ayudin-frag-multis-pureza-2lt/p"
-    ],
-    "ChangoMás": [
-     3859.0,
-     "https://www.masonline.com.ar/lavandina-ayudin-triple-poder-pureza-glaciar-2-l-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Detergente para Ropa Quitamanchas Diluible 500 Ml Zorro",
-   "m": "ZORRO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/892861/Jabon-Liquido-Ropa-Zorro-Evolution-Diluible-500ml-1-889799.jpg?v=639046875084900000",
-   "cadena": "Carrefour",
-   "precio": 5518.5,
-   "link": "https://www.carrefour.com.ar/zorro-evolution-diluible-quitamanchas-500-ml-703001/p",
-   "referencia": 8490.0,
-   "precio_2da": 9690.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.0,
-   "score": 1507,
-   "pr": {
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/jabon-liquido-diluible-quitamanchas-500-ml-zorro/p"
-    ],
-    "Jumbo": [
-     10950.0,
-     "https://www.jumbo.com.ar/jabon-liquido-diluible-quitamanchas-500-ml-zorro/p"
-    ],
-    "Carrefour": [
-     5518.5,
-     "https://www.carrefour.com.ar/zorro-evolution-diluible-quitamanchas-500-ml-703001/p"
-    ]
-   }
-  },
-  {
-   "n": "Pizza Sabor Mozzarella y Jamón Familiar x 1 Un 530 Grs Sibarita",
-   "m": "SIBARITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923130/7790070040046.jpg?v=639214545856430000",
-   "cadena": "Vea",
-   "precio": 10554.0,
-   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p",
-   "referencia": 17590.0,
-   "precio_2da": 16899.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1502,
-   "pr": {
-    "Vea": [
-     10554.0,
-     "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
-    ],
-    "ChangoMás": [
-     16899.0,
-     "https://www.masonline.com.ar/pizza-sibarita-mozzarella-y-jamon-530-g-2/p"
-    ],
-    "Carrefour": [
-     17579.0,
-     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
     ]
    }
   }
