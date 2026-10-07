@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-06",
- "actualizado": "2026-10-06 07:52",
+ "fecha": "2026-10-07",
+ "actualizado": "2026-10-07 18:51",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,17 +9,44 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-26",
   "2026-09-27",
   "2026-09-28",
   "2026-09-30",
   "2026-10-01",
   "2026-10-02",
   "2026-10-05",
-  "2026-10-06"
+  "2026-10-06",
+  "2026-10-07"
  ],
- "total": 53,
+ "total": 42,
  "ofertas": [
+  {
+   "n": "Vino Tinto Malbec 750 Cc Trapiche",
+   "m": "TRAPICHE",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823244/7790240098969_02.jpg?v=639083181979800000",
+   "cadena": "Carrefour",
+   "precio": 5480.27,
+   "link": "https://www.carrefour.com.ar/vino-tinto-trapiche-malbec-origen-750-cc-709984/p",
+   "referencia": 15264.1,
+   "precio_2da": 12479.0,
+   "baja_pct": 64.1,
+   "brecha_pct": 56.1,
+   "score": 3595,
+   "pr": {
+    "Carrefour": [
+     5480.27,
+     "https://www.carrefour.com.ar/vino-tinto-trapiche-malbec-origen-750-cc-709984/p"
+    ],
+    "Jumbo": [
+     12750.0,
+     "https://www.jumbo.com.ar/vino-trapiche-reserva-malbec-750cc/p"
+    ],
+    "ChangoMás": [
+     12479.0,
+     "https://www.masonline.com.ar/vino-malbec-trapiche-reserva-750-cc-2/p"
+    ]
+   }
+  },
   {
    "n": "Enjuague bucal Colgate Plax minions 250 cc",
    "m": "Colgate",
@@ -203,95 +230,6 @@
    }
   },
   {
-   "n": "Nestlé Chocolate con leche 45 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923233/8445291565173_01.jpg?v=639240348359770000",
-   "cadena": "Carrefour",
-   "precio": 1864.5,
-   "link": "https://www.carrefour.com.ar/nestle-chocolate-con-leche-45-grs-764048/p",
-   "referencia": 3729.0,
-   "precio_2da": 3790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.8,
-   "score": 2540,
-   "pr": {
-    "Carrefour": [
-     1864.5,
-     "https://www.carrefour.com.ar/nestle-chocolate-con-leche-45-grs-764048/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/chocolate-leche-suave-y-cremoso-x-45-grs-nestle/p"
-    ],
-    "Jumbo": [
-     4100.0,
-     "https://www.jumbo.com.ar/chocolate-leche-suave-y-cremoso-x-45-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     3879.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-nestle-leche-45-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallas Nocturnas Xtra Noches Tranquilas Suave 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/815525/Always-Xtra-Noches-Tranquilas-Suave-Toallas-Nocturnas-16-Unidades-1-989505.jpg?v=638464701838870000",
-   "cadena": "Comodín",
-   "precio": 3212.49,
-   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-pro-noc-suav-16un/p",
-   "referencia": 5345.59,
-   "precio_2da": 7979.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 59.7,
-   "score": 2384,
-   "pr": {
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/toallas-nocturnas-xtra-noches-tranquilas-suave-16-un-always/p"
-    ],
-    "Comodín": [
-     3212.49,
-     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-pro-noc-suav-16un/p"
-    ],
-    "Carrefour": [
-     7990.0,
-     "https://www.carrefour.com.ar/always-xtra-noches-tranquilas-suave-toallas-nocturnas-16-uni-726076/p"
-    ],
-    "ChangoMás": [
-     7979.0,
-     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-suave-16un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Gomitas Oso Sabor Tutti Frutti Limón y Blueberry 50 Grs Mogul",
-   "m": "MOGUL",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/586075/Gomitas-Mogul-Oso-Extreme-1-849365.jpg?v=637258009358600000",
-   "cadena": "Comodín",
-   "precio": 719.15,
-   "link": "https://www.comodinencasa.com.ar/gomas-mogul-oso-extreme-50gr-2/p",
-   "referencia": 1417.09,
-   "precio_2da": 1380.0,
-   "baja_pct": 49.3,
-   "brecha_pct": 47.9,
-   "score": 2359,
-   "pr": {
-    "Jumbo": [
-     1550.0,
-     "https://www.jumbo.com.ar/mogul-oso-extreme/p"
-    ],
-    "Comodín": [
-     719.15,
-     "https://www.comodinencasa.com.ar/gomas-mogul-oso-extreme-50gr-2/p"
-    ],
-    "Carrefour": [
-     1380.0,
-     "https://www.carrefour.com.ar/gomitas-mogul-extreme-acido-frutales-oso-50-g/p"
-    ]
-   }
-  },
-  {
    "n": "Oso Extreme Mogul X 80 Gr Arcor",
    "m": "MOGUL",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/872320/Oso-Extreme-Mogul-Arcor-80-Gr-1-1039192.jpg?v=638859441967700000",
@@ -358,29 +296,29 @@
    }
   },
   {
-   "n": "Shampoo Liso Coco Hidratación y Frizz 200 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807221/Shampoo-Fructis-Liso-Coco-200ml-1-999758.jpg?v=638410270052930000",
-   "cadena": "Carrefour",
-   "precio": 2699.4,
-   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p",
-   "referencia": 4499.0,
-   "precio_2da": 6200.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 56.5,
-   "score": 2258,
+   "n": "Yogur Sabor Vainilla Semidescremado 900 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/897448/Yogurt-Deslactosado-Vainilla-Sachet-900g-Nutrici-n-Activa-La-Seren-sima-1-1053793.jpg?v=639143070446100000",
+   "cadena": "Comodín",
+   "precio": 2842.49,
+   "link": "https://www.comodinencasa.com.ar/yogur-ls-vainilla-deslactosado-sach-900g-2/p",
+   "referencia": 5684.99,
+   "precio_2da": 5259.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.9,
+   "score": 2298,
    "pr": {
     "Jumbo": [
-     6200.0,
-     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-200ml-3/p"
+     6500.0,
+     "https://www.jumbo.com.ar/yogur-deslactosado-sabor-vainilla-sachet-900-grs-la-serenisima/p"
     ],
-    "ChangoMás": [
-     6589.0,
-     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-200ml-2/p"
+    "Comodín": [
+     2842.49,
+     "https://www.comodinencasa.com.ar/yogur-ls-vainilla-deslactosado-sach-900g-2/p"
     ],
     "Carrefour": [
-     2699.4,
-     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p"
+     5259.0,
+     "https://www.carrefour.com.ar/yogur-sachet-deslactosado-sabor-vainilla-la-serenisima-nutricion-activa-900-grs-773400/p"
     ]
    }
   },
@@ -447,6 +385,33 @@
     "ChangoMás": [
      9739.0,
      "https://www.masonline.com.ar/enjuague-bucal-colgate-total-12-carbon-activado-500ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nestlé chocolate con maní 90 grs",
+   "m": "Nestlé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914747/7613287529497_E01.jpg?v=639223045501100000",
+   "cadena": "Carrefour",
+   "precio": 2157.0,
+   "link": "https://www.carrefour.com.ar/nestle-chocolate-con-mani-90-grs-679742/p",
+   "referencia": 3595.0,
+   "precio_2da": 4673.5,
+   "baja_pct": 40.0,
+   "brecha_pct": 53.8,
+   "score": 2154,
+   "pr": {
+    "Carrefour": [
+     2157.0,
+     "https://www.carrefour.com.ar/nestle-chocolate-con-mani-90-grs-679742/p"
+    ],
+    "Vea": [
+     4673.5,
+     "https://www.vea.com.ar/chocolate-con-mani-90-grs-nestle/p"
+    ],
+    "Jumbo": [
+     5102.5,
+     "https://www.jumbo.com.ar/chocolate-con-mani-90-grs-nestle/p"
     ]
    }
   },
@@ -556,37 +521,29 @@
    }
   },
   {
-   "n": "Alfajor triple SHOT con maní 60 g",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882369/77956699_E01.jpg?v=639155719741170000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p",
-   "referencia": 2334.0,
-   "precio_2da": 2209.0,
-   "baja_pct": 46.5,
-   "brecha_pct": 43.4,
-   "score": 2018,
+   "n": "Cepillo de dientes Colgate Slim Soft base twinpack 2 uni",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/516122/7591083017793_01.jpg?v=638503379378700000",
+   "cadena": "Comodín",
+   "precio": 5478.99,
+   "link": "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-2x1/p",
+   "referencia": 11396.39,
+   "precio_2da": 8992.5,
+   "baja_pct": 51.9,
+   "brecha_pct": 39.1,
+   "score": 2029,
    "pr": {
     "Carrefour": [
-     2209.0,
-     "https://www.carrefour.com.ar/alfajor-triple-shot-con-mani-60-g-353207/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
-    ],
-    "Jumbo": [
-     2550.0,
-     "https://www.jumbo.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
+     8992.5,
+     "https://www.carrefour.com.ar/cepillo-de-dientes-colgate-slim-soft-base-twinpack-2-uni-562386/p"
     ],
     "Comodín": [
-     2983.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-shot-1un-x-60gr-2/p"
+     5478.99,
+     "https://www.comodinencasa.com.ar/cepillo-dental-colgate-slim-soft-2x1/p"
     ],
     "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p"
+     12209.0,
+     "https://www.masonline.com.ar/cepillo-dental-colgate-slim-soft-2u/p"
     ]
    }
   },
@@ -905,6 +862,41 @@
    }
   },
   {
+   "n": "Arroz Grano Largo Fino 1 Kg Molinos Ala",
+   "m": "Molinos Ala",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/625788/Arroz-Ala-Grano-Largo-Fino-1-Kg-1-3614.jpg?v=637528440071470000",
+   "cadena": "ChangoMás",
+   "precio": 999.0,
+   "link": "https://www.masonline.com.ar/arroz-blanco-largo-fino-molinos-ala-1-kg-2/p",
+   "referencia": 1699.0,
+   "precio_2da": 1863.0,
+   "baja_pct": 41.2,
+   "brecha_pct": 46.4,
+   "score": 1911,
+   "pr": {
+    "Vea": [
+     1890.0,
+     "https://www.vea.com.ar/arroz-ala-grano-largo-fino-1-kg/p"
+    ],
+    "Jumbo": [
+     1863.0,
+     "https://www.jumbo.com.ar/arroz-ala-grano-largo-fino-1-kg/p"
+    ],
+    "Comodín": [
+     1886.59,
+     "https://www.comodinencasa.com.ar/arroz-molinos-ala-largo-fino-1kg/p"
+    ],
+    "ChangoMás": [
+     999.0,
+     "https://www.masonline.com.ar/arroz-blanco-largo-fino-molinos-ala-1-kg-2/p"
+    ],
+    "Carrefour": [
+     1950.0,
+     "https://www.carrefour.com.ar/arroz-largo-fino-molinos-ala-1-kg/p"
+    ]
+   }
+  },
+  {
    "n": "Cepillo De Dientes Colgate Zig Zag Charcoal Medio 2 uni",
    "m": "Colgate",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914206/7509546673042_01.jpg?v=639222300352100000",
@@ -959,37 +951,6 @@
     "ChangoMás": [
      3329.0,
      "https://www.masonline.com.ar/pack-cepillo-kids-5-colgate-2-un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple blanco Shot 60 grs",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882367/7622202816437_E01.jpg?v=639155719507670000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p",
-   "referencia": 2239.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 44.2,
-   "brecha_pct": 42.9,
-   "score": 1898,
-   "pr": {
-    "Carrefour": [
-     2239.0,
-     "https://www.carrefour.com.ar/alfajor-triple-blanco-shot-60-grs-773811/p"
-    ],
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
     ]
    }
   },
@@ -1060,64 +1021,6 @@
    }
   },
   {
-   "n": "Galletitas crackers Traviata Rex x3 288 grs",
-   "m": "Traviata",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929681/7790040143920_01.jpg?v=639246507881330000",
-   "cadena": "Carrefour",
-   "precio": 1245.0,
-   "link": "https://www.carrefour.com.ar/galletitas-crackers-traviata-rex-x3-288-grs-749666/p",
-   "referencia": 2490.0,
-   "precio_2da": 1990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.4,
-   "score": 1872,
-   "pr": {
-    "Carrefour": [
-     1245.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-rex-x3-288-grs-749666/p"
-    ],
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/galletitas-traviata-saladas-rex-288g/p"
-    ],
-    "Jumbo": [
-     2950.0,
-     "https://www.jumbo.com.ar/galletitas-traviata-saladas-rex-288g/p"
-    ],
-    "ChangoMás": [
-     2479.0,
-     "https://www.masonline.com.ar/galletitas-traviata-rex-288-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Gomitas Jelly Beans Sabor Surtido 80 Grs Mogul",
-   "m": "MOGUL",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/872324/Jelly-Beans-Mogul-Arcor-80-Gr-1-1039196.jpg?v=638859441981970000",
-   "cadena": "Comodín",
-   "precio": 909.33,
-   "link": "https://www.comodinencasa.com.ar/gomitas-mogul-jelly-beans-80gr/p",
-   "referencia": 1418.55,
-   "precio_2da": 1889.0,
-   "baja_pct": 35.9,
-   "brecha_pct": 51.9,
-   "score": 1862,
-   "pr": {
-    "Jumbo": [
-     2050.0,
-     "https://www.jumbo.com.ar/jelly-beans-mogul-x-80-gr-arcor/p"
-    ],
-    "Comodín": [
-     909.33,
-     "https://www.comodinencasa.com.ar/gomitas-mogul-jelly-beans-80gr/p"
-    ],
-    "ChangoMás": [
-     1889.0,
-     "https://www.masonline.com.ar/gomitas-mogul-jelly-beans-80-g/p"
-    ]
-   }
-  },
-  {
    "n": "Crema corporal Hinds rosa plus 250 ml",
    "m": "Hinds",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383182/7794640173073_01.jpg?v=638315925155330000",
@@ -1153,68 +1056,37 @@
    }
   },
   {
-   "n": "Alfajor Milka triple mousse 55 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915501/77903785_E01.jpg?v=639226797686730000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
-   "referencia": 2274.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 45.1,
-   "brecha_pct": 40.5,
-   "score": 1823,
+   "n": "Bebida Frizzante Sabor Blue 1 Lts Frizze",
+   "m": "FRIZZE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808305/Frizante-Frizze-Blue-1lt-1-856971.jpg?v=638421611430200000",
+   "cadena": "Jumbo",
+   "precio": 2100.0,
+   "link": "https://www.jumbo.com.ar/frizante-frizze-blue-1lt/p",
+   "referencia": 4200.0,
+   "precio_2da": 3327.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 36.9,
+   "score": 1845,
    "pr": {
-    "Carrefour": [
-     2099.0,
-     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
-    ],
-    "Jumbo": [
-     2351.0,
-     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
-    ],
-    "Comodín": [
-     2983.79,
-     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Enjuague bucal Colgate Plax ice infinity 180 ml",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/683073/7891024039625_01.jpg?v=638887005082670000",
-   "cadena": "Comodín",
-   "precio": 1701.49,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-180ml/p",
-   "referencia": 3539.19,
-   "precio_2da": 2593.5,
-   "baja_pct": 51.9,
-   "brecha_pct": 34.4,
-   "score": 1786,
-   "pr": {
-    "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180-ml-717589/p"
-    ],
     "Vea": [
-     2593.5,
-     "https://www.vea.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml/p"
+     3990.0,
+     "https://www.vea.com.ar/frizante-frizze-blue-1lt/p"
     ],
     "Jumbo": [
-     2600.0,
-     "https://www.jumbo.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml/p"
+     2100.0,
+     "https://www.jumbo.com.ar/frizante-frizze-blue-1lt/p"
     ],
     "Comodín": [
-     1701.49,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-infi-180ml/p"
+     3327.99,
+     "https://www.comodinencasa.com.ar/vino-frizze-evolution-new-blue-1lt/p"
+    ],
+    "Carrefour": [
+     3949.0,
+     "https://www.carrefour.com.ar/frizzante-evolution-blue-frizze-1-l-672826/p"
     ],
     "ChangoMás": [
-     4129.0,
-     "https://www.masonline.com.ar/enjuague-bucal-colgate-plax-ice-infinity-180ml-2/p"
+     3939.0,
+     "https://www.masonline.com.ar/espumante-evolution-blue-frizze-1-lt-2/p"
     ]
    }
   },
@@ -1246,64 +1118,6 @@
    }
   },
   {
-   "n": "Toallas Nocturnas Xtra Noches Tranquilas Seca 16 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/815531/Always-Xtra-Noches-Tranquilas-Seca-Toallas-Nocturnas-16-Unidades-1-989544.jpg?v=638464701867730000",
-   "cadena": "Comodín",
-   "precio": 5391.49,
-   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noc-sec-16un/p",
-   "referencia": 8971.51,
-   "precio_2da": 9479.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 43.1,
-   "score": 1721,
-   "pr": {
-    "Vea": [
-     10190.0,
-     "https://www.vea.com.ar/toallas-nocturnas-xtra-noches-tranquilas-seca-16-un-always/p"
-    ],
-    "Carrefour": [
-     9899.0,
-     "https://www.carrefour.com.ar/always-xtra-noches-tranquilas-seca-toallas-nocturnas-16-uni-726074/p"
-    ],
-    "Comodín": [
-     5391.49,
-     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noc-sec-16un/p"
-    ],
-    "ChangoMás": [
-     9479.0,
-     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-16un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Milka Oreo bis oblea 105,6 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914696/7622210719829_E01.jpg?v=639222505765800000",
-   "cadena": "Carrefour",
-   "precio": 2970.0,
-   "link": "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p",
-   "referencia": 4950.0,
-   "precio_2da": 5109.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.9,
-   "score": 1675,
-   "pr": {
-    "Carrefour": [
-     2970.0,
-     "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p"
-    ],
-    "Jumbo": [
-     5300.0,
-     "https://www.jumbo.com.ar/chocolate-milka-oreo-bis-oblea-105-6-gr-3/p"
-    ],
-    "ChangoMás": [
-     5109.0,
-     "https://www.masonline.com.ar/oblea-milka-bis-oreo-x-105-6-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
    "m": "Gatorade",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
@@ -1320,6 +1134,10 @@
      4120.0,
      "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
     ],
+    "Vea": [
+     4790.0,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
+    ],
     "Jumbo": [
      3975.0,
      "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
@@ -1331,153 +1149,29 @@
    }
   },
   {
-   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
-   "cadena": "ChangoMás",
-   "precio": 2279.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p",
-   "referencia": 3749.0,
-   "precio_2da": 3975.0,
-   "baja_pct": 39.2,
-   "brecha_pct": 42.7,
-   "score": 1673,
+   "n": "Maíz Pisingallo 400 Grs La Española Gourmet",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859494/Maiz-Pisingallo-Gourmet-400G-La-Espa-ola-Maiz-Pisingallo-La-Espa-ola-Gourmet-400g-1-1035569.jpg?v=638779198581830000",
+   "cadena": "Jumbo",
+   "precio": 525.0,
+   "link": "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p",
+   "referencia": 1050.0,
+   "precio_2da": 780.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.8,
+   "score": 1639,
    "pr": {
-    "Carrefour": [
-     4120.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
-    ],
-    "Vea": [
-     4790.0,
-     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ],
     "Jumbo": [
-     3975.0,
-     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+     525.0,
+     "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
     ],
-    "ChangoMás": [
-     2279.0,
-     "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Queso fundido Adler jamón 100 g",
-   "m": "Adler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834436/7791564012488_E01.jpg?v=639102410408300000",
-   "cadena": "Carrefour",
-   "precio": 1754.35,
-   "link": "https://www.carrefour.com.ar/queso-fundido-adler-jamon-100-g/p",
-   "referencia": 2699.0,
-   "precio_2da": 3300.99,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.9,
-   "score": 1640,
-   "pr": {
     "Carrefour": [
-     1754.35,
-     "https://www.carrefour.com.ar/queso-fundido-adler-jamon-100-g/p"
+     1039.0,
+     "https://www.carrefour.com.ar/maiz-pisingallo-la-espanola-en-bolsa-400-grs-759127/p"
     ],
     "Comodín": [
-     3300.99,
-     "https://www.comodinencasa.com.ar/queso-adler-jamon-x-100-gr/p"
-    ],
-    "ChangoMás": [
-     3389.0,
-     "https://www.masonline.com.ar/queso-fundido-jamon-adler-100gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallas Xtra Doble Protección Suave 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781532/Toallas-Femeninas-Always-Extra-Suave-8u-1-957997.jpg?v=638197833874230000",
-   "cadena": "Comodín",
-   "precio": 1385.49,
-   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-doble-prot-suave-8un/p",
-   "referencia": 2305.51,
-   "precio_2da": 2340.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 40.8,
-   "score": 1628,
-   "pr": {
-    "Vea": [
-     3490.0,
-     "https://www.vea.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p"
-    ],
-    "Jumbo": [
-     2340.0,
-     "https://www.jumbo.com.ar/toallas-xtra-doble-proteccion-suave-8-un-always/p"
-    ],
-    "Carrefour": [
-     3490.0,
-     "https://www.carrefour.com.ar/-always-xtra-doble-proteccion-suave-toallas-femeninas-8-uni-720102/p"
-    ],
-    "Comodín": [
-     1385.49,
-     "https://www.comodinencasa.com.ar/toalla-always-xtra-doble-prot-suave-8un/p"
-    ],
-    "ChangoMás": [
-     2957.15,
-     "https://www.masonline.com.ar/toallitas-femeninas-always-xtra-doble-proteccion-suave-8u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas Xtra Triple Protección Suave x 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/792070/Always-Xtra-Trip-Prot-Dia-Suav-T1-8x24it-Toa-Fem-Always-Xtra-Triple-Prot-Suave-8u-1-989507.jpg?v=638294385905300000",
-   "cadena": "Comodín",
-   "precio": 1720.99,
-   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-dia-sua-8un/p",
-   "referencia": 2863.75,
-   "precio_2da": 2892.5,
-   "baja_pct": 39.9,
-   "brecha_pct": 40.5,
-   "score": 1616,
-   "pr": {
-    "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-8-un-always/p"
-    ],
-    "Jumbo": [
-     2892.5,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-8-un-always/p"
-    ],
-    "Comodín": [
-     1720.99,
-     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-dia-sua-8un/p"
-    ],
-    "Carrefour": [
-     4190.0,
-     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-suave-toallas-8-uni-726080/p"
-    ]
-   }
-  },
-  {
-   "n": "Enjuague bucal Colgate Plax Fresh mint 750 ml",
-   "m": "Colgate",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/683045/7509546679617_01.jpg?v=638887002677600000",
-   "cadena": "Comodín",
-   "precio": 4196.99,
-   "link": "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-menta-750ml/p",
-   "referencia": 8729.79,
-   "precio_2da": 6056.7,
-   "baja_pct": 51.9,
-   "brecha_pct": 30.7,
-   "score": 1594,
-   "pr": {
-    "Carrefour": [
-     9700.0,
-     "https://www.carrefour.com.ar/enjuague-bucal-colgate-plax-fresh-mint-750-ml-717599/p"
-    ],
-    "Jumbo": [
-     6056.7,
-     "https://www.jumbo.com.ar/enjuague-bucal-plax-fresh-mint-750-ml-colgate-2/p"
-    ],
-    "Comodín": [
-     4196.99,
-     "https://www.comodinencasa.com.ar/enjuague-bucal-colgate-plax-menta-750ml/p"
+     780.99,
+     "https://www.comodinencasa.com.ar/maiz-pisingallo-la-espanola-400gr/p"
     ]
    }
   },
@@ -1536,29 +1230,29 @@
    }
   },
   {
-   "n": "Leche Sabor Chocolate 200 Ml Nesquik",
-   "m": "NESQUIK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869191/Leche-Chocolotada-200ml-Nesquik-1-1035783.jpg?v=638840434187500000",
-   "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p",
-   "referencia": 1800.0,
-   "precio_2da": 2279.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.3,
-   "score": 1578,
+   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
+   "m": "KOTEX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
+   "cadena": "Carrefour",
+   "precio": 2668.25,
+   "link": "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p",
+   "referencia": 4105.0,
+   "precio_2da": 4800.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.4,
+   "score": 1554,
    "pr": {
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/leche-chocolotada-200ml-nesquik/p"
-    ],
     "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p"
+     4800.0,
+     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
+    ],
+    "Carrefour": [
+     2668.25,
+     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
     ],
     "ChangoMás": [
-     2279.0,
-     "https://www.masonline.com.ar/chocolatada-nesquik-original-200-ml-2/p"
+     4999.0,
+     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
     ]
    }
   },
@@ -1621,33 +1315,6 @@
     "ChangoMás": [
      2279.0,
      "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Terrabusi blanco glaseado 38 g.",
-   "m": "Terrabusi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/825741/7622300202859_E01.jpg?v=639086661835800000",
-   "cadena": "Carrefour",
-   "precio": 778.47,
-   "link": "https://www.carrefour.com.ar/alfajor-terrabusi-blanco-glaseado-38-g-530359/p",
-   "referencia": 1211.92,
-   "precio_2da": 1349.0,
-   "baja_pct": 35.8,
-   "brecha_pct": 42.3,
-   "score": 1513,
-   "pr": {
-    "Carrefour": [
-     778.47,
-     "https://www.carrefour.com.ar/alfajor-terrabusi-blanco-glaseado-38-g-530359/p"
-    ],
-    "Comodín": [
-     1828.39,
-     "https://www.comodinencasa.com.ar/alfajor-terrabusi-glaceado-38gr-2/p"
-    ],
-    "ChangoMás": [
-     1349.0,
-     "https://www.masonline.com.ar/alfajor-glaseado-terrabusi-38-gr-2/p"
     ]
    }
   }
