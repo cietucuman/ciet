@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-08",
- "actualizado": "2026-10-08 06:34",
+ "actualizado": "2026-10-08 19:46",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -18,7 +18,7 @@
   "2026-10-07",
   "2026-10-08"
  ],
- "total": 16,
+ "total": 18,
  "ofertas": [
   {
    "n": "Alfajor Pepitos triple 57 g.",
@@ -118,6 +118,60 @@
    }
   },
   {
+   "n": "Vino Nieto Senetiner Malbec Cab Fr 750ml",
+   "m": "NIETO & SENETINER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788859/Vino-Nieto-Senetiner-Malbec-Cab-Fr-750ml-1-974607.jpg?v=638258098145630000",
+   "cadena": "Jumbo",
+   "precio": 6150.0,
+   "link": "https://www.jumbo.com.ar/vino-nieto-senetiner-malbec-cab-fr-750ml/p",
+   "referencia": 12300.0,
+   "precio_2da": 11590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2347,
+   "pr": {
+    "Vea": [
+     11590.0,
+     "https://www.vea.com.ar/vino-nieto-senetiner-malbec-cab-fr-750ml/p"
+    ],
+    "Jumbo": [
+     6150.0,
+     "https://www.jumbo.com.ar/vino-nieto-senetiner-malbec-cab-fr-750ml/p"
+    ],
+    "Carrefour": [
+     12200.0,
+     "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-blend-malb-cf-pv-750-cc-725347/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Coco Hidratación y Frizz 200 Ml Fructis",
+   "m": "FRUCTIS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807221/Shampoo-Fructis-Liso-Coco-200ml-1-999758.jpg?v=638410270052930000",
+   "cadena": "Carrefour",
+   "precio": 2699.4,
+   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p",
+   "referencia": 4499.0,
+   "precio_2da": 6200.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 56.5,
+   "score": 2258,
+   "pr": {
+    "Jumbo": [
+     6200.0,
+     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-200ml-3/p"
+    ],
+    "ChangoMás": [
+     6589.0,
+     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-200ml-2/p"
+    ],
+    "Carrefour": [
+     2699.4,
+     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p"
+    ]
+   }
+  },
+  {
    "n": "Café tostado molido La Virginia intenso 250 grs",
    "m": "La Virginia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943874/7790150037201_01.jpg?v=639268276860900000",
@@ -180,107 +234,6 @@
    }
   },
   {
-   "n": "Arroz largo fino Molinos Ala 1 kg.",
-   "m": "Molinos Ala",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/890067/7791120031557_01.jpg?v=639167119789670000",
-   "cadena": "ChangoMás",
-   "precio": 999.0,
-   "link": "https://www.masonline.com.ar/arroz-blanco-largo-fino-molinos-ala-1-kg-2/p",
-   "referencia": 1699.0,
-   "precio_2da": 1863.0,
-   "baja_pct": 41.2,
-   "brecha_pct": 46.4,
-   "score": 1911,
-   "pr": {
-    "Carrefour": [
-     1950.0,
-     "https://www.carrefour.com.ar/arroz-largo-fino-molinos-ala-1-kg/p"
-    ],
-    "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/arroz-ala-grano-largo-fino-1-kg/p"
-    ],
-    "Jumbo": [
-     1863.0,
-     "https://www.jumbo.com.ar/arroz-ala-grano-largo-fino-1-kg/p"
-    ],
-    "Comodín": [
-     1886.59,
-     "https://www.comodinencasa.com.ar/arroz-molinos-ala-largo-fino-1kg/p"
-    ],
-    "ChangoMás": [
-     999.0,
-     "https://www.masonline.com.ar/arroz-blanco-largo-fino-molinos-ala-1-kg-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple blanco Shot 60 grs",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882367/7622202816437_E01.jpg?v=639155719507670000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p",
-   "referencia": 2239.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 44.2,
-   "brecha_pct": 42.9,
-   "score": 1898,
-   "pr": {
-    "Carrefour": [
-     2239.0,
-     "https://www.carrefour.com.ar/alfajor-triple-blanco-shot-60-grs-773811/p"
-    ],
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
-    ],
-    "Jumbo": [
-     2300.0,
-     "https://www.jumbo.com.ar/alfajor-triple-blanco-x-60-grs-shot/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-shot-triple-blanco-60-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple SHOT con maní 60 g",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/882369/77956699_E01.jpg?v=639155719741170000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p",
-   "referencia": 2199.0,
-   "precio_2da": 2209.0,
-   "baja_pct": 43.2,
-   "brecha_pct": 43.4,
-   "score": 1876,
-   "pr": {
-    "Carrefour": [
-     2209.0,
-     "https://www.carrefour.com.ar/alfajor-triple-shot-con-mani-60-g-353207/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
-    ],
-    "Jumbo": [
-     2550.0,
-     "https://www.jumbo.com.ar/alfajor-con-mani-triple-60-gr-shot/p"
-    ],
-    "Comodín": [
-     2983.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-shot-1un-x-60gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-shot-60-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Crema corporal Hinds rosa plus 250 ml",
    "m": "Hinds",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383182/7794640173073_01.jpg?v=638315925155330000",
@@ -316,87 +269,164 @@
    }
   },
   {
-   "n": "Mascarilla Reparación Total Extreme 300 Grs Elvive",
-   "m": "ELVIVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/828245/Mascarilla-Elvive-Rt-Extreme-300-Gr-1-994978.jpg?v=638567627458600000",
+   "n": "Chocolate Milka Oreo bis oblea 105,6 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914696/7622210719829_E01.jpg?v=639222505765800000",
    "cadena": "Carrefour",
-   "precio": 7194.0,
-   "link": "https://www.carrefour.com.ar/mascarilla-elvive-rt-extreme-300-grs-726162/p",
-   "referencia": 11990.0,
-   "precio_2da": 12469.0,
+   "precio": 2970.0,
+   "link": "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p",
+   "referencia": 4950.0,
+   "precio_2da": 5109.0,
    "baja_pct": 40.0,
-   "brecha_pct": 42.3,
-   "score": 1692,
+   "brecha_pct": 41.9,
+   "score": 1675,
    "pr": {
-    "Jumbo": [
-     13350.0,
-     "https://www.jumbo.com.ar/mascarilla-elvive-rt-extreme-300-gr/p"
-    ],
     "Carrefour": [
-     7194.0,
-     "https://www.carrefour.com.ar/mascarilla-elvive-rt-extreme-300-grs-726162/p"
+     2970.0,
+     "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p"
+    ],
+    "Jumbo": [
+     5300.0,
+     "https://www.jumbo.com.ar/chocolate-milka-oreo-bis-oblea-105-6-gr-3/p"
     ],
     "ChangoMás": [
-     12469.0,
-     "https://www.masonline.com.ar/crema-tratamiento-elvive-reparacion-total-5-extreme-300ml-2/p"
+     5109.0,
+     "https://www.masonline.com.ar/oblea-milka-bis-oreo-x-105-6-gr-2/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Oil Control X 200 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/907592/Acondicionador-Oil-Control-X-200-Ml-Fructis-6-1057406.jpg?v=639129225794200000",
+   "n": "Queso fundido Adler salame 100 g",
+   "m": "Adler",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346197/7791564012525_E01.jpg?v=638234617853270000",
    "cadena": "Carrefour",
-   "precio": 3953.4,
-   "link": "https://www.carrefour.com.ar/acondicionador-fructis-oil-control-200-ml-778486/p",
-   "referencia": 6589.0,
-   "precio_2da": 6849.0,
+   "precio": 1754.35,
+   "link": "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p",
+   "referencia": 2699.0,
+   "precio_2da": 3300.99,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.9,
+   "score": 1640,
+   "pr": {
+    "Carrefour": [
+     1754.35,
+     "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p"
+    ],
+    "Comodín": [
+     3300.99,
+     "https://www.comodinencasa.com.ar/queso-adler-salame-x-100-gr/p"
+    ],
+    "ChangoMás": [
+     3389.0,
+     "https://www.masonline.com.ar/queso-fundido-salame-adler-100gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Maíz Pisingallo 400 Grs La Española Gourmet",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/859494/Maiz-Pisingallo-Gourmet-400G-La-Espa-ola-Maiz-Pisingallo-La-Espa-ola-Gourmet-400g-1-1035569.jpg?v=638779198581830000",
+   "cadena": "Jumbo",
+   "precio": 525.0,
+   "link": "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p",
+   "referencia": 1050.0,
+   "precio_2da": 780.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.8,
+   "score": 1639,
+   "pr": {
+    "Jumbo": [
+     525.0,
+     "https://www.jumbo.com.ar/maiz-pisingallo-la-espanola-gourmet-400g/p"
+    ],
+    "Carrefour": [
+     1039.0,
+     "https://www.carrefour.com.ar/maiz-pisingallo-la-espanola-en-bolsa-400-grs-759127/p"
+    ],
+    "Comodín": [
+     780.99,
+     "https://www.comodinencasa.com.ar/maiz-pisingallo-la-espanola-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Deluxe Protection P x 36 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808451/Pa-ales-Pampers-Deluxe-Prot-Peq-36u-1-1006938.jpg?v=638422478341330000",
+   "cadena": "Carrefour",
+   "precio": 15834.0,
+   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
+   "referencia": 26390.0,
+   "precio_2da": 26394.0,
    "baja_pct": 40.0,
-   "brecha_pct": 42.3,
-   "score": 1691,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
     "Vea": [
-     6890.0,
-     "https://www.vea.com.ar/acondicionador-oil-control-x-200-ml-fructis/p"
+     27790.0,
+     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
     ],
     "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/acondicionador-oil-control-x-200-ml-fructis/p"
-    ],
-    "ChangoMás": [
-     6849.0,
-     "https://www.masonline.com.ar/acondicionador-garnier-fructis-goodbye-danos-200-ml/p"
+     26394.0,
+     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-36u/p"
     ],
     "Carrefour": [
-     3953.4,
-     "https://www.carrefour.com.ar/acondicionador-fructis-oil-control-200-ml-778486/p"
+     15834.0,
+     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
     ]
    }
   },
   {
-   "n": "Shampoo Fructis Hydraliss 350ml",
+   "n": "Trajes De Baño Desechables Baby Shark Grande - Extra Grande 10 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/606389/Pa-ales-Pampers-Splashersx10-1-854134.jpg?v=637372052588370000",
+   "cadena": "Jumbo",
+   "precio": 9000.0,
+   "link": "https://www.jumbo.com.ar/trajes-de-bano-desechables-baby-shark-grande-extra-grande-10-un-pampers/p",
+   "referencia": 14400.0,
+   "precio_2da": 15690.0,
+   "baja_pct": 37.5,
+   "brecha_pct": 42.6,
+   "score": 1599,
+   "pr": {
+    "Vea": [
+     15690.0,
+     "https://www.vea.com.ar/trajes-de-bano-desechables-baby-shark-grande-extra-grande-10-un-pampers/p"
+    ],
+    "Jumbo": [
+     9000.0,
+     "https://www.jumbo.com.ar/trajes-de-bano-desechables-baby-shark-grande-extra-grande-10-un-pampers/p"
+    ],
+    "ChangoMás": [
+     16959.0,
+     "https://www.masonline.com.ar/panales-pampers-splashers-talle-g-xg-12-u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Coco con Aceite de Coco y Keratina Vegetal 350 Ml Fructis",
    "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906397/Shampoo-Fructis-Hydraliss-350ml-1-989541.jpg?v=639123826783400000",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/800439/Shampoo-Fructis-Lis-Coco-350ml-1-999760.jpg?v=638355189737200000",
    "cadena": "Carrefour",
    "precio": 4794.0,
-   "link": "https://www.carrefour.com.ar/shampoo-fructis-hydraliss-350-ml-723842/p",
+   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-350-ml-728188/p",
    "referencia": 7990.0,
    "precio_2da": 7979.0,
    "baja_pct": 40.0,
    "brecha_pct": 39.9,
    "score": 1597,
    "pr": {
-    "Vea": [
-     8990.0,
-     "https://www.vea.com.ar/shampoo-fructis-hydraliss-350ml/p"
+    "Jumbo": [
+     9450.0,
+     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-350ml-3/p"
     ],
     "ChangoMás": [
      7979.0,
-     "https://www.masonline.com.ar/shampoo-fructis-hydra-liss-350ml-2/p"
+     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-350ml-2/p"
     ],
     "Carrefour": [
      4794.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-hydraliss-350-ml-723842/p"
+     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-350-ml-728188/p"
     ]
    }
   },
@@ -428,29 +458,56 @@
    }
   },
   {
-   "n": "Pañales Flexi Comfort Disney M X 48 Un Huggies",
-   "m": "HUGGIES",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/842954/Pa-ales-Huggies-Flexi-Comfort-Disney-M-48u-1-945094.jpg?v=638654782797730000",
+   "n": "Acondicionador Fructis H.F Cacao 300ml",
+   "m": "Fructis",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183043/ACONDICIONADOR_FRUCTIS_HF_CACAO.png?v=639202418575400000",
    "cadena": "Carrefour",
-   "precio": 18277.35,
-   "link": "https://www.carrefour.com.ar/panales-talle-m-huggies-flexi-comfort-48-uni-716169/p",
-   "referencia": 28119.0,
-   "precio_2da": 32909.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.5,
-   "score": 1556,
+   "precio": 7554.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-cacao-300-ml-740063/p",
+   "referencia": 12590.0,
+   "precio_2da": 12519.59,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.7,
+   "score": 1587,
    "pr": {
-    "Jumbo": [
-     33150.0,
-     "https://www.jumbo.com.ar/panales-flexi-comfort-disney-m-x-48-un-huggies/p"
+    "Comodín": [
+     12519.59,
+     "https://www.comodinencasa.com.ar/acondicionador-fructis-h-f-cacao-300ml/p"
     ],
     "ChangoMás": [
-     32909.0,
-     "https://www.masonline.com.ar/huggies-flexi-comfort-ultra-pack-talle-m-48-unidades-2/p"
+     13089.0,
+     "https://www.masonline.com.ar/fructis-acondicionador-hair-food-cacao-300-ml-2/p"
     ],
     "Carrefour": [
-     18277.35,
-     "https://www.carrefour.com.ar/panales-talle-m-huggies-flexi-comfort-48-uni-716169/p"
+     7554.0,
+     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-cacao-300-ml-740063/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
+   "m": "KOTEX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
+   "cadena": "Carrefour",
+   "precio": 2668.25,
+   "link": "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p",
+   "referencia": 4105.0,
+   "precio_2da": 4800.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.4,
+   "score": 1554,
+   "pr": {
+    "Jumbo": [
+     4800.0,
+     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
+    ],
+    "Carrefour": [
+     2668.25,
+     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
+    ],
+    "ChangoMás": [
+     4999.0,
+     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
     ]
    }
   },
@@ -482,33 +539,6 @@
     "ChangoMás": [
      2279.0,
      "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Humedas Q-Soft Clásicas 40 U",
-   "m": "Q-Soft",
-   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/318167/Toallitas-Humedas-Q-Soft-Cl-sicas-40-U-1-55360.jpg?v=638457897894100000",
-   "cadena": "Carrefour",
-   "precio": 2664.35,
-   "link": "https://www.carrefour.com.ar/toallitas-humedas-q-soft-clasicas-40-uni-726040/p",
-   "referencia": 4099.0,
-   "precio_2da": 4669.59,
-   "baja_pct": 35.0,
-   "brecha_pct": 42.9,
-   "score": 1503,
-   "pr": {
-    "ChangoMás": [
-     4679.0,
-     "https://www.masonline.com.ar/toallitas-humedas-q-soft-clasicas-40-u-2/p"
-    ],
-    "Carrefour": [
-     2664.35,
-     "https://www.carrefour.com.ar/toallitas-humedas-q-soft-clasicas-40-uni-726040/p"
-    ],
-    "Comodín": [
-     4669.59,
-     "https://www.comodinencasa.com.ar/toallas-humeda-q-soft-flow-clasica-40-un/p"
     ]
    }
   }
