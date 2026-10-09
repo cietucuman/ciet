@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-08",
- "actualizado": "2026-10-08 19:46",
+ "fecha": "2026-10-09",
+ "actualizado": "2026-10-09 16:39",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,316 +9,969 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-09-28",
   "2026-09-30",
   "2026-10-01",
   "2026-10-02",
   "2026-10-05",
   "2026-10-06",
   "2026-10-07",
-  "2026-10-08"
+  "2026-10-08",
+  "2026-10-09"
  ],
- "total": 18,
+ "total": 57,
  "ofertas": [
   {
-   "n": "Alfajor Pepitos triple 57 g.",
-   "m": "Pepitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
-   "referencia": 2569.0,
-   "precio_2da": 2690.0,
-   "baja_pct": 51.4,
-   "brecha_pct": 53.6,
-   "score": 2750,
+   "n": "Bolsas de Residuos Task Negras 50x70 Cm x 20 Un",
+   "m": "TASK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/855163/Bolsa-Rollo-Task-50x70-20u-1-1034561.jpg?v=638749096663600000",
+   "cadena": "Jumbo",
+   "precio": 2675.0,
+   "link": "https://www.jumbo.com.ar/bolsa-rollo-task-50x70-20u-2/p",
+   "referencia": 5350.0,
+   "precio_2da": 5390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.4,
+   "score": 2519,
+   "pr": {
+    "Vea": [
+     5390.0,
+     "https://www.vea.com.ar/bolsa-rollo-task-50x70-20u-2/p"
+    ],
+    "Jumbo": [
+     2675.0,
+     "https://www.jumbo.com.ar/bolsa-rollo-task-50x70-20u-2/p"
+    ],
+    "ChangoMás": [
+     5499.0,
+     "https://www.masonline.com.ar/bolsa-basura-rollo-bio-50x70-task-20-un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Instantáneo con Vaso 170 Grs Nescafé",
+   "m": "DOLCA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/912881/Cafe-Nescafe-Tradicion-Con-Vaso-170gr-2-1057717.jpg?v=639137541659970000",
+   "cadena": "Carrefour",
+   "precio": 13095.0,
+   "link": "https://www.carrefour.com.ar/nescafe-tradicion-vaso-termico-170-grs-777256/p",
+   "referencia": 26190.0,
+   "precio_2da": 26190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Vea": [
+     26190.0,
+     "https://www.vea.com.ar/cafe-nescafe-tradicion-con-vaso-170gr/p"
+    ],
+    "Jumbo": [
+     31100.0,
+     "https://www.jumbo.com.ar/cafe-nescafe-tradicion-con-vaso-170gr/p"
+    ],
+    "Carrefour": [
+     13095.0,
+     "https://www.carrefour.com.ar/nescafe-tradicion-vaso-termico-170-grs-777256/p"
+    ]
+   }
+  },
+  {
+   "n": "Antitranspirante en gel Secret Ph Balanc clinical 45 grs",
+   "m": "Secret",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/741046/7500435144636_02.jpg?v=638962365123570000",
+   "cadena": "Vea",
+   "precio": 11345.0,
+   "link": "https://www.vea.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p",
+   "referencia": 22590.0,
+   "precio_2da": 22675.0,
+   "baja_pct": 49.8,
+   "brecha_pct": 50.0,
+   "score": 2487,
+   "pr": {
+    "Carrefour": [
+     22675.0,
+     "https://www.carrefour.com.ar/antitranspirante-en-gel-secret-ph-balanc-clinical-45-grs-768977/p"
+    ],
+    "Vea": [
+     11345.0,
+     "https://www.vea.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
+    ],
+    "Jumbo": [
+     23400.0,
+     "https://www.jumbo.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
+    ]
+   }
+  },
+  {
+   "n": "Maní Tostado sin Piel 100 Grs Mani King",
+   "m": "MANI KING",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788473/Man-Mani-King-Tostado-Sin-Sal-X-100g-1-976834.jpg?v=638253789976300000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/mani-tostado-sin-sal-mani-king-100-gr/p",
+   "referencia": 1500.0,
+   "precio_2da": 1490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.7,
+   "score": 2483,
+   "pr": {
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/mani-tostado-sin-sal-mani-king-100-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/mani-tostado-sin-sal-mani-king-100-gr/p"
+    ],
+    "ChangoMás": [
+     1549.0,
+     "https://www.masonline.com.ar/mani-tostado-mani-king-sin-piel-100-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Barra De Cereal Flow Almendras 30gr",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917700/7790380020233.jpg?v=639162685974570000",
+   "cadena": "Jumbo",
+   "precio": 600.0,
+   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-almendras-30gr/p",
+   "referencia": 1200.0,
+   "precio_2da": 1190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.6,
+   "score": 2479,
+   "pr": {
+    "Vea": [
+     1190.0,
+     "https://www.vea.com.ar/barra-de-cereal-flow-almendras-30gr/p"
+    ],
+    "Jumbo": [
+     600.0,
+     "https://www.jumbo.com.ar/barra-de-cereal-flow-almendras-30gr/p"
+    ],
+    "Carrefour": [
+     1190.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-almendras-georgalos-flow-30-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Barras de Cereal Sabor Avellanas y Arándanos 30 Grs Flow",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917706/7790380020271.jpg?v=639162686570070000",
+   "cadena": "Jumbo",
+   "precio": 600.0,
+   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-avellanas-30gr/p",
+   "referencia": 1200.0,
+   "precio_2da": 1190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.6,
+   "score": 2479,
+   "pr": {
+    "Vea": [
+     1190.0,
+     "https://www.vea.com.ar/barra-de-cereal-flow-avellanas-30gr/p"
+    ],
+    "Jumbo": [
+     600.0,
+     "https://www.jumbo.com.ar/barra-de-cereal-flow-avellanas-30gr/p"
+    ],
+    "Carrefour": [
+     1190.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-flow-cereal-de-avellana-y-arandanos-30-g-730599/p"
+    ]
+   }
+  },
+  {
+   "n": "Bolsas de Residuos Task Cierre Fácil 45x55 Cm x 20 Un",
+   "m": "TASK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/849845/Bolsa-Cierra-Facil-Task-45x55-20u-1-1031262.jpg?v=638701626080130000",
+   "cadena": "Jumbo",
+   "precio": 2375.0,
+   "link": "https://www.jumbo.com.ar/bolsa-cf-task-45x55-20u/p",
+   "referencia": 4750.0,
+   "precio_2da": 4690.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.4,
+   "score": 2468,
+   "pr": {
+    "Vea": [
+     4690.0,
+     "https://www.vea.com.ar/bolsa-cf-task-45x55-20u/p"
+    ],
+    "Jumbo": [
+     2375.0,
+     "https://www.jumbo.com.ar/bolsa-cf-task-45x55-20u/p"
+    ],
+    "ChangoMás": [
+     4899.0,
+     "https://www.masonline.com.ar/bolsa-bio-cierra-facil-45x55-20-unidades-100-recicladas-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vermouth Rosso 950 Cc Vincenzo",
+   "m": "VINCENZO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/799382/Vermouth-Vincezo-Rosso-1-999385.jpg?v=638345363999800000",
+   "cadena": "Jumbo",
+   "precio": 20500.0,
+   "link": "https://www.jumbo.com.ar/vermouth-vincenzo-rosso-950cc/p",
+   "referencia": 41000.0,
+   "precio_2da": 39290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.8,
+   "score": 2391,
+   "pr": {
+    "Vea": [
+     39290.0,
+     "https://www.vea.com.ar/vermouth-vincenzo-rosso-950cc/p"
+    ],
+    "Jumbo": [
+     20500.0,
+     "https://www.jumbo.com.ar/vermouth-vincenzo-rosso-950cc/p"
+    ],
+    "Carrefour": [
+     39290.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-vermouth-rosso-vicenzo-950-ml-729781/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Benjamin Chardonnay 750cc",
+   "m": "BENJAMIN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/786353/Vino-Benjamin-Chardonnay-750cc-1-971967.jpg?v=638234014238600000",
+   "cadena": "Jumbo",
+   "precio": 3475.0,
+   "link": "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p",
+   "referencia": 6800.0,
+   "precio_2da": 6690.0,
+   "baja_pct": 48.9,
+   "brecha_pct": 48.1,
+   "score": 2350,
+   "pr": {
+    "Vea": [
+     6690.0,
+     "https://www.vea.com.ar/vino-benjamin-chardonnay-750cc/p"
+    ],
+    "Jumbo": [
+     3475.0,
+     "https://www.jumbo.com.ar/vino-benjamin-chardonnay-750cc/p"
+    ],
+    "Carrefour": [
+     6769.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-natural-benjamin-750-ml-721783/p"
+    ],
+    "ChangoMás": [
+     6700.0,
+     "https://www.masonline.com.ar/vino-blanco-nieto-senetiner-benjamin-chardonnay-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Antitranspirante en gel Secret Coconut 45 grs",
+   "m": "Secret",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/748411/7500435213417_02.jpg?v=638967381461500000",
+   "cadena": "Vea",
+   "precio": 5695.0,
+   "link": "https://www.vea.com.ar/desodorante-antitranspirante-en-gel-cotconut-x-45-grs-secret/p",
+   "referencia": 11390.0,
+   "precio_2da": 10624.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.4,
+   "score": 2320,
+   "pr": {
+    "Carrefour": [
+     12745.0,
+     "https://www.carrefour.com.ar/antitranspirante-en-gel-secret-coconut-45-grs-768978/p"
+    ],
+    "Vea": [
+     5695.0,
+     "https://www.vea.com.ar/desodorante-antitranspirante-en-gel-cotconut-x-45-grs-secret/p"
+    ],
+    "Jumbo": [
+     14800.0,
+     "https://www.jumbo.com.ar/desodorante-antitranspirante-en-gel-cotconut-x-45-grs-secret/p"
+    ],
+    "Comodín": [
+     10624.69,
+     "https://www.comodinencasa.com.ar/deo-secret-coco-antitrans-gel-45gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Pochoclos Gallo snacks con caramelo 50 g.",
+   "m": "Gallo Snacks",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914061/7790070431363_01.jpg?v=639222245346000000",
+   "cadena": "Jumbo",
+   "precio": 1400.0,
+   "link": "https://www.jumbo.com.ar/pochoclos-caramelo-g-pop-50-gr-2/p",
+   "referencia": 2800.0,
+   "precio_2da": 2599.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.1,
+   "score": 2307,
    "pr": {
     "Carrefour": [
      2690.0,
-     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
-    ],
-    "Vea": [
-     2690.0,
-     "https://www.vea.com.ar/alfajor-pepitos-triple-57g/p"
+     "https://www.carrefour.com.ar/pochoclos-gallo-snacks-con-caramelo-50-g-720571/p"
     ],
     "Jumbo": [
-     2750.0,
-     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
-    ],
-    "Comodín": [
-     2983.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
+     1400.0,
+     "https://www.jumbo.com.ar/pochoclos-caramelo-g-pop-50-gr-2/p"
     ],
     "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
+     2599.0,
+     "https://www.masonline.com.ar/pochoclos-gallo-caramelizados-50-g-2/p"
     ]
    }
   },
   {
-   "n": "Nestlé Chocolate con leche 45 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923233/8445291565173_01.jpg?v=639240348359770000",
-   "cadena": "Carrefour",
-   "precio": 1864.5,
-   "link": "https://www.carrefour.com.ar/nestle-chocolate-con-leche-45-grs-764048/p",
-   "referencia": 3729.0,
-   "precio_2da": 3790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.8,
-   "score": 2540,
-   "pr": {
-    "Carrefour": [
-     1864.5,
-     "https://www.carrefour.com.ar/nestle-chocolate-con-leche-45-grs-764048/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/chocolate-leche-suave-y-cremoso-x-45-grs-nestle/p"
-    ],
-    "Jumbo": [
-     4100.0,
-     "https://www.jumbo.com.ar/chocolate-leche-suave-y-cremoso-x-45-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     3879.0,
-     "https://www.masonline.com.ar/tableta-de-chocolate-nestle-leche-45-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Luigi Bosca 750 ml",
-   "m": "Luigi Bosca",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823215/7791203000142_01.jpg?v=639083181960500000",
-   "cadena": "Jumbo",
-   "precio": 9375.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-malbec-750-ml-luigi-bosca/p",
-   "referencia": 18390.0,
-   "precio_2da": 18190.0,
-   "baja_pct": 49.0,
-   "brecha_pct": 48.5,
-   "score": 2376,
-   "pr": {
-    "Carrefour": [
-     22053.77,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-luigi-bosca-doc-750-cc/p"
-    ],
-    "Vea": [
-     18190.0,
-     "https://www.vea.com.ar/vino-tinto-malbec-750-ml-luigi-bosca/p"
-    ],
-    "Jumbo": [
-     9375.0,
-     "https://www.jumbo.com.ar/vino-tinto-malbec-750-ml-luigi-bosca/p"
-    ],
-    "ChangoMás": [
-     32749.0,
-     "https://www.masonline.com.ar/vino-tinto-malbec-doc-luigi-bosca-de-sangre-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Nieto Senetiner Malbec Cab Fr 750ml",
-   "m": "NIETO & SENETINER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788859/Vino-Nieto-Senetiner-Malbec-Cab-Fr-750ml-1-974607.jpg?v=638258098145630000",
-   "cadena": "Jumbo",
-   "precio": 6150.0,
-   "link": "https://www.jumbo.com.ar/vino-nieto-senetiner-malbec-cab-fr-750ml/p",
-   "referencia": 12300.0,
-   "precio_2da": 11590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.9,
-   "score": 2347,
-   "pr": {
-    "Vea": [
-     11590.0,
-     "https://www.vea.com.ar/vino-nieto-senetiner-malbec-cab-fr-750ml/p"
-    ],
-    "Jumbo": [
-     6150.0,
-     "https://www.jumbo.com.ar/vino-nieto-senetiner-malbec-cab-fr-750ml/p"
-    ],
-    "Carrefour": [
-     12200.0,
-     "https://www.carrefour.com.ar/vino-tinto-nieto-senetiner-blend-malb-cf-pv-750-cc-725347/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Liso Coco Hidratación y Frizz 200 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807221/Shampoo-Fructis-Liso-Coco-200ml-1-999758.jpg?v=638410270052930000",
-   "cadena": "Carrefour",
-   "precio": 2699.4,
-   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p",
-   "referencia": 4499.0,
-   "precio_2da": 6200.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 56.5,
-   "score": 2258,
-   "pr": {
-    "Jumbo": [
-     6200.0,
-     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-200ml-3/p"
-    ],
-    "ChangoMás": [
-     6589.0,
-     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-200ml-2/p"
-    ],
-    "Carrefour": [
-     2699.4,
-     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido La Virginia intenso 250 grs",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943874/7790150037201_01.jpg?v=639268276860900000",
+   "n": "Shampoo Pantene prov mirac volumen 200 cc.",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/426240/7500435235310_02.jpg?v=638385202636700000",
    "cadena": "ChangoMás",
-   "precio": 7089.0,
-   "link": "https://www.masonline.com.ar/cafe-molido-la-virginia-tostado-intenso-250-g/p",
-   "referencia": 14749.0,
-   "precio_2da": 12499.0,
-   "baja_pct": 51.9,
-   "brecha_pct": 43.3,
-   "score": 2248,
+   "precio": 3629.5,
+   "link": "https://www.masonline.com.ar/shampoo-pantene-pro-v-mirac-volumen-200-ml-2/p",
+   "referencia": 7259.0,
+   "precio_2da": 6675.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.6,
+   "score": 2281,
    "pr": {
     "Carrefour": [
-     14749.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-intenso-250-grs-760591/p"
-    ],
-    "Vea": [
-     13290.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
-    ],
-    "Jumbo": [
-     14600.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
+     6675.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-prov-mirac-volumen-200-cc-733822/p"
     ],
     "Comodín": [
-     12499.0,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-intenso-250gr/p"
+     6759.99,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-prov-miracles-vol-200ml/p"
     ],
     "ChangoMás": [
-     7089.0,
-     "https://www.masonline.com.ar/cafe-molido-la-virginia-tostado-intenso-250-g/p"
+     3629.5,
+     "https://www.masonline.com.ar/shampoo-pantene-pro-v-mirac-volumen-200-ml-2/p"
     ]
    }
   },
   {
-   "n": "Nestlé chocolate con maní 90 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914747/7613287529497_E01.jpg?v=639223045501100000",
-   "cadena": "Carrefour",
-   "precio": 2157.0,
-   "link": "https://www.carrefour.com.ar/nestle-chocolate-con-mani-90-grs-679742/p",
-   "referencia": 3595.0,
-   "precio_2da": 4673.5,
-   "baja_pct": 40.0,
-   "brecha_pct": 53.8,
-   "score": 2154,
+   "n": "Mascarilla Reparación Total Extreme 300 Grs Elvive",
+   "m": "ELVIVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/828245/Mascarilla-Elvive-Rt-Extreme-300-Gr-1-994978.jpg?v=638567627458600000",
+   "cadena": "Jumbo",
+   "precio": 6675.0,
+   "link": "https://www.jumbo.com.ar/mascarilla-elvive-rt-extreme-300-gr/p",
+   "referencia": 13350.0,
+   "precio_2da": 11990.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.3,
+   "score": 2216,
+   "pr": {
+    "Jumbo": [
+     6675.0,
+     "https://www.jumbo.com.ar/mascarilla-elvive-rt-extreme-300-gr/p"
+    ],
+    "Carrefour": [
+     11990.0,
+     "https://www.carrefour.com.ar/mascarilla-elvive-rt-extreme-300-grs-726162/p"
+    ],
+    "ChangoMás": [
+     12469.0,
+     "https://www.masonline.com.ar/crema-tratamiento-elvive-reparacion-total-5-extreme-300ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Pantene equilibrio 200 cc.",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/417620/7500435209632_02.jpg?v=638357591388300000",
+   "cadena": "ChangoMás",
+   "precio": 3774.5,
+   "link": "https://www.masonline.com.ar/shampoo-pantene-equilibrio-200ml-2/p",
+   "referencia": 7549.0,
+   "precio_2da": 6759.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.2,
+   "score": 2208,
    "pr": {
     "Carrefour": [
-     2157.0,
-     "https://www.carrefour.com.ar/nestle-chocolate-con-mani-90-grs-679742/p"
+     7260.0,
+     "https://www.carrefour.com.ar/shampoo-pantene-equilibrio-200-cc-723896/p"
     ],
-    "Vea": [
-     4673.5,
-     "https://www.vea.com.ar/chocolate-con-mani-90-grs-nestle/p"
+    "Comodín": [
+     6759.99,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-200ml/p"
     ],
-    "Jumbo": [
-     5102.5,
-     "https://www.jumbo.com.ar/chocolate-con-mani-90-grs-nestle/p"
+    "ChangoMás": [
+     3774.5,
+     "https://www.masonline.com.ar/shampoo-pantene-equilibrio-200ml-2/p"
     ]
    }
   },
   {
-   "n": "Crema corporal Hinds rosa plus 250 ml",
-   "m": "Hinds",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383182/7794640173073_01.jpg?v=638315925155330000",
+   "n": "Pañales Super Premium P x 30 Un Babysec",
+   "m": "BABYSEC",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/828070/Pa-ales-Descartables-Babysec-Super-Premium-P-X-1-1017543.jpg?v=638567517719130000",
+   "cadena": "Jumbo",
+   "precio": 11635.0,
+   "link": "https://www.jumbo.com.ar/panales-super-premium-p-x-30-un-babysec/p",
+   "referencia": 26975.0,
+   "precio_2da": 18850.0,
+   "baja_pct": 56.9,
+   "brecha_pct": 38.3,
+   "score": 2177,
+   "pr": {
+    "Jumbo": [
+     11635.0,
+     "https://www.jumbo.com.ar/panales-super-premium-p-x-30-un-babysec/p"
+    ],
+    "ChangoMás": [
+     37079.0,
+     "https://www.masonline.com.ar/panales-babysec-super-premium-p-30-u-2/p"
+    ],
+    "Carrefour": [
+     18850.0,
+     "https://www.carrefour.com.ar/panales-babysec-super-premium-p-30-uni-744957/p"
+    ]
+   }
+  },
+  {
+   "n": "Barra De Cereal Flow Yogur 27gr",
+   "m": "FLOW",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917699/7790380016199.jpg?v=639162684920030000",
+   "cadena": "Jumbo",
+   "precio": 575.0,
+   "link": "https://www.jumbo.com.ar/barra-de-cereal-flow-yogur-27gr/p",
+   "referencia": 1150.0,
+   "precio_2da": 1000.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.5,
+   "score": 2125,
+   "pr": {
+    "Vea": [
+     1000.0,
+     "https://www.vea.com.ar/barra-de-cereal-flow-yogur-27gr/p"
+    ],
+    "Jumbo": [
+     575.0,
+     "https://www.jumbo.com.ar/barra-de-cereal-flow-yogur-27gr/p"
+    ],
+    "Carrefour": [
+     1000.0,
+     "https://www.carrefour.com.ar/barra-de-cereal-georgalos-yoghurt-frutos-bosque-flow-27-g-424877/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja Dulce 7 Grs Bc",
+   "m": "BC",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/665701/Jugo-En-Polvo-Bc-Naranja-Dulce-7gr-1-878213.jpg?v=637670794044370000",
+   "cadena": "Jumbo",
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
+   "referencia": 450.0,
+   "precio_2da": 389.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.2,
+   "score": 2108,
+   "pr": {
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
+    ],
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Ultra Suave 24 Un Ladysoft",
+   "m": "LADYSOFT",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844216/Toallas-Femeninas-Ladysoft-Ultra-Suave-24-U-1-1001408.jpg?v=638660829817530000",
+   "cadena": "Jumbo",
+   "precio": 5200.0,
+   "link": "https://www.jumbo.com.ar/toallitas-ultra-suave-24-un-ladysoft/p",
+   "referencia": 9950.0,
+   "precio_2da": 9149.0,
+   "baja_pct": 47.7,
+   "brecha_pct": 43.2,
+   "score": 2061,
+   "pr": {
+    "Jumbo": [
+     5200.0,
+     "https://www.jumbo.com.ar/toallitas-ultra-suave-24-un-ladysoft/p"
+    ],
+    "Carrefour": [
+     9519.0,
+     "https://www.carrefour.com.ar/toallas-femeninas-ladysoft-ultra-suave-24-uni-731452/p"
+    ],
+    "ChangoMás": [
+     9149.0,
+     "https://www.masonline.com.ar/toallitas-femeninas-ultradelgada-ladysoft-tela-suave-24un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Elvive Glycolic Cristal 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923120/7790033338203_01.jpg?v=639239701290430000",
+   "cadena": "ChangoMás",
+   "precio": 4205.4,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-glycolic-cristal-200-ml/p",
+   "referencia": 7009.0,
+   "precio_2da": 8609.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 51.2,
+   "score": 2046,
+   "pr": {
+    "Carrefour": [
+     8609.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-cristal-200-ml-775117/p"
+    ],
+    "Vea": [
+     9190.0,
+     "https://www.vea.com.ar/shampoo-brillo-anti-residuos-glycolic-cristal-x-200-ml-elvive/p"
+    ],
+    "Jumbo": [
+     9100.0,
+     "https://www.jumbo.com.ar/shampoo-brillo-anti-residuos-glycolic-cristal-x-200-ml-elvive/p"
+    ],
+    "Comodín": [
+     10087.99,
+     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-cristal-200ml/p"
+    ],
+    "ChangoMás": [
+     4205.4,
+     "https://www.masonline.com.ar/shampoo-elvive-glycolic-cristal-200-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Rubia 473 Cc Norte",
+   "m": "NORTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/693223/Cerveza-Rubia-Norte-Lata-473-Cc-1-886868.jpg?v=637828905841300000",
    "cadena": "Comodín",
-   "precio": 3569.0,
-   "link": "https://www.comodinencasa.com.ar/crema-hinds-rosa-plus-250ml/p",
-   "referencia": 6445.99,
-   "precio_2da": 6089.0,
-   "baja_pct": 44.6,
-   "brecha_pct": 41.4,
-   "score": 1847,
+   "precio": 1399.0,
+   "link": "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 2595.0,
+   "baja_pct": 44.0,
+   "brecha_pct": 46.1,
+   "score": 2026,
+   "pr": {
+    "Vea": [
+     2595.0,
+     "https://www.vea.com.ar/cerveza-norte-rubia-473cc/p"
+    ],
+    "Jumbo": [
+     2803.0,
+     "https://www.jumbo.com.ar/cerveza-norte-rubia-473cc/p"
+    ],
+    "Comodín": [
+     1399.0,
+     "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p"
+    ],
+    "Carrefour": [
+     2615.0,
+     "https://www.carrefour.com.ar/cerveza-blanca-norte-473-ml-724631/p"
+    ]
+   }
+  },
+  {
+   "n": "Maní Salado sin Piel 100 Grs Mani King",
+   "m": "MANI KING",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788483/Man-Mani-King-Salado-Sin-Piel-X100g-1-976844.jpg?v=638253790004330000",
+   "cadena": "Jumbo",
+   "precio": 750.0,
+   "link": "https://www.jumbo.com.ar/mani-salado-sin-piel-mani-king-100-gr/p",
+   "referencia": 1500.0,
+   "precio_2da": 1258.39,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.4,
+   "score": 2020,
+   "pr": {
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/mani-salado-sin-piel-mani-king-100-gr/p"
+    ],
+    "Jumbo": [
+     750.0,
+     "https://www.jumbo.com.ar/mani-salado-sin-piel-mani-king-100-gr/p"
+    ],
+    "Comodín": [
+     1258.39,
+     "https://www.comodinencasa.com.ar/mani-maniking-frito-salado-sin-piel-100g/p"
+    ],
+    "ChangoMás": [
+     1549.0,
+     "https://www.masonline.com.ar/mani-salado-mani-king-con-piel-100-g-2-2/p"
+    ],
+    "Carrefour": [
+     1320.0,
+     "https://www.carrefour.com.ar/mani-frito-salado-mani-king-100-g-723557/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Elvive Glycolic Gloss 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551674/7509552930337_01.jpg?v=638604519300170000",
+   "cadena": "ChangoMás",
+   "precio": 4403.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-glycolic-gloss-x200ml-2/p",
+   "referencia": 7339.0,
+   "precio_2da": 8609.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 48.9,
+   "score": 1954,
    "pr": {
     "Carrefour": [
-     6089.0,
-     "https://www.carrefour.com.ar/crema-corporal-hinds-rosa-plus-250-ml-697468/p"
+     8609.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-glycolic-gloss-200-ml-743380/p"
     ],
     "Vea": [
-     6290.0,
-     "https://www.vea.com.ar/crema-corporal-rosa-plus-250-ml-hinds/p"
+     9190.0,
+     "https://www.vea.com.ar/acondicionador-elvive-glyco-gloss-200ml/p"
     ],
     "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/crema-corporal-rosa-plus-250-ml-hinds/p"
-    ],
-    "ChangoMás": [
-     6329.0,
-     "https://www.masonline.com.ar/crema-corporal-hinds-rosa-plus-250-ml-2/p"
+     9100.0,
+     "https://www.jumbo.com.ar/acondicionador-elvive-glyco-gloss-200ml/p"
     ],
     "Comodín": [
-     3569.0,
-     "https://www.comodinencasa.com.ar/crema-hinds-rosa-plus-250ml/p"
+     10087.99,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-glyco-gloss-200ml/p"
+    ],
+    "ChangoMás": [
+     4403.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-glycolic-gloss-x200ml-2/p"
     ]
    }
   },
   {
-   "n": "Chocolate Milka Oreo bis oblea 105,6 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914696/7622210719829_E01.jpg?v=639222505765800000",
-   "cadena": "Carrefour",
-   "precio": 2970.0,
-   "link": "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p",
-   "referencia": 4950.0,
-   "precio_2da": 5109.0,
+   "n": "Vino Benjamin Torrontés 750ml",
+   "m": "BENJAMIN NIETO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788879/Vino-Benjamin-Torront-s-750ml-1-974627.jpg?v=638258098211300000",
+   "cadena": "Jumbo",
+   "precio": 3475.0,
+   "link": "https://www.jumbo.com.ar/vino-benjamin-torrontes-750ml/p",
+   "referencia": 6800.0,
+   "precio_2da": 5722.59,
+   "baja_pct": 48.9,
+   "brecha_pct": 39.3,
+   "score": 1920,
+   "pr": {
+    "Vea": [
+     6690.0,
+     "https://www.vea.com.ar/vino-benjamin-torrontes-750ml/p"
+    ],
+    "Jumbo": [
+     3475.0,
+     "https://www.jumbo.com.ar/vino-benjamin-torrontes-750ml/p"
+    ],
+    "Comodín": [
+     5722.59,
+     "https://www.comodinencasa.com.ar/vino-benjamin-torrontes-750ml/p"
+    ],
+    "Carrefour": [
+     6699.0,
+     "https://www.carrefour.com.ar/vino-blanco-blasfemia-en-lata-269-ml-658782/p"
+    ],
+    "ChangoMás": [
+     6700.0,
+     "https://www.masonline.com.ar/vino-blanco-benjamin-nieto-torrontes-750-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Baby Dry Hipoalergénico G X 72 Un Pampers",
+   "m": "PAMPERS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/826603/13810410002.jpg?v=638555252680370000",
+   "cadena": "Jumbo",
+   "precio": 25600.0,
+   "link": "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-g-x-72-un-pampers/p",
+   "referencia": 51200.0,
+   "precio_2da": 41247.49,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.9,
+   "score": 1897,
+   "pr": {
+    "Jumbo": [
+     25600.0,
+     "https://www.jumbo.com.ar/panales-baby-dry-hipoalergenico-g-x-72-un-pampers/p"
+    ],
+    "Comodín": [
+     41247.49,
+     "https://www.comodinencasa.com.ar/panal-pampers-babydry-g-jumbo-72un/p"
+    ],
+    "ChangoMás": [
+     56199.0,
+     "https://www.masonline.com.ar/panales-pampers-baby-dry-g-72un-2/p"
+    ],
+    "Carrefour": [
+     56199.0,
+     "https://www.carrefour.com.ar/panales-talle-g-pampers-babydry-72-uni-718019/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo En Polvo Arcor Naranja Dulce X 15 Gr",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
+   "referencia": 500.0,
+   "precio_2da": 396.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 36.9,
+   "score": 1843,
+   "pr": {
+    "Vea": [
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
+    ],
+    "Carrefour": [
+     396.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Super Premium M x 48 Un Babysec",
+   "m": "BABYSEC",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/828069/Pa-ales-Descartables-Babysec-Super-Premiun-M-X-1-1017542.jpg?v=638567517714130000",
+   "cadena": "Jumbo",
+   "precio": 13400.0,
+   "link": "https://www.jumbo.com.ar/panales-super-premium-m-x-48-un-babysec/p",
+   "referencia": 20750.0,
+   "precio_2da": 27208.35,
+   "baja_pct": 35.4,
+   "brecha_pct": 50.8,
+   "score": 1798,
+   "pr": {
+    "Jumbo": [
+     13400.0,
+     "https://www.jumbo.com.ar/panales-super-premium-m-x-48-un-babysec/p"
+    ],
+    "Carrefour": [
+     27208.35,
+     "https://www.carrefour.com.ar/panales-babysec-super-premium-m-48-uni-744960/p"
+    ],
+    "ChangoMás": [
+     40249.0,
+     "https://www.masonline.com.ar/panales-babysec-super-premium-m-x-48-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallas Femeninas Normal Soft x 16 Un Ladysoft",
+   "m": "LADYSOFT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/858584/13440356057.jpg.jpg?v=638769508387400000",
+   "cadena": "Jumbo",
+   "precio": 1995.0,
+   "link": "https://www.jumbo.com.ar/toallitas-normal-soft-16-un-ladysoft/p",
+   "referencia": 5350.0,
+   "precio_2da": 2790.0,
+   "baja_pct": 62.7,
+   "brecha_pct": 28.5,
+   "score": 1787,
+   "pr": {
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/toallitas-normal-soft-16-un-ladysoft/p"
+    ],
+    "Jumbo": [
+     1995.0,
+     "https://www.jumbo.com.ar/toallitas-normal-soft-16-un-ladysoft/p"
+    ],
+    "Carrefour": [
+     5250.0,
+     "https://www.carrefour.com.ar/toallas-femeninas-ladysoft-normal-soft-16-uni-731455/p"
+    ],
+    "ChangoMás": [
+     5189.0,
+     "https://www.masonline.com.ar/toallita-femenina-normal-ladysoft-tela-suave-con-alas-16un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mix Tartas Choclo X 500 Grs Green Life",
+   "m": "GREEN LIFE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/901159/Mix-Tartas-Choclo-X-500-Grs-Green-Life-1-1055531.jpg?v=639083326666570000",
+   "cadena": "ChangoMás",
+   "precio": 4901.4,
+   "link": "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p",
+   "referencia": 8169.0,
+   "precio_2da": 8718.3,
    "baja_pct": 40.0,
-   "brecha_pct": 41.9,
-   "score": 1675,
+   "brecha_pct": 43.8,
+   "score": 1751,
    "pr": {
-    "Carrefour": [
-     2970.0,
-     "https://www.carrefour.com.ar/chocolate-milka-oreo-bis-oblea-1056-g-650253/p"
+    "Vea": [
+     10400.0,
+     "https://www.vea.com.ar/mix-tartas-choclo-x-500-grs-green-life/p"
     ],
-    "Jumbo": [
-     5300.0,
-     "https://www.jumbo.com.ar/chocolate-milka-oreo-bis-oblea-105-6-gr-3/p"
+    "Comodín": [
+     8718.3,
+     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-cho-ceb-pim-500gr/p"
     ],
     "ChangoMás": [
-     5109.0,
-     "https://www.masonline.com.ar/oblea-milka-bis-oreo-x-105-6-gr-2/p"
+     4901.4,
+     "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p"
     ]
    }
   },
   {
-   "n": "Queso fundido Adler salame 100 g",
-   "m": "Adler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346197/7791564012525_E01.jpg?v=638234617853270000",
+   "n": "Máscara de Tratamiento Dove Hidratación + Hialuron Vit 300 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928359/7791293050881_01.jpg?v=639243991723500000",
    "cadena": "Carrefour",
-   "precio": 1754.35,
-   "link": "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p",
-   "referencia": 2699.0,
-   "precio_2da": 3300.99,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.9,
-   "score": 1640,
+   "precio": 4850.0,
+   "link": "https://www.carrefour.com.ar/mascara-de-tratamiento-dove-hidratacion-hialuron-vit-300-grs-739955/p",
+   "referencia": 9700.0,
+   "precio_2da": 7401.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.5,
+   "score": 1724,
    "pr": {
     "Carrefour": [
-     1754.35,
-     "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p"
+     4850.0,
+     "https://www.carrefour.com.ar/mascara-de-tratamiento-dove-hidratacion-hialuron-vit-300-grs-739955/p"
     ],
     "Comodín": [
-     3300.99,
-     "https://www.comodinencasa.com.ar/queso-adler-salame-x-100-gr/p"
+     7401.69,
+     "https://www.comodinencasa.com.ar/mascara-dove-hidratacion-300gr/p"
     ],
     "ChangoMás": [
-     3389.0,
-     "https://www.masonline.com.ar/queso-fundido-salame-adler-100gr-2/p"
+     9689.0,
+     "https://www.masonline.com.ar/mascara-capilar-dove-hidratacion-300gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Pantene restauración 400 ml",
+   "m": "Pantene",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/741058/7501006721317_02.jpg?v=638962365320730000",
+   "cadena": "ChangoMás",
+   "precio": 5884.5,
+   "link": "https://www.masonline.com.ar/acondicionador-pantene-restauracion-400ml-2/p",
+   "referencia": 11769.0,
+   "precio_2da": 8920.09,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.0,
+   "score": 1702,
+   "pr": {
+    "Carrefour": [
+     9990.0,
+     "https://www.carrefour.com.ar/acondicionador-pantene-restauracion-400-ml-468360/p"
+    ],
+    "Comodín": [
+     8920.09,
+     "https://www.comodinencasa.com.ar/acondicionador-pantene-restaurac-400ml/p"
+    ],
+    "ChangoMás": [
+     5884.5,
+     "https://www.masonline.com.ar/acondicionador-pantene-restauracion-400ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chicles Beldent Infinit menta 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916024/7622201421496_E01.jpg?v=639227572917070000",
+   "cadena": "Carrefour",
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p",
+   "referencia": 1105.0,
+   "precio_2da": 1390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.3,
+   "score": 1691,
+   "pr": {
+    "Carrefour": [
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Reparación Total 5 Keratin 200 Ml Elvive",
+   "m": "ELVIVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/830808/Acondicionador-Elvive-Reparaci-n-Total-5-Keratin-200-Ml-1-1019540.jpg?v=638588146688200000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-rt5-keratin-200-ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 8490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.3,
+   "score": 1651,
+   "pr": {
+    "Vea": [
+     8490.0,
+     "https://www.vea.com.ar/acondicionador-elvive-reparacion-total-5-keratin-200-ml/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/acondicionador-elvive-reparacion-total-5-keratin-200-ml/p"
+    ],
+    "Comodín": [
+     8966.89,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-rt5-ext-kera-200ml/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-rt5-keratin-200-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café Gold Tostado Molido Equilibrado 250 Grs Nescafé®",
+   "m": "GOLD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906116/Caf-Gold-Tostado-Molido-Equilibrado-250-Grs-Nescaf-1-950473.jpg?v=639123178407930000",
+   "cadena": "Carrefour",
+   "precio": 12765.0,
+   "link": "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-equilibrado-250-grs-717829/p",
+   "referencia": 21275.0,
+   "precio_2da": 21690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.1,
+   "score": 1646,
+   "pr": {
+    "Vea": [
+     21690.0,
+     "https://www.vea.com.ar/cafe-gold-tostado-molido-equilibrado-250-grs-nescafe/p"
+    ],
+    "Jumbo": [
+     23050.0,
+     "https://www.jumbo.com.ar/cafe-gold-tostado-molido-equilibrado-250-grs-nescafe/p"
+    ],
+    "Comodín": [
+     24514.89,
+     "https://www.comodinencasa.com.ar/cafe-nescafe-gold-tostado-equilibr-250gr/p"
+    ],
+    "Carrefour": [
+     12765.0,
+     "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-equilibrado-250-grs-717829/p"
     ]
    }
   },
@@ -350,195 +1003,687 @@
    }
   },
   {
-   "n": "Pañales Deluxe Protection P x 36 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808451/Pa-ales-Pampers-Deluxe-Prot-Peq-36u-1-1006938.jpg?v=638422478341330000",
+   "n": "Chicles Beldent Infinit mentol 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916028/7622201448226_E01.jpg?v=639227573354530000",
    "cadena": "Carrefour",
-   "precio": 15834.0,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p",
-   "referencia": 26390.0,
-   "precio_2da": 26394.0,
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p",
+   "referencia": 1105.0,
+   "precio_2da": 1349.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.8,
+   "score": 1636,
+   "pr": {
+    "Carrefour": [
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-mentol-13-3-g/p"
+    ],
+    "Vea": [
+     1390.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1450.0,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-mentol-13-3-gr-2/p"
+    ],
+    "ChangoMás": [
+     1349.0,
+     "https://www.masonline.com.ar/chicles-beldent-infinit-spearmint-13-3g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Elvive dream liso 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/655213/7509552964554_01.jpg.jpg?v=638826598539070000",
+   "cadena": "ChangoMás",
+   "precio": 4403.4,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-dream-liso-200-ml/p",
+   "referencia": 7339.0,
+   "precio_2da": 7349.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.1,
+   "score": 1603,
+   "pr": {
+    "Carrefour": [
+     7349.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-dream-liso-200-ml-761138/p"
+    ],
+    "Vea": [
+     9190.0,
+     "https://www.vea.com.ar/shampoo-dream-liso-x-200-ml-elvive/p"
+    ],
+    "Jumbo": [
+     9100.0,
+     "https://www.jumbo.com.ar/shampoo-dream-liso-x-200-ml-elvive/p"
+    ],
+    "ChangoMás": [
+     4403.4,
+     "https://www.masonline.com.ar/shampoo-elvive-dream-liso-200-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Elvive Glycolic Gloss 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551650/7509552937343_01.jpg?v=638604501070630000",
+   "cadena": "ChangoMás",
+   "precio": 4403.4,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p",
+   "referencia": 7339.0,
+   "precio_2da": 7349.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.1,
+   "score": 1603,
+   "pr": {
+    "Carrefour": [
+     7349.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p"
+    ],
+    "Vea": [
+     9190.0,
+     "https://www.vea.com.ar/shampoo-elvive-glyco-gloss-200-ml/p"
+    ],
+    "Comodín": [
+     10087.99,
+     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-gloss-200ml/p"
+    ],
+    "ChangoMás": [
+     4403.4,
+     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Elvive dream liso 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/688739/7509552964417_01.jpg?v=638907082908970000",
+   "cadena": "ChangoMás",
+   "precio": 4403.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-dream-liso-200-ml/p",
+   "referencia": 7339.0,
+   "precio_2da": 7349.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.1,
+   "score": 1603,
+   "pr": {
+    "Carrefour": [
+     7349.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-dream-liso-200-ml-761139/p"
+    ],
+    "Jumbo": [
+     9100.0,
+     "https://www.jumbo.com.ar/acondicionador-dream-liso-x-200-ml-elvive/p"
+    ],
+    "ChangoMás": [
+     4403.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-dream-liso-200-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Glycolic Gloss Brillo 72H 750 Ml Elvive",
+   "m": "ELVIVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/827682/Shampoo-Elvive-Glyco-Gloss-750ml-1-1017668.jpg?v=638560715010600000",
+   "cadena": "ChangoMás",
+   "precio": 13715.4,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-750ml-2/p",
+   "referencia": 22859.0,
+   "precio_2da": 22875.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1602,
+   "pr": {
+    "Vea": [
+     22990.0,
+     "https://www.vea.com.ar/shampoo-elvive-glyco-gloss-x-750-ml/p"
+    ],
+    "Jumbo": [
+     24500.0,
+     "https://www.jumbo.com.ar/shampoo-elvive-glyco-gloss-x-750-ml/p"
+    ],
+    "Carrefour": [
+     22875.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-750-ml-743379/p"
+    ],
+    "ChangoMás": [
+     13715.4,
+     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-750ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceto Balsámico Reducción 500 Ml Cocinero",
+   "m": "COCINERO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/771539/Aceto-Balsamico-En-Reduccion-X500-Ml-1-581282.jpg?v=638132062314000000",
+   "cadena": "Carrefour",
+   "precio": 4631.4,
+   "link": "https://www.carrefour.com.ar/aceto-balsamico-cocinero-tipo-reduccion-500-cc/p",
+   "referencia": 7719.0,
+   "precio_2da": 7719.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Vea": [
-     27790.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-rn-36u/p"
+     7990.0,
+     "https://www.vea.com.ar/aceto-balsamico-en-reduccion-cocinero-500-ml/p"
     ],
     "Jumbo": [
-     26394.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-36u/p"
+     8200.0,
+     "https://www.jumbo.com.ar/aceto-balsamico-en-reduccion-cocinero-500-ml/p"
     ],
     "Carrefour": [
-     15834.0,
-     "https://www.carrefour.com.ar/panales-pampers-talle-p-deluxe-36-uni-732876/p"
+     4631.4,
+     "https://www.carrefour.com.ar/aceto-balsamico-cocinero-tipo-reduccion-500-cc/p"
+    ],
+    "ChangoMás": [
+     7719.0,
+     "https://www.masonline.com.ar/aceto-balsamico-cocinero-500-ml/p"
     ]
    }
   },
   {
-   "n": "Trajes De Baño Desechables Baby Shark Grande - Extra Grande 10 Un Pampers",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/606389/Pa-ales-Pampers-Splashersx10-1-854134.jpg?v=637372052588370000",
+   "n": "Tintura Crema Triple Cuidado Tono N° 5,7 Chocolate Caramelo 1 Un Excellence",
+   "m": "EXCELLENCE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/850921/Coloracion-Renovacion-Tono-5-7-Excellence-1-1031451.jpg?v=638709213792470000",
+   "cadena": "ChangoMás",
+   "precio": 14993.4,
+   "link": "https://www.masonline.com.ar/coloracion-excellence-6-rubio-oscuro-2/p",
+   "referencia": 24989.0,
+   "precio_2da": 24990.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Jumbo": [
+     26200.0,
+     "https://www.jumbo.com.ar/coloracion-renovacion-tono-5-7-excellence/p"
+    ],
+    "Carrefour": [
+     24990.0,
+     "https://www.carrefour.com.ar/kit-tintura-excellence-creme-tono-5-7-chocolate-caramelo-1-uni-753932/p"
+    ],
+    "ChangoMás": [
+     14993.4,
+     "https://www.masonline.com.ar/coloracion-excellence-6-rubio-oscuro-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nuggets de pollo Sadia crocantes 300 g.",
+   "m": "Aleluya",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861254/7891515571351_E02.jpg?v=639130062849300000",
+   "cadena": "ChangoMás",
+   "precio": 3641.4,
+   "link": "https://www.masonline.com.ar/nuggets-de-pollo-sadia-congelada-crocrante-300-gr-2/p",
+   "referencia": 6069.0,
+   "precio_2da": 6050.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.8,
+   "score": 1592,
+   "pr": {
+    "Carrefour": [
+     6050.0,
+     "https://www.carrefour.com.ar/nuggets-de-pollo-sadia-crocantes-300-g-696446/p"
+    ],
+    "Vea": [
+     6150.0,
+     "https://www.vea.com.ar/nuggets-sadia-de-pollo-crocante-x300g/p"
+    ],
+    "ChangoMás": [
+     3641.4,
+     "https://www.masonline.com.ar/nuggets-de-pollo-sadia-congelada-crocrante-300-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos al huevo Lucchetti spaghetti 500 g",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914137/7790070337108_01.jpg?v=639222259365430000",
    "cadena": "Jumbo",
-   "precio": 9000.0,
-   "link": "https://www.jumbo.com.ar/trajes-de-bano-desechables-baby-shark-grande-extra-grande-10-un-pampers/p",
-   "referencia": 14400.0,
-   "precio_2da": 15690.0,
-   "baja_pct": 37.5,
-   "brecha_pct": 42.6,
-   "score": 1599,
-   "pr": {
-    "Vea": [
-     15690.0,
-     "https://www.vea.com.ar/trajes-de-bano-desechables-baby-shark-grande-extra-grande-10-un-pampers/p"
-    ],
-    "Jumbo": [
-     9000.0,
-     "https://www.jumbo.com.ar/trajes-de-bano-desechables-baby-shark-grande-extra-grande-10-un-pampers/p"
-    ],
-    "ChangoMás": [
-     16959.0,
-     "https://www.masonline.com.ar/panales-pampers-splashers-talle-g-xg-12-u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Liso Coco con Aceite de Coco y Keratina Vegetal 350 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/800439/Shampoo-Fructis-Lis-Coco-350ml-1-999760.jpg?v=638355189737200000",
-   "cadena": "Carrefour",
-   "precio": 4794.0,
-   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-350-ml-728188/p",
-   "referencia": 7990.0,
-   "precio_2da": 7979.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.9,
-   "score": 1597,
-   "pr": {
-    "Jumbo": [
-     9450.0,
-     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-350ml-3/p"
-    ],
-    "ChangoMás": [
-     7979.0,
-     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-350ml-2/p"
-    ],
-    "Carrefour": [
-     4794.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-350-ml-728188/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas dulces Soriano palmeritas 200 g.",
-   "m": "Soriano",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/919572/7792184003337_02.jpg?v=639233654570100000",
-   "cadena": "Carrefour",
-   "precio": 2766.0,
-   "link": "https://www.carrefour.com.ar/galletitas-dulces-soriano-palmeritas-200-g/p",
-   "referencia": 4610.0,
-   "precio_2da": 4589.0,
+   "precio": 1380.0,
+   "link": "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p",
+   "referencia": 2300.0,
+   "precio_2da": 2290.0,
    "baja_pct": 40.0,
    "brecha_pct": 39.7,
-   "score": 1589,
+   "score": 1590,
    "pr": {
     "Carrefour": [
-     2766.0,
-     "https://www.carrefour.com.ar/galletitas-dulces-soriano-palmeritas-200-g/p"
+     2300.0,
+     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-spaghetti-500-g-733268/p"
     ],
     "Vea": [
-     4790.0,
-     "https://www.vea.com.ar/palmerita-soriano-200-gr/p"
+     2290.0,
+     "https://www.vea.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
+    ],
+    "Jumbo": [
+     1380.0,
+     "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
     ],
     "ChangoMás": [
-     4589.0,
-     "https://www.masonline.com.ar/galletitas-soriano-palmeritas-200g-2/p"
+     2399.0,
+     "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Fructis H.F Cacao 300ml",
-   "m": "Fructis",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183043/ACONDICIONADOR_FRUCTIS_HF_CACAO.png?v=639202418575400000",
-   "cadena": "Carrefour",
-   "precio": 7554.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-cacao-300-ml-740063/p",
-   "referencia": 12590.0,
-   "precio_2da": 12519.59,
+   "n": "Fideos Tallarín al Huevo N°7 500 Grs Lucchetti",
+   "m": "LUCCHETTI",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/929068/7790070337009.jpg?v=639252633794930000",
+   "cadena": "Jumbo",
+   "precio": 1380.0,
+   "link": "https://www.jumbo.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p",
+   "referencia": 2300.0,
+   "precio_2da": 2290.0,
    "baja_pct": 40.0,
    "brecha_pct": 39.7,
-   "score": 1587,
+   "score": 1590,
+   "pr": {
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
+    ],
+    "Jumbo": [
+     1380.0,
+     "https://www.jumbo.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
+    ],
+    "ChangoMás": [
+     2399.0,
+     "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Pantene Detox 750m",
+   "m": "Pantene",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183985/43733_Shampoo Pantene Detox 750m.jpg?v=639260307811200000",
+   "cadena": "ChangoMás",
+   "precio": 8939.5,
+   "link": "https://www.masonline.com.ar/shampoo-pantene-detox-750ml-2/p",
+   "referencia": 17879.0,
+   "precio_2da": 12999.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.2,
+   "score": 1561,
    "pr": {
     "Comodín": [
-     12519.59,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-h-f-cacao-300ml/p"
+     12999.0,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-detox-750m/p"
     ],
     "ChangoMás": [
-     13089.0,
-     "https://www.masonline.com.ar/fructis-acondicionador-hair-food-cacao-300-ml-2/p"
+     8939.5,
+     "https://www.masonline.com.ar/shampoo-pantene-detox-750ml-2/p"
     ],
     "Carrefour": [
-     7554.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-cacao-300-ml-740063/p"
+     17890.0,
+     "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-shampoo-detox-750-ml-723891/p"
     ]
    }
   },
   {
-   "n": "Toallitas Femeninas con Alas Esencial x 16 Un Kotex",
-   "m": "KOTEX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844684/Toallita-Femenina-Esencial-X-16-U-Kotex-1-1028447.jpg?v=638665258437800000",
+   "n": "Alfajor de arroz con pistacho Chocoarroz x6 28 grs",
+   "m": "Chocoarroz",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914132/7790070104403_01.jpg?v=639222258594230000",
    "cadena": "Carrefour",
-   "precio": 2668.25,
-   "link": "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p",
-   "referencia": 4105.0,
-   "precio_2da": 4800.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.4,
-   "score": 1554,
-   "pr": {
-    "Jumbo": [
-     4800.0,
-     "https://www.jumbo.com.ar/toallita-femenina-esencial-x-16-u-kotex/p"
-    ],
-    "Carrefour": [
-     2668.25,
-     "https://www.carrefour.com.ar/toalla-higienica-kotex-esencial-16-uni-739308/p"
-    ],
-    "ChangoMás": [
-     4999.0,
-     "https://www.masonline.com.ar/toallas-femeninas-kotex-esencial-16u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
-   "cadena": "ChangoMás",
-   "precio": 2279.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p",
-   "referencia": 3749.0,
-   "precio_2da": 3712.5,
-   "baja_pct": 39.2,
+   "precio": 7734.0,
+   "link": "https://www.carrefour.com.ar/alfajor-de-arroz-con-pistacho-chocoarroz-x6-28-grs-769373/p",
+   "referencia": 12890.0,
+   "precio_2da": 12590.0,
+   "baja_pct": 40.0,
    "brecha_pct": 38.6,
-   "score": 1514,
+   "score": 1543,
    "pr": {
     "Carrefour": [
-     4120.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+     7734.0,
+     "https://www.carrefour.com.ar/alfajor-de-arroz-con-pistacho-chocoarroz-x6-28-grs-769373/p"
     ],
     "Vea": [
-     4790.0,
-     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
-    ],
-    "Jumbo": [
-     3712.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+     12590.0,
+     "https://www.vea.com.ar/alfajor-chocoarroz-pistacho-sixpack-de-168-gr-c-u-chocoarroz/p"
     ],
     "ChangoMás": [
-     2279.0,
-     "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
+     12689.0,
+     "https://www.masonline.com.ar/alfajor-chocoarroz-pistacho-6-u-168-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Tiritas de pollo congeladas Sadia Golden en bolsa 300 grs",
+   "m": "Sadia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861261/7891515586812_E02.jpg?v=639130065661130000",
+   "cadena": "ChangoMás",
+   "precio": 4325.4,
+   "link": "https://www.masonline.com.ar/tiritas-de-pechuga-de-pollo-sadia-golden-rebozadas-300-g/p",
+   "referencia": 7209.0,
+   "precio_2da": 7023.19,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.4,
+   "score": 1537,
+   "pr": {
+    "Carrefour": [
+     7205.0,
+     "https://www.carrefour.com.ar/tiritas-de-pollo-congeladas-sadia-golden-en-bolsa-300-grs-750429/p"
+    ],
+    "Comodín": [
+     7023.19,
+     "https://www.comodinencasa.com.ar/tiritas-de-pollo-sadia-golden-300gr/p"
+    ],
+    "ChangoMás": [
+     4325.4,
+     "https://www.masonline.com.ar/tiritas-de-pechuga-de-pollo-sadia-golden-rebozadas-300-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Infusion a base de café Arlistan pet 170 g.",
+   "m": "Arlistan",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914086/7790070933638_01.jpg?v=639222248924730000",
+   "cadena": "Carrefour",
+   "precio": 5420.35,
+   "link": "https://www.carrefour.com.ar/infusion-a-base-de-cafe-arlistan-pet-170-g-727998/p",
+   "referencia": 8339.0,
+   "precio_2da": 9629.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.7,
+   "score": 1530,
+   "pr": {
+    "Carrefour": [
+     5420.35,
+     "https://www.carrefour.com.ar/infusion-a-base-de-cafe-arlistan-pet-170-g-727998/p"
+    ],
+    "Vea": [
+     11190.0,
+     "https://www.vea.com.ar/cafe-suave-mas-aroma-arlistan-170-gr/p"
+    ],
+    "ChangoMás": [
+     9629.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-arlistan-170-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Elvive Colorvive 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922600/7898587761826_01.jpg?v=639239546601530000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-colorvive-200ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 8039.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     8039.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-colorvive-200-ml-722795/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/shampoo-elvive-colorvive-200-ml-3/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/shampoo-elvive-colorvive-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Elvive Hialuronico Pure 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922803/7509552876413_01.jpg?v=639239594929430000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-l-oreal-paris-hialuronico-pure-200ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 8039.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     8039.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-hialuronico-pure-200-ml-722034/p"
+    ],
+    "Vea": [
+     8490.0,
+     "https://www.vea.com.ar/shampoo-elvive-hialuronico-pure-200ml/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/shampoo-elvive-hialuronico-pure-200ml/p"
+    ],
+    "Comodín": [
+     8966.89,
+     "https://www.comodinencasa.com.ar/shampoo-elvive-ha-pure-200ml/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/shampoo-elvive-l-oreal-paris-hialuronico-pure-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Elvive Hialuronico Pure 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922818/7509552876420_01.jpg?v=639239598556630000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-l-oreal-paris-hialuronico-pure-200ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 8039.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     8039.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-hialuronico-pure-200-ml-722031/p"
+    ],
+    "Vea": [
+     8490.0,
+     "https://www.vea.com.ar/acondicionador-elvive-hialuronico-pure-200-ml/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/acondicionador-elvive-hialuronico-pure-200-ml/p"
+    ],
+    "Comodín": [
+     8966.89,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-ha-pure-200ml/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-l-oreal-paris-hialuronico-pure-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Elvive Hidra Hialuronico 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922669/7509552902341_01.jpg?v=639239561015070000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-hialuronico-200-ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 8039.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     8039.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-hidra-hialuronico-200-ml-722787/p"
+    ],
+    "Vea": [
+     8490.0,
+     "https://www.vea.com.ar/acodicionador-elvive-hidra-hialuronico-200-ml/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/acodicionador-elvive-hidra-hialuronico-200-ml/p"
+    ],
+    "Comodín": [
+     8966.89,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-hialuronico-200ml/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-hialuronico-200-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Óleo Extraordinario Nutrición 200 Ml Elvive",
+   "m": "ELVIVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/781302/Acondicionador-Elvive-Oleo-Extraord-200ml-1-957576.jpg?v=638194917802370000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-oleo-extraordinario-nutricion-universal-200ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 8039.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Vea": [
+     8490.0,
+     "https://www.vea.com.ar/acondicionador-oleo-extraordinario-nutricion-universal-200ml/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/acondicionador-oleo-extraordinario-nutricion-universal-200ml/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-oleo-extraordinario-nutricion-universal-200ml-2/p"
+    ],
+    "Carrefour": [
+     8039.0,
+     "https://www.carrefour.com.ar/acondicionador-oleo-extraordinario-nutricion-universal-200-ml-714800/p"
+    ]
+   }
+  },
+  {
+   "n": "Infusión a base de café Arlistan en frasco 50 g.",
+   "m": "Arlistan",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914067/7790070933652_01.jpg?v=639222246252900000",
+   "cadena": "Carrefour",
+   "precio": 2202.85,
+   "link": "https://www.carrefour.com.ar/infusion-a-base-de-cafe-arlistan-en-frasco-50-g-727997/p",
+   "referencia": 3389.0,
+   "precio_2da": 3890.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.4,
+   "score": 1518,
+   "pr": {
+    "Carrefour": [
+     2202.85,
+     "https://www.carrefour.com.ar/infusion-a-base-de-cafe-arlistan-en-frasco-50-g-727997/p"
+    ],
+    "Vea": [
+     3890.0,
+     "https://www.vea.com.ar/cafe-suave-mas-aroma-arlistan-50-gr/p"
+    ],
+    "ChangoMás": [
+     4059.0,
+     "https://www.masonline.com.ar/infusion-a-base-de-cafe-arlistan-50-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cafe Molido Seattles Best Coffee Portside 170 G",
+   "m": "SEATTLE'S BEST COFFEE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922085/Cafe-Molido-Seattles-Best-Coffee-Portside-170-G-1-1060844.jpg?v=639198346010570000",
+   "cadena": "Carrefour",
+   "precio": 8807.4,
+   "link": "https://www.carrefour.com.ar/cafe-molido-house-blend-seattles-best-170-grs-780514/p",
+   "referencia": 14679.0,
+   "precio_2da": 14119.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1505,
+   "pr": {
+    "Vea": [
+     14190.0,
+     "https://www.vea.com.ar/cafe-molido-seattles-best-coffee-portside-170-g/p"
+    ],
+    "Carrefour": [
+     8807.4,
+     "https://www.carrefour.com.ar/cafe-molido-house-blend-seattles-best-170-grs-780514/p"
+    ],
+    "ChangoMás": [
+     14119.0,
+     "https://www.masonline.com.ar/cafe-molido-seattle-s-best-house-blend-170-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Elvive Colorvive 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922626/7898587761888_01.jpg?v=639239550646970000",
+   "cadena": "ChangoMás",
+   "precio": 4985.4,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-colorvive-200ml-2/p",
+   "referencia": 8309.0,
+   "precio_2da": 7990.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1504,
+   "pr": {
+    "Carrefour": [
+     7990.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-colorvive-200-ml-722792/p"
+    ],
+    "Jumbo": [
+     8750.0,
+     "https://www.jumbo.com.ar/acondicionador-elvive-color-vive-200-ml/p"
+    ],
+    "Comodín": [
+     8966.89,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-colorvive-200ml/p"
+    ],
+    "ChangoMás": [
+     4985.4,
+     "https://www.masonline.com.ar/acondicionador-elvive-colorvive-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mini Tostadas Twistos Queso 95 G",
+   "m": "TWISTOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/615373/Mini-Tostadas-Twistos-Queso-95g-1-856023.jpg?v=637418712459900000",
+   "cadena": "Jumbo",
+   "precio": 2460.0,
+   "link": "https://www.jumbo.com.ar/mini-tostadas-twistos-queso-95-g/p",
+   "referencia": 4100.0,
+   "precio_2da": 3938.49,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1502,
+   "pr": {
+    "Vea": [
+     3990.0,
+     "https://www.vea.com.ar/mini-tostadas-twistos-queso-95-g/p"
+    ],
+    "Jumbo": [
+     2460.0,
+     "https://www.jumbo.com.ar/mini-tostadas-twistos-queso-95-g/p"
+    ],
+    "Comodín": [
+     3938.49,
+     "https://www.comodinencasa.com.ar/mini-twistos-tostaditas-queso-95-gr-2/p"
+    ],
+    "Carrefour": [
+     3949.0,
+     "https://www.carrefour.com.ar/mini-tostaditas-twistos-sabor-queso-95-grs-671347/p"
+    ],
+    "ChangoMás": [
+     3949.0,
+     "https://www.masonline.com.ar/minitostaditas-twistos-cuatro-quesos-95-gr-2/p"
     ]
    }
   }
