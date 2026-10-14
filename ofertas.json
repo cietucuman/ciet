@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-13",
- "actualizado": "2026-10-13 05:25",
+ "fecha": "2026-10-14",
+ "actualizado": "2026-10-14 16:05",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -17,69 +17,116 @@
   "2026-10-10",
   "2026-10-11",
   "2026-10-12",
-  "2026-10-13"
+  "2026-10-13",
+  "2026-10-14"
  ],
- "total": 8,
+ "total": 17,
  "ofertas": [
   {
-   "n": "Nachos Restaurant Style 250 Grs Macritas",
-   "m": "MACRITAS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/789440/Nachos-Macritas-Ketchup-X90g-1-985335.jpg?v=638264362058830000",
+   "n": "Servilletas Ultra Suave Hoja Simple 30x30 Cm x 200 Un Elite",
+   "m": "ELITE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808238/Servilleta-Elite-Ultra-Suave-X200-1-1007190.jpg?v=638417938969700000",
    "cadena": "Jumbo",
-   "precio": 2525.0,
-   "link": "https://www.jumbo.com.ar/nachos-macritas-restaurant-style-250gr/p",
-   "referencia": 5050.0,
-   "precio_2da": 4790.0,
+   "precio": 3200.0,
+   "link": "https://www.jumbo.com.ar/servilleta-ultra-suave-hoja-simple-200-un-elite/p",
+   "referencia": 6400.0,
+   "precio_2da": 6390.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.3,
-   "score": 2364,
+   "brecha_pct": 49.9,
+   "score": 2496,
    "pr": {
+    "Vea": [
+     6390.0,
+     "https://www.vea.com.ar/servilleta-ultra-suave-hoja-simple-200-un-elite/p"
+    ],
     "Jumbo": [
-     2525.0,
-     "https://www.jumbo.com.ar/nachos-macritas-restaurant-style-250gr/p"
+     3200.0,
+     "https://www.jumbo.com.ar/servilleta-ultra-suave-hoja-simple-200-un-elite/p"
     ],
     "Carrefour": [
-     4790.0,
-     "https://www.carrefour.com.ar/nachos-macritas-restaurant-style-250-g-721304/p"
-    ],
-    "ChangoMás": [
-     4869.0,
-     "https://www.masonline.com.ar/nachos-macritas-style-250g-2/p"
+     6585.0,
+     "https://www.carrefour.com.ar/servilleta-elite-ultra-suave-hoja-simple-200-uni-735466/p"
     ]
    }
   },
   {
-   "n": "Papas fritas Lays clásicas 134 g.",
-   "m": "Lays",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896513/7790310985465_E01.jpg?v=639184214513970000",
+   "n": "Jugo En Polvo Verao Naranja Durazno 7gr",
+   "m": "VERAO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906370/Jugo-En-Polvo-Verao-Naranja-Durazno-7gr-1-941114.jpg?v=639123826658400000",
    "cadena": "Jumbo",
-   "precio": 2842.5,
-   "link": "https://www.jumbo.com.ar/papas-fritas-lays-clasicas-134-g/p",
-   "referencia": 5685.0,
-   "precio_2da": 5139.0,
+   "precio": 150.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p",
+   "referencia": 300.0,
+   "precio_2da": 290.0,
    "baja_pct": 50.0,
-   "brecha_pct": 44.7,
-   "score": 2234,
+   "brecha_pct": 48.3,
+   "score": 2414,
    "pr": {
-    "Carrefour": [
-     5139.0,
-     "https://www.carrefour.com.ar/papas-fritas-lays-clasicas-134-g-721953/p"
-    ],
     "Vea": [
-     5590.0,
-     "https://www.vea.com.ar/papas-fritas-lays-clasicas-134-g/p"
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p"
     ],
     "Jumbo": [
-     2842.5,
-     "https://www.jumbo.com.ar/papas-fritas-lays-clasicas-134-g/p"
+     150.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-durazno-7gr/p"
     ],
-    "Comodín": [
-     5786.59,
-     "https://www.comodinencasa.com.ar/papas-fritas-lays-clasicas-134-gr/p"
+    "Carrefour": [
+     310.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-verao-naranja-durazno-7-g-711779/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Manzana 7 Grs Verao",
+   "m": "VERAO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906369/Jugo-En-Polvo-Verao-Manzana-7gr-1-941084.jpg?v=639123826652670000",
+   "cadena": "Jumbo",
+   "precio": 150.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p",
+   "referencia": 300.0,
+   "precio_2da": 284.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.2,
+   "score": 2359,
+   "pr": {
+    "Vea": [
+     290.0,
+     "https://www.vea.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
+    ],
+    "Jumbo": [
+     150.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-verao-manzana-7gr/p"
+    ],
+    "Carrefour": [
+     284.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-verao-manzana-7-g-rinde-1-l-711447/p"
+    ]
+   }
+  },
+  {
+   "n": "Fósforos 400 Un Aniversario",
+   "m": "ANIVERSARIO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/914593/Fosforos-Aniversario-400u-1-1058490.jpg?v=639141380721000000",
+   "cadena": "Jumbo",
+   "precio": 1250.0,
+   "link": "https://www.jumbo.com.ar/fosforos-aniversario-400u-2/p",
+   "referencia": 2500.0,
+   "precio_2da": 2250.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.4,
+   "score": 2222,
+   "pr": {
+    "Vea": [
+     2250.0,
+     "https://www.vea.com.ar/fosforos-aniversario-400u-2/p"
+    ],
+    "Jumbo": [
+     1250.0,
+     "https://www.jumbo.com.ar/fosforos-aniversario-400u-2/p"
     ],
     "ChangoMás": [
-     5139.0,
-     "https://www.masonline.com.ar/papas-fritas-lays-clasicas-134g-2/p"
+     2389.0,
+     "https://www.masonline.com.ar/fosforos-aniversario-400-u-2/p"
     ]
    }
   },
@@ -115,87 +162,253 @@
    }
   },
   {
-   "n": "Café Instantáneo con Vaso 170 Grs Nescafé",
-   "m": "DOLCA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/912881/Cafe-Nescafe-Tradicion-Con-Vaso-170gr-2-1057717.jpg?v=639137541659970000",
-   "cadena": "Carrefour",
-   "precio": 13095.0,
-   "link": "https://www.carrefour.com.ar/nescafe-tradicion-vaso-termico-170-grs-777256/p",
-   "referencia": 21132.5,
-   "precio_2da": 26190.0,
-   "baja_pct": 38.0,
-   "brecha_pct": 50.0,
-   "score": 1902,
-   "pr": {
-    "Vea": [
-     26190.0,
-     "https://www.vea.com.ar/cafe-nescafe-tradicion-con-vaso-170gr/p"
-    ],
-    "Jumbo": [
-     31100.0,
-     "https://www.jumbo.com.ar/cafe-nescafe-tradicion-con-vaso-170gr/p"
-    ],
-    "Carrefour": [
-     13095.0,
-     "https://www.carrefour.com.ar/nescafe-tradicion-vaso-termico-170-grs-777256/p"
-    ]
-   }
-  },
-  {
-   "n": "Svelty 0% Lactosa 350 grs",
-   "m": "Svelty",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849637/8445291102095_01.jpg?v=639119691234600000",
-   "cadena": "Carrefour",
-   "precio": 5514.0,
-   "link": "https://www.carrefour.com.ar/svelty-0-lactosa-350-grs-737525/p",
-   "referencia": 11809.0,
-   "precio_2da": 8145.29,
-   "baja_pct": 53.3,
-   "brecha_pct": 32.3,
-   "score": 1722,
+   "n": "Fideos monos Lucchetti bolsa 500 g.",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
+   "cadena": "ChangoMás",
+   "precio": 1299.0,
+   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
+   "referencia": 2859.0,
+   "precio_2da": 1985.0,
+   "baja_pct": 54.6,
+   "brecha_pct": 34.6,
+   "score": 1886,
    "pr": {
     "Carrefour": [
-     5514.0,
-     "https://www.carrefour.com.ar/svelty-0-lactosa-350-grs-737525/p"
+     1985.0,
+     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
     ],
     "Vea": [
-     8790.0,
-     "https://www.vea.com.ar/leche-polvo-0-porciento-lactosa-350-grs-svelty/p"
+     2790.0,
+     "https://www.vea.com.ar/fideos-guiseros-lucchetti-500gr/p"
     ],
     "Jumbo": [
-     11800.0,
-     "https://www.jumbo.com.ar/leche-polvo-0-porciento-lactosa-350-grs-svelty/p"
-    ],
-    "Comodín": [
-     8145.29,
-     "https://www.comodinencasa.com.ar/leche-svelty-0-lactosa-370gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas dulces Formis vainilla rellenas de frutilla 90 grs",
-   "m": "Formis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896609/7790040153431_E01.jpg?v=639184341057830000",
-   "cadena": "Carrefour",
-   "precio": 773.5,
-   "link": "https://www.carrefour.com.ar/galletitas-dulces-formis-vainilla-rellenas-de-frutilla-90-grs-778973/p",
-   "referencia": 1400.0,
-   "precio_2da": 1250.0,
-   "baja_pct": 44.8,
-   "brecha_pct": 38.1,
-   "score": 1706,
-   "pr": {
-    "Carrefour": [
-     773.5,
-     "https://www.carrefour.com.ar/galletitas-dulces-formis-vainilla-rellenas-de-frutilla-90-grs-778973/p"
-    ],
-    "Jumbo": [
-     1250.0,
-     "https://www.jumbo.com.ar/galletitas-formis-chocolate-90gr/p"
+     2900.0,
+     "https://www.jumbo.com.ar/fideos-guiseros-lucchetti-500gr/p"
     ],
     "ChangoMás": [
-     1629.0,
-     "https://www.masonline.com.ar/galletitas-formis-animales-frutilla-90g/p"
+     1299.0,
+     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aperitivo Dr. Lemon vodka pomelo 1 l.",
+   "m": "Dr. Lemon",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822998/7790950134896_02.jpg?v=639083181879500000",
+   "cadena": "Comodín",
+   "precio": 1967.2,
+   "link": "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-pomelo-x-1lt/p",
+   "referencia": 3945.79,
+   "precio_2da": 3087.5,
+   "baja_pct": 50.1,
+   "brecha_pct": 36.3,
+   "score": 1819,
+   "pr": {
+    "Carrefour": [
+     3087.5,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-vodka-pomelo-dr-lemon-1-lt-607660/p"
+    ],
+    "Comodín": [
+     1967.2,
+     "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-pomelo-x-1lt/p"
+    ],
+    "ChangoMás": [
+     4339.0,
+     "https://www.masonline.com.ar/aperitivo-pomelo-con-vodka-dr-lemon-1-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos spaghettini Barilla n3 500 g.",
+   "m": "Barilla",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/888587/8076800195033_02.jpg?v=639162793361730000",
+   "cadena": "Vea",
+   "precio": 4478.5,
+   "link": "https://www.vea.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p",
+   "referencia": 6890.0,
+   "precio_2da": 9169.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 51.2,
+   "score": 1790,
+   "pr": {
+    "Carrefour": [
+     9169.0,
+     "https://www.carrefour.com.ar/fideos-spaghettini-barilla-n3-500-g/p"
+    ],
+    "Vea": [
+     4478.5,
+     "https://www.vea.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p"
+    ],
+    "Jumbo": [
+     9400.0,
+     "https://www.jumbo.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino tinto Chocolate Dadá 750 ml",
+   "m": "Dadá",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/240366/7791540049590_01.jpg?v=637848590993070000",
+   "cadena": "Comodín",
+   "precio": 4394.99,
+   "link": "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-n8-cho-x750cc/p",
+   "referencia": 7061.59,
+   "precio_2da": 8069.0,
+   "baja_pct": 37.8,
+   "brecha_pct": 45.5,
+   "score": 1719,
+   "pr": {
+    "Carrefour": [
+     8069.0,
+     "https://www.carrefour.com.ar/vino-tinto-dada-8-chocolate-750-cc/p"
+    ],
+    "Vea": [
+     8096.0,
+     "https://www.vea.com.ar/vino-dada-art-8-chocolat-750cc/p"
+    ],
+    "Comodín": [
+     4394.99,
+     "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-n8-cho-x750cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Blanco Dulce Sabor Miel 750 Cc Dada",
+   "m": "DADA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/716921/Vino-Dada-6-Honey-750-Cc-1-257755.jpg?v=637975785741130000",
+   "cadena": "Comodín",
+   "precio": 4394.99,
+   "link": "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-honey-750cc/p",
+   "referencia": 7061.59,
+   "precio_2da": 7990.0,
+   "baja_pct": 37.8,
+   "brecha_pct": 45.0,
+   "score": 1699,
+   "pr": {
+    "Vea": [
+     7990.0,
+     "https://www.vea.com.ar/vino-dada-art-6-honey-750cc/p"
+    ],
+    "Comodín": [
+     4394.99,
+     "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-honey-750cc/p"
+    ],
+    "Carrefour": [
+     8069.0,
+     "https://www.carrefour.com.ar/vino-blanco-chardonnay-dulce-huelga-de-amores-750-ml-710176/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multisuperficies Cif Citrus Blend Ultra Brillo Doypack 380 ml",
+   "m": "Cif",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923811/7791290792784_01.jpg?v=639240404160000000",
+   "cadena": "Comodín",
+   "precio": 1758.31,
+   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-brillo-e-citri-doy-pack-380ml/p",
+   "referencia": 2705.09,
+   "precio_2da": 3390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.1,
+   "score": 1685,
+   "pr": {
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/limpiador-multisuperficies-cif-citrus-blend-ultra-brillo-doypack-380-ml-703589/p"
+    ],
+    "Jumbo": [
+     3400.0,
+     "https://www.jumbo.com.ar/limpiador-multisuperficies-citrus-blend-ultra-brillo-380-ml-doypack-cif/p"
+    ],
+    "Comodín": [
+     1758.31,
+     "https://www.comodinencasa.com.ar/lustramueble-cif-brillo-e-citri-doy-pack-380ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multisuperficies Cif Original Ultra Brillo Gatillo 400 ml",
+   "m": "Cif",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923814/7791290792753_01.jpg?v=639240404413530000",
+   "cadena": "Comodín",
+   "precio": 2978.49,
+   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-brillo-anti-p-gat-400ml/p",
+   "referencia": 4582.29,
+   "precio_2da": 5650.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 47.3,
+   "score": 1655,
+   "pr": {
+    "Carrefour": [
+     5749.0,
+     "https://www.carrefour.com.ar/limpiador-multisuperficies-cif-original-ultra-brillo-gatillo-400-ml-703590/p"
+    ],
+    "Jumbo": [
+     5650.0,
+     "https://www.jumbo.com.ar/limpiador-multisuperficies-cif-original-ultra-brillo-400-ml/p"
+    ],
+    "Comodín": [
+     2978.49,
+     "https://www.comodinencasa.com.ar/lustramueble-cif-brillo-anti-p-gat-400ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos Spaghettoni 500 Grs Barilla",
+   "m": "BARILLA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/848591/Fideos-Spaghettoni-Barilla-500-Gr-1-3595.jpg?v=638696254192670000",
+   "cadena": "Vea",
+   "precio": 4868.5,
+   "link": "https://www.vea.com.ar/fideos-spaghettoni-barilla-500-gr/p",
+   "referencia": 7490.0,
+   "precio_2da": 9169.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.9,
+   "score": 1642,
+   "pr": {
+    "Vea": [
+     4868.5,
+     "https://www.vea.com.ar/fideos-spaghettoni-barilla-500-gr/p"
+    ],
+    "Jumbo": [
+     9400.0,
+     "https://www.jumbo.com.ar/fideos-spaghettoni-barilla-500-gr/p"
+    ],
+    "Carrefour": [
+     9169.0,
+     "https://www.carrefour.com.ar/fideos-spaghettoni-barilla-n7-500-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multisuperficies Ultra Brillo Flores de Lavanda 380 Ml Cif",
+   "m": "CIF",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802804/Limpiador-Cif-Ultra-Brillo-Multisuperficies-Dp-380ml-1-997404.jpg?v=638375618072300000",
+   "cadena": "Comodín",
+   "precio": 1758.31,
+   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavanda-dp-380ml/p",
+   "referencia": 2705.09,
+   "precio_2da": 3309.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.9,
+   "score": 1640,
+   "pr": {
+    "Jumbo": [
+     3400.0,
+     "https://www.jumbo.com.ar/limpiador-multisuperficies-flores-de-lavanda-ultra-brillo-380-ml-doypack-cif/p"
+    ],
+    "Comodín": [
+     1758.31,
+     "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavanda-dp-380ml/p"
+    ],
+    "Carrefour": [
+     3309.0,
+     "https://www.carrefour.com.ar/limpiador-multisuperficie-cif-flores-de-lavanda-ultra-brillo-doypack-380-ml-727979/p"
+    ],
+    "ChangoMás": [
+     3439.0,
+     "https://www.masonline.com.ar/lustramuebles-cif-multiespacios-lavanda-380ml-2/p"
     ]
    }
   },
@@ -207,21 +420,21 @@
    "precio": 1679.0,
    "link": "https://www.masonline.com.ar/arroz-gallo-parboil-1-kg-2/p",
    "referencia": 2779.0,
-   "precio_2da": 2786.0,
+   "precio_2da": 2790.0,
    "baja_pct": 39.6,
-   "brecha_pct": 39.7,
-   "score": 1573,
+   "brecha_pct": 39.8,
+   "score": 1576,
    "pr": {
     "Carrefour": [
      2790.0,
      "https://www.carrefour.com.ar/arroz-parboil-gallo-oro-en-bolsa-1-kg-718787/p"
     ],
     "Vea": [
-     2790.0,
+     3290.0,
      "https://www.vea.com.ar/arroz-parboil-en-bolsa-1-kg-gallo-oro/p"
     ],
     "Jumbo": [
-     2786.0,
+     3254.0,
      "https://www.jumbo.com.ar/arroz-parboil-en-bolsa-1-kg-gallo-oro/p"
     ],
     "ChangoMás": [
@@ -231,29 +444,60 @@
    }
   },
   {
-   "n": "Antitranspirante en gel Secret Ph Balanc clinical 45 grs",
-   "m": "Secret",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/741046/7500435144636_02.jpg?v=638962365123570000",
-   "cadena": "Vea",
-   "precio": 11695.0,
-   "link": "https://www.vea.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p",
-   "referencia": 16967.5,
-   "precio_2da": 22675.0,
-   "baja_pct": 31.1,
-   "brecha_pct": 48.4,
-   "score": 1505,
+   "n": "Maíz La Española Gourmet Pisado 400 Gr",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/645174/Ma-z-La-Espa-ola-Gourmet-Pisado-400-Gr-1-28151.jpg?v=637578552935000000",
+   "cadena": "Jumbo",
+   "precio": 585.0,
+   "link": "https://www.jumbo.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p",
+   "referencia": 975.0,
+   "precio_2da": 945.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1524,
    "pr": {
-    "Carrefour": [
-     22675.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-gel-secret-ph-balanc-clinical-45-grs-768977/p"
-    ],
     "Vea": [
-     11695.0,
-     "https://www.vea.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
+     945.0,
+     "https://www.vea.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
     ],
     "Jumbo": [
-     24450.0,
-     "https://www.jumbo.com.ar/desodorante-gel-ph-balanced-x-45-grs-secret/p"
+     585.0,
+     "https://www.jumbo.com.ar/maiz-la-espanola-gourmet-pisado-400-gr/p"
+    ],
+    "Carrefour": [
+     1650.0,
+     "https://www.carrefour.com.ar/maiz-blanco-molido-la-espanola-en-bolsa-400-grs-547445/p"
+    ],
+    "Comodín": [
+     1461.99,
+     "https://www.comodinencasa.com.ar/maiz-pisado-blanco-la-espanola-x-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Porotos Alubias 500 Grs La Española Gourmet",
+   "m": "LA ESPAÑOLA GOURMET",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/776401/Poroto-La-Espa-ola-Alubia-X-500gr-Poroto-La-Espa-ola-Alubia-X-500gr-1-28202.jpg?v=638168349660170000",
+   "cadena": "Jumbo",
+   "precio": 930.0,
+   "link": "https://www.jumbo.com.ar/poroto-la-espanola-alubia-500-gr/p",
+   "referencia": 1550.0,
+   "precio_2da": 1495.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1512,
+   "pr": {
+    "Vea": [
+     1495.0,
+     "https://www.vea.com.ar/poroto-la-espanola-alubia-500-gr/p"
+    ],
+    "Jumbo": [
+     930.0,
+     "https://www.jumbo.com.ar/poroto-la-espanola-alubia-500-gr/p"
+    ],
+    "Comodín": [
+     2263.99,
+     "https://www.comodinencasa.com.ar/porotos-alubia-la-espanola-x-500-gr/p"
     ]
    }
   }
