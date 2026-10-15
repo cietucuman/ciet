@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-15",
- "actualizado": "2026-10-15 02:11",
+ "actualizado": "2026-10-15 15:55",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-10-14",
   "2026-10-15"
  ],
- "total": 39,
+ "total": 37,
  "ofertas": [
   {
    "n": "Desodorante en Aerosol Axe Musk 150 ml",
@@ -78,37 +78,6 @@
     "ChangoMás": [
      1959.0,
      "https://www.masonline.com.ar/plato-hondo-durax-gema-22-5-cm-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Queso en hebras Finlandia Chef 4 quesos light 130 g",
-   "m": "Finlandia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834216/7790742667328_E01.jpg?v=639102317649170000",
-   "cadena": "Jumbo",
-   "precio": 2475.0,
-   "link": "https://www.jumbo.com.ar/queso-finlandia-heb-4-qso-sob-130gr/p",
-   "referencia": 4950.0,
-   "precio_2da": 4949.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2499,
-   "pr": {
-    "Carrefour": [
-     4949.0,
-     "https://www.carrefour.com.ar/queso-en-hebras-finlandia-chef-4-quesos-light-130-g/p"
-    ],
-    "Jumbo": [
-     2475.0,
-     "https://www.jumbo.com.ar/queso-finlandia-heb-4-qso-sob-130gr/p"
-    ],
-    "Comodín": [
-     5385.19,
-     "https://www.comodinencasa.com.ar/queso-ls-finlandia-hebras-4q-light-130gr/p"
-    ],
-    "ChangoMás": [
-     5149.0,
-     "https://www.masonline.com.ar/cuatro-quesos-light-en-hebras-la-serenisima-130gr-2/p"
     ]
    }
   },
@@ -229,6 +198,37 @@
    }
   },
   {
+   "n": "Queso en hebras Finlandia Chef 4 quesos light 130 g",
+   "m": "Finlandia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834216/7790742667328_E01.jpg?v=639102317649170000",
+   "cadena": "Jumbo",
+   "precio": 2475.0,
+   "link": "https://www.jumbo.com.ar/queso-finlandia-heb-4-qso-sob-130gr/p",
+   "referencia": 4950.0,
+   "precio_2da": 4819.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.6,
+   "score": 2432,
+   "pr": {
+    "Carrefour": [
+     4949.0,
+     "https://www.carrefour.com.ar/queso-en-hebras-finlandia-chef-4-quesos-light-130-g/p"
+    ],
+    "Jumbo": [
+     2475.0,
+     "https://www.jumbo.com.ar/queso-finlandia-heb-4-qso-sob-130gr/p"
+    ],
+    "Comodín": [
+     5385.19,
+     "https://www.comodinencasa.com.ar/queso-ls-finlandia-hebras-4q-light-130gr/p"
+    ],
+    "ChangoMás": [
+     4819.0,
+     "https://www.masonline.com.ar/cuatro-quesos-light-en-hebras-la-serenisima-130gr-2/p"
+    ]
+   }
+  },
+  {
    "n": "Cepillo de dientes Colgate bamboo carbón 2 uni",
    "m": "Colgate",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/516112/7891024078174_01.jpg?v=638503374659270000",
@@ -327,7 +327,7 @@
    "score": 2387,
    "pr": {
     "Carrefour": [
-     6299.0,
+     6150.0,
      "https://www.carrefour.com.ar/queso-rallado-ilolay-120-g/p"
     ],
     "Vea": [
@@ -578,13 +578,13 @@
      1325.0,
      "https://www.jumbo.com.ar/desodorante-blue-ice-roll-on-60-gr-etiquet/p"
     ],
-    "Comodín": [
-     2648.89,
-     "https://www.comodinencasa.com.ar/deo-etiquet-men-blue-ice-60-gr/p"
-    ],
     "ChangoMás": [
      2579.0,
      "https://www.masonline.com.ar/desodorante-blue-ice-etiquet-60-gr-2/p"
+    ],
+    "Comodín": [
+     2648.89,
+     "https://www.comodinencasa.com.ar/deo-etiquet-men-blue-ice-60-gr/p"
     ]
    }
   },
@@ -616,37 +616,6 @@
     "Comodín": [
      2711.29,
      "https://www.comodinencasa.com.ar/deo-hinds-intra-hidrat-crema-soft-x60gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate blanco Arcor 25 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914542/7790580607418_E01.jpg?v=639222455418200000",
-   "cadena": "Jumbo",
-   "precio": 850.0,
-   "link": "https://www.jumbo.com.ar/chocolate-arcor-blanco-25-gr/p",
-   "referencia": 1700.0,
-   "precio_2da": 1590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.5,
-   "score": 2327,
-   "pr": {
-    "Carrefour": [
-     1590.0,
-     "https://www.carrefour.com.ar/chocolate-blanco-arcor-25-g-39295/p"
-    ],
-    "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/chocolate-arcor-blanco-25-gr/p"
-    ],
-    "Jumbo": [
-     850.0,
-     "https://www.jumbo.com.ar/chocolate-arcor-blanco-25-gr/p"
-    ],
-    "Comodín": [
-     1647.49,
-     "https://www.comodinencasa.com.ar/chocolate-arcor-blanco-25gr-2/p"
     ]
    }
   },
@@ -709,37 +678,33 @@
    }
   },
   {
-   "n": "Chocolate Arcor 25 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914541/7790580607210_E01.jpg?v=639222454868630000",
+   "n": "Pasta dental Sensodyne original 90 g.",
+   "m": "Sensodyne",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383034/7896009419324_01.jpg?v=638315924474230000",
    "cadena": "Jumbo",
-   "precio": 875.0,
-   "link": "https://www.jumbo.com.ar/chocolate-arcor-con-leche-25-gr/p",
-   "referencia": 1750.0,
-   "precio_2da": 1549.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.5,
-   "score": 2176,
+   "precio": 3250.0,
+   "link": "https://www.jumbo.com.ar/pasta-dental-sensodyne-original-90-gr/p",
+   "referencia": 5687.5,
+   "precio_2da": 6179.0,
+   "baja_pct": 42.9,
+   "brecha_pct": 47.4,
+   "score": 2032,
    "pr": {
     "Carrefour": [
-     1549.0,
-     "https://www.carrefour.com.ar/chocolate-arcor-25-g-310680/p"
+     6190.0,
+     "https://www.carrefour.com.ar/pasta-dental-sensodyne-original-90-g-434209/p"
     ],
     "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/chocolate-arcor-con-leche-25-gr/p"
+     6190.0,
+     "https://www.vea.com.ar/pasta-dental-sensodyne-original-90-gr/p"
     ],
     "Jumbo": [
-     875.0,
-     "https://www.jumbo.com.ar/chocolate-arcor-con-leche-25-gr/p"
-    ],
-    "Comodín": [
-     1647.49,
-     "https://www.comodinencasa.com.ar/chocolate-arcor-c-leche-25gr-2/p"
+     3250.0,
+     "https://www.jumbo.com.ar/pasta-dental-sensodyne-original-90-gr/p"
     ],
     "ChangoMás": [
-     1629.0,
-     "https://www.masonline.com.ar/chocolate-con-leche-arcor-25-gr-2/p"
+     6179.0,
+     "https://www.masonline.com.ar/pasta-dental-original-sensodyne-90-gr-2/p"
     ]
    }
   },
@@ -833,29 +798,29 @@
    }
   },
   {
-   "n": "Aperitivo Dr. Lemon vodka pomelo 1 l.",
-   "m": "Dr. Lemon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822998/7790950134896_02.jpg?v=639083181879500000",
-   "cadena": "Comodín",
-   "precio": 1967.2,
-   "link": "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-pomelo-x-1lt/p",
-   "referencia": 3945.79,
-   "precio_2da": 3087.5,
-   "baja_pct": 50.1,
-   "brecha_pct": 36.3,
-   "score": 1819,
+   "n": "Fideos spaghettini Barilla n3 500 g.",
+   "m": "Barilla",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/888587/8076800195033_02.jpg?v=639162793361730000",
+   "cadena": "Vea",
+   "precio": 4478.5,
+   "link": "https://www.vea.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p",
+   "referencia": 6890.0,
+   "precio_2da": 9169.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 51.2,
+   "score": 1790,
    "pr": {
     "Carrefour": [
-     3087.5,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-vodka-pomelo-dr-lemon-1-lt-607660/p"
+     9169.0,
+     "https://www.carrefour.com.ar/fideos-spaghettini-barilla-n3-500-g/p"
     ],
-    "Comodín": [
-     1967.2,
-     "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-pomelo-x-1lt/p"
+    "Vea": [
+     4478.5,
+     "https://www.vea.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p"
     ],
-    "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/aperitivo-pomelo-con-vodka-dr-lemon-1-lt-2/p"
+    "Jumbo": [
+     9400.0,
+     "https://www.jumbo.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p"
     ]
    }
   },
@@ -1026,37 +991,6 @@
     "Jumbo": [
      9400.0,
      "https://www.jumbo.com.ar/fideos-spaghettoni-barilla-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Risotto Basmati Gallo 240 Gr",
-   "m": "GALLO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/929111/7790070431523.jpg?v=639252647936430000",
-   "cadena": "Carrefour",
-   "precio": 2699.4,
-   "link": "https://www.carrefour.com.ar/risotto-champiniones-gallo-en-caja-240-g-727418/p",
-   "referencia": 4690.0,
-   "precio_2da": 4400.0,
-   "baja_pct": 42.4,
-   "brecha_pct": 38.6,
-   "score": 1640,
-   "pr": {
-    "Vea": [
-     4490.0,
-     "https://www.vea.com.ar/risotto-basmati-gallo-240-gr/p"
-    ],
-    "Jumbo": [
-     4400.0,
-     "https://www.jumbo.com.ar/risotto-basmati-gallo-240-gr/p"
-    ],
-    "Carrefour": [
-     2699.4,
-     "https://www.carrefour.com.ar/risotto-champiniones-gallo-en-caja-240-g-727418/p"
-    ],
-    "ChangoMás": [
-     4679.0,
-     "https://www.masonline.com.ar/risotto-trattoria-gallo-sabor-champinones-240gr-2/p"
     ]
    }
   },
