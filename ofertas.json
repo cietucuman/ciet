@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-15",
- "actualizado": "2026-10-15 15:55",
+ "actualizado": "2026-10-15 22:08",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-10-14",
   "2026-10-15"
  ],
- "total": 37,
+ "total": 35,
  "ofertas": [
   {
    "n": "Desodorante en Aerosol Axe Musk 150 ml",
@@ -51,6 +51,37 @@
     "ChangoMás": [
      4479.0,
      "https://www.masonline.com.ar/desodoreante-axe-musk-150ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos monos Lucchetti bolsa 500 g.",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
+   "cadena": "ChangoMás",
+   "precio": 1299.0,
+   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
+   "referencia": 2859.0,
+   "precio_2da": 2749.0,
+   "baja_pct": 54.6,
+   "brecha_pct": 52.7,
+   "score": 2878,
+   "pr": {
+    "Carrefour": [
+     2749.0,
+     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
+    ],
+    "Vea": [
+     2790.0,
+     "https://www.vea.com.ar/fideos-guiseros-lucchetti-500gr/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/fideos-guiseros-lucchetti-500gr/p"
+    ],
+    "ChangoMás": [
+     1299.0,
+     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
     ]
    }
   },
@@ -290,18 +321,14 @@
    "precio": 3350.0,
    "link": "https://www.jumbo.com.ar/acondicionador-para-ninos-rulos-de-ensueno-200-ml-johnson-s/p",
    "referencia": 6700.0,
-   "precio_2da": 6450.0,
+   "precio_2da": 6469.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2403,
+   "brecha_pct": 48.2,
+   "score": 2411,
    "pr": {
     "Carrefour": [
      6469.0,
      "https://www.carrefour.com.ar/acondicionador-para-ninos-johnsons-rulos-de-ensueno-200-ml-731850/p"
-    ],
-    "Vea": [
-     6450.0,
-     "https://www.vea.com.ar/acondicionador-para-ninos-rulos-de-ensueno-200-ml-johnson-s/p"
     ],
     "Jumbo": [
      3350.0,
@@ -372,33 +399,6 @@
    }
   },
   {
-   "n": "Jabón de tocador Rexona sensible 120 g.",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541155/7791293050966_01.jpg?v=638566616448230000",
-   "cadena": "Jumbo",
-   "precio": 825.0,
-   "link": "https://www.jumbo.com.ar/jabon-de-tocador-sensible-120-grs-rexona/p",
-   "referencia": 1650.0,
-   "precio_2da": 1560.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.1,
-   "score": 2356,
-   "pr": {
-    "Carrefour": [
-     1560.0,
-     "https://www.carrefour.com.ar/jabon-de-tocador-rexona-sensible-120-g-744124/p"
-    ],
-    "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/jabon-de-tocador-sensible-120-grs-rexona/p"
-    ],
-    "Jumbo": [
-     825.0,
-     "https://www.jumbo.com.ar/jabon-de-tocador-sensible-120-grs-rexona/p"
-    ]
-   }
-  },
-  {
    "n": "La Paulina queso reggianito rallado 40 grs",
    "m": "La Paulina",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/758683/7790398100118_E01.jpg?v=638981439088200000",
@@ -465,6 +465,33 @@
    }
   },
   {
+   "n": "Desodorante antitranspirante Hinds Perfection roll on 60 g.",
+   "m": "Hinds",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/382920/7794640171239_01.jpg?v=638315923948400000",
+   "cadena": "Jumbo",
+   "precio": 1325.0,
+   "link": "https://www.jumbo.com.ar/desodorante-hinds-perfection-roll-on-60gr/p",
+   "referencia": 2650.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.8,
+   "score": 2339,
+   "pr": {
+    "Carrefour": [
+     2490.0,
+     "https://www.carrefour.com.ar/desodorante-antitranspirante-hinds-perfection-roll-on-60-g-568957/p"
+    ],
+    "Jumbo": [
+     1325.0,
+     "https://www.jumbo.com.ar/desodorante-hinds-perfection-roll-on-60gr/p"
+    ],
+    "Comodín": [
+     2711.29,
+     "https://www.comodinencasa.com.ar/deo-hinds-perfection-roll-on-x-60-gr/p"
+    ]
+   }
+  },
+  {
    "n": "Desodorante antitranspirante Etiquet Sport roll on 60 g.",
    "m": "Etiquet",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383129/7794640630507_01.jpg?v=638315924883570000",
@@ -492,33 +519,6 @@
     "Comodín": [
      2648.89,
      "https://www.comodinencasa.com.ar/deo-etiquet-men-sport-60-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante antitranspirante Hinds Perfection roll on 60 g.",
-   "m": "Hinds",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/382920/7794640171239_01.jpg?v=638315923948400000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/desodorante-hinds-perfection-roll-on-60gr/p",
-   "referencia": 2650.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-hinds-perfection-roll-on-60-g-568957/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/desodorante-hinds-perfection-roll-on-60gr/p"
-    ],
-    "Comodín": [
-     2711.29,
-     "https://www.comodinencasa.com.ar/deo-hinds-perfection-roll-on-x-60-gr/p"
     ]
    }
   },
@@ -578,13 +578,13 @@
      1325.0,
      "https://www.jumbo.com.ar/desodorante-blue-ice-roll-on-60-gr-etiquet/p"
     ],
-    "ChangoMás": [
-     2579.0,
-     "https://www.masonline.com.ar/desodorante-blue-ice-etiquet-60-gr-2/p"
-    ],
     "Comodín": [
      2648.89,
      "https://www.comodinencasa.com.ar/deo-etiquet-men-blue-ice-60-gr/p"
+    ],
+    "ChangoMás": [
+     2579.0,
+     "https://www.masonline.com.ar/desodorante-blue-ice-etiquet-60-gr-2/p"
     ]
    }
   },
@@ -678,37 +678,6 @@
    }
   },
   {
-   "n": "Pasta dental Sensodyne original 90 g.",
-   "m": "Sensodyne",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383034/7896009419324_01.jpg?v=638315924474230000",
-   "cadena": "Jumbo",
-   "precio": 3250.0,
-   "link": "https://www.jumbo.com.ar/pasta-dental-sensodyne-original-90-gr/p",
-   "referencia": 5687.5,
-   "precio_2da": 6179.0,
-   "baja_pct": 42.9,
-   "brecha_pct": 47.4,
-   "score": 2032,
-   "pr": {
-    "Carrefour": [
-     6190.0,
-     "https://www.carrefour.com.ar/pasta-dental-sensodyne-original-90-g-434209/p"
-    ],
-    "Vea": [
-     6190.0,
-     "https://www.vea.com.ar/pasta-dental-sensodyne-original-90-gr/p"
-    ],
-    "Jumbo": [
-     3250.0,
-     "https://www.jumbo.com.ar/pasta-dental-sensodyne-original-90-gr/p"
-    ],
-    "ChangoMás": [
-     6179.0,
-     "https://www.masonline.com.ar/pasta-dental-original-sensodyne-90-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Crema Dental Extra Fresh X 140 Gr Sensodyne",
    "m": "SENSODYNE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/837906/Crema-Dental-Sensodyne-Extr-Fresh-140g-Crema-Dental-Extra-Fresh-X-140-Gr-Sensodyne-1-1028218.jpg?v=638647978412300000",
@@ -736,9 +705,9 @@
    }
   },
   {
-   "n": "Jabón de tocador Rexona glicerina citrus x3 90 g.",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/319277/7791293049199_01.jpg?v=638181996799900000",
+   "n": "Jabón de Tocador Glicerina Citrus 90 Grs x 3 Un Rexona",
+   "m": "REXONA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/781205/Jab-n-De-Glicerina-En-Barra-Rexona-Citrus-3x90-G-Multipack-1-957268.jpg?v=638193299570030000",
    "cadena": "Jumbo",
    "precio": 2500.0,
    "link": "https://www.jumbo.com.ar/jabon-en-barra-de-glicerina-citrus-multipack-90-grs-x-3-un-rexona/p",
@@ -748,10 +717,6 @@
    "brecha_pct": 39.7,
    "score": 1985,
    "pr": {
-    "Carrefour": [
-     5035.0,
-     "https://www.carrefour.com.ar/jabon-de-tocador-rexona-glicerina-citrus-x3-90-g-719457/p"
-    ],
     "Jumbo": [
      2500.0,
      "https://www.jumbo.com.ar/jabon-en-barra-de-glicerina-citrus-multipack-90-grs-x-3-un-rexona/p"
@@ -763,64 +728,10 @@
     "ChangoMás": [
      5239.0,
      "https://www.masonline.com.ar/jabon-de-tocador-rexona-glicerina-citrus-x3-90-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos monos Lucchetti bolsa 500 g.",
-   "m": "Lucchetti",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/214291/7790070318350_01.jpg?v=637678493024570000",
-   "cadena": "ChangoMás",
-   "precio": 1299.0,
-   "link": "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p",
-   "referencia": 2859.0,
-   "precio_2da": 1985.0,
-   "baja_pct": 54.6,
-   "brecha_pct": 34.6,
-   "score": 1886,
-   "pr": {
+    ],
     "Carrefour": [
-     1985.0,
-     "https://www.carrefour.com.ar/fideos-monos-lucchetti-bolsa-500-g/p"
-    ],
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/fideos-guiseros-lucchetti-500gr/p"
-    ],
-    "Jumbo": [
-     2900.0,
-     "https://www.jumbo.com.ar/fideos-guiseros-lucchetti-500gr/p"
-    ],
-    "ChangoMás": [
-     1299.0,
-     "https://www.masonline.com.ar/monos-nutri-vit-plus-luchetti-500gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos spaghettini Barilla n3 500 g.",
-   "m": "Barilla",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/888587/8076800195033_02.jpg?v=639162793361730000",
-   "cadena": "Vea",
-   "precio": 4478.5,
-   "link": "https://www.vea.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p",
-   "referencia": 6890.0,
-   "precio_2da": 9169.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 51.2,
-   "score": 1790,
-   "pr": {
-    "Carrefour": [
-     9169.0,
-     "https://www.carrefour.com.ar/fideos-spaghettini-barilla-n3-500-g/p"
-    ],
-    "Vea": [
-     4478.5,
-     "https://www.vea.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p"
-    ],
-    "Jumbo": [
-     9400.0,
-     "https://www.jumbo.com.ar/fideos-barilla-largos-de-semola-spaghettini-n-3-500-gr-2/p"
+     5035.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-rexona-glicerina-citrus-x3-90-g-719457/p"
     ]
    }
   },
@@ -852,6 +763,64 @@
     "ChangoMás": [
      2429.0,
      "https://www.masonline.com.ar/queso-rallado-milkaut-sobre-x-40-grs-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multisuperficies Cif Flores de Lavanda Ultra Brillo Doypack 380 ml",
+   "m": "Cif",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923923/7791290795464_01.jpg?v=639240411171070000",
+   "cadena": "Comodín",
+   "precio": 1758.31,
+   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavanda-dp-380ml/p",
+   "referencia": 2805.44,
+   "precio_2da": 3309.0,
+   "baja_pct": 37.3,
+   "brecha_pct": 46.9,
+   "score": 1749,
+   "pr": {
+    "Carrefour": [
+     3309.0,
+     "https://www.carrefour.com.ar/limpiador-multisuperficie-cif-flores-de-lavanda-ultra-brillo-doypack-380-ml-727979/p"
+    ],
+    "Jumbo": [
+     3400.0,
+     "https://www.jumbo.com.ar/limpiador-multisuperficies-flores-de-lavanda-ultra-brillo-380-ml-doypack-cif/p"
+    ],
+    "Comodín": [
+     1758.31,
+     "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavanda-dp-380ml/p"
+    ],
+    "ChangoMás": [
+     3439.0,
+     "https://www.masonline.com.ar/lustramuebles-cif-multiespacios-lavanda-380ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mini Alfajores Mousse 19 Gr X 6 Un Milka",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/855501/Mini-Alfajores-Mousse-X-114-Gr-Milka-1-1020216.jpg?v=638749822402230000",
+   "cadena": "Carrefour",
+   "precio": 2328.0,
+   "link": "https://www.carrefour.com.ar/mini-alfajor-milka-mousse-x6-19-grs-744649/p",
+   "referencia": 3880.0,
+   "precio_2da": 4100.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 43.2,
+   "score": 1729,
+   "pr": {
+    "Vea": [
+     4190.0,
+     "https://www.vea.com.ar/mini-alfajores-mousse-19-gr-x-6-un-milka/p"
+    ],
+    "Jumbo": [
+     4100.0,
+     "https://www.jumbo.com.ar/mini-alfajores-mousse-19-gr-x-6-un-milka/p"
+    ],
+    "Carrefour": [
+     2328.0,
+     "https://www.carrefour.com.ar/mini-alfajor-milka-mousse-x6-19-grs-744649/p"
     ]
    }
   },
@@ -968,64 +937,6 @@
    }
   },
   {
-   "n": "Fideos spaghettoni Barilla n7 500 g.",
-   "m": "Barilla",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/888580/8076808150072_02.jpg?v=639162789870100000",
-   "cadena": "Vea",
-   "precio": 4868.5,
-   "link": "https://www.vea.com.ar/fideos-spaghettoni-barilla-500-gr/p",
-   "referencia": 7490.0,
-   "precio_2da": 9169.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.9,
-   "score": 1642,
-   "pr": {
-    "Carrefour": [
-     9169.0,
-     "https://www.carrefour.com.ar/fideos-spaghettoni-barilla-n7-500-g/p"
-    ],
-    "Vea": [
-     4868.5,
-     "https://www.vea.com.ar/fideos-spaghettoni-barilla-500-gr/p"
-    ],
-    "Jumbo": [
-     9400.0,
-     "https://www.jumbo.com.ar/fideos-spaghettoni-barilla-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Multisuperficies Ultra Brillo Flores de Lavanda 380 Ml Cif",
-   "m": "CIF",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/802804/Limpiador-Cif-Ultra-Brillo-Multisuperficies-Dp-380ml-1-997404.jpg?v=638375618072300000",
-   "cadena": "Comodín",
-   "precio": 1758.31,
-   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavanda-dp-380ml/p",
-   "referencia": 2705.09,
-   "precio_2da": 3309.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.9,
-   "score": 1640,
-   "pr": {
-    "Jumbo": [
-     3400.0,
-     "https://www.jumbo.com.ar/limpiador-multisuperficies-flores-de-lavanda-ultra-brillo-380-ml-doypack-cif/p"
-    ],
-    "Comodín": [
-     1758.31,
-     "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavanda-dp-380ml/p"
-    ],
-    "ChangoMás": [
-     3439.0,
-     "https://www.masonline.com.ar/lustramuebles-cif-multiespacios-lavanda-380ml-2/p"
-    ],
-    "Carrefour": [
-     3309.0,
-     "https://www.carrefour.com.ar/limpiador-multisuperficie-cif-flores-de-lavanda-ultra-brillo-doypack-380-ml-727979/p"
-    ]
-   }
-  },
-  {
    "n": "Arroz parboil Gallo oro en bolsa 1 kg",
    "m": "Gallo",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914063/7790070431417_01.jpg?v=639222245608070000",
@@ -1084,6 +995,33 @@
     "Comodín": [
      1461.99,
      "https://www.comodinencasa.com.ar/maiz-pisado-blanco-la-espanola-x-400gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Sabor Mousse 252 Grs x 6 Un Milka",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775568/Alfajor-Simple-Milka-Mousse-6ux42g-1-18747.jpg?v=638163166382270000",
+   "cadena": "Carrefour",
+   "precio": 5571.0,
+   "link": "https://www.carrefour.com.ar/alfajor-milka-mousse-42-g-display-6-uni-528728/p",
+   "referencia": 9285.0,
+   "precio_2da": 8990.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1521,
+   "pr": {
+    "Vea": [
+     8990.0,
+     "https://www.vea.com.ar/alfajor-milka-simple-mousse-42-gr-display-6-u/p"
+    ],
+    "Jumbo": [
+     9050.0,
+     "https://www.jumbo.com.ar/alfajor-milka-simple-mousse-42-gr-display-6-u/p"
+    ],
+    "Carrefour": [
+     5571.0,
+     "https://www.carrefour.com.ar/alfajor-milka-mousse-42-g-display-6-uni-528728/p"
     ]
    }
   },
