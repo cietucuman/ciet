@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-19",
- "actualizado": "2026-10-19 03:42",
+ "actualizado": "2026-10-19 17:30",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -19,7 +19,7 @@
   "2026-10-17",
   "2026-10-19"
  ],
- "total": 33,
+ "total": 27,
  "ofertas": [
   {
    "n": "Jabón de tocador Protex Cream 125 grs",
@@ -76,6 +76,37 @@
    }
   },
   {
+   "n": "Desodorante en Aerosol Axe Musk 150 ml",
+   "m": "Axe",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928434/7791293043807_01.jpg?v=639243999269700000",
+   "cadena": "Jumbo",
+   "precio": 1470.0,
+   "link": "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-150-ml-axe/p",
+   "referencia": 3185.0,
+   "precio_2da": 3367.5,
+   "baja_pct": 53.8,
+   "brecha_pct": 56.3,
+   "score": 3034,
+   "pr": {
+    "Carrefour": [
+     3367.5,
+     "https://www.carrefour.com.ar/desodorante-en-aerosol-axe-musk-150-ml-699110/p"
+    ],
+    "Jumbo": [
+     1470.0,
+     "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-150-ml-axe/p"
+    ],
+    "Comodín": [
+     3606.79,
+     "https://www.comodinencasa.com.ar/deo-axe-musk-96-gr/p"
+    ],
+    "ChangoMás": [
+     4929.0,
+     "https://www.masonline.com.ar/desodoreante-axe-musk-150ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Agua mineral sin gas bajo sodio Ser 1.5 lts",
    "m": "Ser",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821993/7799155001668_01.jpg?v=639083181616230000",
@@ -103,33 +134,33 @@
    }
   },
   {
-   "n": "Desodorante en Aerosol Axe Musk 150 ml",
-   "m": "Axe",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928434/7791293043807_01.jpg?v=639243999269700000",
-   "cadena": "Jumbo",
-   "precio": 1470.0,
-   "link": "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-150-ml-axe/p",
-   "referencia": 3185.0,
-   "precio_2da": 2699.0,
-   "baja_pct": 53.8,
-   "brecha_pct": 45.5,
-   "score": 2452,
+   "n": "Protectores Diarios Always Xtra Diarios Sin Perfume 40 Unidades",
+   "m": "Always",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903437/7500435233057_01.jpg?v=639197285325430000",
+   "cadena": "Comodín",
+   "precio": 3623.57,
+   "link": "https://www.comodinencasa.com.ar/protector-always-s-aroma-40un/p",
+   "referencia": 6039.29,
+   "precio_2da": 8389.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 56.8,
+   "score": 2272,
    "pr": {
     "Carrefour": [
-     3367.5,
-     "https://www.carrefour.com.ar/desodorante-en-aerosol-axe-musk-150-ml-699110/p"
+     8949.0,
+     "https://www.carrefour.com.ar/protectores-diarios-always-xtra-diarios-sin-perfume-40-unidades-726090/p"
     ],
     "Jumbo": [
-     1470.0,
-     "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-150-ml-axe/p"
-    ],
-    "Comodín": [
-     2699.0,
-     "https://www.comodinencasa.com.ar/deo-axe-musk-96-gr/p"
+     9450.0,
+     "https://www.jumbo.com.ar/protectores-diarios-locion-sin-perfume-40-un-always/p"
     ],
     "ChangoMás": [
-     4929.0,
-     "https://www.masonline.com.ar/desodoreante-axe-musk-150ml-2/p"
+     8389.0,
+     "https://www.masonline.com.ar/protectores-diarios-always-locion-sin-perfume-40un-2/p"
+    ],
+    "Comodín": [
+     3623.57,
+     "https://www.comodinencasa.com.ar/protector-always-s-aroma-40un/p"
     ]
    }
   },
@@ -161,6 +192,33 @@
    }
   },
   {
+   "n": "Agua Saborizada Villa Del Sur Levite Manzana Sin Gas 500 Ml",
+   "m": "Levite",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833865/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-500-Ml-1-469084.jpg?v=638615902346430000",
+   "cadena": "Carrefour",
+   "precio": 903.5,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p",
+   "referencia": 1390.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 58.7,
+   "score": 2056,
+   "pr": {
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
+    ],
+    "Jumbo": [
+     2200.0,
+     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
+    ],
+    "Carrefour": [
+     903.5,
+     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Liso Coco Hidratación y Frizz 200 Ml Fructis",
    "m": "FRUCTIS",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807221/Shampoo-Fructis-Liso-Coco-200ml-1-999758.jpg?v=638410270052930000",
@@ -184,6 +242,37 @@
     "Carrefour": [
      2924.35,
      "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua Saborizada Sin Gas Sabor Manzana 1.5 Lts Levite",
+   "m": "Levite",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833858/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-1-5-L-1-468986.jpg?v=638615902312470000",
+   "cadena": "Carrefour",
+   "precio": 1430.0,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p",
+   "referencia": 2200.0,
+   "precio_2da": 3190.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 55.2,
+   "score": 1931,
+   "pr": {
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
+    ],
+    "Jumbo": [
+     3200.0,
+     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
+    ],
+    "ChangoMás": [
+     3199.0,
+     "https://www.masonline.com.ar/agua-saborizada-manzana-levite-1-5-lt-2/p"
+    ],
+    "Carrefour": [
+     1430.0,
+     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p"
     ]
    }
   },
@@ -219,184 +308,33 @@
    }
   },
   {
-   "n": "Aperitivo con alcohol Dr Lemon Green Apple en botella 1 lt",
-   "m": "Dr Lemon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821321/7790950807257_01.jpg?v=639083181372500000",
+   "n": "Yogurt Sabor Natural Semidescremado 120 Grs La Serenisima",
+   "m": "LA SERENISIMA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/897454/Yogurt-Cremoso-Natural-120g-Nutrici-n-Activa-La-Seren-sima-1-1053800.jpg?v=639142839117630000",
    "cadena": "Comodín",
-   "precio": 2459.0,
-   "link": "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-green-1lt/p",
-   "referencia": 3945.79,
-   "precio_2da": 4749.0,
-   "baja_pct": 37.7,
-   "brecha_pct": 48.2,
-   "score": 1817,
+   "precio": 699.3,
+   "link": "https://www.comodinencasa.com.ar/yogur-ls-clasico-natural-s-azucar-120gg/p",
+   "referencia": 1075.89,
+   "precio_2da": 1390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 49.7,
+   "score": 1739,
    "pr": {
-    "Carrefour": [
-     4750.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-dr-lemon-green-apple-en-botella-1-lt-771535/p"
-    ],
-    "Comodín": [
-     2459.0,
-     "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-green-1lt/p"
-    ],
-    "ChangoMás": [
-     4749.0,
-     "https://www.masonline.com.ar/aperitivo-dr-lemon-vodka-greenapple-1l/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Chocolate Dadá 750 ml",
-   "m": "Dadá",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/240366/7791540049590_01.jpg?v=637848590993070000",
-   "cadena": "Comodín",
-   "precio": 4394.99,
-   "link": "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-n8-cho-x750cc/p",
-   "referencia": 6932.69,
-   "precio_2da": 8050.0,
-   "baja_pct": 36.6,
-   "brecha_pct": 45.4,
-   "score": 1662,
-   "pr": {
-    "Carrefour": [
-     8069.0,
-     "https://www.carrefour.com.ar/vino-tinto-dada-8-chocolate-750-cc/p"
-    ],
-    "Vea": [
-     8096.0,
-     "https://www.vea.com.ar/vino-dada-art-8-chocolat-750cc/p"
-    ],
     "Jumbo": [
-     8050.0,
-     "https://www.jumbo.com.ar/vino-dada-art-8-chocolat-750cc/p"
+     1500.0,
+     "https://www.jumbo.com.ar/yogur-cremoso-sabor-natural-120-grs-la-serenisima/p"
     ],
     "Comodín": [
-     4394.99,
-     "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-n8-cho-x750cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Aperitivo Dr. Lemon limón 1 l.",
-   "m": "Dr. Lemon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822844/7790950134100_02.jpg?v=639083181849900000",
-   "cadena": "Comodín",
-   "precio": 2459.0,
-   "link": "https://www.comodinencasa.com.ar/aperitivo-dr-lemon-limon-1lt/p",
-   "referencia": 3979.09,
-   "precio_2da": 4339.0,
-   "baja_pct": 38.2,
-   "brecha_pct": 43.3,
-   "score": 1655,
-   "pr": {
-    "Carrefour": [
-     4350.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-limon-dr-lemon-1-lt-622109/p"
-    ],
-    "Vea": [
-     4390.0,
-     "https://www.vea.com.ar/aperitivo-dr-lemon-con-limon-1-l/p"
-    ],
-    "Jumbo": [
-     4600.0,
-     "https://www.jumbo.com.ar/aperitivo-dr-lemon-con-limon-1-l/p"
-    ],
-    "Comodín": [
-     2459.0,
-     "https://www.comodinencasa.com.ar/aperitivo-dr-lemon-limon-1lt/p"
+     699.3,
+     "https://www.comodinencasa.com.ar/yogur-ls-clasico-natural-s-azucar-120gg/p"
     ],
     "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/aperitivo-limon-dr-lemon-1-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aperitivo Dr. Lemon mojito 1 l.",
-   "m": "Dr. Lemon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821553/7790950133691_01.jpg?v=639083181491570000",
-   "cadena": "Comodín",
-   "precio": 2459.0,
-   "link": "https://www.comodinencasa.com.ar/aperitivo-dr-mojito-by-dr-lemon-x-1lt/p",
-   "referencia": 3979.09,
-   "precio_2da": 4339.0,
-   "baja_pct": 38.2,
-   "brecha_pct": 43.3,
-   "score": 1655,
-   "pr": {
-    "Carrefour": [
-     4350.0,
-     "https://www.carrefour.com.ar/aperivito-con-alcohol-mojito-dr-lemon-1-lt-598964/p"
-    ],
-    "Jumbo": [
-     4750.0,
-     "https://www.jumbo.com.ar/aperitivo-mojito-1-l-dr-lemon/p"
-    ],
-    "Comodín": [
-     2459.0,
-     "https://www.comodinencasa.com.ar/aperitivo-dr-mojito-by-dr-lemon-x-1lt/p"
-    ],
-    "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/aperitivo-mojito-botella-dr-lemon-1-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aperitivo Dr. Lemon vodka 1 l.",
-   "m": "Dr. Lemon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821586/7790950131918_02.jpg?v=639083181504470000",
-   "cadena": "Comodín",
-   "precio": 2459.0,
-   "link": "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-x-1lt/p",
-   "referencia": 3979.09,
-   "precio_2da": 4339.0,
-   "baja_pct": 38.2,
-   "brecha_pct": 43.3,
-   "score": 1655,
-   "pr": {
-    "Carrefour": [
-     4350.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-vodka-dr-lemon-1-lt-586089/p"
-    ],
-    "Vea": [
-     4390.0,
-     "https://www.vea.com.ar/aperitivo-dr-lemon-con-vodka-1-l/p"
-    ],
-    "Comodín": [
-     2459.0,
-     "https://www.comodinencasa.com.ar/aperitivo-c-vodka-dr-lemon-x-1lt/p"
-    ],
-    "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/aperitivo-vodka-dr-lemon-1lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Blanco Dulce Sabor Miel 750 Cc Dada",
-   "m": "DADA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/716921/Vino-Dada-6-Honey-750-Cc-1-257755.jpg?v=637975785741130000",
-   "cadena": "Comodín",
-   "precio": 4394.99,
-   "link": "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-honey-750cc/p",
-   "referencia": 6932.69,
-   "precio_2da": 7989.0,
-   "baja_pct": 36.6,
-   "brecha_pct": 45.0,
-   "score": 1647,
-   "pr": {
-    "Vea": [
-     7990.0,
-     "https://www.vea.com.ar/vino-dada-art-6-honey-750cc/p"
-    ],
-    "Comodín": [
-     4394.99,
-     "https://www.comodinencasa.com.ar/vino-finca-las-moras-dada-honey-750cc/p"
+     1409.0,
+     "https://www.masonline.com.ar/yogur-la-serenisima-nutricion-activa-natural-sin-azucar-120-g/p"
     ],
     "Carrefour": [
-     7989.0,
-     "https://www.carrefour.com.ar/vino-blanco-chardonnay-dulce-huelga-de-amores-750-ml-710176/p"
+     1390.0,
+     "https://www.carrefour.com.ar/yogur-cremoso-sabor-natural-la-serenisima-nutricion-activa-120-grs-772811/p"
     ]
    }
   },
@@ -428,33 +366,6 @@
    }
   },
   {
-   "n": "Queso fundido Adler salame 100 g",
-   "m": "Adler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346197/7791564012525_E01.jpg?v=638234617853270000",
-   "cadena": "Carrefour",
-   "precio": 1754.35,
-   "link": "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p",
-   "referencia": 2699.0,
-   "precio_2da": 3300.99,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.9,
-   "score": 1640,
-   "pr": {
-    "Carrefour": [
-     1754.35,
-     "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p"
-    ],
-    "Comodín": [
-     3300.99,
-     "https://www.comodinencasa.com.ar/queso-adler-salame-x-100-gr/p"
-    ],
-    "ChangoMás": [
-     3389.0,
-     "https://www.masonline.com.ar/queso-fundido-salame-adler-100gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Queso fundido Adler fontina 100 g",
    "m": "Adler",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346196/7791564012501_E01.jpg?v=638234617306900000",
@@ -471,13 +382,13 @@
      1754.35,
      "https://www.carrefour.com.ar/queso-fundido-adler-fontina-100-g/p"
     ],
-    "Comodín": [
-     3300.99,
-     "https://www.comodinencasa.com.ar/queso-adler-fontina-x-100-gr/p"
-    ],
     "ChangoMás": [
      3389.0,
      "https://www.masonline.com.ar/queso-fundido-fontina-adler-100gr-2/p"
+    ],
+    "Comodín": [
+     3300.99,
+     "https://www.comodinencasa.com.ar/queso-adler-fontina-x-100-gr/p"
     ]
    }
   },
@@ -571,72 +482,6 @@
     "ChangoMás": [
      11889.0,
      "https://www.masonline.com.ar/acondicionador-pantene-pro-v-3-minute-miracle-nutri-perlas-170ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental Sensodyne original 90 g.",
-   "m": "Sensodyne",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383034/7896009419324_01.jpg?v=638315924474230000",
-   "cadena": "Jumbo",
-   "precio": 3250.0,
-   "link": "https://www.jumbo.com.ar/pasta-dental-sensodyne-original-90-gr/p",
-   "referencia": 4875.0,
-   "precio_2da": 6179.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.4,
-   "score": 1580,
-   "pr": {
-    "Carrefour": [
-     6190.0,
-     "https://www.carrefour.com.ar/pasta-dental-sensodyne-original-90-g-434209/p"
-    ],
-    "Vea": [
-     6190.0,
-     "https://www.vea.com.ar/pasta-dental-sensodyne-original-90-gr/p"
-    ],
-    "Jumbo": [
-     3250.0,
-     "https://www.jumbo.com.ar/pasta-dental-sensodyne-original-90-gr/p"
-    ],
-    "ChangoMás": [
-     6179.0,
-     "https://www.masonline.com.ar/pasta-dental-original-sensodyne-90-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aperitivo Dr. Lemon red berry 1 l.",
-   "m": "Dr. Lemon",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/353161/7790950137804_01.jpg?v=638248542738800000",
-   "cadena": "Comodín",
-   "precio": 2459.0,
-   "link": "https://www.comodinencasa.com.ar/aperitivo-dr-lemon-red-berry-1lt/p",
-   "referencia": 3979.09,
-   "precio_2da": 4189.0,
-   "baja_pct": 38.2,
-   "brecha_pct": 41.3,
-   "score": 1578,
-   "pr": {
-    "Carrefour": [
-     4390.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-red-berry-dr-lemon-1-lt-661100/p"
-    ],
-    "Vea": [
-     4390.0,
-     "https://www.vea.com.ar/aperitivo-dr-lemon-red-berry-1-l/p"
-    ],
-    "Jumbo": [
-     4600.0,
-     "https://www.jumbo.com.ar/aperitivo-dr-lemon-red-berry-1-l/p"
-    ],
-    "Comodín": [
-     2459.0,
-     "https://www.comodinencasa.com.ar/aperitivo-dr-lemon-red-berry-1lt/p"
-    ],
-    "ChangoMás": [
-     4189.0,
-     "https://www.masonline.com.ar/aperitivo-red-berry-dr-lemon-1-lt-2/p"
     ]
    }
   },
@@ -757,37 +602,6 @@
    }
   },
   {
-   "n": "Desodorante antitranspirante Hinds Perfection roll on 60 g.",
-   "m": "Hinds",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/382920/7794640171239_01.jpg?v=638315923948400000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/desodorante-hinds-perfection-roll-on-60gr/p",
-   "referencia": 1987.5,
-   "precio_2da": 2490.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.8,
-   "score": 1560,
-   "pr": {
-    "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-hinds-perfection-roll-on-60-g-568957/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/desodorante-hinds-perfection-roll-on-60gr/p"
-    ],
-    "Comodín": [
-     2711.29,
-     "https://www.comodinencasa.com.ar/deo-hinds-perfection-roll-on-x-60-gr/p"
-    ],
-    "ChangoMás": [
-     2599.0,
-     "https://www.masonline.com.ar/desodorante-antit-perfection-hinds-60gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Desodorante antitranspirante Etiquet Active Protection roll on 60 g.",
    "m": "Etiquet",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/382926/7794640170164_01.jpg?v=638315923973030000",
@@ -854,37 +668,6 @@
    }
   },
   {
-   "n": "Desodorante antitranspirante Hinds intra hidratante soft roll on 60 g.",
-   "m": "Hinds",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/382999/7794640171246_01.jpg?v=638315924335800000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/desodorante-hinds-intra-hidratante-soft-roll-on-60gr/p",
-   "referencia": 1987.5,
-   "precio_2da": 2490.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.8,
-   "score": 1560,
-   "pr": {
-    "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-hinds-intra-hidratante-soft-roll-on-60-g-566019/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/desodorante-hinds-intra-hidratante-soft-roll-on-60gr/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/desodorante-hinds-intra-hidratante-soft-roll-on-60gr/p"
-    ],
-    "Comodín": [
-     2711.29,
-     "https://www.comodinencasa.com.ar/deo-hinds-intra-hidrat-crema-soft-x60gr/p"
-    ]
-   }
-  },
-  {
    "n": "Café tostado molido super Cabrales 500 grs",
    "m": "Cabrales",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943853/7790550022258_01.jpg?v=639268271084930000",
@@ -912,33 +695,56 @@
    }
   },
   {
-   "n": "Acondicionador Anti Caida X 510 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/854210/Acondicionador-Anti-Caida-X-510-Ml-Pantene-1-1032403.jpg?v=638736753911600000",
-   "cadena": "Carrefour",
-   "precio": 9774.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p",
-   "referencia": 16290.0,
-   "precio_2da": 15851.65,
+   "n": "Chocolate Sabor Intense 162 Grs Cadbury",
+   "m": "CADBURY",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923960/7622201800505.jpg?v=639223211224700000",
+   "cadena": "Vea",
+   "precio": 8394.0,
+   "link": "https://www.vea.com.ar/chocolate-cadbury-intense-162-gr-2/p",
+   "referencia": 13990.0,
+   "precio_2da": 13579.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.3,
-   "score": 1534,
+   "brecha_pct": 38.2,
+   "score": 1527,
    "pr": {
     "Vea": [
-     17890.0,
-     "https://www.vea.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     19400.0,
-     "https://www.jumbo.com.ar/acondicionador-anti-caida-x-510-ml-pantene-2/p"
+     8394.0,
+     "https://www.vea.com.ar/chocolate-cadbury-intense-162-gr-2/p"
     ],
     "ChangoMás": [
-     15851.65,
-     "https://www.masonline.com.ar/acondicionador-pantene-anti-caida-510ml/p"
+     13579.0,
+     "https://www.masonline.com.ar/chocolate-cadbury-intense-162gr-2/p"
     ],
     "Carrefour": [
-     9774.0,
-     "https://www.carrefour.com.ar/acondicionador-antiquiebre-pantene-biotinamina-b3-para-cabello-fragil-y-quebradizo-510-ml-758034/p"
+     13990.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-intense-162-g-680433/p"
+    ]
+   }
+  },
+  {
+   "n": "Crema La serenisima larga vida 200 cc.",
+   "m": "La Serenísima",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834421/7790742141309_01.jpg?v=639102406164230000",
+   "cadena": "Carrefour",
+   "precio": 2148.25,
+   "link": "https://www.carrefour.com.ar/crema-la-serenisima-larga-vida-200-cc-644593/p",
+   "referencia": 3490.0,
+   "precio_2da": 3549.0,
+   "baja_pct": 38.4,
+   "brecha_pct": 39.5,
+   "score": 1517,
+   "pr": {
+    "Carrefour": [
+     2148.25,
+     "https://www.carrefour.com.ar/crema-la-serenisima-larga-vida-200-cc-644593/p"
+    ],
+    "Jumbo": [
+     3650.0,
+     "https://www.jumbo.com.ar/crema-uat-la-serenisima-batir-200ml/p"
+    ],
+    "ChangoMás": [
+     3549.0,
+     "https://www.masonline.com.ar/crema-de-leche-la-serenisima-uat-200cc-2/p"
     ]
    }
   },
@@ -970,9 +776,9 @@
    }
   },
   {
-   "n": "Pizza Sabor Mozzarella y Jamón Familiar x 1 Un 530 Grs Sibarita",
-   "m": "SIBARITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923130/7790070040046.jpg?v=639214545856430000",
+   "n": "Pizza de mozzarella y jamón Sibarita en caja 530 grs",
+   "m": "Sibarita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/938785/7790070040046_01.jpg?v=639257812317330000",
    "cadena": "Vea",
    "precio": 10554.0,
    "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p",
@@ -982,6 +788,10 @@
    "brecha_pct": 37.5,
    "score": 1502,
    "pr": {
+    "Carrefour": [
+     17579.0,
+     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
+    ],
     "Vea": [
      10554.0,
      "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
@@ -989,10 +799,6 @@
     "ChangoMás": [
      16899.0,
      "https://www.masonline.com.ar/pizza-sibarita-mozzarella-y-jamon-530-g-2/p"
-    ],
-    "Carrefour": [
-     17579.0,
-     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
     ]
    }
   }
