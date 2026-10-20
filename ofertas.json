@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-19",
- "actualizado": "2026-10-19 17:30",
+ "fecha": "2026-10-20",
+ "actualizado": "2026-10-20 07:45",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-09",
   "2026-10-10",
   "2026-10-11",
   "2026-10-12",
@@ -17,37 +16,11 @@
   "2026-10-14",
   "2026-10-15",
   "2026-10-17",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
- "total": 27,
+ "total": 23,
  "ofertas": [
-  {
-   "n": "Jabón de tocador Protex Cream 125 grs",
-   "m": "Protex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914306/7891024176719_02.jpg?v=639222318553100000",
-   "cadena": "Jumbo",
-   "precio": 615.0,
-   "link": "https://www.jumbo.com.ar/jabon-de-tocador-cream-125-grs-protex/p",
-   "referencia": 2050.0,
-   "precio_2da": 1290.25,
-   "baja_pct": 70.0,
-   "brecha_pct": 52.3,
-   "score": 3663,
-   "pr": {
-    "Carrefour": [
-     1290.25,
-     "https://www.carrefour.com.ar/jabon-de-tocador-protex-cream-125-grs-741714/p"
-    ],
-    "Jumbo": [
-     615.0,
-     "https://www.jumbo.com.ar/jabon-de-tocador-cream-125-grs-protex/p"
-    ],
-    "ChangoMás": [
-     2059.0,
-     "https://www.masonline.com.ar/jabon-antibacterial-protex-cream-x125gr-2/p"
-    ]
-   }
-  },
   {
    "n": "Agua mineral sin gas bajo sodio Ser 2.25 lts",
    "m": "Ser",
@@ -56,10 +29,10 @@
    "precio": 1200.0,
    "link": "https://www.carrefour.com.ar/agua-mineral-sin-gas-bajo-sodio-ser-225-lts-769224/p",
    "referencia": 3099.0,
-   "precio_2da": 2560.0,
+   "precio_2da": 2559.0,
    "baja_pct": 61.3,
    "brecha_pct": 53.1,
-   "score": 3255,
+   "score": 3254,
    "pr": {
     "Carrefour": [
      1200.0,
@@ -70,39 +43,8 @@
      "https://www.comodinencasa.com.ar/agua-mineral-ser-bajo-en-sodio-2-25lt/p"
     ],
     "ChangoMás": [
-     2560.0,
+     2559.0,
      "https://www.masonline.com.ar/agua-ser-baja-en-sodio-2-25-l/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante en Aerosol Axe Musk 150 ml",
-   "m": "Axe",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928434/7791293043807_01.jpg?v=639243999269700000",
-   "cadena": "Jumbo",
-   "precio": 1470.0,
-   "link": "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-150-ml-axe/p",
-   "referencia": 3185.0,
-   "precio_2da": 3367.5,
-   "baja_pct": 53.8,
-   "brecha_pct": 56.3,
-   "score": 3034,
-   "pr": {
-    "Carrefour": [
-     3367.5,
-     "https://www.carrefour.com.ar/desodorante-en-aerosol-axe-musk-150-ml-699110/p"
-    ],
-    "Jumbo": [
-     1470.0,
-     "https://www.jumbo.com.ar/desodorante-en-aerosol-musk-150-ml-axe/p"
-    ],
-    "Comodín": [
-     3606.79,
-     "https://www.comodinencasa.com.ar/deo-axe-musk-96-gr/p"
-    ],
-    "ChangoMás": [
-     4929.0,
-     "https://www.masonline.com.ar/desodoreante-axe-musk-150ml-2/p"
     ]
    }
   },
@@ -114,10 +56,10 @@
    "precio": 1200.0,
    "link": "https://www.carrefour.com.ar/agua-mineral-sin-gas-bajo-sodio-ser-15-lts-769225/p",
    "referencia": 2749.0,
-   "precio_2da": 2320.0,
+   "precio_2da": 2329.0,
    "baja_pct": 56.3,
-   "brecha_pct": 48.3,
-   "score": 2720,
+   "brecha_pct": 48.5,
+   "score": 2731,
    "pr": {
     "Carrefour": [
      1200.0,
@@ -128,7 +70,7 @@
      "https://www.comodinencasa.com.ar/agua-mineral-ser-bajo-en-sodio-1-5lt/p"
     ],
     "ChangoMás": [
-     2320.0,
+     2329.0,
      "https://www.masonline.com.ar/agua-ser-baja-en-sodio-1-5-l/p"
     ]
    }
@@ -165,6 +107,41 @@
    }
   },
   {
+   "n": "Alfajor Pepitos Triple 57g.",
+   "m": "PEPITOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/924008/11849102001.jpg?v=639223228035430000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
+   "referencia": 2569.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 51.4,
+   "brecha_pct": 42.9,
+   "score": 2206,
+   "pr": {
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/alfajor-pepitos-triple-57g/p"
+    ],
+    "Jumbo": [
+     2250.0,
+     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
+    ],
+    "Comodín": [
+     2983.79,
+     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
+    ],
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
+    ]
+   }
+  },
+  {
    "n": "Saborizada Levite Pera 500cc",
    "m": "Levite",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/620345/Agua-Saborizada-Villa-Del-Sur-Levite-Pera-Sin-Gas-500-Ml-1-469072.jpg?v=637466226677400000",
@@ -188,33 +165,6 @@
     "Carrefour": [
      903.5,
      "https://www.carrefour.com.ar/agua-saborizada-de-pera-levite-sin-gas-500-ml-733257/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Saborizada Villa Del Sur Levite Manzana Sin Gas 500 Ml",
-   "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833865/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-500-Ml-1-469084.jpg?v=638615902346430000",
-   "cadena": "Carrefour",
-   "precio": 903.5,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p",
-   "referencia": 1390.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 58.7,
-   "score": 2056,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
-    ],
-    "Jumbo": [
-     2200.0,
-     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
-    ],
-    "Carrefour": [
-     903.5,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p"
     ]
    }
   },
@@ -246,33 +196,33 @@
    }
   },
   {
-   "n": "Agua Saborizada Sin Gas Sabor Manzana 1.5 Lts Levite",
+   "n": "Saborizada Levite Naranja 500cc",
    "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833858/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-1-5-L-1-468986.jpg?v=638615902312470000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833854/Saborizada-Levite-Naranja-500cc-1-468853.jpg?v=638615902289370000",
    "cadena": "Carrefour",
-   "precio": 1430.0,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p",
-   "referencia": 2200.0,
-   "precio_2da": 3190.0,
+   "precio": 1007.5,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-500-ml-735266/p",
+   "referencia": 1550.0,
+   "precio_2da": 2190.0,
    "baja_pct": 35.0,
-   "brecha_pct": 55.2,
-   "score": 1931,
+   "brecha_pct": 54.0,
+   "score": 1890,
    "pr": {
     "Vea": [
-     3190.0,
-     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
+     2190.0,
+     "https://www.vea.com.ar/saborizada-levite-naranja-500cc/p"
     ],
     "Jumbo": [
-     3200.0,
-     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
+     2200.0,
+     "https://www.jumbo.com.ar/saborizada-levite-naranja-500cc/p"
     ],
     "ChangoMás": [
-     3199.0,
-     "https://www.masonline.com.ar/agua-saborizada-manzana-levite-1-5-lt-2/p"
+     2199.0,
+     "https://www.masonline.com.ar/agua-saborizada-naranja-levite-500cc-2/p"
     ],
     "Carrefour": [
-     1430.0,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p"
+     1007.5,
+     "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-500-ml-735266/p"
     ]
    }
   },
@@ -304,6 +254,126 @@
     "Comodín": [
      4787.19,
      "https://www.comodinencasa.com.ar/leche-condensada-nestle-tetra-395gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Triple Sabor Oreo 61 Grs Milka",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803263/Alfajor-Triple-Milka-Oreo-61g-1-42017.jpg?v=638379382598800000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p",
+   "referencia": 2179.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 42.7,
+   "brecha_pct": 42.9,
+   "score": 1832,
+   "pr": {
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/alfajor-triple-milka-oreo-61-gr/p"
+    ],
+    "Jumbo": [
+     2250.0,
+     "https://www.jumbo.com.ar/alfajor-triple-milka-oreo-61-gr/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p"
+    ],
+    "Carrefour": [
+     2190.0,
+     "https://www.carrefour.com.ar/alfajor-triple-milka-oreo-61-g-667747/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Triple 56 Gr Oreo",
+   "m": "OREO",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/933618/Alfajor-Triple-56-Gr-Oreo-1-1066286.jpg?v=639275133640230000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p",
+   "referencia": 2209.0,
+   "precio_2da": 2120.0,
+   "baja_pct": 43.4,
+   "brecha_pct": 41.1,
+   "score": 1784,
+   "pr": {
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/alfajor-triple-56-gr-oreo/p"
+    ],
+    "Jumbo": [
+     2450.0,
+     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+    ],
+    "Carrefour": [
+     2120.0,
+     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
+    ]
+   }
+  },
+  {
+   "n": "Leche Uat La Serenisima 3 200 Ml",
+   "m": "LA SERENISIMA BABY",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/863922/Leche-Uat-La-Serenisima-3-200-Ml-Leche-Uat-La-Serenisima-3-200ml-1-958495.jpg?v=638804145851330000",
+   "cadena": "ChangoMás",
+   "precio": 999.0,
+   "link": "https://www.masonline.com.ar/leche-infantil-la-serenisima-baby-3-200ml-2/p",
+   "referencia": 1729.0,
+   "precio_2da": 1729.0,
+   "baja_pct": 42.2,
+   "brecha_pct": 42.2,
+   "score": 1783,
+   "pr": {
+    "Jumbo": [
+     1800.0,
+     "https://www.jumbo.com.ar/leche-uat-la-serenisima-3-200-ml/p"
+    ],
+    "Carrefour": [
+     1729.0,
+     "https://www.carrefour.com.ar/leche-infantil-la-serenisima-baby-etapa-3-brick-200-ml-722993/p"
+    ],
+    "ChangoMás": [
+     999.0,
+     "https://www.masonline.com.ar/leche-infantil-la-serenisima-baby-3-200ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Sabor Dulce de Leche Blanco 70 Grs x 1 Un Milka",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/904202/Alfajor-Simple-Super-Dulce-De-Leche-Blanco-X-70-Grs-Milka-1-1056355.jpg?v=639111945812870000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p",
+   "referencia": 2199.0,
+   "precio_2da": 2119.0,
+   "baja_pct": 43.2,
+   "brecha_pct": 41.0,
+   "score": 1772,
+   "pr": {
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+    ],
+    "Jumbo": [
+     2250.0,
+     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
+    ],
+    "Carrefour": [
+     2119.0,
+     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
     ]
    }
   },
@@ -393,33 +463,68 @@
    }
   },
   {
-   "n": "Jabón de Tocador Antibacterial 3 en 1 90 Grs x 3 Un Nivea",
-   "m": "NIVEA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/800784/Jab-n-Humectante-Nivea-Antibacterial-3-En-1-3-X-90-G-1-1000113.jpg?v=638358321648530000",
-   "cadena": "Jumbo",
-   "precio": 3050.0,
-   "link": "https://www.jumbo.com.ar/jabon-humectante-antibacterial-3-en-1-90-grs-x-3-un-nivea/p",
-   "referencia": 4575.0,
-   "precio_2da": 5990.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 49.1,
-   "score": 1636,
+   "n": "Alfajor triple Milka mousse blanco 55 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915480/7622300457303_E01.jpg?v=639226791592970000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p",
+   "referencia": 2089.0,
+   "precio_2da": 2099.0,
+   "baja_pct": 40.2,
+   "brecha_pct": 40.5,
+   "score": 1626,
    "pr": {
+    "Carrefour": [
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
+    ],
     "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/jabon-humectante-antibacterial-3-en-1-90-grs-x-3-un-nivea/p"
+     2290.0,
+     "https://www.vea.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "Jumbo": [
-     3050.0,
-     "https://www.jumbo.com.ar/jabon-humectante-antibacterial-3-en-1-90-grs-x-3-un-nivea/p"
+     2402.0,
+     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "ChangoMás": [
-     6429.0,
-     "https://www.masonline.com.ar/jabon-humectante-nivea-antibacterial-3-en-1-3x90g-2/p"
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Alfajor Triple Sabor Mousse 55 Grs 1 Un Milka",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803261/Alfajor-Triple-Milka-Mousse-55g-1-37988.jpg?v=638379382591300000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p",
+   "referencia": 2089.0,
+   "precio_2da": 2099.0,
+   "baja_pct": 40.2,
+   "brecha_pct": 40.5,
+   "score": 1626,
+   "pr": {
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/alfajor-milka-triple-mousse-55-gr/p"
+    ],
+    "Jumbo": [
+     2402.0,
+     "https://www.jumbo.com.ar/alfajor-milka-triple-mousse-55-gr/p"
+    ],
+    "Comodín": [
+     2983.79,
+     "https://www.comodinencasa.com.ar/alfajor-milka-mousse-triple-55gr-2/p"
+    ],
+    "ChangoMás": [
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-triple-mousse-milka-55-gr-2/p"
     ],
     "Carrefour": [
-     5990.0,
-     "https://www.carrefour.com.ar/jabon-humectante-nivea-antibacterial-3-en-1-para-todo-tipo-de-piel-3-x-90-g-730412/p"
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-milka-triple-mousse-55-g-569705/p"
     ]
    }
   },
@@ -455,64 +560,6 @@
    }
   },
   {
-   "n": "Acondicionador 3 Minute Miracle Nutrición 170 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/844059/Acondicionador-Pantene-3-Minute-Miracle-Nutrici-n-170-Ml-1-1017662.jpg?v=638660722207200000",
-   "cadena": "Carrefour",
-   "precio": 6834.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-fortalecedor-diario-pantene-pro-v-3-minutos-milagrosos-nutricion-170-ml-741045/p",
-   "referencia": 11390.0,
-   "precio_2da": 11390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     11390.0,
-     "https://www.vea.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
-    ],
-    "Jumbo": [
-     12050.0,
-     "https://www.jumbo.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     6834.0,
-     "https://www.carrefour.com.ar/acondicionador-fortalecedor-diario-pantene-pro-v-3-minutos-milagrosos-nutricion-170-ml-741045/p"
-    ],
-    "ChangoMás": [
-     11889.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-pro-v-3-minute-miracle-nutri-perlas-170ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Crema Dental Extra Fresh X 140 Gr Sensodyne",
-   "m": "SENSODYNE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/837906/Crema-Dental-Sensodyne-Extr-Fresh-140g-Crema-Dental-Extra-Fresh-X-140-Gr-Sensodyne-1-1028218.jpg?v=638647978412300000",
-   "cadena": "Jumbo",
-   "precio": 5000.0,
-   "link": "https://www.jumbo.com.ar/crema-dental-extra-fresh-x-140-gr-sensodyne/p",
-   "referencia": 7500.0,
-   "precio_2da": 9490.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.3,
-   "score": 1577,
-   "pr": {
-    "Vea": [
-     9490.0,
-     "https://www.vea.com.ar/crema-dental-extra-fresh-x-140-gr-sensodyne/p"
-    ],
-    "Jumbo": [
-     5000.0,
-     "https://www.jumbo.com.ar/crema-dental-extra-fresh-x-140-gr-sensodyne/p"
-    ],
-    "Carrefour": [
-     9719.0,
-     "https://www.carrefour.com.ar/crema-dental-blanq-extra-fresh-sensodyne-140-g-745306/p"
-    ]
-   }
-  },
-  {
    "n": "Zorro Lavavajillas Limón 500 ml",
    "m": "Zorro",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776911/7790990999868_01.jpg?v=639005494222670000",
@@ -520,49 +567,22 @@
    "precio": 1676.35,
    "link": "https://www.carrefour.com.ar/zorro-lavavajillas-limon-500-ml-677336/p",
    "referencia": 2579.0,
-   "precio_2da": 3050.0,
+   "precio_2da": 3079.0,
    "baja_pct": 35.0,
-   "brecha_pct": 45.0,
-   "score": 1576,
+   "brecha_pct": 45.6,
+   "score": 1594,
    "pr": {
     "Carrefour": [
      1676.35,
      "https://www.carrefour.com.ar/zorro-lavavajillas-limon-500-ml-677336/p"
     ],
     "Jumbo": [
-     3050.0,
+     3350.0,
      "https://www.jumbo.com.ar/detergente-lavavajilas-limon-500-ml-zorro/p"
     ],
     "ChangoMás": [
      3079.0,
      "https://www.masonline.com.ar/lavavajillas-zorro-ultra-limon-500-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jabón de tocador Rexona sensible 120 g.",
-   "m": "Rexona",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541155/7791293050966_01.jpg?v=638566616448230000",
-   "cadena": "Jumbo",
-   "precio": 825.0,
-   "link": "https://www.jumbo.com.ar/jabon-de-tocador-sensible-120-grs-rexona/p",
-   "referencia": 1237.5,
-   "precio_2da": 1560.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.1,
-   "score": 1571,
-   "pr": {
-    "Carrefour": [
-     1560.0,
-     "https://www.carrefour.com.ar/jabon-de-tocador-rexona-sensible-120-g-744124/p"
-    ],
-    "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/jabon-de-tocador-sensible-120-grs-rexona/p"
-    ],
-    "Jumbo": [
-     825.0,
-     "https://www.jumbo.com.ar/jabon-de-tocador-sensible-120-grs-rexona/p"
     ]
    }
   },
@@ -602,72 +622,6 @@
    }
   },
   {
-   "n": "Desodorante antitranspirante Etiquet Active Protection roll on 60 g.",
-   "m": "Etiquet",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/382926/7794640170164_01.jpg?v=638315923973030000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/desodorante-active-protection-roll-on-60-gr-etiquet/p",
-   "referencia": 1987.5,
-   "precio_2da": 2490.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.8,
-   "score": 1560,
-   "pr": {
-    "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-etiquet-active-protection-roll-on-60-g-518006/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/desodorante-active-protection-roll-on-60-gr-etiquet/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/desodorante-active-protection-roll-on-60-gr-etiquet/p"
-    ],
-    "Comodín": [
-     2648.89,
-     "https://www.comodinencasa.com.ar/deo-etiquet-active-protection-x-60-gr/p"
-    ],
-    "ChangoMás": [
-     2579.0,
-     "https://www.masonline.com.ar/desodorante-active-protect-etiquet-60gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante antitranspirante Etiquet Blue Ice roll on 60 g.",
-   "m": "Etiquet",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383210/7794640630491_01.jpg?v=638315925309570000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/desodorante-blue-ice-roll-on-60-gr-etiquet/p",
-   "referencia": 1987.5,
-   "precio_2da": 2490.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.8,
-   "score": 1560,
-   "pr": {
-    "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/desodorante-antitranspirante-etiquet-blue-ice-roll-on-60-g-465280/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/desodorante-blue-ice-roll-on-60-gr-etiquet/p"
-    ],
-    "Comodín": [
-     2648.89,
-     "https://www.comodinencasa.com.ar/deo-etiquet-men-blue-ice-60-gr/p"
-    ],
-    "ChangoMás": [
-     2579.0,
-     "https://www.masonline.com.ar/desodorante-blue-ice-etiquet-60-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Café tostado molido super Cabrales 500 grs",
    "m": "Cabrales",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943853/7790550022258_01.jpg?v=639268271084930000",
@@ -691,60 +645,6 @@
     "ChangoMás": [
      33629.0,
      "https://www.masonline.com.ar/cafe-molido-cabrales-tostado-super-500g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Sabor Intense 162 Grs Cadbury",
-   "m": "CADBURY",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923960/7622201800505.jpg?v=639223211224700000",
-   "cadena": "Vea",
-   "precio": 8394.0,
-   "link": "https://www.vea.com.ar/chocolate-cadbury-intense-162-gr-2/p",
-   "referencia": 13990.0,
-   "precio_2da": 13579.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.2,
-   "score": 1527,
-   "pr": {
-    "Vea": [
-     8394.0,
-     "https://www.vea.com.ar/chocolate-cadbury-intense-162-gr-2/p"
-    ],
-    "ChangoMás": [
-     13579.0,
-     "https://www.masonline.com.ar/chocolate-cadbury-intense-162gr-2/p"
-    ],
-    "Carrefour": [
-     13990.0,
-     "https://www.carrefour.com.ar/chocolate-cadbury-intense-162-g-680433/p"
-    ]
-   }
-  },
-  {
-   "n": "Crema La serenisima larga vida 200 cc.",
-   "m": "La Serenísima",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834421/7790742141309_01.jpg?v=639102406164230000",
-   "cadena": "Carrefour",
-   "precio": 2148.25,
-   "link": "https://www.carrefour.com.ar/crema-la-serenisima-larga-vida-200-cc-644593/p",
-   "referencia": 3490.0,
-   "precio_2da": 3549.0,
-   "baja_pct": 38.4,
-   "brecha_pct": 39.5,
-   "score": 1517,
-   "pr": {
-    "Carrefour": [
-     2148.25,
-     "https://www.carrefour.com.ar/crema-la-serenisima-larga-vida-200-cc-644593/p"
-    ],
-    "Jumbo": [
-     3650.0,
-     "https://www.jumbo.com.ar/crema-uat-la-serenisima-batir-200ml/p"
-    ],
-    "ChangoMás": [
-     3549.0,
-     "https://www.masonline.com.ar/crema-de-leche-la-serenisima-uat-200cc-2/p"
     ]
    }
   },
