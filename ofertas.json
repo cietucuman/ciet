@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-20",
- "actualizado": "2026-10-20 07:45",
+ "fecha": "2026-10-21",
+ "actualizado": "2026-10-21 11:26",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-10",
   "2026-10-11",
   "2026-10-12",
   "2026-10-13",
@@ -17,64 +16,11 @@
   "2026-10-15",
   "2026-10-17",
   "2026-10-19",
-  "2026-10-20"
+  "2026-10-20",
+  "2026-10-21"
  ],
- "total": 23,
+ "total": 29,
  "ofertas": [
-  {
-   "n": "Agua mineral sin gas bajo sodio Ser 2.25 lts",
-   "m": "Ser",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/820955/7799155001675_01.jpg?v=639083181240870000",
-   "cadena": "Carrefour",
-   "precio": 1200.0,
-   "link": "https://www.carrefour.com.ar/agua-mineral-sin-gas-bajo-sodio-ser-225-lts-769224/p",
-   "referencia": 3099.0,
-   "precio_2da": 2559.0,
-   "baja_pct": 61.3,
-   "brecha_pct": 53.1,
-   "score": 3254,
-   "pr": {
-    "Carrefour": [
-     1200.0,
-     "https://www.carrefour.com.ar/agua-mineral-sin-gas-bajo-sodio-ser-225-lts-769224/p"
-    ],
-    "Comodín": [
-     3312.39,
-     "https://www.comodinencasa.com.ar/agua-mineral-ser-bajo-en-sodio-2-25lt/p"
-    ],
-    "ChangoMás": [
-     2559.0,
-     "https://www.masonline.com.ar/agua-ser-baja-en-sodio-2-25-l/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua mineral sin gas bajo sodio Ser 1.5 lts",
-   "m": "Ser",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821993/7799155001668_01.jpg?v=639083181616230000",
-   "cadena": "Carrefour",
-   "precio": 1200.0,
-   "link": "https://www.carrefour.com.ar/agua-mineral-sin-gas-bajo-sodio-ser-15-lts-769225/p",
-   "referencia": 2749.0,
-   "precio_2da": 2329.0,
-   "baja_pct": 56.3,
-   "brecha_pct": 48.5,
-   "score": 2731,
-   "pr": {
-    "Carrefour": [
-     1200.0,
-     "https://www.carrefour.com.ar/agua-mineral-sin-gas-bajo-sodio-ser-15-lts-769225/p"
-    ],
-    "Comodín": [
-     3001.49,
-     "https://www.comodinencasa.com.ar/agua-mineral-ser-bajo-en-sodio-1-5lt/p"
-    ],
-    "ChangoMás": [
-     2329.0,
-     "https://www.masonline.com.ar/agua-ser-baja-en-sodio-1-5-l/p"
-    ]
-   }
-  },
   {
    "n": "Protectores Diarios Always Xtra Diarios Sin Perfume 40 Unidades",
    "m": "Always",
@@ -142,6 +88,37 @@
    }
   },
   {
+   "n": "Pasta dental Colgate máxima protección anticaries 90 grs",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847388/7891024134702_01.jpg?v=639116964169730000",
+   "cadena": "ChangoMás",
+   "precio": 1999.0,
+   "link": "https://www.masonline.com.ar/crema-dental-colgate-anticaries-original-x90gr-2/p",
+   "referencia": 3659.0,
+   "precio_2da": 3659.0,
+   "baja_pct": 45.4,
+   "brecha_pct": 45.4,
+   "score": 2058,
+   "pr": {
+    "Carrefour": [
+     3659.0,
+     "https://www.carrefour.com.ar/pasta-dental-colgate-maxima-proteccion-anticaries-90-grs-754973/p"
+    ],
+    "Vea": [
+     3890.0,
+     "https://www.vea.com.ar/pasta-dental-maxima-proteccion-anticaries-90-grs-colgate/p"
+    ],
+    "Jumbo": [
+     3900.0,
+     "https://www.jumbo.com.ar/pasta-dental-maxima-proteccion-anticaries-90-grs-colgate/p"
+    ],
+    "ChangoMás": [
+     1999.0,
+     "https://www.masonline.com.ar/crema-dental-colgate-anticaries-original-x90gr-2/p"
+    ]
+   }
+  },
+  {
    "n": "Saborizada Levite Pera 500cc",
    "m": "Levite",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/620345/Agua-Saborizada-Villa-Del-Sur-Levite-Pera-Sin-Gas-500-Ml-1-469072.jpg?v=637466226677400000",
@@ -169,122 +146,350 @@
    }
   },
   {
-   "n": "Shampoo Liso Coco Hidratación y Frizz 200 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807221/Shampoo-Fructis-Liso-Coco-200ml-1-999758.jpg?v=638410270052930000",
-   "cadena": "Carrefour",
-   "precio": 2924.35,
-   "link": "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p",
-   "referencia": 4499.0,
-   "precio_2da": 6589.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 55.6,
-   "score": 1947,
-   "pr": {
-    "Jumbo": [
-     6800.0,
-     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-200ml-3/p"
-    ],
-    "ChangoMás": [
-     6589.0,
-     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-200ml-2/p"
-    ],
-    "Carrefour": [
-     2924.35,
-     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-200-ml-728179/p"
-    ]
-   }
-  },
-  {
-   "n": "Saborizada Levite Naranja 500cc",
+   "n": "Agua Saborizada Villa Del Sur Levite Manzana Sin Gas 500 Ml",
    "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833854/Saborizada-Levite-Naranja-500cc-1-468853.jpg?v=638615902289370000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833865/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-500-Ml-1-469084.jpg?v=638615902346430000",
    "cadena": "Carrefour",
-   "precio": 1007.5,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-500-ml-735266/p",
-   "referencia": 1550.0,
+   "precio": 903.5,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p",
+   "referencia": 1390.0,
    "precio_2da": 2190.0,
    "baja_pct": 35.0,
-   "brecha_pct": 54.0,
-   "score": 1890,
+   "brecha_pct": 58.7,
+   "score": 2056,
    "pr": {
     "Vea": [
      2190.0,
-     "https://www.vea.com.ar/saborizada-levite-naranja-500cc/p"
+     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
     ],
     "Jumbo": [
      2200.0,
-     "https://www.jumbo.com.ar/saborizada-levite-naranja-500cc/p"
-    ],
-    "ChangoMás": [
-     2199.0,
-     "https://www.masonline.com.ar/agua-saborizada-naranja-levite-500cc-2/p"
+     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
     ],
     "Carrefour": [
-     1007.5,
-     "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-500-ml-735266/p"
+     903.5,
+     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p"
     ]
    }
   },
   {
-   "n": "Leche condensada Nestlé tetra 395 grs",
-   "m": "Nestlé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921385/8445291171138_E02.jpg?v=639238008308730000",
-   "cadena": "Jumbo",
-   "precio": 3000.0,
-   "link": "https://www.jumbo.com.ar/leche-condensada-organica-395-grs-nestle/p",
-   "referencia": 6000.0,
-   "precio_2da": 4787.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.3,
-   "score": 1867,
-   "pr": {
-    "Carrefour": [
-     5479.0,
-     "https://www.carrefour.com.ar/leche-condensada-nestle-tetra-395-grs-783851/p"
-    ],
-    "Jumbo": [
-     3000.0,
-     "https://www.jumbo.com.ar/leche-condensada-organica-395-grs-nestle/p"
-    ],
-    "ChangoMás": [
-     5479.0,
-     "https://www.masonline.com.ar/leche-condensada-nestle-395-g-2/p"
-    ],
-    "Comodín": [
-     4787.19,
-     "https://www.comodinencasa.com.ar/leche-condensada-nestle-tetra-395gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Triple Sabor Oreo 61 Grs Milka",
-   "m": "MILKA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803263/Alfajor-Triple-Milka-Oreo-61g-1-42017.jpg?v=638379382598800000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p",
-   "referencia": 2179.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 42.7,
-   "brecha_pct": 42.9,
-   "score": 1832,
+   "n": "Gomitas Monstruitos Sabor Frutal 30 Grs Mogul",
+   "m": "MOGUL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835253/11852343002.jpg?v=638623485931570000",
+   "cadena": "Vea",
+   "precio": 380.0,
+   "link": "https://www.vea.com.ar/pastillas-de-goma-fantasia-mogul-monstruitos-30-gr/p",
+   "referencia": 570.0,
+   "precio_2da": 899.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 57.7,
+   "score": 1924,
    "pr": {
     "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/alfajor-triple-milka-oreo-61-gr/p"
-    ],
-    "Jumbo": [
-     2250.0,
-     "https://www.jumbo.com.ar/alfajor-triple-milka-oreo-61-gr/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p"
+     380.0,
+     "https://www.vea.com.ar/pastillas-de-goma-fantasia-mogul-monstruitos-30-gr/p"
     ],
     "Carrefour": [
-     2190.0,
-     "https://www.carrefour.com.ar/alfajor-triple-milka-oreo-61-g-667747/p"
+     939.0,
+     "https://www.carrefour.com.ar/gomitas-mostruitos-mogul-haloween-30-g-747484/p"
+    ],
+    "ChangoMás": [
+     899.0,
+     "https://www.masonline.com.ar/gomitas-mogul-monstruitos-halloween-sabor-frutal-30-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua Saborizada Sin Gas Sabor Naranja 2.25 Lts Levite",
+   "m": "Levite",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833868/Saborizada-Levite-Naranja-2-25lt-1-469220.jpg?v=638615902359100000",
+   "cadena": "Carrefour",
+   "precio": 1513.85,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-225-lts-735264/p",
+   "referencia": 2329.0,
+   "precio_2da": 3229.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 53.1,
+   "score": 1859,
+   "pr": {
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/saborizada-levite-naranja-2-25lt/p"
+    ],
+    "Jumbo": [
+     3800.0,
+     "https://www.jumbo.com.ar/saborizada-levite-naranja-2-25lt/p"
+    ],
+    "ChangoMás": [
+     3229.0,
+     "https://www.masonline.com.ar/agua-saborizada-naranja-levite-2-25-lt-2/p"
+    ],
+    "Carrefour": [
+     1513.85,
+     "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-225-lts-735264/p"
+    ]
+   }
+  },
+  {
+   "n": "Gomitas Mogul Colimillos X30g",
+   "m": "MOGUL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/793585/Gomitas-Mogul-Colimillos-X30g-1-995100.jpg?v=638303242121470000",
+   "cadena": "Vea",
+   "precio": 400.0,
+   "link": "https://www.vea.com.ar/gomitas-mogul-colimillos-x30g/p",
+   "referencia": 600.0,
+   "precio_2da": 899.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 55.5,
+   "score": 1850,
+   "pr": {
+    "Vea": [
+     400.0,
+     "https://www.vea.com.ar/gomitas-mogul-colimillos-x30g/p"
+    ],
+    "Carrefour": [
+     939.0,
+     "https://www.carrefour.com.ar/gomitas-mogul-de-fruta-colmillo-halloween-30-g/p"
+    ],
+    "ChangoMás": [
+     899.0,
+     "https://www.masonline.com.ar/gomitas-mogul-colmillos-hw-30gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Arcor de manzana 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817843/7790580144142_E02.jpg?v=639082514621930000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p",
+   "referencia": 410.0,
+   "precio_2da": 389.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 41.4,
+   "score": 1837,
+   "pr": {
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-manzana-15-grs-750867/p"
+    ],
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-manzana-15g/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-manzana-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Arcor de ananá 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817830/7790580141516_E02.jpg?v=639082512636370000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-anana-x-15-gr/p",
+   "referencia": 410.0,
+   "precio_2da": 389.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 41.4,
+   "score": 1837,
+   "pr": {
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-anana-15-grs-750881/p"
+    ],
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-anana-x-15-gr/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-anana-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-anana-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo Arcor de naranja durazno 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817831/7790580141943_E02.jpg?v=639082512764070000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-durazno-x-15-gr/p",
+   "referencia": 410.0,
+   "precio_2da": 389.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 41.4,
+   "score": 1837,
+   "pr": {
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-durazno-15-grs-750877/p"
+    ],
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-durazno-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-durazno-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo En Polvo Arcor Naranja Dulce X 15 Gr",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
+   "referencia": 410.0,
+   "precio_2da": 389.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 41.4,
+   "score": 1837,
+   "pr": {
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
+    ],
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja y Mango 15 Grs Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835186/Jugo-En-Polvo-Arcor-Naranja-Manzana-15gr-1-1025851.jpg?v=638622057759570000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p",
+   "referencia": 410.0,
+   "precio_2da": 389.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 41.4,
+   "score": 1837,
+   "pr": {
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-mango-15-g/p"
+    ],
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-mango-15-grs-750885/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en Polvo Sabor Naranja 15 Grs Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835187/Jugo-En-Polvo-Arcor-Naranja-15gr-1-1025852.jpg?v=638622057762430000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
+   "referencia": 410.0,
+   "precio_2da": 389.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 41.4,
+   "score": 1837,
+   "pr": {
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+    ],
+    "ChangoMás": [
+     389.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-15-g/p"
+    ],
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+    ]
+   }
+  },
+  {
+   "n": "Dulce Extra Fruta Masseube Frambuesa 312gr",
+   "m": "MASSEUBE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916032/Dulce-Extra-Fruta-Masseube-Frambuesa-312gr-1-1058695.jpg?v=639155145757800000",
+   "cadena": "Jumbo",
+   "precio": 6510.0,
+   "link": "https://www.jumbo.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p",
+   "referencia": 13350.0,
+   "precio_2da": 10059.0,
+   "baja_pct": 51.2,
+   "brecha_pct": 35.3,
+   "score": 1808,
+   "pr": {
+    "Vea": [
+     10490.0,
+     "https://www.vea.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p"
+    ],
+    "Jumbo": [
+     6510.0,
+     "https://www.jumbo.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p"
+    ],
+    "ChangoMás": [
+     10059.0,
+     "https://www.masonline.com.ar/dulce-masseube-frambuesa-312g/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Ml Trivento",
+   "m": "TRIBU",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/780804/Vino-Tinto-Trivento-Reserva-Cabernet-Sauvignon-X-750-Cc-1-20520.jpg?v=638192649814570000",
+   "cadena": "ChangoMás",
+   "precio": 5499.0,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-triventu-tribu-reserva-750cc-2/p",
+   "referencia": 9499.0,
+   "precio_2da": 9595.0,
+   "baja_pct": 42.1,
+   "brecha_pct": 42.7,
+   "score": 1798,
+   "pr": {
+    "Vea": [
+     9850.0,
+     "https://www.vea.com.ar/trivento-reserva-cabernet-sauvignon-x-750-cc-2/p"
+    ],
+    "ChangoMás": [
+     5499.0,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-triventu-tribu-reserva-750cc-2/p"
+    ],
+    "Carrefour": [
+     9595.0,
+     "https://www.carrefour.com.ar/vino-tinto-trivento-cabernet-roble-750-cc-526158-526158/p"
     ]
    }
   },
@@ -320,128 +525,97 @@
    }
   },
   {
-   "n": "Leche Uat La Serenisima 3 200 Ml",
-   "m": "LA SERENISIMA BABY",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/863922/Leche-Uat-La-Serenisima-3-200-Ml-Leche-Uat-La-Serenisima-3-200ml-1-958495.jpg?v=638804145851330000",
-   "cadena": "ChangoMás",
-   "precio": 999.0,
-   "link": "https://www.masonline.com.ar/leche-infantil-la-serenisima-baby-3-200ml-2/p",
-   "referencia": 1729.0,
-   "precio_2da": 1729.0,
-   "baja_pct": 42.2,
-   "brecha_pct": 42.2,
-   "score": 1783,
-   "pr": {
-    "Jumbo": [
-     1800.0,
-     "https://www.jumbo.com.ar/leche-uat-la-serenisima-3-200-ml/p"
-    ],
-    "Carrefour": [
-     1729.0,
-     "https://www.carrefour.com.ar/leche-infantil-la-serenisima-baby-etapa-3-brick-200-ml-722993/p"
-    ],
-    "ChangoMás": [
-     999.0,
-     "https://www.masonline.com.ar/leche-infantil-la-serenisima-baby-3-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Sabor Dulce de Leche Blanco 70 Grs x 1 Un Milka",
+   "n": "Alfajor Triple Sabor Oreo 61 Grs Milka",
    "m": "MILKA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/904202/Alfajor-Simple-Super-Dulce-De-Leche-Blanco-X-70-Grs-Milka-1-1056355.jpg?v=639111945812870000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803263/Alfajor-Triple-Milka-Oreo-61g-1-42017.jpg?v=638379382598800000",
    "cadena": "ChangoMás",
    "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p",
-   "referencia": 2199.0,
-   "precio_2da": 2119.0,
-   "baja_pct": 43.2,
-   "brecha_pct": 41.0,
-   "score": 1772,
+   "link": "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p",
+   "referencia": 2179.0,
+   "precio_2da": 2120.0,
+   "baja_pct": 42.7,
+   "brecha_pct": 41.1,
+   "score": 1752,
    "pr": {
     "Vea": [
      2190.0,
-     "https://www.vea.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+     "https://www.vea.com.ar/alfajor-triple-milka-oreo-61-gr/p"
     ],
     "Jumbo": [
      2250.0,
-     "https://www.jumbo.com.ar/alfajor-simple-super-dulce-de-leche-blanco-x-70-grs-milka/p"
+     "https://www.jumbo.com.ar/alfajor-triple-milka-oreo-61-gr/p"
     ],
     "ChangoMás": [
      1249.5,
-     "https://www.masonline.com.ar/alfajor-milka-simple-super-dulce-de-leche-blanco-70-g/p"
+     "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p"
     ],
     "Carrefour": [
-     2119.0,
-     "https://www.carrefour.com.ar/alfajor-milka-super-dulce-de-leche-blanco-70-grs-777683/p"
+     2120.0,
+     "https://www.carrefour.com.ar/alfajor-triple-milka-oreo-61-g-667747/p"
     ]
    }
   },
   {
-   "n": "Yogurt Sabor Natural Semidescremado 120 Grs La Serenisima",
-   "m": "LA SERENISIMA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/897454/Yogurt-Cremoso-Natural-120g-Nutrici-n-Activa-La-Seren-sima-1-1053800.jpg?v=639142839117630000",
-   "cadena": "Comodín",
-   "precio": 699.3,
-   "link": "https://www.comodinencasa.com.ar/yogur-ls-clasico-natural-s-azucar-120gg/p",
-   "referencia": 1075.89,
-   "precio_2da": 1390.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 49.7,
-   "score": 1739,
+   "n": "Shampoo Pantene Detox 750m",
+   "m": "Pantene",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183985/43733_Shampoo Pantene Detox 750m.jpg?v=639260307811200000",
+   "cadena": "Carrefour",
+   "precio": 10734.0,
+   "link": "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-shampoo-detox-750-ml-723891/p",
+   "referencia": 18649.0,
+   "precio_2da": 17879.0,
+   "baja_pct": 42.4,
+   "brecha_pct": 40.0,
+   "score": 1696,
    "pr": {
-    "Jumbo": [
-     1500.0,
-     "https://www.jumbo.com.ar/yogur-cremoso-sabor-natural-120-grs-la-serenisima/p"
-    ],
     "Comodín": [
-     699.3,
-     "https://www.comodinencasa.com.ar/yogur-ls-clasico-natural-s-azucar-120gg/p"
+     17991.99,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-detox-750m/p"
     ],
     "ChangoMás": [
-     1409.0,
-     "https://www.masonline.com.ar/yogur-la-serenisima-nutricion-activa-natural-sin-azucar-120-g/p"
+     17879.0,
+     "https://www.masonline.com.ar/shampoo-pantene-detox-750ml-2/p"
     ],
     "Carrefour": [
-     1390.0,
-     "https://www.carrefour.com.ar/yogur-cremoso-sabor-natural-la-serenisima-nutricion-activa-120-grs-772811/p"
+     10734.0,
+     "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-shampoo-detox-750-ml-723891/p"
     ]
    }
   },
   {
-   "n": "Galletitas Toddy con chips de chocolate 126 g.",
-   "m": "Toddy",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924122/7790380023432_02.jpg?v=639240559564630000",
+   "n": "Mini tostaditas Twistos de jamón 40 grs",
+   "m": "Twistos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905753/7790310987094_E01.jpg?v=639202557989400000",
    "cadena": "Carrefour",
-   "precio": 1513.85,
-   "link": "https://www.carrefour.com.ar/galletitas-toddy-con-chips-de-chocolate-126-g-720938/p",
-   "referencia": 2329.0,
-   "precio_2da": 2850.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.9,
-   "score": 1641,
+   "precio": 1439.4,
+   "link": "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p",
+   "referencia": 2399.0,
+   "precio_2da": 2490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 42.2,
+   "score": 1688,
    "pr": {
     "Carrefour": [
-     1513.85,
-     "https://www.carrefour.com.ar/galletitas-toddy-con-chips-de-chocolate-126-g-720938/p"
+     1439.4,
+     "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p"
     ],
     "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/galletitas-chips-de-chocolate-126-gr-toddy-2/p"
+     2490.0,
+     "https://www.vea.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
     ],
     "Jumbo": [
-     2850.0,
-     "https://www.jumbo.com.ar/galletitas-chips-de-chocolate-126-gr-toddy-2/p"
+     2500.0,
+     "https://www.jumbo.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
     ]
    }
   },
   {
-   "n": "Queso fundido Adler fontina 100 g",
+   "n": "Queso fundido Adler salame 100 g",
    "m": "Adler",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346196/7791564012501_E01.jpg?v=638234617306900000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346197/7791564012525_E01.jpg?v=638234617853270000",
    "cadena": "Carrefour",
    "precio": 1754.35,
-   "link": "https://www.carrefour.com.ar/queso-fundido-adler-fontina-100-g/p",
+   "link": "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p",
    "referencia": 2699.0,
    "precio_2da": 3300.99,
    "baja_pct": 35.0,
@@ -450,46 +624,15 @@
    "pr": {
     "Carrefour": [
      1754.35,
-     "https://www.carrefour.com.ar/queso-fundido-adler-fontina-100-g/p"
-    ],
-    "ChangoMás": [
-     3389.0,
-     "https://www.masonline.com.ar/queso-fundido-fontina-adler-100gr-2/p"
+     "https://www.carrefour.com.ar/queso-fundido-adler-salame-100-g/p"
     ],
     "Comodín": [
      3300.99,
-     "https://www.comodinencasa.com.ar/queso-adler-fontina-x-100-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor triple Milka mousse blanco 55 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915480/7622300457303_E01.jpg?v=639226791592970000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p",
-   "referencia": 2089.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 40.2,
-   "brecha_pct": 40.5,
-   "score": 1626,
-   "pr": {
-    "Carrefour": [
-     2099.0,
-     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
-    ],
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
-    ],
-    "Jumbo": [
-     2402.0,
-     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
+     "https://www.comodinencasa.com.ar/queso-adler-salame-x-100-gr/p"
     ],
     "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
+     3389.0,
+     "https://www.masonline.com.ar/queso-fundido-salame-adler-100gr-2/p"
     ]
    }
   },
@@ -507,7 +650,7 @@
    "score": 1626,
    "pr": {
     "Vea": [
-     2290.0,
+     2390.0,
      "https://www.vea.com.ar/alfajor-milka-triple-mousse-55-gr/p"
     ],
     "Jumbo": [
@@ -529,122 +672,184 @@
    }
   },
   {
-   "n": "Shampoo Pantene detox 200 cc.",
-   "m": "Pantene",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365030/7500435229845_02.jpg?v=638267697789070000",
-   "cadena": "Carrefour",
-   "precio": 4014.0,
-   "link": "https://www.carrefour.com.ar/shampoo-pantene-detox-200-cc-723889/p",
-   "referencia": 6690.0,
-   "precio_2da": 6759.99,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.6,
-   "score": 1625,
+   "n": "Jugo en polvo Arcor de limonada 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817841/7790580143527_E02.jpg?v=639082514290530000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p",
+   "referencia": 410.0,
+   "precio_2da": 359.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 36.5,
+   "score": 1620,
    "pr": {
     "Carrefour": [
-     4014.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-detox-200-cc-723889/p"
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-limonada-15-grs-750879/p"
     ],
     "Vea": [
-     7490.0,
-     "https://www.vea.com.ar/shampoo-detox-limpia-y-purifica-200-ml-pantene-2/p"
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
     ],
-    "Comodín": [
-     6759.99,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-detox-200ml/p"
+    "Jumbo": [
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-limonada-15g/p"
     ],
     "ChangoMás": [
-     7259.0,
-     "https://www.masonline.com.ar/shampoo-pantene-detox-200ml-2/p"
+     359.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-limonada-15-g/p"
     ]
    }
   },
   {
-   "n": "Zorro Lavavajillas Limón 500 ml",
-   "m": "Zorro",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776911/7790990999868_01.jpg?v=639005494222670000",
+   "n": "Acondicionador 3 Minute Miracle Nutrición 170 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/844059/Acondicionador-Pantene-3-Minute-Miracle-Nutrici-n-170-Ml-1-1017662.jpg?v=638660722207200000",
    "cadena": "Carrefour",
-   "precio": 1676.35,
-   "link": "https://www.carrefour.com.ar/zorro-lavavajillas-limon-500-ml-677336/p",
-   "referencia": 2579.0,
-   "precio_2da": 3079.0,
+   "precio": 6834.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-fortalecedor-diario-pantene-pro-v-3-minutos-milagrosos-nutricion-170-ml-741045/p",
+   "referencia": 11390.0,
+   "precio_2da": 11390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Vea": [
+     11390.0,
+     "https://www.vea.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
+    ],
+    "Jumbo": [
+     12050.0,
+     "https://www.jumbo.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
+    ],
+    "Carrefour": [
+     6834.0,
+     "https://www.carrefour.com.ar/acondicionador-fortalecedor-diario-pantene-pro-v-3-minutos-milagrosos-nutricion-170-ml-741045/p"
+    ],
+    "ChangoMás": [
+     11889.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-pro-v-3-minute-miracle-nutri-perlas-170ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua Saborizada Sin Gas Sabor Manzana 1.5 Lts Levite",
+   "m": "Levite",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833858/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-1-5-L-1-468986.jpg?v=638615902312470000",
+   "cadena": "Carrefour",
+   "precio": 1430.0,
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p",
+   "referencia": 2200.0,
+   "precio_2da": 2629.0,
    "baja_pct": 35.0,
    "brecha_pct": 45.6,
-   "score": 1594,
+   "score": 1596,
    "pr": {
-    "Carrefour": [
-     1676.35,
-     "https://www.carrefour.com.ar/zorro-lavavajillas-limon-500-ml-677336/p"
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
     ],
     "Jumbo": [
-     3350.0,
-     "https://www.jumbo.com.ar/detergente-lavavajilas-limon-500-ml-zorro/p"
+     3200.0,
+     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
     ],
     "ChangoMás": [
-     3079.0,
-     "https://www.masonline.com.ar/lavavajillas-zorro-ultra-limon-500-ml-2/p"
+     2629.0,
+     "https://www.masonline.com.ar/agua-saborizada-manzana-levite-1-5-lt-2/p"
+    ],
+    "Carrefour": [
+     1430.0,
+     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p"
     ]
    }
   },
   {
-   "n": "Café Torrado molido La planta de Café Cabrales 500 g.",
-   "m": "Cabrales",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943803/7790550000164_02.jpg?v=639268253541800000",
-   "cadena": "Carrefour",
-   "precio": 8141.25,
-   "link": "https://www.carrefour.com.ar/cafe-torrado-molido-la-planta-de-cafe-cabrales-500-g/p",
-   "referencia": 12525.0,
-   "precio_2da": 14766.99,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.9,
-   "score": 1570,
+   "n": "Toallitas Femeninas Xtra Noche Suave x 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791979/Always-Xtra-Triple-Protecci-n-Noche-Suave-8x12itsrp-Toa-Fem-Always-Xtra-Noche-Suave-8u-1-989512.jpg?v=638291901774930000",
+   "cadena": "Comodín",
+   "precio": 2830.09,
+   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noctunas-8un/p",
+   "referencia": 4204.79,
+   "precio_2da": 5390.0,
+   "baja_pct": 32.7,
+   "brecha_pct": 47.5,
+   "score": 1553,
    "pr": {
-    "Carrefour": [
-     8141.25,
-     "https://www.carrefour.com.ar/cafe-torrado-molido-la-planta-de-cafe-cabrales-500-g/p"
-    ],
     "Vea": [
-     15190.0,
-     "https://www.vea.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p"
+     5390.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p"
     ],
     "Jumbo": [
-     15750.0,
-     "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p"
+     5600.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p"
     ],
     "Comodín": [
-     14766.99,
-     "https://www.comodinencasa.com.ar/cafe-cabrales-torrado-80-aniversar-520gr/p"
+     2830.09,
+     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noctunas-8un/p"
     ],
-    "ChangoMás": [
-     16489.0,
-     "https://www.masonline.com.ar/cafe-molido-la-planta-de-cafe-torrado-500-gr-2/p"
+    "Carrefour": [
+     5390.0,
+     "https://www.carrefour.com.ar/always-xtra-suave-toallas-nocturnas-8-uni-726075/p"
     ]
    }
   },
   {
-   "n": "Café tostado molido super Cabrales 500 grs",
-   "m": "Cabrales",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943853/7790550022258_01.jpg?v=639268271084930000",
-   "cadena": "Carrefour",
-   "precio": 17738.5,
-   "link": "https://www.carrefour.com.ar/cafe-tostado-molido-super-cabrales-500-grs-706852/p",
-   "referencia": 27290.0,
-   "precio_2da": 31983.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.5,
-   "score": 1559,
+   "n": "Jugo en polvo Arcor de multifruta 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817836/7790580142490_E02.jpg?v=639082513555400000",
+   "cadena": "Vea",
+   "precio": 228.0,
+   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p",
+   "referencia": 410.0,
+   "precio_2da": 349.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 34.7,
+   "score": 1539,
    "pr": {
     "Carrefour": [
-     17738.5,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-super-cabrales-500-grs-706852/p"
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-multifruta-15-grs-750886/p"
+    ],
+    "Vea": [
+     228.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
     ],
     "Jumbo": [
-     31983.0,
-     "https://www.jumbo.com.ar/cafe-molido-cabrales-500-gr/p"
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-multifruta-15g/p"
     ],
     "ChangoMás": [
-     33629.0,
-     "https://www.masonline.com.ar/cafe-molido-cabrales-tostado-super-500g-2/p"
+     349.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-frutilla-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas Verdes en Rodajas 110 Grs Castell",
+   "m": "CASTELL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/845695/Aceituna-Verde-Rod-Castell-X-110-Dp-1-1029273.jpg?v=638669577965170000",
+   "cadena": "Jumbo",
+   "precio": 1500.0,
+   "link": "https://www.jumbo.com.ar/aceituna-verde-rodajas-castell-110-g-2/p",
+   "referencia": 2550.0,
+   "precio_2da": 2389.0,
+   "baja_pct": 41.2,
+   "brecha_pct": 37.2,
+   "score": 1532,
+   "pr": {
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
+    ],
+    "ChangoMás": [
+     2389.0,
+     "https://www.masonline.com.ar/aceitunas-verdes-castell-rodajas-110-g/p"
     ]
    }
   },
@@ -672,33 +877,6 @@
     "ChangoMás": [
      3047.4,
      "https://www.masonline.com.ar/aromatizante-tela-poett-huellitas-recarga-250ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Pizza de mozzarella y jamón Sibarita en caja 530 grs",
-   "m": "Sibarita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/938785/7790070040046_01.jpg?v=639257812317330000",
-   "cadena": "Vea",
-   "precio": 10554.0,
-   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p",
-   "referencia": 17590.0,
-   "precio_2da": 16899.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1502,
-   "pr": {
-    "Carrefour": [
-     17579.0,
-     "https://www.carrefour.com.ar/pizza-de-mozzarella-y-jamon-sibarita-en-caja-530-grs-752708/p"
-    ],
-    "Vea": [
-     10554.0,
-     "https://www.vea.com.ar/pizza-sibarita-mozzarella-y-jamon-x530g/p"
-    ],
-    "ChangoMás": [
-     16899.0,
-     "https://www.masonline.com.ar/pizza-sibarita-mozzarella-y-jamon-530-g-2/p"
     ]
    }
   }
