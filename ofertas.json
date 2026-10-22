@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-21",
- "actualizado": "2026-10-21 11:26",
+ "fecha": "2026-10-22",
+ "actualizado": "2026-10-22 05:12",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-11",
   "2026-10-12",
   "2026-10-13",
   "2026-10-14",
@@ -17,76 +16,11 @@
   "2026-10-17",
   "2026-10-19",
   "2026-10-20",
-  "2026-10-21"
+  "2026-10-21",
+  "2026-10-22"
  ],
- "total": 29,
+ "total": 21,
  "ofertas": [
-  {
-   "n": "Protectores Diarios Always Xtra Diarios Sin Perfume 40 Unidades",
-   "m": "Always",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903437/7500435233057_01.jpg?v=639197285325430000",
-   "cadena": "Comodín",
-   "precio": 3623.57,
-   "link": "https://www.comodinencasa.com.ar/protector-always-s-aroma-40un/p",
-   "referencia": 6039.29,
-   "precio_2da": 8389.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 56.8,
-   "score": 2272,
-   "pr": {
-    "Carrefour": [
-     8949.0,
-     "https://www.carrefour.com.ar/protectores-diarios-always-xtra-diarios-sin-perfume-40-unidades-726090/p"
-    ],
-    "Jumbo": [
-     9450.0,
-     "https://www.jumbo.com.ar/protectores-diarios-locion-sin-perfume-40-un-always/p"
-    ],
-    "ChangoMás": [
-     8389.0,
-     "https://www.masonline.com.ar/protectores-diarios-always-locion-sin-perfume-40un-2/p"
-    ],
-    "Comodín": [
-     3623.57,
-     "https://www.comodinencasa.com.ar/protector-always-s-aroma-40un/p"
-    ]
-   }
-  },
-  {
-   "n": "Alfajor Pepitos Triple 57g.",
-   "m": "PEPITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/924008/11849102001.jpg?v=639223228035430000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p",
-   "referencia": 2569.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 51.4,
-   "brecha_pct": 42.9,
-   "score": 2206,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/alfajor-pepitos-triple-57g/p"
-    ],
-    "Jumbo": [
-     2250.0,
-     "https://www.jumbo.com.ar/alfajor-pepitos-triple-57g/p"
-    ],
-    "Comodín": [
-     2983.79,
-     "https://www.comodinencasa.com.ar/alfajor-triple-pepitos-1un-x-57gr-2/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
-    ],
-    "Carrefour": [
-     2690.0,
-     "https://www.carrefour.com.ar/alfajor-pepitos-triples-57-g-569707/p"
-    ]
-   }
-  },
   {
    "n": "Pasta dental Colgate máxima protección anticaries 90 grs",
    "m": "Colgate",
@@ -119,141 +53,33 @@
    }
   },
   {
-   "n": "Saborizada Levite Pera 500cc",
-   "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/620345/Agua-Saborizada-Villa-Del-Sur-Levite-Pera-Sin-Gas-500-Ml-1-469072.jpg?v=637466226677400000",
-   "cadena": "Carrefour",
-   "precio": 903.5,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-pera-levite-sin-gas-500-ml-733257/p",
-   "referencia": 1390.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 58.7,
-   "score": 2056,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/saborizada-levite-pera-500cc/p"
-    ],
-    "Jumbo": [
-     2200.0,
-     "https://www.jumbo.com.ar/saborizada-levite-pera-500cc/p"
-    ],
-    "Carrefour": [
-     903.5,
-     "https://www.carrefour.com.ar/agua-saborizada-de-pera-levite-sin-gas-500-ml-733257/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Saborizada Villa Del Sur Levite Manzana Sin Gas 500 Ml",
-   "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833865/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-500-Ml-1-469084.jpg?v=638615902346430000",
-   "cadena": "Carrefour",
-   "precio": 903.5,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p",
-   "referencia": 1390.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 58.7,
-   "score": 2056,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
-    ],
-    "Jumbo": [
-     2200.0,
-     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-500-ml/p"
-    ],
-    "Carrefour": [
-     903.5,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-500-ml-727430/p"
-    ]
-   }
-  },
-  {
-   "n": "Gomitas Monstruitos Sabor Frutal 30 Grs Mogul",
-   "m": "MOGUL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835253/11852343002.jpg?v=638623485931570000",
-   "cadena": "Vea",
-   "precio": 380.0,
-   "link": "https://www.vea.com.ar/pastillas-de-goma-fantasia-mogul-monstruitos-30-gr/p",
-   "referencia": 570.0,
-   "precio_2da": 899.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 57.7,
-   "score": 1924,
-   "pr": {
-    "Vea": [
-     380.0,
-     "https://www.vea.com.ar/pastillas-de-goma-fantasia-mogul-monstruitos-30-gr/p"
-    ],
-    "Carrefour": [
-     939.0,
-     "https://www.carrefour.com.ar/gomitas-mostruitos-mogul-haloween-30-g-747484/p"
-    ],
-    "ChangoMás": [
-     899.0,
-     "https://www.masonline.com.ar/gomitas-mogul-monstruitos-halloween-sabor-frutal-30-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Saborizada Sin Gas Sabor Naranja 2.25 Lts Levite",
-   "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833868/Saborizada-Levite-Naranja-2-25lt-1-469220.jpg?v=638615902359100000",
-   "cadena": "Carrefour",
-   "precio": 1513.85,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-225-lts-735264/p",
+   "n": "Alfajor Triple Sabor Mousse Blanco 55 Grs Milka",
+   "m": "MILK",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803252/Alfajor-Triple-Milka-Mousse-Blanco-55g-1-24792.jpg?v=638379382556330000",
+   "cadena": "ChangoMás",
+   "precio": 1249.5,
+   "link": "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p",
    "referencia": 2329.0,
-   "precio_2da": 3229.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 53.1,
-   "score": 1859,
+   "precio_2da": 2099.0,
+   "baja_pct": 46.4,
+   "brecha_pct": 40.5,
+   "score": 1876,
    "pr": {
     "Vea": [
-     3690.0,
-     "https://www.vea.com.ar/saborizada-levite-naranja-2-25lt/p"
+     2390.0,
+     "https://www.vea.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "Jumbo": [
-     3800.0,
-     "https://www.jumbo.com.ar/saborizada-levite-naranja-2-25lt/p"
+     2402.0,
+     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
     ],
     "ChangoMás": [
-     3229.0,
-     "https://www.masonline.com.ar/agua-saborizada-naranja-levite-2-25-lt-2/p"
+     1249.5,
+     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
     ],
     "Carrefour": [
-     1513.85,
-     "https://www.carrefour.com.ar/agua-saborizada-de-naranja-levite-sin-gas-225-lts-735264/p"
-    ]
-   }
-  },
-  {
-   "n": "Gomitas Mogul Colimillos X30g",
-   "m": "MOGUL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/793585/Gomitas-Mogul-Colimillos-X30g-1-995100.jpg?v=638303242121470000",
-   "cadena": "Vea",
-   "precio": 400.0,
-   "link": "https://www.vea.com.ar/gomitas-mogul-colimillos-x30g/p",
-   "referencia": 600.0,
-   "precio_2da": 899.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 55.5,
-   "score": 1850,
-   "pr": {
-    "Vea": [
-     400.0,
-     "https://www.vea.com.ar/gomitas-mogul-colimillos-x30g/p"
-    ],
-    "Carrefour": [
-     939.0,
-     "https://www.carrefour.com.ar/gomitas-mogul-de-fruta-colmillo-halloween-30-g/p"
-    ],
-    "ChangoMás": [
-     899.0,
-     "https://www.masonline.com.ar/gomitas-mogul-colmillos-hw-30gr-2/p"
+     2099.0,
+     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
     ]
    }
   },
@@ -440,60 +266,6 @@
    }
   },
   {
-   "n": "Dulce Extra Fruta Masseube Frambuesa 312gr",
-   "m": "MASSEUBE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916032/Dulce-Extra-Fruta-Masseube-Frambuesa-312gr-1-1058695.jpg?v=639155145757800000",
-   "cadena": "Jumbo",
-   "precio": 6510.0,
-   "link": "https://www.jumbo.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p",
-   "referencia": 13350.0,
-   "precio_2da": 10059.0,
-   "baja_pct": 51.2,
-   "brecha_pct": 35.3,
-   "score": 1808,
-   "pr": {
-    "Vea": [
-     10490.0,
-     "https://www.vea.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p"
-    ],
-    "Jumbo": [
-     6510.0,
-     "https://www.jumbo.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p"
-    ],
-    "ChangoMás": [
-     10059.0,
-     "https://www.masonline.com.ar/dulce-masseube-frambuesa-312g/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Cabernet Sauvignon 750 Ml Trivento",
-   "m": "TRIBU",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/780804/Vino-Tinto-Trivento-Reserva-Cabernet-Sauvignon-X-750-Cc-1-20520.jpg?v=638192649814570000",
-   "cadena": "ChangoMás",
-   "precio": 5499.0,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-triventu-tribu-reserva-750cc-2/p",
-   "referencia": 9499.0,
-   "precio_2da": 9595.0,
-   "baja_pct": 42.1,
-   "brecha_pct": 42.7,
-   "score": 1798,
-   "pr": {
-    "Vea": [
-     9850.0,
-     "https://www.vea.com.ar/trivento-reserva-cabernet-sauvignon-x-750-cc-2/p"
-    ],
-    "ChangoMás": [
-     5499.0,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-triventu-tribu-reserva-750cc-2/p"
-    ],
-    "Carrefour": [
-     9595.0,
-     "https://www.carrefour.com.ar/vino-tinto-trivento-cabernet-roble-750-cc-526158-526158/p"
-    ]
-   }
-  },
-  {
    "n": "Alfajor Triple 56 Gr Oreo",
    "m": "OREO",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/933618/Alfajor-Triple-56-Gr-Oreo-1-1066286.jpg?v=639275133640230000",
@@ -525,91 +297,6 @@
    }
   },
   {
-   "n": "Alfajor Triple Sabor Oreo 61 Grs Milka",
-   "m": "MILKA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803263/Alfajor-Triple-Milka-Oreo-61g-1-42017.jpg?v=638379382598800000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p",
-   "referencia": 2179.0,
-   "precio_2da": 2120.0,
-   "baja_pct": 42.7,
-   "brecha_pct": 41.1,
-   "score": 1752,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/alfajor-triple-milka-oreo-61-gr/p"
-    ],
-    "Jumbo": [
-     2250.0,
-     "https://www.jumbo.com.ar/alfajor-triple-milka-oreo-61-gr/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-triple-milka-oreo-ddl-61gr-2/p"
-    ],
-    "Carrefour": [
-     2120.0,
-     "https://www.carrefour.com.ar/alfajor-triple-milka-oreo-61-g-667747/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Pantene Detox 750m",
-   "m": "Pantene",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183985/43733_Shampoo Pantene Detox 750m.jpg?v=639260307811200000",
-   "cadena": "Carrefour",
-   "precio": 10734.0,
-   "link": "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-shampoo-detox-750-ml-723891/p",
-   "referencia": 18649.0,
-   "precio_2da": 17879.0,
-   "baja_pct": 42.4,
-   "brecha_pct": 40.0,
-   "score": 1696,
-   "pr": {
-    "Comodín": [
-     17991.99,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-detox-750m/p"
-    ],
-    "ChangoMás": [
-     17879.0,
-     "https://www.masonline.com.ar/shampoo-pantene-detox-750ml-2/p"
-    ],
-    "Carrefour": [
-     10734.0,
-     "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-shampoo-detox-750-ml-723891/p"
-    ]
-   }
-  },
-  {
-   "n": "Mini tostaditas Twistos de jamón 40 grs",
-   "m": "Twistos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905753/7790310987094_E01.jpg?v=639202557989400000",
-   "cadena": "Carrefour",
-   "precio": 1439.4,
-   "link": "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p",
-   "referencia": 2399.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.2,
-   "score": 1688,
-   "pr": {
-    "Carrefour": [
-     1439.4,
-     "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
-    ],
-    "Jumbo": [
-     2500.0,
-     "https://www.jumbo.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
-    ]
-   }
-  },
-  {
    "n": "Queso fundido Adler salame 100 g",
    "m": "Adler",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/346197/7791564012525_E01.jpg?v=638234617853270000",
@@ -633,6 +320,33 @@
     "ChangoMás": [
      3389.0,
      "https://www.masonline.com.ar/queso-fundido-salame-adler-100gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Tresemme Liso Efecto Botox 250 Ml",
+   "m": "TRESEMMÉ",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/802919/Acondicionador-Tresemme-Liso-Efecto-Botox-250-Ml-1-1000571.jpg?v=638375620334470000",
+   "cadena": "Carrefour",
+   "precio": 4230.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p",
+   "referencia": 7050.0,
+   "precio_2da": 7159.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.9,
+   "score": 1637,
+   "pr": {
+    "Vea": [
+     7890.0,
+     "https://www.vea.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
+    ],
+    "ChangoMás": [
+     7159.0,
+     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
+    ],
+    "Carrefour": [
+     4230.0,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
     ]
    }
   },
@@ -703,43 +417,93 @@
    }
   },
   {
-   "n": "Acondicionador 3 Minute Miracle Nutrición 170 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/844059/Acondicionador-Pantene-3-Minute-Miracle-Nutrici-n-170-Ml-1-1017662.jpg?v=638660722207200000",
-   "cadena": "Carrefour",
-   "precio": 6834.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-fortalecedor-diario-pantene-pro-v-3-minutos-milagrosos-nutricion-170-ml-741045/p",
-   "referencia": 11390.0,
-   "precio_2da": 11390.0,
+   "n": "Crema corporal Hinds anti age lift 125 ml",
+   "m": "Hinds",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383158/7794640173141_01.jpg?v=638315925020270000",
+   "cadena": "ChangoMás",
+   "precio": 2561.4,
+   "link": "https://www.masonline.com.ar/crema-corporal-hinds-anti-age-plus125ml-2/p",
+   "referencia": 4269.0,
+   "precio_2da": 4269.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
-    "Vea": [
-     11390.0,
-     "https://www.vea.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
+    "Carrefour": [
+     4269.0,
+     "https://www.carrefour.com.ar/crema-corporal-hinds-anti-age-lift-125-ml-705000/p"
     ],
     "Jumbo": [
-     12050.0,
-     "https://www.jumbo.com.ar/acondicionador-3-minute-miracle-nutricion-170-ml-pantene-2/p"
-    ],
-    "Carrefour": [
-     6834.0,
-     "https://www.carrefour.com.ar/acondicionador-fortalecedor-diario-pantene-pro-v-3-minutos-milagrosos-nutricion-170-ml-741045/p"
+     4550.0,
+     "https://www.jumbo.com.ar/crema-corporal-hinds-anti-age-lift-125ml/p"
     ],
     "ChangoMás": [
-     11889.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-pro-v-3-minute-miracle-nutri-perlas-170ml/p"
+     2561.4,
+     "https://www.masonline.com.ar/crema-corporal-hinds-anti-age-plus125ml-2/p"
     ]
    }
   },
   {
-   "n": "Agua Saborizada Sin Gas Sabor Manzana 1.5 Lts Levite",
+   "n": "Cepillo dental Parodontax dientes & encias Suave 1 uni",
+   "m": "Parodontax",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383000/7794640171772_01.jpg?v=638315924336100000",
+   "cadena": "ChangoMás",
+   "precio": 4313.4,
+   "link": "https://www.masonline.com.ar/cepillo-dental-parodontax-proteccion-de-encias-1-u-2/p",
+   "referencia": 7189.0,
+   "precio_2da": 7189.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     7189.0,
+     "https://www.carrefour.com.ar/cepillo-dental-parodontax-dientes-y-encias-suave-1-uni-584245/p"
+    ],
+    "Jumbo": [
+     8550.0,
+     "https://www.jumbo.com.ar/cepillo-suave-1-un-parodontax/p"
+    ],
+    "ChangoMás": [
+     4313.4,
+     "https://www.masonline.com.ar/cepillo-dental-parodontax-proteccion-de-encias-1-u-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Crema Dental Protección Esmalte Niños 90 Grs Sensodyne",
+   "m": "SENSODYNE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/902554/13220104057.jpg?v=639102211452200000",
+   "cadena": "ChangoMás",
+   "precio": 4331.4,
+   "link": "https://www.masonline.com.ar/crema-dental-sensodyne-ninos-berry-twist-90-g/p",
+   "referencia": 7219.0,
+   "precio_2da": 7219.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Jumbo": [
+     7400.0,
+     "https://www.jumbo.com.ar/crema-dental-sensodyne-proesmalte-ninos-90gr/p"
+    ],
+    "Carrefour": [
+     7219.0,
+     "https://www.carrefour.com.ar/crema-dental-sensodyne-kids-proesmalte-90-grs-769236/p"
+    ],
+    "ChangoMás": [
+     4331.4,
+     "https://www.masonline.com.ar/crema-dental-sensodyne-ninos-berry-twist-90-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Agua Saborizada Sin Gas Sabor Pomelo 1.5 Lts Levite",
    "m": "Levite",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833858/Agua-Saborizada-Villa-Del-Sur-Levite-Manzana-Sin-Gas-1-5-L-1-468986.jpg?v=638615902312470000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/833853/Agua-Saborizada-Villa-Del-Sur-Levite-Pomelo-Sin-Gas-1-5-L-1-468798.jpg?v=638615902282370000",
    "cadena": "Carrefour",
    "precio": 1430.0,
-   "link": "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p",
+   "link": "https://www.carrefour.com.ar/agua-saborizada-de-pomelo-levite-sin-gas-15-lts-735709/p",
    "referencia": 2200.0,
    "precio_2da": 2629.0,
    "baja_pct": 35.0,
@@ -748,50 +512,19 @@
    "pr": {
     "Vea": [
      3190.0,
-     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
+     "https://www.vea.com.ar/agua-saborizada-villa-del-sur-levite-pomelo-sin-gas-1-5-l/p"
     ],
     "Jumbo": [
      3200.0,
-     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-manzana-sin-gas-1-5-l/p"
+     "https://www.jumbo.com.ar/agua-saborizada-villa-del-sur-levite-pomelo-sin-gas-1-5-l/p"
     ],
     "ChangoMás": [
      2629.0,
-     "https://www.masonline.com.ar/agua-saborizada-manzana-levite-1-5-lt-2/p"
+     "https://www.masonline.com.ar/agua-saborizada-pomelo-levite-1-5-lt-2/p"
     ],
     "Carrefour": [
      1430.0,
-     "https://www.carrefour.com.ar/agua-saborizada-de-manzana-levite-sin-gas-15-lts-465691/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Femeninas Xtra Noche Suave x 8 Un Always",
-   "m": "ALWAYS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791979/Always-Xtra-Triple-Protecci-n-Noche-Suave-8x12itsrp-Toa-Fem-Always-Xtra-Noche-Suave-8u-1-989512.jpg?v=638291901774930000",
-   "cadena": "Comodín",
-   "precio": 2830.09,
-   "link": "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noctunas-8un/p",
-   "referencia": 4204.79,
-   "precio_2da": 5390.0,
-   "baja_pct": 32.7,
-   "brecha_pct": 47.5,
-   "score": 1553,
-   "pr": {
-    "Vea": [
-     5390.0,
-     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p"
-    ],
-    "Jumbo": [
-     5600.0,
-     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-suave-noche-suave-8-un-always/p"
-    ],
-    "Comodín": [
-     2830.09,
-     "https://www.comodinencasa.com.ar/toalla-always-xtra-tri-prot-noctunas-8un/p"
-    ],
-    "Carrefour": [
-     5390.0,
-     "https://www.carrefour.com.ar/always-xtra-suave-toallas-nocturnas-8-uni-726075/p"
+     "https://www.carrefour.com.ar/agua-saborizada-de-pomelo-levite-sin-gas-15-lts-735709/p"
     ]
    }
   },
@@ -827,56 +560,87 @@
    }
   },
   {
-   "n": "Aceitunas Verdes en Rodajas 110 Grs Castell",
-   "m": "CASTELL",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/845695/Aceituna-Verde-Rod-Castell-X-110-Dp-1-1029273.jpg?v=638669577965170000",
+   "n": "Dulce Extra Fruta Masseube Frambuesa 312gr",
+   "m": "MASSEUBE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/916032/Dulce-Extra-Fruta-Masseube-Frambuesa-312gr-1-1058695.jpg?v=639155145757800000",
    "cadena": "Jumbo",
-   "precio": 1500.0,
-   "link": "https://www.jumbo.com.ar/aceituna-verde-rodajas-castell-110-g-2/p",
-   "referencia": 2550.0,
-   "precio_2da": 2389.0,
-   "baja_pct": 41.2,
-   "brecha_pct": 37.2,
-   "score": 1532,
+   "precio": 6510.0,
+   "link": "https://www.jumbo.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p",
+   "referencia": 11350.0,
+   "precio_2da": 10059.0,
+   "baja_pct": 42.6,
+   "brecha_pct": 35.3,
+   "score": 1505,
    "pr": {
     "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
+     10490.0,
+     "https://www.vea.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p"
     ],
     "Jumbo": [
-     1500.0,
-     "https://www.jumbo.com.ar/aceituna-verde-rodajas-castell-110-g-2/p"
+     6510.0,
+     "https://www.jumbo.com.ar/dulce-extra-fruta-masseube-frambuesa-312gr/p"
     ],
     "ChangoMás": [
-     2389.0,
-     "https://www.masonline.com.ar/aceitunas-verdes-castell-rodajas-110-g/p"
+     10059.0,
+     "https://www.masonline.com.ar/dulce-masseube-frambuesa-312g/p"
     ]
    }
   },
   {
-   "n": "Desodorante Poett Fragan Huellitas De Frescura Dp 250ml",
-   "m": "Poett",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183712/52930 Desod Poett Fragan H D Frescura Dp 250ml.jpg?v=639251856328100000",
+   "n": "Pasta dental Parodontax fluor 50 g.",
+   "m": "Parodontax",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383261/7896015527433_01.jpg?v=638315925774900000",
    "cadena": "ChangoMás",
-   "precio": 3047.4,
-   "link": "https://www.masonline.com.ar/aromatizante-tela-poett-huellitas-recarga-250ml/p",
-   "referencia": 5079.0,
-   "precio_2da": 4890.0,
+   "precio": 3911.4,
+   "link": "https://www.masonline.com.ar/crema-dental-parodontax-fluor-x50gr-2/p",
+   "referencia": 6519.0,
+   "precio_2da": 6265.0,
    "baja_pct": 40.0,
-   "brecha_pct": 37.7,
-   "score": 1507,
+   "brecha_pct": 37.6,
+   "score": 1503,
    "pr": {
-    "Comodín": [
-     5554.69,
-     "https://www.comodinencasa.com.ar/desod-poett-fragan-h-d-frescura-dp-250ml/p"
-    ],
     "Carrefour": [
-     4890.0,
-     "https://www.carrefour.com.ar/repuesto-aromatinzante-de-tela-poett-huellitas-de-frescura-250-ml-783933/p"
+     6265.0,
+     "https://www.carrefour.com.ar/pasta-dental-parodontax-fluor-50-g-539414/p"
+    ],
+    "Comodín": [
+     6392.89,
+     "https://www.comodinencasa.com.ar/crema-dental-parodontax-fluor-50gr/p"
     ],
     "ChangoMás": [
-     3047.4,
-     "https://www.masonline.com.ar/aromatizante-tela-poett-huellitas-recarga-250ml/p"
+     3911.4,
+     "https://www.masonline.com.ar/crema-dental-parodontax-fluor-x50gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta Dental Protección Completa Anti Sarro 90 Grs Sensodyne",
+   "m": "SENSODYNE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/837905/Crema-Dental-Sensodyne-Anti-Sarro-90gr-Crema-Dental-Anti-Sarro-X-90-Gr-Sensodyne-1-1028217.jpg?v=638647978410600000",
+   "cadena": "ChangoMás",
+   "precio": 5387.4,
+   "link": "https://www.masonline.com.ar/pasta-dental-sensodyne-proteccion-completa-antisarro-90gr/p",
+   "referencia": 8979.0,
+   "precio_2da": 8629.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1503,
+   "pr": {
+    "Vea": [
+     8990.0,
+     "https://www.vea.com.ar/crema-dental-anti-sarro-x-90-gr-sensodyne/p"
+    ],
+    "Jumbo": [
+     9200.0,
+     "https://www.jumbo.com.ar/crema-dental-anti-sarro-x-90-gr-sensodyne/p"
+    ],
+    "ChangoMás": [
+     5387.4,
+     "https://www.masonline.com.ar/pasta-dental-sensodyne-proteccion-completa-antisarro-90gr/p"
+    ],
+    "Carrefour": [
+     8629.0,
+     "https://www.carrefour.com.ar/crema-dental-prot-compplusantisarro-sensodyne-90-g-745307/p"
     ]
    }
   }
