@@ -1,6 +1,6 @@
 {
- "fecha": "2026-10-23",
- "actualizado": "2026-10-23 11:03",
+ "fecha": "2026-10-24",
+ "actualizado": "2026-10-24 08:29",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-13",
   "2026-10-14",
   "2026-10-15",
   "2026-10-17",
@@ -17,34 +16,39 @@
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
-  "2026-10-23"
+  "2026-10-23",
+  "2026-10-24"
  ],
- "total": 74,
+ "total": 107,
  "ofertas": [
   {
-   "n": "Chizitos de maíz sabor a queso Cheetos original 43 g",
-   "m": "Cheetos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904455/7790310985274_E01.jpg?v=639199032551170000",
-   "cadena": "Carrefour",
-   "precio": 1262.62,
-   "link": "https://www.carrefour.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-43-g-721301/p",
-   "referencia": 2590.0,
-   "precio_2da": 2590.0,
-   "baja_pct": 51.3,
-   "brecha_pct": 51.3,
-   "score": 2627,
+   "n": "Insecticida Max Moscas Mosquitos Aerosol 360 Ml Raid",
+   "m": "RAID",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/900199/Insecticida-Raid-Mata-Moscas-Y-Mosquitos-Nueva-F-rmula-X2-M-s-R-pido-En-Aerosol-360-Ml-1-891946.jpg?v=639174090849030000",
+   "cadena": "Vea",
+   "precio": 4970.0,
+   "link": "https://www.vea.com.ar/insecticida-moscas-mosquitos-aerosol-360-ml-raid/p",
+   "referencia": 11990.0,
+   "precio_2da": 11539.0,
+   "baja_pct": 58.5,
+   "brecha_pct": 56.9,
+   "score": 3333,
    "pr": {
-    "Carrefour": [
-     1262.62,
-     "https://www.carrefour.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-43-g-721301/p"
-    ],
     "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/chizitos-cheetos-original-43-g/p"
+     4970.0,
+     "https://www.vea.com.ar/insecticida-moscas-mosquitos-aerosol-360-ml-raid/p"
     ],
     "Jumbo": [
-     2650.0,
-     "https://www.jumbo.com.ar/chizitos-cheetos-original-43-g/p"
+     12250.0,
+     "https://www.jumbo.com.ar/insecticida-max-moscas-mosquitos-aerosol-360-ml-raid/p"
+    ],
+    "Comodín": [
+     12513.29,
+     "https://www.comodinencasa.com.ar/insecticida-raid-mmm-max-aero-360cc/p"
+    ],
+    "ChangoMás": [
+     11539.0,
+     "https://www.masonline.com.ar/mata-moscas-y-mosquitos-raid-max-10-horas-370-cc-2/p"
     ]
    }
   },
@@ -99,6 +103,33 @@
     "Jumbo": [
      1175.0,
      "https://www.jumbo.com.ar/alfajor-super-dulce-de-leche-x-36-grs-chocoarroz/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de Tocador Cotton Fresh 120 Grs Rexona",
+   "m": "REXONA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930198/Jabon-De-Tocador-Cotton-Fresh-120-Grs-Rexona-1-1018011.jpg?v=639252781844300000",
+   "cadena": "Vea",
+   "precio": 795.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-cotton-fresh-120-grs-rexona/p",
+   "referencia": 1590.0,
+   "precio_2da": 1639.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 51.5,
+   "score": 2575,
+   "pr": {
+    "Vea": [
+     795.0,
+     "https://www.vea.com.ar/jabon-de-tocador-cotton-fresh-120-grs-rexona/p"
+    ],
+    "Jumbo": [
+     1650.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-cotton-fresh-120-grs-rexona/p"
+    ],
+    "ChangoMás": [
+     1639.0,
+     "https://www.masonline.com.ar/jabon-de-tocador-rexona-cotton-fresh-120g-2/p"
     ]
    }
   },
@@ -285,6 +316,276 @@
    }
   },
   {
+   "n": "Jabón Líquido Hidrata y Purifica Jengibre 200 Ml Vn",
+   "m": "VN",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822355/Jab-n-Liq-Villeneuve-Jengi-H-p-Dp-200ml-1-1001972.jpg?v=638508232641370000",
+   "cadena": "Vea",
+   "precio": 1195.0,
+   "link": "https://www.vea.com.ar/jabon-liquido-jengibre-hidrata-purifica-doypack-200-ml-villeneuve/p",
+   "referencia": 2390.0,
+   "precio_2da": 2400.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.2,
+   "score": 2510,
+   "pr": {
+    "Vea": [
+     1195.0,
+     "https://www.vea.com.ar/jabon-liquido-jengibre-hidrata-purifica-doypack-200-ml-villeneuve/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/jabon-liquido-jengibre-hidrata-purifica-doypack-200-ml-villeneuve/p"
+    ],
+    "ChangoMás": [
+     2599.0,
+     "https://www.masonline.com.ar/jabon-liquido-vn-hidrata-y-purifica-200ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Rexona Bamboo 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923268/7791293050973_01.jpg?v=639240358379330000",
+   "cadena": "Vea",
+   "precio": 795.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-bamboo-120-grs-rexona/p",
+   "referencia": 1590.0,
+   "precio_2da": 1590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     1590.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-bamboo-120-grs-744125/p"
+    ],
+    "Vea": [
+     795.0,
+     "https://www.vea.com.ar/jabon-de-tocador-bamboo-120-grs-rexona/p"
+    ],
+    "Jumbo": [
+     1650.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-bamboo-120-grs-rexona/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Rexona Nutritive Orchid 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921738/7791293051000_01.jpg?v=639238731076030000",
+   "cadena": "Vea",
+   "precio": 795.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-nutrit-orchid-120-grs-rexona/p",
+   "referencia": 1590.0,
+   "precio_2da": 1590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     1590.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-nutritive-orchid-120-grs-744127/p"
+    ],
+    "Vea": [
+     795.0,
+     "https://www.vea.com.ar/jabon-de-tocador-nutrit-orchid-120-grs-rexona/p"
+    ],
+    "Jumbo": [
+     1650.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-nutrit-orchid-120-grs-rexona/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabon en Barra Dove Original Individual 90 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928321/7791293051208_01.jpg?v=639243989691670000",
+   "cadena": "Vea",
+   "precio": 1295.0,
+   "link": "https://www.vea.com.ar/jabon-en-barra-original-individual-90-grs-dove/p",
+   "referencia": 2590.0,
+   "precio_2da": 2590.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-dove-original-individual-90-grs-744131/p"
+    ],
+    "Vea": [
+     1295.0,
+     "https://www.vea.com.ar/jabon-en-barra-original-individual-90-grs-dove/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-en-barra-original-individual-90-grs-dove/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Rexona Bamboo Multipack x3 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921765/7791293050928_01.jpg?v=639238733111230000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-en-barra-bamboo-multipack-120-grs-x-3-un-rexona/p",
+   "referencia": 4290.0,
+   "precio_2da": 4290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     4290.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-bamboo-multipack-x3-120-grs-744121/p"
+    ],
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-en-barra-bamboo-multipack-120-grs-x-3-un-rexona/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/jabon-en-barra-bamboo-multipack-120-grs-x-3-un-rexona/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Rexona Sensible Multipack x3 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923284/7791293050911_01.jpg?v=639240359202130000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-sensible-120-grs-x-3-un-rexona/p",
+   "referencia": 4290.0,
+   "precio_2da": 4290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     4290.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-sensible-multipack-x3-120-grs-744120/p"
+    ],
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-de-tocador-sensible-120-grs-x-3-un-rexona/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-sensible-120-grs-x-3-un-rexona/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón Liquido Lux Manzanilla Doypack 220 ml",
+   "m": "Lux",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923301/7791293050775_01.jpg?v=639240360245570000",
+   "cadena": "Vea",
+   "precio": 1695.0,
+   "link": "https://www.vea.com.ar/jabon-liquido-glicerina-manzanilla-220-ml-lux/p",
+   "referencia": 3390.0,
+   "precio_2da": 3390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/jabon-liquido-lux-manzanilla-doypack-220-ml-740583/p"
+    ],
+    "Vea": [
+     1695.0,
+     "https://www.vea.com.ar/jabon-liquido-glicerina-manzanilla-220-ml-lux/p"
+    ],
+    "Jumbo": [
+     3600.0,
+     "https://www.jumbo.com.ar/jabon-liquido-glicerina-manzanilla-220-ml-lux/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón líquido Algabo green tea repuesto 300 cc.",
+   "m": "Algabo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308148/7791274196041_01.jpg?v=638140725058330000",
+   "cadena": "Vea",
+   "precio": 1095.0,
+   "link": "https://www.vea.com.ar/repuesto-jabon-liquido-green-tea-300-ml-algabo/p",
+   "referencia": 2190.0,
+   "precio_2da": 2190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     2190.0,
+     "https://www.carrefour.com.ar/jabon-liquido-algabo-green-tea-repuesto-300-cc/p"
+    ],
+    "Vea": [
+     1095.0,
+     "https://www.vea.com.ar/repuesto-jabon-liquido-green-tea-300-ml-algabo/p"
+    ],
+    "ChangoMás": [
+     2239.0,
+     "https://www.masonline.com.ar/jabon-liq-rep-green-tea-algabo-300-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Rexona Cotton Fresh Multipack x3 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921757/7791293050935_01.jpg?v=639238732622330000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-cotton-fresh-120-grs-x-3-un-rexona/p",
+   "referencia": 4290.0,
+   "precio_2da": 4290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     4290.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-cotton-fresh-multipack-x3-120-grs-744122/p"
+    ],
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-de-tocador-cotton-fresh-120-grs-x-3-un-rexona/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-cotton-fresh-120-grs-x-3-un-rexona/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Rexona Nutritive Orchid Multipack x3 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923276/7791293050959_01.jpg?v=639240358785130000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-nutrit-orchid-120-grs-x-3-un-rexona/p",
+   "referencia": 4290.0,
+   "precio_2da": 4290.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 50.0,
+   "score": 2500,
+   "pr": {
+    "Carrefour": [
+     4290.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-nutritive-orchid-multipack-x3-120-grs-744123/p"
+    ],
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-de-tocador-nutrit-orchid-120-grs-x-3-un-rexona/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-nutrit-orchid-120-grs-x-3-un-rexona/p"
+    ]
+   }
+  },
+  {
    "n": "Chocolate Milka relleno dulce de leche 135 g.",
    "m": "Milka",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914604/7622300846565_E01.jpg?v=639222480279670000",
@@ -339,6 +640,37 @@
     "ChangoMás": [
      12929.0,
      "https://www.masonline.com.ar/alfajor-chocoarroz-super-dulce-de-leche-6-u-216-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabon De Tocador Futbol Fanatics 120 Grs X 3 Un Rexona",
+   "m": "REXONA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930194/Jabon-De-Tocador-Futbol-Fanatics-120-Grs-X-3-Un-Rexona-1-1018007.jpg?v=639252781826830000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-futbol-fanatics-120-grs-x-3-un-rexona/p",
+   "referencia": 4290.0,
+   "precio_2da": 4279.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.9,
+   "score": 2494,
+   "pr": {
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-de-tocador-futbol-fanatics-120-grs-x-3-un-rexona/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-futbol-fanatics-120-grs-x-3-un-rexona/p"
+    ],
+    "ChangoMás": [
+     4279.0,
+     "https://www.masonline.com.ar/jabon-de-tocador-rexona-futbol-fanatics-x-3-x120gr-2/p"
+    ],
+    "Carrefour": [
+     4339.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-copa-del-mundo-de-la-fifa-2026-multipack-x3-120-grs-740529/p"
     ]
    }
   },
@@ -583,6 +915,64 @@
    }
   },
   {
+   "n": "Jabón en barra Rexona Copa del Mundo de la FIFA 2026 120 grs",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/800035/7791293050997_01.jpg?v=639065167420400000",
+   "cadena": "Vea",
+   "precio": 795.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-futbol-fanatics-120-grs-rexona/p",
+   "referencia": 1590.0,
+   "precio_2da": 1559.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 49.0,
+   "score": 2450,
+   "pr": {
+    "Carrefour": [
+     1559.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-rexona-copa-del-mundo-de-la-fifa-2026-120-grs-740530/p"
+    ],
+    "Vea": [
+     795.0,
+     "https://www.vea.com.ar/jabon-de-tocador-futbol-fanatics-120-grs-rexona/p"
+    ],
+    "Jumbo": [
+     1650.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-futbol-fanatics-120-grs-rexona/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón líquido Algabo floral rain 300 cc.",
+   "m": "Algabo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/310375/7791274193415_01.jpg?v=638151892384530000",
+   "cadena": "Vea",
+   "precio": 1695.0,
+   "link": "https://www.vea.com.ar/jabon-liquido-floral-rain-300-ml-algabo-2/p",
+   "referencia": 3390.0,
+   "precio_2da": 3249.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 47.8,
+   "score": 2392,
+   "pr": {
+    "Carrefour": [
+     3390.0,
+     "https://www.carrefour.com.ar/jabon-liquido-algabo-floral-rain-300-cc/p"
+    ],
+    "Vea": [
+     1695.0,
+     "https://www.vea.com.ar/jabon-liquido-floral-rain-300-ml-algabo-2/p"
+    ],
+    "ChangoMás": [
+     3439.0,
+     "https://www.masonline.com.ar/jabon-liquido-algabo-cream-con-valvula-300ml-2/p"
+    ],
+    "Comodín": [
+     3249.99,
+     "https://www.comodinencasa.com.ar/jabon-algabo-liq-floral-rain-300ml/p"
+    ]
+   }
+  },
+  {
    "n": "Vermouth Rosso 950 Cc Vincenzo",
    "m": "VINCENZO",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/799382/Vermouth-Vincezo-Rosso-1-999385.jpg?v=638345363999800000",
@@ -695,6 +1085,37 @@
    }
   },
   {
+   "n": "Chocolate Milka Oreo blanco 155 g.",
+   "m": "Milka",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912656/7622300990213_01.jpg?v=639220560698400000",
+   "cadena": "Jumbo",
+   "precio": 6050.0,
+   "link": "https://www.jumbo.com.ar/chocolate-milka-oreo-blanco-155-gr-2/p",
+   "referencia": 12100.0,
+   "precio_2da": 11399.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.9,
+   "score": 2346,
+   "pr": {
+    "Carrefour": [
+     11399.0,
+     "https://www.carrefour.com.ar/chocolate-milka-oreo-blanco-155-g-601890/p"
+    ],
+    "Vea": [
+     12190.0,
+     "https://www.vea.com.ar/chocolate-milka-oreo-blanco-155-gr-2/p"
+    ],
+    "Jumbo": [
+     6050.0,
+     "https://www.jumbo.com.ar/chocolate-milka-oreo-blanco-155-gr-2/p"
+    ],
+    "ChangoMás": [
+     12539.0,
+     "https://www.masonline.com.ar/chocolate-blanco-c-oreo-milka-155g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Chocolate Milka Relleno Dulce De Leche 67,5 Gr",
    "m": "MILKA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803262/Chocolate-Relleno-Dulce-De-Leche-Milka-67-5g-1-40152.jpg?v=638379382594770000",
@@ -803,6 +1224,76 @@
    }
   },
   {
+   "n": "Jabón de Tocador Dove Original Multipack x3 90 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921709/7891150046481_01.jpg?v=639238729612970000",
+   "cadena": "Vea",
+   "precio": 3895.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-original-multipack-90-grs-x-3-un-dove/p",
+   "referencia": 7790.0,
+   "precio_2da": 7239.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.2,
+   "score": 2310,
+   "pr": {
+    "Carrefour": [
+     7249.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-dove-original-multipack-x3-90-grs-615379/p"
+    ],
+    "Vea": [
+     3895.0,
+     "https://www.vea.com.ar/jabon-de-tocador-original-multipack-90-grs-x-3-un-dove/p"
+    ],
+    "Jumbo": [
+     7249.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-original-multipack-90-grs-x-3-un-dove/p"
+    ],
+    "Comodín": [
+     7426.69,
+     "https://www.comodinencasa.com.ar/jabon-dove-original-3-x-90-gr/p"
+    ],
+    "ChangoMás": [
+     7239.0,
+     "https://www.masonline.com.ar/jabon-de-tocador-dove-original-multipack-3x90-grs-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Repuesto jabón líquido Algabo cream 300 cc.",
+   "m": "Algabo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416812/7791274000577_02.jpg?v=638355808561330000",
+   "cadena": "Vea",
+   "precio": 1145.0,
+   "link": "https://www.vea.com.ar/repuesto-jabon-liquido-cream-300-ml-algabo/p",
+   "referencia": 2290.0,
+   "precio_2da": 2126.79,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.2,
+   "score": 2308,
+   "pr": {
+    "Carrefour": [
+     2239.0,
+     "https://www.carrefour.com.ar/repuesto-jabon-liquido-algabo-cream-300-cc-730007/p"
+    ],
+    "Vea": [
+     1145.0,
+     "https://www.vea.com.ar/repuesto-jabon-liquido-cream-300-ml-algabo/p"
+    ],
+    "Jumbo": [
+     2300.0,
+     "https://www.jumbo.com.ar/repuesto-jabon-liquido-cream-300-ml-algabo/p"
+    ],
+    "Comodín": [
+     2126.79,
+     "https://www.comodinencasa.com.ar/jabon-algabo-liq-cremoso-dp-300ml/p"
+    ],
+    "ChangoMás": [
+     2239.0,
+     "https://www.masonline.com.ar/jabon-liquido-algabo-cream-doypack-300ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Limpiador para Baño Concentrado 100 Ml Multimax",
    "m": "MULTIMAX",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/764039/Limpiador-Concentrado-Multimax-Ba-o-100ml-Limpiador-Concentrado-Multimax-Ba-o-100ml-1-940363.jpg?v=638083786214900000",
@@ -861,6 +1352,60 @@
     "Carrefour": [
      979.0,
      "https://www.carrefour.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-709108/p"
+    ]
+   }
+  },
+  {
+   "n": "Chizitos de maíz sabor a queso Cheetos original 43 g",
+   "m": "Cheetos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904455/7790310985274_E01.jpg?v=639199032551170000",
+   "cadena": "Carrefour",
+   "precio": 1262.62,
+   "link": "https://www.carrefour.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-43-g-721301/p",
+   "referencia": 2266.25,
+   "precio_2da": 2590.0,
+   "baja_pct": 44.3,
+   "brecha_pct": 51.3,
+   "score": 2270,
+   "pr": {
+    "Carrefour": [
+     1262.62,
+     "https://www.carrefour.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-43-g-721301/p"
+    ],
+    "Vea": [
+     2590.0,
+     "https://www.vea.com.ar/chizitos-cheetos-original-43-g/p"
+    ],
+    "Jumbo": [
+     2650.0,
+     "https://www.jumbo.com.ar/chizitos-cheetos-original-43-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de Tocador Humectante Avena 125 Grs x 3 Un Nivea",
+   "m": "NIVEA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/800422/Jab-n-Humectante-Nivea-Avena-3-X-125-G-1-436281.jpg?v=638354982983000000",
+   "cadena": "Vea",
+   "precio": 3245.0,
+   "link": "https://www.vea.com.ar/jabon-humectante-avena-125-grs-x-3-un-nivea/p",
+   "referencia": 5990.0,
+   "precio_2da": 6429.0,
+   "baja_pct": 45.8,
+   "brecha_pct": 49.5,
+   "score": 2270,
+   "pr": {
+    "Vea": [
+     3245.0,
+     "https://www.vea.com.ar/jabon-humectante-avena-125-grs-x-3-un-nivea/p"
+    ],
+    "Jumbo": [
+     6500.0,
+     "https://www.jumbo.com.ar/jabon-humectante-avena-125-grs-x-3-un-nivea/p"
+    ],
+    "ChangoMás": [
+     6429.0,
+     "https://www.masonline.com.ar/jabon-humectante-avena-nivea-3-u-2/p"
     ]
    }
   },
@@ -978,10 +1523,6 @@
      5475.0,
      "https://www.jumbo.com.ar/chocolate-milka-aireado-con-almendras-110-gr-2/p"
     ],
-    "Comodín": [
-     12878.39,
-     "https://www.comodinencasa.com.ar/chocolate-milka-leger-almendras-110gr/p"
-    ],
     "ChangoMás": [
      9859.0,
      "https://www.masonline.com.ar/chocolate-milka-leger-con-almendras-110g-2/p"
@@ -1013,10 +1554,6 @@
      5475.0,
      "https://www.jumbo.com.ar/chocolate-milka-aireado-con-leche-110-gr-2/p"
     ],
-    "Comodín": [
-     12878.39,
-     "https://www.comodinencasa.com.ar/chocolate-milka-leger-leche-x-100-gr-2/p"
-    ],
     "ChangoMás": [
      9859.0,
      "https://www.masonline.com.ar/chocolate-milka-leger-leche-110g-2/p"
@@ -1024,6 +1561,37 @@
     "Carrefour": [
      10590.0,
      "https://www.carrefour.com.ar/chocolate-milka-aireado-con-leche-110-g-680427/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de tocador Rexona antibacterial fresh x3 90 g.",
+   "m": "Rexona",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/319239/7791293046914_02.jpg?v=638181996505900000",
+   "cadena": "Vea",
+   "precio": 2195.0,
+   "link": "https://www.vea.com.ar/jabon-en-barra-fresh-multipack-90-grs-x-3-un-rexona/p",
+   "referencia": 4390.0,
+   "precio_2da": 3943.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.3,
+   "score": 2217,
+   "pr": {
+    "Carrefour": [
+     4390.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-rexona-antibacterial-fresh-x3-90-g-719444/p"
+    ],
+    "Vea": [
+     2195.0,
+     "https://www.vea.com.ar/jabon-en-barra-fresh-multipack-90-grs-x-3-un-rexona/p"
+    ],
+    "Jumbo": [
+     4500.0,
+     "https://www.jumbo.com.ar/jabon-en-barra-fresh-multipack-90-grs-x-3-un-rexona/p"
+    ],
+    "Comodín": [
+     3943.69,
+     "https://www.comodinencasa.com.ar/jabon-rexona-antibacterial-fresh-3x90gr/p"
     ]
    }
   },
@@ -1113,6 +1681,68 @@
    }
   },
   {
+   "n": "Jabón tocador St tropez glicerina frutal x3 90 g.",
+   "m": "Saint Tropez",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308919/7794218106519_02.jpg?v=638146750017300000",
+   "cadena": "Vea",
+   "precio": 1350.0,
+   "link": "https://www.vea.com.ar/jabon-tricolor-glicerina-90-grs-x-3-un-st-tropez/p",
+   "referencia": 2700.0,
+   "precio_2da": 2372.29,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.1,
+   "score": 2155,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/jabon-tocador-st-tropez-glicerina-frutal-x3-90-g-717729/p"
+    ],
+    "Vea": [
+     1350.0,
+     "https://www.vea.com.ar/jabon-tricolor-glicerina-90-grs-x-3-un-st-tropez/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/jabon-tricolor-glicerina-90-grs-x-3-un-st-tropez/p"
+    ],
+    "Comodín": [
+     2372.29,
+     "https://www.comodinencasa.com.ar/jabon-st-tropez-glicerina-tricol-3x90gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón tocador St tropez hidratación int x3 125 g.",
+   "m": "Saint Tropez",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364664/7794218106564_02.jpg?v=638265774830030000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-tocador-hidratacion-intensa-125-grs-x-3-un-st-tropez/p",
+   "referencia": 2690.0,
+   "precio_2da": 2338.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.5,
+   "score": 2125,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/jabon-tocador-st-tropez-hidratacion-int-x3-125-g-717728/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-tocador-hidratacion-intensa-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-tocador-hidratacion-intensa-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Comodín": [
+     2338.99,
+     "https://www.comodinencasa.com.ar/jabon-st-tropez-hidratac-intensa-3x125/p"
+    ]
+   }
+  },
+  {
    "n": "Barra Flow Cereal Granola 23gr",
    "m": "FLOW",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/917698/7790380015024.jpg?v=639162684525900000",
@@ -1171,6 +1801,138 @@
    }
   },
   {
+   "n": "Jabón de Tocador Dove Exfoliante 90 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917332/7898422746827_01.jpg?v=639228555767730000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-exfoliante-90-grs-dove/p",
+   "referencia": 2690.0,
+   "precio_2da": 2319.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.0,
+   "score": 2100,
+   "pr": {
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-dove-exfoliante-90-grs-397713/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-de-tocador-exfoliante-90-grs-dove/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-exfoliante-90-grs-dove/p"
+    ],
+    "Comodín": [
+     2319.19,
+     "https://www.comodinencasa.com.ar/jabon-dove-exfoliacion-x-90gr/p"
+    ],
+    "ChangoMás": [
+     2579.0,
+     "https://www.masonline.com.ar/jabon-de-tocador-dove-exfoliante-90-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de Tocador Dove Karité y Vainilla 90 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923252/7891150019560_01.jpg?v=639240357019100000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-karite-y-vainilla-90-grs-dove/p",
+   "referencia": 2690.0,
+   "precio_2da": 2319.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.0,
+   "score": 2100,
+   "pr": {
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-dove-karite-y-vainilla-90-grs-607606/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-de-tocador-karite-y-vainilla-90-grs-dove/p"
+    ],
+    "Jumbo": [
+     2496.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-karite-y-vainilla-90-grs-dove/p"
+    ],
+    "Comodín": [
+     2319.19,
+     "https://www.comodinencasa.com.ar/jabon-dove-kar-y-vainilla-x-90-gr/p"
+    ],
+    "ChangoMás": [
+     2579.0,
+     "https://www.masonline.com.ar/jabon-de-tocador-dove-karite-y-vainilla-90-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de Tocador Antibacterial 90 Grs Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930103/Jabon-De-Tocador-Cuidado-Antibacterial-90-Grs-Dove-1-854132.jpg?v=639252781386030000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-dove-cuidado-antibacterial-90-gr-3/p",
+   "referencia": 2690.0,
+   "precio_2da": 2319.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 42.0,
+   "score": 2100,
+   "pr": {
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-de-tocador-dove-cuidado-antibacterial-90-gr-3/p"
+    ],
+    "Jumbo": [
+     2750.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-dove-cuidado-antibacterial-90-gr-3/p"
+    ],
+    "Comodín": [
+     2319.19,
+     "https://www.comodinencasa.com.ar/jabon-dove-cuida-protege-90-gr/p"
+    ],
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-dove-antibacterial-cuida-protege-90-grs-666239/p"
+    ],
+    "ChangoMás": [
+     2579.0,
+     "https://www.masonline.com.ar/jabon-dove-antibacterial-cuida-protege-90-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de Glicerina Orquídeas 90 Grs x 3 Un Nivea",
+   "m": "NIVEA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/800418/Jabon-Nivea-Glicerina-Orquidea-Flow-Pack-3-90g-1-1000111.jpg?v=638354980953300000",
+   "cadena": "Vea",
+   "precio": 3245.0,
+   "link": "https://www.vea.com.ar/jabon-humectante-con-glicerina-orquideas-90-grs-x-3-un-nivea/p",
+   "referencia": 5990.0,
+   "precio_2da": 5990.0,
+   "baja_pct": 45.8,
+   "brecha_pct": 45.8,
+   "score": 2100,
+   "pr": {
+    "Vea": [
+     3245.0,
+     "https://www.vea.com.ar/jabon-humectante-con-glicerina-orquideas-90-grs-x-3-un-nivea/p"
+    ],
+    "Jumbo": [
+     6500.0,
+     "https://www.jumbo.com.ar/jabon-humectante-con-glicerina-orquideas-90-grs-x-3-un-nivea/p"
+    ],
+    "Carrefour": [
+     5990.0,
+     "https://www.carrefour.com.ar/jabon-con-glicerina-nivea-orquideas-para-todo-tipo-de-piel-x3-g-730411/p"
+    ]
+   }
+  },
+  {
    "n": "Limpiador Multiuso Ultraconcentrado Lavanda 35 Ml Multimax",
    "m": "MULTIMAX",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/715808/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-1-Litro-X-35ml-1-841174.jpg?v=637963042649570000",
@@ -1202,6 +1964,87 @@
    }
   },
   {
+   "n": "Jabón en Barra Lux Jazmín Cremoso Multipack x3 120 grs",
+   "m": "Lux",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923298/7791293050805_01.jpg?v=639240359959170000",
+   "cadena": "Vea",
+   "precio": 2295.0,
+   "link": "https://www.vea.com.ar/jabon-en-barra-jazmin-cremoso-multipack-120-gr-x-3-un-lux/p",
+   "referencia": 4015.0,
+   "precio_2da": 4479.0,
+   "baja_pct": 42.8,
+   "brecha_pct": 48.8,
+   "score": 2089,
+   "pr": {
+    "Carrefour": [
+     4479.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-lux-jazmin-cremoso-multipack-x3-120-grs-740501/p"
+    ],
+    "Vea": [
+     2295.0,
+     "https://www.vea.com.ar/jabon-en-barra-jazmin-cremoso-multipack-120-gr-x-3-un-lux/p"
+    ],
+    "Jumbo": [
+     4750.0,
+     "https://www.jumbo.com.ar/jabon-en-barra-jazmin-cremoso-multipack-120-gr-x-3-un-lux/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón en Barra Lux Lirio Azul Multipack x3 120 grs",
+   "m": "Lux",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921776/7791293050812_01.jpg?v=639238733561800000",
+   "cadena": "Vea",
+   "precio": 2295.0,
+   "link": "https://www.vea.com.ar/jabon-lux-botan-lirio-azul-3x120g/p",
+   "referencia": 4015.0,
+   "precio_2da": 4479.0,
+   "baja_pct": 42.8,
+   "brecha_pct": 48.8,
+   "score": 2089,
+   "pr": {
+    "Carrefour": [
+     4479.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-lux-lirio-azul-multipack-x3-120-grs-740503/p"
+    ],
+    "Vea": [
+     2295.0,
+     "https://www.vea.com.ar/jabon-lux-botan-lirio-azul-3x120g/p"
+    ],
+    "Jumbo": [
+     4750.0,
+     "https://www.jumbo.com.ar/jabon-lux-botan-lirio-azul-3x120g/p"
+    ]
+   }
+  },
+  {
+   "n": "Plusbelle jabón de tocador Frescura vital glicerina x3 120 grs",
+   "m": "Plusbelle",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/779159/7790990000878_01.jpg?v=639009778954570000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-tocador-plusbelle-frescura-x3-120g-2/p",
+   "referencia": 4040.0,
+   "precio_2da": 3790.0,
+   "baja_pct": 46.9,
+   "brecha_pct": 43.4,
+   "score": 2036,
+   "pr": {
+    "Carrefour": [
+     3790.0,
+     "https://www.carrefour.com.ar/plusbelle-jabon-de-tocador-frescura-vital-glicerina-x3-120-grs-698461/p"
+    ],
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-tocador-plusbelle-frescura-x3-120g-2/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/jabon-tocador-plusbelle-frescura-x3-120g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Alfajor mousse chocolate negro Toddy 50 grs",
    "m": "Toddy",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884800/7790380023579_E02.jpg?v=639160240741270000",
@@ -1229,207 +2072,141 @@
    }
   },
   {
-   "n": "Alfajor Triple Sabor Mousse Blanco 55 Grs Milka",
-   "m": "MILK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803252/Alfajor-Triple-Milka-Mousse-Blanco-55g-1-24792.jpg?v=638379382556330000",
-   "cadena": "ChangoMás",
-   "precio": 1249.5,
-   "link": "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p",
-   "referencia": 2329.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 46.4,
-   "brecha_pct": 40.5,
-   "score": 1876,
-   "pr": {
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
-    ],
-    "Jumbo": [
-     2402.0,
-     "https://www.jumbo.com.ar/alfajor-triple-milka-mousse-blanco-55-gr/p"
-    ],
-    "ChangoMás": [
-     1249.5,
-     "https://www.masonline.com.ar/alfajor-milka-triple-mousse-blanco-55g-2/p"
-    ],
-    "Carrefour": [
-     2099.0,
-     "https://www.carrefour.com.ar/alfajor-triple-milka-mousse-blanco-55-g-481894/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Emilia Malbec 750cc",
-   "m": "EMILIA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786344/Vino-Emilia-Malbec-750cc-1-971958.jpg?v=638234014203500000",
-   "cadena": "Jumbo",
-   "precio": 4750.0,
-   "link": "https://www.jumbo.com.ar/vino-emilia-malbec-750cc/p",
-   "referencia": 9500.0,
-   "precio_2da": 7532.79,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.9,
-   "score": 1847,
-   "pr": {
-    "Jumbo": [
-     4750.0,
-     "https://www.jumbo.com.ar/vino-emilia-malbec-750cc/p"
-    ],
-    "Comodín": [
-     7532.79,
-     "https://www.comodinencasa.com.ar/vino-emilia-malbec-x-750-cc/p"
-    ],
-    "ChangoMás": [
-     8100.0,
-     "https://www.masonline.com.ar/vino-tinto-emilia-malbec-750ml-2/p"
-    ],
-    "Carrefour": [
-     9000.0,
-     "https://www.carrefour.com.ar/vinto-tinto-emilia-malbec-750-cc-721777/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo En Polvo Arcor Naranja Dulce X 15 Gr",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835185/Jugo-En-Polvo-Arcor-Naranja-Dulce-15gr-1-1025850.jpg?v=638622057755500000",
+   "n": "Jabón de Glicerina Lux Dama de Noche En Barra Multipack x3 90 grs",
+   "m": "Lux",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921724/7791293051680_01.jpg?v=639238730356170000",
    "cadena": "Vea",
-   "precio": 228.0,
-   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p",
-   "referencia": 410.0,
-   "precio_2da": 389.0,
-   "baja_pct": 44.4,
-   "brecha_pct": 41.4,
-   "score": 1837,
+   "precio": 2495.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-glicerina-dama-noche-3x-90grs-lux/p",
+   "referencia": 4215.0,
+   "precio_2da": 4749.0,
+   "baja_pct": 40.8,
+   "brecha_pct": 47.5,
+   "score": 1937,
    "pr": {
+    "Carrefour": [
+     4929.0,
+     "https://www.carrefour.com.ar/jabon-de-glicerina-lux-dama-de-noche-en-barra-multipack-x3-90-grs-764724/p"
+    ],
     "Vea": [
-     228.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+     2495.0,
+     "https://www.vea.com.ar/jabon-de-tocador-glicerina-dama-noche-3x-90grs-lux/p"
     ],
     "Jumbo": [
-     500.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
+     5100.0,
+     "https://www.jumbo.com.ar/jabon-de-tocador-glicerina-dama-noche-3x-90grs-lux/p"
     ],
     "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-dulce-15-g/p"
-    ],
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
+     4749.0,
+     "https://www.masonline.com.ar/jabon-de-glicerina-lux-dama-de-noche-3-u/p"
     ]
    }
   },
   {
-   "n": "Jugo en Polvo Sabor Naranja 15 Grs Arcor",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835187/Jugo-En-Polvo-Arcor-Naranja-15gr-1-1025852.jpg?v=638622057762430000",
+   "n": "Jabón en Barra Lux Jazmín Cremoso 120 grs",
+   "m": "Lux",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923292/7791293050843_01.jpg?v=639240359478500000",
    "cadena": "Vea",
-   "precio": 228.0,
-   "link": "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p",
-   "referencia": 410.0,
-   "precio_2da": 389.0,
-   "baja_pct": 44.4,
-   "brecha_pct": 41.4,
-   "score": 1837,
+   "precio": 845.0,
+   "link": "https://www.vea.com.ar/jabon-en-barra-jazmin-cremoso-120-grs-lux/p",
+   "referencia": 1490.0,
+   "precio_2da": 1490.0,
+   "baja_pct": 43.3,
+   "brecha_pct": 43.3,
+   "score": 1874,
    "pr": {
+    "Carrefour": [
+     1490.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-lux-jazmin-cremoso-120-grs-740511/p"
+    ],
     "Vea": [
-     228.0,
-     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
+     845.0,
+     "https://www.vea.com.ar/jabon-en-barra-jazmin-cremoso-120-grs-lux/p"
     ],
     "Jumbo": [
-     500.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-x-15-gr/p"
-    ],
-    "ChangoMás": [
-     389.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-15-g/p"
-    ],
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-15-grs-750889/p"
+     1700.0,
+     "https://www.jumbo.com.ar/jabon-en-barra-jazmin-cremoso-120-grs-lux/p"
     ]
    }
   },
   {
-   "n": "Postre de maní Mantecol 253 g.",
-   "m": "Mantecol",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914768/7622201812690_02.jpg?v=639223052206970000",
-   "cadena": "Carrefour",
-   "precio": 4577.4,
-   "link": "https://www.carrefour.com.ar/postre-de-mani-mantecol-253-g/p",
-   "referencia": 7629.0,
-   "precio_2da": 8390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 45.4,
-   "score": 1818,
+   "n": "Plusbelle jabón de tocador Lavanda x3 120 grs",
+   "m": "Plusbelle",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/773344/7790990004142_01.jpg?v=639003046729200000",
+   "cadena": "Vea",
+   "precio": 2345.0,
+   "link": "https://www.vea.com.ar/jabon-con-glicerina-lavanda-x-3-un-plusbelle/p",
+   "referencia": 4490.0,
+   "precio_2da": 3799.0,
+   "baja_pct": 47.8,
+   "brecha_pct": 38.3,
+   "score": 1828,
    "pr": {
     "Carrefour": [
-     4577.4,
-     "https://www.carrefour.com.ar/postre-de-mani-mantecol-253-g/p"
+     3799.0,
+     "https://www.carrefour.com.ar/plusbelle-jabon-de-tocador-lavanda-x3-120-grs-764224/p"
     ],
     "Vea": [
-     8390.0,
-     "https://www.vea.com.ar/postre-de-mani-bajo-en-sodio-x-253-gr-mantecol/p"
+     2345.0,
+     "https://www.vea.com.ar/jabon-con-glicerina-lavanda-x-3-un-plusbelle/p"
     ],
-    "Comodín": [
-     9506.8,
-     "https://www.comodinencasa.com.ar/mantecol-clasico-x-253-gr/p"
+    "Jumbo": [
+     4700.0,
+     "https://www.jumbo.com.ar/jabon-con-glicerina-lavanda-x-3-un-plusbelle/p"
     ]
    }
   },
   {
-   "n": "Desodorante en Barra pH Balanced Lavender 45 Grs Secret",
-   "m": "SECRET",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/891598/Desodorante-Stick-Lavender-X-45-Grs-Secret-1-1051870.jpg?v=638999517791170000",
-   "cadena": "Jumbo",
-   "precio": 6800.0,
-   "link": "https://www.jumbo.com.ar/desodorante-stick-lavender-x-45-grs-secret/p",
-   "referencia": 13600.0,
-   "precio_2da": 10624.69,
+   "n": "Jabón de tocador Palmolive Naturals Karité y Vitamina E Nutrición Intensiva x3 90 grs",
+   "m": "Palmolive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/878464/7509546683379_01.jpg?v=639149652334330000",
+   "cadena": "Vea",
+   "precio": 1945.0,
+   "link": "https://www.vea.com.ar/jabon-de-tocador-naturals-vitamina-e-90-grs-3-un-palmolive/p",
+   "referencia": 3890.0,
+   "precio_2da": 3037.5,
    "baja_pct": 50.0,
    "brecha_pct": 36.0,
-   "score": 1800,
+   "score": 1798,
    "pr": {
-    "Jumbo": [
-     6800.0,
-     "https://www.jumbo.com.ar/desodorante-stick-lavender-x-45-grs-secret/p"
-    ],
-    "Comodín": [
-     10624.69,
-     "https://www.comodinencasa.com.ar/deo-secret-p-b-lavanda-antit-barra-45gr/p"
-    ],
     "Carrefour": [
-     12790.0,
-     "https://www.carrefour.com.ar/antitranspirante-en-barra-ph-balanced-secret-lavanda-45-grs-768976/p"
+     3889.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-palmolive-naturals-kerite-y-vitamina-e-nutricion-intensiva-x3-980-grs-713803/p"
+    ],
+    "Vea": [
+     1945.0,
+     "https://www.vea.com.ar/jabon-de-tocador-naturals-vitamina-e-90-grs-3-un-palmolive/p"
+    ],
+    "Jumbo": [
+     3037.5,
+     "https://www.jumbo.com.ar/jabon-de-tocador-naturals-vitamina-e-90-grs-3-un-palmolive/p"
     ]
    }
   },
   {
-   "n": "Leche infantil La Serenisima Baby Etapa 3 brick 200 ml",
-   "m": "La Serenísima",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/591819/7795323775515_01.jpg?v=638659862959500000",
-   "cadena": "ChangoMás",
-   "precio": 999.0,
-   "link": "https://www.masonline.com.ar/leche-infantil-la-serenisima-baby-3-200ml-2/p",
-   "referencia": 1729.0,
-   "precio_2da": 1729.0,
-   "baja_pct": 42.2,
-   "brecha_pct": 42.2,
-   "score": 1783,
+   "n": "Yerba mate Cachamate hierbas serranas 1 kg.",
+   "m": "Cachamate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943423/7792280005723_01.jpg?v=639265680988370000",
+   "cadena": "Carrefour",
+   "precio": 2586.35,
+   "link": "https://www.carrefour.com.ar/yerba-mate-cachamate-hierbas-serranas-1-kg/p",
+   "referencia": 4619.0,
+   "precio_2da": 4347.19,
+   "baja_pct": 44.0,
+   "brecha_pct": 40.5,
+   "score": 1782,
    "pr": {
     "Carrefour": [
-     1729.0,
-     "https://www.carrefour.com.ar/leche-infantil-la-serenisima-baby-etapa-3-brick-200-ml-722993/p"
+     2586.35,
+     "https://www.carrefour.com.ar/yerba-mate-cachamate-hierbas-serranas-1-kg/p"
     ],
     "Jumbo": [
-     1850.0,
-     "https://www.jumbo.com.ar/leche-uat-la-serenisima-3-200-ml/p"
+     4400.0,
+     "https://www.jumbo.com.ar/yerba-hierbas-serranas-cachamate-1-kg/p"
     ],
-    "ChangoMás": [
-     999.0,
-     "https://www.masonline.com.ar/leche-infantil-la-serenisima-baby-3-200ml-2/p"
+    "Comodín": [
+     4347.19,
+     "https://www.comodinencasa.com.ar/yerba-cachamate-serrana-1kg/p"
     ]
    }
   },
@@ -1463,7 +2240,7 @@
   {
    "n": "Papel higiénico Higienol Plus doble hoja 20 mts 4 uni",
    "m": "Higienol",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/541414/7790250015567_01.jpg?v=638567551951330000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/971337/7790250015567_01.jpg?v=639283780142370000",
    "cadena": "Carrefour",
    "precio": 1621.75,
    "link": "https://www.carrefour.com.ar/papel-higienico-higienol-plus-doble-hoja-20-mts-4-uni-742467/p",
@@ -1484,6 +2261,146 @@
     "Jumbo": [
      3350.0,
      "https://www.jumbo.com.ar/papel-higienico-plus-doble-hoja-20-m-x-4-un-higienol/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de tocador St Tropez brisa primaveral x 3 uni",
+   "m": "Saint Tropez",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364661/7794218000176_02.jpg?v=638265773541770000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-tocador-brisa-de-primavera-125-grs-x-3-un-st-tropez/p",
+   "referencia": 2690.0,
+   "precio_2da": 2084.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.5,
+   "score": 1773,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-st-tropez-brisa-primaveral-x-3-uni-599319/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-tocador-brisa-de-primavera-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-tocador-brisa-de-primavera-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Comodín": [
+     2338.99,
+     "https://www.comodinencasa.com.ar/jabon-st-tropez-brisa-de-primav-3x125g/p"
+    ],
+    "ChangoMás": [
+     2084.25,
+     "https://www.masonline.com.ar/jabon-st-tropez-de-tocador-125g-3u-2-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de tocador Saint Tropez flores 3 u. x 125 g.",
+   "m": "Saint Tropez",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364662/7794218000190_02.jpg?v=638265773961530000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-tocador-flores-en-tu-piel-125-grs-x-3-un-st-tropez/p",
+   "referencia": 2690.0,
+   "precio_2da": 2084.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.5,
+   "score": 1773,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-saint-tropez-flores-3-u-x-125-g/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-tocador-flores-en-tu-piel-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-tocador-flores-en-tu-piel-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Comodín": [
+     2338.99,
+     "https://www.comodinencasa.com.ar/jabon-st-tropez-flores-en-tu-piel-3x125/p"
+    ],
+    "ChangoMás": [
+     2084.25,
+     "https://www.masonline.com.ar/jabon-st-tropez-de-tocador-125g-3u-3-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de tocador Saint Tropez frescura marina 3 u. x 125 g.",
+   "m": "Saint Tropez",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364659/7794218000046_02.jpg?v=638265772712070000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-tocador-frescura-marina-125-grs-x-3-un-st-tropez/p",
+   "referencia": 2690.0,
+   "precio_2da": 2084.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.5,
+   "score": 1773,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-saint-tropez-frescura-marina-3-u-x-125-g/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-tocador-frescura-marina-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-tocador-frescura-marina-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Comodín": [
+     2338.99,
+     "https://www.comodinencasa.com.ar/jabon-st-tropez-frescura-marina-3x125gr/p"
+    ],
+    "ChangoMás": [
+     2084.25,
+     "https://www.masonline.com.ar/jabon-de-tocador-st-tropez-frescura-marina-125-g-3-u/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón de tocador Saint Tropez brillo y luz 3 u. x 125 g.",
+   "m": "Saint Tropez",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/364660/7794218000152_02.jpg?v=638265773114700000",
+   "cadena": "Vea",
+   "precio": 1345.0,
+   "link": "https://www.vea.com.ar/jabon-tocador-brillo-y-luz-125-grs-x-3-un-st-tropez/p",
+   "referencia": 2690.0,
+   "precio_2da": 2084.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.5,
+   "score": 1773,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/jabon-de-tocador-saint-tropez-brillo-y-luz-3-u-x-125-g/p"
+    ],
+    "Vea": [
+     1345.0,
+     "https://www.vea.com.ar/jabon-tocador-brillo-y-luz-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Jumbo": [
+     2800.0,
+     "https://www.jumbo.com.ar/jabon-tocador-brillo-y-luz-125-grs-x-3-un-st-tropez/p"
+    ],
+    "Comodín": [
+     2338.99,
+     "https://www.comodinencasa.com.ar/jabon-st-tropez-brillo-y-luz-3-x125gr/p"
+    ],
+    "ChangoMás": [
+     2084.25,
+     "https://www.masonline.com.ar/jabon-st-tropez-de-tocador-125g-3u-2/p"
     ]
    }
   },
@@ -1573,33 +2490,6 @@
    }
   },
   {
-   "n": "Mini tostaditas Twistos de jamón 40 grs",
-   "m": "Twistos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905753/7790310987094_E01.jpg?v=639202557989400000",
-   "cadena": "Carrefour",
-   "precio": 1439.4,
-   "link": "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p",
-   "referencia": 2399.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.2,
-   "score": 1688,
-   "pr": {
-    "Carrefour": [
-     1439.4,
-     "https://www.carrefour.com.ar/mini-tostaditas-twistos-de-jamon-40-grs-749398/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
-    ],
-    "Jumbo": [
-     2500.0,
-     "https://www.jumbo.com.ar/mini-tostadas-twistos-jamon-iberico-40-g/p"
-    ]
-   }
-  },
-  {
    "n": "Papas Gourmet Crispers con Piel 600 Grs Mc Cain",
    "m": "MC CAIN",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/853366/Papas-Gourmet-Crispers-X-600-Gr-Mc-Cain-1-1031068.jpg?v=638731569683430000",
@@ -1627,6 +2517,95 @@
    }
   },
   {
+   "n": "Jabón de Tocador Anti-Bacterial Active Deo 80 Grs x 3 Un Espadol",
+   "m": "ESPADOL",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/820929/Jab-n-En-Barra-Espadol-Active-Deo-240gr-X-3-Unid-1-858571.jpg?v=638503475332100000",
+   "cadena": "Vea",
+   "precio": 2595.0,
+   "link": "https://www.vea.com.ar/jabon-activedeo-80-grs-x-3-un-espadol/p",
+   "referencia": 4350.0,
+   "precio_2da": 4350.0,
+   "baja_pct": 40.3,
+   "brecha_pct": 40.3,
+   "score": 1628,
+   "pr": {
+    "Vea": [
+     2595.0,
+     "https://www.vea.com.ar/jabon-activedeo-80-grs-x-3-un-espadol/p"
+    ],
+    "Jumbo": [
+     5300.0,
+     "https://www.jumbo.com.ar/jabon-activedeo-80-grs-x-3-un-espadol/p"
+    ],
+    "Comodín": [
+     4617.59,
+     "https://www.comodinencasa.com.ar/jabon-espadol-activedeo-3x90gr/p"
+    ],
+    "Carrefour": [
+     4350.0,
+     "https://www.carrefour.com.ar/jabon-en-barra-active-deo-espadol-dettol-x3-80-g-673214/p"
+    ]
+   }
+  },
+  {
+   "n": "Svelty Extra Calcio 750 grs",
+   "m": "Svelty",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854255/8445291020061_01.jpg?v=639122868421470000",
+   "cadena": "Carrefour",
+   "precio": 10617.0,
+   "link": "https://www.carrefour.com.ar/svelty-extra-calcio-750-grs-729422/p",
+   "referencia": 16659.0,
+   "precio_2da": 19190.0,
+   "baja_pct": 36.3,
+   "brecha_pct": 44.7,
+   "score": 1620,
+   "pr": {
+    "Carrefour": [
+     10617.0,
+     "https://www.carrefour.com.ar/svelty-extra-calcio-750-grs-729422/p"
+    ],
+    "Vea": [
+     19190.0,
+     "https://www.vea.com.ar/leche-polvo-extra-calcio-750-grs-svelty/p"
+    ],
+    "Jumbo": [
+     19300.0,
+     "https://www.jumbo.com.ar/leche-polvo-extra-calcio-750-grs-svelty/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón Liquido Para manos Suave Pepino y Aloe 220 ml",
+   "m": "Suave",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923501/7791293049427_01.jpg?v=639240377341300000",
+   "cadena": "Vea",
+   "precio": 945.0,
+   "link": "https://www.vea.com.ar/jabon-liquido-para-manos-suave-pepino-y-aloe-220-ml/p",
+   "referencia": 1890.0,
+   "precio_2da": 1394.25,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.2,
+   "score": 1611,
+   "pr": {
+    "Carrefour": [
+     1799.0,
+     "https://www.carrefour.com.ar/jabon-liquido-para-manos-suave-pepino-y-aloe-220-ml-726398/p"
+    ],
+    "Vea": [
+     945.0,
+     "https://www.vea.com.ar/jabon-liquido-para-manos-suave-pepino-y-aloe-220-ml/p"
+    ],
+    "Jumbo": [
+     2100.0,
+     "https://www.jumbo.com.ar/jabon-liquido-para-manos-suave-pepino-y-aloe-220-ml/p"
+    ],
+    "ChangoMás": [
+     1394.25,
+     "https://www.masonline.com.ar/jabon-liquido-suave-pepino-y-aloe-220ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Elvive Colorvive 200 ml",
    "m": "Elvive",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922834/7509552815269_01.jpg?v=639239603039570000",
@@ -1647,10 +2626,6 @@
      9000.0,
      "https://www.jumbo.com.ar/shampoo-elvive-colorvive-200-ml/p"
     ],
-    "Comodín": [
-     10087.99,
-     "https://www.comodinencasa.com.ar/shampoo-elvive-color-vive-purple-200ml/p"
-    ],
     "ChangoMás": [
      9349.0,
      "https://www.masonline.com.ar/shampoo-elvive-color-vive-purple-200ml-2/p"
@@ -1658,29 +2633,83 @@
    }
   },
   {
-   "n": "Shampoo Elvive Glycolic Gloss 200 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551650/7509552937343_01.jpg?v=638604501070630000",
+   "n": "Nescafé Gold 95 grs",
+   "m": "Nescafé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849343/8445291738775_01.jpg?v=639119644028030000",
    "cadena": "Carrefour",
-   "precio": 4409.4,
-   "link": "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p",
-   "referencia": 7349.0,
-   "precio_2da": 7339.0,
+   "precio": 13709.4,
+   "link": "https://www.carrefour.com.ar/nescafe-gold-95-grs-761202/p",
+   "referencia": 22849.0,
+   "precio_2da": 22849.0,
    "baja_pct": 40.0,
-   "brecha_pct": 39.9,
-   "score": 1597,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
     "Carrefour": [
-     4409.4,
-     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p"
+     13709.4,
+     "https://www.carrefour.com.ar/nescafe-gold-95-grs-761202/p"
     ],
-    "Comodín": [
-     10087.99,
-     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-gloss-200ml/p"
+    "Vea": [
+     23890.0,
+     "https://www.vea.com.ar/cafe-signature-ar-95-grs-nescafe-gold/p"
     ],
     "ChangoMás": [
-     7339.0,
-     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p"
+     22849.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-nescafe-gold-95-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante U´nico concentrado Ecovita en botella 500 ml",
+   "m": "Ecovita",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/803118/7798124362724_01.jpg?v=639074654293870000",
+   "cadena": "ChangoMás",
+   "precio": 4205.4,
+   "link": "https://www.masonline.com.ar/suavizante-para-ropa-ecovita-concentrado-unico-500-ml/p",
+   "referencia": 7009.0,
+   "precio_2da": 7010.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     7010.0,
+     "https://www.carrefour.com.ar/suavizante-unico-concentrado-ecovita-en-botella-500-ml-775800/p"
+    ],
+    "Vea": [
+     7290.0,
+     "https://www.vea.com.ar/suavizante-concentrado-unico-botella-x-500-ml-ecovita/p"
+    ],
+    "ChangoMás": [
+     4205.4,
+     "https://www.masonline.com.ar/suavizante-para-ropa-ecovita-concentrado-unico-500-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Nuggets de pollo Sadia crocantes 300 g.",
+   "m": "Aleluya",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861254/7891515571351_E02.jpg?v=639130062849300000",
+   "cadena": "ChangoMás",
+   "precio": 3641.4,
+   "link": "https://www.masonline.com.ar/nuggets-de-pollo-sadia-congelada-crocrante-300-gr-2/p",
+   "referencia": 6069.0,
+   "precio_2da": 6050.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.8,
+   "score": 1592,
+   "pr": {
+    "Carrefour": [
+     6050.0,
+     "https://www.carrefour.com.ar/nuggets-de-pollo-sadia-crocantes-300-g-696446/p"
+    ],
+    "Vea": [
+     6390.0,
+     "https://www.vea.com.ar/nuggets-sadia-de-pollo-crocante-x300g/p"
+    ],
+    "ChangoMás": [
+     3641.4,
+     "https://www.masonline.com.ar/nuggets-de-pollo-sadia-congelada-crocrante-300-gr-2/p"
     ]
    }
   },
@@ -1739,29 +2768,33 @@
    }
   },
   {
-   "n": "Acondicionador Tresemme Liso Efecto Botox 250 Ml",
-   "m": "TRESEMMÉ",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/802919/Acondicionador-Tresemme-Liso-Efecto-Botox-250-Ml-1-1000571.jpg?v=638375620334470000",
-   "cadena": "ChangoMás",
-   "precio": 4295.4,
-   "link": "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p",
-   "referencia": 7159.0,
-   "precio_2da": 7050.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.1,
-   "score": 1563,
+   "n": "Jabón Liquido para manos Dove Nutrición Profunda Refill 220 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921879/7791293046136_01.jpg?v=639238740293670000",
+   "cadena": "Vea",
+   "precio": 2145.0,
+   "link": "https://www.vea.com.ar/jabon-liquido-para-manos-nutricion-profunda-220-ml-dove/p",
+   "referencia": 4290.0,
+   "precio_2da": 3123.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 31.3,
+   "score": 1566,
    "pr": {
-    "Vea": [
-     7890.0,
-     "https://www.vea.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
-    ],
-    "ChangoMás": [
-     4295.4,
-     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
-    ],
     "Carrefour": [
-     7050.0,
-     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
+     3390.0,
+     "https://www.carrefour.com.ar/jabon-liquido-para-manos-dove-nutricion-profunda-refill-200-ml-719422/p"
+    ],
+    "Vea": [
+     2145.0,
+     "https://www.vea.com.ar/jabon-liquido-para-manos-nutricion-profunda-220-ml-dove/p"
+    ],
+    "Jumbo": [
+     4500.0,
+     "https://www.jumbo.com.ar/jabon-liquido-para-manos-nutricion-profunda-220-ml-dove/p"
+    ],
+    "Comodín": [
+     3123.19,
+     "https://www.comodinencasa.com.ar/jabon-dove-liq-beauty-cream-rep-x-220ml/p"
     ]
    }
   },
@@ -1817,44 +2850,13 @@
      7650.0,
      "https://www.jumbo.com.ar/papas-clasicas-corte-tradicional-700-gr-mc-cain/p"
     ],
-    "Comodín": [
-     7138.59,
-     "https://www.comodinencasa.com.ar/papas-mc-cain-corte-tradicional-x-720-g/p"
-    ],
     "ChangoMás": [
      4367.4,
      "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas crinkle Mc cain en bolsa 600 g.",
-   "m": "Mc Cain",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845818/7797906054833_01.jpg?v=639111876190570000",
-   "cadena": "ChangoMás",
-   "precio": 5027.4,
-   "link": "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-gourmet-corte-crinckle-600g-2/p",
-   "referencia": 8379.0,
-   "precio_2da": 8150.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.3,
-   "score": 1533,
-   "pr": {
-    "Carrefour": [
-     8150.0,
-     "https://www.carrefour.com.ar/papas-crinkle-mc-cain-en-bolsa-600-g-724920/p"
     ],
-    "Vea": [
-     8590.0,
-     "https://www.vea.com.ar/papas-gourmet-mc-cain-corte-crinkle-600-gr/p"
-    ],
-    "Jumbo": [
-     8800.0,
-     "https://www.jumbo.com.ar/papas-gourmet-mc-cain-corte-crinkle-600-gr/p"
-    ],
-    "ChangoMás": [
-     5027.4,
-     "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-gourmet-corte-crinckle-600g-2/p"
+    "Comodín": [
+     7138.59,
+     "https://www.comodinencasa.com.ar/papas-mc-cain-corte-tradicional-x-720-g/p"
     ]
    }
   },
@@ -1913,33 +2915,6 @@
    }
   },
   {
-   "n": "Svelty Extra Calcio 750 grs",
-   "m": "Svelty",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854255/8445291020061_01.jpg?v=639122868421470000",
-   "cadena": "Carrefour",
-   "precio": 10828.35,
-   "link": "https://www.carrefour.com.ar/svelty-extra-calcio-750-grs-729422/p",
-   "referencia": 16659.0,
-   "precio_2da": 19190.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.6,
-   "score": 1525,
-   "pr": {
-    "Carrefour": [
-     10828.35,
-     "https://www.carrefour.com.ar/svelty-extra-calcio-750-grs-729422/p"
-    ],
-    "Vea": [
-     19190.0,
-     "https://www.vea.com.ar/leche-polvo-extra-calcio-750-grs-svelty/p"
-    ],
-    "Jumbo": [
-     19300.0,
-     "https://www.jumbo.com.ar/leche-polvo-extra-calcio-750-grs-svelty/p"
-    ]
-   }
-  },
-  {
    "n": "Jabon líquido Ace clásico Doypack 800 ml",
    "m": "Ace",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776446/7790990002964_01.jpg?v=639005423523330000",
@@ -1967,37 +2942,6 @@
     "ChangoMás": [
      4449.0,
      "https://www.masonline.com.ar/jabon-liquido-para-ropa-ace-clasico-800ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Postre Exquisita de chocolate 80 g.",
-   "m": "Exquisita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904086/7790070417879_E01.jpg?v=639198894649300000",
-   "cadena": "Jumbo",
-   "precio": 990.0,
-   "link": "https://www.jumbo.com.ar/exquisita-postre-chocolate-x80-gr-2/p",
-   "referencia": 1650.0,
-   "precio_2da": 1590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.7,
-   "score": 1509,
-   "pr": {
-    "Carrefour": [
-     1590.0,
-     "https://www.carrefour.com.ar/postre-exquisita-de-chocolate-80-g-697198/p"
-    ],
-    "Vea": [
-     1590.0,
-     "https://www.vea.com.ar/exquisita-postre-chocolate-x80-gr-2/p"
-    ],
-    "Jumbo": [
-     990.0,
-     "https://www.jumbo.com.ar/exquisita-postre-chocolate-x80-gr-2/p"
-    ],
-    "ChangoMás": [
-     1829.0,
-     "https://www.masonline.com.ar/postre-exquisita-chocolate-light-65-gr-2/p"
     ]
    }
   },
@@ -2056,40 +3000,40 @@
    }
   },
   {
-   "n": "Cerveza Rubia 473 Ml Salta",
-   "m": "SALTA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/579444/Cerveza-Salta-Lata-473ml-1-295731.jpg?v=637215672652630000",
-   "cadena": "Vea",
-   "precio": 1557.0,
-   "link": "https://www.vea.com.ar/cerveza-salta-lat-473cc-rubia/p",
-   "referencia": 2595.0,
-   "precio_2da": 2495.99,
+   "n": "Café Tostado Molido Puro 190 Grs Nescafé®",
+   "m": "NESCAFE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/906138/Caf-Tostado-Molido-Puro-190-Grs-Nescaf-1-1028548.jpg?v=639123178495700000",
+   "cadena": "Carrefour",
+   "precio": 8393.4,
+   "link": "https://www.carrefour.com.ar/nescafe-tostado-y-molido-puro-190-grs-751689/p",
+   "referencia": 13989.0,
+   "precio_2da": 13449.0,
    "baja_pct": 40.0,
    "brecha_pct": 37.6,
-   "score": 1505,
+   "score": 1504,
    "pr": {
     "Vea": [
-     1557.0,
-     "https://www.vea.com.ar/cerveza-salta-lat-473cc-rubia/p"
+     13690.0,
+     "https://www.vea.com.ar/cafe-tostado-molido-puro-190-grs-nescafe/p"
     ],
     "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-salta-lat-473cc-rubia/p"
+     13900.0,
+     "https://www.jumbo.com.ar/cafe-tostado-molido-puro-190-grs-nescafe/p"
     ],
-    "Comodín": [
-     2495.99,
-     "https://www.comodinencasa.com.ar/cerveza-salta-lata-x-473-cc/p"
+    "ChangoMás": [
+     13449.0,
+     "https://www.masonline.com.ar/cafe-molido-nescafe-tostado-190-g/p"
     ],
     "Carrefour": [
-     2615.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-salta-473-ml-633108/p"
+     8393.4,
+     "https://www.carrefour.com.ar/nescafe-tostado-y-molido-puro-190-grs-751689/p"
     ]
    }
   },
   {
    "n": "Nuggets Crocantes 1 Kg Union Ganadera",
    "m": "UNION GANADERA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/855761/Nuggets-X-1-Kg-Union-Ganadera-1-1029196.jpg?v=638754033699130000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/855761/Nuggets-X-1-Kg-Union-Ganadera-1-1029196.jpg?v=638754033699130000",
    "cadena": "ChangoMás",
    "precio": 13577.4,
    "link": "https://www.masonline.com.ar/nuggets-union-ganadera-crocantes-1-kg/p",
@@ -2099,6 +3043,10 @@
    "brecha_pct": 37.6,
    "score": 1504,
    "pr": {
+    "Vea": [
+     22790.0,
+     "https://www.vea.com.ar/nuggets-x-1-kg-union-ganadera/p"
+    ],
     "Jumbo": [
      23350.0,
      "https://www.jumbo.com.ar/nuggets-x-1-kg-union-ganadera/p"
@@ -2164,6 +3112,33 @@
     "Comodín": [
      4669.59,
      "https://www.comodinencasa.com.ar/toallas-humeda-q-soft-flow-clasica-40-un/p"
+    ]
+   }
+  },
+  {
+   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
+   "m": "Tostitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
+   "cadena": "Carrefour",
+   "precio": 3341.4,
+   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p",
+   "referencia": 5569.0,
+   "precio_2da": 5349.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1501,
+   "pr": {
+    "Carrefour": [
+     3341.4,
+     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
+    ],
+    "Vea": [
+     5590.0,
+     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
+    ],
+    "ChangoMás": [
+     5349.0,
+     "https://www.masonline.com.ar/nachos-tostitos-hierbas-y-limon-144g/p"
     ]
    }
   }
