@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-25 13:40",
+ "actualizado": "2026-10-25 18:45",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -19,7 +19,7 @@
   "2026-10-24",
   "2026-10-25"
  ],
- "total": 65,
+ "total": 62,
  "ofertas": [
   {
    "n": "Jugo en polvo BC La Campagnola naranja 7 g.",
@@ -1441,60 +1441,6 @@
    }
   },
   {
-   "n": "Supremitas de pollo rebozadas Sadia 720 g.",
-   "m": "Sadia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861256/7891515547066_E02.jpg?v=639130063606970000",
-   "cadena": "Carrefour",
-   "precio": 8765.4,
-   "link": "https://www.carrefour.com.ar/supremitas-de-pollo-rebozadas-sadia-720-g/p",
-   "referencia": 14609.0,
-   "precio_2da": 15300.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.7,
-   "score": 1708,
-   "pr": {
-    "Carrefour": [
-     8765.4,
-     "https://www.carrefour.com.ar/supremitas-de-pollo-rebozadas-sadia-720-g/p"
-    ],
-    "Vea": [
-     15300.0,
-     "https://www.vea.com.ar/chicken-fingers-sadia-720-gr/p"
-    ],
-    "Jumbo": [
-     16100.0,
-     "https://www.jumbo.com.ar/chicken-fingers-sadia-720-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
-   "m": "Tostitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
-   "cadena": "Carrefour",
-   "precio": 3210.0,
-   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p",
-   "referencia": 5569.0,
-   "precio_2da": 5349.0,
-   "baja_pct": 42.4,
-   "brecha_pct": 40.0,
-   "score": 1694,
-   "pr": {
-    "Carrefour": [
-     3210.0,
-     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
-    ],
-    "Vea": [
-     5590.0,
-     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
-    ],
-    "ChangoMás": [
-     5349.0,
-     "https://www.masonline.com.ar/nachos-tostitos-hierbas-y-limon-144g/p"
-    ]
-   }
-  },
-  {
    "n": "Café Tostado Molido Puro 190 Grs Nescafé®",
    "m": "NESCAFE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/906138/Caf-Tostado-Molido-Puro-190-Grs-Nescaf-1-1028548.jpg?v=639123178495700000",
@@ -1661,33 +1607,6 @@
     "ChangoMás": [
      12539.0,
      "https://www.masonline.com.ar/chocolate-blanco-c-oreo-milka-155g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Tresemme Liso Efecto Botox 250 Ml",
-   "m": "TRESEMMÉ",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/802919/Acondicionador-Tresemme-Liso-Efecto-Botox-250-Ml-1-1000571.jpg?v=638375620334470000",
-   "cadena": "ChangoMás",
-   "precio": 4295.4,
-   "link": "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p",
-   "referencia": 7159.0,
-   "precio_2da": 7050.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.1,
-   "score": 1563,
-   "pr": {
-    "Vea": [
-     7890.0,
-     "https://www.vea.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
-    ],
-    "ChangoMás": [
-     4295.4,
-     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
-    ],
-    "Carrefour": [
-     7050.0,
-     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
     ]
    }
   },
