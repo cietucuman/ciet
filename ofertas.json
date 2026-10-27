@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-27",
- "actualizado": "2026-10-27 12:06",
+ "actualizado": "2026-10-27 17:38",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -20,7 +20,7 @@
   "2026-10-26",
   "2026-10-27"
  ],
- "total": 3,
+ "total": 9,
  "ofertas": [
   {
    "n": "Alfajor de Arroz Sabor Pistacho 168 Grs x 6 Un Chocoarroz",
@@ -50,29 +50,211 @@
    }
   },
   {
-   "n": "Suavizante U´nico concentrado Ecovita en botella 500 ml",
-   "m": "Ecovita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/803118/7798124362724_01.jpg?v=639074654293870000",
-   "cadena": "ChangoMás",
-   "precio": 4205.4,
-   "link": "https://www.masonline.com.ar/suavizante-para-ropa-ecovita-concentrado-unico-500-ml/p",
-   "referencia": 7009.0,
-   "precio_2da": 7010.0,
+   "n": "Bebida Frizzante Sabor Limón 1 Lts Frizze",
+   "m": "FRIZZE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808306/Frizante-Frizze-Limonata-1lt-1-856972.jpg?v=638421611446600000",
+   "cadena": "Carrefour",
+   "precio": 2090.0,
+   "link": "https://www.carrefour.com.ar/frizante-italian-limonata-frizze-1-l/p",
+   "referencia": 4180.0,
+   "precio_2da": 3327.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.2,
+   "score": 1860,
+   "pr": {
+    "Vea": [
+     4390.0,
+     "https://www.vea.com.ar/frizante-frizze-limonata-1lt/p"
+    ],
+    "Comodín": [
+     3327.99,
+     "https://www.comodinencasa.com.ar/vino-frizze-evolution-new-it-limonata-1l/p"
+    ],
+    "Carrefour": [
+     2090.0,
+     "https://www.carrefour.com.ar/frizante-italian-limonata-frizze-1-l/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Frizze Evolution New Blue 1Lt",
+   "m": "Frizze",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/167493/Vino-Frizze-Evolution-New-Blue-1Lt.png?v=637638879608330000",
+   "cadena": "Carrefour",
+   "precio": 2090.0,
+   "link": "https://www.carrefour.com.ar/frizzante-evolution-blue-frizze-1-l-672826/p",
+   "referencia": 4180.0,
+   "precio_2da": 3327.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 37.2,
+   "score": 1860,
+   "pr": {
+    "Comodín": [
+     3327.99,
+     "https://www.comodinencasa.com.ar/vino-frizze-evolution-new-blue-1lt/p"
+    ],
+    "Carrefour": [
+     2090.0,
+     "https://www.carrefour.com.ar/frizzante-evolution-blue-frizze-1-l-672826/p"
+    ],
+    "ChangoMás": [
+     3939.0,
+     "https://www.masonline.com.ar/espumante-evolution-blue-frizze-1-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Pasta dental Colgate triple acción extra blancura 90 grs",
+   "m": "Colgate",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/578496/7509546056098_01.jpg?v=638639021841530000",
+   "cadena": "Comodín",
+   "precio": 2699.0,
+   "link": "https://www.comodinencasa.com.ar/crema-dental-colgate-t-a-xtra-blanc-90g/p",
+   "referencia": 4594.79,
+   "precio_2da": 4590.0,
+   "baja_pct": 41.3,
+   "brecha_pct": 41.2,
+   "score": 1700,
+   "pr": {
+    "Carrefour": [
+     4590.0,
+     "https://www.carrefour.com.ar/pasta-dental-colgate-triple-accion-extra-blancura-90-grs-552635/p"
+    ],
+    "Vea": [
+     4690.0,
+     "https://www.vea.com.ar/pasta-dental-triple-accion-extra-blancura-90-grs-colgate/p"
+    ],
+    "Jumbo": [
+     4850.0,
+     "https://www.jumbo.com.ar/pasta-dental-triple-accion-extra-blancura-90-grs-colgate/p"
+    ],
+    "ChangoMás": [
+     5099.0,
+     "https://www.masonline.com.ar/crema-dental-colgate-triple-accion-extra-blancura-75ml/p"
+    ],
+    "Comodín": [
+     2699.0,
+     "https://www.comodinencasa.com.ar/crema-dental-colgate-t-a-xtra-blanc-90g/p"
+    ]
+   }
+  },
+  {
+   "n": "Nuggets de pollo Sadia crocantes 300 g.",
+   "m": "Aleluya",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861254/7891515571351_E02.jpg?v=639130062849300000",
+   "cadena": "Carrefour",
+   "precio": 3636.0,
+   "link": "https://www.carrefour.com.ar/nuggets-de-pollo-sadia-crocantes-300-g-696446/p",
+   "referencia": 6050.0,
+   "precio_2da": 6069.0,
+   "baja_pct": 39.9,
+   "brecha_pct": 40.1,
+   "score": 1600,
+   "pr": {
+    "Carrefour": [
+     3636.0,
+     "https://www.carrefour.com.ar/nuggets-de-pollo-sadia-crocantes-300-g-696446/p"
+    ],
+    "Vea": [
+     6390.0,
+     "https://www.vea.com.ar/nuggets-sadia-de-pollo-crocante-x300g/p"
+    ],
+    "Jumbo": [
+     6550.0,
+     "https://www.jumbo.com.ar/nuggets-sadia-de-pollo-crocante-x300g/p"
+    ],
+    "ChangoMás": [
+     6069.0,
+     "https://www.masonline.com.ar/nuggets-de-pollo-sadia-congelada-crocrante-300-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Supremitas de pollo rebozadas Sadia 720 g.",
+   "m": "Sadia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861256/7891515547066_E02.jpg?v=639130063606970000",
+   "cadena": "Carrefour",
+   "precio": 8765.4,
+   "link": "https://www.carrefour.com.ar/supremitas-de-pollo-rebozadas-sadia-720-g/p",
+   "referencia": 14609.0,
+   "precio_2da": 14609.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Carrefour": [
-     7010.0,
-     "https://www.carrefour.com.ar/suavizante-unico-concentrado-ecovita-en-botella-500-ml-775800/p"
+     8765.4,
+     "https://www.carrefour.com.ar/supremitas-de-pollo-rebozadas-sadia-720-g/p"
     ],
     "Vea": [
-     7290.0,
-     "https://www.vea.com.ar/suavizante-concentrado-unico-botella-x-500-ml-ecovita/p"
+     15300.0,
+     "https://www.vea.com.ar/chicken-fingers-sadia-720-gr/p"
+    ],
+    "Jumbo": [
+     16100.0,
+     "https://www.jumbo.com.ar/chicken-fingers-sadia-720-gr/p"
     ],
     "ChangoMás": [
-     4205.4,
-     "https://www.masonline.com.ar/suavizante-para-ropa-ecovita-concentrado-unico-500-ml/p"
+     14609.0,
+     "https://www.masonline.com.ar/bocaditos-de-pollo-sadia-720-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Efecto Botox 250 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930160/Shampoo-Tresemm-Liso-Efecto-Botox-250-Ml-1-1000659.jpg?v=639252781705670000",
+   "cadena": "Carrefour",
+   "precio": 4230.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-250-ml-730390/p",
+   "referencia": 7050.0,
+   "precio_2da": 7000.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.6,
+   "score": 1583,
+   "pr": {
+    "Jumbo": [
+     7000.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-250-ml/p"
+    ],
+    "Carrefour": [
+     4230.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-250-ml-730390/p"
+    ],
+    "ChangoMás": [
+     7159.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-250ml-2-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Xtra Triple Proteccion Seca 16 Un Always",
+   "m": "ALWAYS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/791976/Toallas-Femeninas-Always-Toa-Fem-Always-Xtra-Triple-Prot-Seca-16u-1-989501.jpg?v=638291901765430000",
+   "cadena": "Carrefour",
+   "precio": 5687.4,
+   "link": "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p",
+   "referencia": 9479.0,
+   "precio_2da": 9119.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1505,
+   "pr": {
+    "Vea": [
+     9490.0,
+     "https://www.vea.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Jumbo": [
+     9950.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-16-un-always/p"
+    ],
+    "Carrefour": [
+     5687.4,
+     "https://www.carrefour.com.ar/always-xtra-triple-proteccion-seca-toallas-16-uni-726077/p"
+    ],
+    "ChangoMás": [
+     9119.0,
+     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-16un-2/p"
     ]
    }
   },
