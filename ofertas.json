@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-28",
- "actualizado": "2026-10-28 10:19",
+ "actualizado": "2026-10-28 18:19",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -20,35 +20,8 @@
   "2026-10-27",
   "2026-10-28"
  ],
- "total": 15,
+ "total": 14,
  "ofertas": [
-  {
-   "n": "Gomitas Mogul Arañita Halloween 30g",
-   "m": "ARCOR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/926527/Gomitas-Mogul-Ara-ita-Halloween-30g-2-1063660.jpg?v=639238953741930000",
-   "cadena": "Jumbo",
-   "precio": 450.0,
-   "link": "https://www.jumbo.com.ar/gomitas-mogul-aranita-halloween-30g/p",
-   "referencia": 900.0,
-   "precio_2da": 890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.4,
-   "score": 2472,
-   "pr": {
-    "Vea": [
-     890.0,
-     "https://www.vea.com.ar/gomitas-mogul-aranita-halloween-30g/p"
-    ],
-    "Jumbo": [
-     450.0,
-     "https://www.jumbo.com.ar/gomitas-mogul-aranita-halloween-30g/p"
-    ],
-    "ChangoMás": [
-     939.0,
-     "https://www.masonline.com.ar/gomitas-mogul-aranitas-30g/p"
-    ]
-   }
-  },
   {
    "n": "Caramlos Butter Toffees rellenos de dulce de leche 80 grs",
    "m": "Butter Toffees",
@@ -104,33 +77,6 @@
    }
   },
   {
-   "n": "Chupetines Mr. Pops Frutal 125 Gr",
-   "m": "ARCOR",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/582937/Chupetines-Mr-Pops-Frutal-125-Gr-1-1300.jpg?v=637234676217970000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/chupetines-mr-pops-frutal-125-gr/p",
-   "referencia": 2650.0,
-   "precio_2da": 2535.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.7,
-   "score": 2387,
-   "pr": {
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/chupetines-mr-pops-frutal-125-gr/p"
-    ],
-    "Carrefour": [
-     2535.0,
-     "https://www.carrefour.com.ar/chupetin-frutal-mister-pops-125-g/p"
-    ],
-    "ChangoMás": [
-     2659.0,
-     "https://www.masonline.com.ar/chupetines-pop-s-125-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Confites Skittles originales 61.5 g.",
    "m": "Skittles",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/324564/22000018465_E02.jpg?v=638198427172670000",
@@ -154,6 +100,37 @@
     "Jumbo": [
      2775.0,
      "https://www.jumbo.com.ar/skittles-orginal-61-5-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Moras Mogul X 80 Gr Arcor",
+   "m": "ARCOR",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872321/Moras-Mogul-Arcor-80-Gr-1-1039193.jpg?v=638859441971600000",
+   "cadena": "Jumbo",
+   "precio": 975.0,
+   "link": "https://www.jumbo.com.ar/moras-mogul-x-80-gr-arcor/p",
+   "referencia": 1950.0,
+   "precio_2da": 1790.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.5,
+   "score": 2277,
+   "pr": {
+    "Vea": [
+     1790.0,
+     "https://www.vea.com.ar/moras-mogul-x-80-gr-arcor/p"
+    ],
+    "Jumbo": [
+     975.0,
+     "https://www.jumbo.com.ar/moras-mogul-x-80-gr-arcor/p"
+    ],
+    "Carrefour": [
+     1889.0,
+     "https://www.carrefour.com.ar/gomitas-moras-mogul-80-grs-762634/p"
+    ],
+    "ChangoMás": [
+     1889.0,
+     "https://www.masonline.com.ar/gomitas-mogul-moras-80-g/p"
     ]
    }
   },
@@ -375,37 +352,6 @@
    }
   },
   {
-   "n": "Nuggets de pollo Sadia crocantes 300 g.",
-   "m": "Aleluya",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861254/7891515571351_E02.jpg?v=639130062849300000",
-   "cadena": "Carrefour",
-   "precio": 3636.0,
-   "link": "https://www.carrefour.com.ar/nuggets-de-pollo-sadia-crocantes-300-g-696446/p",
-   "referencia": 6050.0,
-   "precio_2da": 6069.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 40.1,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     3636.0,
-     "https://www.carrefour.com.ar/nuggets-de-pollo-sadia-crocantes-300-g-696446/p"
-    ],
-    "Vea": [
-     6390.0,
-     "https://www.vea.com.ar/nuggets-sadia-de-pollo-crocante-x300g/p"
-    ],
-    "Jumbo": [
-     6550.0,
-     "https://www.jumbo.com.ar/nuggets-sadia-de-pollo-crocante-x300g/p"
-    ],
-    "ChangoMás": [
-     6069.0,
-     "https://www.masonline.com.ar/nuggets-de-pollo-sadia-congelada-crocrante-300-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Supremitas de pollo rebozadas Sadia 720 g.",
    "m": "Sadia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861256/7891515547066_E02.jpg?v=639130063606970000",
@@ -460,10 +406,33 @@
     "Carrefour": [
      3714.0,
      "https://www.carrefour.com.ar/toalla-femenina-always-xtra-noche-seca-con-alas-8-uni-726073/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Liso Efecto Botox 250 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930160/Shampoo-Tresemm-Liso-Efecto-Botox-250-Ml-1-1000659.jpg?v=639252781705670000",
+   "cadena": "Carrefour",
+   "precio": 4230.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-250-ml-730390/p",
+   "referencia": 7050.0,
+   "precio_2da": 7000.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.6,
+   "score": 1583,
+   "pr": {
+    "Jumbo": [
+     7000.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-250-ml/p"
+    ],
+    "Carrefour": [
+     4230.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-250-ml-730390/p"
     ],
     "ChangoMás": [
-     6269.0,
-     "https://www.masonline.com.ar/toallas-femeninas-always-xtra-nocturnas-8un-2/p"
+     7159.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-250ml-2-2/p"
     ]
    }
   }
