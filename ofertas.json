@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-11-04 11:59",
+ "actualizado": "2026-11-04 18:58",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,160 +21,36 @@
   "2026-11-03",
   "2026-11-04"
  ],
- "total": 33,
+ "total": 32,
  "ofertas": [
   {
-   "n": "Pasta dental Sensodyne repara & protege 100 g.",
-   "m": "Sensodyne",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383074/7794640170133_01.jpg?v=638315924664970000",
-   "cadena": "ChangoMás",
-   "precio": 5254.5,
-   "link": "https://www.masonline.com.ar/crema-dental-repara-protege-sensodyne-100gr-2-2/p",
-   "referencia": 10929.0,
-   "precio_2da": 10319.99,
-   "baja_pct": 51.9,
-   "brecha_pct": 49.1,
-   "score": 2549,
-   "pr": {
-    "Carrefour": [
-     10690.0,
-     "https://www.carrefour.com.ar/pasta-dental-sensodyne-repara-y-protege-100-g-527109/p"
-    ],
-    "Vea": [
-     10690.0,
-     "https://www.vea.com.ar/pasta-dental-sensodyne-rep-protege-100gr/p"
-    ],
-    "Jumbo": [
-     11300.0,
-     "https://www.jumbo.com.ar/pasta-dental-sensodyne-rep-protege-100gr/p"
-    ],
-    "Comodín": [
-     10319.99,
-     "https://www.comodinencasa.com.ar/crema-dental-sensodyne-repa-prot-100gr/p"
-    ],
-    "ChangoMás": [
-     5254.5,
-     "https://www.masonline.com.ar/crema-dental-repara-protege-sensodyne-100gr-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en Polvo Sabor Naranja y Mango 15 Grs Tang",
-   "m": "TANG",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/806222/Jugo-En-Polvo-Tang-Sabor-Naranja-Mango-15g-1-941130.jpg?v=638400009871700000",
-   "cadena": "Jumbo",
-   "precio": 261.5,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-tang-naranja-mango-15gr-2/p",
-   "referencia": 529.0,
-   "precio_2da": 519.0,
-   "baja_pct": 50.6,
-   "brecha_pct": 49.6,
-   "score": 2509,
-   "pr": {
-    "Jumbo": [
-     261.5,
-     "https://www.jumbo.com.ar/jugo-en-polvo-tang-naranja-mango-15gr-2/p"
-    ],
-    "ChangoMás": [
-     519.0,
-     "https://www.masonline.com.ar/tang-jugo-en-polvo-nar-mango-15g-2/p"
-    ],
-    "Comodín": [
-     529.39,
-     "https://www.comodinencasa.com.ar/jugo-tang-supvit-naranja-mango-x-18-gr/p"
-    ],
-    "Carrefour": [
-     589.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-tang-naranja-mango-15-g-711781/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Dove Oleo Nutricion 200 Ml",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919899/13711211001.jpg?v=639179987113430000",
-   "cadena": "ChangoMás",
-   "precio": 2689.5,
-   "link": "https://www.masonline.com.ar/shampoo-dove-oleo-nutricion-200-ml-2-2/p",
-   "referencia": 5379.0,
-   "precio_2da": 5390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.1,
-   "score": 2505,
-   "pr": {
-    "Vea": [
-     6690.0,
-     "https://www.vea.com.ar/shampoo-dove-oleo-nutricion-200-ml/p"
-    ],
-    "Comodín": [
-     5774.09,
-     "https://www.comodinencasa.com.ar/shampoo-dove-oleo-nutricion-200ml/p"
-    ],
-    "ChangoMás": [
-     2689.5,
-     "https://www.masonline.com.ar/shampoo-dove-oleo-nutricion-200-ml-2-2/p"
-    ],
-    "Carrefour": [
-     5390.0,
-     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Tang sabor pera 15 g",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814764/7622201745738_E01.jpg?v=639082504664770000",
+   "n": "Caramelos Tutti Frutti Flynn Paff 128 Gr",
+   "m": "FLYNN PAFF",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/471475/Caramelos-Flynn-Paff-Tutti-Frutti-128-Gr-1-2455.jpg?v=636693839570200000",
    "cadena": "Carrefour",
-   "precio": 265.0,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p",
-   "referencia": 530.0,
-   "precio_2da": 519.0,
+   "precio": 1475.0,
+   "link": "https://www.carrefour.com.ar/caramelos-masticables-flynn-paff-tutti-frutti-128-g-482773/p",
+   "referencia": 2950.0,
+   "precio_2da": 3149.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2447,
+   "brecha_pct": 53.2,
+   "score": 2658,
    "pr": {
-    "Carrefour": [
-     265.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p"
-    ],
-    "ChangoMás": [
-     519.0,
-     "https://www.masonline.com.ar/tang-jugo-en-polvo-pera-15g-2/p"
-    ],
-    "Comodín": [
-     529.39,
-     "https://www.comodinencasa.com.ar/jugo-tang-supvit-pera-x-18-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Pasta dental Sensodyne multi protección 90 g.",
-   "m": "Sensodyne",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383076/7896009419294_01.jpg?v=639149822422530000",
-   "cadena": "ChangoMás",
-   "precio": 3369.5,
-   "link": "https://www.masonline.com.ar/crema-dental-sensodyne-multiproteccion-x-90g-2/p",
-   "referencia": 6739.0,
-   "precio_2da": 6590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2443,
-   "pr": {
-    "Carrefour": [
-     6590.0,
-     "https://www.carrefour.com.ar/pasta-dental-sensodyne-multi-proteccion-90-g-508894/p"
-    ],
     "Vea": [
-     6790.0,
-     "https://www.vea.com.ar/pasta-dental-sensodyne-multi-proteccion-90gr/p"
+     3190.0,
+     "https://www.vea.com.ar/caramelos-flynn-paff-tutti-frutti-128gr/p"
     ],
     "Jumbo": [
-     7000.0,
-     "https://www.jumbo.com.ar/pasta-dental-sensodyne-multi-proteccion-90gr/p"
+     3300.0,
+     "https://www.jumbo.com.ar/caramelos-flynn-paff-tutti-frutti-128gr/p"
+    ],
+    "Carrefour": [
+     1475.0,
+     "https://www.carrefour.com.ar/caramelos-masticables-flynn-paff-tutti-frutti-128-g-482773/p"
     ],
     "ChangoMás": [
-     3369.5,
-     "https://www.masonline.com.ar/crema-dental-sensodyne-multiproteccion-x-90g-2/p"
+     3149.0,
+     "https://www.masonline.com.ar/caramelo-tuti-fruti-flynn-paff-128gr-2/p"
     ]
    }
   },
@@ -469,6 +345,33 @@
    }
   },
   {
+   "n": "Plusbelle Esencia Shampoo Restauración 970 ml",
+   "m": "Plusbelle",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/778841/7790740000448_01.jpg?v=639009757436500000",
+   "cadena": "Carrefour",
+   "precio": 2934.0,
+   "link": "https://www.carrefour.com.ar/plusbelle-esencia-shampoo-restauracion-970-ml-700338/p",
+   "referencia": 4890.0,
+   "precio_2da": 5650.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 48.1,
+   "score": 1923,
+   "pr": {
+    "Carrefour": [
+     2934.0,
+     "https://www.carrefour.com.ar/plusbelle-esencia-shampoo-restauracion-970-ml-700338/p"
+    ],
+    "Vea": [
+     5890.0,
+     "https://www.vea.com.ar/shampoo-esencia-restauracion-970-ml-plusbelle/p"
+    ],
+    "Jumbo": [
+     5650.0,
+     "https://www.jumbo.com.ar/shampoo-esencia-restauracion-970-ml-plusbelle/p"
+    ]
+   }
+  },
+  {
    "n": "Alfajor Pepitos triple 57 g.",
    "m": "Pepitos",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912587/77915481_01.jpg?v=639220553627100000",
@@ -496,33 +399,6 @@
     "ChangoMás": [
      2329.0,
      "https://www.masonline.com.ar/alfajor-triple-pepitos-57-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Sopa Instantánea Sabor Carne 64 Grs Maruchan",
-   "m": "MARUCHAN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/928595/Sopa-De-Fideos-Maruchan-De-Carne-64-Gr-1-1065024.jpg?v=639250841611600000",
-   "cadena": "Vea",
-   "precio": 2745.0,
-   "link": "https://www.vea.com.ar/sopa-de-fideos-maruchan-de-carne-64-gr-2/p",
-   "referencia": 5490.0,
-   "precio_2da": 4400.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.6,
-   "score": 1881,
-   "pr": {
-    "Vea": [
-     2745.0,
-     "https://www.vea.com.ar/sopa-de-fideos-maruchan-de-carne-64-gr-2/p"
-    ],
-    "Jumbo": [
-     5800.0,
-     "https://www.jumbo.com.ar/sopa-de-fideos-maruchan-de-carne-64-gr-2/p"
-    ],
-    "Carrefour": [
-     4400.0,
-     "https://www.carrefour.com.ar/ramen-maruchan-sabor-carne-de-res-64-g/p"
     ]
    }
   },
@@ -558,60 +434,6 @@
    }
   },
   {
-   "n": "Vino Tinto Malbec y Cabernet Sauvignon 750 Cc Estancia Mendoza",
-   "m": "ESTANCIA MENDOZA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/822785/Vino-Estancia-Mendoza-Cabernet-Sauvignon-Malbe-1-1008929.jpg?v=638508243326500000",
-   "cadena": "Carrefour",
-   "precio": 2732.8,
-   "link": "https://www.carrefour.com.ar/vino-tinto-cabernet-malbec-estancia-mendoza-750-cc-740444/p",
-   "referencia": 5319.6,
-   "precio_2da": 4290.0,
-   "baja_pct": 48.6,
-   "brecha_pct": 36.3,
-   "score": 1765,
-   "pr": {
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/vino-malbec-cabernet-sauvignon-estancia-mendoza/p"
-    ],
-    "Jumbo": [
-     4450.0,
-     "https://www.jumbo.com.ar/vino-malbec-cabernet-sauvignon-estancia-mendoza/p"
-    ],
-    "Carrefour": [
-     2732.8,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-malbec-estancia-mendoza-750-cc-740444/p"
-    ]
-   }
-  },
-  {
-   "n": "Máscara de Tratamiento Dove Hidratación + Hialuron Vit 300 grs",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928359/7791293050881_01.jpg?v=639243991723500000",
-   "cadena": "Carrefour",
-   "precio": 4850.0,
-   "link": "https://www.carrefour.com.ar/mascara-de-tratamiento-dove-hidratacion-hialuron-vit-300-grs-739955/p",
-   "referencia": 9700.0,
-   "precio_2da": 7401.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.5,
-   "score": 1724,
-   "pr": {
-    "Carrefour": [
-     4850.0,
-     "https://www.carrefour.com.ar/mascara-de-tratamiento-dove-hidratacion-hialuron-vit-300-grs-739955/p"
-    ],
-    "Comodín": [
-     7401.69,
-     "https://www.comodinencasa.com.ar/mascara-dove-hidratacion-300gr/p"
-    ],
-    "ChangoMás": [
-     9689.0,
-     "https://www.masonline.com.ar/mascara-capilar-dove-hidratacion-300gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Bastonitos Krachitos sabor ketchup 50 grs",
    "m": "Krachitos",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905785/7794520869782_E02.jpg?v=639202579780100000",
@@ -639,29 +461,29 @@
    }
   },
   {
-   "n": "Bizcochos de arroz dulce Gallo snacks tortita negra 100 g.",
-   "m": "Gallo Snacks",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929294/7790070418449_E01.jpg?v=639245653362830000",
-   "cadena": "Vea",
-   "precio": 2214.0,
-   "link": "https://www.vea.com.ar/bizcocho-arroz-gallo-snack-tortita-negra-x-100gr/p",
-   "referencia": 3690.0,
-   "precio_2da": 3799.0,
+   "n": "Toalla Tena discreet maxi nocturnas 10 uni",
+   "m": "Tena",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612601/7702026147914_01.jpg?v=638732374732670000",
+   "cadena": "Carrefour",
+   "precio": 10734.0,
+   "link": "https://www.carrefour.com.ar/toalla-tena-discreet-maxi-nocturnas-10-uni-755814/p",
+   "referencia": 17890.0,
+   "precio_2da": 17899.0,
    "baja_pct": 40.0,
-   "brecha_pct": 41.7,
-   "score": 1669,
+   "brecha_pct": 40.0,
+   "score": 1601,
    "pr": {
     "Carrefour": [
-     3800.0,
-     "https://www.carrefour.com.ar/bizcochos-de-arroz-dulce-gallo-snacks-tortita-negra-100-g-718341/p"
+     10734.0,
+     "https://www.carrefour.com.ar/toalla-tena-discreet-maxi-nocturnas-10-uni-755814/p"
     ],
     "Vea": [
-     2214.0,
-     "https://www.vea.com.ar/bizcocho-arroz-gallo-snack-tortita-negra-x-100gr/p"
+     18200.0,
+     "https://www.vea.com.ar/toalla-femenina-tena-discreet-max-night-x10/p"
     ],
     "ChangoMás": [
-     3799.0,
-     "https://www.masonline.com.ar/bizcocho-de-arroz-tortita-negra-100-gr-2/p"
+     17899.0,
+     "https://www.masonline.com.ar/toalla-higienica-tena-maxi-nocturna-10-u/p"
     ]
    }
   },
@@ -693,33 +515,68 @@
    }
   },
   {
-   "n": "Aerosol Desinfectante Ayudin Expert Bebe 332 Ml",
-   "m": "AYUDIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/797610/Ayudin-Aerosol-Desinfectante-Expert-Bebe-332-Cc-Aerosol-Desinfectante-Ayudin-Expert-Bebe-332-Ml-1-875182.jpg?v=638337586382600000",
-   "cadena": "ChangoMás",
-   "precio": 2327.4,
-   "link": "https://www.masonline.com.ar/aerosol-desinfectante-ayudin-expert-bebe-332-ml-2/p",
-   "referencia": 3879.0,
-   "precio_2da": 3879.0,
+   "n": "Toalla Nosotras clásica suave CURV 16 uni",
+   "m": "Nosotras",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612208/7790770601899_01.jpg?v=638731625647670000",
+   "cadena": "Carrefour",
+   "precio": 2519.4,
+   "link": "https://www.carrefour.com.ar/toalla-nosotras-clasica-suave-curv-16-uni-725976/p",
+   "referencia": 4199.0,
+   "precio_2da": 4199.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
+    "Carrefour": [
+     2519.4,
+     "https://www.carrefour.com.ar/toalla-nosotras-clasica-suave-curv-16-uni-725976/p"
+    ],
     "Vea": [
      4290.0,
-     "https://www.vea.com.ar/aerosol-desinfectante-ayudin-expert-bebe-332-ml/p"
+     "https://www.vea.com.ar/toalla-nosotras-clasica-curv-tipo-algodon-x-16-u/p"
     ],
     "Jumbo": [
-     4300.0,
-     "https://www.jumbo.com.ar/aerosol-desinfectante-ayudin-expert-bebe-332-ml/p"
+     4350.0,
+     "https://www.jumbo.com.ar/toalla-nosotras-clasica-curv-tipo-algodon-x-16-u/p"
     ],
-    "Carrefour": [
-     3879.0,
-     "https://www.carrefour.com.ar/desinfectante-ayudin-expert-bebe-aerosol-332-ml/p"
+    "Comodín": [
+     4828.79,
+     "https://www.comodinencasa.com.ar/toalla-nosotras-clasica-gel-16un/p"
     ],
     "ChangoMás": [
-     2327.4,
-     "https://www.masonline.com.ar/aerosol-desinfectante-ayudin-expert-bebe-332-ml-2/p"
+     4199.0,
+     "https://www.masonline.com.ar/toallitas-higienica-nosotras-clasica-suave-16un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Protector diario Nosotras multiestilo 60 uni",
+   "m": "Nosotras",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612495/7790770602056_01.jpg?v=638732322625270000",
+   "cadena": "Carrefour",
+   "precio": 5694.0,
+   "link": "https://www.carrefour.com.ar/protector-diario-nosotras-60-uni-725989/p",
+   "referencia": 9400.0,
+   "precio_2da": 9490.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 40.0,
+   "score": 1577,
+   "pr": {
+    "Carrefour": [
+     5694.0,
+     "https://www.carrefour.com.ar/protector-diario-nosotras-60-uni-725989/p"
+    ],
+    "Vea": [
+     9490.0,
+     "https://www.vea.com.ar/protector-diario-nosotras-multiestilo-con-calendula-x-60-u/p"
+    ],
+    "Comodín": [
+     9580.49,
+     "https://www.comodinencasa.com.ar/protector-nosotras-multiestilo-x-60-un/p"
+    ],
+    "ChangoMás": [
+     9799.0,
+     "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-60un-2/p"
     ]
    }
   },
@@ -747,6 +604,37 @@
     "ChangoMás": [
      5417.4,
      "https://www.masonline.com.ar/jabon-liquido-ropa-ecovita-evolution-3-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Protector diario Nosotras largos 50 uni",
+   "m": "Nosotras",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612510/7790770602032_01.jpg?v=638732327054500000",
+   "cadena": "Carrefour",
+   "precio": 5334.0,
+   "link": "https://www.carrefour.com.ar/protector-diario-nosotras-largos-50-uni-725992/p",
+   "referencia": 8815.0,
+   "precio_2da": 8819.0,
+   "baja_pct": 39.5,
+   "brecha_pct": 39.5,
+   "score": 1561,
+   "pr": {
+    "Carrefour": [
+     5334.0,
+     "https://www.carrefour.com.ar/protector-diario-nosotras-largos-50-uni-725992/p"
+    ],
+    "Vea": [
+     8890.0,
+     "https://www.vea.com.ar/protector-diario-nosotras-largos-con-calendula-x-50-u/p"
+    ],
+    "Jumbo": [
+     9200.0,
+     "https://www.jumbo.com.ar/protector-diario-nosotras-largos-con-calendula-x-50-u/p"
+    ],
+    "ChangoMás": [
+     8819.0,
+     "https://www.masonline.com.ar/protectores-diarios-nosotras-largos-50u/p"
     ]
    }
   },
@@ -801,6 +689,99 @@
     "ChangoMás": [
      8569.0,
      "https://www.masonline.com.ar/shampoo-head-shoulders-anti-caida-renovacion-capilar-180-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Guantes de Látex Grande Plumita",
+   "m": "PLUMITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/184606/Guante-Plumita-Guante-Plumita-Grande-Blister-1-U-1-20939.jpg?v=636383458499970000",
+   "cadena": "ChangoMás",
+   "precio": 1901.4,
+   "link": "https://www.masonline.com.ar/guante-plumitas-talle-l-xun-2/p",
+   "referencia": 3169.0,
+   "precio_2da": 3100.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.7,
+   "score": 1547,
+   "pr": {
+    "Vea": [
+     3290.0,
+     "https://www.vea.com.ar/guantes-plumitas-grande/p"
+    ],
+    "Carrefour": [
+     3100.0,
+     "https://www.carrefour.com.ar/guantes-plumita-talle-l-8-8-1-2-par/p"
+    ],
+    "Comodín": [
+     3118.99,
+     "https://www.comodinencasa.com.ar/guante-plumita-grande-x-1-un/p"
+    ],
+    "ChangoMás": [
+     1901.4,
+     "https://www.masonline.com.ar/guante-plumitas-talle-l-xun-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Old Spice 375 Ml Head & Shoulders",
+   "m": "HEAD & SHOULDERS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/819955/Shampoo-Head-Shoulders-Old-Spice-375-Ml-1-436257.jpg?v=638491378871730000",
+   "cadena": "Vea",
+   "precio": 8514.0,
+   "link": "https://www.vea.com.ar/shampoo-old-spice-375-ml-head-shoulders-2/p",
+   "referencia": 14190.0,
+   "precio_2da": 13839.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.5,
+   "score": 1539,
+   "pr": {
+    "Vea": [
+     8514.0,
+     "https://www.vea.com.ar/shampoo-old-spice-375-ml-head-shoulders-2/p"
+    ],
+    "Carrefour": [
+     14190.0,
+     "https://www.carrefour.com.ar/shampoo-old-spice-head-y-shoulders-375-cc/p"
+    ],
+    "ChangoMás": [
+     13839.0,
+     "https://www.masonline.com.ar/shampoo-head-shoulders-old-spice-para-hombres-375ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Protector Diario Nosotras Normal Con Caléndula X 100 U",
+   "m": "NOSOTRAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/848090/Protector-Diario-Nosotras-Normal-Con-Cal-ndula-X-100-U-1-994331.jpg?v=638690962138430000",
+   "cadena": "Carrefour",
+   "precio": 6834.0,
+   "link": "https://www.carrefour.com.ar/protector-diario-nosotras-normal-100-uni-725986/p",
+   "referencia": 11109.0,
+   "precio_2da": 11390.0,
+   "baja_pct": 38.5,
+   "brecha_pct": 40.0,
+   "score": 1539,
+   "pr": {
+    "Vea": [
+     11390.0,
+     "https://www.vea.com.ar/protector-diario-nosotras-normal-con-calendula-x-100-u/p"
+    ],
+    "Jumbo": [
+     11750.0,
+     "https://www.jumbo.com.ar/protector-diario-nosotras-normal-con-calendula-x-100-u/p"
+    ],
+    "Comodín": [
+     12418.69,
+     "https://www.comodinencasa.com.ar/protector-nosotras-normal-x-100-un/p"
+    ],
+    "Carrefour": [
+     6834.0,
+     "https://www.carrefour.com.ar/protector-diario-nosotras-normal-100-uni-725986/p"
+    ],
+    "ChangoMás": [
+     11549.0,
+     "https://www.masonline.com.ar/protectores-diarios-nosotras-normal-100un-2/p"
     ]
    }
   },
@@ -917,33 +898,6 @@
    }
   },
   {
-   "n": "Whisky Johnnie Walker red label botella 1 lt",
-   "m": "Johnnie Walker",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823677/5000267013602_01.jpg?v=639083182086700000",
-   "cadena": "Vea",
-   "precio": 31914.0,
-   "link": "https://www.vea.com.ar/whisky-johnnie-walker-red-label-botella-1-l/p",
-   "referencia": 53190.0,
-   "precio_2da": 51390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.9,
-   "score": 1516,
-   "pr": {
-    "Carrefour": [
-     51390.0,
-     "https://www.carrefour.com.ar/whisky-johnnie-walker-red-label-botella-1-lt-143774/p"
-    ],
-    "Vea": [
-     31914.0,
-     "https://www.vea.com.ar/whisky-johnnie-walker-red-label-botella-1-l/p"
-    ],
-    "ChangoMás": [
-     52599.0,
-     "https://www.masonline.com.ar/whisky-red-label-johnnie-walker-1-lt-2/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Head & Shoulders Anti-Resequedad Nutrición Diaria, Miel Aceites y Esenciales 375 m",
    "m": "Head & Shoulders",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/978214/7500435249348_01.jpg?v=639288993006270000",
@@ -971,6 +925,33 @@
     "ChangoMás": [
      14389.0,
      "https://www.masonline.com.ar/shampoo-head-shoulders-nutrihoney-375ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Protectores Diarios Respirable Hipoalergénico x 100 Un Ladysoft",
+   "m": "LADYSOFT",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/911824/Protector-Diario-Ladysoft-Respirable-100u-1-1057520.jpg?v=639135165823500000",
+   "cadena": "ChangoMás",
+   "precio": 3884.5,
+   "link": "https://www.masonline.com.ar/protectores-diarios-ladysoft-100-u-2/p",
+   "referencia": 7769.0,
+   "precio_2da": 5550.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.0,
+   "score": 1500,
+   "pr": {
+    "Jumbo": [
+     5550.0,
+     "https://www.jumbo.com.ar/protector-diario-respirable-x-100-un-ladysoft/p"
+    ],
+    "ChangoMás": [
+     3884.5,
+     "https://www.masonline.com.ar/protectores-diarios-ladysoft-100-u-2/p"
+    ],
+    "Carrefour": [
+     7529.0,
+     "https://www.carrefour.com.ar/protector-diario-ladysoft-respirable-100-uni-786753/p"
     ]
    }
   }
