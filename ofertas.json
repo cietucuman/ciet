@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-06",
- "actualizado": "2026-11-06 04:11",
+ "actualizado": "2026-11-06 18:30",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-11-05",
   "2026-11-06"
  ],
- "total": 67,
+ "total": 69,
  "ofertas": [
   {
    "n": "Acondicionador Fructis Hair Food Coco 300 ml",
@@ -163,33 +163,6 @@
    }
   },
   {
-   "n": "Protector diario Nosotras multiestilo 20 uni",
-   "m": "Nosotras",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612490/7790770601875_01.jpg?v=638732320909970000",
-   "cadena": "ChangoMás",
-   "precio": 1829.5,
-   "link": "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-20un-2/p",
-   "referencia": 3659.0,
-   "precio_2da": 3586.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.0,
-   "score": 2450,
-   "pr": {
-    "Carrefour": [
-     3659.0,
-     "https://www.carrefour.com.ar/protector-diario-nosotras-multiestilo-20-uni-725988/p"
-    ],
-    "Comodín": [
-     3586.99,
-     "https://www.comodinencasa.com.ar/protector-nosotras-multiestilo-x-20-un/p"
-    ],
-    "ChangoMás": [
-     1829.5,
-     "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-20un-2/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en polvo Tang sabor pera 15 g",
    "m": "Tang",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814764/7622201745738_E01.jpg?v=639082504664770000",
@@ -233,13 +206,13 @@
      2445.0,
      "https://www.vea.com.ar/cerveza-antares-caravana-473-ml-2/p"
     ],
-    "ChangoMás": [
-     4739.0,
-     "https://www.masonline.com.ar/cerveza-caravana-lata-antares-473-cc-2/p"
-    ],
     "Carrefour": [
      4739.0,
      "https://www.carrefour.com.ar/cerveza-rubia-antares-caravana-ipa-473-ml-658252/p"
+    ],
+    "ChangoMás": [
+     4739.0,
+     "https://www.masonline.com.ar/cerveza-caravana-lata-antares-473-cc-2/p"
     ]
    }
   },
@@ -383,6 +356,33 @@
    }
   },
   {
+   "n": "Chocolate Milka Oreo Lila Go 37 Gr",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803272/Barrita-Chocolate-Lila-Go-Oreo-37g-1-251554.jpg?v=638379382639370000",
+   "cadena": "Jumbo",
+   "precio": 1925.0,
+   "link": "https://www.jumbo.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p",
+   "referencia": 3850.0,
+   "precio_2da": 3589.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.4,
+   "score": 2318,
+   "pr": {
+    "Vea": [
+     3790.0,
+     "https://www.vea.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p"
+    ],
+    "Jumbo": [
+     1925.0,
+     "https://www.jumbo.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p"
+    ],
+    "Carrefour": [
+     3589.0,
+     "https://www.carrefour.com.ar/chocolate-milka-oreo-lila-go-37-g/p"
+    ]
+   }
+  },
+  {
    "n": "Chocolate Sabor Blanco con Oreo 20 Grs Milka",
    "m": "MILKA",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/923986/7622210795908.jpg?v=639223220946100000",
@@ -406,6 +406,33 @@
     "ChangoMás": [
      1789.0,
      "https://www.masonline.com.ar/tableta-lup-oreo-blanca-milka-20gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jabón líquido Protex Balance 200 ml",
+   "m": "Protex",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914278/7891024027226_01.jpg?v=639222316386300000",
+   "cadena": "ChangoMás",
+   "precio": 1859.5,
+   "link": "https://www.masonline.com.ar/protex-balance-200-ml-2/p",
+   "referencia": 3719.0,
+   "precio_2da": 3350.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.5,
+   "score": 2225,
+   "pr": {
+    "Carrefour": [
+     3719.0,
+     "https://www.carrefour.com.ar/jabon-liquido-protex-balance-200-ml-661982/p"
+    ],
+    "Jumbo": [
+     3350.0,
+     "https://www.jumbo.com.ar/jabon-liq-protex-refil-balance-200ml/p"
+    ],
+    "ChangoMás": [
+     1859.5,
+     "https://www.masonline.com.ar/protex-balance-200-ml-2/p"
     ]
    }
   },
@@ -441,6 +468,37 @@
    }
   },
   {
+   "n": "Chocolate Sabor Combinado Aireado 50 Grs Milka",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775619/Chocolate-Combinado-Milka-Leger-50g-1-870446.jpg?v=638163166650630000",
+   "cadena": "Jumbo",
+   "precio": 2900.0,
+   "link": "https://www.jumbo.com.ar/chocolate-milka-aireado-combinado-50-gr-2/p",
+   "referencia": 5800.0,
+   "precio_2da": 5190.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.1,
+   "score": 2206,
+   "pr": {
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/chocolate-milka-aireado-combinado-50-gr-2/p"
+    ],
+    "Jumbo": [
+     2900.0,
+     "https://www.jumbo.com.ar/chocolate-milka-aireado-combinado-50-gr-2/p"
+    ],
+    "Carrefour": [
+     5190.0,
+     "https://www.carrefour.com.ar/chocolate-milka-aireado-combinado-50-g-680442/p"
+    ],
+    "Comodín": [
+     7422.49,
+     "https://www.comodinencasa.com.ar/tableta-milka-leger-combinado-50gr-2/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo UV Repair y Glow 200 Ml Dove",
    "m": "DOVE",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
@@ -468,64 +526,6 @@
     "ChangoMás": [
      7409.0,
      "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Bond Intense Repair 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935004/13710774166.jpg?v=639282790948230000",
-   "cadena": "Jumbo",
-   "precio": 3925.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-bond-intense-repair-200-ml-2/p",
-   "referencia": 7850.0,
-   "precio_2da": 6790.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.2,
-   "score": 2110,
-   "pr": {
-    "Jumbo": [
-     3925.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-intense-repair-200-ml-2/p"
-    ],
-    "Comodín": [
-     6790.19,
-     "https://www.comodinencasa.com.ar/shampoo-dove-bond-intense-repair-200ml/p"
-    ],
-    "ChangoMás": [
-     7049.0,
-     "https://www.masonline.com.ar/shampoo-dove-bond-intense-repair-200ml-2/p"
-    ],
-    "Carrefour": [
-     7059.0,
-     "https://www.carrefour.com.ar/shampoo-dove-bond-repair-peptido-200-ml-743827/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo BC La Campagnola ananá 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823051/7790580129620_02.jpg?v=639083181881070000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 388.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.1,
-   "score": 2104,
-   "pr": {
-    "Carrefour": [
-     388.5,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-anana-7-g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-de-anana-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-anana-bc-7-gr-2/p"
     ]
    }
   },
@@ -739,6 +739,37 @@
    }
   },
   {
+   "n": "Desodorante de ambiente Poett frescura de lavanda en aerosol 360 ml.",
+   "m": "Poett",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204356/7793253004231_01.jpg?v=637589508237370000",
+   "cadena": "ChangoMás",
+   "precio": 2315.4,
+   "link": "https://www.masonline.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-aerosol-360-ml-2/p",
+   "referencia": 4509.0,
+   "precio_2da": 3751.29,
+   "baja_pct": 48.6,
+   "brecha_pct": 38.3,
+   "score": 1862,
+   "pr": {
+    "Carrefour": [
+     4379.0,
+     "https://www.carrefour.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-360-ml/p"
+    ],
+    "Vea": [
+     4590.0,
+     "https://www.vea.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-360-ml/p"
+    ],
+    "Comodín": [
+     3751.29,
+     "https://www.comodinencasa.com.ar/desodorante-amb-poett-lavanda-360-cc/p"
+    ],
+    "ChangoMás": [
+     2315.4,
+     "https://www.masonline.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-aerosol-360-ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Chocolate Chocman Coco 35 G",
    "m": "Bonafide",
    "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/356204/Chocolate-Chocman-Coco-35-G-0779236009707-1.jpg?v=638851560775900000",
@@ -882,6 +913,72 @@
    }
   },
   {
+   "n": "Acondicionador Dove Humectación + Coco Antioxi 200 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/928409/7791293047041_01.jpg?v=639243996721130000",
+   "cadena": "Jumbo",
+   "precio": 3500.0,
+   "link": "https://www.jumbo.com.ar/acondicionador-dove-ritual-de-reparacion-coco-200-ml/p",
+   "referencia": 7000.0,
+   "precio_2da": 5390.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.1,
+   "score": 1753,
+   "pr": {
+    "Carrefour": [
+     5390.0,
+     "https://www.carrefour.com.ar/acondicionador-dove-humectacion-coco-antioxi-200-ml-718527/p"
+    ],
+    "Vea": [
+     6390.0,
+     "https://www.vea.com.ar/acondicionador-dove-ritual-de-reparacion-coco-200-ml/p"
+    ],
+    "Jumbo": [
+     3500.0,
+     "https://www.jumbo.com.ar/acondicionador-dove-ritual-de-reparacion-coco-200-ml/p"
+    ],
+    "Comodín": [
+     5774.09,
+     "https://www.comodinencasa.com.ar/acondicionador-dove-ritual-repar-200ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Dove Nutrición + Tri-Óleos 200 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/906897/7791293047065_01.jpg?v=639205009161100000",
+   "cadena": "Jumbo",
+   "precio": 3500.0,
+   "link": "https://www.jumbo.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p",
+   "referencia": 7000.0,
+   "precio_2da": 5379.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 34.9,
+   "score": 1747,
+   "pr": {
+    "Carrefour": [
+     5390.0,
+     "https://www.carrefour.com.ar/acondicionador-dove-nutricion-tri-oleos-200-ml-718529/p"
+    ],
+    "Vea": [
+     6390.0,
+     "https://www.vea.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p"
+    ],
+    "Jumbo": [
+     3500.0,
+     "https://www.jumbo.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p"
+    ],
+    "Comodín": [
+     5774.09,
+     "https://www.comodinencasa.com.ar/acondicionador-dove-oleo-nut-200ml/p"
+    ],
+    "ChangoMás": [
+     5379.0,
+     "https://www.masonline.com.ar/acondicionador-dove-oleo-nutricion-200-ml-3-2/p"
+    ]
+   }
+  },
+  {
    "n": "Acondicionador Dove Reconstrucción + Aminoácido 200 ml",
    "m": "Dove",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/906666/7791293047058_01.jpg?v=639204983665570000",
@@ -952,76 +1049,6 @@
    }
   },
   {
-   "n": "Acondicionador Dove Regeneración Extrema 200 Ml",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919747/13720894001.jpg?v=639179976100000000",
-   "cadena": "Jumbo",
-   "precio": 3500.0,
-   "link": "https://www.jumbo.com.ar/acondicionador-dove-regeneracion-extrema-200-ml-2/p",
-   "referencia": 7000.0,
-   "precio_2da": 5379.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.9,
-   "score": 1747,
-   "pr": {
-    "Vea": [
-     6390.0,
-     "https://www.vea.com.ar/acondicionador-dove-regeneracion-extrema-200-ml-2/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/acondicionador-dove-regeneracion-extrema-200-ml-2/p"
-    ],
-    "Comodín": [
-     5774.09,
-     "https://www.comodinencasa.com.ar/acondicionador-dove-regenera-ext-200ml/p"
-    ],
-    "ChangoMás": [
-     5379.0,
-     "https://www.masonline.com.ar/acondicionador-dove-regeneracion-extrema-200-ml-2/p"
-    ],
-    "Carrefour": [
-     5390.0,
-     "https://www.carrefour.com.ar/acondicionador-dove-regeneracion-retinol-200-ml-718530/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822139/7790580129941_02.jpg?v=639083181678770000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 338.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.6,
-   "score": 1681,
-   "pr": {
-    "Carrefour": [
-     388.5,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
-    "Comodín": [
-     338.99,
-     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-limonada-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Limpiador de Baños Sarro y Manchas Difíciles 420 Cc Harpic",
    "m": "HARPIC",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/793710/Limpiador-Harpic-Doypack-Ba-os-Sarro420ml-1-940353.jpg?v=638303890640700000",
@@ -1080,6 +1107,33 @@
    }
   },
   {
+   "n": "Shampoo Head&Shoulders Anti Comezon 375ml",
+   "m": "Head & Shoulders",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/179741/375.png?v=638619172343900000",
+   "cadena": "Comodín",
+   "precio": 7699.0,
+   "link": "https://www.comodinencasa.com.ar/shampoo-h-shoulders-anti-comezon-375ml/p",
+   "referencia": 13675.99,
+   "precio_2da": 12379.0,
+   "baja_pct": 43.7,
+   "brecha_pct": 37.8,
+   "score": 1652,
+   "pr": {
+    "Comodín": [
+     7699.0,
+     "https://www.comodinencasa.com.ar/shampoo-h-shoulders-anti-comezon-375ml/p"
+    ],
+    "Carrefour": [
+     14190.0,
+     "https://www.carrefour.com.ar/shampoo-head-shoulders-control-caspa-anti-comezon-375-ml-744935/p"
+    ],
+    "ChangoMás": [
+     12379.0,
+     "https://www.masonline.com.ar/shampoo-head-shoulders-menta-sensacion-extra-refrescante-375ml/p"
+    ]
+   }
+  },
+  {
    "n": "Desodorante De Ambiente Poett Despertar De Energía 360 Ml",
    "m": "POETT",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/638506/Deo-De-Ambiente-Poett-Despertar-Energia-360ml-1-858697.jpg?v=637547442793600000",
@@ -1134,6 +1188,37 @@
    }
   },
   {
+   "n": "Toalla Tena discreet medium 10 uni",
+   "m": "Tena",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/610067/7702026150631_01.jpg?v=638725515211800000",
+   "cadena": "Carrefour",
+   "precio": 5641.35,
+   "link": "https://www.carrefour.com.ar/toalla-tena-discreet-medium-10-uni-755820/p",
+   "referencia": 8679.0,
+   "precio_2da": 10550.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.5,
+   "score": 1628,
+   "pr": {
+    "Carrefour": [
+     5641.35,
+     "https://www.carrefour.com.ar/toalla-tena-discreet-medium-10-uni-755820/p"
+    ],
+    "Vea": [
+     10990.0,
+     "https://www.vea.com.ar/toallas-femeninas-tena-discreet-med-x10/p"
+    ],
+    "Jumbo": [
+     10550.0,
+     "https://www.jumbo.com.ar/toallas-femeninas-tena-discreet-med-x10/p"
+    ],
+    "Comodín": [
+     12314.69,
+     "https://www.comodinencasa.com.ar/toalla-tena-discreet-medio-inf-10un/p"
+    ]
+   }
+  },
+  {
    "n": "Yogur natural sin azúcar Tregar en pote 280 g.",
    "m": "Tregar",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/834113/7793913013993_02.jpg?v=639102223743200000",
@@ -1157,6 +1242,10 @@
     "Comodín": [
      3927.09,
      "https://www.comodinencasa.com.ar/yogur-tregar-natural-sin-azucar-280gr/p"
+    ],
+    "ChangoMás": [
+     4099.0,
+     "https://www.masonline.com.ar/yogur-batido-tregar-natural-sin-azucar-280-g/p"
     ]
    }
   },
@@ -1385,33 +1474,6 @@
    }
   },
   {
-   "n": "Toalla Nosotras buenas noches suave MAX CURV 16 uni",
-   "m": "Nosotras",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612249/7790770602292_01.jpg?v=638731630426200000",
-   "cadena": "Vea",
-   "precio": 4194.0,
-   "link": "https://www.vea.com.ar/toalla-nosotras-buenas-noches-max-curv-x-16-u-2/p",
-   "referencia": 6990.0,
-   "precio_2da": 6990.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     6990.0,
-     "https://www.carrefour.com.ar/toalla-nosotras-buenas-noches-suave-max-curv-16-uni-725979/p"
-    ],
-    "Vea": [
-     4194.0,
-     "https://www.vea.com.ar/toalla-nosotras-buenas-noches-max-curv-x-16-u-2/p"
-    ],
-    "ChangoMás": [
-     7199.0,
-     "https://www.masonline.com.ar/toallitas-higienicas-nosotras-nocturna-suave-16un-2/p"
-    ]
-   }
-  },
-  {
    "n": "Jabon Asepxia Carbon Detox x 100 gr",
    "m": "Asepxia",
    "i": "https://alberdisa.vteximg.com.br/arquivos/ids/175926/21973.png?v=638324543114430000",
@@ -1548,6 +1610,10 @@
      6400.0,
      "https://www.jumbo.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-100-removedor-de-sarro-500ml/p"
     ],
+    "Comodín": [
+     5817.79,
+     "https://www.comodinencasa.com.ar/limpiador-harpic-remov-sarro-inod500ml/p"
+    ],
     "ChangoMás": [
      3467.4,
      "https://www.masonline.com.ar/limpiador-inodoros-removedor-sarro-harpic-500ml-2/p"
@@ -1555,37 +1621,33 @@
     "Carrefour": [
      5659.0,
      "https://www.carrefour.com.ar/gel-limpiador-desinfectante-para-inodoros-harpic-100-removedor-de-sarro-500-ml-584369/p"
-    ],
-    "Comodín": [
-     5817.79,
-     "https://www.comodinencasa.com.ar/limpiador-harpic-remov-sarro-inod500ml/p"
     ]
    }
   },
   {
-   "n": "Fideos Guiseros Al Huevo Lucchetti Tirabuzon 500gr",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/929070/7790070337085.jpg?v=639252634206300000",
-   "cadena": "Jumbo",
-   "precio": 1470.0,
-   "link": "https://www.jumbo.com.ar/fideos-guiseros-al-huevo-lucchetti-tirabuzon-500gr/p",
-   "referencia": 2450.0,
-   "precio_2da": 2390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1540,
+   "n": "Shampoo Ceramidas 190 Ml Sedal",
+   "m": "SEDAL",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/934963/13710372001.jpg?v=639282786215570000",
+   "cadena": "ChangoMás",
+   "precio": 2228.85,
+   "link": "https://www.masonline.com.ar/shampoo-sedal-ceramidas-190ml-2/p",
+   "referencia": 3429.0,
+   "precio_2da": 3990.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.1,
+   "score": 1545,
    "pr": {
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/fideos-guiseros-al-huevo-lucchetti-tirabuzon-500gr/p"
-    ],
     "Jumbo": [
-     1470.0,
-     "https://www.jumbo.com.ar/fideos-guiseros-al-huevo-lucchetti-tirabuzon-500gr/p"
+     4550.0,
+     "https://www.jumbo.com.ar/shampoo-ceramidas-190-ml-sedal/p"
+    ],
+    "ChangoMás": [
+     2228.85,
+     "https://www.masonline.com.ar/shampoo-sedal-ceramidas-190ml-2/p"
     ],
     "Carrefour": [
-     2390.0,
-     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-tirabuzon-500-grs-733266/p"
+     3990.0,
+     "https://www.carrefour.com.ar/shampoo-sedal-ceramidas-botella-190-ml-715053/p"
     ]
    }
   },
@@ -1613,6 +1675,33 @@
     "ChangoMás": [
      2399.0,
      "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Tiritas de pollo congeladas Sadia Golden en bolsa 300 grs",
+   "m": "Sadia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/861261/7891515586812_E02.jpg?v=639130065661130000",
+   "cadena": "ChangoMás",
+   "precio": 4325.4,
+   "link": "https://www.masonline.com.ar/tiritas-de-pechuga-de-pollo-sadia-golden-rebozadas-300-g/p",
+   "referencia": 7209.0,
+   "precio_2da": 7023.19,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.4,
+   "score": 1537,
+   "pr": {
+    "Carrefour": [
+     7205.0,
+     "https://www.carrefour.com.ar/tiritas-de-pollo-congeladas-sadia-golden-en-bolsa-300-grs-750429/p"
+    ],
+    "Comodín": [
+     7023.19,
+     "https://www.comodinencasa.com.ar/tiritas-de-pollo-sadia-golden-300gr/p"
+    ],
+    "ChangoMás": [
+     4325.4,
+     "https://www.masonline.com.ar/tiritas-de-pechuga-de-pollo-sadia-golden-rebozadas-300-g/p"
     ]
    }
   },
@@ -1698,64 +1787,6 @@
     "ChangoMás": [
      2315.4,
      "https://www.masonline.com.ar/desodorante-de-ambiente-poett-alegra-tu-dia-aerosol-360-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Elvive Colorvive 200 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/975654/7509552815269_01.jpg?v=639288848920700000",
-   "cadena": "Jumbo",
-   "precio": 5550.0,
-   "link": "https://www.jumbo.com.ar/shampoo-elvive-colorvive-200-ml/p",
-   "referencia": 9250.0,
-   "precio_2da": 8989.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.3,
-   "score": 1530,
-   "pr": {
-    "Carrefour": [
-     8989.0,
-     "https://www.carrefour.com.ar/shampoo-elvive-colorvive-200-ml-709950/p"
-    ],
-    "Jumbo": [
-     5550.0,
-     "https://www.jumbo.com.ar/shampoo-elvive-colorvive-200-ml/p"
-    ],
-    "Comodín": [
-     10087.99,
-     "https://www.comodinencasa.com.ar/shampoo-elvive-color-vive-purple-200ml/p"
-    ],
-    "ChangoMás": [
-     9349.0,
-     "https://www.masonline.com.ar/shampoo-elvive-color-vive-purple-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Multisuperficies Cif Original Ultra Brillo Gatillo 400 ml",
-   "m": "Cif",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923814/7791290792753_01.jpg?v=639240404413530000",
-   "cadena": "Comodín",
-   "precio": 3076.44,
-   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-brillo-anti-p-gat-400ml/p",
-   "referencia": 4582.29,
-   "precio_2da": 5750.0,
-   "baja_pct": 32.9,
-   "brecha_pct": 46.5,
-   "score": 1528,
-   "pr": {
-    "Carrefour": [
-     5829.0,
-     "https://www.carrefour.com.ar/limpiador-multisuperficies-cif-original-ultra-brillo-gatillo-400-ml-703590/p"
-    ],
-    "Jumbo": [
-     5750.0,
-     "https://www.jumbo.com.ar/limpiador-multisuperficies-cif-original-ultra-brillo-400-ml/p"
-    ],
-    "Comodín": [
-     3076.44,
-     "https://www.comodinencasa.com.ar/lustramueble-cif-brillo-anti-p-gat-400ml/p"
     ]
    }
   },
@@ -1926,6 +1957,33 @@
     "ChangoMás": [
      3455.4,
      "https://www.masonline.com.ar/jabon-en-barra-asepxia-exfolian-100gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas descarozadas Morixe dp 300 g.",
+   "m": "Morixe",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896119/7790199603054_E02.jpg?v=639183481076170000",
+   "cadena": "Jumbo",
+   "precio": 1680.0,
+   "link": "https://www.jumbo.com.ar/aceitunas-morixe-verdes-descarozadas-300-gr-2/p",
+   "referencia": 2800.0,
+   "precio_2da": 2689.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1501,
+   "pr": {
+    "Carrefour": [
+     2689.0,
+     "https://www.carrefour.com.ar/aceitunas-descarozadas-morixe-dp-300-g-739625/p"
+    ],
+    "Vea": [
+     2690.0,
+     "https://www.vea.com.ar/aceitunas-morixe-verdes-descarozadas-300-gr-2/p"
+    ],
+    "Jumbo": [
+     1680.0,
+     "https://www.jumbo.com.ar/aceitunas-morixe-verdes-descarozadas-300-gr-2/p"
     ]
    }
   },
