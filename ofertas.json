@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-07",
- "actualizado": "2026-11-07 11:22",
+ "fecha": "2026-11-08",
+ "actualizado": "2026-11-08 14:41",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-28",
   "2026-10-29",
   "2026-10-30",
   "2026-10-31",
@@ -19,37 +18,11 @@
   "2026-11-04",
   "2026-11-05",
   "2026-11-06",
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
- "total": 63,
+ "total": 46,
  "ofertas": [
-  {
-   "n": "Shampoo Fructis Recarga Nutritiva 200 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921558/7509552922288_01.jpg?v=639238663574900000",
-   "cadena": "ChangoMás",
-   "precio": 3294.5,
-   "link": "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-200ml-2/p",
-   "referencia": 6589.0,
-   "precio_2da": 6839.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 51.8,
-   "score": 2591,
-   "pr": {
-    "Carrefour": [
-     6839.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-recarga-nutritiva-200-ml-728197/p"
-    ],
-    "ChangoMás": [
-     3294.5,
-     "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-200ml-2/p"
-    ],
-    "Comodín": [
-     7064.79,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-recarga-nutritiva-200ml/p"
-    ]
-   }
-  },
   {
    "n": "Protectores diarios Doncella sin perfume 20 u.",
    "m": "Doncella",
@@ -58,13 +31,13 @@
    "precio": 739.5,
    "link": "https://www.masonline.com.ar/protectores-diarios-doncella-respirable-20u/p",
    "referencia": 1479.0,
-   "precio_2da": 1490.0,
+   "precio_2da": 1590.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.4,
-   "score": 2518,
+   "brecha_pct": 53.5,
+   "score": 2675,
    "pr": {
     "Carrefour": [
-     1490.0,
+     1599.0,
      "https://www.carrefour.com.ar/protectores-diarios-doncella-sin-perfume-20-u/p"
     ],
     "Vea": [
@@ -78,60 +51,60 @@
    }
   },
   {
-   "n": "Toallitas Tanga Suave Con Alas 8 Un Doncella",
-   "m": "DONCELLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/877866/Toallitas-Tanga-Suave-Con-Alas-8-Un-Doncella-1-886146.jpg?v=638888926039730000",
-   "cadena": "ChangoMás",
-   "precio": 739.5,
-   "link": "https://www.masonline.com.ar/toallitas-higienicas-tanga-doncella-con-alas-8-un-2/p",
-   "referencia": 1479.0,
-   "precio_2da": 1479.0,
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
+   "cadena": "Jumbo",
+   "precio": 3400.0,
+   "link": "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p",
+   "referencia": 6800.0,
+   "precio_2da": 7033.59,
    "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2500,
+   "brecha_pct": 51.7,
+   "score": 2583,
    "pr": {
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/toallitas-tanga-suave-con-alas-8-un-doncella/p"
-    ],
     "Jumbo": [
-     1550.0,
-     "https://www.jumbo.com.ar/toallitas-tanga-suave-con-alas-8-un-doncella/p"
+     3400.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
     ],
-    "ChangoMás": [
-     739.5,
-     "https://www.masonline.com.ar/toallitas-higienicas-tanga-doncella-con-alas-8-un-2/p"
+    "Comodín": [
+     7033.59,
+     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
     ],
     "Carrefour": [
-     1479.0,
-     "https://www.carrefour.com.ar/toalla-femenina-doncella-tanga-con-alas-x-8-uni-694486/p"
+     7409.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    ],
+    "ChangoMás": [
+     7409.0,
+     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
     ]
    }
   },
   {
-   "n": "Jugo en polvo Tang sabor pera 15 g",
-   "m": "Tang",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814764/7622201745738_E01.jpg?v=639082504664770000",
-   "cadena": "Carrefour",
-   "precio": 265.0,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p",
-   "referencia": 530.0,
-   "precio_2da": 519.0,
+   "n": "Shampoo Fructis Recarga Nutritiva 200 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921558/7509552922288_01.jpg?v=639238663574900000",
+   "cadena": "ChangoMás",
+   "precio": 3294.5,
+   "link": "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-200ml-2/p",
+   "referencia": 6589.0,
+   "precio_2da": 6590.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2447,
+   "brecha_pct": 50.0,
+   "score": 2500,
    "pr": {
     "Carrefour": [
-     265.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p"
+     6590.0,
+     "https://www.carrefour.com.ar/shampoo-fructis-recarga-nutritiva-200-ml-728197/p"
     ],
     "ChangoMás": [
-     519.0,
-     "https://www.masonline.com.ar/tang-jugo-en-polvo-pera-15g-2/p"
+     3294.5,
+     "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-200ml-2/p"
     ],
     "Comodín": [
-     529.39,
-     "https://www.comodinencasa.com.ar/jugo-tang-supvit-pera-x-18-gr/p"
+     7064.79,
+     "https://www.comodinencasa.com.ar/shampoo-fructis-recarga-nutritiva-200ml/p"
     ]
    }
   },
@@ -163,87 +136,87 @@
    }
   },
   {
-   "n": "Acondicionador Fructis Hair Food Palta 300 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922496/7509552874099_01.jpg?v=639239509781370000",
+   "n": "Protector diario Nosotras multiestilo 20 uni",
+   "m": "Nosotras",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612490/7790770601875_01.jpg?v=638732320909970000",
    "cadena": "ChangoMás",
-   "precio": 6544.5,
-   "link": "https://www.masonline.com.ar/fru-hair-food-aguacate-fructis-acondicionador-300ml-2/p",
-   "referencia": 13089.0,
-   "precio_2da": 12519.59,
+   "precio": 1829.5,
+   "link": "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-20un-2/p",
+   "referencia": 3659.0,
+   "precio_2da": 3519.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.7,
-   "score": 2386,
+   "brecha_pct": 48.0,
+   "score": 2401,
    "pr": {
     "Carrefour": [
-     12590.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-palta-300-ml-710946/p"
+     3519.0,
+     "https://www.carrefour.com.ar/protector-diario-nosotras-multiestilo-20-uni-725988/p"
     ],
     "Comodín": [
-     12519.59,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-hf-aguacate-300ml/p"
+     3586.99,
+     "https://www.comodinencasa.com.ar/protector-nosotras-multiestilo-x-20-un/p"
     ],
     "ChangoMás": [
-     6544.5,
-     "https://www.masonline.com.ar/fru-hair-food-aguacate-fructis-acondicionador-300ml-2/p"
+     1829.5,
+     "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-20un-2/p"
     ]
    }
   },
   {
-   "n": "Gelatina light BC de cereza 18 grs",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/596485/7790580144951_E01.jpg?v=638669527071700000",
-   "cadena": "Jumbo",
-   "precio": 625.0,
-   "link": "https://www.jumbo.com.ar/gelatina-cereza-light-bc-x18-g-2/p",
-   "referencia": 1250.0,
-   "precio_2da": 1179.0,
+   "n": "Protectores Diarios Duo Forma x 20 Un Doncella",
+   "m": "DONCELLA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/877851/Protector-Diario-Duo-Forma-20-Un-Doncella-1-37897.jpg?v=638888925992000000",
+   "cadena": "ChangoMás",
+   "precio": 1144.5,
+   "link": "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p",
+   "referencia": 2289.0,
+   "precio_2da": 2200.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.0,
-   "score": 2349,
+   "brecha_pct": 48.0,
+   "score": 2399,
    "pr": {
+    "Vea": [
+     2290.0,
+     "https://www.vea.com.ar/protector-diario-duo-forma-20-un-doncella/p"
+    ],
+    "Jumbo": [
+     2400.0,
+     "https://www.jumbo.com.ar/protector-diario-duo-forma-20-un-doncella/p"
+    ],
+    "ChangoMás": [
+     1144.5,
+     "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p"
+    ],
     "Carrefour": [
-     1179.0,
-     "https://www.carrefour.com.ar/gelatina-light-bc-de-cereza-18-grs-751557/p"
-    ],
-    "ChangoMás": [
-     1179.0,
-     "https://www.masonline.com.ar/gelatina-bc-la-campagnola-sabor-cereza-18-g-2/p"
-    ],
-    "Vea": [
-     1190.0,
-     "https://www.vea.com.ar/gelatina-cereza-light-bc-x18-g-2/p"
-    ],
-    "Jumbo": [
-     625.0,
-     "https://www.jumbo.com.ar/gelatina-cereza-light-bc-x18-g-2/p"
+     2200.0,
+     "https://www.carrefour.com.ar/protectores-diarios-doncella-duo-forma-20-uni-709472/p"
     ]
    }
   },
   {
-   "n": "Gelatina Bc Durazno Light X18g",
-   "m": "BC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/849134/Gelatina-Bc-Durazno-Light-X18g-1-1031065.jpg?v=638699897781730000",
+   "n": "Chocolate Milka Oreo Lila Go 37 Gr",
+   "m": "MILKA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803272/Barrita-Chocolate-Lila-Go-Oreo-37g-1-251554.jpg?v=638379382639370000",
    "cadena": "Jumbo",
-   "precio": 625.0,
-   "link": "https://www.jumbo.com.ar/gelatina-bc-durazno-light-x18g-3/p",
-   "referencia": 1250.0,
-   "precio_2da": 1179.0,
+   "precio": 1925.0,
+   "link": "https://www.jumbo.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p",
+   "referencia": 3850.0,
+   "precio_2da": 3640.0,
    "baja_pct": 50.0,
-   "brecha_pct": 47.0,
-   "score": 2349,
+   "brecha_pct": 47.1,
+   "score": 2356,
    "pr": {
     "Vea": [
-     1190.0,
-     "https://www.vea.com.ar/gelatina-bc-durazno-light-x18g-3/p"
+     3790.0,
+     "https://www.vea.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p"
     ],
     "Jumbo": [
-     625.0,
-     "https://www.jumbo.com.ar/gelatina-bc-durazno-light-x18g-3/p"
+     1925.0,
+     "https://www.jumbo.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p"
     ],
-    "ChangoMás": [
-     1179.0,
-     "https://www.masonline.com.ar/gelatina-bc-light-sabor-durazno-18-g/p"
+    "Carrefour": [
+     3640.0,
+     "https://www.carrefour.com.ar/chocolate-milka-oreo-lila-go-37-g/p"
     ]
    }
   },
@@ -255,13 +228,13 @@
    "precio": 2525.0,
    "link": "https://www.jumbo.com.ar/cerveza-antares-honey-473-ml-2/p",
    "referencia": 5050.0,
-   "precio_2da": 4739.0,
+   "precio_2da": 4700.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.7,
-   "score": 2336,
+   "brecha_pct": 46.3,
+   "score": 2314,
    "pr": {
     "Carrefour": [
-     4739.0,
+     4700.0,
      "https://www.carrefour.com.ar/cerveza-artesanal-antares-honey-473-ml-684384/p"
     ],
     "Jumbo": [
@@ -275,87 +248,184 @@
    }
   },
   {
-   "n": "Chocolate Milka Oreo Lila Go 37 Gr",
-   "m": "MILKA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/803272/Barrita-Chocolate-Lila-Go-Oreo-37g-1-251554.jpg?v=638379382639370000",
-   "cadena": "Jumbo",
-   "precio": 1925.0,
-   "link": "https://www.jumbo.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p",
-   "referencia": 3850.0,
-   "precio_2da": 3589.0,
+   "n": "Toallitas Tanga Suave Con Alas 8 Un Doncella",
+   "m": "DONCELLA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/877866/Toallitas-Tanga-Suave-Con-Alas-8-Un-Doncella-1-886146.jpg?v=638888926039730000",
+   "cadena": "ChangoMás",
+   "precio": 739.5,
+   "link": "https://www.masonline.com.ar/toallitas-higienicas-tanga-doncella-con-alas-8-un-2/p",
+   "referencia": 1479.0,
+   "precio_2da": 1370.0,
    "baja_pct": 50.0,
-   "brecha_pct": 46.4,
-   "score": 2318,
+   "brecha_pct": 46.0,
+   "score": 2301,
    "pr": {
     "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p"
+     1490.0,
+     "https://www.vea.com.ar/toallitas-tanga-suave-con-alas-8-un-doncella/p"
     ],
     "Jumbo": [
-     1925.0,
-     "https://www.jumbo.com.ar/chocolate-milka-oreo-lila-go-37-gr-2/p"
+     1550.0,
+     "https://www.jumbo.com.ar/toallitas-tanga-suave-con-alas-8-un-doncella/p"
+    ],
+    "ChangoMás": [
+     739.5,
+     "https://www.masonline.com.ar/toallitas-higienicas-tanga-doncella-con-alas-8-un-2/p"
     ],
     "Carrefour": [
-     3589.0,
-     "https://www.carrefour.com.ar/chocolate-milka-oreo-lila-go-37-g/p"
+     1370.0,
+     "https://www.carrefour.com.ar/toalla-femenina-doncella-tanga-con-alas-x-8-uni-694486/p"
     ]
    }
   },
   {
-   "n": "Chocolate Sabor Blanco con Oreo 20 Grs Milka",
-   "m": "MILKA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923986/7622210795908.jpg?v=639223220946100000",
-   "cadena": "Jumbo",
-   "precio": 975.0,
-   "link": "https://www.jumbo.com.ar/chocolate-milka-oreo-blanco-20-gr-2/p",
-   "referencia": 1950.0,
-   "precio_2da": 1789.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.5,
-   "score": 2275,
+   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
+   "cadena": "Carrefour",
+   "precio": 2200.0,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
+   "referencia": 4120.0,
+   "precio_2da": 4312.0,
+   "baja_pct": 46.6,
+   "brecha_pct": 49.0,
+   "score": 2283,
    "pr": {
+    "Carrefour": [
+     2200.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
+    ],
     "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/chocolate-milka-oreo-blanco-20-gr-2/p"
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
     ],
     "Jumbo": [
-     975.0,
-     "https://www.jumbo.com.ar/chocolate-milka-oreo-blanco-20-gr-2/p"
+     4360.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
     ],
     "ChangoMás": [
-     1789.0,
-     "https://www.masonline.com.ar/tableta-lup-oreo-blanca-milka-20gr-2/p"
+     4999.0,
+     "https://www.masonline.com.ar/bebida-isotonica-manzana-gatorade-1-25-lt-2/p"
     ]
    }
   },
   {
-   "n": "Chocolate Cadbury intense 25 g.",
-   "m": "Cadbury",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912606/7622201818609_01.jpg?v=639220555503800000",
-   "cadena": "Jumbo",
-   "precio": 1500.0,
-   "link": "https://www.jumbo.com.ar/chocolate-cadbury-intense-25-gr-2/p",
-   "referencia": 3000.0,
-   "precio_2da": 2690.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.2,
-   "score": 2212,
+   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "cadena": "Carrefour",
+   "precio": 2200.0,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
+   "referencia": 4120.0,
+   "precio_2da": 4312.0,
+   "baja_pct": 46.6,
+   "brecha_pct": 49.0,
+   "score": 2283,
    "pr": {
     "Carrefour": [
-     2690.0,
-     "https://www.carrefour.com.ar/chocolate-cadbury-intense-25-g-680444/p"
+     2200.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
     ],
     "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/chocolate-cadbury-intense-25-gr-2/p"
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ],
     "Jumbo": [
-     1500.0,
-     "https://www.jumbo.com.ar/chocolate-cadbury-intense-25-gr-2/p"
+     4360.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ],
     "ChangoMás": [
-     2729.0,
-     "https://www.masonline.com.ar/chocolate-cadbury-intense-25g-2/p"
+     4999.0,
+     "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
+   "cadena": "Carrefour",
+   "precio": 2200.0,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p",
+   "referencia": 4120.0,
+   "precio_2da": 4312.0,
+   "baja_pct": 46.6,
+   "brecha_pct": 49.0,
+   "score": 2283,
+   "pr": {
+    "Carrefour": [
+     2200.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
+    ],
+    "Vea": [
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
+    ],
+    "Jumbo": [
+     4360.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
+    ]
+   }
+  },
+  {
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
+   "cadena": "Carrefour",
+   "precio": 2200.0,
+   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
+   "referencia": 4120.0,
+   "precio_2da": 4312.0,
+   "baja_pct": 46.6,
+   "brecha_pct": 49.0,
+   "score": 2283,
+   "pr": {
+    "Carrefour": [
+     2200.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+    ],
+    "Vea": [
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "Jumbo": [
+     4360.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+    ],
+    "ChangoMás": [
+     4999.0,
+     "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Gelatina light BC de cereza 18 grs",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/596485/7790580144951_E01.jpg?v=638669527071700000",
+   "cadena": "Jumbo",
+   "precio": 625.0,
+   "link": "https://www.jumbo.com.ar/gelatina-cereza-light-bc-x18-g-2/p",
+   "referencia": 1250.0,
+   "precio_2da": 1129.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 44.6,
+   "score": 2232,
+   "pr": {
+    "Carrefour": [
+     1129.0,
+     "https://www.carrefour.com.ar/gelatina-light-bc-de-cereza-18-grs-751557/p"
+    ],
+    "ChangoMás": [
+     1179.0,
+     "https://www.masonline.com.ar/gelatina-bc-la-campagnola-sabor-cereza-18-g-2/p"
+    ],
+    "Vea": [
+     1190.0,
+     "https://www.vea.com.ar/gelatina-cereza-light-bc-x18-g-2/p"
+    ],
+    "Jumbo": [
+     625.0,
+     "https://www.jumbo.com.ar/gelatina-cereza-light-bc-x18-g-2/p"
     ]
    }
   },
@@ -385,93 +455,62 @@
      "https://www.masonline.com.ar/shampoo-dove-bond-intense-repair-200ml-2/p"
     ],
     "Carrefour": [
-     7059.0,
+     7409.0,
      "https://www.carrefour.com.ar/shampoo-dove-bond-repair-peptido-200-ml-743827/p"
     ]
    }
   },
   {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
-   "cadena": "Jumbo",
-   "precio": 3400.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p",
-   "referencia": 6800.0,
-   "precio_2da": 5990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.2,
-   "score": 2162,
-   "pr": {
-    "Jumbo": [
-     3400.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
-    ],
-    "Comodín": [
-     7033.59,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
-    ],
-    "Carrefour": [
-     5990.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
-    ],
-    "ChangoMás": [
-     7409.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo BC La Campagnola naranja dulce 7 g.",
+   "n": "Gelatina De Frambuesa Light Bc 18gr",
    "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823054/7790580129965_02.jpg?v=639083181881700000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/846325/Gelatina-De-Frambuesa-Light-Bc-18gr-1-1029456.jpg?v=638676490795300000",
    "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 388.5,
+   "precio": 625.0,
+   "link": "https://www.jumbo.com.ar/gelatina-de-frambuesa-light-bc-18gr/p",
+   "referencia": 1250.0,
+   "precio_2da": 1039.0,
    "baja_pct": 50.0,
-   "brecha_pct": 42.1,
-   "score": 2104,
+   "brecha_pct": 39.8,
+   "score": 1992,
    "pr": {
-    "Carrefour": [
-     388.5,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
+    "Vea": [
+     1190.0,
+     "https://www.vea.com.ar/gelatina-de-frambuesa-light-bc-18gr/p"
     ],
     "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
+     625.0,
+     "https://www.jumbo.com.ar/gelatina-de-frambuesa-light-bc-18gr/p"
     ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
+    "Carrefour": [
+     1039.0,
+     "https://www.carrefour.com.ar/gelatina-light-bc-de-frambuesa-18-grs-751559/p"
     ]
    }
   },
   {
-   "n": "Shampoo Fructis Recarga Nutritiva 350 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921566/7509552922271_01.jpg?v=639238666843030000",
-   "cadena": "ChangoMás",
-   "precio": 3989.5,
-   "link": "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-350ml-2/p",
-   "referencia": 7979.0,
-   "precio_2da": 6746.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.9,
-   "score": 2043,
+   "n": "Jugo en polvo Tang sabor pera 15 g",
+   "m": "Tang",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814764/7622201745738_E01.jpg?v=639082504664770000",
+   "cadena": "Carrefour",
+   "precio": 294.5,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p",
+   "referencia": 530.0,
+   "precio_2da": 519.0,
+   "baja_pct": 44.4,
+   "brecha_pct": 43.3,
+   "score": 1922,
    "pr": {
     "Carrefour": [
-     7990.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-recarga-nutritiva-350-ml-728204/p"
+     294.5,
+     "https://www.carrefour.com.ar/jugo-en-polvo-tang-sabor-pera-15-g-711786/p"
     ],
     "ChangoMás": [
-     3989.5,
-     "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-350ml-2/p"
+     519.0,
+     "https://www.masonline.com.ar/tang-jugo-en-polvo-pera-15g-2/p"
     ],
     "Comodín": [
-     6746.49,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-recarga-nutritiva-350ml/p"
+     529.39,
+     "https://www.comodinencasa.com.ar/jugo-tang-supvit-pera-x-18-gr/p"
     ]
    }
   },
@@ -483,88 +522,22 @@
    "precio": 2957.49,
    "link": "https://www.comodinencasa.com.ar/guante-mapa-plisse-mediano-x-1-un/p",
    "referencia": 5126.39,
-   "precio_2da": 5700.0,
+   "precio_2da": 5400.0,
    "baja_pct": 42.3,
-   "brecha_pct": 48.1,
-   "score": 2036,
+   "brecha_pct": 45.2,
+   "score": 1914,
    "pr": {
     "Vea": [
      5890.0,
      "https://www.vea.com.ar/guantes-mapa-7-1-2/p"
     ],
     "Carrefour": [
-     5700.0,
+     5400.0,
      "https://www.carrefour.com.ar/guante-mapa-plisse-satinado-talle-m/p"
     ],
     "Comodín": [
      2957.49,
      "https://www.comodinencasa.com.ar/guante-mapa-plisse-mediano-x-1-un/p"
-    ]
-   }
-  },
-  {
-   "n": "Crema corporal Hinds rosa plus 125 ml",
-   "m": "Hinds",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/383031/7794640173066_01.jpg?v=638315924471730000",
-   "cadena": "Comodín",
-   "precio": 1999.0,
-   "link": "https://www.comodinencasa.com.ar/crema-hinds-rosa-plus-125ml/p",
-   "referencia": 3704.49,
-   "precio_2da": 3499.0,
-   "baja_pct": 46.0,
-   "brecha_pct": 42.9,
-   "score": 1974,
-   "pr": {
-    "Carrefour": [
-     3499.0,
-     "https://www.carrefour.com.ar/crema-corporal-hinds-rosa-plus-125-ml-697467/p"
-    ],
-    "Vea": [
-     3690.0,
-     "https://www.vea.com.ar/crema-corporal-rosa-plus-125-ml-hinds/p"
-    ],
-    "Jumbo": [
-     3850.0,
-     "https://www.jumbo.com.ar/crema-corporal-rosa-plus-125-ml-hinds/p"
-    ],
-    "ChangoMás": [
-     3639.0,
-     "https://www.masonline.com.ar/crema-corporal-hinds-rosa-plus-125-ml-2/p"
-    ],
-    "Comodín": [
-     1999.0,
-     "https://www.comodinencasa.com.ar/crema-hinds-rosa-plus-125ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Guantes Plissé N° 6 1/2 Mapa",
-   "m": "MAPA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/177056/Guantes-Mapa-Guantes-Mapa-61-2-A-7-Plisse-A-378-Bolsa-2-U-1-2800.jpg?v=636383343005900000",
-   "cadena": "Comodín",
-   "precio": 2957.49,
-   "link": "https://www.comodinencasa.com.ar/guante-mapa-plisse-chico-x-1-un/p",
-   "referencia": 5126.39,
-   "precio_2da": 5459.0,
-   "baja_pct": 42.3,
-   "brecha_pct": 45.8,
-   "score": 1939,
-   "pr": {
-    "Vea": [
-     5890.0,
-     "https://www.vea.com.ar/guantes-mapa-6-1-2/p"
-    ],
-    "Carrefour": [
-     5700.0,
-     "https://www.carrefour.com.ar/guante-mapa-plisse-satinado-talle-s/p"
-    ],
-    "Comodín": [
-     2957.49,
-     "https://www.comodinencasa.com.ar/guante-mapa-plisse-chico-x-1-un/p"
-    ],
-    "ChangoMás": [
-     5459.0,
-     "https://www.masonline.com.ar/guante-plisse-satinado-s-mapa-1-un-2/p"
     ]
    }
   },
@@ -596,6 +569,37 @@
    }
   },
   {
+   "n": "Guantes Plissé N° 6 1/2 Mapa",
+   "m": "MAPA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/177056/Guantes-Mapa-Guantes-Mapa-61-2-A-7-Plisse-A-378-Bolsa-2-U-1-2800.jpg?v=636383343005900000",
+   "cadena": "Comodín",
+   "precio": 2957.49,
+   "link": "https://www.comodinencasa.com.ar/guante-mapa-plisse-chico-x-1-un/p",
+   "referencia": 5126.39,
+   "precio_2da": 5400.0,
+   "baja_pct": 42.3,
+   "brecha_pct": 45.2,
+   "score": 1914,
+   "pr": {
+    "Vea": [
+     5890.0,
+     "https://www.vea.com.ar/guantes-mapa-6-1-2/p"
+    ],
+    "Carrefour": [
+     5400.0,
+     "https://www.carrefour.com.ar/guante-mapa-plisse-satinado-talle-s/p"
+    ],
+    "Comodín": [
+     2957.49,
+     "https://www.comodinencasa.com.ar/guante-mapa-plisse-chico-x-1-un/p"
+    ],
+    "ChangoMás": [
+     5459.0,
+     "https://www.masonline.com.ar/guante-plisse-satinado-s-mapa-1-un-2/p"
+    ]
+   }
+  },
+  {
    "n": "Desodorante de ambiente Poett frescura de lavanda en aerosol 360 ml.",
    "m": "Poett",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204356/7793253004231_01.jpg?v=637589508237370000",
@@ -609,12 +613,16 @@
    "score": 1862,
    "pr": {
     "Carrefour": [
-     4379.0,
+     4509.0,
      "https://www.carrefour.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-360-ml/p"
     ],
     "Vea": [
      4590.0,
      "https://www.vea.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-360-ml/p"
+    ],
+    "Jumbo": [
+     4700.0,
+     "https://www.jumbo.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-360-ml/p"
     ],
     "Comodín": [
      3751.29,
@@ -623,114 +631,6 @@
     "ChangoMás": [
      2315.4,
      "https://www.masonline.com.ar/desodorante-de-ambiente-poett-frescura-de-lavanda-aerosol-360-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Fructis Hair Food Coco 300 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922480/7509552874129_01.jpg?v=639239506320830000",
-   "cadena": "ChangoMás",
-   "precio": 5544.5,
-   "link": "https://www.masonline.com.ar/fru-hair-food-fructis-coco-acondicionador-300ml-2/p",
-   "referencia": 8316.75,
-   "precio_2da": 12519.59,
-   "baja_pct": 33.3,
-   "brecha_pct": 55.7,
-   "score": 1857,
-   "pr": {
-    "Carrefour": [
-     12590.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-coco-300-ml-710944/p"
-    ],
-    "Comodín": [
-     12519.59,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-h-f-coco-300ml/p"
-    ],
-    "ChangoMás": [
-     5544.5,
-     "https://www.masonline.com.ar/fru-hair-food-fructis-coco-acondicionador-300ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vodka Sabor Lima 473 Ml Shooter",
-   "m": "SHOOTER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922096/Vodka-Lima-Shooter-473-Cc-1-1060862.jpg?v=639198346050670000",
-   "cadena": "Carrefour",
-   "precio": 999.0,
-   "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p",
-   "referencia": 2499.0,
-   "precio_2da": 1425.42,
-   "baja_pct": 60.0,
-   "brecha_pct": 29.9,
-   "score": 1796,
-   "pr": {
-    "Vea": [
-     3355.75,
-     "https://www.vea.com.ar/vodka-lima-shooter-473-cc/p"
-    ],
-    "ChangoMás": [
-     1425.42,
-     "https://www.masonline.com.ar/vodka-shooter-lima-473ml/p"
-    ],
-    "Carrefour": [
-     999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p"
-    ]
-   }
-  },
-  {
-   "n": "Vodka Sabor Pomelo 473 Cc Shooter",
-   "m": "SHOOTER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922097/Vodka-Pomelo-Shooter-473-Cc-1-1060863.jpg?v=639198346053600000",
-   "cadena": "Carrefour",
-   "precio": 999.0,
-   "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-shoter-vodka-y-pomelo-en-lata-473-ml-780656/p",
-   "referencia": 2499.0,
-   "precio_2da": 1425.42,
-   "baja_pct": 60.0,
-   "brecha_pct": 29.9,
-   "score": 1796,
-   "pr": {
-    "Vea": [
-     3355.75,
-     "https://www.vea.com.ar/vodka-pomelo-shooter-473-cc/p"
-    ],
-    "ChangoMás": [
-     1425.42,
-     "https://www.masonline.com.ar/vodka-shooter-pomelo-473ml/p"
-    ],
-    "Carrefour": [
-     999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-shoter-vodka-y-pomelo-en-lata-473-ml-780656/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo Morenita frasco 170 g.",
-   "m": "Morenita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943743/7790170904668_01.jpg?v=639268221672870000",
-   "cadena": "Jumbo",
-   "precio": 5310.0,
-   "link": "https://www.jumbo.com.ar/cafe-insta-intenso-x-170-gr-la-morenita/p",
-   "referencia": 8850.0,
-   "precio_2da": 9449.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 43.8,
-   "score": 1752,
-   "pr": {
-    "Carrefour": [
-     9449.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-morenita-frasco-170-g/p"
-    ],
-    "Jumbo": [
-     5310.0,
-     "https://www.jumbo.com.ar/cafe-insta-intenso-x-170-gr-la-morenita/p"
-    ],
-    "Comodín": [
-     9692.79,
-     "https://www.comodinencasa.com.ar/cafe-la-morenita-instantaneo-170gr/p"
     ]
    }
   },
@@ -764,43 +664,8 @@
      "https://www.masonline.com.ar/shampoo-dove-ritual-de-reparacion-coco-200ml-2-2/p"
     ],
     "Carrefour": [
-     5390.0,
+     6619.0,
      "https://www.carrefour.com.ar/shampoo-dove-humectacion-coco-y-antioxi-200-ml-718526/p"
-    ]
-   }
-  },
-  {
-   "n": "Cereal Sabor Frutas 330 Grs Froot Loops",
-   "m": "FROOT LOOPS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/805076/Cereal-Froot-Loops-X330g-1-1001770.jpg?v=638392017671500000",
-   "cadena": "ChangoMás",
-   "precio": 4013.4,
-   "link": "https://www.masonline.com.ar/aros-de-cereal-froot-loops-sabor-a-frutas-330-g-2/p",
-   "referencia": 6849.0,
-   "precio_2da": 6890.0,
-   "baja_pct": 41.4,
-   "brecha_pct": 41.8,
-   "score": 1729,
-   "pr": {
-    "Vea": [
-     6890.0,
-     "https://www.vea.com.ar/cereal-froot-loops-x330g/p"
-    ],
-    "Jumbo": [
-     7200.0,
-     "https://www.jumbo.com.ar/cereal-froot-loops-x330g/p"
-    ],
-    "Comodín": [
-     6919.09,
-     "https://www.comodinencasa.com.ar/cereal-kelloggs-froot-lopps-330gr/p"
-    ],
-    "Carrefour": [
-     6890.0,
-     "https://www.carrefour.com.ar/aros-de-cereal-frutado-kellogs-froot-loops-en-bolsa-330-g-733172/p"
-    ],
-    "ChangoMás": [
-     4013.4,
-     "https://www.masonline.com.ar/aros-de-cereal-froot-loops-sabor-a-frutas-330-g-2/p"
     ]
    }
   },
@@ -859,6 +724,10 @@
     "Comodín": [
      13593.89,
      "https://www.comodinencasa.com.ar/acondicionador-dove-regenera-ext-750ml/p"
+    ],
+    "Carrefour": [
+     17525.0,
+     "https://www.carrefour.com.ar/acondicionador-dove-regeneracion-extrema-750-cc-718537/p"
     ]
    }
   },
@@ -880,7 +749,7 @@
      "https://www.comodinencasa.com.ar/shampoo-h-shoulders-anti-comezon-375ml/p"
     ],
     "Carrefour": [
-     14190.0,
+     13830.0,
      "https://www.carrefour.com.ar/shampoo-head-shoulders-control-caspa-anti-comezon-375-ml-744935/p"
     ],
     "ChangoMás": [
@@ -890,87 +759,130 @@
    }
   },
   {
-   "n": "Desodorante De Ambiente Poett Despertar De Energía 360 Ml",
-   "m": "POETT",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/638506/Deo-De-Ambiente-Poett-Despertar-Energia-360ml-1-858697.jpg?v=637547442793600000",
-   "cadena": "ChangoMás",
-   "precio": 2705.4,
-   "link": "https://www.masonline.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-aerosol-360-ml-2/p",
-   "referencia": 4509.0,
-   "precio_2da": 4590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.1,
-   "score": 1642,
-   "pr": {
-    "Vea": [
-     4590.0,
-     "https://www.vea.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-360-ml/p"
-    ],
-    "Jumbo": [
-     4700.0,
-     "https://www.jumbo.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-360-ml/p"
-    ],
-    "ChangoMás": [
-     2705.4,
-     "https://www.masonline.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-aerosol-360-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Desodorante de Ambiente Espíritu Play 360 Ml Poett",
-   "m": "POETT",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/638511/Deo-De-Ambiente-Poett-Espiritu-Play-360ml-1-858706.jpg?v=637547442806100000",
-   "cadena": "ChangoMás",
-   "precio": 2705.4,
-   "link": "https://www.masonline.com.ar/desodorante-de-ambiente-poett-espiritu-play-aerosol-360-ml-2/p",
-   "referencia": 4509.0,
-   "precio_2da": 4590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.1,
-   "score": 1642,
-   "pr": {
-    "Vea": [
-     4590.0,
-     "https://www.vea.com.ar/desodorante-de-ambiente-poett-espiritu-play-360-ml/p"
-    ],
-    "Jumbo": [
-     4700.0,
-     "https://www.jumbo.com.ar/desodorante-de-ambiente-poett-espiritu-play-360-ml/p"
-    ],
-    "ChangoMás": [
-     2705.4,
-     "https://www.masonline.com.ar/desodorante-de-ambiente-poett-espiritu-play-aerosol-360-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toalla Tena discreet medium 10 uni",
-   "m": "Tena",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/610067/7702026150631_01.jpg?v=638725515211800000",
-   "cadena": "Carrefour",
-   "precio": 5641.35,
-   "link": "https://www.carrefour.com.ar/toalla-tena-discreet-medium-10-uni-755820/p",
-   "referencia": 8679.0,
-   "precio_2da": 10550.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.5,
-   "score": 1628,
+   "n": "Chocolate SHOT blanco con maní 35 g.",
+   "m": "Shot",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551935/77983992_E01.jpg?v=638608943531730000",
+   "cadena": "Jumbo",
+   "precio": 1450.0,
+   "link": "https://www.jumbo.com.ar/chocolate-shot-blanco-con-mani-35-gr-2/p",
+   "referencia": 2900.0,
+   "precio_2da": 2151.2,
+   "baja_pct": 50.0,
+   "brecha_pct": 32.6,
+   "score": 1630,
    "pr": {
     "Carrefour": [
-     5641.35,
-     "https://www.carrefour.com.ar/toalla-tena-discreet-medium-10-uni-755820/p"
-    ],
-    "Vea": [
-     10990.0,
-     "https://www.vea.com.ar/toallas-femeninas-tena-discreet-med-x10/p"
+     2151.2,
+     "https://www.carrefour.com.ar/chocolate-shot-blanco-con-mani-35-g-722327/p"
     ],
     "Jumbo": [
-     10550.0,
-     "https://www.jumbo.com.ar/toallas-femeninas-tena-discreet-med-x10/p"
+     1450.0,
+     "https://www.jumbo.com.ar/chocolate-shot-blanco-con-mani-35-gr-2/p"
+    ],
+    "ChangoMás": [
+     2799.0,
+     "https://www.masonline.com.ar/chocolate-shot-blanco-35gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallas Plenitud Femme Nocturnas Antibacterial 20 x 1 U",
+   "m": "PLENITUD",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/685208/Toalla-Plenitud-Nocturna-Antibacterial-X20-1-883200.jpg?v=637782691463470000",
+   "cadena": "Carrefour",
+   "precio": 24820.25,
+   "link": "https://www.carrefour.com.ar/toalla-nocturna-plenitud-femme-20-uni-690111/p",
+   "referencia": 41649.0,
+   "precio_2da": 41500.0,
+   "baja_pct": 40.4,
+   "brecha_pct": 40.2,
+   "score": 1624,
+   "pr": {
+    "Vea": [
+     41500.0,
+     "https://www.vea.com.ar/toalla-plenitud-nocturna-antibacterial-x20-2/p"
+    ],
+    "Jumbo": [
+     42800.0,
+     "https://www.jumbo.com.ar/toalla-plenitud-nocturna-antibacterial-x20-2/p"
+    ],
+    "Carrefour": [
+     24820.25,
+     "https://www.carrefour.com.ar/toalla-nocturna-plenitud-femme-20-uni-690111/p"
+    ],
+    "ChangoMás": [
+     41649.0,
+     "https://www.masonline.com.ar/toalla-incontinencia-plenitud-femme-nocturna-sin-alas-20u/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador de Inodoros Gel Removedor de Sarro 500 Cc Harpic",
+   "m": "HARPIC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/820737/Harpic-Gel-Limpiador-De-Inodoros-Desinfectante-100-Removedor-De-Sarro-500ml-1-31851.jpg?v=638500990124470000",
+   "cadena": "ChangoMás",
+   "precio": 3467.4,
+   "link": "https://www.masonline.com.ar/limpiador-inodoros-removedor-sarro-harpic-500ml-2/p",
+   "referencia": 5779.0,
+   "precio_2da": 5817.79,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1616,
+   "pr": {
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-100-removedor-de-sarro-500ml/p"
+    ],
+    "Jumbo": [
+     6400.0,
+     "https://www.jumbo.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-100-removedor-de-sarro-500ml/p"
     ],
     "Comodín": [
-     12314.69,
-     "https://www.comodinencasa.com.ar/toalla-tena-discreet-medio-inf-10un/p"
+     5817.79,
+     "https://www.comodinencasa.com.ar/limpiador-harpic-remov-sarro-inod500ml/p"
+    ],
+    "ChangoMás": [
+     3467.4,
+     "https://www.masonline.com.ar/limpiador-inodoros-removedor-sarro-harpic-500ml-2/p"
+    ],
+    "Carrefour": [
+     6595.0,
+     "https://www.carrefour.com.ar/gel-limpiador-desinfectante-para-inodoros-harpic-100-removedor-de-sarro-500-ml-584369/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador de Inodoros Power Plus Frescura Floral 500 Cc Harpic",
+   "m": "HARPIC",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/720236/Limpiador-Harpic-Gel-Power-Plus-500-Ml-1-16658.jpg?v=637992095864670000",
+   "cadena": "ChangoMás",
+   "precio": 3467.4,
+   "link": "https://www.masonline.com.ar/limpiador-inodoros-power-plus-frescura-floral-harpic-500ml-2/p",
+   "referencia": 5779.0,
+   "precio_2da": 5817.79,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1616,
+   "pr": {
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-power-plus-frescura-floral-500ml/p"
+    ],
+    "Jumbo": [
+     6400.0,
+     "https://www.jumbo.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-power-plus-frescura-floral-500ml/p"
+    ],
+    "Comodín": [
+     5817.79,
+     "https://www.comodinencasa.com.ar/limpiador-harpic-frecura-inodoro-500ml/p"
+    ],
+    "ChangoMás": [
+     3467.4,
+     "https://www.masonline.com.ar/limpiador-inodoros-power-plus-frescura-floral-harpic-500ml-2/p"
+    ],
+    "Carrefour": [
+     6595.0,
+     "https://www.carrefour.com.ar/gel-limpiador-desinfectante-para-inodoros-harpic-power-plus-frescura-floral-500-ml-584377/p"
     ]
    }
   },
@@ -992,7 +904,7 @@
      "https://www.vea.com.ar/canasta-solida-harpic-pino-20/p"
     ],
     "Carrefour": [
-     1700.0,
+     1919.0,
      "https://www.carrefour.com.ar/pastilla-para-inodoro-harpic-pino-20-g-614293/p"
     ],
     "Comodín": [
@@ -1002,64 +914,6 @@
     "ChangoMás": [
      1013.4,
      "https://www.masonline.com.ar/pastilla-inodoro-fragancia-pino-harpic-20gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cereal Sabor Frutas 195 Grs Froot Loops",
-   "m": "FROOT LOOPS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/805078/Cereal-Froot-Loops-X195g-1-1001773.jpg?v=638392017679800000",
-   "cadena": "ChangoMás",
-   "precio": 2867.4,
-   "link": "https://www.masonline.com.ar/aros-de-cereal-froot-loops-sabor-a-frutas-195-g-2/p",
-   "referencia": 4689.0,
-   "precio_2da": 4890.0,
-   "baja_pct": 38.8,
-   "brecha_pct": 41.4,
-   "score": 1607,
-   "pr": {
-    "Vea": [
-     4890.0,
-     "https://www.vea.com.ar/cereal-froot-loops-x195g/p"
-    ],
-    "Jumbo": [
-     5000.0,
-     "https://www.jumbo.com.ar/cereal-froot-loops-x195g/p"
-    ],
-    "Carrefour": [
-     4890.0,
-     "https://www.carrefour.com.ar/aros-de-cereal-frutado-kellogs-froot-loops-en-bolsa-195-g-733171/p"
-    ],
-    "ChangoMás": [
-     2867.4,
-     "https://www.masonline.com.ar/aros-de-cereal-froot-loops-sabor-a-frutas-195-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador desinfectante Ayudín lavanda 1.8 l.",
-   "m": "Ayudín",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795410/7793253004705_01.jpg?v=639050316332930000",
-   "cadena": "ChangoMás",
-   "precio": 3155.4,
-   "link": "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-lavanda-1-8-l-2/p",
-   "referencia": 5259.0,
-   "precio_2da": 5269.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.1,
-   "score": 1605,
-   "pr": {
-    "Carrefour": [
-     5269.0,
-     "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-lavanda-18-l/p"
-    ],
-    "Jumbo": [
-     6000.0,
-     "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-1-8-l/p"
-    ],
-    "ChangoMás": [
-     3155.4,
-     "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-lavanda-1-8-l-2/p"
     ]
    }
   },
@@ -1091,265 +945,64 @@
    }
   },
   {
-   "n": "Alfajor triple Oreo 56 g.",
-   "m": "Oreo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912589/77976307_01.jpg?v=639220553876730000",
+   "n": "Desodorante de ambiente Poett despertar de energía en aerosol 360 ml.",
+   "m": "Poett",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204366/7793253004293_01.jpg?v=637589508340000000",
    "cadena": "ChangoMás",
-   "precio": 1397.4,
-   "link": "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p",
-   "referencia": 2329.0,
-   "precio_2da": 2329.0,
+   "precio": 2705.4,
+   "link": "https://www.masonline.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-aerosol-360-ml-2/p",
+   "referencia": 4509.0,
+   "precio_2da": 4509.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Carrefour": [
-     2329.0,
-     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
+     4509.0,
+     "https://www.carrefour.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-de-energia-en-aerosol-360-ml-676642/p"
     ],
     "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/alfajor-triple-56-gr-oreo/p"
+     4590.0,
+     "https://www.vea.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-360-ml/p"
     ],
     "Jumbo": [
-     2500.0,
-     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
+     4700.0,
+     "https://www.jumbo.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-360-ml/p"
     ],
     "ChangoMás": [
-     1397.4,
-     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+     2705.4,
+     "https://www.masonline.com.ar/desodorante-de-ambiente-poett-despertar-de-energia-aerosol-360-ml-2/p"
     ]
    }
   },
   {
-   "n": "Cereal de chocolate Kellogs Muesli 255 g.",
-   "m": "Kelloggs",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/945752/7896004004990_E02.jpg?v=639271456471300000",
+   "n": "Desodorante de ambiente Poett espíritu play en aerosol 360 ml.",
+   "m": "Poett",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204372/7793253004323_01.jpg?v=637589508417600000",
    "cadena": "ChangoMás",
-   "precio": 2765.4,
-   "link": "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p",
-   "referencia": 4609.0,
-   "precio_2da": 4609.0,
+   "precio": 2705.4,
+   "link": "https://www.masonline.com.ar/desodorante-de-ambiente-poett-espiritu-play-aerosol-360-ml-2/p",
+   "referencia": 4509.0,
+   "precio_2da": 4509.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
    "score": 1600,
    "pr": {
     "Carrefour": [
-     4609.0,
-     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
-    ],
-    "Jumbo": [
-     4800.0,
-     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
-    ],
-    "ChangoMás": [
-     2765.4,
-     "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jabón líquido Asepxia purificante carbón detox 200 ml.",
-   "m": "Asepxia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/239031/7798140259442_02.jpg?v=637832252627270000",
-   "cadena": "ChangoMás",
-   "precio": 5447.4,
-   "link": "https://www.masonline.com.ar/jabon-liquido-asepxia-detox-carbon-purif-200ml-2/p",
-   "referencia": 9079.0,
-   "precio_2da": 9079.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     9079.0,
-     "https://www.carrefour.com.ar/jabon-liquido-asepxia-purificante-carbon-detox-200-ml-645179/p"
-    ],
-    "Comodín": [
-     9855.09,
-     "https://www.comodinencasa.com.ar/jabon-asepxia-liq-carbon-200ml/p"
-    ],
-    "ChangoMás": [
-     5447.4,
-     "https://www.masonline.com.ar/jabon-liquido-asepxia-detox-carbon-purif-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador desinfectante Ayudín floral 1.8 l.",
-   "m": "Ayudín",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795418/7793253004750_01.jpg?v=639050337722000000",
-   "cadena": "ChangoMás",
-   "precio": 3389.4,
-   "link": "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-floral-1-8-l-2/p",
-   "referencia": 5649.0,
-   "precio_2da": 5649.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5649.0,
-     "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-floral-18-l/p"
+     4509.0,
+     "https://www.carrefour.com.ar/desodorante-de-ambiente-poett-espiritu-play-en-aerosol-360-ml-676645/p"
     ],
     "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/limpiador-desinfectante-ayudin-floral-botella-1-8-l/p"
+     4590.0,
+     "https://www.vea.com.ar/desodorante-de-ambiente-poett-espiritu-play-360-ml/p"
     ],
     "Jumbo": [
-     6000.0,
-     "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-floral-botella-1-8-l/p"
+     4700.0,
+     "https://www.jumbo.com.ar/desodorante-de-ambiente-poett-espiritu-play-360-ml/p"
     ],
     "ChangoMás": [
-     3389.4,
-     "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-floral-1-8-l-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de Inodoros Power Plus Frescura Floral 500 Cc Harpic",
-   "m": "HARPIC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/720236/Limpiador-Harpic-Gel-Power-Plus-500-Ml-1-16658.jpg?v=637992095864670000",
-   "cadena": "ChangoMás",
-   "precio": 3467.4,
-   "link": "https://www.masonline.com.ar/limpiador-inodoros-power-plus-frescura-floral-harpic-500ml-2/p",
-   "referencia": 5779.0,
-   "precio_2da": 5779.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-power-plus-frescura-floral-500ml/p"
-    ],
-    "Jumbo": [
-     6400.0,
-     "https://www.jumbo.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-power-plus-frescura-floral-500ml/p"
-    ],
-    "Comodín": [
-     5817.79,
-     "https://www.comodinencasa.com.ar/limpiador-harpic-frecura-inodoro-500ml/p"
-    ],
-    "ChangoMás": [
-     3467.4,
-     "https://www.masonline.com.ar/limpiador-inodoros-power-plus-frescura-floral-harpic-500ml-2/p"
-    ],
-    "Carrefour": [
-     5779.0,
-     "https://www.carrefour.com.ar/gel-limpiador-desinfectante-para-inodoros-harpic-power-plus-frescura-floral-500-ml-584377/p"
-    ]
-   }
-  },
-  {
-   "n": "Aerosol Desinfectante Ayudin Expert Frescura Matinal 332 Ml",
-   "m": "AYUDIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/797612/Ayudin-Aerosol-Desinfectante-Expert-Frescura-Matinal-332-Cc-Aerosol-Desinfectante-Ayudin-Expert-Frescura-Matinal-332-Ml-1-875240.jpg?v=638337586392470000",
-   "cadena": "ChangoMás",
-   "precio": 2327.4,
-   "link": "https://www.masonline.com.ar/aerosol-desinfectante-ayudin-expert-frescura-matinal-332-ml-2/p",
-   "referencia": 3879.0,
-   "precio_2da": 3879.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/aerosol-desinfectante-ayudin-expert-frescura-matinal-332-ml-2/p"
-    ],
-    "Carrefour": [
-     3879.0,
-     "https://www.carrefour.com.ar/desinfectante-ayudin-expert-frescura-matinal-aerosol-332-cc/p"
-    ],
-    "ChangoMás": [
-     2327.4,
-     "https://www.masonline.com.ar/aerosol-desinfectante-ayudin-expert-frescura-matinal-332-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jabon Asepxia Carbon Detox x 100 gr",
-   "m": "Asepxia",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/175926/21973.png?v=638324543114430000",
-   "cadena": "ChangoMás",
-   "precio": 3965.4,
-   "link": "https://www.masonline.com.ar/jabon-en-barra-asepxia-antiacnil-carbon-100gr-2/p",
-   "referencia": 6609.0,
-   "precio_2da": 6609.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Comodín": [
-     7180.19,
-     "https://www.comodinencasa.com.ar/jabon-asepxia-carbon-detox-x-100-gr/p"
-    ],
-    "Carrefour": [
-     6609.0,
-     "https://www.carrefour.com.ar/jabon-asepxia-carbon-detox-barra-100-g-636651/p"
-    ],
-    "ChangoMás": [
-     3965.4,
-     "https://www.masonline.com.ar/jabon-en-barra-asepxia-antiacnil-carbon-100gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza blanca Brahma en lata 710 ml",
-   "m": "Brahma",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/794064/7792798015061_01.jpg?v=639046435342830000",
-   "cadena": "Carrefour",
-   "precio": 1519.05,
-   "link": "https://www.carrefour.com.ar/cerveza-blanca-brahma-en-lata-710-ml-758177/p",
-   "referencia": 2531.75,
-   "precio_2da": 2528.5,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.9,
-   "score": 1597,
-   "pr": {
-    "Carrefour": [
-     1519.05,
-     "https://www.carrefour.com.ar/cerveza-blanca-brahma-en-lata-710-ml-758177/p"
-    ],
-    "Vea": [
-     2528.5,
-     "https://www.vea.com.ar/cerveza-rubia-x-710-cc-brahma/p"
-    ],
-    "Jumbo": [
-     2665.0,
-     "https://www.jumbo.com.ar/cerveza-rubia-x-710-cc-brahma/p"
-    ],
-    "ChangoMás": [
-     2534.35,
-     "https://www.masonline.com.ar/cerveza-rubia-brahma-710-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos Fettuccine 500 Grs Lucchetti",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/592393/Fideos-Cintas-Lucchetti-500-Gr-1-45929.jpg?v=637296886208100000",
-   "cadena": "Jumbo",
-   "precio": 1680.0,
-   "link": "https://www.jumbo.com.ar/fideos-cintas-lucchetti-500gr/p",
-   "referencia": 2800.0,
-   "precio_2da": 2769.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.3,
-   "score": 1573,
-   "pr": {
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/fideos-cintas-lucchetti-500gr/p"
-    ],
-    "Jumbo": [
-     1680.0,
-     "https://www.jumbo.com.ar/fideos-cintas-lucchetti-500gr/p"
-    ],
-    "ChangoMás": [
-     2769.0,
-     "https://www.masonline.com.ar/fideos-fettuccine-nido-nutri-vit-lucchetti-500gr-2/p"
+     2705.4,
+     "https://www.masonline.com.ar/desodorante-de-ambiente-poett-espiritu-play-aerosol-360-ml-2/p"
     ]
    }
   },
@@ -1375,7 +1028,7 @@
      "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-m-30un/p"
     ],
     "Carrefour": [
-     6709.0,
+     6649.0,
      "https://www.carrefour.com.ar/bolsa-de-residuos-virulana-50-x-70-cm-30-uni-765262/p"
     ],
     "ChangoMás": [
@@ -1385,95 +1038,29 @@
    }
   },
   {
-   "n": "Limpiador Multisuperficies Cif Flores de Lavanda Ultra Brillo Gatillo 400 ml",
-   "m": "Cif",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923917/7791290795471_01.jpg?v=639240410827570000",
+   "n": "Bolsas de Residuos Virulana Reforzadas 45x60 Cm x 30 Un",
+   "m": "VIRULANA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/890176/Bolsa-Rollo-Virulana-S-X30-1-1051246.jpg?v=638984723294100000",
    "cadena": "Comodín",
-   "precio": 3076.44,
-   "link": "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavand-gat-400ml/p",
-   "referencia": 4582.29,
-   "precio_2da": 5829.0,
-   "baja_pct": 32.9,
-   "brecha_pct": 47.2,
-   "score": 1552,
-   "pr": {
-    "Carrefour": [
-     5829.0,
-     "https://www.carrefour.com.ar/limpiador-multisuperficies-cif-flores-de-lavanda-ultra-brillo-gatillo-400-ml-727983/p"
-    ],
-    "Jumbo": [
-     5900.0,
-     "https://www.jumbo.com.ar/limpiador-multisuperficies-flores-de-lavanda-ultra-brillo-400-ml-gatillo-cif/p"
-    ],
-    "Comodín": [
-     3076.44,
-     "https://www.comodinencasa.com.ar/lustramueble-cif-flores-lavand-gat-400ml/p"
-    ],
-    "ChangoMás": [
-     5829.0,
-     "https://www.masonline.com.ar/lustramuebles-cif-gatillo-multiesp-lavanda-400-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador de Inodoros Gel Removedor de Sarro 500 Cc Harpic",
-   "m": "HARPIC",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/820737/Harpic-Gel-Limpiador-De-Inodoros-Desinfectante-100-Removedor-De-Sarro-500ml-1-31851.jpg?v=638500990124470000",
-   "cadena": "ChangoMás",
-   "precio": 3467.4,
-   "link": "https://www.masonline.com.ar/limpiador-inodoros-removedor-sarro-harpic-500ml-2/p",
-   "referencia": 5779.0,
-   "precio_2da": 5659.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.7,
-   "score": 1549,
+   "precio": 2230.31,
+   "link": "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-s-30un/p",
+   "referencia": 3313.6,
+   "precio_2da": 4249.0,
+   "baja_pct": 32.7,
+   "brecha_pct": 47.5,
+   "score": 1553,
    "pr": {
     "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-100-removedor-de-sarro-500ml/p"
-    ],
-    "Jumbo": [
-     6400.0,
-     "https://www.jumbo.com.ar/harpic-gel-limpiador-de-inodoros-desinfectante-100-removedor-de-sarro-500ml/p"
-    ],
-    "ChangoMás": [
-     3467.4,
-     "https://www.masonline.com.ar/limpiador-inodoros-removedor-sarro-harpic-500ml-2/p"
-    ],
-    "Carrefour": [
-     5659.0,
-     "https://www.carrefour.com.ar/gel-limpiador-desinfectante-para-inodoros-harpic-100-removedor-de-sarro-500-ml-584369/p"
+     4590.0,
+     "https://www.vea.com.ar/bolsa-rollo-s-x-30-un-virulana/p"
     ],
     "Comodín": [
-     5817.79,
-     "https://www.comodinencasa.com.ar/limpiador-harpic-remov-sarro-inod500ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Ceramidas 190 Ml Sedal",
-   "m": "SEDAL",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/934963/13710372001.jpg?v=639282786215570000",
-   "cadena": "ChangoMás",
-   "precio": 2228.85,
-   "link": "https://www.masonline.com.ar/shampoo-sedal-ceramidas-190ml-2/p",
-   "referencia": 3429.0,
-   "precio_2da": 3990.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 44.1,
-   "score": 1545,
-   "pr": {
-    "Jumbo": [
-     4550.0,
-     "https://www.jumbo.com.ar/shampoo-ceramidas-190-ml-sedal/p"
-    ],
-    "ChangoMás": [
-     2228.85,
-     "https://www.masonline.com.ar/shampoo-sedal-ceramidas-190ml-2/p"
+     2230.31,
+     "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-s-30un/p"
     ],
     "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/shampoo-sedal-ceramidas-botella-190-ml-715053/p"
+     4249.0,
+     "https://www.carrefour.com.ar/bolsa-de-residuos-virulana-45-x-60-cm-30-uni-765261/p"
     ]
    }
   },
@@ -1505,87 +1092,6 @@
    }
   },
   {
-   "n": "Fideos Tallarín al Huevo N°7 500 Grs Lucchetti",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/929068/7790070337009.jpg?v=639252633794930000",
-   "cadena": "Jumbo",
-   "precio": 1470.0,
-   "link": "https://www.jumbo.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p",
-   "referencia": 2450.0,
-   "precio_2da": 2390.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1540,
-   "pr": {
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
-    ],
-    "Jumbo": [
-     1470.0,
-     "https://www.jumbo.com.ar/fideos-lucchetti-tallarin-al-huevo-n-7-x-500-gr/p"
-    ],
-    "ChangoMás": [
-     2399.0,
-     "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Fructis Probióticos Fuerza 350 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922399/7509552963823_01.jpg?v=639239483154870000",
-   "cadena": "ChangoMás",
-   "precio": 4674.5,
-   "link": "https://www.masonline.com.ar/shampoo-garnier-fructis-probioticos-350ml/p",
-   "referencia": 9349.0,
-   "precio_2da": 6746.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.7,
-   "score": 1536,
-   "pr": {
-    "Carrefour": [
-     8989.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-probioticos-fuerza-350-ml-758829/p"
-    ],
-    "Comodín": [
-     6746.49,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-probioticos-350ml/p"
-    ],
-    "ChangoMás": [
-     4674.5,
-     "https://www.masonline.com.ar/shampoo-garnier-fructis-probioticos-350ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Bolsas de Residuos Virulana Reforzadas 45x60 Cm x 30 Un",
-   "m": "VIRULANA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/890176/Bolsa-Rollo-Virulana-S-X30-1-1051246.jpg?v=638984723294100000",
-   "cadena": "Comodín",
-   "precio": 2230.31,
-   "link": "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-s-30un/p",
-   "referencia": 3313.6,
-   "precio_2da": 4200.0,
-   "baja_pct": 32.7,
-   "brecha_pct": 46.9,
-   "score": 1533,
-   "pr": {
-    "Vea": [
-     4590.0,
-     "https://www.vea.com.ar/bolsa-rollo-s-x-30-un-virulana/p"
-    ],
-    "Comodín": [
-     2230.31,
-     "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-s-30un/p"
-    ],
-    "Carrefour": [
-     4200.0,
-     "https://www.carrefour.com.ar/bolsa-de-residuos-virulana-45-x-60-cm-30-uni-765261/p"
-    ]
-   }
-  },
-  {
    "n": "Desodorante de ambiente Poett alegra tu día en aerosol 360 ml.",
    "m": "Poett",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/204370/7793253004316_01.jpg?v=637589508397100000",
@@ -1599,7 +1105,7 @@
    "score": 1531,
    "pr": {
     "Carrefour": [
-     4379.0,
+     4509.0,
      "https://www.carrefour.com.ar/desodorante-de-ambiente-poett-alegra-tu-dia-en-aerosol-360-ml-676644/p"
     ],
     "Vea": [
@@ -1624,10 +1130,10 @@
    "precio": 3031.13,
    "link": "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-l-10un/p",
    "referencia": 4503.4,
-   "precio_2da": 5690.0,
+   "precio_2da": 5700.0,
    "baja_pct": 32.7,
-   "brecha_pct": 46.7,
-   "score": 1528,
+   "brecha_pct": 46.8,
+   "score": 1531,
    "pr": {
     "Vea": [
      6190.0,
@@ -1638,39 +1144,62 @@
      "https://www.comodinencasa.com.ar/bolsa-virulana-residuos-rollo-l-10un/p"
     ],
     "Carrefour": [
-     5690.0,
+     5700.0,
      "https://www.carrefour.com.ar/bolsa-de-residuos-virulana-60-x-90-cm-10-uni-765263/p"
     ]
    }
   },
   {
-   "n": "Jabón de tocador Baby Dove humectación sensible 75 g.",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/178617/7891150025998_01.jpg?v=637468579665830000",
+   "n": "Jabón líquido Villeneuve jengibre hidr purif 240 cc.",
+   "m": "Villeneuve",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/423022/7793008018872_02.jpg?v=638373949063430000",
    "cadena": "ChangoMás",
-   "precio": 1571.4,
-   "link": "https://www.masonline.com.ar/jabon-en-barra-baby-dove-humectacion-sensible-75-g-2/p",
-   "referencia": 2619.0,
-   "precio_2da": 2526.68,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.8,
-   "score": 1512,
+   "precio": 2399.4,
+   "link": "https://www.masonline.com.ar/jabon-liquido-vn-hidrata-y-purifica-jengibre-240ml/p",
+   "referencia": 4159.0,
+   "precio_2da": 3750.0,
+   "baja_pct": 42.3,
+   "brecha_pct": 36.0,
+   "score": 1524,
    "pr": {
     "Carrefour": [
-     2619.0,
-     "https://www.carrefour.com.ar/jabon-de-tocador-baby-dove-humectacion-sensible-75-g/p"
-    ],
-    "Vea": [
-     2526.68,
-     "https://www.vea.com.ar/jabon-en-barra-dove-humectacion-sensible-75-gr/p"
+     3850.0,
+     "https://www.carrefour.com.ar/jabon-liquido-villeneuve-jengibre-hidr-purif-240-cc-733053/p"
     ],
     "Jumbo": [
-     2533.35,
-     "https://www.jumbo.com.ar/jabon-en-barra-dove-humectacion-sensible-75-gr/p"
+     3750.0,
+     "https://www.jumbo.com.ar/jabon-liquido-jengibre-hidrata-purifica-240-ml-villeneuve/p"
     ],
     "ChangoMás": [
-     1571.4,
-     "https://www.masonline.com.ar/jabon-en-barra-baby-dove-humectacion-sensible-75-g-2/p"
+     2399.4,
+     "https://www.masonline.com.ar/jabon-liquido-vn-hidrata-y-purifica-jengibre-240ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador desinfectante Ayudín lavanda 1.8 l.",
+   "m": "Ayudín",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/795410/7793253004705_01.jpg?v=639050316332930000",
+   "cadena": "ChangoMás",
+   "precio": 3257.4,
+   "link": "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-lavanda-1-8-l-2/p",
+   "referencia": 5259.0,
+   "precio_2da": 5419.0,
+   "baja_pct": 38.1,
+   "brecha_pct": 39.9,
+   "score": 1518,
+   "pr": {
+    "Carrefour": [
+     5419.0,
+     "https://www.carrefour.com.ar/limpiador-desinfectante-ayudin-lavanda-18-l/p"
+    ],
+    "Jumbo": [
+     6000.0,
+     "https://www.jumbo.com.ar/limpiador-desinfectante-ayudin-lavanda-botella-1-8-l/p"
+    ],
+    "ChangoMás": [
+     3257.4,
+     "https://www.masonline.com.ar/limpiador-desinfectante-ayudin-lavanda-1-8-l-2/p"
     ]
    }
   },
@@ -1702,33 +1231,29 @@
    }
   },
   {
-   "n": "Cera Depilatoria Millefiori Vegetal 100g",
-   "m": "MILLEFIORI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/835471/Millefiori-Cera-Recarga-Vegetal-100G-Cera-Depilatoria-Millefiori-Vegetal-100g-1-1025358.jpg?v=638623680813300000",
+   "n": "Jabon Asepxia Carbon Detox x 100 gr",
+   "m": "Asepxia",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/175926/21973.png?v=638324543114430000",
    "cadena": "ChangoMás",
-   "precio": 2519.5,
-   "link": "https://www.masonline.com.ar/cera-en-perlas-millefiori-vegetal-100g-2/p",
-   "referencia": 5039.0,
-   "precio_2da": 3607.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.2,
-   "score": 1508,
+   "precio": 3965.4,
+   "link": "https://www.masonline.com.ar/jabon-en-barra-asepxia-antiacnil-carbon-100gr-2/p",
+   "referencia": 6609.0,
+   "precio_2da": 6360.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1506,
    "pr": {
-    "Vea": [
-     5490.0,
-     "https://www.vea.com.ar/cera-depilatoria-millefiori-vegetal-100g/p"
-    ],
-    "Jumbo": [
-     3607.5,
-     "https://www.jumbo.com.ar/cera-depilatoria-millefiori-vegetal-100g/p"
+    "Comodín": [
+     7180.19,
+     "https://www.comodinencasa.com.ar/jabon-asepxia-carbon-detox-x-100-gr/p"
     ],
     "Carrefour": [
-     5039.0,
-     "https://www.carrefour.com.ar/cera-recarga-vegetal-millefiori-100-g-746810/p"
+     6360.0,
+     "https://www.carrefour.com.ar/jabon-asepxia-carbon-detox-barra-100-g-636651/p"
     ],
     "ChangoMás": [
-     2519.5,
-     "https://www.masonline.com.ar/cera-en-perlas-millefiori-vegetal-100g-2/p"
+     3965.4,
+     "https://www.masonline.com.ar/jabon-en-barra-asepxia-antiacnil-carbon-100gr-2/p"
     ]
    }
   },
@@ -1787,60 +1312,64 @@
    }
   },
   {
-   "n": "Aceitunas descarozadas Morixe dp 300 g.",
-   "m": "Morixe",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/896119/7790199603054_E02.jpg?v=639183481076170000",
-   "cadena": "Jumbo",
-   "precio": 1680.0,
-   "link": "https://www.jumbo.com.ar/aceitunas-morixe-verdes-descarozadas-300-gr-2/p",
-   "referencia": 2800.0,
-   "precio_2da": 2689.0,
+   "n": "Alfajor triple Oreo 56 g.",
+   "m": "Oreo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912589/77976307_01.jpg?v=639220553876730000",
+   "cadena": "ChangoMás",
+   "precio": 1397.4,
+   "link": "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p",
+   "referencia": 2329.0,
+   "precio_2da": 2239.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1504,
+   "pr": {
+    "Carrefour": [
+     2239.0,
+     "https://www.carrefour.com.ar/alfajor-triple-oreo-56-g-680445/p"
+    ],
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/alfajor-triple-56-gr-oreo/p"
+    ],
+    "Jumbo": [
+     2500.0,
+     "https://www.jumbo.com.ar/alfajor-triple-56-gr-oreo/p"
+    ],
+    "ChangoMás": [
+     1397.4,
+     "https://www.masonline.com.ar/alfajor-triple-oreo-56gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Insecticida Fuyí mata moscas y mosquitos en aerosol 360 ml",
+   "m": "Fuyi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/946265/7790520025869_1.jpg?v=639271671011330000",
+   "cadena": "ChangoMás",
+   "precio": 3479.4,
+   "link": "https://www.masonline.com.ar/insecticida-fuyi-aerosol-mata-moscas-y-mosquitos-360-cc-2/p",
+   "referencia": 5799.0,
+   "precio_2da": 5569.0,
    "baja_pct": 40.0,
    "brecha_pct": 37.5,
    "score": 1501,
    "pr": {
     "Carrefour": [
-     2689.0,
-     "https://www.carrefour.com.ar/aceitunas-descarozadas-morixe-dp-300-g-739625/p"
-    ],
-    "Vea": [
-     2690.0,
-     "https://www.vea.com.ar/aceitunas-morixe-verdes-descarozadas-300-gr-2/p"
+     5569.0,
+     "https://www.carrefour.com.ar/insecticida-fuyi-mata-moscas-y-mosquitos-en-aerosol-360-ml-723885/p"
     ],
     "Jumbo": [
-     1680.0,
-     "https://www.jumbo.com.ar/aceitunas-morixe-verdes-descarozadas-300-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Fructis Liso Coco 350 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921512/7509552920857_01.jpg?v=639238652811330000",
-   "cadena": "ChangoMás",
-   "precio": 3989.5,
-   "link": "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-350ml-2/p",
-   "referencia": 7979.0,
-   "precio_2da": 5700.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.0,
-   "score": 1500,
-   "pr": {
-    "Carrefour": [
-     7990.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-350-ml-728188/p"
-    ],
-    "Jumbo": [
-     5700.0,
-     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-350ml-3/p"
-    ],
-    "ChangoMás": [
-     3989.5,
-     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-350ml-2/p"
+     6100.0,
+     "https://www.jumbo.com.ar/insecticida-moscas-y-mosquitos-aero-360-ml-fuyi/p"
     ],
     "Comodín": [
-     6746.49,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-liso-350ml/p"
+     6001.89,
+     "https://www.comodinencasa.com.ar/insecticida-fuyi-mmm-aero-360cc/p"
+    ],
+    "ChangoMás": [
+     3479.4,
+     "https://www.masonline.com.ar/insecticida-fuyi-aerosol-mata-moscas-y-mosquitos-360-cc-2/p"
     ]
    }
   }
