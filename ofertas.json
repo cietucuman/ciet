@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-08",
- "actualizado": "2026-11-08 14:41",
+ "actualizado": "2026-11-08 17:02",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-11-07",
   "2026-11-08"
  ],
- "total": 46,
+ "total": 49,
  "ofertas": [
   {
    "n": "Protectores diarios Doncella sin perfume 20 u.",
@@ -132,64 +132,6 @@
     "ChangoMás": [
      3424.5,
      "https://www.masonline.com.ar/shampoo-fructis-garnier-probioticos-fuerza-200ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Protector diario Nosotras multiestilo 20 uni",
-   "m": "Nosotras",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612490/7790770601875_01.jpg?v=638732320909970000",
-   "cadena": "ChangoMás",
-   "precio": 1829.5,
-   "link": "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-20un-2/p",
-   "referencia": 3659.0,
-   "precio_2da": 3519.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.0,
-   "score": 2401,
-   "pr": {
-    "Carrefour": [
-     3519.0,
-     "https://www.carrefour.com.ar/protector-diario-nosotras-multiestilo-20-uni-725988/p"
-    ],
-    "Comodín": [
-     3586.99,
-     "https://www.comodinencasa.com.ar/protector-nosotras-multiestilo-x-20-un/p"
-    ],
-    "ChangoMás": [
-     1829.5,
-     "https://www.masonline.com.ar/protectores-diarios-nosotras-multiestilo-20un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Protectores Diarios Duo Forma x 20 Un Doncella",
-   "m": "DONCELLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/877851/Protector-Diario-Duo-Forma-20-Un-Doncella-1-37897.jpg?v=638888925992000000",
-   "cadena": "ChangoMás",
-   "precio": 1144.5,
-   "link": "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 2200.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.0,
-   "score": 2399,
-   "pr": {
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/protector-diario-duo-forma-20-un-doncella/p"
-    ],
-    "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/protector-diario-duo-forma-20-un-doncella/p"
-    ],
-    "ChangoMás": [
-     1144.5,
-     "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p"
-    ],
-    "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/protectores-diarios-doncella-duo-forma-20-uni-709472/p"
     ]
    }
   },
@@ -395,6 +337,37 @@
     "ChangoMás": [
      4999.0,
      "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Cadbury intense 25 g.",
+   "m": "Cadbury",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912606/7622201818609_01.jpg?v=639220555503800000",
+   "cadena": "Jumbo",
+   "precio": 1500.0,
+   "link": "https://www.jumbo.com.ar/chocolate-cadbury-intense-25-gr-2/p",
+   "referencia": 3000.0,
+   "precio_2da": 2729.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.0,
+   "score": 2252,
+   "pr": {
+    "Carrefour": [
+     2729.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-intense-25-g-680444/p"
+    ],
+    "Vea": [
+     2890.0,
+     "https://www.vea.com.ar/chocolate-cadbury-intense-25-gr-2/p"
+    ],
+    "Jumbo": [
+     1500.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-intense-25-gr-2/p"
+    ],
+    "ChangoMás": [
+     2729.0,
+     "https://www.masonline.com.ar/chocolate-cadbury-intense-25g-2/p"
     ]
    }
   },
@@ -635,6 +608,33 @@
    }
   },
   {
+   "n": "Lavavajillas Detergente Para Diluir Glicerina Rinde 300ml X 100ml",
+   "m": "MULTIMAX",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/715815/Lavavajillas-Detergente-Para-Diluir-Glicerina-Rinde-300ml-X-100ml-1-843916.jpg?v=637963042671800000",
+   "cadena": "Carrefour",
+   "precio": 389.4,
+   "link": "https://www.carrefour.com.ar/lavavajillas-detergente-multimax-para-diluir-glicerina-rinde-300-ml-100-ml-660608/p",
+   "referencia": 649.0,
+   "precio_2da": 712.5,
+   "baja_pct": 40.0,
+   "brecha_pct": 45.3,
+   "score": 1814,
+   "pr": {
+    "Vea": [
+     712.5,
+     "https://www.vea.com.ar/lavavajillas-detergente-para-diluir-glicerina-rinde-300ml-x-100ml/p"
+    ],
+    "Jumbo": [
+     1000.0,
+     "https://www.jumbo.com.ar/lavavajillas-detergente-para-diluir-glicerina-rinde-300ml-x-100ml/p"
+    ],
+    "Carrefour": [
+     389.4,
+     "https://www.carrefour.com.ar/lavavajillas-detergente-multimax-para-diluir-glicerina-rinde-300-ml-100-ml-660608/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Dove Ritual De Reparación Coco 200 Ml",
    "m": "DOVE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/935071/13711213001.jpg?v=639282795383930000",
@@ -732,6 +732,33 @@
    }
   },
   {
+   "n": "Shampoo Liso Efecto Botox 250 Ml Tresemmé",
+   "m": "TRESEMMÉ",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/930160/Shampoo-Tresemm-Liso-Efecto-Botox-250-Ml-1-1000659.jpg?v=639252781705670000",
+   "cadena": "Jumbo",
+   "precio": 4200.0,
+   "link": "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-250-ml/p",
+   "referencia": 7000.0,
+   "precio_2da": 7155.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.3,
+   "score": 1652,
+   "pr": {
+    "Jumbo": [
+     4200.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-250-ml/p"
+    ],
+    "ChangoMás": [
+     7449.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-250ml-2-2/p"
+    ],
+    "Carrefour": [
+     7155.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-250-ml-730390/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Head&Shoulders Anti Comezon 375ml",
    "m": "Head & Shoulders",
    "i": "https://alberdisa.vteximg.com.br/arquivos/ids/179741/375.png?v=638619172343900000",
@@ -755,64 +782,6 @@
     "ChangoMás": [
      12379.0,
      "https://www.masonline.com.ar/shampoo-head-shoulders-menta-sensacion-extra-refrescante-375ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate SHOT blanco con maní 35 g.",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551935/77983992_E01.jpg?v=638608943531730000",
-   "cadena": "Jumbo",
-   "precio": 1450.0,
-   "link": "https://www.jumbo.com.ar/chocolate-shot-blanco-con-mani-35-gr-2/p",
-   "referencia": 2900.0,
-   "precio_2da": 2151.2,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.6,
-   "score": 1630,
-   "pr": {
-    "Carrefour": [
-     2151.2,
-     "https://www.carrefour.com.ar/chocolate-shot-blanco-con-mani-35-g-722327/p"
-    ],
-    "Jumbo": [
-     1450.0,
-     "https://www.jumbo.com.ar/chocolate-shot-blanco-con-mani-35-gr-2/p"
-    ],
-    "ChangoMás": [
-     2799.0,
-     "https://www.masonline.com.ar/chocolate-shot-blanco-35gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallas Plenitud Femme Nocturnas Antibacterial 20 x 1 U",
-   "m": "PLENITUD",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/685208/Toalla-Plenitud-Nocturna-Antibacterial-X20-1-883200.jpg?v=637782691463470000",
-   "cadena": "Carrefour",
-   "precio": 24820.25,
-   "link": "https://www.carrefour.com.ar/toalla-nocturna-plenitud-femme-20-uni-690111/p",
-   "referencia": 41649.0,
-   "precio_2da": 41500.0,
-   "baja_pct": 40.4,
-   "brecha_pct": 40.2,
-   "score": 1624,
-   "pr": {
-    "Vea": [
-     41500.0,
-     "https://www.vea.com.ar/toalla-plenitud-nocturna-antibacterial-x20-2/p"
-    ],
-    "Jumbo": [
-     42800.0,
-     "https://www.jumbo.com.ar/toalla-plenitud-nocturna-antibacterial-x20-2/p"
-    ],
-    "Carrefour": [
-     24820.25,
-     "https://www.carrefour.com.ar/toalla-nocturna-plenitud-femme-20-uni-690111/p"
-    ],
-    "ChangoMás": [
-     41649.0,
-     "https://www.masonline.com.ar/toalla-incontinencia-plenitud-femme-nocturna-sin-alas-20u/p"
     ]
    }
   },
@@ -883,6 +852,33 @@
     "Carrefour": [
      6595.0,
      "https://www.carrefour.com.ar/gel-limpiador-desinfectante-para-inodoros-harpic-power-plus-frescura-floral-500-ml-584377/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multiuso Citronella Rinde 5 Lts 150 Ml Multimax",
+   "m": "MULTIMAX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715830/Limpiador-Multiuso-Para-Diluir-Citronella-Rinde-5-Litros-X-150ml-1-856920.jpg?v=637963042732200000",
+   "cadena": "Carrefour",
+   "precio": 1169.4,
+   "link": "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p",
+   "referencia": 1890.0,
+   "precio_2da": 2029.0,
+   "baja_pct": 38.1,
+   "brecha_pct": 42.4,
+   "score": 1615,
+   "pr": {
+    "Jumbo": [
+     2050.0,
+     "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p"
+    ],
+    "Carrefour": [
+     1169.4,
+     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p"
+    ],
+    "ChangoMás": [
+     2029.0,
+     "https://www.masonline.com.ar/limpiador-liquido-multimax-citronella-rinde-5-litros-2/p"
     ]
    }
   },
@@ -1007,6 +1003,33 @@
    }
   },
   {
+   "n": "Acondicionador Sedal hialuronico y vitamina a 190 cc.",
+   "m": "Sedal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/315176/7791293046426_01.jpg?v=638175086985100000",
+   "cadena": "ChangoMás",
+   "precio": 2586.35,
+   "link": "https://www.masonline.com.ar/acondicionador-sedal-hialuronico-y-vit-a-190ml-2/p",
+   "referencia": 4279.0,
+   "precio_2da": 4275.0,
+   "baja_pct": 39.6,
+   "brecha_pct": 39.5,
+   "score": 1563,
+   "pr": {
+    "Carrefour": [
+     4275.0,
+     "https://www.carrefour.com.ar/acondicionador-sedal-hialuronico-y-vitamina-a-190-cc-715030/p"
+    ],
+    "Jumbo": [
+     4550.0,
+     "https://www.jumbo.com.ar/acondicionador-hialuronico-y-vitamina-a-190-ml-sedal/p"
+    ],
+    "ChangoMás": [
+     2586.35,
+     "https://www.masonline.com.ar/acondicionador-sedal-hialuronico-y-vit-a-190ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Bolsas de Residuos Virulana Reforzadas 50x70 Cm x 30 Un",
    "m": "VIRULANA",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/890174/Bolsa-Rollo-Virulana-M-X30-1-1051243.jpg?v=638984723285600000",
@@ -1088,6 +1111,33 @@
     "ChangoMás": [
      2099.0,
      "https://www.masonline.com.ar/aceitunas-verdes-nucete-en-rodajas-90g/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Fructis Probióticos Fuerza 350 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922399/7509552963823_01.jpg?v=639239483154870000",
+   "cadena": "ChangoMás",
+   "precio": 4674.5,
+   "link": "https://www.masonline.com.ar/shampoo-garnier-fructis-probioticos-350ml/p",
+   "referencia": 9349.0,
+   "precio_2da": 6746.49,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.7,
+   "score": 1536,
+   "pr": {
+    "Carrefour": [
+     8989.0,
+     "https://www.carrefour.com.ar/shampoo-fructis-probioticos-fuerza-350-ml-758829/p"
+    ],
+    "Comodín": [
+     6746.49,
+     "https://www.comodinencasa.com.ar/shampoo-fructis-probioticos-350ml/p"
+    ],
+    "ChangoMás": [
+     4674.5,
+     "https://www.masonline.com.ar/shampoo-garnier-fructis-probioticos-350ml/p"
     ]
    }
   },
@@ -1370,6 +1420,37 @@
     "ChangoMás": [
      3479.4,
      "https://www.masonline.com.ar/insecticida-fuyi-aerosol-mata-moscas-y-mosquitos-360-cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Fructis Liso Coco 350 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921512/7509552920857_01.jpg?v=639238652811330000",
+   "cadena": "ChangoMás",
+   "precio": 3989.5,
+   "link": "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-350ml-2/p",
+   "referencia": 7979.0,
+   "precio_2da": 5700.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.0,
+   "score": 1500,
+   "pr": {
+    "Carrefour": [
+     8990.0,
+     "https://www.carrefour.com.ar/shampoo-fructis-liso-coco-350-ml-728188/p"
+    ],
+    "Jumbo": [
+     5700.0,
+     "https://www.jumbo.com.ar/shampoo-fructis-liso-coco-350ml-3/p"
+    ],
+    "ChangoMás": [
+     3989.5,
+     "https://www.masonline.com.ar/shampoo-fructis-oil-repair-liso-coco-350ml-2/p"
+    ],
+    "Comodín": [
+     6746.49,
+     "https://www.comodinencasa.com.ar/shampoo-fructis-liso-350ml/p"
     ]
    }
   }
