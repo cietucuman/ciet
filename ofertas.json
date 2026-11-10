@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-09",
- "actualizado": "2026-11-09 16:09",
+ "fecha": "2026-11-10",
+ "actualizado": "2026-11-10 15:05",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-30",
   "2026-10-31",
   "2026-11-01",
   "2026-11-02",
@@ -19,80 +18,23 @@
   "2026-11-06",
   "2026-11-07",
   "2026-11-08",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
- "total": 24,
+ "total": 10,
  "ofertas": [
-  {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
-   "cadena": "Carrefour",
-   "precio": 2995.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 6790.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.9,
-   "score": 2795,
-   "pr": {
-    "Jumbo": [
-     6800.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
-    ],
-    "Comodín": [
-     6790.19,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
-    ],
-    "Carrefour": [
-     2995.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
-    ],
-    "ChangoMás": [
-     7409.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Vermouth Rosso 950 Cc Vincenzo",
-   "m": "VINCENZO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/799382/Vermouth-Vincezo-Rosso-1-999385.jpg?v=638345363999800000",
-   "cadena": "Vea",
-   "precio": 18900.0,
-   "link": "https://www.vea.com.ar/vermouth-vincenzo-rosso-950cc/p",
-   "referencia": 39290.0,
-   "precio_2da": 39290.0,
-   "baja_pct": 51.9,
-   "brecha_pct": 51.9,
-   "score": 2693,
-   "pr": {
-    "Vea": [
-     18900.0,
-     "https://www.vea.com.ar/vermouth-vincenzo-rosso-950cc/p"
-    ],
-    "Jumbo": [
-     41000.0,
-     "https://www.jumbo.com.ar/vermouth-vincenzo-rosso-950cc/p"
-    ],
-    "Carrefour": [
-     39290.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-vermouth-rosso-vicenzo-950-ml-729781/p"
-    ]
-   }
-  },
   {
    "n": "Protectores Diarios Duo Forma x 20 Un Doncella",
    "m": "DONCELLA",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/877851/Protector-Diario-Duo-Forma-20-Un-Doncella-1-37897.jpg?v=638888925992000000",
    "cadena": "ChangoMás",
-   "precio": 1144.5,
+   "precio": 1099.5,
    "link": "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p",
    "referencia": 2289.0,
    "precio_2da": 2290.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.0,
-   "score": 2501,
+   "baja_pct": 52.0,
+   "brecha_pct": 52.0,
+   "score": 2702,
    "pr": {
     "Vea": [
      2290.0,
@@ -103,66 +45,101 @@
      "https://www.jumbo.com.ar/protector-diario-duo-forma-20-un-doncella/p"
     ],
     "ChangoMás": [
-     1144.5,
+     1099.5,
      "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p"
     ]
    }
   },
   {
-   "n": "Shampoo Dove Oleo Nutricion 200 Ml",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919899/13711211001.jpg?v=639179987113430000",
+   "n": "Acondicionador Dove Nutrición + Tri-Óleos 200 ml",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/906897/7791293047065_01.jpg?v=639205009161100000",
    "cadena": "Carrefour",
    "precio": 2695.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p",
+   "link": "https://www.carrefour.com.ar/acondicionador-dove-nutricion-tri-oleos-200-ml-718529/p",
    "referencia": 5390.0,
    "precio_2da": 5379.0,
    "baja_pct": 50.0,
    "brecha_pct": 49.9,
    "score": 2495,
    "pr": {
+    "Carrefour": [
+     2695.0,
+     "https://www.carrefour.com.ar/acondicionador-dove-nutricion-tri-oleos-200-ml-718529/p"
+    ],
     "Vea": [
-     6690.0,
-     "https://www.vea.com.ar/shampoo-dove-oleo-nutricion-200-ml/p"
+     6390.0,
+     "https://www.vea.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p"
+    ],
+    "Jumbo": [
+     7000.0,
+     "https://www.jumbo.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p"
     ],
     "Comodín": [
      5774.09,
-     "https://www.comodinencasa.com.ar/shampoo-dove-oleo-nutricion-200ml/p"
+     "https://www.comodinencasa.com.ar/acondicionador-dove-oleo-nut-200ml/p"
     ],
     "ChangoMás": [
      5379.0,
-     "https://www.masonline.com.ar/shampoo-dove-oleo-nutricion-200-ml-2-2/p"
-    ],
-    "Carrefour": [
-     2695.0,
-     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p"
+     "https://www.masonline.com.ar/acondicionador-dove-oleo-nutricion-200-ml-3-2/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Fructis Hair Food Cacao 300 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922560/7509552900767_01.jpg?v=639239533989830000",
+   "n": "Toalla Nosotras normal clásica CURV 16 uni",
+   "m": "Nosotras",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612311/7790770601912_01.jpg?v=638731646918030000",
    "cadena": "ChangoMás",
-   "precio": 6294.5,
-   "link": "https://www.masonline.com.ar/fructis-acondicionador-hair-food-cacao-300-ml-2/p",
-   "referencia": 12589.0,
-   "precio_2da": 12519.59,
+   "precio": 2474.5,
+   "link": "https://www.masonline.com.ar/toallitas-higienicas-nosotras-normal-suave-16un-2/p",
+   "referencia": 4949.0,
+   "precio_2da": 4790.0,
    "baja_pct": 50.0,
-   "brecha_pct": 49.7,
-   "score": 2486,
+   "brecha_pct": 48.3,
+   "score": 2417,
    "pr": {
     "Carrefour": [
-     12590.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-cacao-300-ml-740063/p"
+     4790.0,
+     "https://www.carrefour.com.ar/toalla-nosotras-normal-clasica-curv-16-uni-725984/p"
     ],
-    "Comodín": [
-     12519.59,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-h-f-cacao-300ml/p"
+    "Jumbo": [
+     5050.0,
+     "https://www.jumbo.com.ar/toalla-nosotras-normal-clasica-curv-x-16-u-2/p"
     ],
     "ChangoMás": [
-     6294.5,
-     "https://www.masonline.com.ar/fructis-acondicionador-hair-food-cacao-300-ml-2/p"
+     2474.5,
+     "https://www.masonline.com.ar/toallitas-higienicas-nosotras-normal-suave-16un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Fructis Oil Control 200 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/863702/7790033342927_01.jpg?v=639135032077930000",
+   "cadena": "ChangoMás",
+   "precio": 3424.5,
+   "link": "https://www.masonline.com.ar/shampoo-garnier-fructis-goodbye-danos-200-ml/p",
+   "referencia": 6849.0,
+   "precio_2da": 6589.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.0,
+   "score": 2401,
+   "pr": {
+    "Carrefour": [
+     6589.0,
+     "https://www.carrefour.com.ar/shampoo-fructis-oil-control-200-ml-778484/p"
+    ],
+    "Vea": [
+     6990.0,
+     "https://www.vea.com.ar/shampoo-oil-control-x-200-ml-fructis/p"
+    ],
+    "Jumbo": [
+     7100.0,
+     "https://www.jumbo.com.ar/shampoo-oil-control-x-200-ml-fructis/p"
+    ],
+    "ChangoMás": [
+     3424.5,
+     "https://www.masonline.com.ar/shampoo-garnier-fructis-goodbye-danos-200-ml/p"
     ]
    }
   },
@@ -198,60 +175,29 @@
    }
   },
   {
-   "n": "Cerveza 0.0 330 Ml Heineken",
-   "m": "HEINEKEN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/774493/Cerveza-Heineken-Cero-330cc-1-947634.jpg?v=638150854109100000",
-   "cadena": "Vea",
-   "precio": 1745.0,
-   "link": "https://www.vea.com.ar/cerveza-heineken-cero-330-ml/p",
-   "referencia": 3218.0,
-   "precio_2da": 3119.99,
-   "baja_pct": 45.8,
-   "brecha_pct": 44.1,
-   "score": 2017,
-   "pr": {
-    "Vea": [
-     1745.0,
-     "https://www.vea.com.ar/cerveza-heineken-cero-330-ml/p"
-    ],
-    "Jumbo": [
-     3500.0,
-     "https://www.jumbo.com.ar/cerveza-heineken-cero-330-ml/p"
-    ],
-    "Comodín": [
-     3119.99,
-     "https://www.comodinencasa.com.ar/cerveza-heineken-s-alcohol-bot-330-cc/p"
-    ],
-    "ChangoMás": [
-     3489.0,
-     "https://www.masonline.com.ar/cerveza-rubia-heineken-cero-sin-alcohol-330-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Fideos Municiones 500 Grs Lucchetti",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/872402/Fideos-Municiones-Lucchetti-X500-Gr-1-1039288.jpg?v=638862916790830000",
+   "n": "Vodka Sabor Lima 473 Ml Shooter",
+   "m": "SHOOTER",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922096/Vodka-Lima-Shooter-473-Cc-1-1060862.jpg?v=639198346050670000",
    "cadena": "Carrefour",
-   "precio": 903.5,
-   "link": "https://www.carrefour.com.ar/fideos-municiones-lucchetti-bolsa-500-g-571172/p",
-   "referencia": 1749.0,
-   "precio_2da": 1490.0,
-   "baja_pct": 48.3,
-   "brecha_pct": 39.4,
-   "score": 1903,
+   "precio": 999.0,
+   "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p",
+   "referencia": 2499.0,
+   "precio_2da": 1425.42,
+   "baja_pct": 60.0,
+   "brecha_pct": 29.9,
+   "score": 1796,
    "pr": {
     "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/fideos-soperos-lucchetti-muni-500gr/p"
+     3355.75,
+     "https://www.vea.com.ar/vodka-lima-shooter-473-cc/p"
     ],
     "ChangoMás": [
-     1929.0,
-     "https://www.masonline.com.ar/fideos-municiones-lucchetti-500gr-2/p"
+     1425.42,
+     "https://www.masonline.com.ar/vodka-shooter-lima-473ml/p"
     ],
     "Carrefour": [
-     903.5,
-     "https://www.carrefour.com.ar/fideos-municiones-lucchetti-bolsa-500-g-571172/p"
+     999.0,
+     "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p"
     ]
    }
   },
@@ -283,439 +229,91 @@
    }
   },
   {
-   "n": "Vodka Sabor Lima 473 Ml Shooter",
-   "m": "SHOOTER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922096/Vodka-Lima-Shooter-473-Cc-1-1060862.jpg?v=639198346050670000",
+   "n": "Finlandia light sin sal agregada 180 g.",
+   "m": "Finlandia",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/670030/7790742324009_01.jpg?v=638851575518770000",
    "cadena": "Carrefour",
-   "precio": 999.0,
-   "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p",
-   "referencia": 2499.0,
-   "precio_2da": 1425.42,
-   "baja_pct": 60.0,
-   "brecha_pct": 29.9,
-   "score": 1796,
-   "pr": {
-    "Vea": [
-     3355.75,
-     "https://www.vea.com.ar/vodka-lima-shooter-473-cc/p"
-    ],
-    "ChangoMás": [
-     1425.42,
-     "https://www.masonline.com.ar/vodka-shooter-lima-473ml/p"
-    ],
-    "Carrefour": [
-     999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Probiotics 200 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/858664/Acondicionador-Probiotics-X-200-Ml-Fructis-1-1035224.jpg?v=638769693737430000",
-   "cadena": "ChangoMás",
-   "precio": 3294.5,
-   "link": "https://www.masonline.com.ar/acondicionador-fructis-garnier-probioticos-fuerza-200ml/p",
-   "referencia": 4941.75,
-   "precio_2da": 6890.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 52.2,
-   "score": 1739,
-   "pr": {
-    "Vea": [
-     6890.0,
-     "https://www.vea.com.ar/acondicionador-probiotics-x-200-ml-fructis-2/p"
-    ],
-    "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/acondicionador-probiotics-x-200-ml-fructis-2/p"
-    ],
-    "Comodín": [
-     7064.79,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-probioticos-200ml/p"
-    ],
-    "ChangoMás": [
-     3294.5,
-     "https://www.masonline.com.ar/acondicionador-fructis-garnier-probioticos-fuerza-200ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza Rubia 473 Cc Norte",
-   "m": "NORTE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/693223/Cerveza-Rubia-Norte-Lata-473-Cc-1-886868.jpg?v=637828905841300000",
-   "cadena": "Comodín",
-   "precio": 1499.0,
-   "link": "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p",
-   "referencia": 2495.99,
-   "precio_2da": 2595.0,
-   "baja_pct": 39.9,
-   "brecha_pct": 42.2,
-   "score": 1687,
-   "pr": {
-    "Vea": [
-     2595.0,
-     "https://www.vea.com.ar/cerveza-norte-rubia-473cc/p"
-    ],
-    "Jumbo": [
-     2803.0,
-     "https://www.jumbo.com.ar/cerveza-norte-rubia-473cc/p"
-    ],
-    "Comodín": [
-     1499.0,
-     "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p"
-    ],
-    "Carrefour": [
-     2689.0,
-     "https://www.carrefour.com.ar/cerveza-blanca-norte-473-ml-724631/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Fructis Goodbye Daños 200 Ml",
-   "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/798729/Acondicionador-Fructis-Goodbye-Da-os-200ml-Fru-Goodbye-Da-os-Aco-200ml-1-971782.jpg?v=638340290543930000",
-   "cadena": "ChangoMás",
-   "precio": 3424.5,
-   "link": "https://www.masonline.com.ar/acondicionador-fructis-goodbye-danos-200ml-2/p",
-   "referencia": 5136.75,
-   "precio_2da": 6890.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 50.3,
-   "score": 1677,
-   "pr": {
-    "Vea": [
-     6890.0,
-     "https://www.vea.com.ar/acondicionador-fructis-goodbye-danos-200-ml/p"
-    ],
-    "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/acondicionador-fructis-goodbye-danos-200-ml/p"
-    ],
-    "Comodín": [
-     7064.79,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-goodbye-dan-200ml/p"
-    ],
-    "ChangoMás": [
-     3424.5,
-     "https://www.masonline.com.ar/acondicionador-fructis-goodbye-danos-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Head&Shoulders Anti Comezon 375ml",
-   "m": "Head & Shoulders",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/179741/375.png?v=638619172343900000",
-   "cadena": "Comodín",
-   "precio": 7699.0,
-   "link": "https://www.comodinencasa.com.ar/shampoo-h-shoulders-anti-comezon-375ml/p",
-   "referencia": 13675.99,
-   "precio_2da": 12379.0,
-   "baja_pct": 43.7,
-   "brecha_pct": 37.8,
-   "score": 1652,
-   "pr": {
-    "Comodín": [
-     7699.0,
-     "https://www.comodinencasa.com.ar/shampoo-h-shoulders-anti-comezon-375ml/p"
-    ],
-    "Carrefour": [
-     14190.0,
-     "https://www.carrefour.com.ar/shampoo-head-shoulders-control-caspa-anti-comezon-375-ml-744935/p"
-    ],
-    "ChangoMás": [
-     12379.0,
-     "https://www.masonline.com.ar/shampoo-head-shoulders-menta-sensacion-extra-refrescante-375ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua Mineral Sin Gas 2250 Ml Villa del Sur",
-   "m": "VILLA DEL SUR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/933180/12120104025.jpg?v=639269150022970000",
-   "cadena": "Vea",
-   "precio": 1674.0,
-   "link": "https://www.vea.com.ar/agua-villa-del-sur-pet-sin-gas-2250-ml/p",
-   "referencia": 2790.0,
-   "precio_2da": 2794.49,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.1,
-   "score": 1604,
-   "pr": {
-    "Vea": [
-     1674.0,
-     "https://www.vea.com.ar/agua-villa-del-sur-pet-sin-gas-2250-ml/p"
-    ],
-    "Jumbo": [
-     2800.0,
-     "https://www.jumbo.com.ar/agua-villa-del-sur-pet-sin-gas-2250-ml/p"
-    ],
-    "Comodín": [
-     2794.49,
-     "https://www.comodinencasa.com.ar/agua-mineral-villa-del-sur-s-g-2250cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Agua mineral sin gas Villa del Sur 1,65 lts",
-   "m": "Villa Del Sur",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939570/7790315000149_01.jpg?v=639258552554300000",
-   "cadena": "Vea",
-   "precio": 1494.0,
-   "link": "https://www.vea.com.ar/agua-villa-del-sur-sin-gas-1-65lt/p",
-   "referencia": 2490.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     2490.0,
-     "https://www.carrefour.com.ar/agua-mineral-sin-gas-villa-del-sur-165-lts-500495/p"
-    ],
-    "Vea": [
-     1494.0,
-     "https://www.vea.com.ar/agua-villa-del-sur-sin-gas-1-65lt/p"
-    ],
-    "Jumbo": [
-     2550.0,
-     "https://www.jumbo.com.ar/agua-villa-del-sur-sin-gas-1-65lt/p"
-    ],
-    "ChangoMás": [
-     2499.0,
-     "https://www.masonline.com.ar/agua-mineral-sin-gas-villa-del-sur-1-65-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toalla Nosotras buenas noches suave MAX CURV 8 uni",
-   "m": "Nosotras",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612241/7790770601851_01.jpg?v=638731628939070000",
-   "cadena": "Vea",
-   "precio": 2154.0,
-   "link": "https://www.vea.com.ar/toalla-nosotras-buenas-noches-max-curv-x-8-u-2/p",
-   "referencia": 3590.0,
-   "precio_2da": 3590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     3590.0,
-     "https://www.carrefour.com.ar/toalla-nosotras-buenas-noches-suave-max-curv-8-uni-725978/p"
-    ],
-    "Vea": [
-     2154.0,
-     "https://www.vea.com.ar/toalla-nosotras-buenas-noches-max-curv-x-8-u-2/p"
-    ],
-    "Jumbo": [
-     4250.0,
-     "https://www.jumbo.com.ar/toalla-nosotras-buenas-noches-max-curv-x-8-u-2/p"
-    ],
-    "Comodín": [
-     4256.79,
-     "https://www.comodinencasa.com.ar/toalla-nosotras-nat-buenas-noches-x-8un/p"
-    ],
-    "ChangoMás": [
-     3959.0,
-     "https://www.masonline.com.ar/toalla-femenina-nosotras-nocturna-suave-8un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Protector diario Nosotras multiestilo 60 uni",
-   "m": "Nosotras",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612495/7790770602056_01.jpg?v=638732322625270000",
-   "cadena": "Vea",
-   "precio": 5694.0,
-   "link": "https://www.vea.com.ar/protector-diario-nosotras-multiestilo-con-calendula-x-60-u/p",
-   "referencia": 9490.0,
-   "precio_2da": 9490.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     9490.0,
-     "https://www.carrefour.com.ar/protector-diario-nosotras-60-uni-725989/p"
-    ],
-    "Vea": [
-     5694.0,
-     "https://www.vea.com.ar/protector-diario-nosotras-multiestilo-con-calendula-x-60-u/p"
-    ],
-    "Comodín": [
-     9580.49,
-     "https://www.comodinencasa.com.ar/protector-nosotras-multiestilo-x-60-un/p"
-    ]
-   }
-  },
-  {
-   "n": "Tampones Confianza-V Regular x 8 Un Nosotras",
-   "m": "NOSOTRAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/848075/Tamp-n-Nosotras-Digital-Regular-X-8-U-1-885225.jpg?v=638690962090930000",
-   "cadena": "Vea",
-   "precio": 1974.0,
-   "link": "https://www.vea.com.ar/tampon-nosotras-digital-regular-x-8-u/p",
+   "precio": 2138.5,
+   "link": "https://www.carrefour.com.ar/findalia-light-sin-sal-agregada-180-g-719546/p",
    "referencia": 3290.0,
-   "precio_2da": 3290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "precio_2da": 3990.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 46.4,
+   "score": 1624,
    "pr": {
+    "Carrefour": [
+     2138.5,
+     "https://www.carrefour.com.ar/findalia-light-sin-sal-agregada-180-g-719546/p"
+    ],
     "Vea": [
-     1974.0,
-     "https://www.vea.com.ar/tampon-nosotras-digital-regular-x-8-u/p"
+     3990.0,
+     "https://www.vea.com.ar/queso-la-serenisima-finlandia-reducido-en-calorias-180g/p"
     ],
     "Jumbo": [
-     3350.0,
-     "https://www.jumbo.com.ar/tampon-nosotras-digital-regular-x-8-u/p"
+     4100.0,
+     "https://www.jumbo.com.ar/queso-la-serenisima-finlandia-reducido-en-calorias-180g/p"
     ],
-    "Carrefour": [
-     3290.0,
-     "https://www.carrefour.com.ar/tampon-nosotras-digital-regular-8-uni-750173/p"
+    "Comodín": [
+     4449.19,
+     "https://www.comodinencasa.com.ar/queso-finlandia-ls-light-180gr-2/p"
+    ],
+    "ChangoMás": [
+     4239.0,
+     "https://www.masonline.com.ar/queso-untable-finlandia-light-sin-sal-agregada-180g-2/p"
     ]
    }
   },
   {
-   "n": "Tampones Confianza-V Mini x 8 Un Nosotras",
-   "m": "NOSOTRAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/848074/Tamp-n-Nosotras-Digital-Mini-X-8-U-1-885224.jpg?v=638690962087270000",
-   "cadena": "Vea",
-   "precio": 1974.0,
-   "link": "https://www.vea.com.ar/tampon-nosotras-digital-mini-x-8-u/p",
-   "referencia": 3290.0,
-   "precio_2da": 3290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Vea": [
-     1974.0,
-     "https://www.vea.com.ar/tampon-nosotras-digital-mini-x-8-u/p"
-    ],
-    "Jumbo": [
-     3350.0,
-     "https://www.jumbo.com.ar/tampon-nosotras-digital-mini-x-8-u/p"
-    ],
-    "Carrefour": [
-     3290.0,
-     "https://www.carrefour.com.ar/tampon-nosotras-digital-mini-8-uni-750171/p"
-    ]
-   }
-  },
-  {
-   "n": "Pañales Pampers Premium Care Rn 56u",
-   "m": "PAMPERS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/808449/Pa-ales-Pampers-Deluxe-Prot-56u-1-1006936.jpg?v=638422476530700000",
+   "n": "Pasta Dental 4 en 1 Anticaries 180 Grs Oral-B",
+   "m": "ORAL-B",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/776255/Crema-Dental-Oral-B-4en1-180gr-1-950145.jpg?v=638164603480100000",
    "cadena": "Carrefour",
-   "precio": 25979.4,
-   "link": "https://www.carrefour.com.ar/panales-pampers-deluxe-potection-talle-rn---56-uni-732861/p",
-   "referencia": 43299.0,
-   "precio_2da": 43299.0,
+   "precio": 4127.4,
+   "link": "https://www.carrefour.com.ar/crema-dental-oral-b-4-en-1-180-g-718741/p",
+   "referencia": 6879.0,
+   "precio_2da": 6741.29,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 38.8,
+   "score": 1551,
    "pr": {
     "Jumbo": [
-     43299.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-56u/p"
+     7300.0,
+     "https://www.jumbo.com.ar/crema-dental-oral-b-4en1-180gr/p"
     ],
-    "ChangoMás": [
-     43299.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-rn-56un-2/p"
+    "Comodín": [
+     6741.29,
+     "https://www.comodinencasa.com.ar/crema-dental-oral-b-4en1-180gr/p"
     ],
     "Carrefour": [
-     25979.4,
-     "https://www.carrefour.com.ar/panales-pampers-deluxe-potection-talle-rn---56-uni-732861/p"
+     4127.4,
+     "https://www.carrefour.com.ar/crema-dental-oral-b-4-en-1-180-g-718741/p"
     ]
    }
   },
   {
-   "n": "Agua mineral sin gas Villa del Sur 600 ml",
-   "m": "Villa Del Sur",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/939571/7798062540109_01.jpg?v=639258552775570000",
-   "cadena": "Vea",
-   "precio": 1194.0,
-   "link": "https://www.vea.com.ar/agua-villa-del-sur-sin-gas-600cc-2/p",
-   "referencia": 1990.0,
-   "precio_2da": 1949.0,
+   "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
+   "m": "Tresemmé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
+   "cadena": "Carrefour",
+   "precio": 9474.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
+   "referencia": 15790.0,
+   "precio_2da": 15279.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.7,
-   "score": 1550,
+   "brecha_pct": 38.0,
+   "score": 1520,
    "pr": {
     "Carrefour": [
-     1949.0,
-     "https://www.carrefour.com.ar/agua-mineral-sin-gas-villa-del-sur-600-ml-555180/p"
+     9474.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
     ],
-    "Vea": [
-     1194.0,
-     "https://www.vea.com.ar/agua-villa-del-sur-sin-gas-600cc-2/p"
-    ],
-    "Comodín": [
-     1966.69,
-     "https://www.comodinencasa.com.ar/agua-mineral-villa-del-sur-sg-600cc/p"
-    ],
-    "ChangoMás": [
-     1949.0,
-     "https://www.masonline.com.ar/agua-sin-gas-villa-del-sur-600-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Reparador Goodbye Daños 350 Ml Fructis",
-   "m": "FRUCTIS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/906384/Shampoo-Garnier-Fructis-Cabellos-Da-ados-Goodbye-Da-os-350-Ml-1-971805.jpg?v=639123826725170000",
-   "cadena": "ChangoMás",
-   "precio": 4674.5,
-   "link": "https://www.masonline.com.ar/shampoo-fructis-goodbye-danos-350ml-2/p",
-   "referencia": 9349.0,
-   "precio_2da": 6746.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.7,
-   "score": 1536,
-   "pr": {
     "Jumbo": [
-     9500.0,
-     "https://www.jumbo.com.ar/shampoo-garnier-fructis-cabellos-danados-goodbye-danos-350-ml/p"
-    ],
-    "Comodín": [
-     6746.49,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-goodbye-dano-350ml/p"
+     19550.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
     ],
     "ChangoMás": [
-     4674.5,
-     "https://www.masonline.com.ar/shampoo-fructis-goodbye-danos-350ml-2/p"
-    ],
-    "Carrefour": [
-     7990.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-reparador-goodbye-dano-350-cc-721113/p"
-    ]
-   }
-  },
-  {
-   "n": "Copa para gin Nadir 600 ml",
-   "m": "Nadir",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/205385/7891155056584_01.jpg?v=637604908788500000",
-   "cadena": "ChangoMás",
-   "precio": 3399.5,
-   "link": "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p",
-   "referencia": 6799.0,
-   "precio_2da": 4867.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.2,
-   "score": 1508,
-   "pr": {
-    "Carrefour": [
-     6800.0,
-     "https://www.carrefour.com.ar/copa-para-gin-nadir-600-ml/p"
-    ],
-    "Vea": [
-     4867.5,
-     "https://www.vea.com.ar/copa-para-gin-600-ml-nadirx1-2/p"
-    ],
-    "ChangoMás": [
-     3399.5,
-     "https://www.masonline.com.ar/copa-nadir-gin-600ml-2/p"
+     15279.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
     ]
    }
   }
