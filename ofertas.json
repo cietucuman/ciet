@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-10",
- "actualizado": "2026-11-10 20:48",
+ "fecha": "2026-11-11",
+ "actualizado": "2026-11-11 18:40",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-10-31",
   "2026-11-01",
   "2026-11-02",
   "2026-11-03",
@@ -19,68 +18,11 @@
   "2026-11-07",
   "2026-11-08",
   "2026-11-09",
-  "2026-11-10"
+  "2026-11-10",
+  "2026-11-11"
  ],
- "total": 14,
+ "total": 15,
  "ofertas": [
-  {
-   "n": "Protector Diario Nosotras Respirables Con Caléndula X 15 U",
-   "m": "NOSOTRAS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/848085/Protector-Diario-Nosotras-Respirables-Con-Cal-ndula-X-15-U-1-994307.jpg?v=638690962120730000",
-   "cadena": "ChangoMás",
-   "precio": 1254.5,
-   "link": "https://www.masonline.com.ar/protectores-diarios-nosotras-respirable-15un-2/p",
-   "referencia": 2509.0,
-   "precio_2da": 2850.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 56.0,
-   "score": 2799,
-   "pr": {
-    "Jumbo": [
-     2850.0,
-     "https://www.jumbo.com.ar/protector-diario-nosotras-respirables-con-calendula-x-15-u/p"
-    ],
-    "Comodín": [
-     2992.19,
-     "https://www.comodinencasa.com.ar/protector-nosotras-respirable-15-un/p"
-    ],
-    "ChangoMás": [
-     1254.5,
-     "https://www.masonline.com.ar/protectores-diarios-nosotras-respirable-15un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
-   "cadena": "Carrefour",
-   "precio": 2995.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 6790.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 55.9,
-   "score": 2795,
-   "pr": {
-    "Jumbo": [
-     6800.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
-    ],
-    "Comodín": [
-     6790.19,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
-    ],
-    "Carrefour": [
-     2995.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
-    ],
-    "ChangoMás": [
-     7409.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
-    ]
-   }
-  },
   {
    "n": "Protectores Diarios Duo Forma x 20 Un Doncella",
    "m": "DONCELLA",
@@ -109,153 +51,126 @@
    }
   },
   {
-   "n": "Acondicionador Dove Nutrición + Tri-Óleos 200 ml",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/906897/7791293047065_01.jpg?v=639205009161100000",
-   "cadena": "Carrefour",
-   "precio": 2695.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-dove-nutricion-tri-oleos-200-ml-718529/p",
-   "referencia": 5390.0,
-   "precio_2da": 5379.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.9,
-   "score": 2495,
-   "pr": {
-    "Carrefour": [
-     2695.0,
-     "https://www.carrefour.com.ar/acondicionador-dove-nutricion-tri-oleos-200-ml-718529/p"
-    ],
-    "Vea": [
-     6390.0,
-     "https://www.vea.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p"
-    ],
-    "Jumbo": [
-     7000.0,
-     "https://www.jumbo.com.ar/acondicionador-dove-reconstruccion-completa-200-ml-3/p"
-    ],
-    "Comodín": [
-     5774.09,
-     "https://www.comodinencasa.com.ar/acondicionador-dove-oleo-nut-200ml/p"
-    ],
-    "ChangoMás": [
-     5379.0,
-     "https://www.masonline.com.ar/acondicionador-dove-oleo-nutricion-200-ml-3-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Dove Oleo Nutricion 200 Ml",
-   "m": "DOVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919899/13711211001.jpg?v=639179987113430000",
-   "cadena": "Carrefour",
-   "precio": 2695.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p",
-   "referencia": 5390.0,
-   "precio_2da": 5379.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.9,
-   "score": 2495,
-   "pr": {
-    "Vea": [
-     6690.0,
-     "https://www.vea.com.ar/shampoo-dove-oleo-nutricion-200-ml/p"
-    ],
-    "Comodín": [
-     5774.09,
-     "https://www.comodinencasa.com.ar/shampoo-dove-oleo-nutricion-200ml/p"
-    ],
-    "ChangoMás": [
-     5379.0,
-     "https://www.masonline.com.ar/shampoo-dove-oleo-nutricion-200-ml-2-2/p"
-    ],
-    "Carrefour": [
-     2695.0,
-     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p"
-    ]
-   }
-  },
-  {
-   "n": "Cerveza rubia Warsteiner 473 ml",
-   "m": "Warsteiner",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/191382/7793147570927_01.jpg?v=637511788839030000",
+   "n": "Acondicionador Fructis Hair Food Ananá 300 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922591/7509552940435_01.jpg?v=639239542183800000",
    "cadena": "ChangoMás",
-   "precio": 1570.05,
-   "link": "https://www.masonline.com.ar/cerveza-rubia-lata-warsteiner-473cc-2/p",
-   "referencia": 2616.75,
-   "precio_2da": 3327.99,
-   "baja_pct": 40.0,
-   "brecha_pct": 52.8,
-   "score": 2113,
+   "precio": 6544.5,
+   "link": "https://www.masonline.com.ar/acondicionador-garnier-fructis-anana-anti-quiebre-300-ml/p",
+   "referencia": 13089.0,
+   "precio_2da": 12589.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 48.0,
+   "score": 2401,
    "pr": {
     "Carrefour": [
-     3479.0,
-     "https://www.carrefour.com.ar/cerveza-rubia-warsteiner-473-ml-645392/p"
+     12589.0,
+     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-anana-300-ml-765289/p"
     ],
     "Jumbo": [
-     3900.0,
-     "https://www.jumbo.com.ar/cerveza-warsteiner-473-ml/p"
+     13750.0,
+     "https://www.jumbo.com.ar/acondicionador-fructis-pina-300ml/p"
+    ],
+    "ChangoMás": [
+     6544.5,
+     "https://www.masonline.com.ar/acondicionador-garnier-fructis-anana-anti-quiebre-300-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Queso Cracker Kesitas Traviata 96 Gr",
+   "m": "TRAVIATA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/827543/Galletitas-Queso-Cracker-Kesitas-Traviata-96-Gr-1-1019780.jpg?v=638558014930470000",
+   "cadena": "Jumbo",
+   "precio": 525.0,
+   "link": "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p",
+   "referencia": 1050.0,
+   "precio_2da": 969.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 45.8,
+   "score": 2291,
+   "pr": {
+    "Vea": [
+     1000.0,
+     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+    ],
+    "Jumbo": [
+     525.0,
+     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
+    ],
+    "Carrefour": [
+     970.0,
+     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
     ],
     "Comodín": [
-     3327.99,
-     "https://www.comodinencasa.com.ar/cerveza-warsteiner-lata-x-473-cc/p"
+     982.79,
+     "https://www.comodinencasa.com.ar/galleta-traviata-crack-kesitas-96gr/p"
     ],
     "ChangoMás": [
-     1570.05,
-     "https://www.masonline.com.ar/cerveza-rubia-lata-warsteiner-473cc-2/p"
+     969.0,
+     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
     ]
    }
   },
   {
-   "n": "Vodka Sabor Lima 473 Ml Shooter",
-   "m": "SHOOTER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922096/Vodka-Lima-Shooter-473-Cc-1-1060862.jpg?v=639198346050670000",
-   "cadena": "Carrefour",
-   "precio": 999.0,
-   "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p",
-   "referencia": 2499.0,
-   "precio_2da": 1425.42,
-   "baja_pct": 60.0,
-   "brecha_pct": 29.9,
-   "score": 1796,
+   "n": "Acondicionador Fructis Liso Coco 350 Ml",
+   "m": "FRUCTIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/807791/Acondicionador-Fructis-Liso-Coco-350ml-1-999759.jpg?v=638415454348500000",
+   "cadena": "ChangoMás",
+   "precio": 3989.5,
+   "link": "https://www.masonline.com.ar/acondicionador-fructis-oil-repair-liso-coco-350ml-2/p",
+   "referencia": 7979.0,
+   "precio_2da": 6746.49,
+   "baja_pct": 50.0,
+   "brecha_pct": 40.9,
+   "score": 2043,
    "pr": {
     "Vea": [
-     3355.75,
-     "https://www.vea.com.ar/vodka-lima-shooter-473-cc/p"
+     8990.0,
+     "https://www.vea.com.ar/acondicionador-fructis-liso-coco-350-ml/p"
+    ],
+    "Jumbo": [
+     9250.0,
+     "https://www.jumbo.com.ar/acondicionador-fructis-liso-coco-350-ml/p"
     ],
     "ChangoMás": [
-     1425.42,
-     "https://www.masonline.com.ar/vodka-shooter-lima-473ml/p"
+     3989.5,
+     "https://www.masonline.com.ar/acondicionador-fructis-oil-repair-liso-coco-350ml-2/p"
+    ],
+    "Comodín": [
+     6746.49,
+     "https://www.comodinencasa.com.ar/acondicionador-fructis-liso-350ml/p"
     ],
     "Carrefour": [
-     999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-shooter-vodka-y-lima-en-lata-473-ml-780657/p"
+     8990.0,
+     "https://www.carrefour.com.ar/acondicionador-fructis-liso-coco-350-ml-728191/p"
     ]
    }
   },
   {
-   "n": "Vodka Sabor Pomelo 473 Cc Shooter",
-   "m": "SHOOTER",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922097/Vodka-Pomelo-Shooter-473-Cc-1-1060863.jpg?v=639198346053600000",
+   "n": "Svelty Extra Calcio 750 grs",
+   "m": "Svelty",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854255/8445291020061_01.jpg?v=639122868421470000",
    "cadena": "Carrefour",
-   "precio": 999.0,
-   "link": "https://www.carrefour.com.ar/aperitivo-con-alcohol-shoter-vodka-y-pomelo-en-lata-473-ml-780656/p",
-   "referencia": 2499.0,
-   "precio_2da": 1425.42,
-   "baja_pct": 60.0,
-   "brecha_pct": 29.9,
-   "score": 1796,
+   "precio": 10617.0,
+   "link": "https://www.carrefour.com.ar/svelty-extra-calcio-750-grs-729422/p",
+   "referencia": 19019.0,
+   "precio_2da": 19190.0,
+   "baja_pct": 44.2,
+   "brecha_pct": 44.7,
+   "score": 1974,
    "pr": {
-    "Vea": [
-     3355.75,
-     "https://www.vea.com.ar/vodka-pomelo-shooter-473-cc/p"
-    ],
-    "ChangoMás": [
-     1425.42,
-     "https://www.masonline.com.ar/vodka-shooter-pomelo-473ml/p"
-    ],
     "Carrefour": [
-     999.0,
-     "https://www.carrefour.com.ar/aperitivo-con-alcohol-shoter-vodka-y-pomelo-en-lata-473-ml-780656/p"
+     10617.0,
+     "https://www.carrefour.com.ar/svelty-extra-calcio-750-grs-729422/p"
+    ],
+    "Vea": [
+     19190.0,
+     "https://www.vea.com.ar/leche-polvo-extra-calcio-750-grs-svelty/p"
+    ],
+    "Jumbo": [
+     19300.0,
+     "https://www.jumbo.com.ar/leche-polvo-extra-calcio-750-grs-svelty/p"
     ]
    }
   },
@@ -295,122 +210,118 @@
    }
   },
   {
-   "n": "Copo De Maiz Zucarita Chocolate Kellogs 240 Gr",
-   "m": "ZUCARITAS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817290/Copo-De-Maiz-Zucarita-Chocolate-Kellogs-240-Gr-1-957989.jpg?v=638478636745900000",
-   "cadena": "ChangoMás",
-   "precio": 1835.4,
-   "link": "https://www.masonline.com.ar/cereal-zucaritas-chocolate240g-2/p",
-   "referencia": 3059.0,
-   "precio_2da": 3059.0,
+   "n": "Aceite De Oliva Nucete Clásico 500 Ml",
+   "m": "NUCETE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/708592/Aceite-De-Oliva-Nucete-Cl-sico-500-Ml-1-246703.jpg?v=637922866287230000",
+   "cadena": "Jumbo",
+   "precio": 9090.0,
+   "link": "https://www.jumbo.com.ar/aceite-de-oliva-nucete-clasico-500-ml/p",
+   "referencia": 15150.0,
+   "precio_2da": 15290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.5,
+   "score": 1622,
+   "pr": {
+    "Jumbo": [
+     9090.0,
+     "https://www.jumbo.com.ar/aceite-de-oliva-nucete-clasico-500-ml/p"
+    ],
+    "ChangoMás": [
+     15799.0,
+     "https://www.masonline.com.ar/aceite-de-oliva-extra-virgen-nucete-500-cc-3/p"
+    ],
+    "Carrefour": [
+     15290.0,
+     "https://www.carrefour.com.ar/aceite-de-oliva-nucete-extra-virgen-500-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Tresemme Liso Efecto Botox 250 Ml",
+   "m": "TRESEMMÉ",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/802919/Acondicionador-Tresemme-Liso-Efecto-Botox-250-Ml-1-1000571.jpg?v=638375620334470000",
+   "cadena": "Carrefour",
+   "precio": 4293.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p",
+   "referencia": 7155.0,
+   "precio_2da": 7159.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1600,
+   "score": 1601,
    "pr": {
     "Vea": [
-     3190.0,
-     "https://www.vea.com.ar/copo-de-maiz-zucarita-chocolate-kellogs-240-gr/p"
+     7890.0,
+     "https://www.vea.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
     ],
     "Jumbo": [
-     3250.0,
-     "https://www.jumbo.com.ar/copo-de-maiz-zucarita-chocolate-kellogs-240-gr/p"
-    ],
-    "Carrefour": [
-     3059.0,
-     "https://www.carrefour.com.ar/copos-de-cereal-zucaritas-de-chocolate-240-g-719200/p"
-    ],
-    "Comodín": [
-     3360.19,
-     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-chocolat-240gr/p"
+     8250.0,
+     "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
     ],
     "ChangoMás": [
-     1835.4,
-     "https://www.masonline.com.ar/cereal-zucaritas-chocolate240g-2/p"
+     7159.0,
+     "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
+    ],
+    "Carrefour": [
+     4293.0,
+     "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
     ]
    }
   },
   {
-   "n": "Granolas Sabor Chocolate 255 Grs Kellogg´s",
-   "m": "KELLOGG´S",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/781503/Cereal-Musli-Kelloggs-Chocolate-X255g-1-957966.jpg?v=638197833762700000",
-   "cadena": "ChangoMás",
-   "precio": 2765.4,
-   "link": "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p",
-   "referencia": 4609.0,
-   "precio_2da": 4609.0,
+   "n": "Cereal Sabor Frutas 195 Grs Froot Loops",
+   "m": "FROOT LOOPS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/805078/Cereal-Froot-Loops-X195g-1-1001773.jpg?v=638392017679800000",
+   "cadena": "Jumbo",
+   "precio": 3000.0,
+   "link": "https://www.jumbo.com.ar/cereal-froot-loops-x195g/p",
+   "referencia": 5000.0,
+   "precio_2da": 4890.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 38.7,
+   "score": 1546,
    "pr": {
-    "Jumbo": [
-     4800.0,
-     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
+    "Vea": [
+     4890.0,
+     "https://www.vea.com.ar/cereal-froot-loops-x195g/p"
     ],
-    "ChangoMás": [
-     2765.4,
-     "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p"
+    "Jumbo": [
+     3000.0,
+     "https://www.jumbo.com.ar/cereal-froot-loops-x195g/p"
     ],
     "Carrefour": [
-     4609.0,
-     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
+     4890.0,
+     "https://www.carrefour.com.ar/aros-de-cereal-frutado-kellogs-froot-loops-en-bolsa-195-g-733171/p"
     ]
    }
   },
   {
-   "n": "Pañales Pampers Premium Care Rn 56u",
+   "n": "Pañales Pampers Premium Care Med 52u",
    "m": "PAMPERS",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/808449/Pa-ales-Pampers-Deluxe-Prot-56u-1-1006936.jpg?v=638422476530700000",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808452/Pa-ales-Pampers-Deluxe-Prot-Med-52u-1-1006939.jpg?v=638422478346030000",
    "cadena": "Carrefour",
-   "precio": 25979.4,
-   "link": "https://www.carrefour.com.ar/panales-pampers-deluxe-potection-talle-rn---56-uni-732861/p",
-   "referencia": 43299.0,
-   "precio_2da": 43299.0,
+   "precio": 27821.4,
+   "link": "https://www.carrefour.com.ar/panales-pampers-talle-m-deluxe-52-uni-732883/p",
+   "referencia": 46369.0,
+   "precio_2da": 45190.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
+   "brecha_pct": 38.4,
+   "score": 1537,
    "pr": {
-    "Jumbo": [
-     43299.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-56u/p"
-    ],
-    "ChangoMás": [
-     43299.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-rn-56un-2/p"
-    ],
-    "Carrefour": [
-     25979.4,
-     "https://www.carrefour.com.ar/panales-pampers-deluxe-potection-talle-rn---56-uni-732861/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Fructis reparador goodbye dano 350 cc.",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/976571/7509552823806_01.jpg?v=639288955057530000",
-   "cadena": "ChangoMás",
-   "precio": 4674.5,
-   "link": "https://www.masonline.com.ar/shampoo-fructis-goodbye-danos-350ml-2/p",
-   "referencia": 9349.0,
-   "precio_2da": 6746.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.7,
-   "score": 1536,
-   "pr": {
-    "Carrefour": [
-     7990.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-reparador-goodbye-dano-350-cc-721113/p"
+    "Vea": [
+     45190.0,
+     "https://www.vea.com.ar/panales-pampers-premium-care-med-52u/p"
     ],
     "Jumbo": [
-     9500.0,
-     "https://www.jumbo.com.ar/shampoo-garnier-fructis-cabellos-danados-goodbye-danos-350-ml/p"
-    ],
-    "Comodín": [
-     6746.49,
-     "https://www.comodinencasa.com.ar/shampoo-fructis-goodbye-dano-350ml/p"
+     48219.0,
+     "https://www.jumbo.com.ar/panales-pampers-premium-care-med-52u/p"
     ],
     "ChangoMás": [
-     4674.5,
-     "https://www.masonline.com.ar/shampoo-fructis-goodbye-danos-350ml-2/p"
+     48219.0,
+     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-m-52un-2/p"
+    ],
+    "Carrefour": [
+     27821.4,
+     "https://www.carrefour.com.ar/panales-pampers-talle-m-deluxe-52-uni-732883/p"
     ]
    }
   },
@@ -438,6 +349,114 @@
     "Jumbo": [
      9900.0,
      "https://www.jumbo.com.ar/desodorante-barra-original-53gr-dove/p"
+    ]
+   }
+  },
+  {
+   "n": "Cereal Choco Krispis X185g",
+   "m": "KELLOGG´S",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/805077/Cereal-Choco-Krispis-X185g-1-1001772.jpg?v=638392017676330000",
+   "cadena": "Jumbo",
+   "precio": 3030.0,
+   "link": "https://www.jumbo.com.ar/cereal-choco-krispis-x185g/p",
+   "referencia": 5050.0,
+   "precio_2da": 4890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1521,
+   "pr": {
+    "Vea": [
+     4990.0,
+     "https://www.vea.com.ar/cereal-choco-krispis-x185g/p"
+    ],
+    "Jumbo": [
+     3030.0,
+     "https://www.jumbo.com.ar/cereal-choco-krispis-x185g/p"
+    ],
+    "Carrefour": [
+     4890.0,
+     "https://www.carrefour.com.ar/copos-de-ceral-chocolatado-kelloggs-choco-krispis-185-g-733169/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
+   "m": "Tresemmé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
+   "cadena": "Carrefour",
+   "precio": 9474.0,
+   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
+   "referencia": 15790.0,
+   "precio_2da": 15279.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1520,
+   "pr": {
+    "Carrefour": [
+     9474.0,
+     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
+    ],
+    "Jumbo": [
+     19550.0,
+     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+    ],
+    "ChangoMás": [
+     15279.0,
+     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceite de oliva extra virgen Zuelo original en botella 500 grs",
+   "m": "Zuelo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884770/7791728022049_02.jpg?v=639160116926470000",
+   "cadena": "Jumbo",
+   "precio": 12150.0,
+   "link": "https://www.jumbo.com.ar/aceite-de-oliva-zuelo-extra-virgen-clasico-500-ml/p",
+   "referencia": 20250.0,
+   "precio_2da": 19590.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     20850.0,
+     "https://www.carrefour.com.ar/aceite-de-oliva-extra-virgen-zuelo-original-en-botella-500-grs-452952/p"
+    ],
+    "Vea": [
+     19590.0,
+     "https://www.vea.com.ar/aceite-de-oliva-zuelo-extra-virgen-clasico-500-ml/p"
+    ],
+    "Jumbo": [
+     12150.0,
+     "https://www.jumbo.com.ar/aceite-de-oliva-zuelo-extra-virgen-clasico-500-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Granola Kelloggs nuts 200 grs",
+   "m": "Kelloggs",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/946107/7896004011011_E02.jpg?v=639271642764130000",
+   "cadena": "Jumbo",
+   "precio": 2910.0,
+   "link": "https://www.jumbo.com.ar/granola-nuts-x-200-grs-kelloggs/p",
+   "referencia": 4850.0,
+   "precio_2da": 4690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1518,
+   "pr": {
+    "Carrefour": [
+     4759.0,
+     "https://www.carrefour.com.ar/granola-kelloggs-nuts-200-grs-762849/p"
+    ],
+    "Vea": [
+     4690.0,
+     "https://www.vea.com.ar/granola-nuts-x-200-grs-kelloggs/p"
+    ],
+    "Jumbo": [
+     2910.0,
+     "https://www.jumbo.com.ar/granola-nuts-x-200-grs-kelloggs/p"
     ]
    }
   }
