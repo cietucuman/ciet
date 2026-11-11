@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-10",
- "actualizado": "2026-11-10 15:05",
+ "actualizado": "2026-11-10 20:48",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,8 +21,66 @@
   "2026-11-09",
   "2026-11-10"
  ],
- "total": 10,
+ "total": 14,
  "ofertas": [
+  {
+   "n": "Protector Diario Nosotras Respirables Con Caléndula X 15 U",
+   "m": "NOSOTRAS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/848085/Protector-Diario-Nosotras-Respirables-Con-Cal-ndula-X-15-U-1-994307.jpg?v=638690962120730000",
+   "cadena": "ChangoMás",
+   "precio": 1254.5,
+   "link": "https://www.masonline.com.ar/protectores-diarios-nosotras-respirable-15un-2/p",
+   "referencia": 2509.0,
+   "precio_2da": 2850.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 56.0,
+   "score": 2799,
+   "pr": {
+    "Jumbo": [
+     2850.0,
+     "https://www.jumbo.com.ar/protector-diario-nosotras-respirables-con-calendula-x-15-u/p"
+    ],
+    "Comodín": [
+     2992.19,
+     "https://www.comodinencasa.com.ar/protector-nosotras-respirable-15-un/p"
+    ],
+    "ChangoMás": [
+     1254.5,
+     "https://www.masonline.com.ar/protectores-diarios-nosotras-respirable-15un-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
+   "m": "DOVE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
+   "cadena": "Carrefour",
+   "precio": 2995.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
+   "referencia": 5990.0,
+   "precio_2da": 6790.19,
+   "baja_pct": 50.0,
+   "brecha_pct": 55.9,
+   "score": 2795,
+   "pr": {
+    "Jumbo": [
+     6800.0,
+     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+    ],
+    "Comodín": [
+     6790.19,
+     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
+    ],
+    "Carrefour": [
+     2995.0,
+     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    ],
+    "ChangoMás": [
+     7409.0,
+     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+    ]
+   }
+  },
   {
    "n": "Protectores Diarios Duo Forma x 20 Un Doncella",
    "m": "DONCELLA",
@@ -86,60 +144,33 @@
    }
   },
   {
-   "n": "Toalla Nosotras normal clásica CURV 16 uni",
-   "m": "Nosotras",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/612311/7790770601912_01.jpg?v=638731646918030000",
-   "cadena": "ChangoMás",
-   "precio": 2474.5,
-   "link": "https://www.masonline.com.ar/toallitas-higienicas-nosotras-normal-suave-16un-2/p",
-   "referencia": 4949.0,
-   "precio_2da": 4790.0,
+   "n": "Shampoo Dove Oleo Nutricion 200 Ml",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919899/13711211001.jpg?v=639179987113430000",
+   "cadena": "Carrefour",
+   "precio": 2695.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p",
+   "referencia": 5390.0,
+   "precio_2da": 5379.0,
    "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2417,
+   "brecha_pct": 49.9,
+   "score": 2495,
    "pr": {
-    "Carrefour": [
-     4790.0,
-     "https://www.carrefour.com.ar/toalla-nosotras-normal-clasica-curv-16-uni-725984/p"
-    ],
-    "Jumbo": [
-     5050.0,
-     "https://www.jumbo.com.ar/toalla-nosotras-normal-clasica-curv-x-16-u-2/p"
-    ],
-    "ChangoMás": [
-     2474.5,
-     "https://www.masonline.com.ar/toallitas-higienicas-nosotras-normal-suave-16un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Fructis Oil Control 200 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/863702/7790033342927_01.jpg?v=639135032077930000",
-   "cadena": "ChangoMás",
-   "precio": 3424.5,
-   "link": "https://www.masonline.com.ar/shampoo-garnier-fructis-goodbye-danos-200-ml/p",
-   "referencia": 6849.0,
-   "precio_2da": 6589.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.0,
-   "score": 2401,
-   "pr": {
-    "Carrefour": [
-     6589.0,
-     "https://www.carrefour.com.ar/shampoo-fructis-oil-control-200-ml-778484/p"
-    ],
     "Vea": [
-     6990.0,
-     "https://www.vea.com.ar/shampoo-oil-control-x-200-ml-fructis/p"
+     6690.0,
+     "https://www.vea.com.ar/shampoo-dove-oleo-nutricion-200-ml/p"
     ],
-    "Jumbo": [
-     7100.0,
-     "https://www.jumbo.com.ar/shampoo-oil-control-x-200-ml-fructis/p"
+    "Comodín": [
+     5774.09,
+     "https://www.comodinencasa.com.ar/shampoo-dove-oleo-nutricion-200ml/p"
     ],
     "ChangoMás": [
-     3424.5,
-     "https://www.masonline.com.ar/shampoo-garnier-fructis-goodbye-danos-200-ml/p"
+     5379.0,
+     "https://www.masonline.com.ar/shampoo-dove-oleo-nutricion-200-ml-2-2/p"
+    ],
+    "Carrefour": [
+     2695.0,
+     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p"
     ]
    }
   },
@@ -264,56 +295,149 @@
    }
   },
   {
-   "n": "Pasta Dental 4 en 1 Anticaries 180 Grs Oral-B",
-   "m": "ORAL-B",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/776255/Crema-Dental-Oral-B-4en1-180gr-1-950145.jpg?v=638164603480100000",
-   "cadena": "Carrefour",
-   "precio": 4127.4,
-   "link": "https://www.carrefour.com.ar/crema-dental-oral-b-4-en-1-180-g-718741/p",
-   "referencia": 6879.0,
-   "precio_2da": 6741.29,
+   "n": "Copo De Maiz Zucarita Chocolate Kellogs 240 Gr",
+   "m": "ZUCARITAS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/817290/Copo-De-Maiz-Zucarita-Chocolate-Kellogs-240-Gr-1-957989.jpg?v=638478636745900000",
+   "cadena": "ChangoMás",
+   "precio": 1835.4,
+   "link": "https://www.masonline.com.ar/cereal-zucaritas-chocolate240g-2/p",
+   "referencia": 3059.0,
+   "precio_2da": 3059.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.8,
-   "score": 1551,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
-    "Jumbo": [
-     7300.0,
-     "https://www.jumbo.com.ar/crema-dental-oral-b-4en1-180gr/p"
+    "Vea": [
+     3190.0,
+     "https://www.vea.com.ar/copo-de-maiz-zucarita-chocolate-kellogs-240-gr/p"
     ],
-    "Comodín": [
-     6741.29,
-     "https://www.comodinencasa.com.ar/crema-dental-oral-b-4en1-180gr/p"
+    "Jumbo": [
+     3250.0,
+     "https://www.jumbo.com.ar/copo-de-maiz-zucarita-chocolate-kellogs-240-gr/p"
     ],
     "Carrefour": [
-     4127.4,
-     "https://www.carrefour.com.ar/crema-dental-oral-b-4-en-1-180-g-718741/p"
+     3059.0,
+     "https://www.carrefour.com.ar/copos-de-cereal-zucaritas-de-chocolate-240-g-719200/p"
+    ],
+    "Comodín": [
+     3360.19,
+     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-chocolat-240gr/p"
+    ],
+    "ChangoMás": [
+     1835.4,
+     "https://www.masonline.com.ar/cereal-zucaritas-chocolate240g-2/p"
     ]
    }
   },
   {
-   "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
-   "m": "Tresemmé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
-   "cadena": "Carrefour",
-   "precio": 9474.0,
-   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
-   "referencia": 15790.0,
-   "precio_2da": 15279.0,
+   "n": "Granolas Sabor Chocolate 255 Grs Kellogg´s",
+   "m": "KELLOGG´S",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/781503/Cereal-Musli-Kelloggs-Chocolate-X255g-1-957966.jpg?v=638197833762700000",
+   "cadena": "ChangoMás",
+   "precio": 2765.4,
+   "link": "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p",
+   "referencia": 4609.0,
+   "precio_2da": 4609.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1520,
+   "brecha_pct": 40.0,
+   "score": 1600,
    "pr": {
-    "Carrefour": [
-     9474.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
-    ],
     "Jumbo": [
-     19550.0,
-     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+     4800.0,
+     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
     ],
     "ChangoMás": [
-     15279.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
+     2765.4,
+     "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p"
+    ],
+    "Carrefour": [
+     4609.0,
+     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
+    ]
+   }
+  },
+  {
+   "n": "Pañales Pampers Premium Care Rn 56u",
+   "m": "PAMPERS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/808449/Pa-ales-Pampers-Deluxe-Prot-56u-1-1006936.jpg?v=638422476530700000",
+   "cadena": "Carrefour",
+   "precio": 25979.4,
+   "link": "https://www.carrefour.com.ar/panales-pampers-deluxe-potection-talle-rn---56-uni-732861/p",
+   "referencia": 43299.0,
+   "precio_2da": 43299.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Jumbo": [
+     43299.0,
+     "https://www.jumbo.com.ar/panales-pampers-premium-care-rn-56u/p"
+    ],
+    "ChangoMás": [
+     43299.0,
+     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-rn-56un-2/p"
+    ],
+    "Carrefour": [
+     25979.4,
+     "https://www.carrefour.com.ar/panales-pampers-deluxe-potection-talle-rn---56-uni-732861/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Fructis reparador goodbye dano 350 cc.",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/976571/7509552823806_01.jpg?v=639288955057530000",
+   "cadena": "ChangoMás",
+   "precio": 4674.5,
+   "link": "https://www.masonline.com.ar/shampoo-fructis-goodbye-danos-350ml-2/p",
+   "referencia": 9349.0,
+   "precio_2da": 6746.49,
+   "baja_pct": 50.0,
+   "brecha_pct": 30.7,
+   "score": 1536,
+   "pr": {
+    "Carrefour": [
+     7990.0,
+     "https://www.carrefour.com.ar/shampoo-fructis-reparador-goodbye-dano-350-cc-721113/p"
+    ],
+    "Jumbo": [
+     9500.0,
+     "https://www.jumbo.com.ar/shampoo-garnier-fructis-cabellos-danados-goodbye-danos-350-ml/p"
+    ],
+    "Comodín": [
+     6746.49,
+     "https://www.comodinencasa.com.ar/shampoo-fructis-goodbye-dano-350ml/p"
+    ],
+    "ChangoMás": [
+     4674.5,
+     "https://www.masonline.com.ar/shampoo-fructis-goodbye-danos-350ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Antitranspirante en Barra Dove Original 53 grs",
+   "m": "Dove",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923893/75082734_01.jpg?v=639240409427930000",
+   "cadena": "Carrefour",
+   "precio": 4738.5,
+   "link": "https://www.carrefour.com.ar/antitranspirante-en-barra-dove-original-53-grs-773574/p",
+   "referencia": 7290.0,
+   "precio_2da": 8390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 43.5,
+   "score": 1523,
+   "pr": {
+    "Carrefour": [
+     4738.5,
+     "https://www.carrefour.com.ar/antitranspirante-en-barra-dove-original-53-grs-773574/p"
+    ],
+    "Vea": [
+     8390.0,
+     "https://www.vea.com.ar/desodorante-barra-original-53gr-dove/p"
+    ],
+    "Jumbo": [
+     9900.0,
+     "https://www.jumbo.com.ar/desodorante-barra-original-53gr-dove/p"
     ]
    }
   }
