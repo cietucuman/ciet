@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-11",
- "actualizado": "2026-11-11 18:40",
+ "fecha": "2026-11-12",
+ "actualizado": "2026-11-12 13:22",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-11-01",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
@@ -19,131 +18,62 @@
   "2026-11-08",
   "2026-11-09",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
- "total": 15,
+ "total": 32,
  "ofertas": [
   {
-   "n": "Protectores Diarios Duo Forma x 20 Un Doncella",
-   "m": "DONCELLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/877851/Protector-Diario-Duo-Forma-20-Un-Doncella-1-37897.jpg?v=638888925992000000",
-   "cadena": "ChangoMás",
-   "precio": 1099.5,
-   "link": "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p",
-   "referencia": 2289.0,
-   "precio_2da": 2290.0,
-   "baja_pct": 52.0,
-   "brecha_pct": 52.0,
-   "score": 2702,
+   "n": "Vino Alaris Red Blend 750 Cc",
+   "m": "Alaris",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/179967/Foto-Producto.png?v=638641981909000000",
+   "cadena": "Carrefour",
+   "precio": 2470.0,
+   "link": "https://www.carrefour.com.ar/vino-tinto-red-bland-alaris-en-botella-750-ml-744464/p",
+   "referencia": 4974.27,
+   "precio_2da": 5078.39,
+   "baja_pct": 50.3,
+   "brecha_pct": 51.4,
+   "score": 2586,
    "pr": {
-    "Vea": [
-     2290.0,
-     "https://www.vea.com.ar/protector-diario-duo-forma-20-un-doncella/p"
-    ],
-    "Jumbo": [
-     2400.0,
-     "https://www.jumbo.com.ar/protector-diario-duo-forma-20-un-doncella/p"
-    ],
-    "ChangoMás": [
-     1099.5,
-     "https://www.masonline.com.ar/protectores-diarios-doncella-duo-forma-20-u-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Fructis Hair Food Ananá 300 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922591/7509552940435_01.jpg?v=639239542183800000",
-   "cadena": "ChangoMás",
-   "precio": 6544.5,
-   "link": "https://www.masonline.com.ar/acondicionador-garnier-fructis-anana-anti-quiebre-300-ml/p",
-   "referencia": 13089.0,
-   "precio_2da": 12589.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.0,
-   "score": 2401,
-   "pr": {
-    "Carrefour": [
-     12589.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-anana-300-ml-765289/p"
-    ],
-    "Jumbo": [
-     13750.0,
-     "https://www.jumbo.com.ar/acondicionador-fructis-pina-300ml/p"
-    ],
-    "ChangoMás": [
-     6544.5,
-     "https://www.masonline.com.ar/acondicionador-garnier-fructis-anana-anti-quiebre-300-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas Queso Cracker Kesitas Traviata 96 Gr",
-   "m": "TRAVIATA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/827543/Galletitas-Queso-Cracker-Kesitas-Traviata-96-Gr-1-1019780.jpg?v=638558014930470000",
-   "cadena": "Jumbo",
-   "precio": 525.0,
-   "link": "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p",
-   "referencia": 1050.0,
-   "precio_2da": 969.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.8,
-   "score": 2291,
-   "pr": {
-    "Vea": [
-     1000.0,
-     "https://www.vea.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Jumbo": [
-     525.0,
-     "https://www.jumbo.com.ar/galletitas-queso-cracker-kesitas-traviata-96-gr/p"
-    ],
-    "Carrefour": [
-     970.0,
-     "https://www.carrefour.com.ar/galletitas-crackers-traviata-plus-kesitas-96-g-745252/p"
-    ],
     "Comodín": [
-     982.79,
-     "https://www.comodinencasa.com.ar/galleta-traviata-crack-kesitas-96gr/p"
+     5078.39,
+     "https://www.comodinencasa.com.ar/vino-alaris-red-blend-750-cc/p"
+    ],
+    "Carrefour": [
+     2470.0,
+     "https://www.carrefour.com.ar/vino-tinto-red-bland-alaris-en-botella-750-ml-744464/p"
     ],
     "ChangoMás": [
-     969.0,
-     "https://www.masonline.com.ar/galletitas-saladas-traviata-kesitas-sabor-queso-96-g-2/p"
+     5909.0,
+     "https://www.masonline.com.ar/vino-tinto-alaris-blend-750-ml/p"
     ]
    }
   },
   {
-   "n": "Acondicionador Fructis Liso Coco 350 Ml",
-   "m": "FRUCTIS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/807791/Acondicionador-Fructis-Liso-Coco-350ml-1-999759.jpg?v=638415454348500000",
-   "cadena": "ChangoMás",
-   "precio": 3989.5,
-   "link": "https://www.masonline.com.ar/acondicionador-fructis-oil-repair-liso-coco-350ml-2/p",
-   "referencia": 7979.0,
-   "precio_2da": 6746.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 40.9,
-   "score": 2043,
+   "n": "Vino tinto Malbec Alaris 750 ml",
+   "m": "Alaris",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185274/7790240017045_01.jpg?v=637468594536970000",
+   "cadena": "Carrefour",
+   "precio": 2470.0,
+   "link": "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p",
+   "referencia": 3940.2,
+   "precio_2da": 5909.0,
+   "baja_pct": 37.3,
+   "brecha_pct": 58.2,
+   "score": 2172,
    "pr": {
-    "Vea": [
-     8990.0,
-     "https://www.vea.com.ar/acondicionador-fructis-liso-coco-350-ml/p"
+    "Carrefour": [
+     2470.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p"
     ],
-    "Jumbo": [
-     9250.0,
-     "https://www.jumbo.com.ar/acondicionador-fructis-liso-coco-350-ml/p"
+    "Vea": [
+     5990.0,
+     "https://www.vea.com.ar/vino-tinto-alaris-malbec-750-cc/p"
     ],
     "ChangoMás": [
-     3989.5,
-     "https://www.masonline.com.ar/acondicionador-fructis-oil-repair-liso-coco-350ml-2/p"
-    ],
-    "Comodín": [
-     6746.49,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-liso-350ml/p"
-    ],
-    "Carrefour": [
-     8990.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-liso-coco-350-ml-728191/p"
+     5909.0,
+     "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p"
     ]
    }
   },
@@ -175,64 +105,466 @@
    }
   },
   {
-   "n": "Finlandia light sin sal agregada 180 g.",
-   "m": "Finlandia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/670030/7790742324009_01.jpg?v=638851575518770000",
+   "n": "Vino tinto Cabernet Sauvignon Alaris 750 ml",
+   "m": "Alaris",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185298/7790240107500_01.jpg?v=637468594584930000",
    "cadena": "Carrefour",
-   "precio": 2138.5,
-   "link": "https://www.carrefour.com.ar/findalia-light-sin-sal-agregada-180-g-719546/p",
-   "referencia": 3290.0,
-   "precio_2da": 3990.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 46.4,
-   "score": 1624,
+   "precio": 2470.0,
+   "link": "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alaris-750-cc/p",
+   "referencia": 3979.53,
+   "precio_2da": 5078.39,
+   "baja_pct": 37.9,
+   "brecha_pct": 51.4,
+   "score": 1948,
    "pr": {
     "Carrefour": [
-     2138.5,
-     "https://www.carrefour.com.ar/findalia-light-sin-sal-agregada-180-g-719546/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/queso-la-serenisima-finlandia-reducido-en-calorias-180g/p"
-    ],
-    "Jumbo": [
-     4100.0,
-     "https://www.jumbo.com.ar/queso-la-serenisima-finlandia-reducido-en-calorias-180g/p"
+     2470.0,
+     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-alaris-750-cc/p"
     ],
     "Comodín": [
-     4449.19,
-     "https://www.comodinencasa.com.ar/queso-finlandia-ls-light-180gr-2/p"
+     5078.39,
+     "https://www.comodinencasa.com.ar/vino-trapiche-alaris-cabern-suavig-x750m/p"
     ],
     "ChangoMás": [
-     4239.0,
-     "https://www.masonline.com.ar/queso-untable-finlandia-light-sin-sal-agregada-180g-2/p"
+     5909.0,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-trapiche-alaris-750-cc-2/p"
     ]
    }
   },
   {
-   "n": "Aceite De Oliva Nucete Clásico 500 Ml",
-   "m": "NUCETE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/708592/Aceite-De-Oliva-Nucete-Cl-sico-500-Ml-1-246703.jpg?v=637922866287230000",
-   "cadena": "Jumbo",
-   "precio": 9090.0,
-   "link": "https://www.jumbo.com.ar/aceite-de-oliva-nucete-clasico-500-ml/p",
-   "referencia": 15150.0,
-   "precio_2da": 15290.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.5,
-   "score": 1622,
+   "n": "Acondicionador Elvive Glicolic Cristal 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923142/7790033338180_01.jpg?v=639239706312900000",
+   "cadena": "ChangoMás",
+   "precio": 3669.5,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-glycolic-cristal-200-ml/p",
+   "referencia": 7339.0,
+   "precio_2da": 5973.5,
+   "baja_pct": 50.0,
+   "brecha_pct": 38.6,
+   "score": 1929,
    "pr": {
+    "Carrefour": [
+     7349.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-glicolic-cristal-200-ml-775124/p"
+    ],
+    "Vea": [
+     5973.5,
+     "https://www.vea.com.ar/acondicionador-brillo-cristalino-glycolic-cristal-x-200-ml-elvive/p"
+    ],
     "Jumbo": [
-     9090.0,
-     "https://www.jumbo.com.ar/aceite-de-oliva-nucete-clasico-500-ml/p"
+     6012.5,
+     "https://www.jumbo.com.ar/acondicionador-brillo-cristalino-glycolic-cristal-x-200-ml-elvive/p"
+    ],
+    "Comodín": [
+     10087.99,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-glycolic-cr-200ml/p"
     ],
     "ChangoMás": [
-     15799.0,
-     "https://www.masonline.com.ar/aceite-de-oliva-extra-virgen-nucete-500-cc-3/p"
+     3669.5,
+     "https://www.masonline.com.ar/acondicionador-elvive-glycolic-cristal-200-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Whisky importado 12 años Chivas regal 500 cc.",
+   "m": "Chivas Regal",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/820991/80432402733_01.jpg?v=639083181299400000",
+   "cadena": "Carrefour",
+   "precio": 29235.0,
+   "link": "https://www.carrefour.com.ar/whisky-importado-12-anos-chivas-regal-500-cc/p",
+   "referencia": 50290.0,
+   "precio_2da": 51890.0,
+   "baja_pct": 41.9,
+   "brecha_pct": 43.7,
+   "score": 1828,
+   "pr": {
+    "Carrefour": [
+     29235.0,
+     "https://www.carrefour.com.ar/whisky-importado-12-anos-chivas-regal-500-cc/p"
+    ],
+    "Vea": [
+     51890.0,
+     "https://www.vea.com.ar/whisky-chivas-regal-500-ml/p"
+    ],
+    "Jumbo": [
+     53350.0,
+     "https://www.jumbo.com.ar/whisky-chivas-regal-500-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Cabernet Sauvignon 750 Ml Trivento",
+   "m": "TRIBU",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/780804/Vino-Tinto-Trivento-Reserva-Cabernet-Sauvignon-X-750-Cc-1-20520.jpg?v=638192649814570000",
+   "cadena": "ChangoMás",
+   "precio": 5499.0,
+   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-triventu-tribu-reserva-750cc-2/p",
+   "referencia": 9499.0,
+   "precio_2da": 9595.0,
+   "baja_pct": 42.1,
+   "brecha_pct": 42.7,
+   "score": 1798,
+   "pr": {
+    "Vea": [
+     9850.0,
+     "https://www.vea.com.ar/trivento-reserva-cabernet-sauvignon-x-750-cc-2/p"
+    ],
+    "ChangoMás": [
+     5499.0,
+     "https://www.masonline.com.ar/vino-cabernet-sauvignon-triventu-tribu-reserva-750cc-2/p"
     ],
     "Carrefour": [
-     15290.0,
-     "https://www.carrefour.com.ar/aceite-de-oliva-nucete-extra-virgen-500-cc/p"
+     9595.0,
+     "https://www.carrefour.com.ar/vino-tinto-trivento-cabernet-roble-750-cc-526158-526158/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate con almendras Cadbury 82 g.",
+   "m": "Cadbury",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912602/7622201807405_01.jpg?v=639220555064630000",
+   "cadena": "ChangoMás",
+   "precio": 4463.4,
+   "link": "https://www.masonline.com.ar/chocolate-cadbury-con-almendras-82gr-2/p",
+   "referencia": 7439.0,
+   "precio_2da": 7790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 42.7,
+   "score": 1708,
+   "pr": {
+    "Carrefour": [
+     7790.0,
+     "https://www.carrefour.com.ar/chocolate-con-almendras-cadbury-82-g-680434/p"
+    ],
+    "Vea": [
+     8190.0,
+     "https://www.vea.com.ar/chocolate-con-almendras-cadbury-82-gr-2/p"
+    ],
+    "Jumbo": [
+     8350.0,
+     "https://www.jumbo.com.ar/chocolate-con-almendras-cadbury-82-gr-2/p"
+    ],
+    "ChangoMás": [
+     4463.4,
+     "https://www.masonline.com.ar/chocolate-cadbury-con-almendras-82gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Blanco Cosecha Dulce 750 Ml Alaris",
+   "m": "ALARIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581069/Vino-Blanco-Trapiche-Dulce-750-Cc-1-14748.jpg?v=637225176338970000",
+   "cadena": "Carrefour",
+   "precio": 2470.0,
+   "link": "https://www.carrefour.com.ar/vino-blanco-dulce-cosecha-alaris-750-ml-420076/p",
+   "referencia": 3633.52,
+   "precio_2da": 5290.0,
+   "baja_pct": 32.0,
+   "brecha_pct": 53.3,
+   "score": 1707,
+   "pr": {
+    "Vea": [
+     5290.0,
+     "https://www.vea.com.ar/vino-blanco-cosecha-dulce-750-ml-alaris-2/p"
+    ],
+    "Jumbo": [
+     5500.0,
+     "https://www.jumbo.com.ar/vino-blanco-cosecha-dulce-750-ml-alaris-2/p"
+    ],
+    "Carrefour": [
+     2470.0,
+     "https://www.carrefour.com.ar/vino-blanco-dulce-cosecha-alaris-750-ml-420076/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas Chocolina de chocolate 250 g.",
+   "m": "Chocolinas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924186/7790040143234_E01.jpg?v=639240575823400000",
+   "cadena": "Carrefour",
+   "precio": 1228.5,
+   "link": "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p",
+   "referencia": 2357.5,
+   "precio_2da": 1890.0,
+   "baja_pct": 47.9,
+   "brecha_pct": 35.0,
+   "score": 1676,
+   "pr": {
+    "Carrefour": [
+     1228.5,
+     "https://www.carrefour.com.ar/galletitas-chocolina-de-chocolate-250-g-736893/p"
+    ],
+    "Vea": [
+     1890.0,
+     "https://www.vea.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "Jumbo": [
+     2899.0,
+     "https://www.jumbo.com.ar/galletitas-chocolinas-x250g-2/p"
+    ],
+    "ChangoMás": [
+     2949.0,
+     "https://www.masonline.com.ar/galletitas-chocolinas-de-chocolate-original-250-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Sabor Intense 162 Grs Cadbury",
+   "m": "CADBURY",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923960/7622201800505.jpg?v=639223211224700000",
+   "cadena": "ChangoMás",
+   "precio": 8147.4,
+   "link": "https://www.masonline.com.ar/chocolate-cadbury-intense-162gr-2/p",
+   "referencia": 13579.0,
+   "precio_2da": 13990.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.8,
+   "score": 1671,
+   "pr": {
+    "Vea": [
+     14990.0,
+     "https://www.vea.com.ar/chocolate-cadbury-intense-162-gr-2/p"
+    ],
+    "Jumbo": [
+     15150.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-intense-162-gr-2/p"
+    ],
+    "ChangoMás": [
+     8147.4,
+     "https://www.masonline.com.ar/chocolate-cadbury-intense-162gr-2/p"
+    ],
+    "Carrefour": [
+     13990.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-intense-162-g-680433/p"
+    ]
+   }
+  },
+  {
+   "n": "Baño de repostería semi amargo Águila bolsa 150 g.",
+   "m": "Águila",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903859/7790580131487_02.jpg?v=639198115776300000",
+   "cadena": "Carrefour",
+   "precio": 2470.0,
+   "link": "https://www.carrefour.com.ar/bano-de-reposteria-semi-amargo-aguila-bolsa-150-g/p",
+   "referencia": 3800.0,
+   "precio_2da": 4677.89,
+   "baja_pct": 35.0,
+   "brecha_pct": 47.2,
+   "score": 1652,
+   "pr": {
+    "Carrefour": [
+     2470.0,
+     "https://www.carrefour.com.ar/bano-de-reposteria-semi-amargo-aguila-bolsa-150-g/p"
+    ],
+    "Jumbo": [
+     5000.0,
+     "https://www.jumbo.com.ar/bano-de-reposteria-sin-amargo-aguila-150g-2/p"
+    ],
+    "Comodín": [
+     4677.89,
+     "https://www.comodinencasa.com.ar/bano-repostero-aguila-semiamargo-150gr-2/p"
+    ],
+    "ChangoMás": [
+     4969.0,
+     "https://www.masonline.com.ar/bano-repostero-semiamargo-aguila-150-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Bizcochuelo Morixe Zanahoria 540gr",
+   "m": "MORIXE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917062/Bizcochuelo-Morixe-Zanahoria-540gr-1-1058289.jpg?v=639160222019700000",
+   "cadena": "ChangoMás",
+   "precio": 2459.4,
+   "link": "https://www.masonline.com.ar/bizcochuelo-morixe-carrot-cake-540g/p",
+   "referencia": 4099.0,
+   "precio_2da": 4190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.3,
+   "score": 1652,
+   "pr": {
+    "Vea": [
+     4190.0,
+     "https://www.vea.com.ar/bizcochuelo-morixe-zanahoria-540gr/p"
+    ],
+    "Jumbo": [
+     4250.0,
+     "https://www.jumbo.com.ar/bizcochuelo-morixe-zanahoria-540gr/p"
+    ],
+    "ChangoMás": [
+     2459.4,
+     "https://www.masonline.com.ar/bizcochuelo-morixe-carrot-cake-540g/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Cadbury frutilla relleno yoghurt 82 g.",
+   "m": "Cadbury",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912611/7622201818715_01.jpg?v=639220556114930000",
+   "cadena": "ChangoMás",
+   "precio": 4643.4,
+   "link": "https://www.masonline.com.ar/chocolate-cadury-con-yogurt-frutilla-82g-2/p",
+   "referencia": 7739.0,
+   "precio_2da": 7790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1616,
+   "pr": {
+    "Carrefour": [
+     7790.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-frutilla-relleno-yoghurt-82-g-680432/p"
+    ],
+    "Vea": [
+     8190.0,
+     "https://www.vea.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-82-gr-2/p"
+    ],
+    "Jumbo": [
+     8350.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-82-gr-2/p"
+    ],
+    "ChangoMás": [
+     4643.4,
+     "https://www.masonline.com.ar/chocolate-cadury-con-yogurt-frutilla-82g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Cadbury Tres Sueños 82 Gr",
+   "m": "CADBURY",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/923974/7622201818739.jpg?v=639223214602700000",
+   "cadena": "ChangoMás",
+   "precio": 4643.4,
+   "link": "https://www.masonline.com.ar/chocolate-cadbury-tres-suenos-82g-2/p",
+   "referencia": 7739.0,
+   "precio_2da": 7790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1616,
+   "pr": {
+    "Jumbo": [
+     8350.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p"
+    ],
+    "ChangoMás": [
+     4643.4,
+     "https://www.masonline.com.ar/chocolate-cadbury-tres-suenos-82g-2/p"
+    ],
+    "Carrefour": [
+     7790.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-tres-suenos-82-g-680436/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Cadbury relleno yoghurt frutilla 162 g.",
+   "m": "Cadbury",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912609/7622201818692_01.jpg?v=639220555908200000",
+   "cadena": "ChangoMás",
+   "precio": 8147.4,
+   "link": "https://www.masonline.com.ar/chocolate-cadbury-yogurt-frutilla-162g-2/p",
+   "referencia": 13579.0,
+   "precio_2da": 13590.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1602,
+   "pr": {
+    "Carrefour": [
+     13590.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-162-g-680435/p"
+    ],
+    "Vea": [
+     14990.0,
+     "https://www.vea.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-162-gr-2/p"
+    ],
+    "Jumbo": [
+     15150.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-162-gr-2/p"
+    ],
+    "ChangoMás": [
+     8147.4,
+     "https://www.masonline.com.ar/chocolate-cadbury-yogurt-frutilla-162g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multiuso Para Diluir Marina Rinde 5 Litros X 150ml",
+   "m": "MULTIMAX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715812/Limpiador-Multiuso-Para-Diluir-Marina-Rinde-5-Litros-X-150ml-1-841332.jpg?v=637963042663670000",
+   "cadena": "ChangoMás",
+   "precio": 1133.4,
+   "link": "https://www.masonline.com.ar/limpiador-multiuso-multimax-marina-150ml-2/p",
+   "referencia": 1889.0,
+   "precio_2da": 1890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1601,
+   "pr": {
+    "Jumbo": [
+     2050.0,
+     "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-marina-rinde-5-litros-x-150ml/p"
+    ],
+    "ChangoMás": [
+     1133.4,
+     "https://www.masonline.com.ar/limpiador-multiuso-multimax-marina-150ml-2/p"
+    ],
+    "Carrefour": [
+     1890.0,
+     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-marina-rinde-5-litros-150-ml-638076/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador Multiuso Lavanda 150 Ml Multimax",
+   "m": "MULTIMAX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715805/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-5-Litros-X-150ml-1-841103.jpg?v=637963042641130000",
+   "cadena": "ChangoMás",
+   "precio": 1133.4,
+   "link": "https://www.masonline.com.ar/limpiador-multiuso-multimax-lavanda-150ml-2/p",
+   "referencia": 1889.0,
+   "precio_2da": 1890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1601,
+   "pr": {
+    "Jumbo": [
+     2050.0,
+     "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-lavanda-rinde-5-litros-x-150ml/p"
+    ],
+    "ChangoMás": [
+     1133.4,
+     "https://www.masonline.com.ar/limpiador-multiuso-multimax-lavanda-150ml-2/p"
+    ],
+    "Carrefour": [
+     1890.0,
+     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-lavanda-rinde-5-litros-150-ml-638073/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Femeninas Xtra Triple Protección Seca x 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/792067/Always-Xtra-Triple-Protecci-n-Dia-Seca-8x24it-Toa-Fem-Always-Xtra-Triple-Prot-Seca-8u-1-989502.jpg?v=638294385897070000",
+   "cadena": "Carrefour",
+   "precio": 3269.4,
+   "link": "https://www.carrefour.com.ar/toalla-femenina-always-xtra-dia-seca-con-alas-8-uni-726078/p",
+   "referencia": 5449.0,
+   "precio_2da": 5449.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.0,
+   "score": 1600,
+   "pr": {
+    "Jumbo": [
+     5750.0,
+     "https://www.jumbo.com.ar/toallitas-xtra-triple-proteccion-seca-8-un-always/p"
+    ],
+    "Carrefour": [
+     3269.4,
+     "https://www.carrefour.com.ar/toalla-femenina-always-xtra-dia-seca-con-alas-8-uni-726078/p"
+    ],
+    "ChangoMás": [
+     5449.0,
+     "https://www.masonline.com.ar/toalla-femeninas-always-triple-proteccion-dia-seca-8un-2/p"
     ]
    }
   },
@@ -240,14 +572,14 @@
    "n": "Acondicionador Tresemme Liso Efecto Botox 250 Ml",
    "m": "TRESEMMÉ",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/802919/Acondicionador-Tresemme-Liso-Efecto-Botox-250-Ml-1-1000571.jpg?v=638375620334470000",
-   "cadena": "Carrefour",
-   "precio": 4293.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p",
-   "referencia": 7155.0,
-   "precio_2da": 7159.0,
+   "cadena": "ChangoMás",
+   "precio": 4295.4,
+   "link": "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p",
+   "referencia": 7159.0,
+   "precio_2da": 7155.0,
    "baja_pct": 40.0,
    "brecha_pct": 40.0,
-   "score": 1601,
+   "score": 1599,
    "pr": {
     "Vea": [
      7890.0,
@@ -258,12 +590,140 @@
      "https://www.jumbo.com.ar/acondicionador-tresemme-liso-efecto-botox-250-ml/p"
     ],
     "ChangoMás": [
-     7159.0,
+     4295.4,
      "https://www.masonline.com.ar/acondicionador-tresemme-liso-efecto-botox-250ml-2-2/p"
     ],
     "Carrefour": [
-     4293.0,
+     7155.0,
      "https://www.carrefour.com.ar/acondicionador-tresemme-liso-efecto-botox-250-cc-730388/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate SHOT con maní 35 g.",
+   "m": "Shot",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551931/77914217_E01.jpg?v=638608940715530000",
+   "cadena": "ChangoMás",
+   "precio": 1679.4,
+   "link": "https://www.masonline.com.ar/chocolate-con-leche-y-mani-shot-35-gr-2/p",
+   "referencia": 2799.0,
+   "precio_2da": 2790.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.8,
+   "score": 1592,
+   "pr": {
+    "Carrefour": [
+     2790.0,
+     "https://www.carrefour.com.ar/chocolate-shot-con-mani-35-g-42840-42840/p"
+    ],
+    "Vea": [
+     2890.0,
+     "https://www.vea.com.ar/chocolate-shot-con-mani-35-gr/p"
+    ],
+    "Jumbo": [
+     2950.0,
+     "https://www.jumbo.com.ar/chocolate-shot-con-mani-35-gr/p"
+    ],
+    "ChangoMás": [
+     1679.4,
+     "https://www.masonline.com.ar/chocolate-con-leche-y-mani-shot-35-gr-2/p"
+    ],
+    "Comodín": [
+     3517.29,
+     "https://www.comodinencasa.com.ar/tableta-shot-1un-x-35-gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate Cadbury intense 25 g.",
+   "m": "Cadbury",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912606/7622201818609_01.jpg?v=639220555503800000",
+   "cadena": "ChangoMás",
+   "precio": 1637.4,
+   "link": "https://www.masonline.com.ar/chocolate-cadbury-intense-25g-2/p",
+   "referencia": 2729.0,
+   "precio_2da": 2690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.1,
+   "score": 1565,
+   "pr": {
+    "Carrefour": [
+     2690.0,
+     "https://www.carrefour.com.ar/chocolate-cadbury-intense-25-g-680444/p"
+    ],
+    "Vea": [
+     2890.0,
+     "https://www.vea.com.ar/chocolate-cadbury-intense-25-gr-2/p"
+    ],
+    "Jumbo": [
+     3000.0,
+     "https://www.jumbo.com.ar/chocolate-cadbury-intense-25-gr-2/p"
+    ],
+    "ChangoMás": [
+     1637.4,
+     "https://www.masonline.com.ar/chocolate-cadbury-intense-25g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Yerba mate Chamigo con palo sin tacc 1 kg.",
+   "m": "Chamigo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943422/7790070509017_01.jpg?v=639265680840200000",
+   "cadena": "ChangoMás",
+   "precio": 2237.4,
+   "link": "https://www.masonline.com.ar/yerba-mate-chamigo-sin-tacc-1kg-2/p",
+   "referencia": 3729.0,
+   "precio_2da": 3655.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.8,
+   "score": 1551,
+   "pr": {
+    "Carrefour": [
+     3655.0,
+     "https://www.carrefour.com.ar/yerba-mate-chamigo-con-palo-sin-tacc-1-kg/p"
+    ],
+    "Vea": [
+     3690.0,
+     "https://www.vea.com.ar/yerba-mate-sin-tacc-chamigo-1-kg/p"
+    ],
+    "Jumbo": [
+     3750.0,
+     "https://www.jumbo.com.ar/yerba-mate-sin-tacc-chamigo-1-kg/p"
+    ],
+    "ChangoMás": [
+     2237.4,
+     "https://www.masonline.com.ar/yerba-mate-chamigo-sin-tacc-1kg-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Chocolate SHOT con maní 170 g.",
+   "m": "Shot",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/551939/7622300424084_E01.jpg?v=638608946334300000",
+   "cadena": "ChangoMás",
+   "precio": 6917.4,
+   "link": "https://www.masonline.com.ar/chocolate-con-mani-shot-170-gr-2/p",
+   "referencia": 11529.0,
+   "precio_2da": 11290.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.7,
+   "score": 1549,
+   "pr": {
+    "Carrefour": [
+     11290.0,
+     "https://www.carrefour.com.ar/chocolate-shot-con-mani-170-g-582637/p"
+    ],
+    "Vea": [
+     12190.0,
+     "https://www.vea.com.ar/chocolate-shot-con-mani-170-gr-2/p"
+    ],
+    "Jumbo": [
+     12400.0,
+     "https://www.jumbo.com.ar/chocolate-shot-con-mani-170-gr-2/p"
+    ],
+    "ChangoMás": [
+     6917.4,
+     "https://www.masonline.com.ar/chocolate-con-mani-shot-170-gr-2/p"
     ]
    }
   },
@@ -295,60 +755,60 @@
    }
   },
   {
-   "n": "Pañales Pampers Premium Care Med 52u",
-   "m": "PAMPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/808452/Pa-ales-Pampers-Deluxe-Prot-Med-52u-1-1006939.jpg?v=638422478346030000",
-   "cadena": "Carrefour",
-   "precio": 27821.4,
-   "link": "https://www.carrefour.com.ar/panales-pampers-talle-m-deluxe-52-uni-732883/p",
-   "referencia": 46369.0,
-   "precio_2da": 45190.0,
+   "n": "Papas crinkle Mc cain en bolsa 600 g.",
+   "m": "Mc Cain",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845818/7797906054833_01.jpg?v=639111876190570000",
+   "cadena": "ChangoMás",
+   "precio": 5027.4,
+   "link": "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-gourmet-corte-crinckle-600g-2/p",
+   "referencia": 8379.0,
+   "precio_2da": 8150.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.4,
-   "score": 1537,
+   "brecha_pct": 38.3,
+   "score": 1533,
    "pr": {
-    "Vea": [
-     45190.0,
-     "https://www.vea.com.ar/panales-pampers-premium-care-med-52u/p"
+    "Carrefour": [
+     8150.0,
+     "https://www.carrefour.com.ar/papas-crinkle-mc-cain-en-bolsa-600-g-724920/p"
     ],
-    "Jumbo": [
-     48219.0,
-     "https://www.jumbo.com.ar/panales-pampers-premium-care-med-52u/p"
+    "Vea": [
+     8590.0,
+     "https://www.vea.com.ar/papas-gourmet-mc-cain-corte-crinkle-600-gr/p"
     ],
     "ChangoMás": [
-     48219.0,
-     "https://www.masonline.com.ar/panales-pampers-deluxe-protection-m-52un-2/p"
-    ],
-    "Carrefour": [
-     27821.4,
-     "https://www.carrefour.com.ar/panales-pampers-talle-m-deluxe-52-uni-732883/p"
+     5027.4,
+     "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-gourmet-corte-crinckle-600g-2/p"
     ]
    }
   },
   {
-   "n": "Antitranspirante en Barra Dove Original 53 grs",
-   "m": "Dove",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923893/75082734_01.jpg?v=639240409427930000",
-   "cadena": "Carrefour",
-   "precio": 4738.5,
-   "link": "https://www.carrefour.com.ar/antitranspirante-en-barra-dove-original-53-grs-773574/p",
-   "referencia": 7290.0,
-   "precio_2da": 8390.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.5,
-   "score": 1523,
+   "n": "Yerba mate Chamigo con palo 500 g.",
+   "m": "Chamigo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914018/7790070509123_01.jpg?v=639222230249300000",
+   "cadena": "ChangoMás",
+   "precio": 1169.4,
+   "link": "https://www.masonline.com.ar/yerba-mate-chamigo-sin-tacc-500g-2/p",
+   "referencia": 1949.0,
+   "precio_2da": 1890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.1,
+   "score": 1525,
    "pr": {
     "Carrefour": [
-     4738.5,
-     "https://www.carrefour.com.ar/antitranspirante-en-barra-dove-original-53-grs-773574/p"
+     1890.0,
+     "https://www.carrefour.com.ar/yerba-mate-chamigo-con-palo-500-g-694583/p"
     ],
     "Vea": [
-     8390.0,
-     "https://www.vea.com.ar/desodorante-barra-original-53gr-dove/p"
+     1890.0,
+     "https://www.vea.com.ar/yerba-mate-chamigo-x500g-sin-tacc-2/p"
     ],
     "Jumbo": [
-     9900.0,
-     "https://www.jumbo.com.ar/desodorante-barra-original-53gr-dove/p"
+     1950.0,
+     "https://www.jumbo.com.ar/yerba-mate-chamigo-x500g-sin-tacc-2/p"
+    ],
+    "ChangoMás": [
+     1169.4,
+     "https://www.masonline.com.ar/yerba-mate-chamigo-sin-tacc-500g-2/p"
     ]
    }
   },
@@ -380,60 +840,6 @@
    }
   },
   {
-   "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
-   "m": "Tresemmé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
-   "cadena": "Carrefour",
-   "precio": 9474.0,
-   "link": "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p",
-   "referencia": 15790.0,
-   "precio_2da": 15279.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1520,
-   "pr": {
-    "Carrefour": [
-     9474.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
-    ],
-    "Jumbo": [
-     19550.0,
-     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
-    ],
-    "ChangoMás": [
-     15279.0,
-     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Aceite de oliva extra virgen Zuelo original en botella 500 grs",
-   "m": "Zuelo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/884770/7791728022049_02.jpg?v=639160116926470000",
-   "cadena": "Jumbo",
-   "precio": 12150.0,
-   "link": "https://www.jumbo.com.ar/aceite-de-oliva-zuelo-extra-virgen-clasico-500-ml/p",
-   "referencia": 20250.0,
-   "precio_2da": 19590.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.0,
-   "score": 1519,
-   "pr": {
-    "Carrefour": [
-     20850.0,
-     "https://www.carrefour.com.ar/aceite-de-oliva-extra-virgen-zuelo-original-en-botella-500-grs-452952/p"
-    ],
-    "Vea": [
-     19590.0,
-     "https://www.vea.com.ar/aceite-de-oliva-zuelo-extra-virgen-clasico-500-ml/p"
-    ],
-    "Jumbo": [
-     12150.0,
-     "https://www.jumbo.com.ar/aceite-de-oliva-zuelo-extra-virgen-clasico-500-ml/p"
-    ]
-   }
-  },
-  {
    "n": "Granola Kelloggs nuts 200 grs",
    "m": "Kelloggs",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/946107/7896004011011_E02.jpg?v=639271642764130000",
@@ -457,6 +863,87 @@
     "Jumbo": [
      2910.0,
      "https://www.jumbo.com.ar/granola-nuts-x-200-grs-kelloggs/p"
+    ]
+   }
+  },
+  {
+   "n": "Toalla Noche Ultra Seca 8 Un Always",
+   "m": "ALWAYS",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/859493/Toalla-Femenina-Noche-Ultra-Seca-S3-Bz-8-Unidades-Always-Toalla-Femenina-Always-Noch-Ultsec-S3-8u-1-1035564.jpg?v=638779198578830000",
+   "cadena": "Carrefour",
+   "precio": 4943.4,
+   "link": "https://www.carrefour.com.ar/toalla-sanitaria-always-nocturna-ultrafina-seca-tamano-g-8-uni-760427/p",
+   "referencia": 8239.0,
+   "precio_2da": 7919.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.6,
+   "score": 1503,
+   "pr": {
+    "Jumbo": [
+     8550.0,
+     "https://www.jumbo.com.ar/toalla-noche-ultra-seca-8-un-always/p"
+    ],
+    "Carrefour": [
+     4943.4,
+     "https://www.carrefour.com.ar/toalla-sanitaria-always-nocturna-ultrafina-seca-tamano-g-8-uni-760427/p"
+    ],
+    "ChangoMás": [
+     7919.0,
+     "https://www.masonline.com.ar/toallas-femeninas-always-noche-ultrafinas-seca-8u/p"
+    ]
+   }
+  },
+  {
+   "n": "Toallitas Humedas Q-Soft Clásicas 40 U",
+   "m": "Q-Soft",
+   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/318167/Toallitas-Humedas-Q-Soft-Cl-sicas-40-U-1-55360.jpg?v=638457897894100000",
+   "cadena": "Carrefour",
+   "precio": 2664.35,
+   "link": "https://www.carrefour.com.ar/toallitas-humedas-q-soft-clasicas-40-uni-726040/p",
+   "referencia": 4099.0,
+   "precio_2da": 4669.59,
+   "baja_pct": 35.0,
+   "brecha_pct": 42.9,
+   "score": 1503,
+   "pr": {
+    "ChangoMás": [
+     4679.0,
+     "https://www.masonline.com.ar/toallitas-humedas-q-soft-clasicas-40-u-2/p"
+    ],
+    "Carrefour": [
+     2664.35,
+     "https://www.carrefour.com.ar/toallitas-humedas-q-soft-clasicas-40-uni-726040/p"
+    ],
+    "Comodín": [
+     4669.59,
+     "https://www.comodinencasa.com.ar/toallas-humeda-q-soft-flow-clasica-40-un/p"
+    ]
+   }
+  },
+  {
+   "n": "Cereal de chocolate Kellogs Muesli 255 g.",
+   "m": "Kelloggs",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/945752/7896004004990_E02.jpg?v=639271456471300000",
+   "cadena": "Jumbo",
+   "precio": 2880.0,
+   "link": "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p",
+   "referencia": 4800.0,
+   "precio_2da": 4609.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1501,
+   "pr": {
+    "Carrefour": [
+     4609.0,
+     "https://www.carrefour.com.ar/cereal-de-chocolate-kellogs-muesli-255-g-719201/p"
+    ],
+    "Jumbo": [
+     2880.0,
+     "https://www.jumbo.com.ar/cereal-musli-chocolate-kellogs-255-gr/p"
+    ],
+    "ChangoMás": [
+     4609.0,
+     "https://www.masonline.com.ar/cereal-kelloggs-chocolate-musli-255g-2/p"
     ]
    }
   }
