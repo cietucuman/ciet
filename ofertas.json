@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-13",
- "actualizado": "2026-11-13 19:41",
+ "actualizado": "2026-11-13 23:55",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -47,33 +47,6 @@
     "ChangoMás": [
      5859.0,
      "https://www.masonline.com.ar/mermelada-bc-frutos-rojos-390g/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Elvive Glycolic Gloss 200 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/978017/7509552937343_01.jpg?v=639288989107270000",
-   "cadena": "ChangoMás",
-   "precio": 3669.5,
-   "link": "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p",
-   "referencia": 7339.0,
-   "precio_2da": 7349.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 50.1,
-   "score": 2503,
-   "pr": {
-    "Carrefour": [
-     7349.0,
-     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p"
-    ],
-    "Comodín": [
-     10087.99,
-     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-gloss-200ml/p"
-    ],
-    "ChangoMás": [
-     3669.5,
-     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p"
     ]
    }
   },
@@ -608,6 +581,33 @@
    }
   },
   {
+   "n": "Acondicionador Elvive RT5 Keratin 750 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922749/7509552790108_01.jpg?v=639239580964470000",
+   "cadena": "ChangoMás",
+   "precio": 10994.5,
+   "link": "https://www.masonline.com.ar/acondicionador-elvive-reparacion-total-5-750ml-2/p",
+   "referencia": 21989.0,
+   "precio_2da": 18095.99,
+   "baja_pct": 50.0,
+   "brecha_pct": 39.2,
+   "score": 1962,
+   "pr": {
+    "Carrefour": [
+     18689.0,
+     "https://www.carrefour.com.ar/acondicionador-elvive-rt5-keratin-750-ml-726116/p"
+    ],
+    "Comodín": [
+     18095.99,
+     "https://www.comodinencasa.com.ar/acondicionador-elvive-rep-t5-kerat-750ml/p"
+    ],
+    "ChangoMás": [
+     10994.5,
+     "https://www.masonline.com.ar/acondicionador-elvive-reparacion-total-5-750ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Vino tinto Cabernet Sauvignon Emilia 750 ml",
    "m": "Emilia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822151/7790070760760_02.jpg?v=639083181690030000",
@@ -860,37 +860,6 @@
    }
   },
   {
-   "n": "Vino Tinto álamos Selección Malbec 750 Cc",
-   "m": "ALAMOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923678/7794450000781.jpg?v=639219889419700000",
-   "cadena": "Jumbo",
-   "precio": 5825.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-alamos-seleccion-malbec-750-cc/p",
-   "referencia": 9611.25,
-   "precio_2da": 10959.0,
-   "baja_pct": 39.4,
-   "brecha_pct": 46.8,
-   "score": 1846,
-   "pr": {
-    "Vea": [
-     11290.0,
-     "https://www.vea.com.ar/vino-tinto-alamos-seleccion-malbec-750-cc/p"
-    ],
-    "Jumbo": [
-     5825.0,
-     "https://www.jumbo.com.ar/vino-tinto-alamos-seleccion-malbec-750-cc/p"
-    ],
-    "ChangoMás": [
-     10959.0,
-     "https://www.masonline.com.ar/vino-malbec-alamos-750-cc-2/p"
-    ],
-    "Carrefour": [
-     11265.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-seleccion-alamos-750-cc/p"
-    ]
-   }
-  },
-  {
    "n": "Cerveza Rubia 473 Cc Norte",
    "m": "NORTE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/693223/Cerveza-Rubia-Norte-Lata-473-Cc-1-886868.jpg?v=637828905841300000",
@@ -1085,29 +1054,29 @@
    }
   },
   {
-   "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
-   "m": "Tresemmé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
-   "cadena": "ChangoMás",
-   "precio": 9167.4,
-   "link": "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p",
-   "referencia": 15279.0,
-   "precio_2da": 15790.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.9,
-   "score": 1678,
+   "n": "Acondicionador Pantene Detox 700ml",
+   "m": "Pantene",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183936/43732__Acondicionador Pantene Detox 700ml_N26.jpg?v=639260288734500000",
+   "cadena": "Comodín",
+   "precio": 10999.0,
+   "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-detox-700ml/p",
+   "referencia": 17991.99,
+   "precio_2da": 19290.0,
+   "baja_pct": 38.9,
+   "brecha_pct": 43.0,
+   "score": 1671,
    "pr": {
-    "Carrefour": [
-     15790.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
-    ],
-    "Jumbo": [
-     19550.0,
-     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
+    "Comodín": [
+     10999.0,
+     "https://www.comodinencasa.com.ar/acondicionador-pantene-detox-700ml/p"
     ],
     "ChangoMás": [
-     9167.4,
-     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
+     19399.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-detox-700ml-2/p"
+    ],
+    "Carrefour": [
+     19290.0,
+     "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-acondicionador-hidratante-700-ml-723890/p"
     ]
    }
   },
@@ -1286,6 +1255,37 @@
    }
   },
   {
+   "n": "Shampoo Dove Oleo Nutricion 200 Ml",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919899/13711211001.jpg?v=639179987113430000",
+   "cadena": "Carrefour",
+   "precio": 3234.0,
+   "link": "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p",
+   "referencia": 5390.0,
+   "precio_2da": 5379.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.9,
+   "score": 1595,
+   "pr": {
+    "Vea": [
+     6690.0,
+     "https://www.vea.com.ar/shampoo-dove-oleo-nutricion-200-ml/p"
+    ],
+    "Comodín": [
+     5774.09,
+     "https://www.comodinencasa.com.ar/shampoo-dove-oleo-nutricion-200ml/p"
+    ],
+    "ChangoMás": [
+     5379.0,
+     "https://www.masonline.com.ar/shampoo-dove-oleo-nutricion-200-ml-2-2/p"
+    ],
+    "Carrefour": [
+     3234.0,
+     "https://www.carrefour.com.ar/shampoo-dove-nutricion-tri-oleos-200-ml-718524/p"
+    ]
+   }
+  },
+  {
    "n": "Shampoo Equilibrio Raíz y Puntas 700 Ml Pantene",
    "m": "PANTENE",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/815524/Pantene-Pro-v-Miracles-Equilibrio-Ra-z-Puntas-Shampoo-Equilibrante-700-Ml-1-978403.jpg?v=638464701834700000",
@@ -1302,13 +1302,13 @@
      19500.0,
      "https://www.jumbo.com.ar/shampoo-equilibrante-equilibrio-raiz-y-puntas-700-ml-pantene/p"
     ],
-    "ChangoMás": [
-     18649.0,
-     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-700ml-2/p"
-    ],
     "Comodín": [
      10999.0,
      "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p"
+    ],
+    "ChangoMás": [
+     18649.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-700ml-2/p"
     ]
    }
   },
