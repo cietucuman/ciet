@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-13",
- "actualizado": "2026-11-13 04:02",
+ "actualizado": "2026-11-13 19:41",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-11-12",
   "2026-11-13"
  ],
- "total": 45,
+ "total": 48,
  "ofertas": [
   {
    "n": "Mermelada frutos del bosque BC La Campagnola 390 grs",
@@ -51,29 +51,29 @@
    }
   },
   {
-   "n": "Vino Portillo Naranjo Dulce 750ml",
-   "m": "PORTILLO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/919287/Vino-Portillo-Naranjo-Dulce-750ml-1-1060175.jpg?v=639178257772600000",
-   "cadena": "Vea",
-   "precio": 3645.0,
-   "link": "https://www.vea.com.ar/vino-portillo-naranjo-dulce-750ml/p",
-   "referencia": 7290.0,
-   "precio_2da": 7199.0,
+   "n": "Shampoo Elvive Glycolic Gloss 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/978017/7509552937343_01.jpg?v=639288989107270000",
+   "cadena": "ChangoMás",
+   "precio": 3669.5,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p",
+   "referencia": 7339.0,
+   "precio_2da": 7349.0,
    "baja_pct": 50.0,
-   "brecha_pct": 49.4,
-   "score": 2468,
+   "brecha_pct": 50.1,
+   "score": 2503,
    "pr": {
-    "Vea": [
-     3645.0,
-     "https://www.vea.com.ar/vino-portillo-naranjo-dulce-750ml/p"
+    "Carrefour": [
+     7349.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p"
+    ],
+    "Comodín": [
+     10087.99,
+     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-gloss-200ml/p"
     ],
     "ChangoMás": [
-     7199.0,
-     "https://www.masonline.com.ar/vino-blanco-portillo-naranjo-dulce-750ml/p"
-    ],
-    "Carrefour": [
-     7200.0,
-     "https://www.carrefour.com.ar/vino-naranjo-dulce-portillo-en-botella-750-ml-778087/p"
+     3669.5,
+     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p"
     ]
    }
   },
@@ -221,60 +221,6 @@
    }
   },
   {
-   "n": "Vino Portillo Rose Malbec",
-   "m": "PORTILLO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786689/Vino-Portillo-Rose-Malbec-1-950452.jpg?v=638236497675870000",
-   "cadena": "Jumbo",
-   "precio": 3725.0,
-   "link": "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p",
-   "referencia": 7450.0,
-   "precio_2da": 6989.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.7,
-   "score": 2335,
-   "pr": {
-    "Jumbo": [
-     3725.0,
-     "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p"
-    ],
-    "ChangoMás": [
-     6989.0,
-     "https://www.masonline.com.ar/vino-portillo-rosado-de-malbec-750ml-2/p"
-    ],
-    "Carrefour": [
-     6990.0,
-     "https://www.carrefour.com.ar/vino-rosado-malbec-portillo-750-ml-718557/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Tio Nacho Keratina Vegetal 415 ml",
-   "m": "Tío Nacho",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847519/650240077517_01.jpg?v=639117675033030000",
-   "cadena": "Jumbo",
-   "precio": 6375.0,
-   "link": "https://www.jumbo.com.ar/acondicionador-keratina-vegetal-x-415-ml-tio-nacho/p",
-   "referencia": 12750.0,
-   "precio_2da": 11900.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.4,
-   "score": 2321,
-   "pr": {
-    "Carrefour": [
-     11900.0,
-     "https://www.carrefour.com.ar/acondicionador-tio-nacho-keratina-vegetal-415-ml-777814/p"
-    ],
-    "Jumbo": [
-     6375.0,
-     "https://www.jumbo.com.ar/acondicionador-keratina-vegetal-x-415-ml-tio-nacho/p"
-    ],
-    "Comodín": [
-     12361.99,
-     "https://www.comodinencasa.com.ar/acondicionador-tio-nacho-vegetal-415ml/p"
-    ]
-   }
-  },
-  {
    "n": "Leche Chocolatada Nesquik 200 ml",
    "m": "Nesquik",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/666991/8445291395961_E01.jpg?v=638839494493370000",
@@ -360,29 +306,29 @@
    }
   },
   {
-   "n": "Mermelada Arcor durazno sin azúcar 390 g.",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381345/7790580121303_E01.jpg?v=638315050750570000",
+   "n": "Limpiador Multiuso Ultraconcentrado Lavanda 35 Ml Multimax",
+   "m": "MULTIMAX",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715808/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-1-Litro-X-35ml-1-841174.jpg?v=637963042649570000",
    "cadena": "Jumbo",
-   "precio": 2475.0,
-   "link": "https://www.jumbo.com.ar/mermelada-arcor-durazno-sin-azucar-390-gr/p",
-   "referencia": 4950.0,
-   "precio_2da": 4512.19,
+   "precio": 350.0,
+   "link": "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p",
+   "referencia": 700.0,
+   "precio_2da": 640.0,
    "baja_pct": 50.0,
-   "brecha_pct": 45.1,
-   "score": 2257,
+   "brecha_pct": 45.3,
+   "score": 2266,
    "pr": {
-    "Carrefour": [
-     4690.0,
-     "https://www.carrefour.com.ar/mermelada-arcor-durazno-sin-azucar-390-g/p"
-    ],
     "Jumbo": [
-     2475.0,
-     "https://www.jumbo.com.ar/mermelada-arcor-durazno-sin-azucar-390-gr/p"
+     350.0,
+     "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
     ],
-    "Comodín": [
-     4512.19,
-     "https://www.comodinencasa.com.ar/mermelada-arcor-durazno-0-azuc-x-390-gr/p"
+    "Carrefour": [
+     640.0,
+     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-lavanda-rinde-1-litro-35-ml-646950/p"
+    ],
+    "ChangoMás": [
+     649.0,
+     "https://www.masonline.com.ar/limpiador-multiuso-multimax-lav-35ml-2/p"
     ]
    }
   },
@@ -404,7 +350,7 @@
      "https://www.jumbo.com.ar/acondicionador-engrosador-doypack-400-ml-tio-nacho/p"
     ],
     "Comodín": [
-     8267.99,
+     8598.79,
      "https://www.comodinencasa.com.ar/acondicionador-tio-nacho-engros-dp-400ml/p"
     ],
     "Carrefour": [
@@ -414,6 +360,33 @@
     "ChangoMás": [
      8359.0,
      "https://www.masonline.com.ar/acondicionador-tio-nacho-engrosador-400-ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo BC La Campagnola naranja dulce 7 g.",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823054/7790580129965_02.jpg?v=639083181881700000",
+   "cadena": "Jumbo",
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
+   "referencia": 450.0,
+   "precio_2da": 400.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 43.8,
+   "score": 2188,
+   "pr": {
+    "Carrefour": [
+     400.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
     ]
    }
   },
@@ -476,64 +449,6 @@
    }
   },
   {
-   "n": "Mermelada BC La Campagnola durazno 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381335/7793360131516_E01.jpg?v=638315050666730000",
-   "cadena": "Jumbo",
-   "precio": 2113.5,
-   "link": "https://www.jumbo.com.ar/mermelada-bc-durazno-390gr/p",
-   "referencia": 4227.0,
-   "precio_2da": 3729.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.3,
-   "score": 2167,
-   "pr": {
-    "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-durazno-390-g/p"
-    ],
-    "Jumbo": [
-     2113.5,
-     "https://www.jumbo.com.ar/mermelada-bc-durazno-390gr/p"
-    ],
-    "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-durazno-390gr-2/p"
-    ],
-    "Comodín": [
-     3729.49,
-     "https://www.comodinencasa.com.ar/mermelada-la-campag-b-c-durazn-x-390-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
-   "cadena": "Carrefour",
-   "precio": 2200.0,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
-   "referencia": 4120.0,
-   "precio_2da": 4042.5,
-   "baja_pct": 46.6,
-   "brecha_pct": 45.6,
-   "score": 2124,
-   "pr": {
-    "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
-    ],
-    "Vea": [
-     4042.5,
-     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ],
-    "Jumbo": [
-     4087.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ]
-   }
-  },
-  {
    "n": "Mermelada Sabor Arándano 454 Grs La Campagnola",
    "m": "LA CAMPAGNOLA",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/659653/Mermelada-La-Campagnola-Arandano-X454g-1-876686.jpg?v=637650155645400000",
@@ -549,6 +464,10 @@
     "Jumbo": [
      2675.0,
      "https://www.jumbo.com.ar/mermelada-la-campagnola-arandano-454gr/p"
+    ],
+    "ChangoMás": [
+     4979.0,
+     "https://www.masonline.com.ar/mermelada-la-campagnola-de-arandano-454gr-2/p"
     ],
     "Comodín": [
      4561.49,
@@ -689,41 +608,6 @@
    }
   },
   {
-   "n": "Mermelada BC La Campagnola damasco 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381205/7793360131523_E01.jpg?v=638315050086430000",
-   "cadena": "Jumbo",
-   "precio": 2113.5,
-   "link": "https://www.jumbo.com.ar/mermeladas-bc-damasco-390gr/p",
-   "referencia": 4227.0,
-   "precio_2da": 3495.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.5,
-   "score": 1977,
-   "pr": {
-    "Carrefour": [
-     3990.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-damasco-390-g/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/mermeladas-bc-damasco-390gr/p"
-    ],
-    "Jumbo": [
-     2113.5,
-     "https://www.jumbo.com.ar/mermeladas-bc-damasco-390gr/p"
-    ],
-    "ChangoMás": [
-     4169.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-damasco-390gr-2/p"
-    ],
-    "Comodín": [
-     3495.49,
-     "https://www.comodinencasa.com.ar/mermelada-la-campag-b-c-damasc-x-390-gr/p"
-    ]
-   }
-  },
-  {
    "n": "Vino tinto Cabernet Sauvignon Emilia 750 ml",
    "m": "Emilia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822151/7790070760760_02.jpg?v=639083181690030000",
@@ -838,7 +722,7 @@
      "https://www.comodinencasa.com.ar/mermelada-la-campagnola-durazno-x-454-g/p"
     ],
     "ChangoMás": [
-     4029.0,
+     4189.0,
      "https://www.masonline.com.ar/mermelada-la-campagnola-de-durazno-454gr-2/p"
     ]
    }
@@ -863,6 +747,10 @@
     "Jumbo": [
      2650.0,
      "https://www.jumbo.com.ar/mermelada-frutilla-la-campagnola-454-gr-2/p"
+    ],
+    "ChangoMás": [
+     5239.0,
+     "https://www.masonline.com.ar/mermelada-la-campagnola-de-frutilla-454gr-2/p"
     ],
     "Comodín": [
      4226.59,
@@ -918,6 +806,10 @@
      3790.0,
      "https://www.carrefour.com.ar/mermelada-de-naranja-la-campagnola-454-g-79188/p"
     ],
+    "Vea": [
+     3790.0,
+     "https://www.vea.com.ar/mermelada-la-campagnola-naranja-454gr/p"
+    ],
     "Jumbo": [
      2125.0,
      "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p"
@@ -957,6 +849,10 @@
      2125.0,
      "https://www.jumbo.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
     ],
+    "ChangoMás": [
+     4189.0,
+     "https://www.masonline.com.ar/mermelada-la-campagnola-ciruela-454g-2/p"
+    ],
     "Comodín": [
      3379.99,
      "https://www.comodinencasa.com.ar/mermelada-la-campagnola-ciruela-x-454-g/p"
@@ -964,37 +860,99 @@
    }
   },
   {
-   "n": "Mermelada BC La Campagnola frutilla 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381338/7793360131530_E01.jpg?v=638315050674870000",
+   "n": "Vino Tinto álamos Selección Malbec 750 Cc",
+   "m": "ALAMOS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923678/7794450000781.jpg?v=639219889419700000",
    "cadena": "Jumbo",
-   "precio": 2800.0,
-   "link": "https://www.jumbo.com.ar/mermelada-bc-frutilla-390gr/p",
-   "referencia": 5600.0,
-   "precio_2da": 4367.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1795,
+   "precio": 5825.0,
+   "link": "https://www.jumbo.com.ar/vino-tinto-alamos-seleccion-malbec-750-cc/p",
+   "referencia": 9611.25,
+   "precio_2da": 10959.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 46.8,
+   "score": 1846,
    "pr": {
-    "Carrefour": [
-     4690.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-frutilla-390-g/p"
-    ],
     "Vea": [
-     5490.0,
-     "https://www.vea.com.ar/mermelada-bc-frutilla-390gr/p"
+     11290.0,
+     "https://www.vea.com.ar/vino-tinto-alamos-seleccion-malbec-750-cc/p"
     ],
     "Jumbo": [
-     2800.0,
-     "https://www.jumbo.com.ar/mermelada-bc-frutilla-390gr/p"
+     5825.0,
+     "https://www.jumbo.com.ar/vino-tinto-alamos-seleccion-malbec-750-cc/p"
     ],
     "ChangoMás": [
-     4779.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-frutilla-390gr-2/p"
+     10959.0,
+     "https://www.masonline.com.ar/vino-malbec-alamos-750-cc-2/p"
+    ],
+    "Carrefour": [
+     11265.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-seleccion-alamos-750-cc/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza Rubia 473 Cc Norte",
+   "m": "NORTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/693223/Cerveza-Rubia-Norte-Lata-473-Cc-1-886868.jpg?v=637828905841300000",
+   "cadena": "Comodín",
+   "precio": 1124.25,
+   "link": "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p",
+   "referencia": 2495.99,
+   "precio_2da": 1686.75,
+   "baja_pct": 55.0,
+   "brecha_pct": 33.3,
+   "score": 1833,
+   "pr": {
+    "Vea": [
+     1686.75,
+     "https://www.vea.com.ar/cerveza-norte-rubia-473cc/p"
+    ],
+    "Jumbo": [
+     2803.0,
+     "https://www.jumbo.com.ar/cerveza-norte-rubia-473cc/p"
     ],
     "Comodín": [
-     4367.99,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-b-c-frut-x-390/p"
+     1124.25,
+     "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p"
+    ],
+    "Carrefour": [
+     2689.0,
+     "https://www.carrefour.com.ar/cerveza-blanca-norte-473-ml-724631/p"
+    ]
+   }
+  },
+  {
+   "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
+   "m": "BC",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822139/7790580129941_02.jpg?v=639083181678770000",
+   "cadena": "Jumbo",
+   "precio": 225.0,
+   "link": "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p",
+   "referencia": 450.0,
+   "precio_2da": 352.59,
+   "baja_pct": 50.0,
+   "brecha_pct": 36.2,
+   "score": 1809,
+   "pr": {
+    "Carrefour": [
+     400.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
+    ],
+    "Vea": [
+     410.0,
+     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
+    "Jumbo": [
+     225.0,
+     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
+    ],
+    "Comodín": [
+     352.59,
+     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-limonada-bc-7-gr-2/p"
     ]
    }
   },
@@ -1022,6 +980,72 @@
     "ChangoMás": [
      409.0,
      "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-mango-15-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador para bebé Johnson's original 400 ml",
+   "m": "Johnson's",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/917175/7790010003278_01.jpg?v=639228441533030000",
+   "cadena": "Comodín",
+   "precio": 7999.0,
+   "link": "https://www.comodinencasa.com.ar/acondicionador-johnsons-original-400ml/p",
+   "referencia": 14609.99,
+   "precio_2da": 12990.0,
+   "baja_pct": 45.2,
+   "brecha_pct": 38.4,
+   "score": 1739,
+   "pr": {
+    "Carrefour": [
+     12990.0,
+     "https://www.carrefour.com.ar/acondicionador-para-bebe-johnson-s-original-400-ml-731845/p"
+    ],
+    "Vea": [
+     12990.0,
+     "https://www.vea.com.ar/acondicionador-para-bebe-original-400-ml-johnson-s/p"
+    ],
+    "Jumbo": [
+     13550.0,
+     "https://www.jumbo.com.ar/acondicionador-para-bebe-original-400-ml-johnson-s/p"
+    ],
+    "ChangoMás": [
+     13049.0,
+     "https://www.masonline.com.ar/acondicionador-johnson-s-baby-clasico-400ml-2/p"
+    ],
+    "Comodín": [
+     7999.0,
+     "https://www.comodinencasa.com.ar/acondicionador-johnsons-original-400ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Johnsons baby original 400 cc.",
+   "m": "Johnson's",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/873368/7790010003179_01.jpg?v=639143635282630000",
+   "cadena": "Comodín",
+   "precio": 7999.0,
+   "link": "https://www.comodinencasa.com.ar/shampoo-johnsons-baby-original-400ml/p",
+   "referencia": 14609.99,
+   "precio_2da": 12990.0,
+   "baja_pct": 45.2,
+   "brecha_pct": 38.4,
+   "score": 1739,
+   "pr": {
+    "Carrefour": [
+     12990.0,
+     "https://www.carrefour.com.ar/shampoo-johnsons-baby-original-400-cc-731855/p"
+    ],
+    "Jumbo": [
+     13150.0,
+     "https://www.jumbo.com.ar/toallas-femeninas-con-alas-siempre-libre-especial-8-un/p"
+    ],
+    "ChangoMás": [
+     13049.0,
+     "https://www.masonline.com.ar/shampoo-clasico-johnson-s-baby-400ml-2/p"
+    ],
+    "Comodín": [
+     7999.0,
+     "https://www.comodinencasa.com.ar/shampoo-johnsons-baby-original-400ml/p"
     ]
    }
   },
@@ -1061,41 +1085,6 @@
    }
   },
   {
-   "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822139/7790580129941_02.jpg?v=639083181678770000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 338.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.6,
-   "score": 1681,
-   "pr": {
-    "Carrefour": [
-     400.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
-    "Comodín": [
-     338.99,
-     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-limonada-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
    "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
    "m": "Tresemmé",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
@@ -1119,6 +1108,33 @@
     "ChangoMás": [
      9167.4,
      "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Tinto Malbec Double Oak 750 Cc Los Intocables",
+   "m": "SHORTORN",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/925236/Vino-Double-Oak-X-750-Cc-Los-Intocables-1-1061037.jpg?v=639229226641970000",
+   "cadena": "Jumbo",
+   "precio": 6900.0,
+   "link": "https://www.jumbo.com.ar/vino-double-oak-x-750-cc-los-intocables-2/p",
+   "referencia": 13800.0,
+   "precio_2da": 10350.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 33.3,
+   "score": 1667,
+   "pr": {
+    "Jumbo": [
+     6900.0,
+     "https://www.jumbo.com.ar/vino-double-oak-x-750-cc-los-intocables-2/p"
+    ],
+    "Carrefour": [
+     10350.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-los-intocables-double-oak-750-ml-756363/p"
+    ],
+    "ChangoMás": [
+     12879.0,
+     "https://www.masonline.com.ar/vino-tinto-los-intocables-doble-oak-malbec-750-ml/p"
     ]
    }
   },
@@ -1154,33 +1170,6 @@
    }
   },
   {
-   "n": "Bizcochuelo Morixe Zanahoria 540gr",
-   "m": "MORIXE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/917062/Bizcochuelo-Morixe-Zanahoria-540gr-1-1058289.jpg?v=639160222019700000",
-   "cadena": "ChangoMás",
-   "precio": 2459.4,
-   "link": "https://www.masonline.com.ar/bizcochuelo-morixe-carrot-cake-540g/p",
-   "referencia": 4099.0,
-   "precio_2da": 4190.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.3,
-   "score": 1652,
-   "pr": {
-    "Vea": [
-     4190.0,
-     "https://www.vea.com.ar/bizcochuelo-morixe-zanahoria-540gr/p"
-    ],
-    "Jumbo": [
-     4250.0,
-     "https://www.jumbo.com.ar/bizcochuelo-morixe-zanahoria-540gr/p"
-    ],
-    "ChangoMás": [
-     2459.4,
-     "https://www.masonline.com.ar/bizcochuelo-morixe-carrot-cake-540g/p"
-    ]
-   }
-  },
-  {
    "n": "Chocolate Cadbury Tres Sueños 82 Gr",
    "m": "CADBURY",
    "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/923974/7622201818739.jpg?v=639223214602700000",
@@ -1204,6 +1193,64 @@
     "Carrefour": [
      7790.0,
      "https://www.carrefour.com.ar/chocolate-cadbury-tres-suenos-82-g-680436/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante concentrado Downy brisa de verano en botella 350 ml",
+   "m": "Downy",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/951344/7500435252942_02.jpg?v=639277781850100000",
+   "cadena": "Comodín",
+   "precio": 3760.39,
+   "link": "https://www.comodinencasa.com.ar/suavizante-downy-brisa-verano-350ml/p",
+   "referencia": 5586.89,
+   "precio_2da": 7369.0,
+   "baja_pct": 32.7,
+   "brecha_pct": 49.0,
+   "score": 1601,
+   "pr": {
+    "Carrefour": [
+     7369.0,
+     "https://www.carrefour.com.ar/suavizante-concentrado-downy-brisa-suave-en-botella-350-ml-769202/p"
+    ],
+    "Comodín": [
+     3760.39,
+     "https://www.comodinencasa.com.ar/suavizante-downy-brisa-verano-350ml/p"
+    ],
+    "ChangoMás": [
+     7369.0,
+     "https://www.masonline.com.ar/suavizante-concentrado-downy-brisa-de-verano-350-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Suavizante concentrado Downy brisa suave en botella 350 ml",
+   "m": "Downy",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/951343/7500435252935_02.jpg?v=639277781707930000",
+   "cadena": "Comodín",
+   "precio": 3760.39,
+   "link": "https://www.comodinencasa.com.ar/suavizante-downy-brisa-suave-350ml/p",
+   "referencia": 5586.89,
+   "precio_2da": 7369.0,
+   "baja_pct": 32.7,
+   "brecha_pct": 49.0,
+   "score": 1601,
+   "pr": {
+    "Carrefour": [
+     7369.0,
+     "https://www.carrefour.com.ar/suavizante-concentrado-downy-brisa-de-verano-en-botella-350-ml-769203/p"
+    ],
+    "Vea": [
+     7390.0,
+     "https://www.vea.com.ar/suavizante-downy-brisa-suave-350ml/p"
+    ],
+    "Comodín": [
+     3760.39,
+     "https://www.comodinencasa.com.ar/suavizante-downy-brisa-suave-350ml/p"
+    ],
+    "ChangoMás": [
+     7369.0,
+     "https://www.masonline.com.ar/suavizante-concentrado-downy-brisa-suave-350-ml/p"
     ]
    }
   },
@@ -1239,6 +1286,33 @@
    }
   },
   {
+   "n": "Shampoo Equilibrio Raíz y Puntas 700 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/815524/Pantene-Pro-v-Miracles-Equilibrio-Ra-z-Puntas-Shampoo-Equilibrante-700-Ml-1-978403.jpg?v=638464701834700000",
+   "cadena": "Comodín",
+   "precio": 10999.0,
+   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p",
+   "referencia": 17991.99,
+   "precio_2da": 18649.0,
+   "baja_pct": 38.9,
+   "brecha_pct": 41.0,
+   "score": 1594,
+   "pr": {
+    "Jumbo": [
+     19500.0,
+     "https://www.jumbo.com.ar/shampoo-equilibrante-equilibrio-raiz-y-puntas-700-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     18649.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-700ml-2/p"
+    ],
+    "Comodín": [
+     10999.0,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p"
+    ]
+   }
+  },
+  {
    "n": "Granola íntegra choco 350 grs",
    "m": "Integra",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/946088/7798343751118_02.jpg?v=639271638827030000",
@@ -1266,33 +1340,60 @@
    }
   },
   {
-   "n": "Limpiador Multiuso Ultraconcentrado Lavanda 35 Ml Multimax",
-   "m": "MULTIMAX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/715808/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-1-Litro-X-35ml-1-841174.jpg?v=637963042649570000",
+   "n": "Acondicionador Probiotics 200 Ml Fructis",
+   "m": "FRUCTIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/858664/Acondicionador-Probiotics-X-200-Ml-Fructis-1-1035224.jpg?v=638769693737430000",
    "cadena": "Jumbo",
-   "precio": 350.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p",
-   "referencia": 700.0,
-   "precio_2da": 502.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.3,
-   "score": 1517,
+   "precio": 4260.0,
+   "link": "https://www.jumbo.com.ar/acondicionador-probiotics-x-200-ml-fructis-2/p",
+   "referencia": 7100.0,
+   "precio_2da": 6890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1527,
    "pr": {
     "Vea": [
-     502.5,
-     "https://www.vea.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
+     6890.0,
+     "https://www.vea.com.ar/acondicionador-probiotics-x-200-ml-fructis-2/p"
     ],
     "Jumbo": [
-     350.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
+     4260.0,
+     "https://www.jumbo.com.ar/acondicionador-probiotics-x-200-ml-fructis-2/p"
     ],
-    "Carrefour": [
-     640.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-lavanda-rinde-1-litro-35-ml-646950/p"
+    "Comodín": [
+     7064.79,
+     "https://www.comodinencasa.com.ar/acondicionador-fructis-probioticos-200ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Acondicionador Fructis Goodbye Daños 200 Ml",
+   "m": "FRUCTIS",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/798729/Acondicionador-Fructis-Goodbye-Da-os-200ml-Fru-Goodbye-Da-os-Aco-200ml-1-971782.jpg?v=638340290543930000",
+   "cadena": "Jumbo",
+   "precio": 4260.0,
+   "link": "https://www.jumbo.com.ar/acondicionador-fructis-goodbye-danos-200-ml/p",
+   "referencia": 7100.0,
+   "precio_2da": 6849.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.8,
+   "score": 1512,
+   "pr": {
+    "Vea": [
+     6890.0,
+     "https://www.vea.com.ar/acondicionador-fructis-goodbye-danos-200-ml/p"
+    ],
+    "Jumbo": [
+     4260.0,
+     "https://www.jumbo.com.ar/acondicionador-fructis-goodbye-danos-200-ml/p"
+    ],
+    "Comodín": [
+     7064.79,
+     "https://www.comodinencasa.com.ar/acondicionador-fructis-goodbye-dan-200ml/p"
     ],
     "ChangoMás": [
-     649.0,
-     "https://www.masonline.com.ar/limpiador-multiuso-multimax-lav-35ml-2/p"
+     6849.0,
+     "https://www.masonline.com.ar/acondicionador-fructis-goodbye-danos-200ml-2/p"
     ]
    }
   },
