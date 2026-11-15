@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-15",
- "actualizado": "2026-11-15 06:44",
+ "actualizado": "2026-11-15 19:07",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-11-14",
   "2026-11-15"
  ],
- "total": 51,
+ "total": 50,
  "ofertas": [
   {
    "n": "Mermelada frutos del bosque BC La Campagnola 390 grs",
@@ -167,6 +167,33 @@
    }
   },
   {
+   "n": "Vino Portillo Rose Malbec",
+   "m": "PORTILLO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786689/Vino-Portillo-Rose-Malbec-1-950452.jpg?v=638236497675870000",
+   "cadena": "Jumbo",
+   "precio": 3725.0,
+   "link": "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p",
+   "referencia": 7450.0,
+   "precio_2da": 6989.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 46.7,
+   "score": 2335,
+   "pr": {
+    "Jumbo": [
+     3725.0,
+     "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p"
+    ],
+    "ChangoMás": [
+     6989.0,
+     "https://www.masonline.com.ar/vino-portillo-rosado-de-malbec-750ml-2/p"
+    ],
+    "Carrefour": [
+     6990.0,
+     "https://www.carrefour.com.ar/vino-rosado-malbec-portillo-750-ml-718557/p"
+    ]
+   }
+  },
+  {
    "n": "Mermelada BC La Campagnola arándano 390 g.",
    "m": "La Campagnola",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381206/7793360131561_E01.jpg?v=638315050095270000",
@@ -194,33 +221,6 @@
     "ChangoMás": [
      5179.0,
      "https://www.masonline.com.ar/mermelada-bc-de-arandano-390gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Concentrado Multimax Cocina 100ml",
-   "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/764037/Limpiador-Concentrado-Multimax-Cocina-100ml-1-940380.jpg?v=638083786208630000",
-   "cadena": "Jumbo",
-   "precio": 525.0,
-   "link": "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p",
-   "referencia": 1050.0,
-   "precio_2da": 969.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.8,
-   "score": 2291,
-   "pr": {
-    "Jumbo": [
-     525.0,
-     "https://www.jumbo.com.ar/limpiador-concentrado-multimax-cocina-100ml/p"
-    ],
-    "ChangoMás": [
-     969.0,
-     "https://www.masonline.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-2/p"
-    ],
-    "Carrefour": [
-     1049.0,
-     "https://www.carrefour.com.ar/limpiador-de-cocina-multimax-concentrado-100-cc-709108/p"
     ]
    }
   },
@@ -330,13 +330,13 @@
      350.0,
      "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
     ],
-    "Carrefour": [
-     619.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-lavanda-rinde-1-litro-35-ml-646950/p"
-    ],
     "ChangoMás": [
      649.0,
      "https://www.masonline.com.ar/limpiador-multiuso-multimax-lav-35ml-2/p"
+    ],
+    "Carrefour": [
+     619.0,
+     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-lavanda-rinde-1-litro-35-ml-646950/p"
     ]
    }
   },
@@ -783,41 +783,6 @@
    }
   },
   {
-   "n": "Mermelada de naranja La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381213/7793360131431_E01.jpg?v=638315050123500000",
-   "cadena": "Jumbo",
-   "precio": 2125.0,
-   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p",
-   "referencia": 4250.0,
-   "precio_2da": 3605.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.1,
-   "score": 2053,
-   "pr": {
-    "Carrefour": [
-     4025.0,
-     "https://www.carrefour.com.ar/mermelada-de-naranja-la-campagnola-454-g-79188/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/mermelada-la-campagnola-naranja-454gr/p"
-    ],
-    "Jumbo": [
-     2125.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p"
-    ],
-    "ChangoMás": [
-     4189.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-sabor-a-naranja-454gr-2/p"
-    ],
-    "Comodín": [
-     3605.69,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-naranja-x-454-g/p"
-    ]
-   }
-  },
-  {
    "n": "Mermelada de ciruela La Campagnola 454 g.",
    "m": "La Campagnola",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381240/7793360131424_E01.jpg?v=638315050232000000",
@@ -849,6 +814,41 @@
     "Comodín": [
      3605.69,
      "https://www.comodinencasa.com.ar/mermelada-la-campagnola-ciruela-x-454-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Mermelada de naranja La Campagnola 454 g.",
+   "m": "La Campagnola",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381213/7793360131431_E01.jpg?v=638315050123500000",
+   "cadena": "Jumbo",
+   "precio": 2125.0,
+   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p",
+   "referencia": 4250.0,
+   "precio_2da": 3605.69,
+   "baja_pct": 50.0,
+   "brecha_pct": 41.1,
+   "score": 2053,
+   "pr": {
+    "Carrefour": [
+     4025.0,
+     "https://www.carrefour.com.ar/mermelada-de-naranja-la-campagnola-454-g-79188/p"
+    ],
+    "Vea": [
+     3790.0,
+     "https://www.vea.com.ar/mermelada-la-campagnola-naranja-454gr/p"
+    ],
+    "Jumbo": [
+     2125.0,
+     "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p"
+    ],
+    "ChangoMás": [
+     4189.0,
+     "https://www.masonline.com.ar/mermelada-la-campagnola-sabor-a-naranja-454gr-2/p"
+    ],
+    "Comodín": [
+     3605.69,
+     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-naranja-x-454-g/p"
     ]
    }
   },
@@ -942,33 +942,6 @@
    }
   },
   {
-   "n": "Acondicionador Elvive RT5 Keratin 750 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922749/7509552790108_01.jpg?v=639239580964470000",
-   "cadena": "ChangoMás",
-   "precio": 10994.5,
-   "link": "https://www.masonline.com.ar/acondicionador-elvive-reparacion-total-5-750ml-2/p",
-   "referencia": 21989.0,
-   "precio_2da": 18095.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.2,
-   "score": 1962,
-   "pr": {
-    "Carrefour": [
-     21990.0,
-     "https://www.carrefour.com.ar/acondicionador-elvive-rt5-keratin-750-ml-726116/p"
-    ],
-    "Comodín": [
-     18095.99,
-     "https://www.comodinencasa.com.ar/acondicionador-elvive-rep-t5-kerat-750ml/p"
-    ],
-    "ChangoMás": [
-     10994.5,
-     "https://www.masonline.com.ar/acondicionador-elvive-reparacion-total-5-750ml-2/p"
-    ]
-   }
-  },
-  {
    "n": "Vino tinto Cabernet Sauvignon Emilia 750 ml",
    "m": "Emilia",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822151/7790070760760_02.jpg?v=639083181690030000",
@@ -1058,6 +1031,33 @@
    }
   },
   {
+   "n": "Jugo en polvo Arcor de naranja mango 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817842/7790580143763_E02.jpg?v=639082514487970000",
+   "cadena": "Jumbo",
+   "precio": 250.0,
+   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p",
+   "referencia": 500.0,
+   "precio_2da": 389.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 35.7,
+   "score": 1787,
+   "pr": {
+    "Carrefour": [
+     389.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-mango-15-grs-750885/p"
+    ],
+    "Jumbo": [
+     250.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p"
+    ],
+    "ChangoMás": [
+     409.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-mango-15-g/p"
+    ]
+   }
+  },
+  {
    "n": "Lavandina Líquida 1 Lts Limpialin",
    "m": "LIMPIALIN",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/907413/7798238110204.jpg?v=639124621564270000",
@@ -1116,60 +1116,33 @@
    }
   },
   {
-   "n": "Acondicionador Elvive Glicolic Cristal 200 ml",
-   "m": "Elvive",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923142/7790033338180_01.jpg?v=639239706312900000",
+   "n": "Papa tradicional Mc cain 700 g.",
+   "m": "Mc Cain",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845817/7797906054826_01.jpg?v=639111875654470000",
    "cadena": "ChangoMás",
-   "precio": 3669.5,
-   "link": "https://www.masonline.com.ar/acondicionador-elvive-glycolic-cristal-200-ml/p",
-   "referencia": 7339.0,
-   "precio_2da": 5550.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.9,
-   "score": 1694,
+   "precio": 4367.4,
+   "link": "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p",
+   "referencia": 7789.0,
+   "precio_2da": 7138.59,
+   "baja_pct": 43.9,
+   "brecha_pct": 38.8,
+   "score": 1705,
    "pr": {
     "Carrefour": [
-     8989.0,
-     "https://www.carrefour.com.ar/acondicionador-elvive-glicolic-cristal-200-ml-775124/p"
+     7789.0,
+     "https://www.carrefour.com.ar/papa-tradicional-mc-cain-700-g-724922/p"
     ],
     "Vea": [
-     9190.0,
-     "https://www.vea.com.ar/acondicionador-brillo-cristalino-glycolic-cristal-x-200-ml-elvive/p"
-    ],
-    "Jumbo": [
-     5550.0,
-     "https://www.jumbo.com.ar/acondicionador-brillo-cristalino-glycolic-cristal-x-200-ml-elvive/p"
-    ],
-    "ChangoMás": [
-     3669.5,
-     "https://www.masonline.com.ar/acondicionador-elvive-glycolic-cristal-200-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo UV Repair y Glow 200 Ml Dove",
-   "m": "DOVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/935011/13710774167.jpg?v=639282791711000000",
-   "cadena": "Jumbo",
-   "precio": 4080.0,
-   "link": "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p",
-   "referencia": 6800.0,
-   "precio_2da": 7033.59,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.0,
-   "score": 1680,
-   "pr": {
-    "Jumbo": [
-     4080.0,
-     "https://www.jumbo.com.ar/shampoo-dove-bond-uv-repair-200ml/p"
+     7190.0,
+     "https://www.vea.com.ar/papas-clasicas-corte-tradicional-700-gr-mc-cain/p"
     ],
     "Comodín": [
-     7033.59,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
+     7138.59,
+     "https://www.comodinencasa.com.ar/papas-mc-cain-corte-tradicional-x-720-g/p"
     ],
-    "Carrefour": [
-     7409.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
+    "ChangoMás": [
+     4367.4,
+     "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p"
     ]
    }
   },
