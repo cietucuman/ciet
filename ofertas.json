@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-15",
- "actualizado": "2026-11-15 19:07",
+ "fecha": "2026-11-16",
+ "actualizado": "2026-11-16 15:43",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-11-05",
   "2026-11-06",
   "2026-11-07",
   "2026-11-08",
@@ -19,1157 +18,201 @@
   "2026-11-12",
   "2026-11-13",
   "2026-11-14",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
- "total": 50,
+ "total": 20,
  "ofertas": [
   {
-   "n": "Mermelada frutos del bosque BC La Campagnola 390 grs",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/945575/7790580148973_E02.jpg?v=639270638585000000",
+   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
    "cadena": "Jumbo",
-   "precio": 2800.0,
-   "link": "https://www.jumbo.com.ar/mermelada-bc-frutos-rojos-390gr/p",
-   "referencia": 5600.0,
-   "precio_2da": 5620.0,
+   "precio": 1650.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p",
+   "referencia": 3300.0,
+   "precio_2da": 3189.0,
    "baja_pct": 50.0,
-   "brecha_pct": 50.2,
-   "score": 2509,
+   "brecha_pct": 48.3,
+   "score": 2413,
    "pr": {
     "Carrefour": [
-     5620.0,
-     "https://www.carrefour.com.ar/mermelada-frutos-del-bosque-bc-la-campagnola-390-grs-761717/p"
+     3189.0,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
     ],
     "Jumbo": [
-     2800.0,
-     "https://www.jumbo.com.ar/mermelada-bc-frutos-rojos-390gr/p"
+     1650.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
     ],
     "ChangoMás": [
-     5859.0,
-     "https://www.masonline.com.ar/mermelada-bc-frutos-rojos-390g/p"
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
     ]
    }
   },
   {
-   "n": "Ravioles Villa Dágri 4 Quesos 500g",
-   "m": "VILLA D'AGRI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/535113/Ravioles-C--4-Quesos-Villa-D-agri-X-500gr-1-703790.jpg?v=636943506313000000",
+   "n": "Nestlé leche condensada descremada orgánica 395 grs",
+   "m": "Nestlé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/903869/8445290883858_E01.jpg?v=639198118737200000",
    "cadena": "Jumbo",
-   "precio": 1775.0,
-   "link": "https://www.jumbo.com.ar/ravioles-villa-dagri-4-quesos-500g/p",
-   "referencia": 3550.0,
-   "precio_2da": 3490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.1,
-   "score": 2457,
-   "pr": {
-    "Vea": [
-     3490.0,
-     "https://www.vea.com.ar/ravioles-villa-dagri-4-quesos-500g/p"
-    ],
-    "Jumbo": [
-     1775.0,
-     "https://www.jumbo.com.ar/ravioles-villa-dagri-4-quesos-500g/p"
-    ],
-    "Carrefour": [
-     3915.0,
-     "https://www.carrefour.com.ar/ravioles-villa-d-agri-cuatro-queso-500-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino blanco Chardonnay Emilia 750 ml",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821044/7790070760746_02.jpg?v=639083181326470000",
-   "cadena": "Vea",
-   "precio": 4595.0,
-   "link": "https://www.vea.com.ar/vino-emilia-chardonnay-750ml/p",
-   "referencia": 9190.0,
-   "precio_2da": 8999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2447,
-   "pr": {
-    "Carrefour": [
-     8999.0,
-     "https://www.carrefour.com.ar/vino-blanco-sauvignon-blanc-emilia-750-ml-722949/p"
-    ],
-    "Vea": [
-     4595.0,
-     "https://www.vea.com.ar/vino-emilia-chardonnay-750ml/p"
-    ],
-    "Jumbo": [
-     9500.0,
-     "https://www.jumbo.com.ar/vino-emilia-chardonnay-750ml/p"
-    ],
-    "ChangoMás": [
-     9000.0,
-     "https://www.masonline.com.ar/vino-blanco-emilia-chardonnay-750-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Malbec Emilia 750 ml",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822145/7790070760722_02.jpg?v=639083181685030000",
-   "cadena": "Vea",
-   "precio": 4595.0,
-   "link": "https://www.vea.com.ar/vino-emilia-malbec-750cc/p",
-   "referencia": 9190.0,
-   "precio_2da": 9000.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.9,
-   "score": 2447,
-   "pr": {
-    "Carrefour": [
-     9000.0,
-     "https://www.carrefour.com.ar/vinto-tinto-emilia-malbec-750-cc-721777/p"
-    ],
-    "Vea": [
-     4595.0,
-     "https://www.vea.com.ar/vino-emilia-malbec-750cc/p"
-    ],
-    "Jumbo": [
-     9500.0,
-     "https://www.jumbo.com.ar/vino-emilia-malbec-750cc/p"
-    ],
-    "ChangoMás": [
-     9000.0,
-     "https://www.masonline.com.ar/vino-tinto-emilia-malbec-750ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Limpiador Multiuso Citronella Rinde 5 Lts 150 Ml Multimax",
-   "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715830/Limpiador-Multiuso-Para-Diluir-Citronella-Rinde-5-Litros-X-150ml-1-856920.jpg?v=637963042732200000",
-   "cadena": "Jumbo",
-   "precio": 1025.0,
-   "link": "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p",
-   "referencia": 2050.0,
-   "precio_2da": 1949.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.4,
-   "score": 2370,
-   "pr": {
-    "Jumbo": [
-     1025.0,
-     "https://www.jumbo.com.ar/limpiador-multiuso-para-diluir-citronella-rinde-5-litros-x-150ml/p"
-    ],
-    "Carrefour": [
-     1949.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-citronella-rinde-5-litros-150-ml-675544/p"
-    ],
-    "ChangoMás": [
-     2029.0,
-     "https://www.masonline.com.ar/limpiador-liquido-multimax-citronella-rinde-5-litros-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Portillo Rose Malbec",
-   "m": "PORTILLO",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786689/Vino-Portillo-Rose-Malbec-1-950452.jpg?v=638236497675870000",
-   "cadena": "Jumbo",
-   "precio": 3725.0,
-   "link": "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p",
-   "referencia": 7450.0,
-   "precio_2da": 6989.0,
+   "precio": 3025.0,
+   "link": "https://www.jumbo.com.ar/leche-condensada-descremada-organica-395-grs-nestle/p",
+   "referencia": 6050.0,
+   "precio_2da": 5675.0,
    "baja_pct": 50.0,
    "brecha_pct": 46.7,
    "score": 2335,
    "pr": {
+    "Carrefour": [
+     5675.0,
+     "https://www.carrefour.com.ar/nestle-leche-condensada-descremada-organica-395-grs-727277/p"
+    ],
     "Jumbo": [
-     3725.0,
-     "https://www.jumbo.com.ar/vino-portillo-rose-malbec/p"
+     3025.0,
+     "https://www.jumbo.com.ar/leche-condensada-descremada-organica-395-grs-nestle/p"
     ],
     "ChangoMás": [
-     6989.0,
-     "https://www.masonline.com.ar/vino-portillo-rosado-de-malbec-750ml-2/p"
-    ],
-    "Carrefour": [
-     6990.0,
-     "https://www.carrefour.com.ar/vino-rosado-malbec-portillo-750-ml-718557/p"
+     6019.0,
+     "https://www.masonline.com.ar/leche-condensada-nestle-descremada-395-g-2/p"
     ]
    }
   },
   {
-   "n": "Mermelada BC La Campagnola arándano 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381206/7793360131561_E01.jpg?v=638315050095270000",
-   "cadena": "Jumbo",
-   "precio": 2800.0,
-   "link": "https://www.jumbo.com.ar/mermelada-bc-arandanos-390gr/p",
-   "referencia": 5600.0,
-   "precio_2da": 5179.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.9,
-   "score": 2297,
+   "n": "Suavizante Comfort Boom Secrets 10 275ml",
+   "m": "COMFORT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/926622/14130202025.jpg?v=639239679054570000",
+   "cadena": "Comodín",
+   "precio": 4909.01,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-segredos-n10-275gr/p",
+   "referencia": 8181.69,
+   "precio_2da": 11199.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 56.2,
+   "score": 2247,
    "pr": {
-    "Carrefour": [
-     5305.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-arandano-390-g/p"
-    ],
     "Vea": [
-     5490.0,
-     "https://www.vea.com.ar/mermelada-bc-arandanos-390gr/p"
+     11199.0,
+     "https://www.vea.com.ar/suavizante-comfort-boom-secrets-10-275ml/p"
     ],
     "Jumbo": [
-     2800.0,
-     "https://www.jumbo.com.ar/mermelada-bc-arandanos-390gr/p"
-    ],
-    "ChangoMás": [
-     5179.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-arandano-390gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada La Campagnola de durazno y mango 220 grs",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/886276/7790580149796_02.jpg?v=639160914886200000",
-   "cadena": "Jumbo",
-   "precio": 1875.0,
-   "link": "https://www.jumbo.com.ar/mermelada-durazno-mango-220gr-la-campagnola/p",
-   "referencia": 3750.0,
-   "precio_2da": 3460.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.8,
-   "score": 2290,
-   "pr": {
-    "Carrefour": [
-     3460.0,
-     "https://www.carrefour.com.ar/mermelada-la-campagnola-de-durazno-y-mango-220-grs-779491/p"
-    ],
-    "Jumbo": [
-     1875.0,
-     "https://www.jumbo.com.ar/mermelada-durazno-mango-220gr-la-campagnola/p"
-    ],
-    "ChangoMás": [
-     3609.0,
-     "https://www.masonline.com.ar/mermelada-la-campagonla-durazno-mango-220-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche Chocolatada Nesquik 200 ml",
-   "m": "Nesquik",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/666991/8445291395961_E01.jpg?v=638839494493370000",
-   "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p",
-   "referencia": 2400.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.2,
-   "score": 2260,
-   "pr": {
-    "Carrefour": [
-     2190.0,
-     "https://www.carrefour.com.ar/leche-chocolatada-nesquik-200-ml-756480/p"
-    ],
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/leche-chocolotada-200ml-nesquik/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/leche-chocolotada-200ml-nesquik/p"
-    ],
-    "ChangoMás": [
-     2239.0,
-     "https://www.masonline.com.ar/chocolatada-nesquik-original-200-ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada Sabor Arándano 454 Grs La Campagnola",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/659653/Mermelada-La-Campagnola-Arandano-X454g-1-876686.jpg?v=637650155645400000",
-   "cadena": "Jumbo",
-   "precio": 2675.0,
-   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-arandano-454gr/p",
-   "referencia": 5350.0,
-   "precio_2da": 4866.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.0,
-   "score": 2251,
-   "pr": {
-    "Jumbo": [
-     2675.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-arandano-454gr/p"
-    ],
-    "ChangoMás": [
-     4979.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-de-arandano-454gr-2/p"
+     11700.0,
+     "https://www.jumbo.com.ar/suavizante-comfort-boom-secrets-10-275ml/p"
     ],
     "Comodín": [
-     4866.19,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-arandano-x-454gr/p"
-    ],
-    "Carrefour": [
-     5429.0,
-     "https://www.carrefour.com.ar/mermelada-la-campagnola-arandano-454-g/p"
+     4909.01,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-segredos-n10-275gr/p"
     ]
    }
   },
   {
-   "n": "Limpiador Multiuso Ultraconcentrado Lavanda 35 Ml Multimax",
-   "m": "MULTIMAX",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/715808/Limpiador-Multiuso-Para-Diluir-Lavanda-Rinde-1-Litro-X-35ml-1-841174.jpg?v=637963042649570000",
+   "n": "Cerveza Rubia 473 Cc Norte",
+   "m": "NORTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/693223/Cerveza-Rubia-Norte-Lata-473-Cc-1-886868.jpg?v=637828905841300000",
+   "cadena": "Comodín",
+   "precio": 1124.25,
+   "link": "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p",
+   "referencia": 1853.99,
+   "precio_2da": 2595.0,
+   "baja_pct": 39.4,
+   "brecha_pct": 56.7,
+   "score": 2231,
+   "pr": {
+    "Vea": [
+     2595.0,
+     "https://www.vea.com.ar/cerveza-norte-rubia-473cc/p"
+    ],
+    "Jumbo": [
+     2803.0,
+     "https://www.jumbo.com.ar/cerveza-norte-rubia-473cc/p"
+    ],
+    "Comodín": [
+     1124.25,
+     "https://www.comodinencasa.com.ar/cerveza-norte-lata-x-473cc/p"
+    ],
+    "Carrefour": [
+     2689.0,
+     "https://www.carrefour.com.ar/cerveza-blanca-norte-473-ml-724631/p"
+    ]
+   }
+  },
+  {
+   "n": "Bolsas para Horno Sabor Mediterráneo 25 Grs Maggi",
+   "m": "MAGGI",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/900610/Bolsa-Para-Horno-Meditarrea-X-25-Grs-Maggi-1-1055224.jpg?v=639080626093400000",
    "cadena": "Jumbo",
-   "precio": 350.0,
-   "link": "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p",
-   "referencia": 700.0,
-   "precio_2da": 619.0,
+   "precio": 1625.0,
+   "link": "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p",
+   "referencia": 3250.0,
+   "precio_2da": 2850.0,
    "baja_pct": 50.0,
-   "brecha_pct": 43.5,
-   "score": 2173,
+   "brecha_pct": 43.0,
+   "score": 2149,
    "pr": {
     "Jumbo": [
-     350.0,
-     "https://www.jumbo.com.ar/limpiador-liquido-multimax-multiuso-concentrado-lavanda-rinde-1l/p"
-    ],
-    "ChangoMás": [
-     649.0,
-     "https://www.masonline.com.ar/limpiador-multiuso-multimax-lav-35ml-2/p"
+     1625.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
     ],
     "Carrefour": [
-     619.0,
-     "https://www.carrefour.com.ar/limpiador-multiuso-multimax-para-diluir-lavanda-rinde-1-litro-35-ml-646950/p"
+     2850.0,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
+    ],
+    "ChangoMás": [
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
     ]
    }
   },
   {
-   "n": "Vino tinto Malbec Alaris 750 ml",
+   "n": "Suavizante Ropa Explosión de Frescor 275 Grs Comfort",
+   "m": "COMFORT",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/930242/Suavizante-Boom-Explosi-n-De-Frescor-275-Grs-Comfort-1-1054078.jpg?v=639252782009770000",
+   "cadena": "Comodín",
+   "precio": 4909.01,
+   "link": "https://www.comodinencasa.com.ar/suavizante-comfort-explosion-fresc-275gr/p",
+   "referencia": 8181.69,
+   "precio_2da": 10050.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 51.2,
+   "score": 2046,
+   "pr": {
+    "Vea": [
+     10050.0,
+     "https://www.vea.com.ar/suavizante-boom-explosion-de-frescor-275-grs-comfort/p"
+    ],
+    "Jumbo": [
+     10550.0,
+     "https://www.jumbo.com.ar/suavizante-boom-explosion-de-frescor-275-grs-comfort/p"
+    ],
+    "Comodín": [
+     4909.01,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-explosion-fresc-275gr/p"
+    ]
+   }
+  },
+  {
+   "n": "Vino Alaris Red Blend 750 Cc",
    "m": "Alaris",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185274/7790240017045_01.jpg?v=637468594536970000",
+   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/179967/Foto-Producto.png?v=638641981909000000",
    "cadena": "Carrefour",
    "precio": 2470.0,
-   "link": "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p",
-   "referencia": 3940.2,
-   "precio_2da": 5909.0,
-   "baja_pct": 37.3,
-   "brecha_pct": 58.2,
-   "score": 2172,
+   "link": "https://www.carrefour.com.ar/vino-tinto-red-bland-alaris-en-botella-750-ml-744464/p",
+   "referencia": 3979.53,
+   "precio_2da": 5078.39,
+   "baja_pct": 37.9,
+   "brecha_pct": 51.4,
+   "score": 1948,
    "pr": {
+    "Comodín": [
+     5078.39,
+     "https://www.comodinencasa.com.ar/vino-alaris-red-blend-750-cc/p"
+    ],
     "Carrefour": [
      2470.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p"
-    ],
-    "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/vino-tinto-alaris-malbec-750-cc/p"
+     "https://www.carrefour.com.ar/vino-tinto-red-bland-alaris-en-botella-750-ml-744464/p"
     ],
     "ChangoMás": [
      5909.0,
-     "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada BC La Campagnola de naranja 390 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381346/7793360131554_E01.jpg?v=638315050752430000",
-   "cadena": "Jumbo",
-   "precio": 2113.5,
-   "link": "https://www.jumbo.com.ar/mermeladas-bc-naranja-390gr/p",
-   "referencia": 4227.0,
-   "precio_2da": 3729.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.3,
-   "score": 2167,
-   "pr": {
-    "Carrefour": [
-     4139.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-de-naranja-390-g-691479/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/mermeladas-bc-naranja-390gr/p"
-    ],
-    "Jumbo": [
-     2113.5,
-     "https://www.jumbo.com.ar/mermeladas-bc-naranja-390gr/p"
-    ],
-    "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/mermalada-de-naranja-bc-390g-2/p"
-    ],
-    "Comodín": [
-     3729.49,
-     "https://www.comodinencasa.com.ar/mermelada-la-campag-b-c-naranj-x-390-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada BC La Campagnola durazno 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381335/7793360131516_E01.jpg?v=638315050666730000",
-   "cadena": "Jumbo",
-   "precio": 2113.5,
-   "link": "https://www.jumbo.com.ar/mermelada-bc-durazno-390gr/p",
-   "referencia": 4227.0,
-   "precio_2da": 3729.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.3,
-   "score": 2167,
-   "pr": {
-    "Carrefour": [
-     4139.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-durazno-390-g/p"
-    ],
-    "Jumbo": [
-     2113.5,
-     "https://www.jumbo.com.ar/mermelada-bc-durazno-390gr/p"
-    ],
-    "ChangoMás": [
-     4339.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-durazno-390gr-2/p"
-    ],
-    "Comodín": [
-     3729.49,
-     "https://www.comodinencasa.com.ar/mermelada-la-campag-b-c-durazn-x-390-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada BC La Campagnola damasco 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381205/7793360131523_E01.jpg?v=638315050086430000",
-   "cadena": "Jumbo",
-   "precio": 2113.5,
-   "link": "https://www.jumbo.com.ar/mermeladas-bc-damasco-390gr/p",
-   "referencia": 4227.0,
-   "precio_2da": 3729.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.3,
-   "score": 2167,
-   "pr": {
-    "Carrefour": [
-     4139.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-damasco-390-g/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/mermeladas-bc-damasco-390gr/p"
-    ],
-    "Jumbo": [
-     2113.5,
-     "https://www.jumbo.com.ar/mermeladas-bc-damasco-390gr/p"
-    ],
-    "ChangoMás": [
-     4169.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-damasco-390gr-2/p"
-    ],
-    "Comodín": [
-     3729.49,
-     "https://www.comodinencasa.com.ar/mermelada-la-campag-b-c-damasc-x-390-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada BC La Campagnola ciruela 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381325/7793360131547_E01.jpg?v=638315050569130000",
-   "cadena": "Jumbo",
-   "precio": 2113.5,
-   "link": "https://www.jumbo.com.ar/mermelada-ciruela-bc-la-campagnola-390-gr/p",
-   "referencia": 4227.0,
-   "precio_2da": 3729.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.3,
-   "score": 2167,
-   "pr": {
-    "Carrefour": [
-     4139.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-ciruela-390-g/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/mermelada-ciruela-bc-la-campagnola-390-gr/p"
-    ],
-    "Jumbo": [
-     2113.5,
-     "https://www.jumbo.com.ar/mermelada-ciruela-bc-la-campagnola-390-gr/p"
-    ],
-    "ChangoMás": [
-     4169.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-ciruela-390gr-2/p"
-    ],
-    "Comodín": [
-     3729.49,
-     "https://www.comodinencasa.com.ar/mermelada-la-campag-b-c-ciruela-x-390-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo BC La Campagnola naranja dulce 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823054/7790580129965_02.jpg?v=639083181881700000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 389.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.2,
-   "score": 2108,
-   "pr": {
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-naranja-dulce-7-g/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-naranja-dulce-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-naranja-dulce-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo BC La Campagnola manzana roja 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822943/7790580129972_02.jpg?v=639083181869330000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 389.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.2,
-   "score": 2108,
-   "pr": {
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-manzana-roja-7-g/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-manzana-roja-7-gr-bc/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-manzana-roja-bc-7-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372565/7792170110575_E01.jpg?v=638303146910100000",
-   "cadena": "Carrefour",
-   "precio": 2200.0,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p",
-   "referencia": 4120.0,
-   "precio_2da": 3999.2,
-   "baja_pct": 46.6,
-   "brecha_pct": 45.0,
-   "score": 2097,
-   "pr": {
-    "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
-    ],
-    "Vea": [
-     4042.5,
-     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
-    ],
-    "Jumbo": [
-     4087.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-manzana-1-25lt/p"
-    ],
-    "ChangoMás": [
-     3999.2,
-     "https://www.masonline.com.ar/bebida-isotonica-manzana-gatorade-1-25-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
-   "cadena": "Carrefour",
-   "precio": 2200.0,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p",
-   "referencia": 4120.0,
-   "precio_2da": 3999.2,
-   "baja_pct": 46.6,
-   "brecha_pct": 45.0,
-   "score": 2097,
-   "pr": {
-    "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
-    ],
-    "Vea": [
-     4042.5,
-     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ],
-    "Jumbo": [
-     4087.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
-    ],
-    "ChangoMás": [
-     3999.2,
-     "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
-   "cadena": "Carrefour",
-   "precio": 2200.0,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p",
-   "referencia": 4120.0,
-   "precio_2da": 3999.2,
-   "baja_pct": 46.6,
-   "brecha_pct": 45.0,
-   "score": 2097,
-   "pr": {
-    "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
-    ],
-    "Vea": [
-     4042.5,
-     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
-    ],
-    "Jumbo": [
-     4087.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
-    ],
-    "ChangoMás": [
-     3999.2,
-     "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
-   "cadena": "Carrefour",
-   "precio": 2200.0,
-   "link": "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p",
-   "referencia": 4120.0,
-   "precio_2da": 3999.2,
-   "baja_pct": 46.6,
-   "brecha_pct": 45.0,
-   "score": 2097,
-   "pr": {
-    "Carrefour": [
-     2200.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
-    ],
-    "Vea": [
-     4042.5,
-     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
-    ],
-    "Jumbo": [
-     4087.5,
-     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
-    ],
-    "ChangoMás": [
-     3999.2,
-     "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada La Campagnola de durazno 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381293/7793360131400_E01.jpg?v=638315050449900000",
-   "cadena": "Jumbo",
-   "precio": 2100.0,
-   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-durazno-454gr/p",
-   "referencia": 4200.0,
-   "precio_2da": 3605.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.8,
-   "score": 2088,
-   "pr": {
-    "Carrefour": [
-     4025.0,
-     "https://www.carrefour.com.ar/mermelada-la-campagnola-de-durazno-454-g/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/mermelada-la-campagnola-durazno-454gr/p"
-    ],
-    "Jumbo": [
-     2100.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-durazno-454gr/p"
-    ],
-    "Comodín": [
-     3605.69,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-durazno-x-454-g/p"
-    ],
-    "ChangoMás": [
-     4189.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-de-durazno-454gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de frutilla La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381278/7793360131417_E01.jpg?v=638315050378200000",
-   "cadena": "Jumbo",
-   "precio": 2650.0,
-   "link": "https://www.jumbo.com.ar/mermelada-frutilla-la-campagnola-454-gr-2/p",
-   "referencia": 5300.0,
-   "precio_2da": 4508.39,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.2,
-   "score": 2061,
-   "pr": {
-    "Carrefour": [
-     5429.0,
-     "https://www.carrefour.com.ar/mermelada-de-frutilla-la-campagnola-454-g/p"
-    ],
-    "Jumbo": [
-     2650.0,
-     "https://www.jumbo.com.ar/mermelada-frutilla-la-campagnola-454-gr-2/p"
-    ],
-    "ChangoMás": [
-     5239.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-de-frutilla-454gr-2/p"
-    ],
-    "Comodín": [
-     4508.39,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-frutilla-x-454/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada damasco La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381244/7793360131448_E01.jpg?v=638315050247170000",
-   "cadena": "Jumbo",
-   "precio": 2125.0,
-   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-damasco-454gr/p",
-   "referencia": 4250.0,
-   "precio_2da": 3605.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.1,
-   "score": 2053,
-   "pr": {
-    "Carrefour": [
-     4025.0,
-     "https://www.carrefour.com.ar/mermelada-damasco-la-campagnola-454-g/p"
-    ],
-    "Jumbo": [
-     2125.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-damasco-454gr/p"
-    ],
-    "ChangoMás": [
-     4029.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-damasco-454g-2/p"
-    ],
-    "Comodín": [
-     3605.69,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-damasco-x-454-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de ciruela La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381240/7793360131424_E01.jpg?v=638315050232000000",
-   "cadena": "Jumbo",
-   "precio": 2125.0,
-   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-ciruela-454gr/p",
-   "referencia": 4250.0,
-   "precio_2da": 3605.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.1,
-   "score": 2053,
-   "pr": {
-    "Carrefour": [
-     4025.0,
-     "https://www.carrefour.com.ar/mermelada-de-ciruela-la-campagnola-454-g/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
-    ],
-    "Jumbo": [
-     2125.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-ciruela-454gr/p"
-    ],
-    "ChangoMás": [
-     4189.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-ciruela-454g-2/p"
-    ],
-    "Comodín": [
-     3605.69,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-ciruela-x-454-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada de naranja La Campagnola 454 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381213/7793360131431_E01.jpg?v=638315050123500000",
-   "cadena": "Jumbo",
-   "precio": 2125.0,
-   "link": "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p",
-   "referencia": 4250.0,
-   "precio_2da": 3605.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.1,
-   "score": 2053,
-   "pr": {
-    "Carrefour": [
-     4025.0,
-     "https://www.carrefour.com.ar/mermelada-de-naranja-la-campagnola-454-g-79188/p"
-    ],
-    "Vea": [
-     3790.0,
-     "https://www.vea.com.ar/mermelada-la-campagnola-naranja-454gr/p"
-    ],
-    "Jumbo": [
-     2125.0,
-     "https://www.jumbo.com.ar/mermelada-la-campagnola-naranja-454gr/p"
-    ],
-    "ChangoMás": [
-     4189.0,
-     "https://www.masonline.com.ar/mermelada-la-campagnola-sabor-a-naranja-454gr-2/p"
-    ],
-    "Comodín": [
-     3605.69,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-naranja-x-454-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche Chocolatada Menos Azúcar 200 Ml Nesquik®",
-   "m": "NESQUIK",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922950/8445291395930.jpg?v=639214453214530000",
-   "cadena": "Jumbo",
-   "precio": 1200.0,
-   "link": "https://www.jumbo.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p",
-   "referencia": 2400.0,
-   "precio_2da": 2035.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 41.0,
-   "score": 2052,
-   "pr": {
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p"
-    ],
-    "Jumbo": [
-     1200.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-menos-azucar-200-ml-nesquik/p"
-    ],
-    "Carrefour": [
-     2035.0,
-     "https://www.carrefour.com.ar/nesquik-extra-cacao-chocolatada-listo-para-tomar-200-ml-740983/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Tresemme Liso Efecto Profesional 880 ml",
-   "m": "Tresemmé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/416851/7791293050133_01.jpg?v=638355808912900000",
-   "cadena": "ChangoMás",
-   "precio": 9167.4,
-   "link": "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p",
-   "referencia": 15279.0,
-   "precio_2da": 18800.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 51.2,
-   "score": 2049,
-   "pr": {
-    "Carrefour": [
-     18800.0,
-     "https://www.carrefour.com.ar/shampoo-tresemme-liso-efecto-profesional-880-ml-730392/p"
-    ],
-    "Jumbo": [
-     19550.0,
-     "https://www.jumbo.com.ar/shampoo-tresemme-liso-efecto-botox-880-ml/p"
-    ],
-    "ChangoMás": [
-     9167.4,
-     "https://www.masonline.com.ar/shampoo-tresemme-liso-efecto-botox-880ml-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mermelada BC La Campagnola frutilla 390 g.",
-   "m": "La Campagnola",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/381338/7793360131530_E01.jpg?v=638315050674870000",
-   "cadena": "Jumbo",
-   "precio": 2800.0,
-   "link": "https://www.jumbo.com.ar/mermelada-bc-frutilla-390gr/p",
-   "referencia": 5600.0,
-   "precio_2da": 4659.19,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.9,
-   "score": 1995,
-   "pr": {
-    "Carrefour": [
-     5199.0,
-     "https://www.carrefour.com.ar/mermelada-bc-la-campagnola-frutilla-390-g/p"
-    ],
-    "Vea": [
-     5490.0,
-     "https://www.vea.com.ar/mermelada-bc-frutilla-390gr/p"
-    ],
-    "Jumbo": [
-     2800.0,
-     "https://www.jumbo.com.ar/mermelada-bc-frutilla-390gr/p"
-    ],
-    "ChangoMás": [
-     4779.0,
-     "https://www.masonline.com.ar/mermelada-bc-de-frutilla-390gr-2/p"
-    ],
-    "Comodín": [
-     4659.19,
-     "https://www.comodinencasa.com.ar/mermelada-la-campagnola-b-c-frut-x-390/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino tinto Cabernet Sauvignon Emilia 750 ml",
-   "m": "Emilia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822151/7790070760760_02.jpg?v=639083181690030000",
-   "cadena": "Vea",
-   "precio": 4595.0,
-   "link": "https://www.vea.com.ar/vino-emilia-cabernet-sauvignon-750cc/p",
-   "referencia": 9190.0,
-   "precio_2da": 7532.79,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.0,
-   "score": 1950,
-   "pr": {
-    "Carrefour": [
-     9000.0,
-     "https://www.carrefour.com.ar/vino-tinto-emilia-cabernet-sauvignon-750-cc-721780/p"
-    ],
-    "Vea": [
-     4595.0,
-     "https://www.vea.com.ar/vino-emilia-cabernet-sauvignon-750cc/p"
-    ],
-    "Comodín": [
-     7532.79,
-     "https://www.comodinencasa.com.ar/vino-emilia-cabernet-sauvignon-x-750-cc/p"
-    ]
-   }
-  },
-  {
-   "n": "Chocolate Milka Oreo blanco 155 g.",
-   "m": "Milka",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/912656/7622300990213_01.jpg?v=639220560698400000",
-   "cadena": "Carrefour",
-   "precio": 4823.6,
-   "link": "https://www.carrefour.com.ar/chocolate-milka-oreo-blanco-155-g-601890/p",
-   "referencia": 7838.35,
-   "precio_2da": 9723.0,
-   "baja_pct": 38.5,
-   "brecha_pct": 50.4,
-   "score": 1938,
-   "pr": {
-    "Carrefour": [
-     4823.6,
-     "https://www.carrefour.com.ar/chocolate-milka-oreo-blanco-155-g-601890/p"
-    ],
-    "Vea": [
-     9723.0,
-     "https://www.vea.com.ar/chocolate-milka-oreo-blanco-155-gr-2/p"
-    ],
-    "Jumbo": [
-     10650.0,
-     "https://www.jumbo.com.ar/chocolate-milka-oreo-blanco-155-gr-2/p"
-    ],
-    "ChangoMás": [
-     12539.0,
-     "https://www.masonline.com.ar/chocolate-blanco-c-oreo-milka-155g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo BC La Campagnola limonada 7 g.",
-   "m": "BC",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/822139/7790580129941_02.jpg?v=639083181678770000",
-   "cadena": "Jumbo",
-   "precio": 225.0,
-   "link": "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p",
-   "referencia": 450.0,
-   "precio_2da": 352.59,
-   "baja_pct": 50.0,
-   "brecha_pct": 36.2,
-   "score": 1809,
-   "pr": {
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-bc-la-campagnola-limonada-7-g/p"
-    ],
-    "Vea": [
-     410.0,
-     "https://www.vea.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
-    "Jumbo": [
-     225.0,
-     "https://www.jumbo.com.ar/jugo-limonada-7-gr-bc/p"
-    ],
-    "Comodín": [
-     352.59,
-     "https://www.comodinencasa.com.ar/jugo-bc-limonada-sobr-x-9-3-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo en polvo Arcor de naranja mango 15 grs",
-   "m": "Arcor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817842/7790580143763_E02.jpg?v=639082514487970000",
-   "cadena": "Jumbo",
-   "precio": 250.0,
-   "link": "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p",
-   "referencia": 500.0,
-   "precio_2da": 389.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.7,
-   "score": 1787,
-   "pr": {
-    "Carrefour": [
-     389.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-mango-15-grs-750885/p"
-    ],
-    "Jumbo": [
-     250.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-mango-15gr/p"
-    ],
-    "ChangoMás": [
-     409.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-arcor-naranja-mango-15-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Lavandina Líquida 1 Lts Limpialin",
-   "m": "LIMPIALIN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/907413/7798238110204.jpg?v=639124621564270000",
-   "cadena": "Jumbo",
-   "precio": 623.4,
-   "link": "https://www.jumbo.com.ar/lavandina-limpialin-clasica-1lt/p",
-   "referencia": 1039.0,
-   "precio_2da": 1100.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 43.3,
-   "score": 1733,
-   "pr": {
-    "Vea": [
-     1190.0,
-     "https://www.vea.com.ar/lavandina-limpialin-clasica-1lt/p"
-    ],
-    "Jumbo": [
-     623.4,
-     "https://www.jumbo.com.ar/lavandina-limpialin-clasica-1lt/p"
-    ],
-    "Carrefour": [
-     1100.0,
-     "https://www.carrefour.com.ar/lavandina-original-limpialin-1-lt-745325/p"
-    ]
-   }
-  },
-  {
-   "n": "Caramelo Gomita Burger Xxl 28gr Gummi Zone",
-   "m": "GUMMI ZONE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/885527/Caramelo-Gomita-Burger-Xxl-28gr-Gummi-Zone-1-1048708.jpg?v=638949189978000000",
-   "cadena": "Carrefour",
-   "precio": 700.0,
-   "link": "https://www.carrefour.com.ar/gomitas-fun-zone-burger-xxl-28-grs-763143/p",
-   "referencia": 1310.0,
-   "precio_2da": 1113.0,
-   "baja_pct": 46.6,
-   "brecha_pct": 37.1,
-   "score": 1728,
-   "pr": {
-    "Vea": [
-     1113.0,
-     "https://www.vea.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p"
-    ],
-    "Jumbo": [
-     1600.0,
-     "https://www.jumbo.com.ar/caramelo-gomita-burger-xxl-28gr-gummi-zone/p"
-    ],
-    "Carrefour": [
-     700.0,
-     "https://www.carrefour.com.ar/gomitas-fun-zone-burger-xxl-28-grs-763143/p"
-    ],
-    "Comodín": [
-     1133.99,
-     "https://www.comodinencasa.com.ar/gomitas-gummi-zone-burger-28gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papa tradicional Mc cain 700 g.",
-   "m": "Mc Cain",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845817/7797906054826_01.jpg?v=639111875654470000",
-   "cadena": "ChangoMás",
-   "precio": 4367.4,
-   "link": "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p",
-   "referencia": 7789.0,
-   "precio_2da": 7138.59,
-   "baja_pct": 43.9,
-   "brecha_pct": 38.8,
-   "score": 1705,
-   "pr": {
-    "Carrefour": [
-     7789.0,
-     "https://www.carrefour.com.ar/papa-tradicional-mc-cain-700-g-724922/p"
-    ],
-    "Vea": [
-     7190.0,
-     "https://www.vea.com.ar/papas-clasicas-corte-tradicional-700-gr-mc-cain/p"
-    ],
-    "Comodín": [
-     7138.59,
-     "https://www.comodinencasa.com.ar/papas-mc-cain-corte-tradicional-x-720-g/p"
-    ],
-    "ChangoMás": [
-     4367.4,
-     "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-clasicas-corte-tradicional-700g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mix para tarta brocoli zanahoria y cebolla Green Life 500 grs",
-   "m": "Green Life",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/881626/7790670053149_02.jpg?v=639154101151400000",
-   "cadena": "Carrefour",
-   "precio": 4899.0,
-   "link": "https://www.carrefour.com.ar/mix-para-tarta-brocoli-zanahoria-y-cebolla-green-life-500-grs-779207/p",
-   "referencia": 8165.0,
-   "precio_2da": 8400.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.7,
-   "score": 1667,
-   "pr": {
-    "Carrefour": [
-     4899.0,
-     "https://www.carrefour.com.ar/mix-para-tarta-brocoli-zanahoria-y-cebolla-green-life-500-grs-779207/p"
-    ],
-    "Jumbo": [
-     8400.0,
-     "https://www.jumbo.com.ar/mix-tartas-green-life-brocoli-x-500-gr/p"
-    ],
-    "Comodín": [
-     8718.3,
-     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-ac-es-ce-pi-500gr/p"
+     "https://www.masonline.com.ar/vino-tinto-alaris-blend-750-ml/p"
     ]
    }
   },
@@ -1181,13 +224,13 @@
    "precio": 7999.0,
    "link": "https://www.comodinencasa.com.ar/acondicionador-johnsons-original-400ml/p",
    "referencia": 14609.99,
-   "precio_2da": 12545.0,
+   "precio_2da": 12990.0,
    "baja_pct": 45.2,
-   "brecha_pct": 36.2,
-   "score": 1640,
+   "brecha_pct": 38.4,
+   "score": 1739,
    "pr": {
     "Carrefour": [
-     12545.0,
+     12990.0,
      "https://www.carrefour.com.ar/acondicionador-para-bebe-johnson-s-original-400-ml-731845/p"
     ],
     "Vea": [
@@ -1216,13 +259,13 @@
    "precio": 7999.0,
    "link": "https://www.comodinencasa.com.ar/shampoo-johnsons-baby-original-400ml/p",
    "referencia": 14609.99,
-   "precio_2da": 12545.0,
+   "precio_2da": 12990.0,
    "baja_pct": 45.2,
-   "brecha_pct": 36.2,
-   "score": 1640,
+   "brecha_pct": 38.4,
+   "score": 1739,
    "pr": {
     "Carrefour": [
-     12545.0,
+     12990.0,
      "https://www.carrefour.com.ar/shampoo-johnsons-baby-original-400-cc-731855/p"
     ],
     "Jumbo": [
@@ -1240,87 +283,56 @@
    }
   },
   {
-   "n": "Galletitas pepas 9 de Oro 350 g.",
-   "m": "9 De Oro",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924151/7792180143280_E02.jpg?v=639240566481200000",
-   "cadena": "Comodín",
-   "precio": 1469.99,
-   "link": "https://www.comodinencasa.com.ar/galleta-9-de-oro-pepas-membrillo-x-380gr/p",
-   "referencia": 2038.39,
-   "precio_2da": 3489.0,
-   "baja_pct": 27.9,
-   "brecha_pct": 57.9,
-   "score": 1614,
-   "pr": {
-    "Carrefour": [
-     3489.0,
-     "https://www.carrefour.com.ar/galletitas-pepas-9-de-oro-350-g-724195/p"
-    ],
-    "Comodín": [
-     1469.99,
-     "https://www.comodinencasa.com.ar/galleta-9-de-oro-pepas-membrillo-x-380gr/p"
-    ],
-    "ChangoMás": [
-     3629.0,
-     "https://www.masonline.com.ar/pepas-9-de-oro-350gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Trapiche Fond De Cave Reserva Malbec 750 Cc",
-   "m": "FOND DE CAVE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/581055/Vino-Tinto-Trapiche-Fond-De-Cave-Reserva-Malbec-750-Cc-1-11393.jpg?v=637225176280300000",
-   "cadena": "Jumbo",
-   "precio": 7700.0,
-   "link": "https://www.jumbo.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p",
-   "referencia": 11550.0,
-   "precio_2da": 14790.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 47.9,
-   "score": 1598,
+   "n": "Cereal Cookie Crisp 180gr",
+   "m": "COOKIE CRISP",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/931697/7891000480151.jpg?v=639258735406430000",
+   "cadena": "ChangoMás",
+   "precio": 4181.4,
+   "link": "https://www.masonline.com.ar/cereal-nestle-cookie-crisp-180g/p",
+   "referencia": 6969.0,
+   "precio_2da": 7190.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.8,
+   "score": 1674,
    "pr": {
     "Vea": [
-     14790.0,
-     "https://www.vea.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p"
+     7190.0,
+     "https://www.vea.com.ar/cereal-cookie-crisp-180gr/p"
     ],
     "Jumbo": [
-     7700.0,
-     "https://www.jumbo.com.ar/vino-tinto-trapiche-fond-de-cave-reserva-malbec-750-cc/p"
-    ],
-    "Carrefour": [
-     14959.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-fond-de-cave-reserva-750-cc/p"
+     7400.0,
+     "https://www.jumbo.com.ar/cereal-cookie-crisp-180gr/p"
     ],
     "ChangoMás": [
-     14959.0,
-     "https://www.masonline.com.ar/vino-malbec-fond-de-cave-reserva-750-cc-2/p"
+     4181.4,
+     "https://www.masonline.com.ar/cereal-nestle-cookie-crisp-180g/p"
     ]
    }
   },
   {
-   "n": "Shampoo Voluminizador Pro-V Miracles 700 Ml Pantene",
-   "m": "PANTENE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865042/Shampoo-Pantene-Provmir-Volumen-700ml-Shampoo-Pro-v-Miracles-Volumizador-X-700-Ml-Pantene-1-1036876.jpg?v=638809545756330000",
-   "cadena": "Comodín",
-   "precio": 10999.0,
-   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-pro-v-miracle-vol-700ml/p",
-   "referencia": 17991.99,
-   "precio_2da": 18649.0,
-   "baja_pct": 38.9,
-   "brecha_pct": 41.0,
-   "score": 1594,
+   "n": "Mix Parrilla Sabor Chimichurri Ahumado 25 Grs Alicante",
+   "m": "ALICANTE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/898523/Mix-Parrilla-Chimichurri-Ahumado-X-25-Grs-Alicante-1-1054477.jpg?v=639070257762170000",
+   "cadena": "Vea",
+   "precio": 954.0,
+   "link": "https://www.vea.com.ar/mix-parrilla-chimichurri-ahumado-x-25-grs-alicante/p",
+   "referencia": 1590.0,
+   "precio_2da": 1639.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.8,
+   "score": 1672,
    "pr": {
     "Vea": [
-     18790.0,
-     "https://www.vea.com.ar/shampoo-pro-v-miracles-volumizador-x-700-ml-pantene/p"
-    ],
-    "Carrefour": [
-     18649.0,
-     "https://www.carrefour.com.ar/shampoo-pantene-pro-v-miracles-volumen-700-ml-758038/p"
+     954.0,
+     "https://www.vea.com.ar/mix-parrilla-chimichurri-ahumado-x-25-grs-alicante/p"
     ],
     "Comodín": [
-     10999.0,
-     "https://www.comodinencasa.com.ar/shampoo-pantene-pro-v-miracle-vol-700ml/p"
+     2163.19,
+     "https://www.comodinencasa.com.ar/mix-parrilla-alicante-chimichur-ahu-25g/p"
+    ],
+    "ChangoMás": [
+     1639.0,
+     "https://www.masonline.com.ar/mix-para-chimichurri-alicante-25g/p"
     ]
    }
   },
@@ -1332,10 +344,10 @@
    "precio": 10999.0,
    "link": "https://www.comodinencasa.com.ar/acondicionador-pantene-detox-700ml/p",
    "referencia": 17991.99,
-   "precio_2da": 18649.0,
+   "precio_2da": 19290.0,
    "baja_pct": 38.9,
-   "brecha_pct": 41.0,
-   "score": 1594,
+   "brecha_pct": 43.0,
+   "score": 1671,
    "pr": {
     "Comodín": [
      10999.0,
@@ -1346,178 +358,244 @@
      "https://www.masonline.com.ar/acondicionador-pantene-detox-700ml-2/p"
     ],
     "Carrefour": [
-     18649.0,
+     19290.0,
      "https://www.carrefour.com.ar/pantene-pro-v-miracles-detox-limpia-purifica-acondicionador-hidratante-700-ml-723890/p"
     ]
    }
   },
   {
-   "n": "Zorro Lavavajillas Limón 500 ml",
-   "m": "Zorro",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/776911/7790990999868_01.jpg?v=639005494222670000",
+   "n": "Shampoo Elvive Glycolic Gloss 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/978017/7509552937343_01.jpg?v=639288989107270000",
    "cadena": "ChangoMás",
-   "precio": 1676.35,
-   "link": "https://www.masonline.com.ar/lavavajillas-zorro-ultra-limon-500-ml-2/p",
-   "referencia": 2579.0,
-   "precio_2da": 3075.0,
-   "baja_pct": 35.0,
-   "brecha_pct": 45.5,
-   "score": 1592,
+   "precio": 3669.5,
+   "link": "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p",
+   "referencia": 5504.25,
+   "precio_2da": 7349.0,
+   "baja_pct": 33.3,
+   "brecha_pct": 50.1,
+   "score": 1669,
    "pr": {
     "Carrefour": [
-     3075.0,
-     "https://www.carrefour.com.ar/zorro-lavavajillas-limon-500-ml-677336/p"
+     7349.0,
+     "https://www.carrefour.com.ar/shampoo-elvive-glycolic-gloss-200-ml-743376/p"
     ],
-    "Jumbo": [
-     3350.0,
-     "https://www.jumbo.com.ar/detergente-lavavajilas-limon-500-ml-zorro/p"
+    "Comodín": [
+     10087.99,
+     "https://www.comodinencasa.com.ar/shampoo-elvive-glycolic-gloss-200ml/p"
     ],
     "ChangoMás": [
-     1676.35,
-     "https://www.masonline.com.ar/lavavajillas-zorro-ultra-limon-500-ml-2/p"
+     3669.5,
+     "https://www.masonline.com.ar/shampoo-elvive-glycolic-gloss-200ml-2/p"
     ]
    }
   },
   {
-   "n": "Jabón líquido Algabo green tea repuesto 300 cc.",
-   "m": "Algabo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/308148/7791274196041_01.jpg?v=638140725058330000",
-   "cadena": "Jumbo",
-   "precio": 1533.34,
-   "link": "https://www.jumbo.com.ar/repuesto-jabon-liquido-green-tea-300-ml-algabo/p",
-   "referencia": 3550.0,
-   "precio_2da": 2126.79,
-   "baja_pct": 56.8,
-   "brecha_pct": 27.9,
-   "score": 1585,
+   "n": "Shampoo Equilibrio Raíz y Puntas 700 Ml Pantene",
+   "m": "PANTENE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/815524/Pantene-Pro-v-Miracles-Equilibrio-Ra-z-Puntas-Shampoo-Equilibrante-700-Ml-1-978403.jpg?v=638464701834700000",
+   "cadena": "Comodín",
+   "precio": 10999.0,
+   "link": "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p",
+   "referencia": 17991.99,
+   "precio_2da": 18649.0,
+   "baja_pct": 38.9,
+   "brecha_pct": 41.0,
+   "score": 1594,
+   "pr": {
+    "Jumbo": [
+     19500.0,
+     "https://www.jumbo.com.ar/shampoo-equilibrante-equilibrio-raiz-y-puntas-700-ml-pantene/p"
+    ],
+    "ChangoMás": [
+     18649.0,
+     "https://www.masonline.com.ar/acondicionador-pantene-equilibrio-700ml-2/p"
+    ],
+    "Comodín": [
+     10999.0,
+     "https://www.comodinencasa.com.ar/shampoo-pantene-equilibrio-700ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Aerosol Desinfectante de Ambientes y Superficies Cif Original 360 ml",
+   "m": "Cif",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922048/7791290795778_01.jpg?v=639238750419000000",
+   "cadena": "Comodín",
+   "precio": 2494.43,
+   "link": "https://www.comodinencasa.com.ar/desinfectante-cif-original-aero-360ml/p",
+   "referencia": 3837.59,
+   "precio_2da": 4490.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.4,
+   "score": 1556,
    "pr": {
     "Carrefour": [
-     2150.0,
-     "https://www.carrefour.com.ar/jabon-liquido-algabo-green-tea-repuesto-300-cc/p"
+     4490.0,
+     "https://www.carrefour.com.ar/aerosol-desinfectante-de-ambientes-y-superficies-cif-original-360-ml-738554/p"
+    ],
+    "Jumbo": [
+     4650.0,
+     "https://www.jumbo.com.ar/aerosol-desinfectante-ambientes-y-superficies-cif-original-360-cm3/p"
+    ],
+    "Comodín": [
+     2494.43,
+     "https://www.comodinencasa.com.ar/desinfectante-cif-original-aero-360ml/p"
+    ],
+    "ChangoMás": [
+     4649.0,
+     "https://www.masonline.com.ar/desinfectante-en-aerosol-cif-original-x-260gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Aerosol Desinfectante de Ambientes y Superficies Cif Lavanda 360 ml",
+   "m": "Cif",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/923901/7791290795785_01.jpg?v=639240409674100000",
+   "cadena": "Comodín",
+   "precio": 2494.43,
+   "link": "https://www.comodinencasa.com.ar/desinfectante-cif-lavanda-aero-360ml/p",
+   "referencia": 3837.59,
+   "precio_2da": 4490.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.4,
+   "score": 1556,
+   "pr": {
+    "Carrefour": [
+     4490.0,
+     "https://www.carrefour.com.ar/aerosol-desinfectante-de-ambientes-y-superficies-cif-lavanda-360-ml-738555/p"
     ],
     "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/repuesto-jabon-liquido-green-tea-300-ml-algabo/p"
+     4490.0,
+     "https://www.vea.com.ar/aerosol-desinfectante-ambientes-y-superficies-cif-lavanda-360-cm3/p"
     ],
     "Jumbo": [
-     1533.34,
-     "https://www.jumbo.com.ar/repuesto-jabon-liquido-green-tea-300-ml-algabo/p"
+     4650.0,
+     "https://www.jumbo.com.ar/aerosol-desinfectante-ambientes-y-superficies-cif-lavanda-360-cm3/p"
     ],
     "Comodín": [
-     2126.79,
-     "https://www.comodinencasa.com.ar/jabon-algabo-liq-green-tea-dp-300ml/p"
+     2494.43,
+     "https://www.comodinencasa.com.ar/desinfectante-cif-lavanda-aero-360ml/p"
     ]
    }
   },
   {
-   "n": "Chocolate Cadbury Tres Sueños 82 Gr",
-   "m": "CADBURY",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/923974/7622201818739.jpg?v=639223214602700000",
-   "cadena": "ChangoMás",
-   "precio": 4643.4,
-   "link": "https://www.masonline.com.ar/chocolate-cadbury-tres-suenos-82g-2/p",
-   "referencia": 7739.0,
-   "precio_2da": 7659.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.4,
-   "score": 1575,
-   "pr": {
-    "Jumbo": [
-     8350.0,
-     "https://www.jumbo.com.ar/chocolate-cadbury-tres-suenos-82-gr-2/p"
-    ],
-    "ChangoMás": [
-     4643.4,
-     "https://www.masonline.com.ar/chocolate-cadbury-tres-suenos-82g-2/p"
-    ],
-    "Carrefour": [
-     7659.0,
-     "https://www.carrefour.com.ar/chocolate-cadbury-tres-suenos-82-g-680436/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Tio Nacho Keratina Vegetal 415 ml",
-   "m": "Tío Nacho",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/847519/650240077517_01.jpg?v=639117675033030000",
-   "cadena": "Jumbo",
-   "precio": 6375.0,
-   "link": "https://www.jumbo.com.ar/acondicionador-keratina-vegetal-x-415-ml-tio-nacho/p",
-   "referencia": 9562.5,
-   "precio_2da": 11900.0,
-   "baja_pct": 33.3,
-   "brecha_pct": 46.4,
-   "score": 1548,
-   "pr": {
-    "Carrefour": [
-     11900.0,
-     "https://www.carrefour.com.ar/acondicionador-tio-nacho-keratina-vegetal-415-ml-777814/p"
-    ],
-    "Jumbo": [
-     6375.0,
-     "https://www.jumbo.com.ar/acondicionador-keratina-vegetal-x-415-ml-tio-nacho/p"
-    ],
-    "Comodín": [
-     12856.49,
-     "https://www.comodinencasa.com.ar/acondicionador-tio-nacho-vegetal-415ml/p"
-    ],
-    "ChangoMás": [
-     12379.0,
-     "https://www.masonline.com.ar/acondicionador-tio-nacho-reparacion-profunda-415-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Tableta de chocolate Shot con leche y maní 90 grs",
-   "m": "Shot",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/805611/7622202333255_E01.jpg?v=639081547201500000",
-   "cadena": "ChangoMás",
-   "precio": 3881.4,
-   "link": "https://www.masonline.com.ar/chocolate-con-mani-shot-90-gr-2/p",
-   "referencia": 6469.0,
-   "precio_2da": 6219.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.6,
-   "score": 1504,
-   "pr": {
-    "Carrefour": [
-     6219.0,
-     "https://www.carrefour.com.ar/tableta-de-chocolate-shot-con-leche-y-mani-90-grs-773827/p"
-    ],
-    "Jumbo": [
-     6800.0,
-     "https://www.jumbo.com.ar/chocolate-con-mani-x-90-grs-shot/p"
-    ],
-    "ChangoMás": [
-     3881.4,
-     "https://www.masonline.com.ar/chocolate-con-mani-shot-90-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Toallitas Humedas Q-Soft Clásicas 40 U",
-   "m": "Q-Soft",
-   "i": "https://masonlineprod.vteximg.com.br/arquivos/ids/318167/Toallitas-Humedas-Q-Soft-Cl-sicas-40-U-1-55360.jpg?v=638457897894100000",
+   "n": "Chicles Beldent Infinit menta 13,3 g.",
+   "m": "Beldent",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/916024/7622201421496_E01.jpg?v=639227572917070000",
    "cadena": "Carrefour",
-   "precio": 2664.35,
-   "link": "https://www.carrefour.com.ar/toallitas-humedas-q-soft-clasicas-40-uni-726040/p",
-   "referencia": 4099.0,
-   "precio_2da": 4669.59,
-   "baja_pct": 35.0,
-   "brecha_pct": 42.9,
-   "score": 1503,
+   "precio": 718.25,
+   "link": "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p",
+   "referencia": 1349.0,
+   "precio_2da": 1072.5,
+   "baja_pct": 46.8,
+   "brecha_pct": 33.0,
+   "score": 1544,
    "pr": {
-    "ChangoMás": [
-     4679.0,
-     "https://www.masonline.com.ar/toallitas-humedas-q-soft-clasicas-40-u-2/p"
-    ],
     "Carrefour": [
-     2664.35,
-     "https://www.carrefour.com.ar/toallitas-humedas-q-soft-clasicas-40-uni-726040/p"
+     718.25,
+     "https://www.carrefour.com.ar/chicles-beldent-infinit-menta-13-3-g/p"
+    ],
+    "Vea": [
+     1490.0,
+     "https://www.vea.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ],
+    "Jumbo": [
+     1072.5,
+     "https://www.jumbo.com.ar/chicles-beldent-infinit-menta-13-3-gr-2/p"
+    ],
+    "ChangoMás": [
+     1479.0,
+     "https://www.masonline.com.ar/chicle-beldent-infinit-menta-13-3g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Limpiador para Vidrios y Multiuso Expert 450 Ml Cif",
+   "m": "CIF",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/935293/14230101028.jpg?v=639282820072170000",
+   "cadena": "Comodín",
+   "precio": 1391.9,
+   "link": "https://www.comodinencasa.com.ar/limpiador-cif-expert-vidrios-ym-dp-450ml/p",
+   "referencia": 2141.39,
+   "precio_2da": 2490.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.1,
+   "score": 1544,
+   "pr": {
+    "Vea": [
+     2490.0,
+     "https://www.vea.com.ar/limpiador-vidrios-y-multiuso-expert-cif-doypack-450-ml/p"
+    ],
+    "Jumbo": [
+     2600.0,
+     "https://www.jumbo.com.ar/limpiador-vidrios-y-multiuso-expert-cif-doypack-450-ml/p"
     ],
     "Comodín": [
-     4669.59,
-     "https://www.comodinencasa.com.ar/toallas-humeda-q-soft-flow-clasica-40-un/p"
+     1391.9,
+     "https://www.comodinencasa.com.ar/limpiador-cif-expert-vidrios-ym-dp-450ml/p"
+    ],
+    "ChangoMás": [
+     2609.0,
+     "https://www.masonline.com.ar/limpia-vidrios-y-multiuso-cif-450ml-2/p"
+    ],
+    "Carrefour": [
+     2509.0,
+     "https://www.carrefour.com.ar/limpiador-vidrios-y-multiuso-cif-expert-doypack-450-ml-730364/p"
+    ]
+   }
+  },
+  {
+   "n": "Papas crinkle Mc cain en bolsa 600 g.",
+   "m": "Mc Cain",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845818/7797906054833_01.jpg?v=639111876190570000",
+   "cadena": "ChangoMás",
+   "precio": 5027.4,
+   "link": "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-gourmet-corte-crinckle-600g-2/p",
+   "referencia": 8379.0,
+   "precio_2da": 8150.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.3,
+   "score": 1533,
+   "pr": {
+    "Carrefour": [
+     8150.0,
+     "https://www.carrefour.com.ar/papas-crinkle-mc-cain-en-bolsa-600-g-724920/p"
+    ],
+    "Vea": [
+     8590.0,
+     "https://www.vea.com.ar/papas-gourmet-mc-cain-corte-crinkle-600-gr/p"
+    ],
+    "ChangoMás": [
+     5027.4,
+     "https://www.masonline.com.ar/papas-fritas-baston-mc-cain-gourmet-corte-crinckle-600g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Café au Lait Sabor Vainilla 110 Grs x 10 Un Dolce Gusto",
+   "m": "DOLCE GUSTO",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/875652/Capsulas-De-Cafe-Au-Lait-Vainilla-X-110-Gr-Dolce-Gusto-1-1037950.jpg?v=638872404284600000",
+   "cadena": "Jumbo",
+   "precio": 10320.0,
+   "link": "https://www.jumbo.com.ar/capsulas-cafe-au-lait-vainilla-110-grs-dolce-gusto/p",
+   "referencia": 17200.0,
+   "precio_2da": 16639.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Jumbo": [
+     10320.0,
+     "https://www.jumbo.com.ar/capsulas-cafe-au-lait-vainilla-110-grs-dolce-gusto/p"
+    ],
+    "ChangoMás": [
+     16639.0,
+     "https://www.masonline.com.ar/cafe-en-capsulas-nescafe-dolce-gusto-cafe-au-lait-vainilla-10-u/p"
+    ],
+    "Carrefour": [
+     16639.0,
+     "https://www.carrefour.com.ar/nescafe-dolce-gusto-cafe-au-lait-vainilla-10-uni-762388/p"
     ]
    }
   }
