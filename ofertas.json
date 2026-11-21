@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-20",
- "actualizado": "2026-11-20 17:31",
+ "fecha": "2026-11-21",
+ "actualizado": "2026-11-21 20:42",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-11-10",
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
@@ -19,9 +18,10 @@
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
- "total": 44,
+ "total": 33,
  "ofertas": [
   {
    "n": "Aromatizante Placer Floral Y Frutos Rojos Minigel 70 Gr Glade",
@@ -31,10 +31,10 @@
    "precio": 2300.0,
    "link": "https://www.jumbo.com.ar/aromatizante-placer-floral-y-frutos-rojos-minigel-70-gr-glade/p",
    "referencia": 5400.0,
-   "precio_2da": 4972.29,
+   "precio_2da": 5219.0,
    "baja_pct": 57.4,
-   "brecha_pct": 53.7,
-   "score": 3085,
+   "brecha_pct": 55.9,
+   "score": 3211,
    "pr": {
     "Vea": [
      5290.0,
@@ -45,7 +45,7 @@
      "https://www.jumbo.com.ar/aromatizante-placer-floral-y-frutos-rojos-minigel-70-gr-glade/p"
     ],
     "Comodín": [
-     4972.29,
+     5302.99,
      "https://www.comodinencasa.com.ar/aromatizante-glade-frut-roj-minigel-70gr/p"
     ],
     "ChangoMás": [
@@ -55,33 +55,6 @@
     "Carrefour": [
      5219.0,
      "https://www.carrefour.com.ar/aromatizante-de-ambientes-glade-mini-gel-hogar-placer-floral-y-frutos-rojos-70-g-653113/p"
-    ]
-   }
-  },
-  {
-   "n": "Pastillas De Goma Fantasía Mogul Monstruitos 30 Gr",
-   "m": "MOGUL",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835253/11852343002.jpg?v=638623485931570000",
-   "cadena": "Carrefour",
-   "precio": 281.7,
-   "link": "https://www.carrefour.com.ar/gomitas-mostruitos-mogul-haloween-30-g-747484/p",
-   "referencia": 939.0,
-   "precio_2da": 450.0,
-   "baja_pct": 70.0,
-   "brecha_pct": 37.4,
-   "score": 2618,
-   "pr": {
-    "Jumbo": [
-     450.0,
-     "https://www.jumbo.com.ar/pastillas-de-goma-fantasia-mogul-monstruitos-30-gr/p"
-    ],
-    "Carrefour": [
-     281.7,
-     "https://www.carrefour.com.ar/gomitas-mostruitos-mogul-haloween-30-g-747484/p"
-    ],
-    "ChangoMás": [
-     899.0,
-     "https://www.masonline.com.ar/gomitas-mogul-monstruitos-halloween-sabor-frutal-30-g/p"
     ]
    }
   },
@@ -113,60 +86,29 @@
    }
   },
   {
-   "n": "Gomitas Palote Pinta Lengua X 80 Grs Arcor",
-   "m": "HALLOWEEN",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/883201/Gomitas-Palote-Pinta-Lengua-X-80-Grs-Arcor-3-1047740.jpg?v=638931261668200000",
+   "n": "Pastillas De Goma Fantasía Mogul Monstruitos 30 Gr",
+   "m": "MOGUL",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/835253/11852343002.jpg?v=638623485931570000",
    "cadena": "Carrefour",
-   "precio": 565.5,
-   "link": "https://www.carrefour.com.ar/caramelos-masticables-mogul-halloween-palotes-80-grs-767974/p",
-   "referencia": 1885.0,
-   "precio_2da": 895.0,
-   "baja_pct": 70.0,
-   "brecha_pct": 36.8,
-   "score": 2577,
+   "precio": 281.7,
+   "link": "https://www.carrefour.com.ar/gomitas-mostruitos-mogul-haloween-30-g-747484/p",
+   "referencia": 899.0,
+   "precio_2da": 450.0,
+   "baja_pct": 68.7,
+   "brecha_pct": 37.4,
+   "score": 2568,
    "pr": {
-    "Vea": [
-     895.0,
-     "https://www.vea.com.ar/gomitas-palote-pinta-lengua-x-80-grs-arcor/p"
-    ],
     "Jumbo": [
-     1000.0,
-     "https://www.jumbo.com.ar/gomitas-palote-pinta-lengua-x-80-grs-arcor/p"
+     450.0,
+     "https://www.jumbo.com.ar/pastillas-de-goma-fantasia-mogul-monstruitos-30-gr/p"
     ],
     "Carrefour": [
-     565.5,
-     "https://www.carrefour.com.ar/caramelos-masticables-mogul-halloween-palotes-80-grs-767974/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo En Polvo Verao Naranja 7gr",
-   "m": "VERAO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/775668/Jugo-En-Polvo-Verao-Naranja-7gr-1-941067.jpg?v=638163166846800000",
-   "cadena": "Vea",
-   "precio": 145.0,
-   "link": "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-7gr/p",
-   "referencia": 290.0,
-   "precio_2da": 289.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.8,
-   "score": 2491,
-   "pr": {
-    "Vea": [
-     145.0,
-     "https://www.vea.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
-    ],
-    "Jumbo": [
-     300.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-verao-naranja-7gr/p"
+     281.7,
+     "https://www.carrefour.com.ar/gomitas-mostruitos-mogul-haloween-30-g-747484/p"
     ],
     "ChangoMás": [
-     289.0,
-     "https://www.masonline.com.ar/verao-jugo-en-polvo-naranja-7g-2/p"
-    ],
-    "Carrefour": [
-     310.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-verao-naranja-7-g-rinde-1-l-711446/p"
+     899.0,
+     "https://www.masonline.com.ar/gomitas-mogul-monstruitos-halloween-sabor-frutal-30-g/p"
     ]
    }
   },
@@ -194,60 +136,6 @@
     "Carrefour": [
      3600.0,
      "https://www.carrefour.com.ar/ravioles-villa-d-agri-cuatro-queso-500-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Jugo Bc Manzana 1 L",
-   "m": "LA CAMPAGNOLA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/584810/Jugo-Bc-Manzana-1-L-1-248936.jpg?v=637249362314830000",
-   "cadena": "Jumbo",
-   "precio": 1175.0,
-   "link": "https://www.jumbo.com.ar/jugo-bc-manzana-1-l/p",
-   "referencia": 2350.0,
-   "precio_2da": 2190.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.3,
-   "score": 2317,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/jugo-bc-manzana-1-l/p"
-    ],
-    "Jumbo": [
-     1175.0,
-     "https://www.jumbo.com.ar/jugo-bc-manzana-1-l/p"
-    ],
-    "Carrefour": [
-     2190.0,
-     "https://www.carrefour.com.ar/jugo-listo-bc-sabor-manzana-brick-1-l-776745/p"
-    ]
-   }
-  },
-  {
-   "n": "Suavizante para Ropa Oriental 3 Lts Zorro",
-   "m": "ZORRO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/892932/Suavizante-Zorro-Oriental-Dp-3lts-1-999651.jpg?v=639003731552630000",
-   "cadena": "Jumbo",
-   "precio": 6825.0,
-   "link": "https://www.jumbo.com.ar/suavizante-zorro-oriental-dp-3lts/p",
-   "referencia": 13450.0,
-   "precio_2da": 12739.0,
-   "baja_pct": 49.3,
-   "brecha_pct": 46.4,
-   "score": 2287,
-   "pr": {
-    "Vea": [
-     13390.0,
-     "https://www.vea.com.ar/suavizante-zorro-oriental-dp-3lts/p"
-    ],
-    "Jumbo": [
-     6825.0,
-     "https://www.jumbo.com.ar/suavizante-zorro-oriental-dp-3lts/p"
-    ],
-    "ChangoMás": [
-     12739.0,
-     "https://www.masonline.com.ar/suavizante-oriental-zorro-dp-3-l-2/p"
     ]
    }
   },
@@ -302,122 +190,6 @@
     "Carrefour": [
      1488.0,
      "https://www.carrefour.com.ar/tableta-de-chocolate-con-mani-full-mani-90-grs-779494/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Kids Sabor Chicle 350 Ml Algabo",
-   "m": "ALGABO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/862713/Shampoo-Chicle-350-Ml-Kids-Algabo-1-101223.jpg?v=638797450283970000",
-   "cadena": "Jumbo",
-   "precio": 2225.0,
-   "link": "https://www.jumbo.com.ar/shampoo-chicle-350-ml-kids-algabo/p",
-   "referencia": 4450.0,
-   "precio_2da": 3569.15,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.7,
-   "score": 1883,
-   "pr": {
-    "Vea": [
-     3569.15,
-     "https://www.vea.com.ar/shampoo-chicle-350-ml-kids-algabo/p"
-    ],
-    "Jumbo": [
-     2225.0,
-     "https://www.jumbo.com.ar/shampoo-chicle-350-ml-kids-algabo/p"
-    ],
-    "Comodín": [
-     4136.09,
-     "https://www.comodinencasa.com.ar/shampoo-algabo-kids-chicle-350ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Protector Diario Linita Anatomica X20",
-   "m": "LINA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/844063/Protector-Diario-Lina-Anatomica-X20u-1-1017713.jpg?v=638660722221900000",
-   "cadena": "Jumbo",
-   "precio": 600.0,
-   "link": "https://www.jumbo.com.ar/protector-diario-lina-anatomica-x20u/p",
-   "referencia": 1000.0,
-   "precio_2da": 1131.75,
-   "baja_pct": 40.0,
-   "brecha_pct": 47.0,
-   "score": 1879,
-   "pr": {
-    "Jumbo": [
-     600.0,
-     "https://www.jumbo.com.ar/protector-diario-lina-anatomica-x20u/p"
-    ],
-    "ChangoMás": [
-     1131.75,
-     "https://www.masonline.com.ar/protectores-diarios-lina-anatomicos-20-u/p"
-    ],
-    "Carrefour": [
-     1209.0,
-     "https://www.carrefour.com.ar/protector-diario-lina-anatomica-20-uni-737296/p"
-    ]
-   }
-  },
-  {
-   "n": "Gaseosa cola Pepsi Black pet 2 lts",
-   "m": "Pepsi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/792263/7791813828464_E01.jpg?v=639045460332030000",
-   "cadena": "ChangoMás",
-   "precio": 1433.4,
-   "link": "https://www.masonline.com.ar/gaseosa-pepsi-black-sin-azucar-2-l-2/p",
-   "referencia": 2939.0,
-   "precio_2da": 2220.0,
-   "baja_pct": 51.2,
-   "brecha_pct": 35.4,
-   "score": 1815,
-   "pr": {
-    "Carrefour": [
-     2633.46,
-     "https://www.carrefour.com.ar/gaseosa-cola-pepsi-black-pet-2-lts-746702/p"
-    ],
-    "Vea": [
-     2550.0,
-     "https://www.vea.com.ar/gaseosa-pepsi-black-2-l/p"
-    ],
-    "Jumbo": [
-     2220.0,
-     "https://www.jumbo.com.ar/gaseosa-pepsi-black-2-l/p"
-    ],
-    "ChangoMás": [
-     1433.4,
-     "https://www.masonline.com.ar/gaseosa-pepsi-black-sin-azucar-2-l-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas Surtido Bagley 400 Gr",
-   "m": "SURTIDO",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/846372/Galletitas-Surtido-Bagley-400-Gr-1-1023523.jpg?v=638676597703270000",
-   "cadena": "Vea",
-   "precio": 1660.01,
-   "link": "https://www.vea.com.ar/galletitas-surtido-bagley-400-gr-2/p",
-   "referencia": 3590.0,
-   "precio_2da": 2500.01,
-   "baja_pct": 53.8,
-   "brecha_pct": 33.6,
-   "score": 1806,
-   "pr": {
-    "Vea": [
-     1660.01,
-     "https://www.vea.com.ar/galletitas-surtido-bagley-400-gr-2/p"
-    ],
-    "Jumbo": [
-     2500.01,
-     "https://www.jumbo.com.ar/galletitas-surtido-bagley-400-gr-2/p"
-    ],
-    "ChangoMás": [
-     3679.0,
-     "https://www.masonline.com.ar/galletitas-bagley-surtido-400g-2/p"
-    ],
-    "Carrefour": [
-     3679.0,
-     "https://www.carrefour.com.ar/galletitas-surtidas-bagley-en-bolsa-400-g-745439/p"
     ]
    }
   },
@@ -484,12 +256,12 @@
    }
   },
   {
-   "n": "Jugo Clight Pomelada Hibiscus 8 grs",
+   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
    "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814894/7622202359934_E01.jpg?v=639082506742500000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
    "cadena": "Vea",
    "precio": 312.0,
-   "link": "https://www.vea.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p",
+   "link": "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p",
    "referencia": 540.0,
    "precio_2da": 541.0,
    "baja_pct": 42.2,
@@ -498,54 +270,19 @@
    "pr": {
     "Carrefour": [
      560.0,
-     "https://www.carrefour.com.ar/jugo-clight-pomelada-hibiscus-8-grs-767578/p"
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
     ],
     "Vea": [
      312.0,
-     "https://www.vea.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
     ],
     "Jumbo": [
      541.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-pomelada-hibiscus-8-grs-clight/p"
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
     ],
     "ChangoMás": [
      549.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-pomelada-hibiscus-8-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Vino Tinto Malbec 750 Ml Alma Mora",
-   "m": "ALMA MORA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/921744/Vino-Alma-Mora-Select-Reserve-Malbec-750ml-1-1061493.jpg?v=639195861754330000",
-   "cadena": "ChangoMás",
-   "precio": 5399.0,
-   "link": "https://www.masonline.com.ar/vino-malbec-alma-mora-reserva-x750cc-2/p",
-   "referencia": 10419.0,
-   "precio_2da": 8540.49,
-   "baja_pct": 48.2,
-   "brecha_pct": 36.8,
-   "score": 1772,
-   "pr": {
-    "Vea": [
-     9590.0,
-     "https://www.vea.com.ar/vino-alma-mora-select-reserve-malbec-750ml-2/p"
-    ],
-    "Jumbo": [
-     10000.0,
-     "https://www.jumbo.com.ar/vino-alma-mora-select-reserve-malbec-750ml-2/p"
-    ],
-    "Carrefour": [
-     10419.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-alma-mora-reserva-750-cc/p"
-    ],
-    "Comodín": [
-     8540.49,
-     "https://www.comodinencasa.com.ar/vino-alma-mora-reserva-malbec-x-750cc/p"
-    ],
-    "ChangoMás": [
-     5399.0,
-     "https://www.masonline.com.ar/vino-malbec-alma-mora-reserva-x750cc-2/p"
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
     ]
    }
   },
@@ -566,6 +303,10 @@
      3190.0,
      "https://www.vea.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
     ],
+    "Jumbo": [
+     3250.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-meditarrea-x-25-grs-maggi/p"
+    ],
     "Carrefour": [
      1710.0,
      "https://www.carrefour.com.ar/bolsa-para-horno-maggi-mediterraneo-25-grs-777258/p"
@@ -573,64 +314,6 @@
     "ChangoMás": [
      3069.0,
      "https://www.masonline.com.ar/bolsa-para-horno-maggi-mediterraneo-25-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Papel higiénico hoja simple aloe vera Elegante 24 x 30 m.",
-   "m": "Elegante",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/971305/7793344009190_02.jpg?v=639283758755970000",
-   "cadena": "Vea",
-   "precio": 5103.0,
-   "link": "https://www.vea.com.ar/papel-higienico-elegante-simple-hoja-aloe-vera-12x30m/p",
-   "referencia": 7290.0,
-   "precio_2da": 12035.0,
-   "baja_pct": 30.0,
-   "brecha_pct": 57.6,
-   "score": 1728,
-   "pr": {
-    "Carrefour": [
-     12035.0,
-     "https://www.carrefour.com.ar/papel-higienico-hoja-simple-aloe-vera-elegante-24-x-30-m/p"
-    ],
-    "ChangoMás": [
-     12249.0,
-     "https://www.masonline.com.ar/papel-higienico-elegante-blanco-24-rollos-x-30mts-2/p"
-    ],
-    "Vea": [
-     5103.0,
-     "https://www.vea.com.ar/papel-higienico-elegante-simple-hoja-aloe-vera-12x30m/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas Pepitos con chips de chocolate 119 g.",
-   "m": "Pepitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924076/7622201735906_E01.jpg?v=639240550099270000",
-   "cadena": "Vea",
-   "precio": 1126.67,
-   "link": "https://www.vea.com.ar/galletitas-pepitos-con-chips-de-chocolate-119-gr-2/p",
-   "referencia": 2490.0,
-   "precio_2da": 1634.01,
-   "baja_pct": 54.8,
-   "brecha_pct": 31.0,
-   "score": 1700,
-   "pr": {
-    "Carrefour": [
-     2390.0,
-     "https://www.carrefour.com.ar/galletitas-pepitos-con-chips-de-chocolate-119-g-715953/p"
-    ],
-    "Vea": [
-     1126.67,
-     "https://www.vea.com.ar/galletitas-pepitos-con-chips-de-chocolate-119-gr-2/p"
-    ],
-    "Jumbo": [
-     1634.01,
-     "https://www.jumbo.com.ar/galletitas-pepitos-con-chips-de-chocolate-119-gr-2/p"
-    ],
-    "Comodín": [
-     2451.29,
-     "https://www.comodinencasa.com.ar/galleta-pepitos-x-118-gr/p"
     ]
    }
   },
@@ -658,33 +341,6 @@
     "Jumbo": [
      23850.0,
      "https://www.jumbo.com.ar/leche-polvo-fortigrow-0-porciento-lactosa-750-grs-nido/p"
-    ]
-   }
-  },
-  {
-   "n": "Acondicionador Tresemme Brillo Lamelar 250 Ml",
-   "m": "TRESEMMÉ",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/802922/Acondicionador-Tresemme-Brillo-Lamelar-250-Ml-1-1000574.jpg?v=638375620344530000",
-   "cadena": "Jumbo",
-   "precio": 2475.0,
-   "link": "https://www.jumbo.com.ar/acondicionador-tresemme-brillo-lamelar-250-ml/p",
-   "referencia": 4125.0,
-   "precio_2da": 4293.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 42.3,
-   "score": 1694,
-   "pr": {
-    "Vea": [
-     7890.0,
-     "https://www.vea.com.ar/acondicionador-tresemme-brillo-lamelar-250-ml/p"
-    ],
-    "Jumbo": [
-     2475.0,
-     "https://www.jumbo.com.ar/acondicionador-tresemme-brillo-lamelar-250-ml/p"
-    ],
-    "Carrefour": [
-     4293.0,
-     "https://www.carrefour.com.ar/acondicionador-tresemme-brillo-lamelar-250-cc-730376/p"
     ]
    }
   },
@@ -720,6 +376,64 @@
    }
   },
   {
+   "n": "Galletitas crackers Paseo 5 semillas 300 g.",
+   "m": "Paseo",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929621/7792180007315_02.jpg?v=639246481847070000",
+   "cadena": "Carrefour",
+   "precio": 1240.85,
+   "link": "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p",
+   "referencia": 1909.0,
+   "precio_2da": 2390.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.1,
+   "score": 1683,
+   "pr": {
+    "Carrefour": [
+     1240.85,
+     "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p"
+    ],
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+    ],
+    "Jumbo": [
+     2450.0,
+     "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nescafé Gold Tostado y Molido Equilibrado 250 grs",
+   "m": "Nescafé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/854301/8445290114181_01.jpg?v=639122875384530000",
+   "cadena": "ChangoMás",
+   "precio": 12942.3,
+   "link": "https://www.masonline.com.ar/cafe-nescafe-gold-tostado-y-molido-equilibrado-250gr-2/p",
+   "referencia": 22569.0,
+   "precio_2da": 21300.0,
+   "baja_pct": 42.7,
+   "brecha_pct": 39.2,
+   "score": 1674,
+   "pr": {
+    "Carrefour": [
+     21300.0,
+     "https://www.carrefour.com.ar/nescafe-gold-tostado-y-molido-equilibrado-250-grs-717829/p"
+    ],
+    "Jumbo": [
+     22350.0,
+     "https://www.jumbo.com.ar/cafe-gold-tostado-molido-equilibrado-250-grs-nescafe/p"
+    ],
+    "Comodín": [
+     24514.89,
+     "https://www.comodinencasa.com.ar/cafe-nescafe-gold-tostado-equilibr-250gr/p"
+    ],
+    "ChangoMás": [
+     12942.3,
+     "https://www.masonline.com.ar/cafe-nescafe-gold-tostado-y-molido-equilibrado-250gr-2/p"
+    ]
+   }
+  },
+  {
    "n": "Leche infantil Nutrilon profutura Etapa 3 brick 200 ml",
    "m": "Nutrilon",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922331/7795323775348_01.jpg?v=639238860605070000",
@@ -743,41 +457,6 @@
     "ChangoMás": [
      3179.0,
      "https://www.masonline.com.ar/leche-infantil-nutrilon-profutura-3-200ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Leche chocolatada ​Cindor 1 lt",
-   "m": "Cindor",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/985464/7791337007253_E01.jpg?v=639300919811830000",
-   "cadena": "Comodín",
-   "precio": 3069.82,
-   "link": "https://www.comodinencasa.com.ar/leche-chocolatada-cindor-1-lt/p",
-   "referencia": 5366.39,
-   "precio_2da": 4990.0,
-   "baja_pct": 42.8,
-   "brecha_pct": 38.5,
-   "score": 1647,
-   "pr": {
-    "Carrefour": [
-     8700.0,
-     "https://www.carrefour.com.ar/leche-chocolatada-cindor-1-lt-719377/p"
-    ],
-    "Vea": [
-     4990.0,
-     "https://www.vea.com.ar/leche-chocolatada-1-l-cindor-2/p"
-    ],
-    "Jumbo": [
-     5545.0,
-     "https://www.jumbo.com.ar/leche-chocolatada-1-l-cindor-2/p"
-    ],
-    "ChangoMás": [
-     8729.0,
-     "https://www.masonline.com.ar/leche-chocolatada-cindor-1-l-2/p"
-    ],
-    "Comodín": [
-     3069.82,
-     "https://www.comodinencasa.com.ar/leche-chocolatada-cindor-1-lt/p"
     ]
    }
   },
@@ -809,29 +488,29 @@
    }
   },
   {
-   "n": "Mix Tartas Choclo X 500 Grs Green Life",
-   "m": "GREEN LIFE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/901159/Mix-Tartas-Choclo-X-500-Grs-Green-Life-1-1055531.jpg?v=639083326666570000",
-   "cadena": "ChangoMás",
-   "precio": 5003.4,
-   "link": "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p",
-   "referencia": 8339.0,
-   "precio_2da": 8382.98,
+   "n": "Nido Fortigrow leche en polvo 200 grs",
+   "m": "Nido",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/865375/8445291389021_01.jpg?v=639136790738100000",
+   "cadena": "Carrefour",
+   "precio": 3335.4,
+   "link": "https://www.carrefour.com.ar/nido-fortigrow-leche-en-polvo-200-grs-743391/p",
+   "referencia": 5559.0,
+   "precio_2da": 5600.0,
    "baja_pct": 40.0,
-   "brecha_pct": 40.3,
-   "score": 1613,
+   "brecha_pct": 40.4,
+   "score": 1618,
    "pr": {
+    "Carrefour": [
+     3335.4,
+     "https://www.carrefour.com.ar/nido-fortigrow-leche-en-polvo-200-grs-743391/p"
+    ],
     "Vea": [
-     10400.0,
-     "https://www.vea.com.ar/mix-tartas-choclo-x-500-grs-green-life/p"
+     5690.0,
+     "https://www.vea.com.ar/leche-polvo-fortigrow-200-grs-nido/p"
     ],
-    "Comodín": [
-     8382.98,
-     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-cho-ceb-pim-500gr/p"
-    ],
-    "ChangoMás": [
-     5003.4,
-     "https://www.masonline.com.ar/mix-para-tarta-green-life-choclo-cebolla-pimientos-500-g/p"
+    "Jumbo": [
+     5600.0,
+     "https://www.jumbo.com.ar/leche-polvo-fortigrow-200-grs-nido/p"
     ]
    }
   },
@@ -863,41 +542,6 @@
     "ChangoMás": [
      3107.4,
      "https://www.masonline.com.ar/milanesas-de-soja-granja-del-sol-original-4-u-330-g/p"
-    ]
-   }
-  },
-  {
-   "n": "La Paulina queso en hebras parmesano 125 grs",
-   "m": "La Paulina",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/758687/7794990177547_E01.jpg?v=638981442477230000",
-   "cadena": "Jumbo",
-   "precio": 2814.0,
-   "link": "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-parmesano-x-125-gr-2/p",
-   "referencia": 4690.0,
-   "precio_2da": 4690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     5199.0,
-     "https://www.carrefour.com.ar/la-paulina-queso-en-hebras-parmesano-125-grs-746356/p"
-    ],
-    "Vea": [
-     4690.0,
-     "https://www.vea.com.ar/queso-en-hebras-la-paulina-parmesano-x-125-gr-2/p"
-    ],
-    "Jumbo": [
-     2814.0,
-     "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-parmesano-x-125-gr-2/p"
-    ],
-    "Comodín": [
-     5041.99,
-     "https://www.comodinencasa.com.ar/queso-hebras-la-paulina-parmezano-125gr/p"
-    ],
-    "ChangoMás": [
-     5299.0,
-     "https://www.masonline.com.ar/queso-en-hebras-la-paulina-parmesano-sin-lactosa-125-g-2/p"
     ]
    }
   },
@@ -1096,60 +740,6 @@
    }
   },
   {
-   "n": "Fideos Fettuccine 500 Grs Lucchetti",
-   "m": "LUCCHETTI",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/938463/11461325003.jpg?v=639305192460300000",
-   "cadena": "Jumbo",
-   "precio": 1680.0,
-   "link": "https://www.jumbo.com.ar/fideos-cintas-lucchetti-500gr/p",
-   "referencia": 2800.0,
-   "precio_2da": 2769.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.3,
-   "score": 1573,
-   "pr": {
-    "Vea": [
-     2790.0,
-     "https://www.vea.com.ar/fideos-cintas-lucchetti-500gr/p"
-    ],
-    "Jumbo": [
-     1680.0,
-     "https://www.jumbo.com.ar/fideos-cintas-lucchetti-500gr/p"
-    ],
-    "ChangoMás": [
-     2769.0,
-     "https://www.masonline.com.ar/fideos-fettuccine-nido-nutri-vit-lucchetti-500gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
-   "m": "Maggi",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
-   "cadena": "Carrefour",
-   "precio": 1913.4,
-   "link": "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p",
-   "referencia": 3129.0,
-   "precio_2da": 3189.0,
-   "baja_pct": 38.8,
-   "brecha_pct": 40.0,
-   "score": 1554,
-   "pr": {
-    "Carrefour": [
-     1913.4,
-     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
-    ],
-    "Vea": [
-     3190.0,
-     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
-    ],
-    "ChangoMás": [
-     3189.0,
-     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
-    ]
-   }
-  },
-  {
    "n": "La Paulina queso en hebras italiano 125 grs",
    "m": "La Paulina",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/758685/7794990177523_E01.jpg?v=638981440668130000",
@@ -1157,10 +747,10 @@
    "precio": 2814.0,
    "link": "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-4-quesos-x-125-gr-2/p",
    "referencia": 4690.0,
-   "precio_2da": 4583.29,
+   "precio_2da": 4649.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1544,
+   "brecha_pct": 39.5,
+   "score": 1579,
    "pr": {
     "Carrefour": [
      4649.0,
@@ -1174,10 +764,6 @@
      2814.0,
      "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-4-quesos-x-125-gr-2/p"
     ],
-    "Comodín": [
-     4583.29,
-     "https://www.comodinencasa.com.ar/queso-hebras-la-paulina-italiano-125gr/p"
-    ],
     "ChangoMás": [
      4739.0,
      "https://www.masonline.com.ar/queso-en-hebras-la-paulina-italiano-cuatro-quesos-125g-2/p"
@@ -1185,37 +771,95 @@
    }
   },
   {
-   "n": "La Paulina queso en hebras italiano equilibrio 125 grs",
-   "m": "La Paulina",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/758686/7794990177530_E01.jpg?v=638981441492100000",
+   "n": "Fideos cabello de ángel Lucchetti 500 g.",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/990345/7790070320155_01.jpg?v=639306025057970000",
    "cadena": "Jumbo",
-   "precio": 2814.0,
-   "link": "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-4-quesos-equi-x-125-2/p",
-   "referencia": 4690.0,
-   "precio_2da": 4583.29,
+   "precio": 1680.0,
+   "link": "https://www.jumbo.com.ar/fideos-soperos-lucchetti-cabello-angel-500gr/p",
+   "referencia": 2800.0,
+   "precio_2da": 2769.0,
    "baja_pct": 40.0,
-   "brecha_pct": 38.6,
-   "score": 1544,
+   "brecha_pct": 39.3,
+   "score": 1573,
    "pr": {
     "Carrefour": [
-     4649.0,
-     "https://www.carrefour.com.ar/la-paulina-queso-en-hebras-italiano-equilibrio-125-grs-746355/p"
+     2800.0,
+     "https://www.carrefour.com.ar/fideos-cabello-de-angel-lucchetti-500-g/p"
     ],
     "Vea": [
-     4690.0,
-     "https://www.vea.com.ar/queso-en-hebras-la-paulina-4-quesos-equi-x-125-2/p"
+     2790.0,
+     "https://www.vea.com.ar/fideos-soperos-lucchetti-cabello-angel-500gr/p"
     ],
     "Jumbo": [
-     2814.0,
-     "https://www.jumbo.com.ar/queso-en-hebras-la-paulina-4-quesos-equi-x-125-2/p"
-    ],
-    "Comodín": [
-     4583.29,
-     "https://www.comodinencasa.com.ar/queso-hebras-la-paulina-ital-equil-125gr/p"
+     1680.0,
+     "https://www.jumbo.com.ar/fideos-soperos-lucchetti-cabello-angel-500gr/p"
     ],
     "ChangoMás": [
-     4739.0,
-     "https://www.masonline.com.ar/queso-en-hebras-la-paulina-italiano-4-quesos-equilibrio-125-g-2/p"
+     2769.0,
+     "https://www.masonline.com.ar/fideos-cabello-de-angel-lucchetti-500-gr-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Cerveza rubia Heineken 473 ml",
+   "m": "Heineken",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/191364/7793147009199_01.jpg?v=637511788647600000",
+   "cadena": "Carrefour",
+   "precio": 1950.0,
+   "link": "https://www.carrefour.com.ar/cerveza-rubia-heineken-473-ml-582180/p",
+   "referencia": 4000.0,
+   "precio_2da": 2788.5,
+   "baja_pct": 51.2,
+   "brecha_pct": 30.1,
+   "score": 1541,
+   "pr": {
+    "Carrefour": [
+     1950.0,
+     "https://www.carrefour.com.ar/cerveza-rubia-heineken-473-ml-582180/p"
+    ],
+    "Vea": [
+     2788.5,
+     "https://www.vea.com.ar/cerveza-heineken-473-ml/p"
+    ],
+    "Jumbo": [
+     3010.0,
+     "https://www.jumbo.com.ar/cerveza-heineken-473-ml/p"
+    ],
+    "ChangoMás": [
+     4299.0,
+     "https://www.masonline.com.ar/cerveza-en-lata-heineken-473cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Fideos al huevo Lucchetti spaghetti 500 g",
+   "m": "Lucchetti",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914137/7790070337108_01.jpg?v=639222259365430000",
+   "cadena": "Jumbo",
+   "precio": 1470.0,
+   "link": "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p",
+   "referencia": 2450.0,
+   "precio_2da": 2390.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.5,
+   "score": 1540,
+   "pr": {
+    "Carrefour": [
+     2400.0,
+     "https://www.carrefour.com.ar/fideos-al-huevo-lucchetti-spaghetti-500-g-733268/p"
+    ],
+    "Vea": [
+     2390.0,
+     "https://www.vea.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
+    ],
+    "Jumbo": [
+     1470.0,
+     "https://www.jumbo.com.ar/fideos-spagheti-huevo-x-500-gr-lucchetti/p"
+    ],
+    "ChangoMás": [
+     2399.0,
+     "https://www.masonline.com.ar/spaghetti-lucchetti-al-huevo-500-g-2/p"
     ]
    }
   },
@@ -1243,6 +887,33 @@
     "ChangoMás": [
      2399.0,
      "https://www.masonline.com.ar/fideos-tallarin-lucchetti-500-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nuggets Saurio Sadia X 900 Gr",
+   "m": "SADIA",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/884607/1 15.jpg?v=638943215271070000",
+   "cadena": "Carrefour",
+   "precio": 9827.4,
+   "link": "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-900-grs-764294/p",
+   "referencia": 16379.0,
+   "precio_2da": 15967.19,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.5,
+   "score": 1538,
+   "pr": {
+    "Jumbo": [
+     16800.0,
+     "https://www.jumbo.com.ar/nuggets-saurio-sadia-x-900-gr/p"
+    ],
+    "Comodín": [
+     15967.19,
+     "https://www.comodinencasa.com.ar/nuggets-de-pollo-sadia-saurio-900gr/p"
+    ],
+    "Carrefour": [
+     9827.4,
+     "https://www.carrefour.com.ar/formitas-de-pollo-sadia-nugget-saurio-900-grs-764294/p"
     ]
    }
   },
@@ -1301,33 +972,33 @@
    }
   },
   {
-   "n": "Galletitas crackers Paseo 5 semillas 300 g.",
-   "m": "Paseo",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/929621/7792180007315_02.jpg?v=639246481847070000",
+   "n": "Bolsa para Horno Maggi Finas Hierbas 24 grs",
+   "m": "Maggi",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904598/8445292042543_01.jpg?v=639201503633270000",
    "cadena": "Carrefour",
-   "precio": 1240.85,
-   "link": "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p",
-   "referencia": 1909.0,
-   "precio_2da": 2180.89,
-   "baja_pct": 35.0,
-   "brecha_pct": 43.1,
-   "score": 1509,
+   "precio": 1913.4,
+   "link": "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p",
+   "referencia": 3069.0,
+   "precio_2da": 3189.0,
+   "baja_pct": 37.7,
+   "brecha_pct": 40.0,
+   "score": 1506,
    "pr": {
     "Carrefour": [
-     1240.85,
-     "https://www.carrefour.com.ar/galletitas-crackers-paseo-5-semillas-300-g/p"
+     1913.4,
+     "https://www.carrefour.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-grs-777257/p"
     ],
     "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+     3190.0,
+     "https://www.vea.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
     ],
     "Jumbo": [
-     2450.0,
-     "https://www.jumbo.com.ar/galletitas-de-agua-mini-crackers-5-semillas-paseo-300-gr-2/p"
+     3300.0,
+     "https://www.jumbo.com.ar/bolsa-para-horno-finas-hierbas-x-25-grs-maggi/p"
     ],
-    "Comodín": [
-     2180.89,
-     "https://www.comodinencasa.com.ar/galleta-paseo-salvado-5-semillas-x-300gr/p"
+    "ChangoMás": [
+     3189.0,
+     "https://www.masonline.com.ar/bolsa-para-horno-maggi-finas-hierbas-24-g/p"
     ]
    }
   }
