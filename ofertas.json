@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-24",
- "actualizado": "2026-11-24 19:39",
+ "fecha": "2026-11-25",
+ "actualizado": "2026-11-25 15:51",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-11-14",
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
@@ -19,9 +18,10 @@
   "2026-11-21",
   "2026-11-22",
   "2026-11-23",
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
- "total": 86,
+ "total": 16,
  "ofertas": [
   {
    "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
@@ -31,13 +31,13 @@
    "precio": 1999.0,
    "link": "https://www.masonline.com.ar/bebida-isotonica-manzana-gatorade-1-25-lt-2/p",
    "referencia": 4119.2,
-   "precio_2da": 4360.0,
+   "precio_2da": 4120.0,
    "baja_pct": 51.5,
-   "brecha_pct": 54.2,
-   "score": 2787,
+   "brecha_pct": 51.5,
+   "score": 2650,
    "pr": {
     "Carrefour": [
-     5150.0,
+     4120.0,
      "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
     ],
     "Jumbo": [
@@ -58,13 +58,13 @@
    "precio": 1999.0,
    "link": "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p",
    "referencia": 4119.2,
-   "precio_2da": 4360.0,
+   "precio_2da": 4120.0,
    "baja_pct": 51.5,
-   "brecha_pct": 54.2,
-   "score": 2787,
+   "brecha_pct": 51.5,
+   "score": 2650,
    "pr": {
     "Carrefour": [
-     5150.0,
+     4120.0,
      "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
     ],
     "Jumbo": [
@@ -78,37 +78,6 @@
    }
   },
   {
-   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p",
-   "referencia": 4119.2,
-   "precio_2da": 4312.0,
-   "baja_pct": 51.5,
-   "brecha_pct": 53.6,
-   "score": 2761,
-   "pr": {
-    "Carrefour": [
-     5150.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
-    ],
-    "Vea": [
-     4312.0,
-     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
-    ],
-    "Jumbo": [
-     4360.0,
-     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
-    ],
-    "ChangoMás": [
-     1999.0,
-     "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p"
-    ]
-   }
-  },
-  {
    "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
    "m": "Gatorade",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
@@ -116,13 +85,13 @@
    "precio": 1999.0,
    "link": "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p",
    "referencia": 4119.2,
-   "precio_2da": 4312.0,
+   "precio_2da": 4120.0,
    "baja_pct": 51.5,
-   "brecha_pct": 53.6,
-   "score": 2761,
+   "brecha_pct": 51.5,
+   "score": 2650,
    "pr": {
     "Carrefour": [
-     5150.0,
+     4120.0,
      "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
     ],
     "Vea": [
@@ -140,1300 +109,126 @@
    }
   },
   {
-   "n": "Medallón de calabaza avena y chia Vegetalex en caja 4 uni",
-   "m": "Vegetalex",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/845135/7790174001332_E02.jpg?v=639110999116170000",
+   "n": "Bebida isotónica Gatorade Cool Blue 1,25 lts",
+   "m": "Gatorade",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372566/7792170110704_E01.jpg?v=638303147321930000",
    "cadena": "ChangoMás",
-   "precio": 3553.39,
-   "link": "https://www.masonline.com.ar/medallones-vegetalex-de-calabaza-300-g-4u-2/p",
-   "referencia": 7289.0,
-   "precio_2da": 7579.0,
-   "baja_pct": 51.2,
-   "brecha_pct": 53.1,
-   "score": 2722,
+   "precio": 1999.0,
+   "link": "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p",
+   "referencia": 4119.2,
+   "precio_2da": 4120.0,
+   "baja_pct": 51.5,
+   "brecha_pct": 51.5,
+   "score": 2650,
    "pr": {
     "Carrefour": [
-     7579.0,
-     "https://www.carrefour.com.ar/medallon-de-calabaza-avena-y-chia-vegetalex-en-caja-4-uni-734584/p"
+     4120.0,
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-cool-blue-1-25-lts-501480/p"
     ],
     "Vea": [
-     7790.0,
-     "https://www.vea.com.ar/medallon-calabaza-300-gr-vegetalex/p"
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
     ],
     "Jumbo": [
-     8050.0,
-     "https://www.jumbo.com.ar/medallon-calabaza-300-gr-vegetalex/p"
+     4360.0,
+     "https://www.jumbo.com.ar/isotonico-gatorade-cool-blue-1-25lt/p"
     ],
     "ChangoMás": [
-     3553.39,
-     "https://www.masonline.com.ar/medallones-vegetalex-de-calabaza-300-g-4u-2/p"
+     1999.0,
+     "https://www.masonline.com.ar/bebida-isotonica-cool-blue-gatorade-1-25-lt-2/p"
     ]
    }
   },
   {
-   "n": "Café molido torrado intenso Sensaciones 500 grs",
-   "m": "Bonafide",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943808/7792360002062_02.jpg?v=639268255568530000",
-   "cadena": "Jumbo",
-   "precio": 7250.0,
-   "link": "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p",
-   "referencia": 14500.0,
-   "precio_2da": 14290.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.3,
-   "score": 2463,
-   "pr": {
-    "Carrefour": [
-     14290.0,
-     "https://www.carrefour.com.ar/cafe-molido-torrado-intenso-sensaciones-500-grs-103923/p"
-    ],
-    "Vea": [
-     14290.0,
-     "https://www.vea.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p"
-    ],
-    "Jumbo": [
-     7250.0,
-     "https://www.jumbo.com.ar/cafe-bonafide-molido-sabor-intenso-500-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café molido torrado Bonafide Sensaciones intenso 200 grs",
-   "m": "Bonafide",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943868/7792360097600_02.jpg?v=639268275199400000",
-   "cadena": "Jumbo",
-   "precio": 3300.0,
-   "link": "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p",
-   "referencia": 6600.0,
-   "precio_2da": 6469.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.0,
-   "score": 2449,
-   "pr": {
-    "Carrefour": [
-     6469.0,
-     "https://www.carrefour.com.ar/cafe-molido-torrado-bonafide-sensaciones-intenso-200-grs-755999/p"
-    ],
-    "Vea": [
-     6490.0,
-     "https://www.vea.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
-    ],
-    "Jumbo": [
-     3300.0,
-     "https://www.jumbo.com.ar/cafe-bonafide-sensaciones-intenso-200g/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní japonés de jamón Maniax 95 g.",
-   "m": "Maniax",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904518/7790310985953_E01.jpg?v=639199104499600000",
-   "cadena": "Jumbo",
-   "precio": 1475.0,
-   "link": "https://www.jumbo.com.ar/mani-japones-de-jamon-maniax-x-95-gr/p",
-   "referencia": 2950.0,
-   "precio_2da": 2890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.0,
-   "score": 2448,
-   "pr": {
-    "Carrefour": [
-     2890.0,
-     "https://www.carrefour.com.ar/mani-japones-de-jamon-maniax-95-g-733174/p"
-    ],
-    "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/mani-japones-de-jamon-maniax-x-95-gr/p"
-    ],
-    "Jumbo": [
-     1475.0,
-     "https://www.jumbo.com.ar/mani-japones-de-jamon-maniax-x-95-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní Salado Tipo Japonés 95 Grs Pehuamar",
-   "m": "PEHUAMAR",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826857/Man-Japon-s-Salado-Maniax-X-95-Gr-1-1001666.jpg?v=638556933915400000",
-   "cadena": "Jumbo",
-   "precio": 1475.0,
-   "link": "https://www.jumbo.com.ar/mani-japones-salado-maniax-x-95-gr/p",
-   "referencia": 2950.0,
-   "precio_2da": 2890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 49.0,
-   "score": 2448,
-   "pr": {
-    "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/mani-japones-salado-maniax-x-95-gr/p"
-    ],
-    "Jumbo": [
-     1475.0,
-     "https://www.jumbo.com.ar/mani-japones-salado-maniax-x-95-gr/p"
-    ],
-    "Carrefour": [
-     2890.0,
-     "https://www.carrefour.com.ar/mani-japones-salado-maniax-95-g-733175/p"
-    ]
-   }
-  },
-  {
-   "n": "Chizitos Cheetos Ondulados Queso Crema 43 G",
-   "m": "CHEETOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/837878/Cheetos-Ondulados-Queso-Crema-Ondulados-Queso-Crema-X-43-Gr-Cheetos-1-1011559.jpg?v=638647978326270000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/ondulados-queso-crema-x-43-gr-cheetos/p",
-   "referencia": 2650.0,
-   "precio_2da": 2590.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.8,
-   "score": 2442,
-   "pr": {
-    "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/ondulados-queso-crema-x-43-gr-cheetos/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/ondulados-queso-crema-x-43-gr-cheetos/p"
-    ],
-    "Carrefour": [
-     2590.0,
-     "https://www.carrefour.com.ar/chizitos-cheetos-ondulados-queso-crema-43-grs-735818/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos Salados Horneados Sabor Queso 60 Grs Krach-Itos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/767065/Bastonitos-Krach-itos-Queso-X60g-1-944916.jpg?v=638110353748270000",
-   "cadena": "Jumbo",
-   "precio": 975.0,
-   "link": "https://www.jumbo.com.ar/bastonitos-queso-krachitos-60-gr/p",
-   "referencia": 1950.0,
-   "precio_2da": 1890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.4,
-   "score": 2421,
-   "pr": {
-    "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/bastonitos-queso-krachitos-60-gr/p"
-    ],
-    "Jumbo": [
-     975.0,
-     "https://www.jumbo.com.ar/bastonitos-queso-krachitos-60-gr/p"
-    ],
-    "Carrefour": [
-     1890.0,
-     "https://www.carrefour.com.ar/bastonsitos-horneados-krachitos-maxi-queso-60-g-717254/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas corte americano Krachitos 105 grs",
-   "m": "Krachitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904261/7794520869331_E02.jpg?v=639198993116930000",
-   "cadena": "Jumbo",
-   "precio": 1750.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-americana-x-105-gr-krach-itos/p",
-   "referencia": 3500.0,
-   "precio_2da": 3390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.4,
-   "score": 2419,
-   "pr": {
-    "Carrefour": [
-     3469.0,
-     "https://www.carrefour.com.ar/papas-fritas-corte-americano-krachitos-105-grs-750920/p"
-    ],
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/papas-fritas-americana-x-105-gr-krach-itos/p"
-    ],
-    "Jumbo": [
-     1750.0,
-     "https://www.jumbo.com.ar/papas-fritas-americana-x-105-gr-krach-itos/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Fritas Semix Sabor Cheddar X 100 G",
-   "m": "SEMIX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/887841/Papas-Fritas-Semix-Sabor-Cheddar-X-100-G-1-1014396.jpg?v=638969277968030000",
-   "cadena": "Jumbo",
-   "precio": 1575.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-semix-sabor-cheddar-x-100-g/p",
-   "referencia": 3150.0,
-   "precio_2da": 3049.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2417,
-   "pr": {
-    "Vea": [
-     3190.0,
-     "https://www.vea.com.ar/papas-fritas-semix-sabor-cheddar-x-100-g/p"
-    ],
-    "Jumbo": [
-     1575.0,
-     "https://www.jumbo.com.ar/papas-fritas-semix-sabor-cheddar-x-100-g/p"
-    ],
-    "Comodín": [
-     3938.49,
-     "https://www.comodinencasa.com.ar/papas-fritas-semix-cheddar-100gr/p"
-    ],
-    "Carrefour": [
-     3049.0,
-     "https://www.carrefour.com.ar/papas-fritas-saborizadas-cheddar-semix-100-g-745720/p"
-    ]
-   }
-  },
-  {
-   "n": "Mani Krach-itos Pelado Salado 90gr",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923733/11130918021.jpg?v=639220560273970000",
-   "cadena": "Jumbo",
-   "precio": 925.0,
-   "link": "https://www.jumbo.com.ar/mani-krach-itos-pelado-salado-90gr/p",
-   "referencia": 1850.0,
-   "precio_2da": 1790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.3,
-   "score": 2416,
-   "pr": {
-    "Vea": [
-     1790.0,
-     "https://www.vea.com.ar/mani-krach-itos-pelado-salado-90gr/p"
-    ],
-    "Jumbo": [
-     925.0,
-     "https://www.jumbo.com.ar/mani-krach-itos-pelado-salado-90gr/p"
-    ],
-    "Carrefour": [
-     1790.0,
-     "https://www.carrefour.com.ar/mani-pelado-frito-salado-krachitos-90-grs-785077/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Descafeinado en Cápsulas 52 Grs x 10 Un La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/911901/Capsulas-La-Virginia-Descafeinado-52gr-1-1057670.jpg?v=639135166087970000",
-   "cadena": "Jumbo",
-   "precio": 5075.0,
-   "link": "https://www.jumbo.com.ar/capsulas-descafeinado-x-52-grs-la-virginia/p",
-   "referencia": 10150.0,
-   "precio_2da": 9790.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.2,
-   "score": 2408,
-   "pr": {
-    "Vea": [
-     9790.0,
-     "https://www.vea.com.ar/capsulas-descafeinado-x-52-grs-la-virginia/p"
-    ],
-    "Jumbo": [
-     5075.0,
-     "https://www.jumbo.com.ar/capsulas-descafeinado-x-52-grs-la-virginia/p"
-    ],
-    "Carrefour": [
-     10559.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-descafeinado-10-uni-764017/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas Pehuamar 135 g.",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904217/7790310985366_E01.jpg?v=639198961059770000",
-   "cadena": "Jumbo",
-   "precio": 2225.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pehuamar-clasica-135-g/p",
-   "referencia": 4450.0,
-   "precio_2da": 4290.0,
+   "n": "Jugo en Polvo Clight Naranja 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814693/7622201703110_E01.jpg?v=639082500363700000",
+   "cadena": "Carrefour",
+   "precio": 280.0,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p",
+   "referencia": 560.0,
+   "precio_2da": 540.0,
    "baja_pct": 50.0,
    "brecha_pct": 48.1,
    "score": 2407,
    "pr": {
     "Carrefour": [
-     4290.0,
-     "https://www.carrefour.com.ar/papas-fritas-pehuamar-135-g-721965/p"
+     280.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p"
     ],
     "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/papas-fritas-pehuamar-clasica-135-g/p"
+     540.0,
+     "https://www.vea.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
     ],
     "Jumbo": [
-     2225.0,
-     "https://www.jumbo.com.ar/papas-fritas-pehuamar-clasica-135-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Cappuccino La Virginia instantáneo dp 125 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943751/7790150160725_E01.jpg?v=639268223040530000",
-   "cadena": "Jumbo",
-   "precio": 2025.0,
-   "link": "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p",
-   "referencia": 4050.0,
-   "precio_2da": 3890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2397,
-   "pr": {
-    "Carrefour": [
-     3890.0,
-     "https://www.carrefour.com.ar/cappuccino-la-virginia-instantaneo-dp-125-g-692791/p"
-    ],
-    "Vea": [
-     3890.0,
-     "https://www.vea.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
-    ],
-    "Jumbo": [
-     2025.0,
-     "https://www.jumbo.com.ar/mix-cappuccino-tradicional-la-virginia-125-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cappuccino La Virginia cortado dp 125 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943761/7790150161371_E01.jpg?v=639268224472030000",
-   "cadena": "Jumbo",
-   "precio": 2025.0,
-   "link": "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p",
-   "referencia": 4050.0,
-   "precio_2da": 3890.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.9,
-   "score": 2397,
-   "pr": {
-    "Carrefour": [
-     3890.0,
-     "https://www.carrefour.com.ar/cappuccino-la-virginia-cortado-dp-125-g-692801/p"
-    ],
-    "Vea": [
-     3890.0,
-     "https://www.vea.com.ar/mix-cortado-la-virginia-125gr-2/p"
-    ],
-    "Jumbo": [
-     2025.0,
-     "https://www.jumbo.com.ar/mix-cortado-la-virginia-125gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Laminas chocolate semiamargo Natural Candy 90 grs",
-   "m": "Natural Candy",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/860615/793969258628_E02.jpg?v=639129005776370000",
-   "cadena": "Jumbo",
-   "precio": 4125.0,
-   "link": "https://www.jumbo.com.ar/snacks-frutos-secos-banados-en-chocolate-natural-candy-90gr-2/p",
-   "referencia": 8250.0,
-   "precio_2da": 7900.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.8,
-   "score": 2389,
-   "pr": {
-    "Carrefour": [
-     7900.0,
-     "https://www.carrefour.com.ar/laminas-chocolate-semiamargo-natural-candy-90-grs-778404/p"
-    ],
-    "Vea": [
-     7990.0,
-     "https://www.vea.com.ar/snacks-frutos-secos-banados-en-chocolate-natural-candy-90gr-2/p"
-    ],
-    "Jumbo": [
-     4125.0,
-     "https://www.jumbo.com.ar/snacks-frutos-secos-banados-en-chocolate-natural-candy-90gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos salados sabor panceta Pep 84 g.",
-   "m": "Pep",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904421/7790310984291_E01.jpg?v=639199025954630000",
-   "cadena": "Jumbo",
-   "precio": 1250.0,
-   "link": "https://www.jumbo.com.ar/palitos-salados-sabor-panceta-pep-x-84-gr-3/p",
-   "referencia": 2500.0,
-   "precio_2da": 2390.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.7,
-   "score": 2385,
-   "pr": {
-    "Carrefour": [
-     2390.0,
-     "https://www.carrefour.com.ar/palitos-salados-sabor-panceta-pep-84-g-676528/p"
-    ],
-    "Vea": [
-     2390.0,
-     "https://www.vea.com.ar/palitos-salados-sabor-panceta-pep-x-84-gr-3/p"
-    ],
-    "Jumbo": [
-     1250.0,
-     "https://www.jumbo.com.ar/palitos-salados-sabor-panceta-pep-x-84-gr-3/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Fritas Semix 65 Gr",
-   "m": "SEMIX",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/716566/Papas-Fritas-Semix-65-Gr-1-892982.jpg?v=637973734509000000",
-   "cadena": "Jumbo",
-   "precio": 950.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-semix-65-gr/p",
-   "referencia": 1900.0,
-   "precio_2da": 1815.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.7,
-   "score": 2383,
-   "pr": {
-    "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/papas-fritas-semix-65-gr/p"
-    ],
-    "Jumbo": [
-     950.0,
-     "https://www.jumbo.com.ar/papas-fritas-semix-65-gr/p"
-    ],
-    "Carrefour": [
-     1815.0,
-     "https://www.carrefour.com.ar/papas-fritas-semix-65-g-745716/p"
-    ]
-   }
-  },
-  {
-   "n": "Snacks de arroz Dos Hermanos jamón 80 g.",
-   "m": "Dos Hermanos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905416/7790503000289_02.jpg?v=639201732407330000",
-   "cadena": "Jumbo",
-   "precio": 1050.0,
-   "link": "https://www.jumbo.com.ar/snacks-de-arroz-dos-hermanos-jamon-80gr/p",
-   "referencia": 2100.0,
-   "precio_2da": 1999.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.5,
-   "score": 2374,
-   "pr": {
-    "Carrefour": [
-     1999.0,
-     "https://www.carrefour.com.ar/snacks-de-arroz-dos-hermanos-jamon-80-g/p"
-    ],
-    "Vea": [
-     1999.0,
-     "https://www.vea.com.ar/snacks-de-arroz-dos-hermanos-jamon-80gr/p"
-    ],
-    "Jumbo": [
-     1050.0,
-     "https://www.jumbo.com.ar/snacks-de-arroz-dos-hermanos-jamon-80gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos salados Pehuamar 165 g.",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904462/7790310985380_E01.jpg?v=639199033875000000",
-   "cadena": "Jumbo",
-   "precio": 1975.0,
-   "link": "https://www.jumbo.com.ar/palitos-pehuamar-salados-165-g/p",
-   "referencia": 3950.0,
-   "precio_2da": 3758.59,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.5,
-   "score": 2373,
-   "pr": {
-    "Carrefour": [
-     3890.0,
-     "https://www.carrefour.com.ar/palitos-salados-pehuamar-165-g-721968/p"
-    ],
-    "Vea": [
-     3890.0,
-     "https://www.vea.com.ar/palitos-pehuamar-salados-165-g/p"
-    ],
-    "Jumbo": [
-     1975.0,
-     "https://www.jumbo.com.ar/palitos-pehuamar-salados-165-g/p"
+     552.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
     ],
     "Comodín": [
-     3758.59,
-     "https://www.comodinencasa.com.ar/palitos-pehuamar-salados-165-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas clásicas Pehuamar 420 grs",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900019/7790310988442_E02.jpg?v=639190299359030000",
-   "cadena": "Jumbo",
-   "precio": 5675.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pehuamar-lisas-420gr/p",
-   "referencia": 11350.0,
-   "precio_2da": 10800.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 47.5,
-   "score": 2373,
-   "pr": {
-    "Carrefour": [
-     10800.0,
-     "https://www.carrefour.com.ar/papas-fritas-clasicas-pehuamar-420-grs-781106/p"
-    ],
-    "Vea": [
-     10990.0,
-     "https://www.vea.com.ar/papas-fritas-pehuamar-lisas-420gr/p"
-    ],
-    "Jumbo": [
-     5675.0,
-     "https://www.jumbo.com.ar/papas-fritas-pehuamar-lisas-420gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní salado con piel Pehuamar en bolsa 135 grs",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904548/7790310986738_E01.jpg?v=639199118083670000",
-   "cadena": "Jumbo",
-   "precio": 2075.0,
-   "link": "https://www.jumbo.com.ar/mani-con-piel-135g-pehuamar/p",
-   "referencia": 4150.0,
-   "precio_2da": 3900.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2340,
-   "pr": {
-    "Carrefour": [
-     3900.0,
-     "https://www.carrefour.com.ar/mani-salado-con-piel-pehuamar-en-bolsa-135-grs-752354/p"
-    ],
-    "Vea": [
-     3990.0,
-     "https://www.vea.com.ar/mani-con-piel-135g-pehuamar/p"
-    ],
-    "Jumbo": [
-     2075.0,
-     "https://www.jumbo.com.ar/mani-con-piel-135g-pehuamar/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos salados Pehuamar 90 g.",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904419/7790310984352_E01.jpg?v=639199025676500000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/palitos-salados-90-grs-pehuamar/p",
-   "referencia": 2650.0,
-   "precio_2da": 2490.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.8,
-   "score": 2339,
-   "pr": {
-    "Carrefour": [
-     2590.0,
-     "https://www.carrefour.com.ar/palitos-salados-pehuamar-90-g-676523/p"
-    ],
-    "Vea": [
-     2490.0,
-     "https://www.vea.com.ar/palitos-salados-90-grs-pehuamar/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/palitos-salados-90-grs-pehuamar/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Tostado Sutil 250 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861433/Cafe-Tostado-Molido-Sutil-250g-La-Virginia-1-1035768.jpg?v=638793024612970000",
-   "cadena": "Jumbo",
-   "precio": 7525.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p",
-   "referencia": 15050.0,
-   "precio_2da": 14122.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.7,
-   "score": 2336,
-   "pr": {
-    "Vea": [
-     14390.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
-    ],
-    "Jumbo": [
-     7525.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-sutil-250g-la-virginia/p"
-    ],
-    "Comodín": [
-     14122.99,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-sutil-250gr/p"
-    ],
-    "Carrefour": [
-     14200.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-sutil-250-grs-760590/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia clásico dp 100 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943745/7790150100806_01.jpg?v=639268221950700000",
-   "cadena": "Jumbo",
-   "precio": 3025.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p",
-   "referencia": 6050.0,
-   "precio_2da": 5669.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2332,
-   "pr": {
-    "Carrefour": [
-     5669.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-clasico-dp-100-g/p"
-    ],
-    "Vea": [
-     5790.0,
-     "https://www.vea.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
-    ],
-    "Jumbo": [
-     3025.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-clasico-espuma-dpx100g/p"
-    ],
-    "Comodín": [
-     6399.19,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-inst-clasico-dp-100gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Chizitos de maíz sabor a queso Cheetos original 229 g",
-   "m": "Cheetos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904234/7790310985748_E01.jpg?v=639198971415830000",
-   "cadena": "Jumbo",
-   "precio": 4625.0,
-   "link": "https://www.jumbo.com.ar/chizitos-cheetos-original-229-g/p",
-   "referencia": 9250.0,
-   "precio_2da": 8654.89,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.6,
-   "score": 2328,
-   "pr": {
-    "Carrefour": [
-     8890.0,
-     "https://www.carrefour.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-229-g-729771/p"
-    ],
-    "Vea": [
-     8890.0,
-     "https://www.vea.com.ar/chizitos-cheetos-original-229-g/p"
-    ],
-    "Jumbo": [
-     4625.0,
-     "https://www.jumbo.com.ar/chizitos-cheetos-original-229-g/p"
-    ],
-    "Comodín": [
-     8654.89,
-     "https://www.comodinencasa.com.ar/cheetos-queso-x-238-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café instantáneo La Virginia suave frasco 170 g.",
-   "m": "La Virginia",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943741/7790150101490_01.jpg?v=639268221309100000",
-   "cadena": "Jumbo",
-   "precio": 5250.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p",
-   "referencia": 10500.0,
-   "precio_2da": 9795.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.4,
-   "score": 2320,
-   "pr": {
-    "Carrefour": [
-     9795.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-suave-frasco-170-g/p"
-    ],
-    "Vea": [
-     10190.0,
-     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
-    ],
-    "Jumbo": [
-     5250.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-x170g/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní pelado con sal marina Maní King dp 200 grs",
-   "m": "Maní King",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/915300/7798151953841_E02.jpg?v=639226738942100000",
-   "cadena": "Jumbo",
-   "precio": 1650.0,
-   "link": "https://www.jumbo.com.ar/mani-mani-king-sin-piel-sal-marina-200gr/p",
-   "referencia": 3300.0,
-   "precio_2da": 3069.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.2,
-   "score": 2312,
-   "pr": {
-    "Carrefour": [
-     3069.0,
-     "https://www.carrefour.com.ar/mani-pelado-con-sal-marina-mani-king-dp-200-grs-784354/p"
-    ],
-    "Jumbo": [
-     1650.0,
-     "https://www.jumbo.com.ar/mani-mani-king-sin-piel-sal-marina-200gr/p"
-    ],
-    "Comodín": [
-     3081.59,
-     "https://www.comodinencasa.com.ar/mani-maniking-s-piel-c-sal-marina-200gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Extreme Hot 55 Grs Krachitos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865784/Papas-Americ-Krach-itos-X-treme-Hot-55g-1-1036986.jpg?v=638815593939070000",
-   "cadena": "Jumbo",
-   "precio": 1125.0,
-   "link": "https://www.jumbo.com.ar/papas-americ-krach-itos-x-treme-hot-55g/p",
-   "referencia": 2250.0,
-   "precio_2da": 2090.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.2,
-   "score": 2309,
-   "pr": {
-    "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/papas-americ-krach-itos-x-treme-hot-55g/p"
-    ],
-    "Jumbo": [
-     1125.0,
-     "https://www.jumbo.com.ar/papas-americ-krach-itos-x-treme-hot-55g/p"
-    ],
-    "Carrefour": [
-     2090.0,
-     "https://www.carrefour.com.ar/papas-fritas-krachitos-x-treme-hot-55-grs-761071/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos Panceta 110 Grs Krachitos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/865783/Palitos-Krach-itos-Panceta-110g-1-1036985.jpg?v=638815593933370000",
-   "cadena": "Jumbo",
-   "precio": 1075.0,
-   "link": "https://www.jumbo.com.ar/palitos-krach-itos-panceta-110g/p",
-   "referencia": 2150.0,
-   "precio_2da": 1990.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 46.0,
-   "score": 2299,
-   "pr": {
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/palitos-krach-itos-panceta-110g/p"
-    ],
-    "Jumbo": [
-     1075.0,
-     "https://www.jumbo.com.ar/palitos-krach-itos-panceta-110g/p"
-    ],
-    "Carrefour": [
-     2279.0,
-     "https://www.carrefour.com.ar/palitos-salados-krachitos-sabor-panceta-110-grs-761070/p"
-    ]
-   }
-  },
-  {
-   "n": "Whisky importado 12 años Chivas regal 500 cc.",
-   "m": "Chivas Regal",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/820991/80432402733_01.jpg?v=639083181299400000",
-   "cadena": "Carrefour",
-   "precio": 22492.5,
-   "link": "https://www.carrefour.com.ar/whisky-importado-12-anos-chivas-regal-500-cc/p",
-   "referencia": 37717.5,
-   "precio_2da": 51890.0,
-   "baja_pct": 40.4,
-   "brecha_pct": 56.7,
-   "score": 2287,
-   "pr": {
-    "Carrefour": [
-     22492.5,
-     "https://www.carrefour.com.ar/whisky-importado-12-anos-chivas-regal-500-cc/p"
-    ],
-    "Vea": [
-     51890.0,
-     "https://www.vea.com.ar/whisky-chivas-regal-500-ml/p"
-    ],
-    "Jumbo": [
-     53350.0,
-     "https://www.jumbo.com.ar/whisky-chivas-regal-500-ml/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas Pehuamar 230 g.",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904220/7790310985373_E01.jpg?v=639198961526030000",
-   "cadena": "Jumbo",
-   "precio": 3675.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pehuamar-clasica-230-g/p",
-   "referencia": 7350.0,
-   "precio_2da": 6725.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.4,
-   "score": 2268,
-   "pr": {
-    "Carrefour": [
-     6990.0,
-     "https://www.carrefour.com.ar/papas-fritas-pehuamar-230-g-721970/p"
-    ],
-    "Vea": [
-     6990.0,
-     "https://www.vea.com.ar/papas-fritas-pehuamar-clasica-230-g/p"
-    ],
-    "Jumbo": [
-     3675.0,
-     "https://www.jumbo.com.ar/papas-fritas-pehuamar-clasica-230-g/p"
-    ],
-    "Comodín": [
-     6725.69,
-     "https://www.comodinencasa.com.ar/papas-pehuamar-lisa-230-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Instantáneo Suave Espuma 170 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/657235/Caf-La-Virginia-Suave-Espuma-Dp-X170g-1-876085.jpg?v=637624881773870000",
-   "cadena": "Jumbo",
-   "precio": 4400.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p",
-   "referencia": 8800.0,
-   "precio_2da": 8050.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 45.3,
-   "score": 2267,
-   "pr": {
-    "Vea": [
-     8590.0,
-     "https://www.vea.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
-    ],
-    "Jumbo": [
-     4400.0,
-     "https://www.jumbo.com.ar/cafe-la-virginia-suave-espuma-dp-x170g/p"
-    ],
-    "Carrefour": [
-     8050.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-suave-la-virginia-doy-pack-170-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Cafe Kalma Descafeinado X170g",
-   "m": "KALMA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/688449/Cafe-Kalma-Descafeinado-X170g-1-884405.jpg?v=637806225997670000",
-   "cadena": "Jumbo",
-   "precio": 8225.0,
-   "link": "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p",
-   "referencia": 16450.0,
-   "precio_2da": 14900.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.8,
-   "score": 2240,
-   "pr": {
-    "Vea": [
-     15190.0,
-     "https://www.vea.com.ar/cafe-kalma-descafeinado-x170g-2/p"
-    ],
-    "Jumbo": [
-     8225.0,
-     "https://www.jumbo.com.ar/cafe-kalma-descafeinado-x170g-2/p"
-    ],
-    "Comodín": [
-     16447.59,
-     "https://www.comodinencasa.com.ar/cafe-kalma-equilibrado-170gr/p"
-    ],
-    "Carrefour": [
-     14900.0,
-     "https://www.carrefour.com.ar/cafe-descafeinado-instantaneo-la-virginia-kalma-170-g-696400-696400/p"
-    ]
-   }
-  },
-  {
-   "n": "Bastonitos Sabor Queso X 125 Grs Krach-itos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/911847/Bastonitos-Krach-itos-Sabor-Queso-125gr-1-1057586.jpg?v=639135165909770000",
-   "cadena": "Jumbo",
-   "precio": 1750.0,
-   "link": "https://www.jumbo.com.ar/bastonitos-sabor-queso-x-125-grs-krach-itos/p",
-   "referencia": 3500.0,
-   "precio_2da": 3169.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.8,
-   "score": 2239,
-   "pr": {
-    "Vea": [
-     3390.0,
-     "https://www.vea.com.ar/bastonitos-sabor-queso-x-125-grs-krach-itos/p"
-    ],
-    "Jumbo": [
-     1750.0,
-     "https://www.jumbo.com.ar/bastonitos-sabor-queso-x-125-grs-krach-itos/p"
-    ],
-    "Carrefour": [
-     3169.0,
-     "https://www.carrefour.com.ar/bastonitos-horneados-krachitos-sabor-queso-125-grs-778406/p"
-    ]
-   }
-  },
-  {
-   "n": "Cafe Tostado & Molid Blend Italy 250g Morenita",
-   "m": "LA MORENITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861436/Cafe-Tostado-Molid-Blend-Italy-250g-Morenita-1-1035771.jpg?v=638793024622670000",
-   "cadena": "Jumbo",
-   "precio": 8475.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molid-blend-italy-250g-morenita/p",
-   "referencia": 16950.0,
-   "precio_2da": 15171.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 44.1,
-   "score": 2207,
-   "pr": {
-    "Vea": [
-     16390.0,
-     "https://www.vea.com.ar/cafe-tostado-molid-blend-italy-250g-morenita/p"
-    ],
-    "Jumbo": [
-     8475.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molid-blend-italy-250g-morenita/p"
-    ],
-    "Comodín": [
-     15171.99,
-     "https://www.comodinencasa.com.ar/cafe-la-morenita-tostado-b-t-italia-250g/p"
-    ],
-    "Carrefour": [
-     15659.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-morenita-italiano-250-grs-760593/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas acanaladas Pehuamar 230 g.",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904149/7790310983553_E01.jpg?v=639198945695970000",
-   "cadena": "Jumbo",
-   "precio": 3675.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-acanaladas-250-grs-pehuamar/p",
-   "referencia": 7350.0,
-   "precio_2da": 6512.49,
-   "baja_pct": 50.0,
-   "brecha_pct": 43.6,
-   "score": 2178,
-   "pr": {
-    "Carrefour": [
-     7069.0,
-     "https://www.carrefour.com.ar/papas-fritas-acanaladas-pehuamar-230-g/p"
-    ],
-    "Vea": [
-     6990.0,
-     "https://www.vea.com.ar/papas-fritas-acanaladas-250-grs-pehuamar/p"
-    ],
-    "Jumbo": [
-     3675.0,
-     "https://www.jumbo.com.ar/papas-fritas-acanaladas-250-grs-pehuamar/p"
-    ],
-    "Comodín": [
-     6512.49,
-     "https://www.comodinencasa.com.ar/papas-pehuamar-acanalada-230-gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Cafe Molido Happy Day X 190 Grs Cabrales",
-   "m": "CABRALES",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/902260/Cafe-Molido-Happy-Day-X-190-Grs-Cabrales-1-1055904.jpg?v=639094557734800000",
-   "cadena": "Jumbo",
-   "precio": 4250.0,
-   "link": "https://www.jumbo.com.ar/cafe-molido-happy-day-x-190-grs-cabrales/p",
-   "referencia": 8500.0,
-   "precio_2da": 7386.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 42.5,
-   "score": 2123,
-   "pr": {
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/cafe-molido-happy-day-x-190-grs-cabrales/p"
-    ],
-    "Jumbo": [
-     4250.0,
-     "https://www.jumbo.com.ar/cafe-molido-happy-day-x-190-grs-cabrales/p"
+     555.39,
+     "https://www.comodinencasa.com.ar/jugo-clight-naranja-x-8-gr/p"
     ],
     "ChangoMás": [
-     7386.75,
-     "https://www.masonline.com.ar/cafe-molido-cabrales-happy-day-190g/p"
-    ],
-    "Carrefour": [
-     9849.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-cabrales-happy-day-190-grs-778153/p"
+     549.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p"
     ]
    }
   },
   {
-   "n": "Maní Tostado Sin Sal Krachitos 110 Gr",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/767077/Man-Tostado-Krach-itos-Sin-Sal-X110g-1-944928.jpg?v=638110353801570000",
-   "cadena": "Jumbo",
-   "precio": 1300.0,
-   "link": "https://www.jumbo.com.ar/mani-tostado-sin-sal-krachitos-110-gr/p",
-   "referencia": 2600.0,
-   "precio_2da": 2190.0,
+   "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
+   "cadena": "Carrefour",
+   "precio": 280.0,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p",
+   "referencia": 560.0,
+   "precio_2da": 540.0,
    "baja_pct": 50.0,
-   "brecha_pct": 40.6,
-   "score": 2032,
+   "brecha_pct": 48.1,
+   "score": 2407,
    "pr": {
+    "Carrefour": [
+     280.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-limonada-maracuya-7-5-grs-726610/p"
+    ],
     "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/mani-tostado-sin-sal-krachitos-110-gr/p"
+     540.0,
+     "https://www.vea.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+    ],
+    "Jumbo": [
+     552.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-limonada-maracuya-7-5-grs-clight/p"
+    ],
+    "ChangoMás": [
+     549.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas de chocolate Macucas 110 g.",
+   "m": "Macucas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924229/7790040145337_E02.jpg?v=639240596275030000",
+   "cadena": "Carrefour",
+   "precio": 715.0,
+   "link": "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p",
+   "referencia": 1280.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 44.1,
+   "brecha_pct": 44.6,
+   "score": 1968,
+   "pr": {
+    "Carrefour": [
+     715.0,
+     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/galletitas-macucas-rellenas-110g/p"
     ],
     "Jumbo": [
      1300.0,
-     "https://www.jumbo.com.ar/mani-tostado-sin-sal-krachitos-110-gr/p"
-    ],
-    "Carrefour": [
-     2609.0,
-     "https://www.carrefour.com.ar/mani-pelado-krachitos-tostados-sin-sal-110-g-717260/p"
-    ]
-   }
-  },
-  {
-   "n": "Mani Mani King Asado 80 Gr",
-   "m": "MANI KING",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/922121/Mani-Mani-King-Asado-80-Gr-1-1060898.jpg?v=639198346149370000",
-   "cadena": "Jumbo",
-   "precio": 775.0,
-   "link": "https://www.jumbo.com.ar/mani-mani-king-asado-80-gr/p",
-   "referencia": 1550.0,
-   "precio_2da": 1290.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.9,
-   "score": 1996,
-   "pr": {
-    "Vea": [
-     1290.0,
-     "https://www.vea.com.ar/mani-mani-king-asado-80-gr/p"
-    ],
-    "Jumbo": [
-     775.0,
-     "https://www.jumbo.com.ar/mani-mani-king-asado-80-gr/p"
-    ],
-    "Comodín": [
-     1399.89,
-     "https://www.comodinencasa.com.ar/mani-maniking-cheff-sabor-asado-80gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Intenso 200 Grs Bonafide",
-   "m": "BONAFIDE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/880445/Caf-Tostado-Intenso-200-Grs-Bonafide-Caf-Tostado-Intenso-Bonafide-200-Gr-1-1045089.jpg?v=638912145848230000",
-   "cadena": "Jumbo",
-   "precio": 5900.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p",
-   "referencia": 11800.0,
-   "precio_2da": 9801.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.8,
-   "score": 1990,
-   "pr": {
-    "Jumbo": [
-     5900.0,
-     "https://www.jumbo.com.ar/cafe-tostado-intenso-bonafide-200-gr/p"
-    ],
-    "Comodín": [
-     9801.99,
-     "https://www.comodinencasa.com.ar/cafe-bonafide-tostado-intenso-200gs/p"
-    ],
-    "Carrefour": [
-     11300.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-intenso-200-grs-768212/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Equilibrado 200 Grs Bonafide",
-   "m": "BONAFIDE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/880446/Caf-Tostado-Equilibrado-200-Grs-Bonafide-Caf-Tostado-Equilibrado-Bonafide-200-Gr-1-1045092.jpg?v=638912145852100000",
-   "cadena": "Jumbo",
-   "precio": 5900.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p",
-   "referencia": 11800.0,
-   "precio_2da": 9801.99,
-   "baja_pct": 50.0,
-   "brecha_pct": 39.8,
-   "score": 1990,
-   "pr": {
-    "Jumbo": [
-     5900.0,
-     "https://www.jumbo.com.ar/cafe-tostado-equilibrado-bonafide-200-gr/p"
-    ],
-    "Comodín": [
-     9801.99,
-     "https://www.comodinencasa.com.ar/cafe-bonafide-tostado-equilibrado-200gs/p"
-    ],
-    "Carrefour": [
-     11109.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-bonafide-equilibrado-200-grs-768211/p"
-    ]
-   }
-  },
-  {
-   "n": "Café molido tostado super Cabrales 250 grs",
-   "m": "Cabrales",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943854/7790550022234_01.jpg?v=639268271242670000",
-   "cadena": "Jumbo",
-   "precio": 7394.5,
-   "link": "https://www.jumbo.com.ar/cafe-molido-cabrales-250-gr/p",
-   "referencia": 14789.0,
-   "precio_2da": 12089.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 38.8,
-   "score": 1942,
-   "pr": {
-    "Carrefour": [
-     12089.25,
-     "https://www.carrefour.com.ar/cafe-molido-tostado-super-cabrales-250-grs-706853/p"
-    ],
-    "Vea": [
-     15490.0,
-     "https://www.vea.com.ar/cafe-molido-cabrales-250-gr/p"
-    ],
-    "Jumbo": [
-     7394.5,
-     "https://www.jumbo.com.ar/cafe-molido-cabrales-250-gr/p"
-    ],
-    "Comodín": [
-     12758.79,
-     "https://www.comodinencasa.com.ar/cafe-super-cabrales-tostados-250gr/p"
-    ],
-    "ChangoMás": [
-     12614.25,
-     "https://www.masonline.com.ar/cafe-molido-cabrales-tostado-super-250g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
-   "m": "Tostitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
-   "cadena": "Jumbo",
-   "precio": 2875.0,
-   "link": "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p",
-   "referencia": 4743.75,
-   "precio_2da": 5569.0,
-   "baja_pct": 39.4,
-   "brecha_pct": 48.4,
-   "score": 1906,
-   "pr": {
-    "Carrefour": [
-     5569.0,
-     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
-    ],
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
-    ],
-    "Jumbo": [
-     2875.0,
-     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní Tostado Sin Sal Mani King 100 Gr",
-   "m": "MANI KING",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/788473/Man-Mani-King-Tostado-Sin-Sal-X-100g-1-976834.jpg?v=638253789976300000",
-   "cadena": "Jumbo",
-   "precio": 725.0,
-   "link": "https://www.jumbo.com.ar/mani-tostado-sin-sal-mani-king-100-gr/p",
-   "referencia": 1450.0,
-   "precio_2da": 1161.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.6,
-   "score": 1880,
-   "pr": {
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/mani-tostado-sin-sal-mani-king-100-gr/p"
-    ],
-    "Jumbo": [
-     725.0,
-     "https://www.jumbo.com.ar/mani-tostado-sin-sal-mani-king-100-gr/p"
-    ],
-    "ChangoMás": [
-     1161.75,
-     "https://www.masonline.com.ar/mani-tostado-mani-king-sin-piel-100-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas Quento jamón serrano 82 g.",
-   "m": "Quento",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904239/7798187211885_E02.jpg?v=639198972840270000",
-   "cadena": "Jumbo",
-   "precio": 1475.0,
-   "link": "https://www.jumbo.com.ar/papas-jamon-serrano-x-82-gr-quento/p",
-   "referencia": 2433.75,
-   "precio_2da": 2800.0,
-   "baja_pct": 39.4,
-   "brecha_pct": 47.3,
-   "score": 1864,
-   "pr": {
-    "Carrefour": [
-     2800.0,
-     "https://www.carrefour.com.ar/papas-fritas-quento-jamon-serrano-82-g-731458/p"
-    ],
-    "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/papas-jamon-serrano-x-82-gr-quento/p"
-    ],
-    "Jumbo": [
-     1475.0,
-     "https://www.jumbo.com.ar/papas-jamon-serrano-x-82-gr-quento/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Instantáneo Latte 125 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/680357/Mix-Latte-La-Virginia-125g-1-882227.jpg?v=637744887610970000",
-   "cadena": "Jumbo",
-   "precio": 2425.0,
-   "link": "https://www.jumbo.com.ar/cafe-mix-latte-la-virginia-125-gr/p",
-   "referencia": 4850.0,
-   "precio_2da": 3849.74,
-   "baja_pct": 50.0,
-   "brecha_pct": 37.0,
-   "score": 1850,
-   "pr": {
-    "Vea": [
-     4790.0,
-     "https://www.vea.com.ar/cafe-mix-latte-la-virginia-125-gr/p"
-    ],
-    "Jumbo": [
-     2425.0,
-     "https://www.jumbo.com.ar/cafe-mix-latte-la-virginia-125-gr/p"
-    ],
-    "Comodín": [
-     3849.74,
-     "https://www.comodinencasa.com.ar/cappuccino-la-virginia-latte-dp-125gr/p"
-    ],
-    "Carrefour": [
-     4790.0,
-     "https://www.carrefour.com.ar/cappuccino-latte-la-virginia-dp-125-g-692800/p"
+     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p"
     ]
    }
   },
@@ -1469,1076 +264,172 @@
    }
   },
   {
-   "n": "Papas fritas Pringles de queso 109 g",
-   "m": "Pringles",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904237/7896004009179_E02.jpg?v=639198972446000000",
-   "cadena": "Jumbo",
-   "precio": 3025.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pringles-queso-x109gs/p",
-   "referencia": 6050.0,
-   "precio_2da": 4717.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1794,
-   "pr": {
-    "Carrefour": [
-     4717.5,
-     "https://www.carrefour.com.ar/papas-fritas-pringles-de-queso-109-g-730297/p"
-    ],
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/papas-fritas-pringles-queso-x109gs/p"
-    ],
-    "Jumbo": [
-     3025.0,
-     "https://www.jumbo.com.ar/papas-fritas-pringles-queso-x109gs/p"
-    ],
-    "Comodín": [
-     5688.79,
-     "https://www.comodinencasa.com.ar/papas-pringles-queso-109gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas Pringles de crema y cebolla 109 g",
-   "m": "Pringles",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904236/7896004009162_E02.jpg?v=639198972117000000",
-   "cadena": "Jumbo",
-   "precio": 3025.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pringles-crema-y-cebolla-x109gs/p",
-   "referencia": 6050.0,
-   "precio_2da": 4717.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.9,
-   "score": 1794,
-   "pr": {
-    "Carrefour": [
-     4717.5,
-     "https://www.carrefour.com.ar/papas-fritas-pringles-de-crema-y-cebolla-109-g-730296/p"
-    ],
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/papas-fritas-pringles-crema-y-cebolla-x109gs/p"
-    ],
-    "Jumbo": [
-     3025.0,
-     "https://www.jumbo.com.ar/papas-fritas-pringles-crema-y-cebolla-x109gs/p"
-    ],
-    "Comodín": [
-     5688.79,
-     "https://www.comodinencasa.com.ar/papas-pringles-crema-cebolla-109gr/p"
-    ],
-    "ChangoMás": [
-     4754.25,
-     "https://www.masonline.com.ar/papas-fritas-pringles-sabor-crema-y-cebolla-109-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas Krachitos de crema y cebolla 90 grs",
-   "m": "Krachitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904302/7794520869140_E02.jpg?v=639198994834330000",
-   "cadena": "Jumbo",
-   "precio": 1825.0,
-   "link": "https://www.jumbo.com.ar/papas-crema-y-cebolla-90-grs-krachitos/p",
-   "referencia": 3650.0,
-   "precio_2da": 2826.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.4,
-   "score": 1772,
-   "pr": {
-    "Carrefour": [
-     3900.0,
-     "https://www.carrefour.com.ar/papas-fritas-krachitos-de-crema-y-cebolla-90-grs-761073/p"
-    ],
-    "Vea": [
-     3590.0,
-     "https://www.vea.com.ar/papas-crema-y-cebolla-90-grs-krachitos/p"
-    ],
-    "Jumbo": [
-     1825.0,
-     "https://www.jumbo.com.ar/papas-crema-y-cebolla-90-grs-krachitos/p"
-    ],
-    "ChangoMás": [
-     2826.75,
-     "https://www.masonline.com.ar/papas-fritas-krachitos-sabor-crema-y-cebolla-90-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos Salados Krachitos 70 Gr",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/767066/Palitos-Krach-itos-Salados-X70g-1-944917.jpg?v=638110353754430000",
-   "cadena": "Jumbo",
-   "precio": 775.0,
-   "link": "https://www.jumbo.com.ar/palitos-salados-krachitos-70-gr/p",
-   "referencia": 1550.0,
-   "precio_2da": 1199.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.4,
-   "score": 1769,
-   "pr": {
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/palitos-salados-krachitos-70-gr/p"
-    ],
-    "Jumbo": [
-     775.0,
-     "https://www.jumbo.com.ar/palitos-salados-krachitos-70-gr/p"
-    ],
-    "ChangoMás": [
-     1199.25,
-     "https://www.masonline.com.ar/palitos-krachitos-salados-70g-2/p"
-    ],
-    "Carrefour": [
-     1490.0,
-     "https://www.carrefour.com.ar/palitos-salados-krachitos-70-g-717256/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní frito salado Maní King 100 g.",
-   "m": "Maní King",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904467/7798151953384_E02.jpg?v=639199034707700000",
-   "cadena": "Jumbo",
-   "precio": 725.0,
-   "link": "https://www.jumbo.com.ar/mani-salado-sin-piel-mani-king-100-gr/p",
-   "referencia": 1450.0,
-   "precio_2da": 1116.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.1,
-   "score": 1754,
-   "pr": {
-    "Carrefour": [
-     1490.0,
-     "https://www.carrefour.com.ar/mani-frito-salado-mani-king-100-g-723557/p"
-    ],
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/mani-salado-sin-piel-mani-king-100-gr/p"
-    ],
-    "Jumbo": [
-     725.0,
-     "https://www.jumbo.com.ar/mani-salado-sin-piel-mani-king-100-gr/p"
-    ],
-    "Comodín": [
-     1397.79,
-     "https://www.comodinencasa.com.ar/mani-maniking-frito-salado-sin-piel-100g/p"
-    ],
-    "ChangoMás": [
-     1116.75,
-     "https://www.masonline.com.ar/mani-salado-mani-king-con-piel-100-g-2-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café En Capsulas Tostado Italiano 52 Grs x 10 Un La Morenita",
-   "m": "LA MORENITA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/692891/Cafe-La-Morenita-Capsulas-Italiano-X52g-1-886795.jpg?v=637825233973500000",
-   "cadena": "Jumbo",
-   "precio": 5150.0,
-   "link": "https://www.jumbo.com.ar/cafe-en-capsulas-italiano-la-morenita-52-gr/p",
-   "referencia": 10300.0,
-   "precio_2da": 7919.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 35.0,
-   "score": 1748,
-   "pr": {
-    "Jumbo": [
-     5150.0,
-     "https://www.jumbo.com.ar/cafe-en-capsulas-italiano-la-morenita-52-gr/p"
-    ],
-    "Comodín": [
-     10434.39,
-     "https://www.comodinencasa.com.ar/cafe-la-morenita-capsula-italian-10x5-2g/p"
-    ],
-    "ChangoMás": [
-     7919.25,
-     "https://www.masonline.com.ar/cafe-molido-en-capsulas-la-morenita-italiano-x-10-caps-2/p"
-    ],
-    "Carrefour": [
-     10190.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-italiano-morenita-caja-x-10-uni-693824/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos Salados Sabor Mostaza Miel y Cebolla Caramelizada 110 Grs Krach-Itos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/879850/Palitos-Krach-itos-Mostaza-Miel-110g-Palitos-Mostaza-Miel-X-110-Grs-Krach-itos-1-1044796.jpg?v=638906313768630000",
-   "cadena": "Jumbo",
-   "precio": 1075.0,
-   "link": "https://www.jumbo.com.ar/palitos-krach-itos-mostaza-miel-x-110-grs-krach-itos/p",
-   "referencia": 2150.0,
-   "precio_2da": 1641.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.5,
+   "n": "Zorro Evolution Diluible Quitamanchas 500 ml",
+   "m": "Zorro",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/777308/7790990001509_01.jpg?v=639005549055200000",
+   "cadena": "Carrefour",
+   "precio": 5518.5,
+   "link": "https://www.carrefour.com.ar/zorro-evolution-diluible-quitamanchas-500-ml-703001/p",
+   "referencia": 8490.0,
+   "precio_2da": 10890.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 49.3,
    "score": 1726,
    "pr": {
-    "Vea": [
-     1990.0,
-     "https://www.vea.com.ar/palitos-krach-itos-mostaza-miel-x-110-grs-krach-itos/p"
-    ],
-    "Jumbo": [
-     1075.0,
-     "https://www.jumbo.com.ar/palitos-krach-itos-mostaza-miel-x-110-grs-krach-itos/p"
-    ],
-    "ChangoMás": [
-     1641.75,
-     "https://www.masonline.com.ar/palitos-krachitos-mostaza-miel-y-cebolla-caramel-110-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Bastonitos Krachitos sabor ketchup 50 grs",
-   "m": "Krachitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905785/7794520869782_E02.jpg?v=639202579780100000",
-   "cadena": "Jumbo",
-   "precio": 875.0,
-   "link": "https://www.jumbo.com.ar/bastonitos-sabor-ketchup-x-50-grs-krach-itos/p",
-   "referencia": 1750.0,
-   "precio_2da": 1326.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 34.0,
-   "score": 1702,
-   "pr": {
     "Carrefour": [
-     1839.0,
-     "https://www.carrefour.com.ar/bastonitos-kranchitos-sabor-ketchup-50-grs-768596/p"
-    ],
-    "Jumbo": [
-     875.0,
-     "https://www.jumbo.com.ar/bastonitos-sabor-ketchup-x-50-grs-krach-itos/p"
-    ],
-    "ChangoMás": [
-     1326.75,
-     "https://www.masonline.com.ar/bastonitos-krachitos-ketchup-50-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Nescafé Tostado y Molido Puro 190 grs",
-   "m": "Nescafé",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/849518/8445291583719_01.jpg?v=639119672368170000",
-   "cadena": "Jumbo",
-   "precio": 6950.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-puro-190-grs-nescafe/p",
-   "referencia": 13900.0,
-   "precio_2da": 10491.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.8,
-   "score": 1688,
-   "pr": {
-    "Carrefour": [
-     13600.0,
-     "https://www.carrefour.com.ar/nescafe-tostado-y-molido-puro-190-grs-751689/p"
+     5518.5,
+     "https://www.carrefour.com.ar/zorro-evolution-diluible-quitamanchas-500-ml-703001/p"
     ],
     "Vea": [
-     13690.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-puro-190-grs-nescafe/p"
+     10890.0,
+     "https://www.vea.com.ar/jabon-liquido-diluible-quitamanchas-500-ml-zorro/p"
     ],
     "Jumbo": [
-     6950.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-puro-190-grs-nescafe/p"
-    ],
-    "ChangoMás": [
-     10491.75,
-     "https://www.masonline.com.ar/cafe-molido-nescafe-tostado-190-g/p"
+     11400.0,
+     "https://www.jumbo.com.ar/jabon-liquido-diluible-quitamanchas-500-ml-zorro/p"
     ]
    }
   },
   {
-   "n": "Chizitos de maíz sabor a queso Cheetos original 85 g",
-   "m": "Cheetos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904232/7790310985809_E01.jpg?v=639198971153230000",
-   "cadena": "Jumbo",
-   "precio": 2175.0,
-   "link": "https://www.jumbo.com.ar/chizitos-cheetos-original-85-g/p",
-   "referencia": 4350.0,
-   "precio_2da": 3276.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.6,
-   "score": 1681,
+   "n": "Lavandina clásica desinfectante Ayudín 4 lts",
+   "m": "Ayudín",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/971241/7793253006716_01.jpg?v=639283730510100000",
+   "cadena": "Carrefour",
+   "precio": 3236.35,
+   "link": "https://www.carrefour.com.ar/lavandina-clasica-desinfectante-ayudin-4-lts-745462/p",
+   "referencia": 4979.0,
+   "precio_2da": 6290.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 48.5,
+   "score": 1699,
    "pr": {
     "Carrefour": [
-     4290.0,
-     "https://www.carrefour.com.ar/chorizo-de-maiz-sabor-a-queso-cheetos-original-85-g-729769/p"
+     3236.35,
+     "https://www.carrefour.com.ar/lavandina-clasica-desinfectante-ayudin-4-lts-745462/p"
     ],
     "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/chizitos-cheetos-original-85-g/p"
+     6290.0,
+     "https://www.vea.com.ar/lavandina-ayudin-original-4-l/p"
     ],
     "Jumbo": [
-     2175.0,
-     "https://www.jumbo.com.ar/chizitos-cheetos-original-85-g/p"
-    ],
-    "Comodín": [
-     4153.79,
-     "https://www.comodinencasa.com.ar/cheetos-queso-x-94-gr/p"
-    ],
-    "ChangoMás": [
-     3276.75,
-     "https://www.masonline.com.ar/cheetos-sabor-queso-85-g-2/p"
+     7050.0,
+     "https://www.jumbo.com.ar/lavandina-ayudin-original-4-l/p"
     ]
    }
   },
   {
-   "n": "Papas fritas acanaladas Pehuamar 420 grs",
-   "m": "Pehuamar",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/900018/7790310988459_E02.jpg?v=639190298403730000",
-   "cadena": "Jumbo",
-   "precio": 5675.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pehuamar-acanaladas-420gr/p",
-   "referencia": 11350.0,
-   "precio_2da": 8545.69,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.6,
-   "score": 1680,
-   "pr": {
-    "Carrefour": [
-     10800.0,
-     "https://www.carrefour.com.ar/papas-fritas-acanaladas-pehuamar-420-grs-781105/p"
-    ],
-    "Jumbo": [
-     5675.0,
-     "https://www.jumbo.com.ar/papas-fritas-pehuamar-acanaladas-420gr/p"
-    ],
-    "Comodín": [
-     8545.69,
-     "https://www.comodinencasa.com.ar/papas-pehuamar-acanalada-420gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní Frito Salado sin Piel 105 Grs Croppers",
-   "m": "CROPPERS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/797001/Mani-Salado-Croppers-Frito-S-piel-X105g-1-997652.jpg?v=638327325935570000",
-   "cadena": "Jumbo",
-   "precio": 750.0,
-   "link": "https://www.jumbo.com.ar/mani-salado-frito-sin-piel-croppers-105-gr/p",
-   "referencia": 1500.0,
-   "precio_2da": 1124.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.3,
+   "n": "Vino tinto Malbec Alaris 750 ml",
+   "m": "Alaris",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185274/7790240017045_01.jpg?v=637468594536970000",
+   "cadena": "ChangoMás",
+   "precio": 3499.0,
+   "link": "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p",
+   "referencia": 5909.0,
+   "precio_2da": 5910.0,
+   "baja_pct": 40.8,
+   "brecha_pct": 40.8,
    "score": 1664,
    "pr": {
-    "Vea": [
-     1490.0,
-     "https://www.vea.com.ar/mani-salado-frito-sin-piel-croppers-105-gr/p"
-    ],
-    "Jumbo": [
-     750.0,
-     "https://www.jumbo.com.ar/mani-salado-frito-sin-piel-croppers-105-gr/p"
-    ],
-    "ChangoMás": [
-     1124.25,
-     "https://www.masonline.com.ar/mani-salado-croppers-frito-105-g-2/p"
-    ],
     "Carrefour": [
-     1335.0,
-     "https://www.carrefour.com.ar/mani-pelado-salado-croppers-en-bolsa-105-g-727369/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas Fritas Sabor Tradicional 165 Grs Krach-itos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/804925/Papas-Fritas-Krach-itos-Trad-X165g-1-1001687.jpg?v=638387702946800000",
-   "cadena": "Jumbo",
-   "precio": 2525.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-tradicional-x-165-gr-krach-itos/p",
-   "referencia": 5050.0,
-   "precio_2da": 3779.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 33.2,
-   "score": 1659,
-   "pr": {
-    "Vea": [
-     4790.0,
-     "https://www.vea.com.ar/papas-fritas-tradicional-x-165-gr-krach-itos/p"
-    ],
-    "Jumbo": [
-     2525.0,
-     "https://www.jumbo.com.ar/papas-fritas-tradicional-x-165-gr-krach-itos/p"
-    ],
-    "ChangoMás": [
-     3779.25,
-     "https://www.masonline.com.ar/papas-fritas-krachitos-tradicionales-165-g-2/p"
-    ],
-    "Carrefour": [
-     5000.0,
-     "https://www.carrefour.com.ar/papas-fritas-tradicional-krachitos-165-grs-750915/p"
-    ]
-   }
-  },
-  {
-   "n": "Tubitos de harina de maíz sabor queso 3D mega queso 85 g.",
-   "m": "3D",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905738/7790310985830_E01.jpg?v=639202553225800000",
-   "cadena": "Jumbo",
-   "precio": 2200.0,
-   "link": "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-85-g/p",
-   "referencia": 4400.0,
-   "precio_2da": 3276.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.9,
-   "score": 1643,
-   "pr": {
-    "Carrefour": [
-     4290.0,
-     "https://www.carrefour.com.ar/-g-tubitos-de-harina-de-maiz-sabor-queso-d-mega-queso-85-g-729772/p"
-    ],
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-85-g/p"
-    ],
-    "Jumbo": [
-     2200.0,
-     "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-85-g/p"
-    ],
-    "Comodín": [
-     4153.79,
-     "https://www.comodinencasa.com.ar/3-ds-mega-queso-x-85gr/p"
-    ],
-    "ChangoMás": [
-     3276.75,
-     "https://www.masonline.com.ar/conos-3d-sabor-queso-85-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Torrado molido La Planta de Café Cabrales 250 g.",
-   "m": "Cabrales",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943804/7790550000157_02.jpg?v=639268253974300000",
-   "cadena": "Jumbo",
-   "precio": 4125.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-250-gr/p",
-   "referencia": 8250.0,
-   "precio_2da": 6142.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.8,
-   "score": 1642,
-   "pr": {
-    "Carrefour": [
-     6142.5,
-     "https://www.carrefour.com.ar/cafe-torrado-molido-la-planta-de-cafe-cabrales-250-g/p"
-    ],
-    "Vea": [
-     8190.0,
-     "https://www.vea.com.ar/cafe-la-planta-de-cafe-molido-250-gr/p"
-    ],
-    "Jumbo": [
-     4125.0,
-     "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-250-gr/p"
-    ],
-    "Comodín": [
-     7383.99,
-     "https://www.comodinencasa.com.ar/cafe-cabrales-torrado-80-aniversar-260gr/p"
-    ],
-    "ChangoMás": [
-     6299.25,
-     "https://www.masonline.com.ar/cafe-molido-la-planta-de-cafe-torrado-250-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Descafeinado Torrado con Azúcar 100 Grs Kalma",
-   "m": "KALMA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/689193/Cafe-Kalma-Descafeinado-X100g-1-885433.jpg?v=637807413630830000",
-   "cadena": "Jumbo",
-   "precio": 4225.0,
-   "link": "https://www.jumbo.com.ar/cafe-descafeinado-kalma-100-gr/p",
-   "referencia": 8450.0,
-   "precio_2da": 6284.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.8,
-   "score": 1638,
-   "pr": {
-    "Vea": [
-     8290.0,
-     "https://www.vea.com.ar/cafe-descafeinado-kalma-100-gr/p"
-    ],
-    "Jumbo": [
-     4225.0,
-     "https://www.jumbo.com.ar/cafe-descafeinado-kalma-100-gr/p"
-    ],
-    "ChangoMás": [
-     6284.25,
-     "https://www.masonline.com.ar/cafe-instantaneo-la-virginia-la-virginia-descafeinado-100-gr-2/p"
-    ],
-    "Carrefour": [
-     8290.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-descafeinado-kalma-100-g-696399/p"
-    ]
-   }
-  },
-  {
-   "n": "Tubitos de harina de maíz sabor queso 3D mega queso 143 g.",
-   "m": "Genérico",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905465/7790310985137_E01.jpg?v=639201744421400000",
-   "cadena": "Jumbo",
-   "precio": 3075.0,
-   "link": "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-143-g/p",
-   "referencia": 6150.0,
-   "precio_2da": 4566.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.7,
-   "score": 1633,
-   "pr": {
-    "Carrefour": [
-     6000.0,
-     "https://www.carrefour.com.ar/conos-mega-3d-sabor-queso-143-g-706851/p"
+     5910.0,
+     "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p"
     ],
     "Vea": [
      5990.0,
-     "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-143-g/p"
+     "https://www.vea.com.ar/vino-tinto-alaris-malbec-750-cc/p"
     ],
     "Jumbo": [
-     3075.0,
-     "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-143-g/p"
-    ],
-    "Comodín": [
-     5786.59,
-     "https://www.comodinencasa.com.ar/3-ds-mega-queso-x-143-gr/p"
+     6200.0,
+     "https://www.jumbo.com.ar/vino-tinto-alaris-malbec-750-cc/p"
     ],
     "ChangoMás": [
-     4566.75,
-     "https://www.masonline.com.ar/3ds-mega-queso-151-gr-2/p"
+     3499.0,
+     "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p"
     ]
    }
   },
   {
-   "n": "Papas fritas Pringles original 104 g",
-   "m": "Pringles",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904235/7896004009155_E02.jpg?v=639198971806730000",
-   "cadena": "Jumbo",
-   "precio": 3025.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pringles-original-x104gs/p",
-   "referencia": 6050.0,
-   "precio_2da": 4492.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.7,
-   "score": 1633,
+   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
+   "m": "Tostitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
+   "cadena": "Carrefour",
+   "precio": 3341.4,
+   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p",
+   "referencia": 5569.0,
+   "precio_2da": 5690.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.3,
+   "score": 1651,
    "pr": {
     "Carrefour": [
-     4492.5,
-     "https://www.carrefour.com.ar/papas-fritas-pringles-original-104-g-730295/p"
+     3341.4,
+     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
     ],
     "Vea": [
      5690.0,
-     "https://www.vea.com.ar/papas-fritas-pringles-original-x104gs/p"
+     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
     ],
     "Jumbo": [
-     3025.0,
-     "https://www.jumbo.com.ar/papas-fritas-pringles-original-x104gs/p"
-    ],
-    "Comodín": [
-     5688.79,
-     "https://www.comodinencasa.com.ar/papas-pringles-original-104gr/p"
-    ],
-    "ChangoMás": [
-     4574.25,
-     "https://www.masonline.com.ar/papas-fritas-pringles-sabor-original-104-g-2/p"
+     5750.0,
+     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
     ]
    }
   },
   {
-   "n": "Papas Fritas Corte Americano 275 Grs Krach-itos",
-   "m": "KRACH-ITOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/804926/Papas-Fritas-Krach-itos-Amer-X275g-1-1001688.jpg?v=638387702952100000",
-   "cadena": "Jumbo",
-   "precio": 3875.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-americana-x-275-gr-krach-itos/p",
-   "referencia": 7750.0,
-   "precio_2da": 5706.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.1,
-   "score": 1605,
+   "n": "Pizza Sibarita Mozzarella Xl X680g",
+   "m": "SIBARITA",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923132/7790070040022.jpg?v=639214548232270000",
+   "cadena": "Vea",
+   "precio": 10494.0,
+   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-xl-x680g/p",
+   "referencia": 17490.0,
+   "precio_2da": 17600.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.4,
+   "score": 1615,
    "pr": {
     "Vea": [
-     7390.0,
-     "https://www.vea.com.ar/papas-fritas-americana-x-275-gr-krach-itos/p"
+     10494.0,
+     "https://www.vea.com.ar/pizza-sibarita-mozzarella-xl-x680g/p"
     ],
-    "Jumbo": [
-     3875.0,
-     "https://www.jumbo.com.ar/papas-fritas-americana-x-275-gr-krach-itos/p"
+    "Carrefour": [
+     17600.0,
+     "https://www.carrefour.com.ar/pizza-xl-de-muzzarella-sibarita-en-caja-680-grs-752707/p"
     ],
     "ChangoMás": [
-     5706.75,
-     "https://www.masonline.com.ar/papas-fritas-krachitos-corte-americano-275-g-2/p"
-    ],
-    "Carrefour": [
-     7900.0,
-     "https://www.carrefour.com.ar/papas-fritas-corte-americano-krachitos-275-grs-750922/p"
+     17639.0,
+     "https://www.masonline.com.ar/pizza-a-la-piedra-sibarita-mozzarella-680-g-1u-2/p"
     ]
    }
   },
   {
-   "n": "Tubitos de harina de maíz sabor queso 3D mega queso 43 g.",
-   "m": "3D",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/905464/7790310985113_E01.jpg?v=639201744279000000",
-   "cadena": "Jumbo",
-   "precio": 1325.0,
-   "link": "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p",
-   "referencia": 2650.0,
-   "precio_2da": 1949.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.0,
-   "score": 1601,
-   "pr": {
-    "Carrefour": [
-     2590.0,
-     "https://www.carrefour.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-43-g-706849/p"
-    ],
-    "Vea": [
-     2590.0,
-     "https://www.vea.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p"
-    ],
-    "Jumbo": [
-     1325.0,
-     "https://www.jumbo.com.ar/tubitos-de-harina-de-maiz-3d-mega-queso-43-g/p"
-    ],
-    "ChangoMás": [
-     1949.25,
-     "https://www.masonline.com.ar/3d-sabor-queso-43g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Papas fritas Pringles original 37 g",
-   "m": "Pringles",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904244/7896004009186_E02.jpg?v=639198973883770000",
-   "cadena": "Jumbo",
-   "precio": 1525.0,
-   "link": "https://www.jumbo.com.ar/papas-fritas-pringles-original-x37g/p",
-   "referencia": 3050.0,
-   "precio_2da": 2242.5,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.0,
-   "score": 1600,
-   "pr": {
-    "Carrefour": [
-     2242.5,
-     "https://www.carrefour.com.ar/papas-fritas-pringles-original-37-g-737989/p"
-    ],
-    "Vea": [
-     2890.0,
-     "https://www.vea.com.ar/papas-fritas-pringles-original-x37g/p"
-    ],
-    "Jumbo": [
-     1525.0,
-     "https://www.jumbo.com.ar/papas-fritas-pringles-original-x37g/p"
-    ],
-    "Comodín": [
-     2755.99,
-     "https://www.comodinencasa.com.ar/papas-pringles-original-37gr/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Molido Intenso 250 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/861435/Cafe-Tostado-Molido-Intenso-250g-La-Virginia-1-1035770.jpg?v=638793024618600000",
-   "cadena": "Jumbo",
-   "precio": 7525.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p",
-   "referencia": 15050.0,
-   "precio_2da": 11061.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 32.0,
-   "score": 1599,
-   "pr": {
-    "Vea": [
-     14390.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
-    ],
-    "Jumbo": [
-     7525.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-intenso-250g-la-virginia/p"
-    ],
-    "Comodín": [
-     14122.99,
-     "https://www.comodinencasa.com.ar/cafe-la-virginia-tostado-intenso-250gr/p"
-    ],
-    "ChangoMás": [
-     11061.75,
-     "https://www.masonline.com.ar/cafe-molido-la-virginia-tostado-intenso-250-g/p"
-    ],
-    "Carrefour": [
-     14179.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-la-virginia-intenso-250-grs-760591/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Instantáneo Clásico con Azúcar 100 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/657238/Caf-La-Virginia-Clasico-Espuma-X100g-1-876088.jpg?v=637624881783100000",
-   "cadena": "Jumbo",
-   "precio": 3325.0,
-   "link": "https://www.jumbo.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p",
-   "referencia": 6650.0,
-   "precio_2da": 4881.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.9,
-   "score": 1594,
-   "pr": {
-    "Vea": [
-     6390.0,
-     "https://www.vea.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p"
-    ],
-    "Jumbo": [
-     3325.0,
-     "https://www.jumbo.com.ar/cafe-clasico-espuma-la-virginia-100-gr/p"
-    ],
-    "ChangoMás": [
-     4881.75,
-     "https://www.masonline.com.ar/cafe-instantaneo-clasico-la-virginia-100-gr-2/p"
-    ],
-    "Carrefour": [
-     6259.0,
-     "https://www.carrefour.com.ar/cafe-instantaneo-la-virginia-especial-clasico-100-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Café molido clásico la Morenita bolsa 250 g.",
-   "m": "Morenita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943835/7790170901971_01.jpg?v=639268266661700000",
-   "cadena": "Jumbo",
-   "precio": 3775.0,
-   "link": "https://www.jumbo.com.ar/cafe-molido-la-morenita-250-gr-2/p",
-   "referencia": 7550.0,
-   "precio_2da": 5511.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.5,
-   "score": 1575,
-   "pr": {
-    "Carrefour": [
-     7349.0,
-     "https://www.carrefour.com.ar/cafe-molido-clasico-la-morenita-bolsa-250-g/p"
-    ],
-    "Vea": [
-     7390.0,
-     "https://www.vea.com.ar/cafe-molido-la-morenita-250-gr-2/p"
-    ],
-    "Jumbo": [
-     3775.0,
-     "https://www.jumbo.com.ar/cafe-molido-la-morenita-250-gr-2/p"
-    ],
-    "Comodín": [
-     7605.59,
-     "https://www.comodinencasa.com.ar/cafe-la-morenita-molido-torrado-x-250gr/p"
-    ],
-    "ChangoMás": [
-     5511.75,
-     "https://www.masonline.com.ar/cafe-molido-la-morenita-intenso-250gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Torrado molido La planta de Café Cabrales 500 g.",
-   "m": "Cabrales",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/943803/7790550000164_02.jpg?v=639268253541800000",
-   "cadena": "Jumbo",
-   "precio": 8150.0,
-   "link": "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p",
-   "referencia": 16300.0,
-   "precio_2da": 11894.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.5,
-   "score": 1574,
-   "pr": {
-    "Carrefour": [
-     15859.0,
-     "https://www.carrefour.com.ar/cafe-torrado-molido-la-planta-de-cafe-cabrales-500-g/p"
-    ],
-    "Jumbo": [
-     8150.0,
-     "https://www.jumbo.com.ar/cafe-la-planta-de-cafe-molido-500-gr/p"
-    ],
-    "Comodín": [
-     14766.99,
-     "https://www.comodinencasa.com.ar/cafe-cabrales-torrado-80-aniversar-520gr/p"
-    ],
-    "ChangoMás": [
-     11894.25,
-     "https://www.masonline.com.ar/cafe-molido-la-planta-de-cafe-torrado-500-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Cafe Instantaneo Puro X 150 Grs La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/915535/Cafe-Instantaneo-Puro-X-150-Grs-La-Virginia-1-1058721.jpg?v=639148098054670000",
-   "cadena": "Jumbo",
-   "precio": 6400.0,
-   "link": "https://www.jumbo.com.ar/cafe-instantaneo-puro-x-150-grs-la-virginia-2/p",
-   "referencia": 12800.0,
-   "precio_2da": 9284.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 31.1,
-   "score": 1553,
-   "pr": {
-    "Jumbo": [
-     6400.0,
-     "https://www.jumbo.com.ar/cafe-instantaneo-puro-x-150-grs-la-virginia-2/p"
-    ],
-    "ChangoMás": [
-     9284.25,
-     "https://www.masonline.com.ar/cafe-instantaneo-la-virginia-tostado-150-g/p"
-    ],
-    "Carrefour": [
-     11119.0,
-     "https://www.carrefour.com.ar/cafe-tostado-la-virginia-doy-pack-150-grs-758184/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos de maíz ondulados Cheetos sabor ketchup 80 grs",
-   "m": "Cheetos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/904344/7790310988114_E01.jpg?v=639199001705730000",
-   "cadena": "Jumbo",
-   "precio": 2175.0,
-   "link": "https://www.jumbo.com.ar/snacks-ondulados-sabor-ketchup-x-80-grs-cheetos/p",
+   "n": "Suavizante Para ropa Comfort Clásico Cápsulas de Fragancia Doypack 900 ml",
+   "m": "Comfort",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/951015/7791290793682_01.jpg?v=639277751482130000",
+   "cadena": "Carrefour",
+   "precio": 2610.0,
+   "link": "https://www.carrefour.com.ar/suavizante-para-ropa-comfort-clasico-capsulas-de-fragancia-doypack-900-ml-714262/p",
    "referencia": 4350.0,
-   "precio_2da": 3149.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.9,
-   "score": 1547,
+   "precio_2da": 4357.59,
+   "baja_pct": 40.0,
+   "brecha_pct": 40.1,
+   "score": 1604,
    "pr": {
     "Carrefour": [
-     4369.0,
-     "https://www.carrefour.com.ar/palitos-de-maiz-ondulados-cheetos-sabor-ketchup-80-grs-773101/p"
+     2610.0,
+     "https://www.carrefour.com.ar/suavizante-para-ropa-comfort-clasico-capsulas-de-fragancia-doypack-900-ml-714262/p"
     ],
     "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/snacks-ondulados-sabor-ketchup-x-80-grs-cheetos/p"
+     4690.0,
+     "https://www.vea.com.ar/suavizante-para-ropa-clasico-capsulas-de-fragancia-900-ml-doypack-comfort/p"
     ],
     "Jumbo": [
-     2175.0,
-     "https://www.jumbo.com.ar/snacks-ondulados-sabor-ketchup-x-80-grs-cheetos/p"
+     4750.0,
+     "https://www.jumbo.com.ar/suavizante-para-ropa-clasico-capsulas-de-fragancia-900-ml-doypack-comfort/p"
     ],
     "Comodín": [
-     4153.79,
-     "https://www.comodinencasa.com.ar/cheetos-ondulados-ketchup-80gr/p"
-    ],
-    "ChangoMás": [
-     3149.25,
-     "https://www.masonline.com.ar/snack-de-maiz-cheetos-sabor-ketchup-80-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Snack Ondulados Sabor Queso Crema 85 Grs Cheetos",
-   "m": "CHEETOS",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/837879/Cheetos-Ondulados-Queso-Crema-Ondulados-Queso-Crema-X-85-Gr-Cheetos-1-1011562.jpg?v=638647978329700000",
-   "cadena": "Jumbo",
-   "precio": 2175.0,
-   "link": "https://www.jumbo.com.ar/ondulados-queso-crema-x-85-gr-cheetos/p",
-   "referencia": 4350.0,
-   "precio_2da": 3149.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.9,
-   "score": 1547,
-   "pr": {
-    "Vea": [
-     4290.0,
-     "https://www.vea.com.ar/ondulados-queso-crema-x-85-gr-cheetos/p"
-    ],
-    "Jumbo": [
-     2175.0,
-     "https://www.jumbo.com.ar/ondulados-queso-crema-x-85-gr-cheetos/p"
-    ],
-    "Carrefour": [
-     4290.0,
-     "https://www.carrefour.com.ar/chizitos-cheetos-ondulados-queso-crema-85-grs-735819/p"
-    ],
-    "ChangoMás": [
-     3149.25,
-     "https://www.masonline.com.ar/cheetos-ondulados-sabor-queso-crema-85-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Palitos Salados Sabor Panceta 120 Grs Pep",
-   "m": "PEP",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/826792/Palitos-salados-sabor-panceta-Pep-x-120-Gr-Palitos-Salados-Sabor-Panceta-Pep-X-120-Gr-1-859466.jpg?v=638556933683070000",
-   "cadena": "Jumbo",
-   "precio": 1975.0,
-   "link": "https://www.jumbo.com.ar/palitos-salados-pep-panceta-120-g/p",
-   "referencia": 3950.0,
-   "precio_2da": 2849.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.7,
-   "score": 1534,
-   "pr": {
-    "Vea": [
-     3890.0,
-     "https://www.vea.com.ar/palitos-salados-pep-panceta-120-g/p"
-    ],
-    "Jumbo": [
-     1975.0,
-     "https://www.jumbo.com.ar/palitos-salados-pep-panceta-120-g/p"
-    ],
-    "Comodín": [
-     3842.79,
-     "https://www.comodinencasa.com.ar/palitos-pep-120-gr/p"
-    ],
-    "ChangoMás": [
-     2849.25,
-     "https://www.masonline.com.ar/palitos-pep-comun-120-gr-2/p"
-    ],
-    "Carrefour": [
-     3700.0,
-     "https://www.carrefour.com.ar/palitos-salados-sabor-pancetabolsa-pep-120-g-676527/p"
-    ]
-   }
-  },
-  {
-   "n": "Café tostado molido Morenita 250 grs",
-   "m": "Morenita",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/628765/7790170902503_01.jpg?v=638762040075600000",
-   "cadena": "Jumbo",
-   "precio": 4775.0,
-   "link": "https://www.jumbo.com.ar/cafe-tostado-molido-puro-x-250-grs-morenita/p",
-   "referencia": 9550.0,
-   "precio_2da": 6884.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.6,
-   "score": 1532,
-   "pr": {
-    "Carrefour": [
-     9549.0,
-     "https://www.carrefour.com.ar/cafe-tostado-molido-morenita-250-grs-758186/p"
-    ],
-    "Vea": [
-     9290.0,
-     "https://www.vea.com.ar/cafe-tostado-molido-puro-x-250-grs-morenita/p"
-    ],
-    "Jumbo": [
-     4775.0,
-     "https://www.jumbo.com.ar/cafe-tostado-molido-puro-x-250-grs-morenita/p"
-    ],
-    "Comodín": [
-     9735.49,
-     "https://www.comodinencasa.com.ar/cafe-la-morenita-molido-tosta-mas-250gr/p"
-    ],
-    "ChangoMás": [
-     6884.25,
-     "https://www.masonline.com.ar/cafe-molido-la-morenita-tostado-250-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Maní Crocante Sabor Pizza 80 Grs King",
-   "m": "KING",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/869148/Mani-Sabor-Pizzamani-King-80-Gr-1-853320.jpg?v=638840434040100000",
-   "cadena": "Jumbo",
-   "precio": 975.0,
-   "link": "https://www.jumbo.com.ar/mani-sabor-pizzamani-king-80-gr/p",
-   "referencia": 1950.0,
-   "precio_2da": 1401.75,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.4,
-   "score": 1522,
-   "pr": {
-    "Vea": [
-     1890.0,
-     "https://www.vea.com.ar/mani-sabor-pizzamani-king-80-gr/p"
-    ],
-    "Jumbo": [
-     975.0,
-     "https://www.jumbo.com.ar/mani-sabor-pizzamani-king-80-gr/p"
-    ],
-    "Comodín": [
-     1647.0,
-     "https://www.comodinencasa.com.ar/mani-crocante-mani-king-pizza-80gr/p"
-    ],
-    "ChangoMás": [
-     1401.75,
-     "https://www.masonline.com.ar/mani-crocante-sabor-pizza-king-con-cobertura-80-gr-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Capsulas Intenso La Virginia 52 Gr",
-   "m": "LA VIRGINIA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/895848/Caf-Capsulas-Intenso-La-Virginia-52-Gr-1-886792.jpg?v=639046065838500000",
-   "cadena": "Jumbo",
-   "precio": 5050.0,
-   "link": "https://www.jumbo.com.ar/cafe-capsulas-intenso-la-virginia-52-gr/p",
-   "referencia": 10100.0,
-   "precio_2da": 7244.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.3,
-   "score": 1514,
-   "pr": {
-    "Vea": [
-     9690.0,
-     "https://www.vea.com.ar/cafe-capsulas-intenso-la-virginia-52-gr/p"
-    ],
-    "Jumbo": [
-     5050.0,
-     "https://www.jumbo.com.ar/cafe-capsulas-intenso-la-virginia-52-gr/p"
-    ],
-    "ChangoMás": [
-     7244.25,
-     "https://www.masonline.com.ar/cafe-en-capsulas-inten-la-virginia-10-un-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Café En Cápsulas Equilibrado 52 Grs x 10 Un La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/895847/Caf-En-Capsulas-Equilibrio-La-Virginia-52-Gr-1-886791.jpg?v=639244894048870000",
-   "cadena": "Jumbo",
-   "precio": 5050.0,
-   "link": "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p",
-   "referencia": 10100.0,
-   "precio_2da": 7244.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.3,
-   "score": 1514,
-   "pr": {
-    "Jumbo": [
-     5050.0,
-     "https://www.jumbo.com.ar/cafe-en-capsulas-equilibrio-la-virginia-52-gr/p"
-    ],
-    "ChangoMás": [
-     7244.25,
-     "https://www.masonline.com.ar/cafe-en-capsulas-equil-la-virginia-10-un-2/p"
-    ],
-    "Carrefour": [
-     9659.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-equilibrado-caja-x-10-uni-693818/p"
-    ]
-   }
-  },
-  {
-   "n": "Café Cápsulas Sutil Intensidad 5 52 Grs x 10 Un Nespresso La Virginia",
-   "m": "LA VIRGINIA",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/895846/Cafe-En-C-psulas-Sutil-La-Virginia-52-Gr-1-886788.jpg?v=639046065825370000",
-   "cadena": "Jumbo",
-   "precio": 5050.0,
-   "link": "https://www.jumbo.com.ar/cafe-en-capsulas-sutil-la-virginia-52-gr/p",
-   "referencia": 10100.0,
-   "precio_2da": 7244.25,
-   "baja_pct": 50.0,
-   "brecha_pct": 30.3,
-   "score": 1514,
-   "pr": {
-    "Jumbo": [
-     5050.0,
-     "https://www.jumbo.com.ar/cafe-en-capsulas-sutil-la-virginia-52-gr/p"
-    ],
-    "ChangoMás": [
-     7244.25,
-     "https://www.masonline.com.ar/cafe-en-capsulas-sutil-la-virginia-10-un-2/p"
-    ],
-    "Carrefour": [
-     9659.0,
-     "https://www.carrefour.com.ar/capsulas-de-cafe-la-virginia-sutil-caja-x-10-uni-693817/p"
+     4357.59,
+     "https://www.comodinencasa.com.ar/suavizante-comfort-classic-dp-900ml/p"
     ]
    }
   },
@@ -2566,6 +457,33 @@
     "ChangoMás": [
      8669.0,
      "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nachos Tostitos sabor hierbas y limón 90 grs",
+   "m": "Tostitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921413/7790310988466_E01.jpg?v=639238038807400000",
+   "cadena": "Carrefour",
+   "precio": 2405.4,
+   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-90-grs-785167/p",
+   "referencia": 4009.0,
+   "precio_2da": 3849.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1500,
+   "pr": {
+    "Carrefour": [
+     2405.4,
+     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-90-grs-785167/p"
+    ],
+    "Jumbo": [
+     4150.0,
+     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-90grs-tostitos/p"
+    ],
+    "ChangoMás": [
+     3849.0,
+     "https://www.masonline.com.ar/nachos-tostitos-hierbas-y-limon-90g/p"
     ]
    }
   }
