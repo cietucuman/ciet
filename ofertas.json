@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-25",
- "actualizado": "2026-11-25 19:51",
+ "fecha": "2026-11-26",
+ "actualizado": "2026-11-26 18:42",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -9,7 +9,6 @@
   "ventana_dias": 7
  },
  "dias_historia": [
-  "2026-11-15",
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
@@ -19,9 +18,10 @@
   "2026-11-22",
   "2026-11-23",
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
- "total": 20,
+ "total": 15,
  "ofertas": [
   {
    "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
@@ -39,6 +39,10 @@
     "Carrefour": [
      4120.0,
      "https://www.carrefour.com.ar/bebida-isotonica-gatorade-manzana-125-lts-449903/p"
+    ],
+    "Vea": [
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-manzana-1-25lt/p"
     ],
     "Jumbo": [
      4360.0,
@@ -66,6 +70,10 @@
     "Carrefour": [
      4120.0,
      "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
+    ],
+    "Vea": [
+     4312.0,
+     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
     ],
     "Jumbo": [
      4360.0,
@@ -140,41 +148,6 @@
    }
   },
   {
-   "n": "Jugo en Polvo Clight Naranja 8 grs",
-   "m": "Clight",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814693/7622201703110_E01.jpg?v=639082500363700000",
-   "cadena": "Carrefour",
-   "precio": 280.0,
-   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p",
-   "referencia": 560.0,
-   "precio_2da": 540.0,
-   "baja_pct": 50.0,
-   "brecha_pct": 48.1,
-   "score": 2407,
-   "pr": {
-    "Carrefour": [
-     280.0,
-     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p"
-    ],
-    "Vea": [
-     540.0,
-     "https://www.vea.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
-    ],
-    "Jumbo": [
-     552.0,
-     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
-    ],
-    "Comodín": [
-     555.39,
-     "https://www.comodinencasa.com.ar/jugo-clight-naranja-x-8-gr/p"
-    ],
-    "ChangoMás": [
-     549.0,
-     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p"
-    ]
-   }
-  },
-  {
    "n": "Jugo en Polvo Clight Limonada Maracuyá 7,5 grs",
    "m": "Clight",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814724/7622201733834_E01.jpg?v=639082502922730000",
@@ -202,33 +175,6 @@
     "ChangoMás": [
      549.0,
      "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-limonada-maracuya-7-5-g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Galletitas de chocolate Macucas 110 g.",
-   "m": "Macucas",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924229/7790040145337_E02.jpg?v=639240596275030000",
-   "cadena": "Carrefour",
-   "precio": 715.0,
-   "link": "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p",
-   "referencia": 1280.0,
-   "precio_2da": 1290.0,
-   "baja_pct": 44.1,
-   "brecha_pct": 44.6,
-   "score": 1968,
-   "pr": {
-    "Carrefour": [
-     715.0,
-     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p"
-    ],
-    "Vea": [
-     1290.0,
-     "https://www.vea.com.ar/galletitas-macucas-rellenas-110g/p"
-    ],
-    "Jumbo": [
-     1300.0,
-     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p"
     ]
    }
   },
@@ -322,64 +268,6 @@
    }
   },
   {
-   "n": "Vino tinto Malbec Alaris 750 ml",
-   "m": "Alaris",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/185274/7790240017045_01.jpg?v=637468594536970000",
-   "cadena": "ChangoMás",
-   "precio": 3499.0,
-   "link": "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p",
-   "referencia": 5909.0,
-   "precio_2da": 5910.0,
-   "baja_pct": 40.8,
-   "brecha_pct": 40.8,
-   "score": 1664,
-   "pr": {
-    "Carrefour": [
-     5910.0,
-     "https://www.carrefour.com.ar/vino-tinto-malbec-alaris-750-cc/p"
-    ],
-    "Vea": [
-     5990.0,
-     "https://www.vea.com.ar/vino-tinto-alaris-malbec-750-cc/p"
-    ],
-    "Jumbo": [
-     6200.0,
-     "https://www.jumbo.com.ar/vino-tinto-alaris-malbec-750-cc/p"
-    ],
-    "ChangoMás": [
-     3499.0,
-     "https://www.masonline.com.ar/vino-malbec-trapiche-alaris-750-cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Pizza Sibarita Mozzarella Xl X680g",
-   "m": "SIBARITA",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/923132/7790070040022.jpg?v=639214548232270000",
-   "cadena": "Vea",
-   "precio": 10494.0,
-   "link": "https://www.vea.com.ar/pizza-sibarita-mozzarella-xl-x680g/p",
-   "referencia": 17490.0,
-   "precio_2da": 17600.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 40.4,
-   "score": 1615,
-   "pr": {
-    "Vea": [
-     10494.0,
-     "https://www.vea.com.ar/pizza-sibarita-mozzarella-xl-x680g/p"
-    ],
-    "Carrefour": [
-     17600.0,
-     "https://www.carrefour.com.ar/pizza-xl-de-muzzarella-sibarita-en-caja-680-grs-752707/p"
-    ],
-    "ChangoMás": [
-     17639.0,
-     "https://www.masonline.com.ar/pizza-a-la-piedra-sibarita-mozzarella-680-g-1u-2/p"
-    ]
-   }
-  },
-  {
    "n": "Suavizante Para ropa Comfort Clásico Cápsulas de Fragancia Doypack 900 ml",
    "m": "Comfort",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/951015/7791290793682_01.jpg?v=639277751482130000",
@@ -411,83 +299,118 @@
    }
   },
   {
-   "n": "Acondicionador Fructis Hair Food Coco 300 ml",
-   "m": "Fructis",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922480/7509552874129_01.jpg?v=639239506320830000",
+   "n": "Jugo en Polvo Clight Naranja 8 grs",
+   "m": "Clight",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/814693/7622201703110_E01.jpg?v=639082500363700000",
    "cadena": "Carrefour",
-   "precio": 7554.0,
-   "link": "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-coco-300-ml-710944/p",
-   "referencia": 12590.0,
-   "precio_2da": 12519.59,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.7,
-   "score": 1587,
+   "precio": 280.0,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p",
+   "referencia": 416.67,
+   "precio_2da": 540.0,
+   "baja_pct": 32.8,
+   "brecha_pct": 48.1,
+   "score": 1579,
    "pr": {
     "Carrefour": [
-     7554.0,
-     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-coco-300-ml-710944/p"
+     280.0,
+     "https://www.carrefour.com.ar/jugo-en-polvo-clight-naranja-8-grs-711438/p"
     ],
-    "Comodín": [
-     12519.59,
-     "https://www.comodinencasa.com.ar/acondicionador-fructis-h-f-coco-300ml/p"
-    ],
-    "ChangoMás": [
-     12589.0,
-     "https://www.masonline.com.ar/fru-hair-food-fructis-coco-acondicionador-300ml-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Mix Tartas Brocoli Zanahoria y Cebolla x 500 Grs GREEN LIFE",
-   "m": "GREEN LIFE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/922458/901157-800-auto.jpg?v=639203418562500000",
-   "cadena": "Jumbo",
-   "precio": 5040.0,
-   "link": "https://www.jumbo.com.ar/mix-tartas-green-life-brocoli-x-500-gr/p",
-   "referencia": 8400.0,
-   "precio_2da": 8339.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.6,
-   "score": 1582,
-   "pr": {
-    "Jumbo": [
-     5040.0,
-     "https://www.jumbo.com.ar/mix-tartas-green-life-brocoli-x-500-gr/p"
-    ],
-    "Comodín": [
-     8382.98,
-     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-ac-es-ce-pi-500gr/p"
-    ],
-    "ChangoMás": [
-     8339.0,
-     "https://www.masonline.com.ar/mix-para-tarta-green-life-brocoli-zanahoria-cebolla-500-g/p"
-    ]
-   }
-  },
-  {
-   "n": "Aceitunas Verdes en Rodajas 90 Grs Nucete",
-   "m": "NUCETE",
-   "i": "https://veaargentina.vtexassets.com/arquivos/ids/868201/Aceitunas-Verdes-Rodajas-Nucete-90gr-1-1037794.jpg?v=638832873758100000",
-   "cadena": "Jumbo",
-   "precio": 1290.0,
-   "link": "https://www.jumbo.com.ar/aceitunas-verdes-rodajas-x-100-gr-nucete/p",
-   "referencia": 2150.0,
-   "precio_2da": 2099.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 38.5,
-   "score": 1542,
-   "pr": {
     "Vea": [
-     2190.0,
-     "https://www.vea.com.ar/aceitunas-verdes-rodajas-x-100-gr-nucete/p"
+     540.0,
+     "https://www.vea.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
     ],
     "Jumbo": [
-     1290.0,
-     "https://www.jumbo.com.ar/aceitunas-verdes-rodajas-x-100-gr-nucete/p"
+     552.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-naranja-8-grs-clight/p"
+    ],
+    "Comodín": [
+     555.39,
+     "https://www.comodinencasa.com.ar/jugo-clight-naranja-x-8-gr/p"
     ],
     "ChangoMás": [
-     2099.0,
-     "https://www.masonline.com.ar/aceitunas-verdes-nucete-en-rodajas-90g/p"
+     549.0,
+     "https://www.masonline.com.ar/jugo-en-polvo-clight-sabor-naranja-7-5g-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Galletitas de chocolate Macucas 110 g.",
+   "m": "Macucas",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/924229/7790040145337_E02.jpg?v=639240596275030000",
+   "cadena": "Carrefour",
+   "precio": 715.0,
+   "link": "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p",
+   "referencia": 1100.0,
+   "precio_2da": 1290.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.6,
+   "score": 1560,
+   "pr": {
+    "Carrefour": [
+     715.0,
+     "https://www.carrefour.com.ar/galletitas-de-chocolate-macucas-110-g-744853/p"
+    ],
+    "Vea": [
+     1290.0,
+     "https://www.vea.com.ar/galletitas-macucas-rellenas-110g/p"
+    ],
+    "Jumbo": [
+     1300.0,
+     "https://www.jumbo.com.ar/galletitas-macucas-rellenas-110g/p"
+    ]
+   }
+  },
+  {
+   "n": "Whisky Jameson importado caskmates ipa 700 cc.",
+   "m": "Jameson",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/823373/5011007025960_01.jpg?v=639083182058470000",
+   "cadena": "Jumbo",
+   "precio": 33660.0,
+   "link": "https://www.jumbo.com.ar/whisky-jameson-caskmates-ipa-700-ml/p",
+   "referencia": 56100.0,
+   "precio_2da": 54490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1529,
+   "pr": {
+    "Carrefour": [
+     54500.0,
+     "https://www.carrefour.com.ar/whisky-jameson-importado-caskmates-ipa-700-cc-695521/p"
+    ],
+    "Vea": [
+     54490.0,
+     "https://www.vea.com.ar/whisky-jameson-caskmates-ipa-700-ml/p"
+    ],
+    "Jumbo": [
+     33660.0,
+     "https://www.jumbo.com.ar/whisky-jameson-caskmates-ipa-700-ml/p"
+    ]
+   }
+  },
+  {
+   "n": "Whisky Jameson importado 6 años botella 700 cc.",
+   "m": "Jameson",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821019/5011007003005_01.jpg?v=639083181322730000",
+   "cadena": "Jumbo",
+   "precio": 27600.0,
+   "link": "https://www.jumbo.com.ar/whisky-jameson-700-ml/p",
+   "referencia": 46000.0,
+   "precio_2da": 44490.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.0,
+   "score": 1519,
+   "pr": {
+    "Carrefour": [
+     44500.0,
+     "https://www.carrefour.com.ar/whisky-jameson-importado-6-anos-botella-700-cc-695519/p"
+    ],
+    "Vea": [
+     44490.0,
+     "https://www.vea.com.ar/whisky-jameson-700-ml/p"
+    ],
+    "Jumbo": [
+     27600.0,
+     "https://www.jumbo.com.ar/whisky-jameson-700-ml/p"
     ]
    }
   },
@@ -519,87 +442,33 @@
    }
   },
   {
-   "n": "Vino Don David Reserva Cabernet x750Cc",
-   "m": "Don David",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
-   "cadena": "ChangoMás",
-   "precio": 8669.0,
-   "link": "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p",
-   "referencia": 15779.0,
-   "precio_2da": 13017.69,
-   "baja_pct": 45.1,
-   "brecha_pct": 33.4,
-   "score": 1505,
-   "pr": {
-    "Comodín": [
-     13017.69,
-     "https://www.comodinencasa.com.ar/vino-don-david-reserva-cabernet-x750cc/p"
-    ],
-    "Carrefour": [
-     15939.0,
-     "https://www.carrefour.com.ar/vino-tinto-cabernet-sauvignon-don-david-reserva-750-cc/p"
-    ],
-    "ChangoMás": [
-     8669.0,
-     "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
-   "m": "Tostitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
+   "n": "Desodorante Antitranspirante Clinical 150 Ml Dove",
+   "m": "DOVE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/793443/Deo-Dove-Clinical-150ml-1-994493.jpg?v=638303133730170000",
    "cadena": "Carrefour",
-   "precio": 3341.4,
-   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p",
-   "referencia": 5569.0,
-   "precio_2da": 5349.0,
+   "precio": 5291.4,
+   "link": "https://www.carrefour.com.ar/antitranspirante-en-aerosol-clinical-dove-femenino-96-hs-150-cc-725427/p",
+   "referencia": 8819.0,
+   "precio_2da": 8490.0,
    "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1501,
+   "brecha_pct": 37.7,
+   "score": 1507,
    "pr": {
-    "Carrefour": [
-     3341.4,
-     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
-    ],
     "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
+     8490.0,
+     "https://www.vea.com.ar/deo-dove-clinical-150ml-2/p"
     ],
     "Jumbo": [
-     5750.0,
-     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
+     8650.0,
+     "https://www.jumbo.com.ar/deo-dove-clinical-150ml-2/p"
     ],
     "ChangoMás": [
-     5349.0,
-     "https://www.masonline.com.ar/nachos-tostitos-hierbas-y-limon-144g/p"
-    ]
-   }
-  },
-  {
-   "n": "Nachos Tostitos sabor hierbas y limón 90 grs",
-   "m": "Tostitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921413/7790310988466_E01.jpg?v=639238038807400000",
-   "cadena": "Carrefour",
-   "precio": 2405.4,
-   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-90-grs-785167/p",
-   "referencia": 4009.0,
-   "precio_2da": 3849.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 37.5,
-   "score": 1500,
-   "pr": {
+     8819.0,
+     "https://www.masonline.com.ar/antitranspirante-original-clinical-dove-150ml-2/p"
+    ],
     "Carrefour": [
-     2405.4,
-     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-90-grs-785167/p"
-    ],
-    "Jumbo": [
-     4150.0,
-     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-90grs-tostitos/p"
-    ],
-    "ChangoMás": [
-     3849.0,
-     "https://www.masonline.com.ar/nachos-tostitos-hierbas-y-limon-90g/p"
+     5291.4,
+     "https://www.carrefour.com.ar/antitranspirante-en-aerosol-clinical-dove-femenino-96-hs-150-cc-725427/p"
     ]
    }
   }
