@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-25",
- "actualizado": "2026-11-25 15:51",
+ "actualizado": "2026-11-25 19:51",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-11-24",
   "2026-11-25"
  ],
- "total": 16,
+ "total": 20,
  "ofertas": [
   {
    "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
@@ -257,6 +257,10 @@
      1099.99,
      "https://www.comodinencasa.com.ar/sal-parrillera-dos-anclas-estuche-x500gr/p"
     ],
+    "ChangoMás": [
+     1549.0,
+     "https://www.masonline.com.ar/sal-entrefina-parrillera-dos-anclas-500-gr-2/p"
+    ],
     "Carrefour": [
      1489.0,
      "https://www.carrefour.com.ar/sal-parrillera-dos-anclas-caja-500-g/p"
@@ -349,33 +353,6 @@
    }
   },
   {
-   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
-   "m": "Tostitos",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
-   "cadena": "Carrefour",
-   "precio": 3341.4,
-   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p",
-   "referencia": 5569.0,
-   "precio_2da": 5690.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 41.3,
-   "score": 1651,
-   "pr": {
-    "Carrefour": [
-     3341.4,
-     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
-    ],
-    "Vea": [
-     5690.0,
-     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
-    ],
-    "Jumbo": [
-     5750.0,
-     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
-    ]
-   }
-  },
-  {
    "n": "Pizza Sibarita Mozzarella Xl X680g",
    "m": "SIBARITA",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/923132/7790070040022.jpg?v=639214548232270000",
@@ -434,6 +411,114 @@
    }
   },
   {
+   "n": "Acondicionador Fructis Hair Food Coco 300 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/922480/7509552874129_01.jpg?v=639239506320830000",
+   "cadena": "Carrefour",
+   "precio": 7554.0,
+   "link": "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-coco-300-ml-710944/p",
+   "referencia": 12590.0,
+   "precio_2da": 12519.59,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.7,
+   "score": 1587,
+   "pr": {
+    "Carrefour": [
+     7554.0,
+     "https://www.carrefour.com.ar/acondicionador-fructis-hair-food-coco-300-ml-710944/p"
+    ],
+    "Comodín": [
+     12519.59,
+     "https://www.comodinencasa.com.ar/acondicionador-fructis-h-f-coco-300ml/p"
+    ],
+    "ChangoMás": [
+     12589.0,
+     "https://www.masonline.com.ar/fru-hair-food-fructis-coco-acondicionador-300ml-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Mix Tartas Brocoli Zanahoria y Cebolla x 500 Grs GREEN LIFE",
+   "m": "GREEN LIFE",
+   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/922458/901157-800-auto.jpg?v=639203418562500000",
+   "cadena": "Jumbo",
+   "precio": 5040.0,
+   "link": "https://www.jumbo.com.ar/mix-tartas-green-life-brocoli-x-500-gr/p",
+   "referencia": 8400.0,
+   "precio_2da": 8339.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 39.6,
+   "score": 1582,
+   "pr": {
+    "Jumbo": [
+     5040.0,
+     "https://www.jumbo.com.ar/mix-tartas-green-life-brocoli-x-500-gr/p"
+    ],
+    "Comodín": [
+     8382.98,
+     "https://www.comodinencasa.com.ar/mix-p-tarta-green-life-ac-es-ce-pi-500gr/p"
+    ],
+    "ChangoMás": [
+     8339.0,
+     "https://www.masonline.com.ar/mix-para-tarta-green-life-brocoli-zanahoria-cebolla-500-g/p"
+    ]
+   }
+  },
+  {
+   "n": "Aceitunas Verdes en Rodajas 90 Grs Nucete",
+   "m": "NUCETE",
+   "i": "https://veaargentina.vtexassets.com/arquivos/ids/868201/Aceitunas-Verdes-Rodajas-Nucete-90gr-1-1037794.jpg?v=638832873758100000",
+   "cadena": "Jumbo",
+   "precio": 1290.0,
+   "link": "https://www.jumbo.com.ar/aceitunas-verdes-rodajas-x-100-gr-nucete/p",
+   "referencia": 2150.0,
+   "precio_2da": 2099.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.5,
+   "score": 1542,
+   "pr": {
+    "Vea": [
+     2190.0,
+     "https://www.vea.com.ar/aceitunas-verdes-rodajas-x-100-gr-nucete/p"
+    ],
+    "Jumbo": [
+     1290.0,
+     "https://www.jumbo.com.ar/aceitunas-verdes-rodajas-x-100-gr-nucete/p"
+    ],
+    "ChangoMás": [
+     2099.0,
+     "https://www.masonline.com.ar/aceitunas-verdes-nucete-en-rodajas-90g/p"
+    ]
+   }
+  },
+  {
+   "n": "Shampoo Fructis Recarga Nutritiva 200 ml",
+   "m": "Fructis",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921558/7509552922288_01.jpg?v=639238663574900000",
+   "cadena": "Carrefour",
+   "precio": 4103.4,
+   "link": "https://www.carrefour.com.ar/shampoo-fructis-recarga-nutritiva-200-ml-728197/p",
+   "referencia": 6839.0,
+   "precio_2da": 6589.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.7,
+   "score": 1509,
+   "pr": {
+    "Carrefour": [
+     4103.4,
+     "https://www.carrefour.com.ar/shampoo-fructis-recarga-nutritiva-200-ml-728197/p"
+    ],
+    "ChangoMás": [
+     6589.0,
+     "https://www.masonline.com.ar/shampoo-fructis-recarga-nutritiva-200ml-2/p"
+    ],
+    "Comodín": [
+     7064.79,
+     "https://www.comodinencasa.com.ar/shampoo-fructis-recarga-nutritiva-200ml/p"
+    ]
+   }
+  },
+  {
    "n": "Vino Don David Reserva Cabernet x750Cc",
    "m": "Don David",
    "i": "https://alberdisa.vteximg.com.br/arquivos/ids/156852/Vino-Don-David-Reserva-Malbec-x-750-Cc.jpg?v=637375296900370000",
@@ -457,6 +542,37 @@
     "ChangoMás": [
      8669.0,
      "https://www.masonline.com.ar/vino-cabernet-sauvignon-reserva-don-david-750cc-2/p"
+    ]
+   }
+  },
+  {
+   "n": "Nachos Tostitos sabor hierbas y limón 144 grs",
+   "m": "Tostitos",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/921412/7790310988473_E01.jpg?v=639238037650330000",
+   "cadena": "Carrefour",
+   "precio": 3341.4,
+   "link": "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p",
+   "referencia": 5569.0,
+   "precio_2da": 5349.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 37.5,
+   "score": 1501,
+   "pr": {
+    "Carrefour": [
+     3341.4,
+     "https://www.carrefour.com.ar/nachos-tostitos-sabor-hierbas-y-limon-144-grs-785168/p"
+    ],
+    "Vea": [
+     5690.0,
+     "https://www.vea.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
+    ],
+    "Jumbo": [
+     5750.0,
+     "https://www.jumbo.com.ar/nachos-round-hierbas-y-limon-144grs-tostitos/p"
+    ],
+    "ChangoMás": [
+     5349.0,
+     "https://www.masonline.com.ar/nachos-tostitos-hierbas-y-limon-144g/p"
     ]
    }
   },
