@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-27",
- "actualizado": "2026-11-27 16:27",
+ "actualizado": "2026-11-27 23:02",
  "regla": {
   "min_cadenas": 3,
   "min_baja_pct": 15.0,
@@ -21,7 +21,7 @@
   "2026-11-26",
   "2026-11-27"
  ],
- "total": 46,
+ "total": 48,
  "ofertas": [
   {
    "n": "Bebida isotónica Gatorade Manzana 1,25 lts",
@@ -55,12 +55,12 @@
    }
   },
   {
-   "n": "Bebida isotónica Gatorade Naranja 1,25 lts",
+   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
    "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372563/7792170110551_E01.jpg?v=638303146069700000",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
    "cadena": "ChangoMás",
    "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p",
+   "link": "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p",
    "referencia": 4119.2,
    "precio_2da": 4120.0,
    "baja_pct": 51.5,
@@ -69,19 +69,19 @@
    "pr": {
     "Carrefour": [
      4120.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-naranja-125-lts-449921/p"
+     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
     ],
     "Vea": [
      4312.0,
-     "https://www.vea.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
     ],
     "Jumbo": [
      4360.0,
-     "https://www.jumbo.com.ar/isotonico-gatorade-naranja-1-25lt/p"
+     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
     ],
     "ChangoMás": [
      1999.0,
-     "https://www.masonline.com.ar/bebida-isotonica-naranja-gatorade-1-25-lt-2/p"
+     "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
     ]
    }
   },
@@ -117,33 +117,29 @@
    }
   },
   {
-   "n": "Bebida isotónica Gatorade Frutas Tropicales 1,25 lts",
-   "m": "Gatorade",
-   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/372564/7792170110568_E01.jpg?v=638303146463630000",
-   "cadena": "ChangoMás",
-   "precio": 1999.0,
-   "link": "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p",
-   "referencia": 4119.2,
-   "precio_2da": 4120.0,
-   "baja_pct": 51.5,
-   "brecha_pct": 51.5,
-   "score": 2650,
+   "n": "Jugo en polvo Arcor de naranja dulce 15 grs",
+   "m": "Arcor",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/817838/7790580143008_E02.jpg?v=639082513859870000",
+   "cadena": "Carrefour",
+   "precio": 194.5,
+   "link": "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p",
+   "referencia": 389.0,
+   "precio_2da": 410.0,
+   "baja_pct": 50.0,
+   "brecha_pct": 52.6,
+   "score": 2628,
    "pr": {
     "Carrefour": [
-     4120.0,
-     "https://www.carrefour.com.ar/bebida-isotonica-gatorade-frutas-tropicales-125-lts-449924/p"
+     194.5,
+     "https://www.carrefour.com.ar/jugo-en-polvo-arcor-de-naranja-dulce-15-grs-750884/p"
     ],
     "Vea": [
-     4312.0,
-     "https://www.vea.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
+     410.0,
+     "https://www.vea.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
     ],
     "Jumbo": [
-     4360.0,
-     "https://www.jumbo.com.ar/isotonico-gatorade-frutas-tropica-1-25lt/p"
-    ],
-    "ChangoMás": [
-     1999.0,
-     "https://www.masonline.com.ar/bebida-isotonica-gatorade-frutas-tropicales-1-25lt-2/p"
+     500.0,
+     "https://www.jumbo.com.ar/jugo-en-polvo-arcor-naranja-dulce-x-15-gr/p"
     ]
    }
   },
@@ -566,6 +562,37 @@
    }
   },
   {
+   "n": "Shampoo Elvive Colorvive 200 ml",
+   "m": "Elvive",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/975654/7509552815269_01.jpg?v=639288848920700000",
+   "cadena": "Carrefour",
+   "precio": 5393.4,
+   "link": "https://www.carrefour.com.ar/shampoo-elvive-colorvive-200-ml-709950/p",
+   "referencia": 8989.0,
+   "precio_2da": 9250.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 41.7,
+   "score": 1668,
+   "pr": {
+    "Carrefour": [
+     5393.4,
+     "https://www.carrefour.com.ar/shampoo-elvive-colorvive-200-ml-709950/p"
+    ],
+    "Jumbo": [
+     9250.0,
+     "https://www.jumbo.com.ar/shampoo-elvive-colorvive-200-ml/p"
+    ],
+    "Comodín": [
+     10087.99,
+     "https://www.comodinencasa.com.ar/shampoo-elvive-color-vive-purple-200ml/p"
+    ],
+    "ChangoMás": [
+     9349.0,
+     "https://www.masonline.com.ar/shampoo-elvive-color-vive-purple-200ml-2/p"
+    ]
+   }
+  },
+  {
    "n": "Oral B sensitive indicator extra soft cepillos dentales 2 uni",
    "m": "Oral B",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/365455/7500435170987_02.jpg?v=638271808994670000",
@@ -729,40 +756,13 @@
      6590.0,
      "https://www.vea.com.ar/chocolate-con-leche-80-grs-nestle/p"
     ],
-    "Carrefour": [
-     6600.0,
-     "https://www.carrefour.com.ar/tableta-de-chocolate-con-leche-nestle-suave-y-cremoso-80-grs-778393/p"
-    ],
     "ChangoMás": [
      3959.4,
      "https://www.masonline.com.ar/tableta-nestle-classic-leche-80g-2/p"
-    ]
-   }
-  },
-  {
-   "n": "Shampoo Dove Uv Repair 200Ml",
-   "m": "Dove",
-   "i": "https://alberdisa.vteximg.com.br/arquivos/ids/183856/23679.jpg?v=639256265610170000",
-   "cadena": "Carrefour",
-   "precio": 3594.0,
-   "link": "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p",
-   "referencia": 5990.0,
-   "precio_2da": 5979.0,
-   "baja_pct": 40.0,
-   "brecha_pct": 39.9,
-   "score": 1596,
-   "pr": {
-    "Comodín": [
-     6790.19,
-     "https://www.comodinencasa.com.ar/shampoo-dove-uv-repair-200ml/p"
     ],
     "Carrefour": [
-     3594.0,
-     "https://www.carrefour.com.ar/shampoo-dove-uv-repair-glow-200-ml-768590/p"
-    ],
-    "ChangoMás": [
-     5979.0,
-     "https://www.masonline.com.ar/shampoo-dove-uv-repair-glow-200-ml/p"
+     6600.0,
+     "https://www.carrefour.com.ar/tableta-de-chocolate-con-leche-nestle-suave-y-cremoso-80-grs-778393/p"
     ]
    }
   },
@@ -991,6 +991,33 @@
    }
   },
   {
+   "n": "Yerba mate CBSé con hierbas serranas 550 grs",
+   "m": "CBSé",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/871589/7790710334818_02.jpg?v=639141067566500000",
+   "cadena": "Vea",
+   "precio": 1423.5,
+   "link": "https://www.vea.com.ar/yerba-cbse-hierbas-serranas-550gr/p",
+   "referencia": 2190.0,
+   "precio_2da": 2550.0,
+   "baja_pct": 35.0,
+   "brecha_pct": 44.2,
+   "score": 1546,
+   "pr": {
+    "Carrefour": [
+     2590.0,
+     "https://www.carrefour.com.ar/yerba-mate-cbse-con-hierbas-serranas-550-grs-778796/p"
+    ],
+    "Vea": [
+     1423.5,
+     "https://www.vea.com.ar/yerba-cbse-hierbas-serranas-550gr/p"
+    ],
+    "Jumbo": [
+     2550.0,
+     "https://www.jumbo.com.ar/yerba-cbse-hierbas-serranas-550gr/p"
+    ]
+   }
+  },
+  {
    "n": "Aceitunas Verdes en Rodajas 90 Grs Nucete",
    "m": "NUCETE",
    "i": "https://veaargentina.vtexassets.com/arquivos/ids/868201/Aceitunas-Verdes-Rodajas-Nucete-90gr-1-1037794.jpg?v=638832873758100000",
@@ -1138,6 +1165,33 @@
    }
   },
   {
+   "n": "Infusión a base de café Arlistan en frasco 100 g.",
+   "m": "Arlistan",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/914087/7790070933645_01.jpg?v=639222249247900000",
+   "cadena": "Jumbo",
+   "precio": 4260.0,
+   "link": "https://www.jumbo.com.ar/cafe-suave-mas-aroma-arlistan-100-gr/p",
+   "referencia": 7100.0,
+   "precio_2da": 6890.0,
+   "baja_pct": 40.0,
+   "brecha_pct": 38.2,
+   "score": 1527,
+   "pr": {
+    "Carrefour": [
+     6890.0,
+     "https://www.carrefour.com.ar/infusion-a-base-de-cafe-arlistan-en-frasco-100-g-727996/p"
+    ],
+    "Jumbo": [
+     4260.0,
+     "https://www.jumbo.com.ar/cafe-suave-mas-aroma-arlistan-100-gr/p"
+    ],
+    "ChangoMás": [
+     7179.0,
+     "https://www.masonline.com.ar/cafe-instantaneo-arlistan-100-g-2/p"
+    ]
+   }
+  },
+  {
    "n": "Whisky Jameson importado 6 años botella 700 cc.",
    "m": "Jameson",
    "i": "https://carrefourar.vteximg.com.br/arquivos/ids/821019/5011007003005_01.jpg?v=639083181322730000",
@@ -1254,29 +1308,29 @@
    }
   },
   {
-   "n": "Mascarilla Elvive Rt5 Keratin 300 Gr",
-   "m": "ELVIVE",
-   "i": "https://jumboargentinaio.vtexassets.com/arquivos/ids/792662/Mascarilla-Elvive-Repara-Total-300ml-1-994976.jpg?v=638297949751970000",
-   "cadena": "Carrefour",
-   "precio": 7481.4,
-   "link": "https://www.carrefour.com.ar/mascarilla-elvive-rt5-keratin-300-grs-726156/p",
-   "referencia": 12469.0,
-   "precio_2da": 11989.0,
+   "n": "Copos de maíz Zucaritas azucarados 240 g.",
+   "m": "Kelloggs",
+   "i": "https://carrefourar.vteximg.com.br/arquivos/ids/945754/7896004004921_E02.jpg?v=639271456732970000",
+   "cadena": "Jumbo",
+   "precio": 2220.0,
+   "link": "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-240-gr/p",
+   "referencia": 3700.0,
+   "precio_2da": 3559.0,
    "baja_pct": 40.0,
    "brecha_pct": 37.6,
-   "score": 1504,
+   "score": 1505,
    "pr": {
-    "Jumbo": [
-     13550.0,
-     "https://www.jumbo.com.ar/mascarilla-elvive-rt5-keratin-300-gr/p"
-    ],
     "Carrefour": [
-     7481.4,
-     "https://www.carrefour.com.ar/mascarilla-elvive-rt5-keratin-300-grs-726156/p"
+     3559.0,
+     "https://www.carrefour.com.ar/copos-de-maiz-zucaritas-azucarados-240-g-719204/p"
     ],
-    "ChangoMás": [
-     11989.0,
-     "https://www.masonline.com.ar/tratamiento-capilar-elvive-reparacion-total-5-300ml-2/p"
+    "Jumbo": [
+     2220.0,
+     "https://www.jumbo.com.ar/copos-de-maiz-zucaritas-kelloggs-240-gr/p"
+    ],
+    "Comodín": [
+     3811.69,
+     "https://www.comodinencasa.com.ar/cereal-kelloggs-zucaritas-240gr/p"
     ]
    }
   },
